@@ -2,7 +2,9 @@
 import { Autocomplete, BrokerOption } from "@/components/autocomplete";
 import { Separator } from "@/components/ui/separator";
 import {
+  ArrowDown,
   ArrowLeft,
+  ArrowUp,
   BanknoteArrowDown,
   BanknoteArrowUp,
   PiggyBank,
@@ -695,7 +697,12 @@ function Kalkulator_avarage_view() {
                     color: "#F97316",
                   }}
                 >
-                  ↓ {Math.abs(result?.percentChange || 0)}% dari Rp{" "}
+                  {(result?.percentChange ?? 0) > 0 ? (
+                    <ArrowUp size={16} />
+                  ) : (
+                    <ArrowDown size={16} />
+                  )}{" "}
+                  {Math.abs(result?.percentChange || 0)}% dari Rp{" "}
                   {result?.oldAvg?.toLocaleString("id-ID")}
                 </div>
               </div>
@@ -716,7 +723,10 @@ function Kalkulator_avarage_view() {
                       <p className="text-xs text-neutral-500">Total Buy Lot</p>
 
                       <p className="text-lg font-semibold text-neutral-900">
-                        {formatRupiah((result?.totalLot ?? 0) - (buyLot ?? 0), { prefix: false })} Lot
+                        {formatRupiah((result?.totalLot ?? 0) - (buyLot ?? 0), {
+                          prefix: false,
+                        })}{" "}
+                        Lot
                       </p>
 
                       <p className="text-xs text-neutral-400">

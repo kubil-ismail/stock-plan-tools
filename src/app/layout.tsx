@@ -78,26 +78,25 @@ export default function RootLayout({
                   </span>
                 </button>
               </Link>
-              
+
               <nav className="flex items-center gap-8">
-                <button
-                  // onClick={() => scrollToSection("market-insight")}
-                  className="text-[14px] text-[#8A8682] hover:text-[#F97316] transition-colors cursor-pointer"
-                >
-                  Market & Insight
-                </button>
-                <button
-                  // onClick={() => scrollToSection("tools-simulator")}
-                  className="text-[14px] text-[#8A8682] hover:text-[#F97316] transition-colors cursor-pointer"
-                >
-                  Tools & Simulator
-                </button>
-                <button
-                  // onClick={() => scrollToSection("contact")}
-                  className="text-[14px] text-[#8A8682] hover:text-[#F97316] transition-colors cursor-pointer"
-                >
-                  Contact Us
-                </button>
+                <Link href="/#market-insight">
+                  <button className="text-[14px] text-[#8A8682] hover:text-[#F97316] transition-colors cursor-pointer">
+                    Market & Insight
+                  </button>
+                </Link>
+
+                <Link href="/#tools-simulator">
+                  <button className="text-[14px] text-[#8A8682] hover:text-[#F97316] transition-colors cursor-pointer">
+                    Tools & Simulator
+                  </button>
+                </Link>
+
+                <Link href="/#contact">
+                  <button className="text-[14px] text-[#8A8682] hover:text-[#F97316] transition-colors cursor-pointer">
+                    Contact Us
+                  </button>
+                </Link>
               </nav>
             </div>
           </header>
