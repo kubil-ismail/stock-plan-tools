@@ -708,7 +708,6 @@ function Kalkulator_avarage_view() {
               </div>
 
               {/* GLASS PANEL DETAIL */}
-
               <div
                 className="mt-8 rounded-2xl p-5 border backdrop-blur-sm"
                 style={{
@@ -720,31 +719,66 @@ function Kalkulator_avarage_view() {
                 {simulationType === "BUY" && (
                   <div className="grid grid-cols-2 gap-y-6 gap-x-4">
                     <div>
-                      <p className="text-xs text-neutral-500">Total Buy Lot</p>
+                      <p className="text-xs text-neutral-500">Harga Beli</p>
 
                       <p className="text-lg font-semibold text-neutral-900">
-                        {formatRupiah((result?.totalLot ?? 0) - (buyLot ?? 0), {
-                          prefix: false,
-                        })}{" "}
-                        Lot
-                      </p>
-
-                      <p className="text-xs text-neutral-400">
-                        {formatRupiah(
-                          (result?.totalShare ?? 0) - (buyLot ?? 0) * 100,
-                          { prefix: false }
-                        )}{" "}
-                        Lembar
+                        {formatRupiah(buyPrice ?? 0)}
                       </p>
                     </div>
 
                     <div>
+                      <p className="text-xs text-neutral-500">Lot Beli</p>
+
+                      <div className="flex items-center gap-x-1">
+                        <p className="text-lg font-semibold text-neutral-900">
+                          {formatRupiah(
+                            (result?.totalLot ?? 0) - (buyLot ?? 0),
+                            {
+                              prefix: false,
+                            }
+                          )}{" "}
+                          Lot
+                        </p>
+
+                        <p className="text-xs text-neutral-400">
+                          (
+                          {formatRupiah(
+                            (result?.totalShare ?? 0) - (buyLot ?? 0) * 100,
+                            { prefix: false }
+                          )}{" "}
+                          Lembar)
+                        </p>
+                      </div>
+                    </div>
+
+                    <div>
                       <p className="text-xs text-neutral-500">
-                        Dana Dibutuhkan
+                        Total Lot Setelah pembelian
                       </p>
 
+                      <div className="flex items-center gap-x-1">
+                        <p className="text-lg font-semibold text-neutral-900">
+                          {formatRupiah(result?.totalLot ?? 0, {
+                            prefix: false,
+                          })}{" "}
+                          Lot
+                        </p>
+
+                        <p className="text-xs text-neutral-400">
+                          ({" "}
+                          {formatRupiah(result?.totalShare ?? 0, {
+                            prefix: false,
+                          })}{" "}
+                          Lembar)
+                        </p>
+                      </div>
+                    </div>
+
+                    <div>
+                      <p className="text-xs text-neutral-500">BEP</p>
+
                       <p className="text-lg font-semibold text-neutral-900">
-                        {formatRupiah(result?.buyCost)}
+                        {formatRupiah(result?.bep)}
                       </p>
                     </div>
 
@@ -757,10 +791,12 @@ function Kalkulator_avarage_view() {
                     </div>
 
                     <div>
-                      <p className="text-xs text-neutral-500">Harga BEP</p>
+                      <p className="text-xs text-neutral-500">
+                        Dana Dibutuhkan
+                      </p>
 
                       <p className="text-lg font-semibold text-neutral-900">
-                        {formatRupiah(result?.bep)}
+                        {formatRupiah(result?.buyCost)}
                       </p>
                     </div>
                   </div>
