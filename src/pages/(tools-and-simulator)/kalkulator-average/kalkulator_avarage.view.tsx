@@ -730,7 +730,10 @@ function Kalkulator_avarage_view() {
                       </p>
 
                       <p className="text-xs text-neutral-400">
-                        {formatRupiah(result?.totalShare, { prefix: false })}{" "}
+                        {formatRupiah(
+                          (result?.totalShare ?? 0) - (buyLot ?? 0) * 100,
+                          { prefix: false }
+                        )}{" "}
                         Lembar
                       </p>
                     </div>
