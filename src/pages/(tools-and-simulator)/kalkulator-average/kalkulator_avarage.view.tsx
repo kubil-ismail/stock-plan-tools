@@ -731,21 +731,15 @@ function Kalkulator_avarage_view() {
 
                       <div className="flex items-center gap-x-1">
                         <p className="text-lg font-semibold text-neutral-900">
-                          {formatRupiah(
-                            (result?.totalLot ?? 0) - (buyLot ?? 0),
-                            {
-                              prefix: false,
-                            }
-                          )}{" "}
+                          {formatRupiah(buyLot ?? 0, {
+                            prefix: false,
+                          })}{" "}
                           Lot
                         </p>
 
                         <p className="text-xs text-neutral-400">
                           (
-                          {formatRupiah(
-                            (result?.totalShare ?? 0) - (buyLot ?? 0) * 100,
-                            { prefix: false }
-                          )}{" "}
+                          {formatRupiah((buyLot ?? 0) * 100, { prefix: false })}{" "}
                           Lembar)
                         </p>
                       </div>
