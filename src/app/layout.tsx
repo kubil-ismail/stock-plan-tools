@@ -79,7 +79,7 @@ export default function RootLayout({
                 </button>
               </Link>
 
-              <nav className="flex items-center gap-8">
+              <nav className="flex items-center gap-8 hidden md:flex">
                 <Link href="/#market-insight">
                   <button className="text-[14px] text-[#8A8682] hover:text-[#F97316] transition-colors cursor-pointer">
                     Market & Insight

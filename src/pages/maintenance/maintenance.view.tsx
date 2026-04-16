@@ -1,5 +1,7 @@
 "use client";
-import { Wrench, ArrowLeft, Rocket, Code, Zap } from "lucide-react";
+import { Wrench, ArrowLeft } from "lucide-react";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 interface UnderDevelopmentProps {
   featureName?: string;
@@ -8,6 +10,9 @@ interface UnderDevelopmentProps {
 export default function Maintenance_View({
   featureName = "Fitur",
 }: UnderDevelopmentProps) {
+  const pathname = usePathname();
+  const get_pathname = pathname?.replace("/", "")?.split("-").join(" ");
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#F8F9FA] via-[#FFF4ED] to-[#F8F9FA] flex items-center justify-center px-6 py-12">
       <div className="max-w-2xl w-full">
@@ -36,7 +41,9 @@ export default function Maintenance_View({
               Sedang Kami Kembangkan
             </h1>
             <div className="inline-block bg-gradient-to-r from-[#F97316] to-[#EA580C] text-white px-6 py-2 rounded-full mb-6">
-              <span className="text-[16px] font-bold">{featureName}</span>
+              <span className="text-[16px] font-bold">
+                {featureName} {get_pathname}
+              </span>
             </div>
             <p className="text-[18px] text-[#8A8682] leading-relaxed mb-6">
               Kami sedang bekerja keras untuk menghadirkan fitur terbaik untuk
@@ -46,10 +53,12 @@ export default function Maintenance_View({
           </div>
 
           {/* Back Button */}
-          <button className="w-full bg-[#F97316] hover:bg-[#EA580C] text-white py-4 rounded-xl font-bold text-[16px] transition-colors flex items-center justify-center gap-2 group">
-            <ArrowLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform" />
-            Kembali ke Beranda
-          </button>
+          <Link href="/">
+            <button className="w-full bg-[#F97316] hover:bg-[#EA580C] text-white py-4 rounded-xl font-bold text-[16px] transition-colors flex items-center justify-center gap-2 group">
+              <ArrowLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform" />
+              Kembali ke Beranda
+            </button>
+          </Link>
         </div>
 
         {/* Bottom Text */}
