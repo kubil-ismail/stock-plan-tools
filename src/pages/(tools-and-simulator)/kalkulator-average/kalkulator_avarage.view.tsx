@@ -331,7 +331,7 @@ function Kalkulator_avarage_view() {
                       placeholder="Pilih saham anda..."
                     />
                   </div>
-                  <div>
+                  <div className="col-span-2 md:col-span-1">
                     <label className="mb-2 block uppercase text-[12px]">
                       Harga Rata-Rata
                     </label>
@@ -347,7 +347,7 @@ function Kalkulator_avarage_view() {
                     </p>
                   </div>
 
-                  <div>
+                  <div className="col-span-2 md:col-span-1">
                     <label className="mb-2 block uppercase text-[12px]">
                       Total Lot Saat Ini
                     </label>
