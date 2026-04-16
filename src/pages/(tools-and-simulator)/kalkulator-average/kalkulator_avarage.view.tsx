@@ -70,6 +70,7 @@ type ResultData = {
 
   totalLot: number;
   totalShare: number;
+  totalCost: number;
 
   buyCost: number;
   brokerFee: number;
@@ -139,6 +140,7 @@ function Kalkulator_avarage_view() {
     if (!selectedBroker) return;
 
     const BUY_FEE = selectedBroker.buyFee! / 100;
+    const SELL_FEE = selectedBroker.sellFee! / 100;
 
     /*
   ======================
@@ -149,48 +151,81 @@ function Kalkulator_avarage_view() {
     if (simulationType === "BUY") {
       if (!avgPrice || !totalLot || !buyPrice || !buyLot) return;
 
-      const oldShare = totalLot * 100;
+      const to2Decimal = (n: number) => Math.floor(n * 100) / 100; // sesuai preferensi lo: tidak dibulatkan ke atas
 
+      const SHARES_PER_LOT = 100;
+
+      const oldShare = totalLot * SHARES_PER_LOT;
+
+      /**
+       * IMPORTANT:
+       * pakai totalAmount asli kalau ada
+       * jangan reverse dari avgPrice
+       */
       const oldCost = oldShare * avgPrice;
 
-      const newShare = buyLot * 100;
+      const newShare = buyLot * SHARES_PER_LOT;
 
+      /**
+       * BUY COST
+       */
       const buyCost = newShare * buyPrice;
 
+      /**
+       * FEE
+       */
       const brokerFee = buyCost * BUY_FEE;
 
+      /**
+       * NET BUY
+       */
       const totalBuyCost = buyCost + brokerFee;
 
+      /**
+       * TOTAL
+       */
       const totalShare = oldShare + newShare;
 
       const totalCost = oldCost + totalBuyCost;
 
+      /**
+       * NEW AVG
+       */
       const newAvg = totalCost / totalShare;
 
+      /**
+       * PERCENT CHANGE
+       */
       const percentChange = ((newAvg - avgPrice) / avgPrice) * 100;
 
-      const bep = newAvg / (1 - BUY_FEE);
+      /**
+       * BEP (kalau jual kena fee)
+       */
+
+      const bep = newAvg / (1 - SELL_FEE);
 
       setResult({
         stockCode: selectedStock?.code || "",
 
-        newAvg: Math.round(newAvg),
+        newAvg: to2Decimal(newAvg),
 
-        oldAvg: avgPrice,
+        oldAvg: to2Decimal(avgPrice),
 
-        percentChange: Number(percentChange.toFixed(2)),
+        percentChange: to2Decimal(percentChange),
 
-        totalLot: newShare / 100,
+        totalLot: totalShare / SHARES_PER_LOT,
 
-        totalShare: newShare,
+        totalShare,
 
-        buyCost: Math.round(buyCost),
+        buyCost: to2Decimal(buyCost),
 
-        brokerFee: Math.round(brokerFee),
+        brokerFee: to2Decimal(brokerFee),
 
-        totalNet: Math.round(totalBuyCost),
+        totalNet: to2Decimal(totalBuyCost),
 
-        bep: Math.round(bep),
+        totalCost: to2Decimal(totalCost),
+
+        bep: bep,
       });
 
       setCurrentStep("step-2");
@@ -678,10 +713,10 @@ function Kalkulator_avarage_view() {
                 {simulationType === "BUY" && (
                   <div className="grid grid-cols-2 gap-y-6 gap-x-4">
                     <div>
-                      <p className="text-xs text-neutral-500">Total Lot</p>
+                      <p className="text-xs text-neutral-500">Total Buy Lot</p>
 
                       <p className="text-lg font-semibold text-neutral-900">
-                        {formatRupiah(result?.totalLot, { prefix: false })} Lot
+                        {formatRupiah((result?.totalLot ?? 0) - (buyLot ?? 0), { prefix: false })} Lot
                       </p>
 
                       <p className="text-xs text-neutral-400">
