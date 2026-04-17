@@ -260,8 +260,12 @@ function Kalkulator_avarage_view() {
   }, [avgPrice, buyTarget]);
 
   return (
-    <div className=" bg-gradient-to-br from-[#F8F9FA] via-[#FFF4ED] to-[#F8F9FA] flex items-center justify-center px-2 md:px-6 py-12">
-      <div className="max-w-xl w-full">
+    <div className="relative min-h-screen py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9] flex items-center justify-center">
+      <div className="absolute w-72 h-72 bg-orange-300/30 rounded-full blur-3xl top-[-80px] left-[-80px]" />
+
+      <div className="absolute w-72 h-72 bg-blue-300/30 rounded-full blur-3xl bottom-[-80px] right-[-80px]" />
+
+      <div className="max-w-xl w-full relative">
         {currentStep === "step-1" && (
           <Fragment>
             <div className="bg-white rounded-3xl p-8 border border-[#E5E7EB] shadow-xl">
