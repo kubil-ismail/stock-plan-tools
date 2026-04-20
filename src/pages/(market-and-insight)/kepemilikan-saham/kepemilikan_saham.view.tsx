@@ -147,9 +147,16 @@ function Kepemilikan_saham() {
             />
           </div>
 
-          <p className="text-[14px] text-right text-gray-500 mt-2">
-            Menampilkan {formatRupiah(filteredData.length, { prefix: false })} data
-          </p>
+          <div className="flex items-center justify-between mb-6 mt-3 px-2">
+            <p className="text-[14px] text-right text-gray-500">
+              Data: 24 Agustus 2027
+            </p>
+
+            <p className="text-[14px] text-right text-gray-500">
+              Menampilkan {formatRupiah(filteredData.length, { prefix: false })}{" "}
+              data
+            </p>
+          </div>
         </div>
 
         <div className="grid grid-cols-3 gap-6">

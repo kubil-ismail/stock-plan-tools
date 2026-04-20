@@ -1,14 +1,15 @@
 "use client";
 import {
-  Calendar,
-  Users,
+  // Calendar,
+  // Users,
   Building,
   TrendingUp,
-  TrendingDown,
-  Calculator,
-  PieChart,
-  DollarSign,
-  BarChart3,
+  Star,
+  // TrendingDown,
+  // Calculator,
+  // PieChart,
+  // DollarSign,
+  // BarChart3,
   Zap,
   Shield,
   Clock,
@@ -20,20 +21,20 @@ import Link from "next/link";
 interface Props {}
 
 export const marketFeatures = [
-  {
-    icon: Calendar,
-    title: "Kalender Saham",
-    link: "kalender-saham",
-    description:
-      "Pantau jadwal penting seperti dividen, laporan keuangan, dan aksi korporasi agar tidak ketinggalan momen pasar.",
-  },
-  {
-    icon: Users,
-    title: "Aktivitas Insider",
-    link: "aktivitas-insider",
-    description:
-      "Lihat pergerakan jual dan beli saham oleh direksi dan manajemen perusahaan untuk memahami sinyal dari dalam perusahaan.",
-  },
+  // {
+  //   icon: Star,
+  //   title: "Watchlist",
+  //   link: "watchlist",
+  //   description:
+  //     "Simpan dan pantau saham favorit Anda dalam satu tempat untuk memudahkan memonitor daftar saham yang ingin Anda ikuti.",
+  // },
+  // {
+  //   icon: Calendar,
+  //   title: "Kalender Saham",
+  //   link: "kalender-saham",
+  //   description:
+  //     "Pantau jadwal penting seperti dividen, laporan keuangan, dan aksi korporasi agar tidak ketinggalan momen pasar.",
+  // },
   {
     icon: Building,
     title: "Kepemilikan Saham",
@@ -41,6 +42,13 @@ export const marketFeatures = [
     description:
       "Cari tahu siapa saja yang memiliki saham tertentu, termasuk investor besar, institusi, atau tokoh terkenal.",
   },
+  // {
+  //   icon: Users,
+  //   title: "Aktivitas Insider",
+  //   link: "aktivitas-insider",
+  //   description:
+  //     "Lihat pergerakan jual dan beli saham oleh direksi dan manajemen perusahaan untuk memahami sinyal dari dalam perusahaan.",
+  // },
 ];
 
 export const toolsFeatures = [
@@ -51,41 +59,41 @@ export const toolsFeatures = [
     description:
       "Hitung bagaimana harga rata-rata berubah saat Anda membeli saham secara bertahap di harga yang berbeda.",
   },
-  {
-    icon: TrendingDown,
-    title: "Kalkulator Drawdown",
-    link: "kalkulator-drawdown",
-    description:
-      "Ketahui seberapa besar penurunan dari modal atau portofolio Anda untuk mengukur risiko kerugian.",
-  },
-  {
-    icon: Calculator,
-    title: "Kalkulator Resiko & Reward",
-    link: "kalkulator-resiko-and-reward",
-    description:
-      "Bandingkan potensi keuntungan dan kerugian sebelum membeli saham untuk membantu pengambilan keputusan.",
-  },
-  {
-    icon: PieChart,
-    title: "Pembagian Portofolio",
-    link: "pembagian-portofolio",
-    description:
-      "Lihat komposisi investasi Anda berdasarkan sektor, industri, atau perusahaan untuk menjaga keseimbangan portofolio.",
-  },
-  {
-    icon: DollarSign,
-    title: "Kalkulator Dividen",
-    link: "kalkulator-dividen",
-    description:
-      "Hitung potensi pendapatan dari dividen dan proyeksi pertumbuhannya dalam jangka panjang.",
-  },
-  {
-    icon: BarChart3,
-    title: "Simulasi Strategi Investasi",
-    link: "simulasi-strategi-investasi",
-    description:
-      "Simulasikan cara membeli saham secara bertahap dan lihat hasil akhir jika harga naik atau turun.",
-  },
+    // {
+    //   icon: TrendingDown,
+    //   title: "Kalkulator Drawdown",
+    //   link: "kalkulator-drawdown",
+    //   description:
+    //     "Ketahui seberapa besar penurunan dari modal atau portofolio Anda untuk mengukur risiko kerugian.",
+    // },
+    // {
+    //   icon: Calculator,
+    //   title: "Kalkulator Resiko & Reward",
+    //   link: "kalkulator-resiko-and-reward",
+    //   description:
+    //     "Bandingkan potensi keuntungan dan kerugian sebelum membeli saham untuk membantu pengambilan keputusan.",
+    // },
+    // {
+    //   icon: PieChart,
+    //   title: "Pembagian Portofolio",
+    //   link: "pembagian-portofolio",
+    //   description:
+    //     "Lihat komposisi investasi Anda berdasarkan sektor, industri, atau perusahaan untuk menjaga keseimbangan portofolio.",
+    // },
+    // {
+    //   icon: DollarSign,
+    //   title: "Kalkulator Dividen",
+    //   link: "kalkulator-dividen",
+    //   description:
+    //     "Hitung potensi pendapatan dari dividen dan proyeksi pertumbuhannya dalam jangka panjang.",
+    // },
+    // {
+    //   icon: BarChart3,
+    //   title: "Simulasi Strategi Investasi",
+    //   link: "simulasi-strategi-investasi",
+    //   description:
+    //     "Simulasikan cara membeli saham secara bertahap dan lihat hasil akhir jika harga naik atau turun.",
+    // },
 ];
 
 export const highlights = [
@@ -117,7 +125,7 @@ function Home_View(props: Props) {
       {/* Hero */}
       <section className="relative bg-white overflow-hidden">
         <div className="max-w-7xl mx-auto px-6 py-16 text-center relative z-10">
-          <h1 className="text-[48px] font-bold text-[#2A2826] mb-4 leading-tight">
+          <h1 className="text-[28px] md:text-[48px] font-bold text-[#2A2826] mb-4 leading-tight">
             Tools & Insight untuk Investor Saham
           </h1>
           <p className="text-[18px] text-[#8A8682] max-w-2xl mx-auto">
@@ -129,7 +137,7 @@ function Home_View(props: Props) {
 
       {/* Market & Insight */}
       <section id="market-insight" className="max-w-7xl mx-auto px-6 py-16">
-        <h2 className="text-[32px] font-bold text-[#2A2826] mb-8">
+        <h2 className="text-[28px] md:text-[32px] font-bold text-[#2A2826] mb-8">
           Market & Insight
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -157,7 +165,7 @@ function Home_View(props: Props) {
 
       {/* Tools & Simulator */}
       <section id="tools-simulator" className="max-w-7xl mx-auto px-6 py-16">
-        <h2 className="text-[32px] font-bold text-[#2A2826] mb-8">
+        <h2 className="text-[28px] md:text-[32px] font-bold text-[#2A2826] mb-8">
           Tools & Simulator
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -186,7 +194,7 @@ function Home_View(props: Props) {
       {/* Highlights */}
       <section className="bg-white py-16">
         <div className="max-w-7xl mx-auto px-6">
-          <h2 className="text-[32px] font-bold text-[#2A2826] mb-4 text-center">
+          <h2 className="text-[28px] md:text-[32px] font-bold text-[#2A2826] mb-4 text-center">
             Kenapa Memilih Stockplan?
           </h2>
           <p className="text-[16px] text-[#8A8682] text-center mb-12 max-w-2xl mx-auto">
@@ -215,10 +223,10 @@ function Home_View(props: Props) {
       <section id="contact" className="max-w-7xl mx-auto px-6 py-16">
         <div className="bg-gradient-to-br from-[#FFF4ED] to-[#FED7AA] rounded-3xl p-12 text-center border border-[#FDBA74]">
           <Mail className="w-16 h-16 mx-auto mb-6 text-[#F97316]" />
-          <h2 className="text-[36px] font-bold mb-4 text-[#2A2826]">
+          <h2 className="text-[20px] md:text-[32px] font-bold mb-4 text-[#2A2826]">
             Ada Pertanyaan tentang Stockplan?
           </h2>
-          <p className="text-[18px] mb-8 text-[#8A8682] max-w-2xl mx-auto">
+          <p className="text-[14px] md:text-[18px] mb-8 text-[#8A8682] md:max-w-2xl mx-auto">
             Kami siap membantu Anda memahami fitur dan merencanakan investasi
             dengan lebih mudah.
           </p>
