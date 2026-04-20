@@ -148,8 +148,8 @@ function Kepemilikan_saham() {
           </div>
 
           <div className="flex items-center justify-between mb-6 mt-3 px-2">
-            <p className="text-[14px] text-right text-gray-500">
-              Data: 24 Agustus 2027
+            <p className="text-[14px] text-left text-gray-500">
+              Data: 18 Desember 2025
             </p>
 
             <p className="text-[14px] text-right text-gray-500">
@@ -165,7 +165,7 @@ function Kepemilikan_saham() {
               className="w-full relative col-span-3 md:col-span-1"
               key={item.shareholder_name}
             >
-              <div className="bg-white/60 border border-white/30 shadow-sm rounded-3xl p-8 transition">
+              <div className="bg-white/60 border border-white/30 shadow-sm rounded-3xl p-5 md:p-8 transition">
                 {/* HEADER */}
 
                 <div className="flex items-center justify-between mb-4">
@@ -200,7 +200,7 @@ function Kepemilikan_saham() {
                   <p className="text-right pr-5">Tipe</p>
                 </div>
 
-                <div className="space-y-4 max-h-[210px] h-[210px] overflow-auto [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:bg-gray-100 [&::-webkit-scrollbar-thumb]:bg-gray-300 dark:[&::-webkit-scrollbar-track]:bg-neutral-700 dark:[&::-webkit-scrollbar-thumb]:bg-neutral-500">
+                <div className="space-y-4 max-h-[400px] md:max-h-[210px] md:h-[210px] overflow-auto [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:bg-gray-100 [&::-webkit-scrollbar-thumb]:bg-gray-300 dark:[&::-webkit-scrollbar-track]:bg-neutral-700 dark:[&::-webkit-scrollbar-thumb]:bg-neutral-500">
                   {item.companies
                     .sort((prev, next) => next.percentage - prev.percentage)
                     .map((_item, index) => (
