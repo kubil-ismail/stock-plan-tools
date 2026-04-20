@@ -3,6 +3,9 @@
 import shareholder from "@/data/shareholders.json";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Building2, Flag, User } from "lucide-react";
+import { useParams } from "next/navigation";
+import { formatRupiah, unslugify } from "@/lib/utils";
+
 function ShareholderTitle({ name }: { name: string }) {
   const type = useMemo(() => {
     const governmentRegex =
@@ -64,9 +67,11 @@ const INITIAL_LOAD = 102;
 const LOAD_MORE_STEP = 102;
 
 function Kepemilikan_saham() {
+  const params = useParams<{ slug: string }>();
+  const slug = unslugify(decodeURIComponent(params?.slug ?? "")).toLowerCase();
   const data = shareholder.data;
 
-  const [search, setSearch] = useState("");
+  const [search, setSearch] = useState(slug);
   const [sector, setSector] = useState("ALL");
 
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
@@ -135,11 +140,16 @@ function Kepemilikan_saham() {
           <div className="bg-white/60 border border-white/30 rounded-2xl p-4 shadow-sm flex flex-wrap gap-3 items-center">
             <input
               type="text"
+              defaultValue={search}
               onChange={(e) => setSearch(e.target.value)}
               placeholder="Cari kode saham / perusahaan..."
               className="flex-1 min-w-[180px] px-4 py-2 rounded-xl border border-white/40 bg-white/70 text-sm focus:outline-none focus:ring-2 focus:ring-orange-400"
             />
           </div>
+
+          <p className="text-[14px] text-right text-gray-500 mt-2">
+            Menampilkan {formatRupiah(filteredData.length, { prefix: false })} data
+          </p>
         </div>
 
         <div className="grid grid-cols-3 gap-6">

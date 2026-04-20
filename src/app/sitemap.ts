@@ -1,69 +1,42 @@
 import type { MetadataRoute } from "next";
+import shareholder from "@/data/shareholders.json";
+import { slugify } from "@/lib/utils";
 
 const BASE_URL = "https://stockplan.id";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  return [
-    {
-      url: BASE_URL,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
-      url: `${BASE_URL}/kalender-saham`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
-      url: `${BASE_URL}/aktivitas-insider`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
-      url: `${BASE_URL}/kepemilikan-saham`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
+  const now = new Date();
 
-    {
-      url: `${BASE_URL}/kalkulator-avarage`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
-      url: `${BASE_URL}/kalkulator-drawdown`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
-      url: `${BASE_URL}/kalkulator-resiko-and-reward`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
-      url: `${BASE_URL}/pembagian-portofolio`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
-      url: `${BASE_URL}/kalkulator-dividen`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
-      url: `${BASE_URL}/simulasi-strategi-investasi`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-  ];
+  const staticRoutes = [
+    "",
+    "/kalender-saham",
+    "/aktivitas-insider",
+    "/kepemilikan-saham",
+    "/kalkulator-avarage",
+    "/kalkulator-drawdown",
+    "/kalkulator-resiko-and-reward",
+    "/pembagian-portofolio",
+    "/kalkulator-dividen",
+    "/simulasi-strategi-investasi",
+  ].map((path) => ({
+    url: `${BASE_URL}${path}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: path === "" ? 1 : 0.7,
+  }));
+
+  const shareholders_sitemap = Array.from(
+    new Map(
+      shareholder.data.map((item) => [slugify(item.shareholder_name), item])
+    ).values()
+  )
+    .sort((a, b) => a.shareholder_name.localeCompare(b.shareholder_name))
+    .map((item) => ({
+      url: `${BASE_URL}/kepemilikan-saham/${slugify(item.shareholder_name)}`,
+      lastModified: now,
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    }));
+
+  return [...staticRoutes, ...shareholders_sitemap];
 }

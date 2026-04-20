@@ -68,7 +68,6 @@ export function getRecommendedTargetAvg({
   lastPrice: number | string;
   strategy: StrategyType;
 }) {
-
   const avg = toNumber(currentAvg);
   const price = toNumber(lastPrice);
 
@@ -120,3 +119,23 @@ export const getAvgChangePercent = (
 
   return Number(percent.toFixed(2));
 };
+
+export function slugify(text: string) {
+  return (
+    text
+      .toLowerCase()
+      .trim()
+      // ganti spasi jadi dash
+      .replace(/\s+/g, "-")
+      // hapus karakter selain huruf, angka, titik, dash, apostrophe
+      .replace(/[^a-z0-9.\-']/g, "")
+      // rapihin dash dobel
+      .replace(/-+/g, "-")
+      .replace(/(^-|-$)/g, "")
+  );
+
+}
+
+export function unslugify(slug: string) {
+  return slug.replace(/-/g, " ").replace(/\b\w/g, (char) => char.toUpperCase());
+}
