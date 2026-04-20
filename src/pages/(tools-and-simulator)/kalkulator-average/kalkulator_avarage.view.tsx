@@ -733,7 +733,7 @@ function Kalkulator_avarage_view() {
                     <div>
                       <p className="text-xs text-neutral-500">Lot Beli</p>
 
-                      <div className="flex items-center gap-x-1">
+                      <div className="flex md:items-center gap-x-1 flex-col md:flex-row">
                         <p className="text-lg font-semibold text-neutral-900">
                           {formatRupiah(buyLot ?? 0, {
                             prefix: false,
@@ -754,7 +754,7 @@ function Kalkulator_avarage_view() {
                         Total Lot Setelah pembelian
                       </p>
 
-                      <div className="flex items-center gap-x-1">
+                      <div className="flex md:items-center gap-x-1 flex-col md:flex-row">
                         <p className="text-lg font-semibold text-neutral-900">
                           {formatRupiah(result?.totalLot ?? 0, {
                             prefix: false,
