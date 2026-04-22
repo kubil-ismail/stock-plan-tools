@@ -18,6 +18,7 @@ import {
   useSortable,
 } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
+import { format } from "date-fns";
 import { calculatePercentage, cn, formatRupiah } from "@/lib/utils";
 
 export const mockWatchlist = [
@@ -290,9 +291,9 @@ function Watchlist_view() {
 
       <div className="flex justify-center">
         <div className="max-w-2xl w-full relative">
-          <div className="bg-white rounded-3xl p-8 border border-[#E5E7EB] shadow-xl relative overflow-hidden">
-            {step === "step-1" && (
-              <Fragment>
+          {step === "step-1" && (
+            <Fragment>
+              <div className="bg-white rounded-3xl p-8 border border-[#E5E7EB] shadow-xl relative overflow-hidden">
                 <section>
                   <div className="flex items-center gap-2 mb-5">
                     <p className="bg-[#F97316] flex w-7 h-7 text-[14px] rounded-full items-center justify-center font-bold text-[#fff]">
@@ -456,30 +457,78 @@ function Watchlist_view() {
                     Simpan Watchlist
                   </button>
                 </section>
-              </Fragment>
-            )}
+              </div>
+            </Fragment>
+          )}
 
-            {step === "step-2" && (
-              <Fragment>
+          {step === "step-2" && (
+            <Fragment>
+              <div
+                className="
+        bg-white 
+        rounded-3xl 
+        p-8 
+        border 
+        border-[#E5E7EB] 
+        shadow-xl 
+        relative 
+        overflow-hidden
+      "
+              >
+                {/* subtle gradient glow */}
+                <div
+                  className="
+          absolute 
+          -top-24 
+          -right-24 
+          w-64 
+          h-64 
+          blur-3xl 
+          opacity-20 
+          rounded-full 
+          pointer-events-none
+        "
+                  style={{
+                    background:
+                      "linear-gradient(135deg, #F97316 0%, #FDBA74 100%)",
+                  }}
+                />
+
                 {/* HEADER */}
                 <div className="flex items-start justify-between">
-                  <div>
-                    {date && <p className="text-sm text-neutral-500">{date}</p>}
+                  <div className="space-y-1">
+                    {date && (
+                      <p className="text-sm text-neutral-500 font-medium">
+                        {format(date, "dd MMM yyyy")}
+                      </p>
+                    )}
 
                     <h2 className="text-2xl font-bold text-neutral-900 tracking-wide">
                       {title}
                     </h2>
 
                     {note && (
-                      <p className="text-[14px] text-neutral-600">{note}</p>
+                      <p className="text-[14px] text-neutral-600 max-w-[520px]">
+                        {note}
+                      </p>
                     )}
                   </div>
 
+                  {/* WATCHLIST BADGE */}
+
                   <div
-                    className="px-3 py-1 rounded-full text-xs font-medium border"
+                    className="
+            px-4 
+            py-1.5 
+            rounded-full 
+            text-xs 
+            font-semibold 
+            border
+            shadow-sm
+          "
                     style={{
                       borderColor: "rgba(249,115,22,0.25)",
-                      background: "rgba(249,115,22,0.08)",
+                      background: "rgba(249,115,22,0.10)",
                       color: "#F97316",
                     }}
                   >
@@ -488,7 +537,20 @@ function Watchlist_view() {
                 </div>
 
                 {/* TABLE HEADER */}
-                <div className="grid grid-cols-4 text-sm font-semibold text-gray-500 pb-3 tracking-wide mt-10">
+
+                <div
+                  className="
+          grid 
+          grid-cols-4 
+          text-sm 
+          font-semibold 
+          text-gray-500 
+          pb-3 
+          tracking-wide 
+          mt-10
+          border-b
+        "
+                >
                   <p className="pl-3">Stock</p>
                   <p className="text-center">Entry</p>
                   <p className="text-center">Take Profit</p>
@@ -496,29 +558,97 @@ function Watchlist_view() {
                 </div>
 
                 {/* ROWS */}
-                <div className="space-y-2 min-h-[340px]">
+
+                <div className="space-y-3 min-h-[340px] pt-4">
                   {currentItems.map((item) => (
                     <div
                       key={item.stock_code}
-                      className="shadow-xs bg-white/50 border border-white/40 rounded-xl px-4 py-3 grid grid-cols-4 items-center hover:bg-white/80 hover:shadow-lg hover:-translate-y-0.5 hover:border-orange-200 transition-all duration-200"
+                      className="
+              group
+              relative
+              bg-white
+              border
+              border-gray-100
+              rounded-xl
+              px-4
+              py-3
+              grid
+              grid-cols-4
+              items-center
+              shadow-sm
+              transition-all
+              duration-200
+              hover:shadow-lg
+              hover:-translate-y-0.5
+              hover:border-orange-200
+            "
                     >
-                      <p className="font-semibold text-gray-700 text-[16px]">
+                      {/* LEFT ACCENT BAR */}
+
+                      <div
+                        className="
+                absolute
+                left-0
+                top-0
+                h-full
+                w-[4px]
+                rounded-l-xl
+                opacity-0
+                group-hover:opacity-100
+                transition
+              "
+                        style={{
+                          background: "linear-gradient(180deg,#F97316,#FDBA74)",
+                        }}
+                      />
+
+                      {/* STOCK */}
+
+                      <p
+                        className="
+                font-semibold 
+                text-gray-800 
+                text-[16px]
+                tracking-wide
+              "
+                      >
                         {item.stock_code}
                       </p>
 
-                      <p className="text-center font-medium text-gray-700 text-[14px]">
-                        {formatRupiah(item.buy, { prefix: false })}
+                      {/* ENTRY */}
+
+                      <p
+                        className="
+                text-center 
+                font-semibold 
+                text-gray-700 
+                text-[14px]
+              "
+                      >
+                        {formatRupiah(item.buy, {
+                          prefix: false,
+                        })}
                       </p>
 
+                      {/* TAKE PROFIT */}
+
                       <div className="text-center">
-                        <p className="font-medium text-gray-700 text-[14px]">
-                          {formatRupiah(item.target, { prefix: false }) ?? "-"}
+                        <p
+                          className="
+                  font-semibold 
+                  text-gray-800 
+                  text-[14px]
+                "
+                        >
+                          {formatRupiah(item.target, {
+                            prefix: false,
+                          }) ?? "-"}
                         </p>
 
                         {item.target && (
                           <p
                             className={cn(
-                              "text-[12px] font-semibold",
+                              "text-[12px] font-semibold mt-0.5",
                               calculatePercentage(item.buy, item.target)
                                 ? "text-emerald-600"
                                 : "text-red-600"
@@ -531,18 +661,28 @@ function Watchlist_view() {
                         )}
                       </div>
 
+                      {/* STOP LOSS */}
+
                       <div className="text-right">
-                        <p className="font-medium text-gray-700 text-[14px]">
+                        <p
+                          className="
+                  font-semibold 
+                  text-gray-800 
+                  text-[14px]
+                "
+                        >
                           {formatRupiah(item?.stop_loss, { prefix: false }) ??
                             "-"}
                         </p>
 
                         {item?.stop_loss && (
                           <p
-                            className={cn(
-                              "text-[12px] font-semibold",
-                              "text-red-600"
-                            )}
+                            className="
+                    text-[12px] 
+                    font-semibold 
+                    text-red-600 
+                    mt-0.5
+                  "
                           >
                             {calculatePercentage(item.buy, item.stop_loss, {
                               percentage: true,
@@ -555,49 +695,72 @@ function Watchlist_view() {
                 </div>
 
                 {/* PAGINATION */}
-                <div className="flex justify-center items-center gap-2 mt-8">
-                  {/* Previous */}
 
+                <div className="flex justify-center items-center gap-2 mt-10">
                   <button
                     onClick={() =>
                       setCurrentPage((prev) => Math.max(prev - 1, 1))
                     }
-                    className="px-2 py-2 text-sm rounded-lg border hover:bg-gray-50 transition"
+                    className="
+            w-9 
+            h-9 
+            flex 
+            items-center 
+            justify-center
+            rounded-xl
+            border
+            hover:bg-gray-50
+            transition
+          "
                   >
                     <ChevronLeft size={16} />
                   </button>
-
-                  {/* Page numbers */}
 
                   {Array.from({ length: totalPages }, (_, i) => (
                     <button
                       key={i}
                       onClick={() => setCurrentPage(i + 1)}
-                      className={`px-3 py-1.5 text-sm rounded-lg border transition
-                    ${
-                      currentPage === i + 1
-                        ? "bg-orange-500 text-white border-orange-500"
-                        : "hover:bg-gray-50"
-                    }`}
+                      className={`
+                w-9
+                h-9
+                text-sm
+                font-semibold
+                rounded-xl
+                border
+                transition
+                ${
+                  currentPage === i + 1
+                    ? "bg-orange-500 text-white border-orange-500 shadow-md"
+                    : "hover:bg-gray-50"
+                }
+              `}
                     >
                       {i + 1}
                     </button>
                   ))}
 
-                  {/* Next */}
-
                   <button
                     onClick={() =>
                       setCurrentPage((prev) => Math.min(prev + 1, totalPages))
                     }
-                    className="px-2 py-2 text-sm rounded-lg border hover:bg-gray-50 transition"
+                    className="
+            w-9 
+            h-9 
+            flex 
+            items-center 
+            justify-center
+            rounded-xl
+            border
+            hover:bg-gray-50
+            transition
+          "
                   >
                     <ChevronRight size={16} />
                   </button>
                 </div>
-              </Fragment>
-            )}
-          </div>
+              </div>
+            </Fragment>
+          )}
         </div>
       </div>
     </div>
