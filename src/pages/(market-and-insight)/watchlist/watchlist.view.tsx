@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 import {
   Check,
@@ -8,21 +9,18 @@ import {
   Plus,
   Trash2,
 } from "lucide-react";
-import React, { Fragment, useState } from "react";
+import { Fragment, useState } from "react";
 import { DndContext, closestCenter } from "@dnd-kit/core";
-
 import {
   arrayMove,
   SortableContext,
   verticalListSortingStrategy,
   useSortable,
 } from "@dnd-kit/sortable";
-
 import { CSS } from "@dnd-kit/utilities";
+import { calculatePercentage, cn, formatRupiah } from "@/lib/utils";
 
 export const mockWatchlist = [
-  { stock_code: "", buy: "", target: "", stop_loss: "" },
-  { stock_code: "", buy: "", target: "", stop_loss: "" },
   { stock_code: "", buy: "", target: "", stop_loss: "" },
 ];
 
@@ -32,6 +30,7 @@ function SortableRow({
   editIndex,
   setEditIndex,
   handleDeleteItem,
+  handleChange,
 }: any) {
   const { attributes, listeners, setNodeRef, transform, transition } =
     useSortable({
@@ -44,6 +43,20 @@ function SortableRow({
   };
 
   const isEdit = editIndex === index;
+
+  const handleNumberInput = (key: string, value: string) => {
+    // hanya angka, koma, titik, strip
+    const sanitized = value.replace(/[^0-9,.]/g, "");
+
+    handleChange(key, sanitized);
+  };
+
+  const handleStockCodeInput = (key: string, value: string) => {
+    // hanya huruf
+    const sanitized = value.replace(/[^a-zA-Z]/g, "").toUpperCase();
+
+    handleChange(key, sanitized);
+  };
 
   return (
     <div
@@ -68,16 +81,21 @@ function SortableRow({
             <input
               type="text"
               defaultValue={item.stock_code}
+              onChange={(e) =>
+                handleStockCodeInput("stock_code", e.target.value)
+              }
               disabled={!isEdit}
               placeholder="Kode saham"
+              maxLength={6}
+              autoComplete="off"
               className={`
                 w-full max-w-[110px] h-[40px]
-                text-left px-3 rounded-xl border transition
+                text-left px-3 rounded-xl border transition uppercase
                
                 ${
                   isEdit
-                    ? "border-[#F97316] bg-white  text-[12px]"
-                    : "border-transparent bg-neutral-50 text-neutral-600 font-[700]  text-[12px]"
+                    ? "border-[#F97316] bg-white  text-[11px]"
+                    : "border-transparent bg-neutral-50 text-neutral-600 font-[700]  text-[11px]"
                 }
               `}
             />
@@ -88,8 +106,12 @@ function SortableRow({
             <input
               type="text"
               defaultValue={item.buy}
+              value={item.buy}
+              onChange={(e) => handleNumberInput("buy", e.target.value)}
               disabled={!isEdit}
               placeholder="Harga Beli"
+              inputMode="decimal"
+              pattern="[0-9,.\-]*"
               className={`
                 w-full max-w-[110px] h-[40px]
                 text-center px-3 rounded-xl border transition
@@ -108,8 +130,12 @@ function SortableRow({
             <input
               type="text"
               defaultValue={item.target}
+              value={item.target}
+              onChange={(e) => handleNumberInput("target", e.target.value)}
               disabled={!isEdit}
-              placeholder="Target harga"
+              placeholder="Target jual"
+              inputMode="decimal"
+              pattern="[0-9,.\-]*"
               className={`
                 w-full max-w-[110px] h-[40px]
                 text-center px-3 rounded-xl border transition
@@ -128,8 +154,12 @@ function SortableRow({
             <input
               type="text"
               defaultValue={item.stop_loss}
+              value={item.stop_loss}
+              onChange={(e) => handleNumberInput("stop_loss", e.target.value)}
+              inputMode="decimal"
+              pattern="[0-9,.\-]*"
               disabled={!isEdit}
-              placeholder="Stop loss"
+              placeholder="Cut loss"
               className={`
                 w-full max-w-[120px] h-[40px]
                 text-center px-3 rounded-xl border transition
@@ -186,6 +216,11 @@ function Watchlist_view() {
   const [watchlist, setWatchlist] = useState(mockWatchlist);
 
   const [step, setStep] = useState<"step-1" | "step-2">("step-1");
+
+  const [title, setTitle] = useState("");
+  const [date, setDate] = useState("");
+  const [note, setNote] = useState("");
+
   const [currentPage, setCurrentPage] = useState(1);
   const [editIndex, setEditIndex] = useState<number | null>(null);
 
@@ -193,10 +228,7 @@ function Watchlist_view() {
 
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
 
-  const currentItems = mockWatchlist.slice(
-    startIndex,
-    startIndex + ITEMS_PER_PAGE
-  );
+  const currentItems = watchlist.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   const handleAddItem = () => {
     const newItem = {
@@ -219,6 +251,21 @@ function Watchlist_view() {
   const handleDeleteItem = (index: number) => {
     setWatchlist((prev) => prev.filter((_, i) => i !== index));
     setEditIndex(null);
+  };
+
+  const handleChange = (index: number, key: string, value: string) => {
+    const newValue = key === "stock_code" ? value.toUpperCase() : value;
+
+    setWatchlist((prev) => {
+      const updated = [...prev];
+
+      updated[index] = {
+        ...updated[index],
+        [key]: newValue,
+      };
+
+      return updated;
+    });
   };
 
   const handleDragEnd = (event: any) => {
@@ -260,37 +307,75 @@ function Watchlist_view() {
                   <div className="grid grid-cols-1 gap-5">
                     <div>
                       <label className="mb-2 block uppercase text-[12px]">
-                        Judul Watchlist
+                        Nama Watchlist
                       </label>
 
                       <input
                         type="text"
-                        placeholder="Contoh: Asing + Bandar Akum"
+                        onChange={(e) => {
+                          if (e.target.value.length <= 35)
+                            setTitle(e.target.value);
+                        }}
+                        value={title}
+                        placeholder="Contoh: Saham Potensi Breakout Minggu Ini"
                         className="w-full border border-neutral-200 rounded-xl px-4 py-3 text-[14px] focus:outline-none focus:border-orange-400"
                       />
+
+                      <p
+                        className={cn(
+                          "text-[13px] text-right",
+                          title.length === 35
+                            ? "text-red-600"
+                            : "text-neutral-500"
+                        )}
+                      >
+                        {35 - title.length}/35
+                      </p>
                     </div>
 
                     <div>
                       <label className="mb-2 block uppercase text-[12px]">
-                        Tanggal Watchlist
+                        Tanggal Watchlist (Optional)
                       </label>
 
                       <input
                         type="date"
+                        onChange={(e) => setDate(e.target.value)}
                         className="w-full border border-neutral-200 rounded-xl px-4 py-3 text-[14px] focus:outline-none focus:border-orange-400"
                       />
+
+                      <p className="text-[12px] text-neutral-500 mt-1">
+                        Tanggal watchlist ini akan digunakan sebagai hari
+                        pantauan saham.
+                      </p>
                     </div>
 
                     <div>
                       <label className="mb-2 block uppercase text-[12px]">
-                        Catatan
+                        Catatan (Opsional)
                       </label>
 
                       <textarea
-                        rows={3}
+                        rows={2}
+                        onChange={(e) => {
+                          if (e.target.value.length <= 50)
+                            setNote(e.target.value);
+                        }}
+                        value={note}
                         placeholder="Tambahkan catatan singkat..."
                         className="w-full border border-neutral-200 rounded-xl px-4 py-3 text-[14px] focus:outline-none focus:border-orange-400"
                       />
+
+                      <p
+                        className={cn(
+                          "text-[13px] text-right",
+                          note.length === 50
+                            ? "text-red-600"
+                            : "text-neutral-500"
+                        )}
+                      >
+                        {50 - note.length}/50
+                      </p>
                     </div>
                   </div>
                 </section>
@@ -313,11 +398,11 @@ function Watchlist_view() {
                   <div className="grid grid-cols-4 md:grid-cols-5 gap-3 text-[12px] font-semibold text-neutral-500 mb-2">
                     <div className="flex justify-between">
                       <p className="">Sort</p>
-                      <p className="pr-5">Kode</p>
+                      <p className="pr-5">Stock</p>
                     </div>
-                    <p className="text-center">Buy</p>
-                    <p className="text-center">Target</p>
-                    <p className="text-right pr-5">Stop Loss</p>
+                    <p className="text-center">Entry</p>
+                    <p className="text-center">Take Profit</p>
+                    <p className="text-right pr-5">Cut Loss</p>
                     <p className="hidden md:block text-right pr-2">Action</p>
                   </div>
 
@@ -332,12 +417,15 @@ function Watchlist_view() {
                     >
                       {watchlist.map((item, index) => (
                         <SortableRow
-                          key={item.stock_code}
+                          key={index}
                           item={item}
                           index={index}
                           editIndex={editIndex}
                           setEditIndex={setEditIndex}
                           handleDeleteItem={handleDeleteItem}
+                          handleChange={(key: string, value: string) =>
+                            handleChange(index, key, value)
+                          }
                         />
                       ))}
                     </SortableContext>
@@ -361,7 +449,7 @@ function Watchlist_view() {
 
                 <section>
                   <button
-                    onClick={() => setStep('step-2')}
+                    onClick={() => setStep("step-2")}
                     type="button"
                     className="w-full bg-[#F97316] hover:bg-orange-600 text-white font-bold py-3 rounded-xl transition"
                   >
@@ -376,15 +464,15 @@ function Watchlist_view() {
                 {/* HEADER */}
                 <div className="flex items-start justify-between">
                   <div>
-                    <p className="text-sm text-neutral-500">10 Maret 2026</p>
+                    {date && <p className="text-sm text-neutral-500">{date}</p>}
 
                     <h2 className="text-2xl font-bold text-neutral-900 tracking-wide">
-                      Asing + Bandar Akum
+                      {title}
                     </h2>
 
-                    <p className="text-[14px] text-neutral-600">
-                      Stockpick ini dipengaruhi info Dar Der Dor akhir pekan ini
-                    </p>
+                    {note && (
+                      <p className="text-[14px] text-neutral-600">{note}</p>
+                    )}
                   </div>
 
                   <div
@@ -401,14 +489,14 @@ function Watchlist_view() {
 
                 {/* TABLE HEADER */}
                 <div className="grid grid-cols-4 text-sm font-semibold text-gray-500 pb-3 tracking-wide mt-10">
-                  <p className="pl-3">Kode</p>
-                  <p className="text-center">Buy</p>
-                  <p className="text-center">Target</p>
-                  <p className="text-right pr-5">Stop Loss</p>
+                  <p className="pl-3">Stock</p>
+                  <p className="text-center">Entry</p>
+                  <p className="text-center">Take Profit</p>
+                  <p className="text-right pr-5">Cut Loss</p>
                 </div>
 
                 {/* ROWS */}
-                <div className="space-y-4 min-h-[340px]">
+                <div className="space-y-2 min-h-[340px]">
                   {currentItems.map((item) => (
                     <div
                       key={item.stock_code}
@@ -419,27 +507,48 @@ function Watchlist_view() {
                       </p>
 
                       <p className="text-center font-medium text-gray-700 text-[14px]">
-                        {item.buy}
+                        {formatRupiah(item.buy, { prefix: false })}
                       </p>
 
                       <div className="text-center">
                         <p className="font-medium text-gray-700 text-[14px]">
-                          {item.target}
+                          {formatRupiah(item.target, { prefix: false }) ?? "-"}
                         </p>
 
-                        <p className="text-[12px] font-semibold text-emerald-600">
-                          +8.5% - 9%
-                        </p>
+                        {item.target && (
+                          <p
+                            className={cn(
+                              "text-[12px] font-semibold",
+                              calculatePercentage(item.buy, item.target)
+                                ? "text-emerald-600"
+                                : "text-red-600"
+                            )}
+                          >
+                            {calculatePercentage(item.buy, item.target, {
+                              percentage: true,
+                            })}
+                          </p>
+                        )}
                       </div>
 
                       <div className="text-right">
                         <p className="font-medium text-gray-700 text-[14px]">
-                          {item.stop_loss}
+                          {formatRupiah(item?.stop_loss, { prefix: false }) ??
+                            "-"}
                         </p>
 
-                        <p className="text-[12px] font-semibold text-red-600">
-                          -5%
-                        </p>
+                        {item?.stop_loss && (
+                          <p
+                            className={cn(
+                              "text-[12px] font-semibold",
+                              "text-red-600"
+                            )}
+                          >
+                            {calculatePercentage(item.buy, item.stop_loss, {
+                              percentage: true,
+                            })}
+                          </p>
+                        )}
                       </div>
                     </div>
                   ))}

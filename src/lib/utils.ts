@@ -133,9 +133,27 @@ export function slugify(text: string) {
       .replace(/-+/g, "-")
       .replace(/(^-|-$)/g, "")
   );
-
 }
 
 export function unslugify(slug: string) {
   return slug.replace(/-/g, " ").replace(/\b\w/g, (char) => char.toUpperCase());
 }
+
+export const calculatePercentage = (
+  from: number | string,
+  to: number | string,
+  options?: { percentage?: boolean }
+): number | string => {
+  const fromNum = Number(from);
+  const toNum = Number(to);
+
+  if (!fromNum || !toNum) return 0;
+
+  const percentage = ((toNum - fromNum) / fromNum) * 100;
+
+  if (options?.percentage) {
+    return `${percentage > 0 ? "+" : ""}${Number(percentage.toFixed(2))}%`;
+  }
+
+  return Number(percentage.toFixed(2));
+};

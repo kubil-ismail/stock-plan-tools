@@ -21,13 +21,13 @@ import Link from "next/link";
 interface Props {}
 
 export const marketFeatures = [
-  // {
-  //   icon: Star,
-  //   title: "Watchlist",
-  //   link: "watchlist",
-  //   description:
-  //     "Simpan dan pantau saham favorit Anda dalam satu tempat untuk memudahkan memonitor daftar saham yang ingin Anda ikuti.",
-  // },
+  {
+    icon: Star,
+    title: "Watchlist",
+    link: "watchlist",
+    description:
+      "Simpan dan pantau saham favorit Anda dalam satu tempat untuk memudahkan memonitor daftar saham yang ingin Anda ikuti.",
+  },
   // {
   //   icon: Calendar,
   //   title: "Kalender Saham",
