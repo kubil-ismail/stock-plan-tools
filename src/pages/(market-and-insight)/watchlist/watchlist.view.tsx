@@ -1,6 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 import {
+  ArrowLeft,
   Check,
   ChevronLeft,
   ChevronRight,
@@ -20,6 +21,7 @@ import {
 import { CSS } from "@dnd-kit/utilities";
 import { format } from "date-fns";
 import { calculatePercentage, cn, formatRupiah } from "@/lib/utils";
+import { Button } from "@/components/ui/button";
 
 export const mockWatchlist = [
   { stock_code: "", buy: "", target: "", stop_loss: "" },
@@ -225,11 +227,11 @@ function Watchlist_view() {
   const [currentPage, setCurrentPage] = useState(1);
   const [editIndex, setEditIndex] = useState<number | null>(null);
 
-  const totalPages = Math.ceil(mockWatchlist.length / ITEMS_PER_PAGE);
-
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
 
   const currentItems = watchlist.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+
+  const totalPages = Math.ceil(watchlist.length / ITEMS_PER_PAGE);
 
   const handleAddItem = () => {
     const newItem = {
@@ -560,9 +562,9 @@ function Watchlist_view() {
                 {/* ROWS */}
 
                 <div className="space-y-3 min-h-[340px] pt-4">
-                  {currentItems.map((item) => (
+                  {currentItems.map((item, index) => (
                     <div
-                      key={item.stock_code}
+                      key={index}
                       className="
               group
               relative
@@ -758,6 +760,18 @@ function Watchlist_view() {
                     <ChevronRight size={16} />
                   </button>
                 </div>
+              </div>
+
+              <div className="flex items-center justify-center mt-5">
+                <Button
+                  size="lg"
+                  className="rounded-lg"
+                  variant="link"
+                  onClick={() => setStep("step-1")}
+                >
+                  <ArrowLeft />
+                  Sebelumnya
+                </Button>
               </div>
             </Fragment>
           )}
