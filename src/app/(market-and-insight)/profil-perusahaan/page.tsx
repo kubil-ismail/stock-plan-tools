@@ -1,8 +1,15 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import Profil_Perusahaan_view from "@/pages/(market-and-insight)/profil-perusahaan/profil-perusahaan.view";
 
 export default function Page() {
-  return <Profil_Perusahaan_view />;
+  return (
+    <>
+      <Suspense fallback={<></>}>
+        <Profil_Perusahaan_view />
+      </Suspense>
+    </>
+  );
 }
 
 export const metadata: Metadata = {

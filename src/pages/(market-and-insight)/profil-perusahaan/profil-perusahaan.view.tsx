@@ -11,6 +11,7 @@ const LOAD_MORE_STEP = 120;
 
 function Company_list_view() {
   const search = useSearchParams();
+
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
   const [searchTerm, setSearchTerm] = useState(search?.get("search") ?? "");
 
