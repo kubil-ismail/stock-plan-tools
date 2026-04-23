@@ -149,7 +149,7 @@ function Kepemilikan_saham() {
 
           <div className="flex items-center justify-between mb-6 mt-3 px-2">
             <p className="text-[14px] text-left text-gray-500">
-              Data: 18 Desember 2025
+              Data: 23 April 2026
             </p>
 
             <p className="text-[14px] text-right text-gray-500">
