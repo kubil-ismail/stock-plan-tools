@@ -90,6 +90,8 @@ export function Autocomplete({
     setSearch("");
   };
 
+  console.log(options);
+
   return (
     <>
       <span className="mb-2 block uppercase text-[12px]">{label}</span>
@@ -189,8 +191,8 @@ export function Autocomplete({
                   {variant === "stocks" && (
                     <span className="flex gap-2 items-center">
                       <span className="h-[35px] w-[35px] flex items-center justify-center bg-[#F97316] rounded-lg text-[#fff] font-bold">
-                        {item.code.charAt(0)}
-                        {item.code.charAt(1)}
+                        {item.code?.charAt(0)}
+                        {item.code?.charAt(1)}
                       </span>
                       <span className="block">
                         <span className="block text-left">{item.code}</span>

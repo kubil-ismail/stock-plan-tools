@@ -23,7 +23,7 @@ import { Button } from "@/components/ui/button";
 import { RupiahInput } from "@/components/numberinput";
 
 import { brokers } from "@/data/brokers";
-import companyList from "@/data/company.json";
+import companyList from "@/data/company_list.json";
 
 type SimulationType = "BUY" | "LOWER";
 type StrategyType = "EFFICIENT" | "BALANCE" | "AGGRESSIVE";

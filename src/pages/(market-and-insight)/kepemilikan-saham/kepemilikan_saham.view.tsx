@@ -5,6 +5,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { Building2, Flag, User } from "lucide-react";
 import { useParams } from "next/navigation";
 import { formatRupiah, unslugify } from "@/lib/utils";
+import Link from "next/link";
 
 function ShareholderTitle({ name }: { name: string }) {
   const type = useMemo(() => {
@@ -204,22 +205,25 @@ function Kepemilikan_saham() {
                   {item.companies
                     .sort((prev, next) => next.percentage - prev.percentage)
                     .map((_item, index) => (
-                      <div
+                      <a
+                        target="_blank"
+                        href={`/profil-perusahaan?search=${_item.ticker}`}
                         key={`${item.shareholder_name}_${index}`}
-                        className="shadow-xs bg-white/50 border border-white/40 rounded-xl px-4 py-3 grid grid-cols-3 items-center hover:bg-white/80 hover:shadow-lg hover:-translate-y-0.5 hover:border-orange-200 transition-all duration-200"
                       >
-                        <p className="font-semibold text-gray-700 text-[16px]">
-                          {_item.ticker}
-                        </p>
+                        <div className="shadow-xs bg-white/50 border border-white/40 rounded-xl px-4 py-3 grid grid-cols-3 items-center hover:bg-white/80 hover:shadow-lg hover:-translate-y-0.5 hover:border-orange-200 transition-all duration-200">
+                          <p className="font-semibold text-gray-700 text-[16px]">
+                            {_item.ticker}
+                          </p>
 
-                        <p className="text-center font-medium text-gray-700 text-[14px]">
-                          {_item.percentage.toFixed(2)}%
-                        </p>
+                          <p className="text-center font-medium text-gray-700 text-[14px]">
+                            {_item.percentage.toFixed(2)}%
+                          </p>
 
-                        <p className="text-right font-medium  text-gray-700 text-[14px]">
-                          {_item.type}
-                        </p>
-                      </div>
+                          <p className="text-right font-medium  text-gray-700 text-[14px]">
+                            {_item.type}
+                          </p>
+                        </div>
+                      </a>
                     ))}
                 </div>
               </div>

@@ -15,6 +15,8 @@ import {
   Clock,
   Mail,
   ArrowRight,
+  Building2,
+  UserRoundSearch,
 } from "lucide-react";
 import Link from "next/link";
 
@@ -28,15 +30,15 @@ export const marketFeatures = [
     description:
       "Simpan dan pantau saham favorit Anda dalam satu tempat untuk memudahkan memonitor daftar saham yang ingin Anda ikuti.",
   },
-  // {
-  //   icon: Calendar,
-  //   title: "Kalender Saham",
-  //   link: "kalender-saham",
-  //   description:
-  //     "Pantau jadwal penting seperti dividen, laporan keuangan, dan aksi korporasi agar tidak ketinggalan momen pasar.",
-  // },
   {
-    icon: Building,
+    icon: Building2,
+    title: "Profil Perusahaan",
+    link: "profil-perusahaan",
+    description:
+      "Pelajari profil perusahaan, manajemen, dan hubungan perusahaan untuk memahami bisnis di balik saham.",
+  },
+  {
+    icon: UserRoundSearch,
     title: "Kepemilikan Saham",
     link: "kepemilikan-saham",
     description:
@@ -59,41 +61,41 @@ export const toolsFeatures = [
     description:
       "Hitung bagaimana harga rata-rata berubah saat Anda membeli saham secara bertahap di harga yang berbeda.",
   },
-    // {
-    //   icon: TrendingDown,
-    //   title: "Kalkulator Drawdown",
-    //   link: "kalkulator-drawdown",
-    //   description:
-    //     "Ketahui seberapa besar penurunan dari modal atau portofolio Anda untuk mengukur risiko kerugian.",
-    // },
-    // {
-    //   icon: Calculator,
-    //   title: "Kalkulator Resiko & Reward",
-    //   link: "kalkulator-resiko-and-reward",
-    //   description:
-    //     "Bandingkan potensi keuntungan dan kerugian sebelum membeli saham untuk membantu pengambilan keputusan.",
-    // },
-    // {
-    //   icon: PieChart,
-    //   title: "Pembagian Portofolio",
-    //   link: "pembagian-portofolio",
-    //   description:
-    //     "Lihat komposisi investasi Anda berdasarkan sektor, industri, atau perusahaan untuk menjaga keseimbangan portofolio.",
-    // },
-    // {
-    //   icon: DollarSign,
-    //   title: "Kalkulator Dividen",
-    //   link: "kalkulator-dividen",
-    //   description:
-    //     "Hitung potensi pendapatan dari dividen dan proyeksi pertumbuhannya dalam jangka panjang.",
-    // },
-    // {
-    //   icon: BarChart3,
-    //   title: "Simulasi Strategi Investasi",
-    //   link: "simulasi-strategi-investasi",
-    //   description:
-    //     "Simulasikan cara membeli saham secara bertahap dan lihat hasil akhir jika harga naik atau turun.",
-    // },
+  // {
+  //   icon: TrendingDown,
+  //   title: "Kalkulator Drawdown",
+  //   link: "kalkulator-drawdown",
+  //   description:
+  //     "Ketahui seberapa besar penurunan dari modal atau portofolio Anda untuk mengukur risiko kerugian.",
+  // },
+  // {
+  //   icon: Calculator,
+  //   title: "Kalkulator Resiko & Reward",
+  //   link: "kalkulator-resiko-and-reward",
+  //   description:
+  //     "Bandingkan potensi keuntungan dan kerugian sebelum membeli saham untuk membantu pengambilan keputusan.",
+  // },
+  // {
+  //   icon: PieChart,
+  //   title: "Pembagian Portofolio",
+  //   link: "pembagian-portofolio",
+  //   description:
+  //     "Lihat komposisi investasi Anda berdasarkan sektor, industri, atau perusahaan untuk menjaga keseimbangan portofolio.",
+  // },
+  // {
+  //   icon: DollarSign,
+  //   title: "Kalkulator Dividen",
+  //   link: "kalkulator-dividen",
+  //   description:
+  //     "Hitung potensi pendapatan dari dividen dan proyeksi pertumbuhannya dalam jangka panjang.",
+  // },
+  // {
+  //   icon: BarChart3,
+  //   title: "Simulasi Strategi Investasi",
+  //   link: "simulasi-strategi-investasi",
+  //   description:
+  //     "Simulasikan cara membeli saham secara bertahap dan lihat hasil akhir jika harga naik atau turun.",
+  // },
 ];
 
 export const highlights = [
