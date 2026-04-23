@@ -233,7 +233,7 @@ function Home_View(props: Props) {
             dengan lebih mudah.
           </p>
           <a
-            href="mailto:contact@stockplan.id"
+            href="mailto:info@stockplan.id"
             className="bg-[#F97316] text-white px-8 py-3 rounded-xl font-bold text-[16px] hover:bg-[#EA580C] transition-colors inline-block"
           >
             Kirim Pesan
