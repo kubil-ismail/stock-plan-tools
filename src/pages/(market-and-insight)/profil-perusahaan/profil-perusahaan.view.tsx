@@ -5,6 +5,8 @@ import { useState, useMemo } from "react";
 import company from "@/data/company.json";
 import CompanyLogo from "@/components/companyLogo";
 import { useSearchParams } from "next/navigation";
+import { ArrowRight } from "lucide-react";
+import Link from "next/link";
 
 const INITIAL_LOAD = 120;
 const LOAD_MORE_STEP = 120;
@@ -155,7 +157,9 @@ function EmptySearchState({ keyword }: { keyword: string }) {
       {/* Description */}
       <p className="text-sm text-gray-500 mt-1 max-w-sm">
         Tidak ada perusahaan yang cocok dengan pencarian{" "}
-        <span className="font-medium text-gray-700">&quot;{keyword}&ldquo;</span>
+        <span className="font-medium text-gray-700">
+          &quot;{keyword}&ldquo;
+        </span>
       </p>
 
       {/* Hint */}
@@ -166,7 +170,7 @@ function EmptySearchState({ keyword }: { keyword: string }) {
 
 function CompanyCard({ company }: any) {
   return (
-    <div className="bg-white/70 border border-gray-200 shadow-sm rounded-3xl p-6 transition hover:shadow-lg hover:-translate-y-0.5 cursor-pointer">
+    <div className="flex flex-col h-full bg-white/70 border border-gray-200 shadow-sm rounded-3xl p-6 transition hover:shadow-lg hover:-translate-y-0.5 cursor-pointer">
       {/* HEADER */}
 
       <div className="flex items-start gap-4">
@@ -202,14 +206,6 @@ function CompanyCard({ company }: any) {
         </div>
       </div>
 
-      {/* CLASSIFICATION */}
-
-      <div className="mt-5 pt-4 border-t border-gray-100">
-        <p className="text-xs text-gray-500 mb-1">Sector & Industry</p>
-
-        <IndustryHierarchy company={company} />
-      </div>
-
       {/* MAIN BUSINESS */}
 
       {company["Bidang Usaha Utama"] && (
@@ -224,6 +220,23 @@ function CompanyCard({ company }: any) {
           </p>
         </div>
       )}
+
+      {/* CLASSIFICATION */}
+      <div className="my-5 pt-4 border-t border-gray-100">
+        <p className="text-xs text-gray-500 mb-1">Sector & Industry</p>
+
+        <IndustryHierarchy company={company} />
+      </div>
+
+      <div className="mt-auto mt-5 pt-4 border-t border-gray-100">
+        <Link href={`/profil-perusahaan/${company.Kode}`}>
+          <div className="flex items-center gap-2 text-[#F97316] text-[14px] font-bold group-hover:gap-3 transition-all">
+            <span>Lihat Selengkapnya</span>
+
+            <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
+          </div>
+        </Link>
+      </div>
     </div>
   );
 }

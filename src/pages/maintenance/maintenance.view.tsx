@@ -66,7 +66,7 @@ export default function Maintenance_View({
           <p className="text-[14px] text-[#8A8682]">
             Punya saran atau masukan?{" "}
             <a
-              href="mailto:contact@stockplan.id"
+              href="mailto:info@stockplan.id"
               className="text-[#F97316] font-bold hover:underline"
             >
               Hubungi Kami

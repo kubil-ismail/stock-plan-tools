@@ -20,7 +20,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 
-interface Props {}
+// interface Props {}
 
 export const marketFeatures = [
   {
@@ -119,9 +119,7 @@ export const highlights = [
   },
 ];
 
-function Home_View(props: Props) {
-  const {} = props;
-
+function Home_View() {
   return (
     <>
       {/* Hero */}
