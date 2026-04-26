@@ -1,15 +1,13 @@
 import { useState, memo } from "react";
 
 function CompanyLogo({ company }: any) {
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
   return (
     <div className="w-14 h-14 shrink-0 rounded-2xl overflow-hidden border border-gray-200 bg-white flex items-center justify-center relative">
       {/* Skeleton */}
-      {loading && !error && (
-        <div className="absolute inset-0 animate-pulse bg-gray-100" />
-      )}
+      {loading && !error && <div className="absolute inset-0 bg-gray-100" />}
 
       {/* Image */}
       {!error && company.logo && (
@@ -19,11 +17,10 @@ function CompanyLogo({ company }: any) {
           className={`
             object-contain p-2 w-full h-full
             transition-opacity duration-200
-            ${loading ? "opacity-0" : "opacity-100"}
           `}
           loading="lazy"
           decoding="async"
-          onLoad={() => setLoading(false)}
+          // onLoad={() => setLoading(false)}
           onError={() => {
             setLoading(false);
             setError(true);

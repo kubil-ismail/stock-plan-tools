@@ -4,18 +4,16 @@
 import { useState, useMemo } from "react";
 import company from "@/data/company.json";
 import CompanyLogo from "@/components/companyLogo";
-import { useSearchParams } from "next/navigation";
 import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 
 const INITIAL_LOAD = 120;
 const LOAD_MORE_STEP = 120;
 
-function Company_list_view() {
-  const search = useSearchParams();
+function Company_list_view(props) {
 
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
-  const [searchTerm, setSearchTerm] = useState(search?.get("search") ?? "");
+  const [searchTerm, setSearchTerm] = useState(props?.search ?? "");
 
   // MAP DATA
   const companies = useMemo(
@@ -170,74 +168,74 @@ function EmptySearchState({ keyword }: { keyword: string }) {
 
 function CompanyCard({ company }: any) {
   return (
-    <div className="flex flex-col h-full bg-white/70 border border-gray-200 shadow-sm rounded-3xl p-6 transition hover:shadow-lg hover:-translate-y-0.5 cursor-pointer">
-      {/* HEADER */}
+    <Link href={`/profil-perusahaan/${company.Kode}`}>
+      <div className="flex flex-col h-full bg-white/70 border border-gray-200 shadow-sm rounded-3xl p-6 transition hover:shadow-lg hover:-translate-y-0.5 cursor-pointer">
+        {/* HEADER */}
 
-      <div className="flex items-start gap-4">
-        {/* LOGO */}
+        <div className="flex items-start gap-4">
+          {/* LOGO */}
 
-        <div className="relative w-14 h-14 rounded-2xl overflow-hidden border border-gray-200 bg-white shrink-0">
-          <CompanyLogo company={company} />
-        </div>
+          <div className="relative w-14 h-14 rounded-2xl overflow-hidden border border-gray-200 bg-white shrink-0">
+            <CompanyLogo company={company} />
+          </div>
 
-        {/* TEXT BLOCK */}
+          {/* TEXT BLOCK */}
 
-        <div className="min-w-0">
-          {/* CODE */}
+          <div className="min-w-0">
+            {/* CODE */}
 
-          <h2 className="font-bold text-gray-900 text-[18px] leading-tight">
-            {company.Kode}
-          </h2>
+            <h2 className="font-bold text-gray-900 text-[18px] leading-tight">
+              {company.Kode}
+            </h2>
 
-          {/* NAME */}
+            {/* NAME */}
 
-          <p
-            className="text-sm text-gray-600 mt-1 line-clamp-2"
-            title={company.Nama}
-          >
-            {company.Nama}
-          </p>
+            <p
+              className="text-sm text-gray-600 mt-1 line-clamp-2"
+              title={company.Nama}
+            >
+              {company.Nama}
+            </p>
 
-          {/* BOARD */}
+            {/* BOARD */}
 
-          <div className="mt-2">
-            <BoardBadge board={company["Papan Pencatatan"]} />
+            <div className="mt-2">
+              <BoardBadge board={company["Papan Pencatatan"]} />
+            </div>
           </div>
         </div>
-      </div>
 
-      {/* MAIN BUSINESS */}
+        {/* MAIN BUSINESS */}
 
-      {company["Bidang Usaha Utama"] && (
-        <div className="mt-5 pt-4 border-t border-gray-100">
-          <p className="text-xs text-gray-500 mb-1">Main Business</p>
+        {company["Bidang Usaha Utama"] && (
+          <div className="mt-5 pt-4 border-t border-gray-100 min-h-18">
+            <p className="text-xs text-gray-500 mb-1">Main Business</p>
 
-          <p
-            className="text-sm text-gray-700 line-clamp-2"
-            title={company["Bidang Usaha Utama"]}
-          >
-            {company["Bidang Usaha Utama"]}
-          </p>
+            <p
+              className="text-sm text-gray-700 line-clamp-2"
+              title={company["Bidang Usaha Utama"]}
+            >
+              {company["Bidang Usaha Utama"]}
+            </p>
+          </div>
+        )}
+
+        {/* CLASSIFICATION */}
+        <div className="my-5 pt-4 border-t border-gray-100">
+          <p className="text-xs text-gray-500 mb-1">Sector & Industry</p>
+
+          <IndustryHierarchy company={company} />
         </div>
-      )}
 
-      {/* CLASSIFICATION */}
-      <div className="my-5 pt-4 border-t border-gray-100">
-        <p className="text-xs text-gray-500 mb-1">Sector & Industry</p>
-
-        <IndustryHierarchy company={company} />
-      </div>
-
-      <div className="mt-auto mt-5 pt-4 border-t border-gray-100">
-        <Link href={`/profil-perusahaan/${company.Kode}`}>
+        <div className="mt-auto mt-5 pt-4 border-t border-gray-100">
           <div className="flex items-center gap-2 text-[#F97316] text-[14px] font-bold group-hover:gap-3 transition-all">
             <span>Lihat Selengkapnya</span>
 
             <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
           </div>
-        </Link>
+        </div>
       </div>
-    </div>
+    </Link>
   );
 }
 

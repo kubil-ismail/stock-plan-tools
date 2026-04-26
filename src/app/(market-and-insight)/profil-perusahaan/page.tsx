@@ -1,13 +1,17 @@
 import type { Metadata } from "next";
-import { Suspense } from "react";
 import Profil_Perusahaan_view from "@/pages/(market-and-insight)/profil-perusahaan/profil-perusahaan.view";
 
-export default function Page() {
+export default async function Page({
+  searchParams,
+}: {
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
+}) {
+  const search = (await searchParams).search;
+
+
   return (
     <>
-      <Suspense fallback={<></>}>
-        <Profil_Perusahaan_view />
-      </Suspense>
+      <Profil_Perusahaan_view search={search} />
     </>
   );
 }
