@@ -1,15 +1,7 @@
-"use client";
+
 import {
-  // Calendar,
-  // Users,
-  // Building,
   TrendingUp,
   Star,
-  // TrendingDown,
-  // Calculator,
-  // PieChart,
-  // DollarSign,
-  // BarChart3,
   Zap,
   Shield,
   Clock,
@@ -19,8 +11,6 @@ import {
   UserRoundSearch,
 } from "lucide-react";
 import Link from "next/link";
-
-// interface Props {}
 
 export const marketFeatures = [
   {

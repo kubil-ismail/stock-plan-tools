@@ -8,12 +8,7 @@ export default async function Page({
 }) {
   const search = (await searchParams).search;
 
-
-  return (
-    <>
-      <Profil_Perusahaan_view search={search} />
-    </>
-  );
+  return <Profil_Perusahaan_view search={search} />;
 }
 
 export const metadata: Metadata = {
@@ -48,14 +43,14 @@ export const metadata: Metadata = {
     locale: "id_ID",
     type: "website",
 
-    images: [
-      {
-        url: "/og-company-profile.png",
-        width: 1200,
-        height: 630,
-        alt: "Profil Perusahaan dan Manajemen Perusahaan",
-      },
-    ],
+    // images: [
+    //   {
+    //     url: "/og-company-profile.png",
+    //     width: 1200,
+    //     height: 630,
+    //     alt: "Profil Perusahaan dan Manajemen Perusahaan",
+    //   },
+    // ],
   },
 
   twitter: {
@@ -65,7 +60,7 @@ export const metadata: Metadata = {
 
     description: "Lihat profil lengkap perusahaan dan struktur manajemen.",
 
-    images: ["/og-company-profile.png"],
+    // images: ["/og-company-profile.png"],
   },
 
   robots: {

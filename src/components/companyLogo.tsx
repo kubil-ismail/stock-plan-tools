@@ -1,3 +1,4 @@
+"use client";
 import { useState, memo } from "react";
 
 function CompanyLogo({ company }: any) {
@@ -12,7 +13,7 @@ function CompanyLogo({ company }: any) {
       {/* Image */}
       {!error && company.logo && (
         <img
-          src={company.logo}
+          src={`https://www.idx.co.id/${company.logo}`}
           alt={company.Nama}
           className={`
             object-contain p-2 w-full h-full
