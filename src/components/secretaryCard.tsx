@@ -24,8 +24,8 @@ function SecretaryCard(props: Props) {
       </div>
       <div>
         <div className="flex items-center gap-3">
-          <p className="text-[14px] font-semibold text-foreground mb-0.5">
-            {secretary?.name}
+          <p className="text-[14px] font-semibold text-foreground mb-0.5 capitalize">
+            {secretary?.name.toLowerCase()}
           </p>
         </div>
 

@@ -49,8 +49,8 @@ export default function ManagementCard(props: Props) {
       </div>
       <div>
         <div className="flex items-center gap-3">
-          <p className="text-[14px] font-semibold text-foreground mb-0.5">
-            {item?.name}
+          <p className="text-[14px] font-semibold text-foreground mb-0.5 capitalize">
+            {item?.name.toLocaleLowerCase()}
           </p>
         </div>
 

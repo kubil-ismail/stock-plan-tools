@@ -164,3 +164,47 @@ export function parseNumber(value?: string | number) {
 
   return Number(value.replace(/\./g, ""));
 }
+
+export function sortManagement(data: any[]) {
+  const TYPE_PRIORITY: Record<string, number> = {
+    KOMISARIS: 1,
+    DIREKSI: 2,
+    "SEKRETARIS PERUSAHAAN": 3,
+    "KOMITE AUDIT": 4,
+  };
+
+  const POSITION_PRIORITY: Record<string, number> = {
+    "KOMISARIS UTAMA": 1,
+    KOMISARIS: 2,
+
+    "DIREKTUR UTAMA": 1,
+    "WAKIL DIREKTUR UTAMA": 2,
+    DIREKTUR: 3,
+
+    "SEKRETARIS PERUSAHAAN": 1,
+
+    KETUA: 1,
+    ANGGOTA: 2,
+  };
+
+  return [...data].sort((a, b) => {
+    // 1️⃣ sort by TYPE dulu
+    const typeA = TYPE_PRIORITY[a.type] ?? 999;
+    const typeB = TYPE_PRIORITY[b.type] ?? 999;
+
+    if (typeA !== typeB) {
+      return typeA - typeB;
+    }
+
+    // 2️⃣ baru sort by POSITION dalam type yang sama
+    const posA = POSITION_PRIORITY[a.position] ?? 999;
+    const posB = POSITION_PRIORITY[b.position] ?? 999;
+
+    if (posA !== posB) {
+      return posA - posB;
+    }
+
+    // 3️⃣ fallback: name
+    return a.name.localeCompare(b.name);
+  });
+}

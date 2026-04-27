@@ -10,7 +10,7 @@ import SubsidiarieCard from "@/components/subsidiarieCard";
 import { IndustryHierarchy } from "@/components/companyCard";
 import { StockDetail, StockManagement } from "@/types/stocks";
 import { GlassCard } from "@/components/glassCard";
-import { parseNumber } from "@/lib/utils";
+import { parseNumber, sortManagement } from "@/lib/utils";
 import { format } from "date-fns";
 
 function Company_detail_view({ slug }: { slug: string }) {
@@ -26,6 +26,8 @@ function Company_detail_view({ slug }: { slug: string }) {
   const secretary = selectedCompany?.managements.find(
     (item: StockManagement) => item.position === "SEKRETARIS PERUSAHAAN"
   );
+
+  const managements = sortManagement(selectedCompany?.managements);
 
   const shareholders = selectedCompany.shareholders
     .slice()
@@ -167,7 +169,7 @@ function Company_detail_view({ slug }: { slug: string }) {
             </h4>
 
             <div className="grid grid-cols-2 gap-4 mb-6">
-              {selectedCompany?.managements.map((item, key) => (
+              {managements.map((item, key) => (
                 <Link
                   href={`/kepemilikan-saham/${item.name.toLowerCase()}`}
                   key={key}
