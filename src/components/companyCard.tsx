@@ -77,7 +77,7 @@ export default function CompanyCard(props: Props) {
   );
 }
 
-function IndustryHierarchy({ company }: { company: StockDetail }) {
+export function IndustryHierarchy({ company }: { company: StockDetail }) {
   const rawItems = [
     company.sector.name,
     company.subsector.name,

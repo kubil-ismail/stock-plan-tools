@@ -4,6 +4,20 @@ export type StockList = {
   listing_date: string;
 };
 
+export type StockManagement = {
+  id: number;
+  company_id: number;
+  name: string;
+  type: string;
+  position: string;
+  phone: string;
+  email: string;
+  is_affiliated: boolean;
+  createdAt: Date;
+  updatedAt: Date;
+  deletedAt: Date | null;
+};
+
 export type StockDetail = {
   id: string;
   ticker: string;
@@ -35,19 +49,7 @@ export type StockDetail = {
     name: string;
   };
 
-  managements: {
-    id: number;
-    company_id: number;
-    name: string;
-    type: string;
-    position: string;
-    phone: string;
-    email: string;
-    is_affiliated: boolean;
-    createdAt: Date;
-    updatedAt: Date;
-    deletedAt: Date | null;
-  }[];
+  managements: StockManagement[];
 
   shareholders: {
     id: number;

@@ -7,10 +7,10 @@ import { StockDetail } from "@/types/stocks";
 const INITIAL_LOAD = 120;
 const LOAD_MORE_STEP = 120;
 
-function Profil_perusahaan_view() {
+function Profil_perusahaan_view({ search }: { search: string }) {
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
 
-  const [searchTerm, setSearchTerm] = useState("");
+  const [searchTerm, setSearchTerm] = useState(search ?? "");
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
 
   // SEARCH FILTER

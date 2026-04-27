@@ -6,9 +6,9 @@ export default async function Page({
 }: {
   searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }) {
-  const search = (await searchParams).search;
+  const search = (await searchParams).search || "";
 
-  return <Profil_Perusahaan_view search={search} />;
+  return <Profil_Perusahaan_view search={String(search)} />;
 }
 
 export const metadata: Metadata = {
