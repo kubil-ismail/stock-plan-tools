@@ -1,10 +1,4 @@
-type Broker = {
-  name: string,
-  code: string,
-  logo: string,
-  buyFee: number,
-  sellFee: number,
-};
+import { Broker } from "@/types/brokers";
 
 export const brokers: Broker[] = [
   {

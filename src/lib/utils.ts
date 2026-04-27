@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 
@@ -110,8 +111,6 @@ export const getAvgChangePercent = (
 
   const avg = toNumber(currentAvg);
   const target = toNumber(targetAvg);
-
-  console.log(avg);
 
   if (!avg || !target) return null;
 

@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @next/next/no-img-element */
 "use client";
 
@@ -18,21 +19,13 @@ import {
   InputGroupInput,
 } from "@/components/ui/input-group";
 
-export type BrokerOption = {
-  name: string;
-  code: string;
-  logo?: string;
-  buyFee?: number;
-  sellFee?: number;
-};
-
 type Props = {
   placeholder?: string;
   variant?: string;
   label: string;
-  options: BrokerOption[];
-  value?: BrokerOption | null;
-  onChange?: (broker: BrokerOption | null) => void;
+  options: any[];
+  value?: any | null;
+  onChange?: (broker: any | null) => void;
 };
 
 export function Autocomplete({
@@ -84,13 +77,11 @@ export function Autocomplete({
   =========================
   */
 
-  const handleSelect = (broker: BrokerOption) => {
+  const handleSelect = (broker: any) => {
     onChange?.(broker);
     setOpen(false);
     setSearch("");
   };
-
-  console.log(options);
 
   return (
     <>
@@ -116,7 +107,8 @@ export function Autocomplete({
 
                 {variant === "stocks" && (
                   <>
-                    {value.code} <span>|</span> <span className="text-[13px] font-[400]">{value.name}</span>
+                    {value.code} <span>|</span>{" "}
+                    <span className="text-[13px] font-[400]">{value.name}</span>
                   </>
                 )}
 

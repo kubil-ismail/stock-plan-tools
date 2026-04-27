@@ -14,6 +14,9 @@ interface RupiahInputProps {
   onChange?: (value: number | null) => void;
   allowDecimal?: boolean;
   disablePrefix?: boolean;
+  error?: boolean;
+  helperText?: string | boolean | undefined;
+  disabled?: boolean;
 }
 
 export function RupiahInput({
@@ -22,6 +25,7 @@ export function RupiahInput({
   onChange,
   allowDecimal = true,
   disablePrefix = false,
+  disabled = false,
 }: RupiahInputProps) {
   const [display, setDisplay] = useState("");
 
@@ -145,6 +149,7 @@ export function RupiahInput({
         onChange={handleChange}
         onBlur={handleBlur}
         onFocus={handleFocus}
+        disabled={disabled}
       />
     </InputGroup>
   );
