@@ -16,9 +16,9 @@ export default function CompanyCard(props: Props) {
         <div className="flex flex-col h-full bg-white/70 border border-gray-200 shadow-sm rounded-3xl p-6 transition hover:shadow-lg hover:-translate-y-0.5 cursor-pointer">
           {/* HEADER */}
 
-          <div className="flex items-start gap-4">
+          <div className="flex flex-col md:flex-row items-start gap-4">
             {/* LOGO */}
-            <div className="relative w-14 h-14 rounded-2xl overflow-hidden border border-gray-200 bg-white shrink-0">
+            <div className="relative w-14 h-14 rounded-2xl overflow-hidden border border-gray-200 bg-white shrink-0 mb-1">
               <CompanyLogo company={company} />
             </div>
 
@@ -37,7 +37,6 @@ export default function CompanyCard(props: Props) {
               </p>
 
               {/* BOARD */}
-
               <div className="mt-2">
                 <BoardBadge board={company.listing_board} />
               </div>

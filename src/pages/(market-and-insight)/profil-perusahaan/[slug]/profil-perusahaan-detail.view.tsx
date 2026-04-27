@@ -46,19 +46,19 @@ function Company_detail_view({ slug }: { slug: string }) {
       <div className="max-w-5xl mx-auto space-y-8">
         {/* Head */}
         <GlassCard>
-          <div className="flex gap-6 items-center">
+          <div className="flex gap-4">
             {/* LOGO */}
             <CompanyLogo company={selectedCompany} />
 
             {/* COMPANY IDENTITY */}
-            <div className="flex flex-col gap-2">
-              <div className="flex items-center gap-3 flex-wrap">
+            <div className="flex flex-col gap-1">
+              <div className="flex items-center flex-wrap">
                 <h1 className="text-3xl font-bold tracking-tight text-gray-900">
                   {selectedCompany?.ticker}
                 </h1>
               </div>
 
-              <p className="text-base text-gray-700 font-medium">
+              <p className="text-base text-gray-700 text-[14px] md:text-[16px] font-medium text-pretty">
                 {selectedCompany?.name}
               </p>
 
@@ -69,18 +69,18 @@ function Company_detail_view({ slug }: { slug: string }) {
 
         {/* INFORMASI PERUSAHAAN */}
         <GlassCard>
-          <h3 className="text-[24px] font-semibold text-foreground mb-1 flex items-center gap-2">
+          <h3 className="text-[18px] md:text-[24px] font-semibold text-foreground mb-1 flex items-center gap-2">
             Tentang {selectedCompany?.name}
           </h3>
           <p className="text-[14px] text-muted-foreground mb-6">
-            Detailed corporate structure and fundamentals
+            Profil dan manajemen perusahaan
           </p>
 
           <section className="my-10">
             <div className="grid md:grid-cols-3 gap-4 mb-6">
               <div>
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Sector
+                  Sektor
                 </h4>
                 <p className="text-[14px] text-muted-foreground leading-relaxed mb-4">
                   {selectedCompany?.sector?.name}
@@ -94,7 +94,7 @@ function Company_detail_view({ slug }: { slug: string }) {
                 </p>
 
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  IPO date
+                  Tanggal IPO
                 </h4>
                 <p className="text-[14px] text-muted-foreground leading-relaxed">
                   {format(
@@ -106,7 +106,7 @@ function Company_detail_view({ slug }: { slug: string }) {
 
               <div>
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Industry
+                  Industri
                 </h4>
                 <p className="text-[14px] text-muted-foreground leading-relaxed mb-4">
                   {selectedCompany?.sector?.name}
@@ -136,7 +136,7 @@ function Company_detail_view({ slug }: { slug: string }) {
                 </p>
 
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Headquarters
+                  Kantor Utama
                 </h4>
                 <p className="text-[14px] text-muted-foreground leading-relaxed">
                   {selectedCompany?.office_address}
@@ -145,7 +145,7 @@ function Company_detail_view({ slug }: { slug: string }) {
             </div>
 
             <h4 className="text-[16px] font-semibold text-foreground mb-1">
-              Main Business
+              Bisnis Utama
             </h4>
             <p className="text-[14px] text-muted-foreground leading-relaxed">
               {selectedCompany?.main_business}
@@ -158,7 +158,7 @@ function Company_detail_view({ slug }: { slug: string }) {
               Sekertaris Perusahaan
             </h4>
 
-            <div className="grid grid-cols-2 gap-4 mb-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
               <SecretaryCard secretary={secretary!} />
             </div>
           </section>
@@ -168,7 +168,7 @@ function Company_detail_view({ slug }: { slug: string }) {
               Manajemen Perusahaan
             </h4>
 
-            <div className="grid grid-cols-2 gap-4 mb-6">
+            <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
               {managements?.map((item, key) => (
                 <Link
                   href={`/kepemilikan-saham/${item.name.toLowerCase()}`}
@@ -185,7 +185,7 @@ function Company_detail_view({ slug }: { slug: string }) {
               Pemegang Saham
             </h4>
 
-            <div className="grid grid-cols-2 gap-4 mb-6">
+            <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
               {shareholders?.map((item, key) => (
                 <Link
                   href={`/kepemilikan-saham/${item.name.toLowerCase()}`}
@@ -202,7 +202,7 @@ function Company_detail_view({ slug }: { slug: string }) {
               Anak Perusahaan
             </h4>
 
-            <div className="grid grid-cols-2 gap-4 mb-6">
+            <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
               {subsidiaries?.map((item, key) => (
                 <SubsidiarieCard item={item} key={key} />
               ))}

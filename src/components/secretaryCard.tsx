@@ -22,26 +22,24 @@ function SecretaryCard(props: Props) {
             ?.substring(0, 2)}
         </span>
       </div>
-      <div>
+      <div className="space-y-1">
         <div className="flex items-center gap-3">
           <p className="text-[14px] font-semibold text-foreground mb-0.5 capitalize">
             {secretary?.name.toLowerCase()}
           </p>
         </div>
 
-        <div className="flex items-center">
-          <div className="flex items-center gap-1">
-            <Mail className="text-muted-foreground" size={13} />
-            <a
-              className="text-[13px] text-muted-foreground"
-              href={`mailto:${secretary?.email}`}
-            >
-              {secretary?.email}
-            </a>
-          </div>
+        <div className="flex gap-1 mb-1">
+          <Mail className="text-muted-foreground" size={13} />
+          <a
+            className="text-[13px] text-muted-foreground"
+            href={`mailto:${secretary?.email}`}
+          >
+            {secretary?.email}
+          </a>
         </div>
 
-        <div className="flex items-center gap-1">
+        <div className="flex gap-1">
           <Phone className="text-muted-foreground" size={13} />
           <p className="text-[12px] text-muted-foreground">
             {secretary?.phone}
