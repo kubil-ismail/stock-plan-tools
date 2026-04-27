@@ -13,7 +13,7 @@ function SecretaryCard(props: Props) {
 
   return (
     <div className="bg-muted/40 rounded-xl p-4 flex items-start gap-3">
-      <div className="w-10 h-10 rounded-full bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center flex-shrink-0">
+      <div className="hidden md:block w-10 h-10 rounded-full bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center flex-shrink-0">
         <span className="text-[14px] font-bold text-primary">
           {secretary?.name
             ?.split(" ")
@@ -29,7 +29,7 @@ function SecretaryCard(props: Props) {
           </p>
         </div>
 
-        <div className="flex gap-1 mb-1">
+        <div className="flex items-center gap-1 mb-1">
           <Mail className="text-muted-foreground" size={13} />
           <a
             className="text-[13px] text-muted-foreground"
@@ -39,7 +39,7 @@ function SecretaryCard(props: Props) {
           </a>
         </div>
 
-        <div className="flex gap-1">
+        <div className="flex items-center gap-1">
           <Phone className="text-muted-foreground" size={13} />
           <p className="text-[12px] text-muted-foreground">
             {secretary?.phone}
