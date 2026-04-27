@@ -27,15 +27,15 @@ function Company_detail_view({ slug }: { slug: string }) {
     (item: StockManagement) => item.position === "SEKRETARIS PERUSAHAAN"
   );
 
-  const managements = sortManagement(selectedCompany?.managements);
+  const managements = sortManagement(selectedCompany?.managements ?? []);
 
-  const shareholders = selectedCompany.shareholders
+  const shareholders = selectedCompany?.shareholders
     .slice()
-    .sort((a, b) => parseNumber(b.total) - parseNumber(a.total));
+    .sort((a, b) => parseNumber(b.total) - parseNumber(a.total)) ?? [];
 
-  const subsidiaries = selectedCompany.subsidiaries
+  const subsidiaries = selectedCompany?.subsidiaries
     .slice()
-    .sort((a, b) => parseNumber(b.asset) - parseNumber(a.asset));
+    .sort((a, b) => parseNumber(b.asset) - parseNumber(a.asset)) ?? [];
 
   return (
     <div className="relative min-h-screen py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
@@ -169,7 +169,7 @@ function Company_detail_view({ slug }: { slug: string }) {
             </h4>
 
             <div className="grid grid-cols-2 gap-4 mb-6">
-              {managements.map((item, key) => (
+              {managements?.map((item, key) => (
                 <Link
                   href={`/kepemilikan-saham/${item.name.toLowerCase()}`}
                   key={key}
@@ -203,7 +203,7 @@ function Company_detail_view({ slug }: { slug: string }) {
             </h4>
 
             <div className="grid grid-cols-2 gap-4 mb-6">
-              {subsidiaries.map((item, key) => (
+              {subsidiaries?.map((item, key) => (
                 <SubsidiarieCard item={item} key={key} />
               ))}
             </div>

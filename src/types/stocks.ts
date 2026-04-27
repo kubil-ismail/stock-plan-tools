@@ -13,13 +13,13 @@ export type StockManagement = {
   phone: string;
   email: string;
   is_affiliated: boolean;
-  createdAt: Date;
-  updatedAt: Date;
-  deletedAt: Date | null;
+  createdAt: string;
+  updatedAt: string;
+  deletedAt: string | null;
 };
 
 export type StockDetail = {
-  id: string;
+  id: number;
   ticker: string;
   name: string;
   logo: string;
@@ -29,7 +29,7 @@ export type StockDetail = {
   fax: string;
   tin: string;
   website: string;
-  listing_date: Date;
+  listing_date: string;
   listing_board: string;
   main_business: string;
   sector: {
@@ -58,8 +58,8 @@ export type StockDetail = {
     type: string;
     total: string;
     percentage: string;
-    createdAt: Date;
-    updatedAt: Date;
+    createdAt: string;
+    updatedAt: string;
   }[];
 
   subsidiaries: {
@@ -69,8 +69,8 @@ export type StockDetail = {
     type: string;
     asset: string;
     percentage: string;
-    createdAt: Date;
-    updatedAt: Date;
-    deletedAt: Date | null;
+    createdAt: string;
+    updatedAt: string;
+    deletedAt: string | null;
   }[];
 };

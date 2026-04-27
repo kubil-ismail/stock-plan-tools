@@ -79,10 +79,10 @@ export default function CompanyCard(props: Props) {
 
 export function IndustryHierarchy({ company }: { company: StockDetail }) {
   const rawItems = [
-    company.sector.name,
-    company.subsector.name,
-    company.industry.name,
-    company.subindustry.name,
+    company?.sector?.name,
+    company?.subsector?.name,
+    company?.industry?.name,
+    company?.subindustry?.name,
   ].filter(Boolean);
 
   // remove consecutive duplicates

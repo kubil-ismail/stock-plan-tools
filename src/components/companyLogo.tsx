@@ -1,7 +1,8 @@
 "use client";
+import { StockDetail } from "@/types/stocks";
 import { useState, memo } from "react";
 
-function CompanyLogo({ company }: any) {
+function CompanyLogo({ company }: { company: StockDetail }) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
@@ -11,10 +12,10 @@ function CompanyLogo({ company }: any) {
       {loading && !error && <div className="absolute inset-0 bg-gray-100" />}
 
       {/* Image */}
-      {!error && company.logo && (
+      {!error && company?.logo && (
         <img
-          src={`https://www.idx.co.id/${company.logo}`}
-          alt={company.Nama}
+          src={`https://www.idx.co.id/${company?.logo ?? ""}`}
+          alt={company?.name}
           className={`
             object-contain p-2 w-full h-full
             transition-opacity duration-200
@@ -30,7 +31,7 @@ function CompanyLogo({ company }: any) {
       )}
 
       {/* Fallback */}
-      {error && <FallbackLogo code={company.Kode} />}
+      {error && <FallbackLogo code={company.ticker} />}
     </div>
   );
 }
