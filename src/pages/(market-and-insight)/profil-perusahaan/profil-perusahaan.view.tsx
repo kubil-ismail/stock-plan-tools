@@ -119,7 +119,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
               onClick={handleLoadMore}
               className="px-6 py-3 bg-orange-500 text-white rounded-xl font-medium hover:opacity-90"
             >
-              Load More
+              Tampilkan Berikutnya
             </button>
           </div>
         )}
