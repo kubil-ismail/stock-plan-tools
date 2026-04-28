@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import shareholder from "@/data/shareholders.json";
+import company from "@/data/company_list.json";
 import { slugify } from "@/lib/utils";
 
 const BASE_URL = "https://stockplan.id";
@@ -12,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/kalender-saham",
     "/aktivitas-insider",
     "/kepemilikan-saham",
+    "/profil-perusahaan",
     "/kalkulator-avarage",
     "/kalkulator-drawdown",
     "/kalkulator-resiko-and-reward",
@@ -38,5 +40,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.6,
     }));
 
-  return [...staticRoutes, ...shareholders_sitemap];
+  const profil_sitemap = Array.from(
+    new Map(company.data.map((item) => [item.code, item])).values()
+  )
+    .sort((a, b) => a.code.localeCompare(b.code))
+    .map((item) => ({
+      url: `${BASE_URL}/profil-perusahaan/${item.code}`,
+      lastModified: now,
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    }));
+
+  return [...staticRoutes, ...shareholders_sitemap, ...profil_sitemap];
 }
