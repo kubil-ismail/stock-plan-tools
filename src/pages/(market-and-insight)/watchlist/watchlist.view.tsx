@@ -211,7 +211,7 @@ function Watchlist_view() {
   const [step, setStep] = useState<"step-1" | "step-2">("step-1");
 
   const [title, setTitle] = useState("");
-  const [date, setDate] = useState(new Date());
+  const [date, setDate] = useState("");
   const [note, setNote] = useState("");
 
   const [currentPage, setCurrentPage] = useState(1);
