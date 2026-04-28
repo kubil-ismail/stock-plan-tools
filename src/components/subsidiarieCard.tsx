@@ -27,7 +27,7 @@ function SubsidiarieCard(props: Props) {
 
         <p className="text-[12px] text-muted-foreground">
           <span className="font-medium">Asset Total:</span> {item?.asset} (
-          {item?.percentage})
+          {item?.percentage?.split(" ").join("")})
         </p>
       </div>
     </div>
