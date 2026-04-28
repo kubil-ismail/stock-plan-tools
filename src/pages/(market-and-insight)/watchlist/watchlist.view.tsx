@@ -6,16 +6,16 @@ import {
   ChevronLeft,
   ChevronRight,
   Edit2,
-  GripVertical,
+  // GripVertical,
   Plus,
   Trash2,
 } from "lucide-react";
 import { Fragment, useState } from "react";
-import { DndContext, closestCenter } from "@dnd-kit/core";
+// import { DndContext, closestCenter } from "@dnd-kit/core";
 import {
-  arrayMove,
-  SortableContext,
-  verticalListSortingStrategy,
+  // arrayMove,
+  // SortableContext,
+  // verticalListSortingStrategy,
   useSortable,
 } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
@@ -35,10 +35,9 @@ function SortableRow({
   handleDeleteItem,
   handleChange,
 }: any) {
-  const { attributes, listeners, setNodeRef, transform, transition } =
-    useSortable({
-      id: item.stock_code,
-    });
+  const { setNodeRef, transform, transition } = useSortable({
+    id: item.stock_code,
+  });
 
   const style = {
     transform: CSS.Transform.toString(transform),
@@ -68,17 +67,8 @@ function SortableRow({
       className="group border border-neutral-200 rounded-2xl p-2 bg-white hover:border-[#F97316] transition-all shadow-sm"
     >
       <div className="flex items-center gap-3">
-        {/* DRAG HANDLE */}
-        <div
-          {...attributes}
-          {...listeners}
-          className="flex items-center justify-center cursor-grab active:cursor-grabbing text-neutral-400 group-hover:text-[#F97316] transition px-1"
-        >
-          <GripVertical size={20} />
-        </div>
-
         {/* CONTENT */}
-        <div className="flex-1 grid grid-cols-4 md:grid-cols-5 gap-3 items-center">
+        <div className="flex-1 grid grid-cols-1 md:grid-cols-5 gap-3 items-center">
           {/* KODE */}
           <div className="flex justify-start">
             <input
@@ -92,7 +82,7 @@ function SortableRow({
               maxLength={6}
               autoComplete="off"
               className={`
-                w-full max-w-[110px] h-[40px]
+                w-full md:max-w-[110px] h-[40px]
                 text-left px-3 rounded-xl border transition uppercase
                
                 ${
@@ -105,7 +95,7 @@ function SortableRow({
           </div>
 
           {/* BUY */}
-          <div className="flex justify-center">
+          <div className="flex md:justify-center">
             <input
               type="text"
               defaultValue={item.buy}
@@ -116,9 +106,9 @@ function SortableRow({
               inputMode="decimal"
               pattern="[0-9,.\-]*"
               className={`
-                w-full max-w-[110px] h-[40px]
+                w-full md:max-w-[110px] h-[40px]
                 text-center px-3 rounded-xl border transition
-                text-[12px]
+                text-[12px] text-left md:text-center
                 ${
                   isEdit
                     ? "border-[#F97316] bg-white"
@@ -129,7 +119,7 @@ function SortableRow({
           </div>
 
           {/* TARGET */}
-          <div className="flex justify-center">
+          <div className="flex md:justify-center">
             <input
               type="text"
               defaultValue={item.target}
@@ -140,9 +130,9 @@ function SortableRow({
               inputMode="decimal"
               pattern="[0-9,.\-]*"
               className={`
-                w-full max-w-[110px] h-[40px]
+                w-full md:max-w-[110px] h-[40px]
                 text-center px-3 rounded-xl border transition
-                text-[12px]
+                text-[12px] text-left md:text-center
                 ${
                   isEdit
                     ? "border-[#F97316] bg-white"
@@ -153,7 +143,7 @@ function SortableRow({
           </div>
 
           {/* STOP LOSS */}
-          <div className="flex justify-end">
+          <div className="flex md:justify-end">
             <input
               type="text"
               defaultValue={item.stop_loss}
@@ -164,9 +154,9 @@ function SortableRow({
               disabled={!isEdit}
               placeholder="Cut loss"
               className={`
-                w-full max-w-[120px] h-[40px]
+                w-full md:max-w-[120px] h-[40px]
                 text-center px-3 rounded-xl border transition
-                text-[12px]
+                text-[12px] text-left md:text-center
                 ${
                   isEdit
                     ? "border-[#F97316] bg-white"
@@ -177,7 +167,7 @@ function SortableRow({
           </div>
 
           {/* ACTION */}
-          <div className="hidden md:flex items-center justify-end gap-2">
+          <div className="flex items-center justify-end gap-2">
             {!isEdit && (
               <button
                 type="button"
@@ -221,11 +211,11 @@ function Watchlist_view() {
   const [step, setStep] = useState<"step-1" | "step-2">("step-1");
 
   const [title, setTitle] = useState("");
-  const [date, setDate] = useState("");
+  const [date, setDate] = useState(new Date());
   const [note, setNote] = useState("");
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [editIndex, setEditIndex] = useState<number | null>(null);
+  const [editIndex, setEditIndex] = useState<number | null>(0);
 
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
 
@@ -271,20 +261,6 @@ function Watchlist_view() {
     });
   };
 
-  const handleDragEnd = (event: any) => {
-    const { active, over } = event;
-
-    if (!over || active.id === over.id) return;
-
-    setWatchlist((items) => {
-      const oldIndex = items.findIndex((item) => item.stock_code === active.id);
-
-      const newIndex = items.findIndex((item) => item.stock_code === over.id);
-
-      return arrayMove(items, oldIndex, newIndex);
-    });
-  };
-
   return (
     <div className="relative min-h-screen py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
       {/* Background */}
@@ -295,7 +271,7 @@ function Watchlist_view() {
         <div className="max-w-2xl w-full relative">
           {step === "step-1" && (
             <Fragment>
-              <div className="bg-white rounded-3xl p-8 border border-[#E5E7EB] shadow-xl relative overflow-hidden">
+              <div className="bg-white rounded-3xl p-5 md:p-8 border border-[#E5E7EB] shadow-xl relative overflow-hidden">
                 <section>
                   <div className="flex items-center gap-2 mb-5">
                     <p className="bg-[#F97316] flex w-7 h-7 text-[14px] rounded-full items-center justify-center font-bold text-[#fff]">
@@ -397,42 +373,19 @@ function Watchlist_view() {
 
                 {/* STEP 2 */}
                 <div className="space-y-4">
-                  {/* HEADER */}
-                  <div className="grid grid-cols-4 md:grid-cols-5 gap-3 text-[12px] font-semibold text-neutral-500 mb-2">
-                    <div className="flex justify-between">
-                      <p className="">Sort</p>
-                      <p className="pr-5">Stock</p>
-                    </div>
-                    <p className="text-center">Entry</p>
-                    <p className="text-center">Take Profit</p>
-                    <p className="text-right pr-5">Cut Loss</p>
-                    <p className="hidden md:block text-right pr-2">Action</p>
-                  </div>
-
-                  <DndContext
-                    collisionDetection={closestCenter}
-                    onDragEnd={handleDragEnd}
-                  >
-                    <SortableContext
-                      disabled={editIndex !== null}
-                      items={watchlist.map((i) => i.stock_code)}
-                      strategy={verticalListSortingStrategy}
-                    >
-                      {watchlist.map((item, index) => (
-                        <SortableRow
-                          key={index}
-                          item={item}
-                          index={index}
-                          editIndex={editIndex}
-                          setEditIndex={setEditIndex}
-                          handleDeleteItem={handleDeleteItem}
-                          handleChange={(key: string, value: string) =>
-                            handleChange(index, key, value)
-                          }
-                        />
-                      ))}
-                    </SortableContext>
-                  </DndContext>
+                  {watchlist.map((item, index) => (
+                    <SortableRow
+                      key={index}
+                      item={item}
+                      index={index}
+                      editIndex={editIndex}
+                      setEditIndex={setEditIndex}
+                      handleDeleteItem={handleDeleteItem}
+                      handleChange={(key: string, value: string) =>
+                        handleChange(index, key, value)
+                      }
+                    />
+                  ))}
 
                   <div className="flex justify-end">
                     <button
@@ -497,21 +450,11 @@ function Watchlist_view() {
                 />
 
                 {/* HEADER */}
-                <div className="flex items-start justify-between">
+                <div className="flex items-center justify-between mb-2">
                   <div className="space-y-1">
                     {date && (
                       <p className="text-sm text-neutral-500 font-medium">
                         {format(date, "dd MMM yyyy")}
-                      </p>
-                    )}
-
-                    <h2 className="text-2xl font-bold text-neutral-900 tracking-wide">
-                      {title}
-                    </h2>
-
-                    {note && (
-                      <p className="text-[14px] text-neutral-600 max-w-[520px]">
-                        {note}
                       </p>
                     )}
                   </div>
@@ -537,6 +480,16 @@ function Watchlist_view() {
                     Watchlist
                   </div>
                 </div>
+
+                <h2 className="text-xl md:text-2xl font-bold text-neutral-900 tracking-wide">
+                  {title}
+                </h2>
+
+                {note && (
+                  <p className="text-[14px] text-neutral-600 max-w-[520px]">
+                    {note}
+                  </p>
+                )}
 
                 {/* TABLE HEADER */}
 
