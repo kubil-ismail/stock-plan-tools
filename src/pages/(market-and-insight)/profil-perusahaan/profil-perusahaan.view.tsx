@@ -53,9 +53,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
   return (
     <div className="relative min-h-screen py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
       {/* Background */}
-
       <div className="absolute w-72 h-72 bg-orange-300/30 rounded-full blur-3xl top-[-80px] left-[-80px]" />
-
       <div className="absolute w-72 h-72 bg-blue-300/30 rounded-full blur-3xl bottom-[-80px] right-[-80px]" />
 
       <div className="max-w-7xl mx-auto relative">

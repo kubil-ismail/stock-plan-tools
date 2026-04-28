@@ -8,6 +8,7 @@ import {
   ArrowRight,
   Building2,
   UserRoundSearch,
+  Megaphone,
 } from "lucide-react";
 import Link from "next/link";
 
@@ -27,11 +28,11 @@ export const marketFeatures = [
       "Cari tahu siapa saja yang memiliki saham tertentu, termasuk investor besar, institusi, atau tokoh terkenal.",
   },
   // {
-  //   icon: Users,
-  //   title: "Aktivitas Insider",
-  //   link: "aktivitas-insider",
+  //   icon: Megaphone,
+  //   title: "Informasi Perusahaan",
+  //   link: "informasi-perusahaan",
   //   description:
-  //     "Lihat pergerakan jual dan beli saham oleh direksi dan manajemen perusahaan untuk memahami sinyal dari dalam perusahaan.",
+  //     "Pantau berbagai informasi penting seperti aksi korporasi, jadwal perusahaan, notasi khusus, dan status pemantauan dalam satu tempat.",
   // },
 ];
 

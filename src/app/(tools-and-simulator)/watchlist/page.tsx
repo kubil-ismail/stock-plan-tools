@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Watchlist_view from "@/pages/(market-and-insight)/watchlist/watchlist.view";
+import Watchlist_view from "@/pages/(tools-and-simulator)/watchlist/watchlist.view";
 
 export default function Page() {
   return <Watchlist_view />;

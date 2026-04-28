@@ -2,7 +2,7 @@
 import { StockDetail } from "@/types/stocks";
 import { useState, memo } from "react";
 
-function CompanyLogo({ company }: { company: StockDetail }) {
+function CompanyLogo({ company }: { company: { logo: string } }) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
