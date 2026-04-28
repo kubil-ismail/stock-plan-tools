@@ -16,7 +16,7 @@ function Kepemilikan_saham_view() {
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
 
   const filteredData = useMemo(() => {
-    const keyword = search.toLowerCase();
+    const keyword = search.toLowerCase().trim();
 
     return shareholder.data
       .filter((item) => {

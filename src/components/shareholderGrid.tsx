@@ -60,7 +60,7 @@ export default function ShareholderGrid(props: Props) {
             .map((_item, index) => (
               <a
                 target="_blank"
-                href={`/profil-perusahaan?search=${_item.ticker}`}
+                href={`/profil-perusahaan/${_item.ticker}`}
                 key={`${item.shareholder_name}_${index}`}
               >
                 <div className="shadow-xs bg-white/50 border border-white/40 rounded-xl px-4 py-3 grid grid-cols-3 items-center hover:bg-white/80 hover:shadow-lg hover:-translate-y-0.5 hover:border-orange-200 transition-all duration-200">

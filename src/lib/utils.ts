@@ -127,7 +127,7 @@ export function slugify(text: string) {
       // ganti spasi jadi dash
       .replace(/\s+/g, "-")
       // hapus karakter selain huruf, angka, titik, dash, apostrophe
-      .replace(/[^a-z0-9.\-']/g, "")
+      .replace(/[^a-z0-9.,\-']/g, "")
       // rapihin dash dobel
       .replace(/-+/g, "-")
       .replace(/(^-|-$)/g, "")

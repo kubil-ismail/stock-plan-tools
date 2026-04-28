@@ -10,7 +10,7 @@ import SubsidiarieCard from "@/components/subsidiarieCard";
 import { IndustryHierarchy } from "@/components/companyCard";
 import { StockDetail, StockManagement } from "@/types/stocks";
 import { GlassCard } from "@/components/glassCard";
-import { parseNumber, sortManagement } from "@/lib/utils";
+import { parseNumber, slugify, sortManagement } from "@/lib/utils";
 import { format } from "date-fns";
 
 function Company_detail_view({ slug }: { slug: string }) {
@@ -171,7 +171,7 @@ function Company_detail_view({ slug }: { slug: string }) {
             <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
               {managements?.map((item, key) => (
                 <Link
-                  href={`/kepemilikan-saham/${item.name.toLowerCase()}`}
+                  href={`/kepemilikan-saham/${slugify(item.name)}`}
                   key={key}
                 >
                   <ManagementCard item={item} />
@@ -188,7 +188,7 @@ function Company_detail_view({ slug }: { slug: string }) {
             <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
               {shareholders?.map((item, key) => (
                 <Link
-                  href={`/kepemilikan-saham/${item.name.toLowerCase()}`}
+                  href={`/kepemilikan-saham/${slugify(item.name)}`}
                   key={key}
                 >
                   <ShareholderCard item={item} />
