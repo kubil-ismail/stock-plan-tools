@@ -3,14 +3,14 @@ import shareholder from "@/data/shareholders.json";
 import ShareholderGrid from "@/components/shareholderGrid";
 import { useParams } from "next/navigation";
 import { useMemo, useState } from "react";
-import { formatRupiah } from "@/lib/utils";
+import { formatRupiah, unslugify } from "@/lib/utils";
 
 const INITIAL_LOAD = 102;
 const LOAD_MORE_STEP = 102;
 
 function Kepemilikan_saham_view() {
   const params = useParams<{ slug: string }>();
-  const slug = decodeURI(params?.slug ?? "");
+  const slug = unslugify(params?.slug ?? "");
 
   const [search, setSearch] = useState(slug);
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);

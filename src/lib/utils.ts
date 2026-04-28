@@ -135,7 +135,23 @@ export function slugify(text: string) {
 }
 
 export function unslugify(slug: string) {
-  return slug.replace(/-/g, " ").replace(/\b\w/g, (char) => char.toUpperCase());
+  return (
+    decodeURIComponent(slug)
+      .toLowerCase()
+      .trim()
+
+      // khusus handle gelar: -s.-ak → , S. Ak
+      .replace(/-([a-z])\.-/g, ", $1. ")
+
+      // sisa dash jadi spasi
+      .replace(/-+/g, " ")
+
+      // rapihin spasi
+      .replace(/\s+/g, " ")
+
+      // kapitalisasi tiap kata
+      .replace(/\b\w/g, (c) => c.toUpperCase())
+  );
 }
 
 export const calculatePercentage = (
