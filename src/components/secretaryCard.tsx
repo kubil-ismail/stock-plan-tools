@@ -13,7 +13,7 @@ function SecretaryCard(props: Props) {
 
   return (
     <div className="bg-muted/40 rounded-xl p-4 flex items-start gap-3">
-      <div className="hidden md:block w-10 h-10 rounded-full bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center flex-shrink-0">
+      <div className="hidden md:flex w-10 h-10 rounded-full bg-gradient-to-br from-primary/20 to-secondary/20 items-center justify-center flex-shrink-0">
         <span className="text-[14px] font-bold text-primary">
           {secretary?.name
             ?.split(" ")
