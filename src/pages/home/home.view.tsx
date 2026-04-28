@@ -1,4 +1,3 @@
-
 import {
   TrendingUp,
   Star,
@@ -13,13 +12,6 @@ import {
 import Link from "next/link";
 
 export const marketFeatures = [
-  {
-    icon: Star,
-    title: "Watchlist",
-    link: "watchlist",
-    description:
-      "Simpan dan pantau saham favorit Anda dalam satu tempat untuk memudahkan memonitor daftar saham yang ingin Anda ikuti.",
-  },
   {
     icon: Building2,
     title: "Profil Perusahaan",
@@ -50,6 +42,13 @@ export const toolsFeatures = [
     link: "kalkulator-avarage",
     description:
       "Hitung bagaimana harga rata-rata berubah saat Anda membeli saham secara bertahap di harga yang berbeda.",
+  },
+  {
+    icon: Star,
+    title: "Watchlist",
+    link: "watchlist",
+    description:
+      "Simpan dan pantau saham favorit Anda dalam satu tempat untuk memudahkan memonitor daftar saham yang ingin Anda ikuti.",
   },
   // {
   //   icon: TrendingDown,
