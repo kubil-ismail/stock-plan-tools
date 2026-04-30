@@ -61,7 +61,7 @@ function Informasi_perusahaan_view() {
 
   const handleOpenCalendar = () => {
     const input = inputRef.current;
-    
+
     if (!(input instanceof HTMLInputElement)) return;
 
     if (typeof input.showPicker === "function") {
@@ -268,8 +268,8 @@ function Calendar_card(props: {
 
   return (
     <Card>
-      <CardContent className="text-sm flex gap-3">
-        <a href={`/profil-perusahaan/${ticker}`} target="_blank">
+      <CardContent className="text-sm flex  gap-3">
+        <a href={`/profil-perusahaan/${ticker}`} target="_blank" className="hidden md:block">
           <CompanyLogo
             company={{
               logo: selectedCompany?.logo ?? "",
@@ -278,6 +278,14 @@ function Calendar_card(props: {
         </a>
 
         <div className="space-y-0.5 w-full">
+          <a href={`/profil-perusahaan/${ticker}`} target="_blank" className="block md:hidden mb-5">
+            <CompanyLogo
+              company={{
+                logo: selectedCompany?.logo ?? "",
+              }}
+            />
+          </a>
+
           <div className="flex justify-between items-center">
             <a
               className="text-[19px] font-semibold text-foreground"
@@ -327,7 +335,11 @@ function Notation_card(props: {
   return (
     <Card>
       <CardContent className="text-sm flex gap-3">
-        <a href={`/profil-perusahaan/${ticker}`} target="_blank">
+        <a
+          href={`/profil-perusahaan/${ticker}`}
+          target="_blank"
+          className="hidden md:block"
+        >
           <CompanyLogo
             company={{
               logo: selectedCompany?.logo ?? "",
@@ -336,6 +348,18 @@ function Notation_card(props: {
         </a>
 
         <div className="space-y-0.5 w-full">
+          <a
+            href={`/profil-perusahaan/${ticker}`}
+            target="_blank"
+            className="block md:hidden mb-5"
+          >
+            <CompanyLogo
+              company={{
+                logo: selectedCompany?.logo ?? "",
+              }}
+            />
+          </a>
+
           <div className="flex justify-between items-center">
             <a
               className="text-[19px] font-semibold text-foreground"
@@ -358,7 +382,7 @@ function Notation_card(props: {
           <div>
             <span className="font-semibold">Keterangan:</span>
             <br />
-            <div className="pl-2 mt-1">
+            <div className="md:pl-2 mt-1">
               <span
                 className="text-neutral-600"
                 dangerouslySetInnerHTML={{
