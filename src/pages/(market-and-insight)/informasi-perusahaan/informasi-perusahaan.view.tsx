@@ -128,17 +128,20 @@ function Informasi_perusahaan_view() {
         </div>
 
         <Tabs defaultValue="semua" className="w-full">
-          <TabsList variant="line">
-            <TabsTrigger value="semua">
-              Semua ({filter_calendar.length + filter_pemantauan_khusus.length})
-            </TabsTrigger>
-            <TabsTrigger value="aksi_korporat">
-              Aksi Korporat ({filter_calendar.length})
-            </TabsTrigger>
-            <TabsTrigger value="notasi_khusus">
-              Notasi Khusus ({filter_pemantauan_khusus.length})
-            </TabsTrigger>
-          </TabsList>
+          <div className="flex items-center overflow-x-auto overflow-y-hidden">
+            <TabsList variant="line">
+              <TabsTrigger value="semua">
+                Semua (
+                {filter_calendar.length + filter_pemantauan_khusus.length})
+              </TabsTrigger>
+              <TabsTrigger value="aksi_korporat">
+                Aksi Korporat ({filter_calendar.length})
+              </TabsTrigger>
+              <TabsTrigger value="notasi_khusus">
+                Notasi Khusus ({filter_pemantauan_khusus.length})
+              </TabsTrigger>
+            </TabsList>
+          </div>
           <TabsContent value="semua" className="pt-4 grid md:grid-cols-2 gap-4">
             {isAllEmpty ? (
               <div className="col-span-full border border-dashed rounded-xl p-6 text-center text-sm text-muted-foreground">
@@ -269,7 +272,11 @@ function Calendar_card(props: {
   return (
     <Card>
       <CardContent className="text-sm flex  gap-3">
-        <a href={`/profil-perusahaan/${ticker}`} target="_blank" className="hidden md:block">
+        <a
+          href={`/profil-perusahaan/${ticker}`}
+          target="_blank"
+          className="hidden md:block"
+        >
           <CompanyLogo
             company={{
               logo: selectedCompany?.logo ?? "",
@@ -278,7 +285,11 @@ function Calendar_card(props: {
         </a>
 
         <div className="space-y-0.5 w-full">
-          <a href={`/profil-perusahaan/${ticker}`} target="_blank" className="block md:hidden mb-5">
+          <a
+            href={`/profil-perusahaan/${ticker}`}
+            target="_blank"
+            className="block md:hidden mb-5"
+          >
             <CompanyLogo
               company={{
                 logo: selectedCompany?.logo ?? "",
