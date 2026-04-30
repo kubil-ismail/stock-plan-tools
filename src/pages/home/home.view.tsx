@@ -27,13 +27,13 @@ export const marketFeatures = [
     description:
       "Cari tahu siapa saja yang memiliki saham tertentu, termasuk investor besar, institusi, atau tokoh terkenal.",
   },
-  // {
-  //   icon: Megaphone,
-  //   title: "Informasi Perusahaan",
-  //   link: "informasi-perusahaan",
-  //   description:
-  //     "Pantau berbagai informasi penting seperti aksi korporasi, jadwal perusahaan, notasi khusus, dan status pemantauan dalam satu tempat.",
-  // },
+  {
+    icon: Megaphone,
+    title: "Informasi Perusahaan",
+    link: "informasi-perusahaan",
+    description:
+      "Pantau berbagai informasi penting seperti aksi korporasi, jadwal perusahaan, notasi khusus, dan status pemantauan dalam satu tempat.",
+  },
 ];
 
 export const toolsFeatures = [

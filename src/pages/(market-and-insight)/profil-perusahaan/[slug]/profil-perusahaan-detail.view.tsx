@@ -27,7 +27,11 @@ function Company_detail_view({ slug }: { slug: string }) {
     (item: StockManagement) => item.position === "SEKRETARIS PERUSAHAAN"
   );
 
-  const managements = sortManagement(selectedCompany?.managements ?? []);
+  const managements = sortManagement(
+    selectedCompany?.managements?.filter(
+      (item) => item.position !== "SEKRETARIS PERUSAHAAN"
+    ) ?? []
+  );
 
   const shareholders = selectedCompany?.shareholders
     .slice()
@@ -202,11 +206,21 @@ function Company_detail_view({ slug }: { slug: string }) {
               Anak Perusahaan
             </h4>
 
-            <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
-              {subsidiaries?.map((item, key) => (
-                <SubsidiarieCard item={item} key={key} />
-              ))}
-            </div>
+            {!subsidiaries ||
+            subsidiaries.length === 0 ||
+            (subsidiaries.length === 1 &&
+              subsidiaries[0]?.name ===
+                "Data anak perusahaan tidak ditemukan") ? (
+              <div className="border border-dashed rounded-xl p-6 text-center text-sm text-muted-foreground">
+                Tidak ada data anak perusahaan
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                {subsidiaries.map((item, key) => (
+                  <SubsidiarieCard item={item} key={key} />
+                ))}
+              </div>
+            )}
           </section>
         </GlassCard>
       </div>

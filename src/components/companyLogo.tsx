@@ -1,8 +1,11 @@
 "use client";
-import { StockDetail } from "@/types/stocks";
 import { useState, memo } from "react";
 
-function CompanyLogo({ company }: { company: { logo: string } }) {
+function CompanyLogo({
+  company,
+}: {
+  company: { logo: string; name?: string; ticker?: string };
+}) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
@@ -31,7 +34,7 @@ function CompanyLogo({ company }: { company: { logo: string } }) {
       )}
 
       {/* Fallback */}
-      {error && <FallbackLogo code={company.ticker} />}
+      {error && <FallbackLogo code={company?.ticker} />}
     </div>
   );
 }
