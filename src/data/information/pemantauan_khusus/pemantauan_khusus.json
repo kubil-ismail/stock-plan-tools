@@ -1,5 +1,5 @@
 {
-  "total": 165,
+  "total": 161,
   "data": [
     {
       "Kode_Saham": "OCAP",
@@ -20,6 +20,12 @@
       "Kriteria": "1"
     },
     {
+      "Kode_Saham": "BLTA",
+      "Nama_Perusahaan": "Berlian Laju Tanker Tbk",
+      "Tanggal_Masuk": "31 Mei 2022",
+      "Kriteria": "1"
+    },
+    {
       "Kode_Saham": "BSWD",
       "Nama_Perusahaan": "Bank of India Indonesia Tbk",
       "Tanggal_Masuk": "31 Mei 2022",
@@ -28,12 +34,6 @@
     {
       "Kode_Saham": "BTEK",
       "Nama_Perusahaan": "Bumi Teknokultura Unggul Tbk",
-      "Tanggal_Masuk": "31 Mei 2022",
-      "Kriteria": "1"
-    },
-    {
-      "Kode_Saham": "BLTA",
-      "Nama_Perusahaan": "Berlian Laju Tanker Tbk",
       "Tanggal_Masuk": "31 Mei 2022",
       "Kriteria": "1"
     },
@@ -110,16 +110,16 @@
       "Kriteria": "1"
     },
     {
-      "Kode_Saham": "HRME",
-      "Nama_Perusahaan": "PT Menteng Heritage Realty Tbk.",
-      "Tanggal_Masuk": "31 Mei 2023",
-      "Kriteria": "1"
-    },
-    {
       "Kode_Saham": "IBST",
       "Nama_Perusahaan": "Inti Bangun Sejahtera Tbk",
       "Tanggal_Masuk": "31 Mei 2023",
       "Kriteria": "7"
+    },
+    {
+      "Kode_Saham": "HRME",
+      "Nama_Perusahaan": "PT Menteng Heritage Realty Tbk.",
+      "Tanggal_Masuk": "31 Mei 2023",
+      "Kriteria": "1"
     },
     {
       "Kode_Saham": "WINR",
@@ -134,10 +134,40 @@
       "Kriteria": "1, 3"
     },
     {
-      "Kode_Saham": "WSBP",
-      "Nama_Perusahaan": "PT Waskita Beton Precast Tbk.",
+      "Kode_Saham": "TAMU",
+      "Nama_Perusahaan": "PT Pelayaran Tamarin Samudra Tbk.",
       "Tanggal_Masuk": "30 Nov 2023",
-      "Kriteria": "1, 5"
+      "Kriteria": "1"
+    },
+    {
+      "Kode_Saham": "TARA",
+      "Nama_Perusahaan": "PT Agung Semesta Sejahtera Tbk",
+      "Tanggal_Masuk": "30 Nov 2023",
+      "Kriteria": "1"
+    },
+    {
+      "Kode_Saham": "PBRX",
+      "Nama_Perusahaan": "Pan Brothers Tbk",
+      "Tanggal_Masuk": "30 Nov 2023",
+      "Kriteria": "1"
+    },
+    {
+      "Kode_Saham": "MIRA",
+      "Nama_Perusahaan": "Mitra International Resources Tbk",
+      "Tanggal_Masuk": "30 Nov 2023",
+      "Kriteria": "1"
+    },
+    {
+      "Kode_Saham": "KIAS",
+      "Nama_Perusahaan": "Keramika Indonesia Assosiasi Tbk",
+      "Tanggal_Masuk": "30 Nov 2023",
+      "Kriteria": "1"
+    },
+    {
+      "Kode_Saham": "NASA",
+      "Nama_Perusahaan": "PT Andalan Perkasa Abadi Tbk",
+      "Tanggal_Masuk": "30 Nov 2023",
+      "Kriteria": "1"
     },
     {
       "Kode_Saham": "EPAC",
@@ -158,40 +188,22 @@
       "Kriteria": "1"
     },
     {
-      "Kode_Saham": "TAMU",
-      "Nama_Perusahaan": "PT Pelayaran Tamarin Samudra Tbk.",
+      "Kode_Saham": "WSBP",
+      "Nama_Perusahaan": "PT Waskita Beton Precast Tbk.",
       "Tanggal_Masuk": "30 Nov 2023",
-      "Kriteria": "1"
+      "Kriteria": "1, 5"
     },
     {
-      "Kode_Saham": "TARA",
-      "Nama_Perusahaan": "PT Agung Semesta Sejahtera Tbk",
-      "Tanggal_Masuk": "30 Nov 2023",
-      "Kriteria": "1"
+      "Kode_Saham": "TRIO",
+      "Nama_Perusahaan": "Trikomsel Oke Tbk",
+      "Tanggal_Masuk": "31 Jan 2024",
+      "Kriteria": "5, 6, 7"
     },
     {
-      "Kode_Saham": "KIAS",
-      "Nama_Perusahaan": "Keramika Indonesia Assosiasi Tbk",
-      "Tanggal_Masuk": "30 Nov 2023",
-      "Kriteria": "1"
-    },
-    {
-      "Kode_Saham": "NASA",
-      "Nama_Perusahaan": "PT Andalan Perkasa Abadi Tbk",
-      "Tanggal_Masuk": "30 Nov 2023",
-      "Kriteria": "1"
-    },
-    {
-      "Kode_Saham": "PBRX",
-      "Nama_Perusahaan": "Pan Brothers Tbk",
-      "Tanggal_Masuk": "30 Nov 2023",
-      "Kriteria": "1"
-    },
-    {
-      "Kode_Saham": "MIRA",
-      "Nama_Perusahaan": "Mitra International Resources Tbk",
-      "Tanggal_Masuk": "30 Nov 2023",
-      "Kriteria": "1"
+      "Kode_Saham": "DUCK",
+      "Nama_Perusahaan": "PT Jaya Bersama Indo Tbk.",
+      "Tanggal_Masuk": "31 Jan 2024",
+      "Kriteria": "6, 7"
     },
     {
       "Kode_Saham": "LCGP",
@@ -216,18 +228,6 @@
       "Nama_Perusahaan": "PT Solusi Bangun Indonesia Tbk",
       "Tanggal_Masuk": "31 Jan 2024",
       "Kriteria": "6"
-    },
-    {
-      "Kode_Saham": "DUCK",
-      "Nama_Perusahaan": "PT Jaya Bersama Indo Tbk.",
-      "Tanggal_Masuk": "31 Jan 2024",
-      "Kriteria": "6, 7"
-    },
-    {
-      "Kode_Saham": "TRIO",
-      "Nama_Perusahaan": "Trikomsel Oke Tbk",
-      "Tanggal_Masuk": "31 Jan 2024",
-      "Kriteria": "5, 6, 7"
     },
     {
       "Kode_Saham": "SUPR",
@@ -350,6 +350,12 @@
       "Kriteria": "1, 6"
     },
     {
+      "Kode_Saham": "MFMI",
+      "Nama_Perusahaan": "Multifiling Mitra Indonesia Tbk",
+      "Tanggal_Masuk": "21 Jun 2024",
+      "Kriteria": "6"
+    },
+    {
       "Kode_Saham": "MTFN",
       "Nama_Perusahaan": "Capitalinc Investment Tbk",
       "Tanggal_Masuk": "21 Jun 2024",
@@ -374,10 +380,10 @@
       "Kriteria": "1, 2, 5"
     },
     {
-      "Kode_Saham": "MFMI",
-      "Nama_Perusahaan": "Multifiling Mitra Indonesia Tbk",
+      "Kode_Saham": "SIMA",
+      "Nama_Perusahaan": "Siwani Makmur Tbk",
       "Tanggal_Masuk": "21 Jun 2024",
-      "Kriteria": "6"
+      "Kriteria": "1, 5, 6"
     },
     {
       "Kode_Saham": "RIMO",
@@ -396,12 +402,6 @@
       "Nama_Perusahaan": "PT Bliss Properti Indonesia Tbk.",
       "Tanggal_Masuk": "21 Jun 2024",
       "Kriteria": "1, 5"
-    },
-    {
-      "Kode_Saham": "SIMA",
-      "Nama_Perusahaan": "Siwani Makmur Tbk",
-      "Tanggal_Masuk": "21 Jun 2024",
-      "Kriteria": "1, 5, 6"
     },
     {
       "Kode_Saham": "SUGI",
@@ -452,6 +452,12 @@
       "Kriteria": "1, 5"
     },
     {
+      "Kode_Saham": "BKDP",
+      "Nama_Perusahaan": "Bukit Darmo Property Tbk",
+      "Tanggal_Masuk": "30 Agt 2024",
+      "Kriteria": "1"
+    },
+    {
       "Kode_Saham": "BLTZ",
       "Nama_Perusahaan": "PT Graha Layar Prima Tbk.",
       "Tanggal_Masuk": "30 Agt 2024",
@@ -462,12 +468,6 @@
       "Nama_Perusahaan": "PT Borneo Olah Sarana Sukses Tbk.",
       "Tanggal_Masuk": "30 Agt 2024",
       "Kriteria": "1, 5, 9"
-    },
-    {
-      "Kode_Saham": "BKDP",
-      "Nama_Perusahaan": "Bukit Darmo Property Tbk",
-      "Tanggal_Masuk": "30 Agt 2024",
-      "Kriteria": "1"
     },
     {
       "Kode_Saham": "ARTI",
@@ -518,12 +518,6 @@
       "Kriteria": "2"
     },
     {
-      "Kode_Saham": "ABDA",
-      "Nama_Perusahaan": "Asuransi Bina Dana Arta Tbk",
-      "Tanggal_Masuk": "09 Apr 2025",
-      "Kriteria": "7"
-    },
-    {
       "Kode_Saham": "POLY",
       "Nama_Perusahaan": "Asia Pacific Fibers Tbk",
       "Tanggal_Masuk": "09 Apr 2025",
@@ -536,22 +530,16 @@
       "Kriteria": "1, 2, 6"
     },
     {
-      "Kode_Saham": "IPPE",
-      "Nama_Perusahaan": "PT Indo Pureco Pratama Tbk",
-      "Tanggal_Masuk": "30 Apr 2025",
-      "Kriteria": "1, 6"
-    },
-    {
-      "Kode_Saham": "POLL",
-      "Nama_Perusahaan": "PT Pollux Properties Indonesia Tbk.",
-      "Tanggal_Masuk": "30 Apr 2025",
-      "Kriteria": "6, 7"
-    },
-    {
       "Kode_Saham": "TDPM",
       "Nama_Perusahaan": "PT Tianrong Chemicals Industry Tbk",
       "Tanggal_Masuk": "30 Apr 2025",
       "Kriteria": "6, 7, 8"
+    },
+    {
+      "Kode_Saham": "IPPE",
+      "Nama_Perusahaan": "PT Indo Pureco Pratama Tbk",
+      "Tanggal_Masuk": "30 Apr 2025",
+      "Kriteria": "1, 6"
     },
     {
       "Kode_Saham": "ZINC",
@@ -566,16 +554,16 @@
       "Kriteria": "5, 6, 7, 8"
     },
     {
-      "Kode_Saham": "MTSM",
-      "Nama_Perusahaan": "Metro Realty Tbk",
-      "Tanggal_Masuk": "28 Mei 2025",
-      "Kriteria": "6, 7"
-    },
-    {
       "Kode_Saham": "PCAR",
       "Nama_Perusahaan": "PT Prima Cakrawala Abadi Tbk",
       "Tanggal_Masuk": "28 Mei 2025",
       "Kriteria": "1"
+    },
+    {
+      "Kode_Saham": "MTSM",
+      "Nama_Perusahaan": "Metro Realty Tbk",
+      "Tanggal_Masuk": "28 Mei 2025",
+      "Kriteria": "6, 7"
     },
     {
       "Kode_Saham": "FASW",
@@ -686,12 +674,6 @@
       "Kriteria": "1, 5, 6, 8"
     },
     {
-      "Kode_Saham": "FIMP",
-      "Nama_Perusahaan": "PT Fimperkasa Utama Tbk",
-      "Tanggal_Masuk": "28 Nov 2025",
-      "Kriteria": "3, 7"
-    },
-    {
       "Kode_Saham": "CNKO",
       "Nama_Perusahaan": "Exploitasi Energi Indonesia Tbk",
       "Tanggal_Masuk": "28 Nov 2025",
@@ -702,6 +684,12 @@
       "Nama_Perusahaan": "Mahaka Media Tbk",
       "Tanggal_Masuk": "28 Nov 2025",
       "Kriteria": "5"
+    },
+    {
+      "Kode_Saham": "FIMP",
+      "Nama_Perusahaan": "PT Fimperkasa Utama Tbk",
+      "Tanggal_Masuk": "28 Nov 2025",
+      "Kriteria": "3, 7"
     },
     {
       "Kode_Saham": "PTMR",
@@ -866,22 +854,16 @@
       "Kriteria": "5"
     },
     {
-      "Kode_Saham": "TAMA",
-      "Nama_Perusahaan": "PT Lancartama Sejati Tbk.",
-      "Tanggal_Masuk": "06 Apr 2026",
-      "Kriteria": "1"
-    },
-    {
       "Kode_Saham": "TIRT",
       "Nama_Perusahaan": "Tirta Mahakam Resources Tbk",
       "Tanggal_Masuk": "06 Apr 2026",
       "Kriteria": "5"
     },
     {
-      "Kode_Saham": "YPAS",
-      "Nama_Perusahaan": "Yanaprima Hastapersada Tbk",
-      "Tanggal_Masuk": "22 Apr 2026",
-      "Kriteria": "10"
+      "Kode_Saham": "TAMA",
+      "Nama_Perusahaan": "PT Lancartama Sejati Tbk.",
+      "Tanggal_Masuk": "06 Apr 2026",
+      "Kriteria": "1"
     },
     {
       "Kode_Saham": "EURO",
@@ -896,14 +878,14 @@
       "Kriteria": "6"
     },
     {
-      "Kode_Saham": "JECC",
-      "Nama_Perusahaan": "Jembo Cable Company Tbk",
+      "Kode_Saham": "IFSH",
+      "Nama_Perusahaan": "PT Ifishdeco Tbk.",
       "Tanggal_Masuk": "30 Apr 2026",
       "Kriteria": "6"
     },
     {
-      "Kode_Saham": "IFSH",
-      "Nama_Perusahaan": "PT Ifishdeco Tbk.",
+      "Kode_Saham": "JECC",
+      "Nama_Perusahaan": "Jembo Cable Company Tbk",
       "Tanggal_Masuk": "30 Apr 2026",
       "Kriteria": "6"
     },
@@ -932,40 +914,16 @@
       "Kriteria": "1"
     },
     {
-      "Kode_Saham": "PURE",
-      "Nama_Perusahaan": "PT Trinitan Metals and Minerals Tbk",
-      "Tanggal_Masuk": "30 Apr 2026",
-      "Kriteria": "5, 6, 7"
-    },
-    {
-      "Kode_Saham": "SGRO",
-      "Nama_Perusahaan": "PT Prime Agri Resources Tbk",
-      "Tanggal_Masuk": "30 Apr 2026",
-      "Kriteria": "6"
-    },
-    {
-      "Kode_Saham": "PTSP",
-      "Nama_Perusahaan": "Pioneerindo Gourmet International Tbk",
-      "Tanggal_Masuk": "30 Apr 2026",
-      "Kriteria": "6"
-    },
-    {
       "Kode_Saham": "PTDU",
       "Nama_Perusahaan": "PT Djasa Ubersakti Tbk",
       "Tanggal_Masuk": "30 Apr 2026",
       "Kriteria": "5, 6"
     },
     {
-      "Kode_Saham": "MKNT",
-      "Nama_Perusahaan": "PT Mitra Komunikasi Nusantara Tbk.",
+      "Kode_Saham": "PURE",
+      "Nama_Perusahaan": "PT Trinitan Metals and Minerals Tbk",
       "Tanggal_Masuk": "30 Apr 2026",
-      "Kriteria": "1, 5, 6"
-    },
-    {
-      "Kode_Saham": "MLIA",
-      "Nama_Perusahaan": "Mulia Industrindo Tbk",
-      "Tanggal_Masuk": "30 Apr 2026",
-      "Kriteria": "6"
+      "Kriteria": "5, 6, 7"
     },
     {
       "Kode_Saham": "MENN",
@@ -980,17 +938,35 @@
       "Kriteria": "6"
     },
     {
-      "Kode_Saham": "ZBRA",
-      "Nama_Perusahaan": "PT Dosni Roha Indonesia Tbk",
+      "Kode_Saham": "MLIA",
+      "Nama_Perusahaan": "Mulia Industrindo Tbk",
       "Tanggal_Masuk": "30 Apr 2026",
-      "Kriteria": "1, 6, 9"
+      "Kriteria": "6"
     },
     {
       "Kode_Saham": "URBN",
       "Nama_Perusahaan": "PT Urban Jakarta Propertindo Tbk.",
       "Tanggal_Masuk": "30 Apr 2026",
       "Kriteria": "6"
+    },
+    {
+      "Kode_Saham": "ZBRA",
+      "Nama_Perusahaan": "PT Dosni Roha Indonesia Tbk",
+      "Tanggal_Masuk": "30 Apr 2026",
+      "Kriteria": "1, 6, 9"
+    },
+    {
+      "Kode_Saham": "POLL",
+      "Nama_Perusahaan": "PT Pollux Properties Indonesia Tbk.",
+      "Tanggal_Masuk": "04 Mei 2026",
+      "Kriteria": "7"
+    },
+    {
+      "Kode_Saham": "MKNT",
+      "Nama_Perusahaan": "PT Mitra Komunikasi Nusantara Tbk.",
+      "Tanggal_Masuk": "04 Mei 2026",
+      "Kriteria": "1, 5"
     }
   ],
-  "scraped_at": "2026-04-30T03:45:42.994Z"
+  "scraped_at": "2026-05-04T02:50:54.949Z"
 }
