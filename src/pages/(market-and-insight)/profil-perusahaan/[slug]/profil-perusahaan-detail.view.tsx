@@ -9,9 +9,10 @@ import Breadcrumbs from "@/components/breadcrumbs";
 import Profil_perusahaan_view from "./tabs/profil-perusahaan.view";
 import Aksi_korporasi_view from "./tabs/aksi-korporasi.view";
 
-import { Building2, Calendar } from "lucide-react";
+import { Building2, Calendar, LineChart } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useState } from "react";
+import Kinerja_saham_view from "./tabs/kinerja-saham.view";
 
 function Company_detail_view({ slug }: { slug: string }) {
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
@@ -86,17 +87,19 @@ function Company_detail_view({ slug }: { slug: string }) {
             </TabsTrigger>
 
             {/* KINERJA */}
-            {/* <TabsTrigger
-          value="kinerja-saham"
-          className="group flex items-center gap-2 whitespace-nowrap px-4 text-gray-500 data-[state=active]:text-orange-500 rounded-3xl"
-        >
-          <LineChart
-            size={18}
-            className="transition-colors text-gray-400 group-data-[state=active]:text-orange-500"
-          />
-          <span className="hidden sm:inline">Kinerja Saham</span>
-          <span className="sm:hidden">Kinerja</span>
-        </TabsTrigger> */}
+            {process.env.NODE_ENV === "development" && (
+              <TabsTrigger
+                value="kinerja-saham"
+                className="group flex items-center gap-2 whitespace-nowrap px-4 text-gray-500 data-[state=active]:text-orange-500 rounded-3xl"
+              >
+                <LineChart
+                  size={18}
+                  className="transition-colors text-gray-400 group-data-[state=active]:text-orange-500"
+                />
+                <span className="hidden sm:inline">Kinerja Saham</span>
+                <span className="sm:hidden">Kinerja</span>
+              </TabsTrigger>
+            )}
 
             {/* AKSI KORPORASI */}
             <TabsTrigger
@@ -116,6 +119,23 @@ function Company_detail_view({ slug }: { slug: string }) {
         {/* Profil Perusahaan */}
         {tabs === "profil-perusahaan" && (
           <Profil_perusahaan_view selectedCompany={selectedCompany} />
+        )}
+
+        {/* Kinerja Saham */}
+        {tabs === "kinerja-saham" && (
+          <>
+            {process.env.NODE_ENV !== "development" && (
+              <div className="col-span-full border border-dashed rounded-xl p-6 text-center text-sm text-muted-foreground">
+                Kami sedang bekerja keras untuk menghadirkan fitur terbaik untuk
+                Anda. Fitur ini akan segera hadir dengan pengalaman yang lebih
+                baik dan lebih lengkap.
+              </div>
+            )}
+
+            {process.env.NODE_ENV === "development" && (
+              <Kinerja_saham_view selectedCompany={selectedCompany} />
+            )}
+          </>
         )}
 
         {/* Aksi Korporasi */}

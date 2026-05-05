@@ -47,6 +47,7 @@ function Aksi_korporasi_view(props: Props) {
               ticker={item.Kode_Saham}
               variant={String(item.notasi?.Notasi)}
               desc={String(item.notasi?.Keterangan_Notasi)}
+              type="simple"
             />
           ))}
 
@@ -56,6 +57,7 @@ function Aksi_korporasi_view(props: Props) {
               ticker={item.kode}
               variant={item.perihal}
               desc={item.lokasi}
+              type="simple"
             />
           ))}
         </>

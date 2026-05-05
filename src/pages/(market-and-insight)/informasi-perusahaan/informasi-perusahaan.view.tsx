@@ -309,6 +309,7 @@ export function Calendar_card(props: {
   ticker: string;
   variant: string;
   desc: string;
+  type?: string;
 }) {
   const { ticker, variant, desc } = props;
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
@@ -385,6 +386,7 @@ export function Notation_card(props: {
   ticker: string;
   variant: string;
   desc: string;
+  type?: string
 }) {
   const { ticker, variant, desc } = props;
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
