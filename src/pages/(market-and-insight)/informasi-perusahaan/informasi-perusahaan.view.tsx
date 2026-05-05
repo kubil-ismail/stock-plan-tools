@@ -22,6 +22,7 @@ import notation from "@/data/information/notations/notation.json";
 import pemantauan_khusus from "@/data/information/pemantauan_khusus/pemantauan_khusus.json";
 import calendar from "@/data/information/calendar/calendar.json";
 import Breadcrumbs from "@/components/breadcrumbs";
+import { cn } from "@/lib/utils";
 
 function Informasi_perusahaan_view() {
   const inputRef = useRef<HTMLInputElement | null>(null);
@@ -309,9 +310,10 @@ export function Calendar_card(props: {
   ticker: string;
   variant: string;
   desc: string;
-  type?: string;
+  simplify?: boolean;
+  date?: string;
 }) {
-  const { ticker, variant, desc } = props;
+  const { ticker, variant, desc, simplify, date } = props;
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
   const selectedCompany = _company.find((item) => item.ticker === ticker);
 
@@ -334,7 +336,7 @@ export function Calendar_card(props: {
           <a
             href={`/profil-perusahaan/${ticker}`}
             target="_blank"
-            className="block md:hidden mb-5"
+            className={cn(simplify ? "hidden" : "block md:hidden mb-5")}
           >
             <CompanyLogo
               company={{
@@ -344,18 +346,29 @@ export function Calendar_card(props: {
           </a>
 
           <div className="flex justify-between items-center">
-            <a
-              className="text-[19px] font-semibold text-foreground"
-              href={`/profil-perusahaan/${ticker}`}
-              target="_blank"
-            >
-              {ticker}
-            </a>
+            {!simplify && (
+              <a
+                className="text-[19px] font-semibold text-foreground"
+                href={`/profil-perusahaan/${ticker}`}
+                target="_blank"
+              >
+                {ticker}
+              </a>
+            )}
 
             <CategoryBadge type="AKSI_KORPORAT" />
           </div>
 
-          <p className="text-muted-foreground mb-4">{selectedCompany?.name}</p>
+          {!simplify && (
+            <p className="text-muted-foreground mb-4">
+              {selectedCompany?.name}
+            </p>
+          )}
+
+          <div className="mb-1 mt-4 md:mt-2">
+            <span className="font-medium">Tanggal:</span> <br />
+            <span className="text-neutral-600">{date}</span>
+          </div>
 
           <div className="mb-1">
             <span className="font-medium">Perihal:</span> <br />
@@ -386,9 +399,10 @@ export function Notation_card(props: {
   ticker: string;
   variant: string;
   desc: string;
-  type?: string
+  simplify?: boolean;
+  date?: string;
 }) {
-  const { ticker, variant, desc } = props;
+  const { ticker, variant, desc, simplify, date } = props;
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
   const selectedCompany = _company.find((item) => item.ticker === ticker);
 
@@ -411,7 +425,7 @@ export function Notation_card(props: {
           <a
             href={`/profil-perusahaan/${ticker}`}
             target="_blank"
-            className="block md:hidden mb-5"
+            className={cn(simplify ? "hidden" : "block md:hidden mb-5")}
           >
             <CompanyLogo
               company={{
@@ -421,18 +435,29 @@ export function Notation_card(props: {
           </a>
 
           <div className="flex justify-between items-center">
-            <a
-              className="text-[19px] font-semibold text-foreground"
-              href={`/profil-perusahaan/${ticker}`}
-              target="_blank"
-            >
-              {ticker}
-            </a>
+            {!simplify && (
+              <a
+                className="text-[19px] font-semibold text-foreground"
+                href={`/profil-perusahaan/${ticker}`}
+                target="_blank"
+              >
+                {ticker}
+              </a>
+            )}
 
             <CategoryBadge type="NOTASI_KHUSUS" />
           </div>
 
-          <p className="text-muted-foreground mb-4">{selectedCompany?.name}</p>
+          {!simplify && (
+            <p className="text-muted-foreground mb-4">
+              {selectedCompany?.name}
+            </p>
+          )}
+
+          <div className="mt-4">
+            <span className="font-medium">Tanggal:</span>{" "}
+            <span className="text-neutral-600">{date}</span>
+          </div>
 
           <div>
             <span className="font-medium">Notasi:</span>{" "}
