@@ -305,7 +305,7 @@ export function CategoryBadge({
   );
 }
 
-function Calendar_card(props: {
+export function Calendar_card(props: {
   ticker: string;
   variant: string;
   desc: string;
@@ -381,7 +381,7 @@ function Calendar_card(props: {
   );
 }
 
-function Notation_card(props: {
+export function Notation_card(props: {
   ticker: string;
   variant: string;
   desc: string;

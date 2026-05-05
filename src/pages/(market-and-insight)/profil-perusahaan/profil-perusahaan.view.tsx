@@ -19,7 +19,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
 
   // SEARCH FILTER
   const filteredCompanies = useMemo(() => {
-    if (!searchTerm || !search) return _company;
+    if (!searchTerm) return _company;
 
     const keyword = searchTerm.toLowerCase();
 
@@ -35,7 +35,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
         c.listing_board?.toLowerCase().includes(keyword)
       );
     });
-  }, [_company, searchTerm, search]);
+  }, [_company, searchTerm]);
 
   // PAGINATION
   const visibleData = filteredCompanies.slice(0, visibleCount);
@@ -48,7 +48,6 @@ function Profil_perusahaan_view({ search }: { search: string }) {
 
     // reset pagination saat search
     setVisibleCount(INITIAL_LOAD);
-
 
     if (search && value.length === 0) {
       router.replace("/profil-perusahaan");

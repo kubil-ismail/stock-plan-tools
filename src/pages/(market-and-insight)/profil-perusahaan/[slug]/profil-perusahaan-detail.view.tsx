@@ -1,48 +1,22 @@
 "use client";
 
-import Link from "next/link";
 import company from "@/data/company.json";
 import CompanyLogo from "@/components/companyLogo";
-import ManagementCard from "@/components/managementCard";
-import SecretaryCard from "@/components/secretaryCard";
-import ShareholderCard from "@/components/shareholderCard";
-import SubsidiarieCard from "@/components/subsidiarieCard";
 import { IndustryHierarchy } from "@/components/companyCard";
-import { StockDetail, StockManagement } from "@/types/stocks";
+import { StockDetail } from "@/types/stocks";
 import { GlassCard } from "@/components/glassCard";
-import { formatUrl, parseNumber, slugify, sortManagement } from "@/lib/utils";
-import { format } from "date-fns";
+import { TabsIcons } from "@/components/tabs";
+import { useSearchParams } from "next/navigation";
 import Breadcrumbs from "@/components/breadcrumbs";
+import Profil_perusahaan_view from "./tabs/profil-perusahaan.view";
+import Aksi_korporasi_view from "./tabs/aksi-korporasi.view";
 
 function Company_detail_view({ slug }: { slug: string }) {
+  const search = useSearchParams();
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
   const selectedCompany = _company.find((item) => item.ticker === slug)!;
 
-  const ceo = selectedCompany?.managements.find(
-    (item: StockManagement) =>
-      item.position === "PRESIDEN DIREKTUR" ||
-      item.position === "DIREKTUR UTAMA"
-  );
-
-  const secretary = selectedCompany?.managements.find(
-    (item: StockManagement) => item.position === "SEKRETARIS PERUSAHAAN"
-  );
-
-  const managements = sortManagement(
-    selectedCompany?.managements?.filter(
-      (item) => item.position !== "SEKRETARIS PERUSAHAAN"
-    ) ?? []
-  );
-
-  const shareholders =
-    selectedCompany?.shareholders
-      .slice()
-      .sort((a, b) => parseNumber(b.total) - parseNumber(a.total)) ?? [];
-
-  const subsidiaries =
-    selectedCompany?.subsidiaries
-      .slice()
-      .sort((a, b) => parseNumber(b.asset) - parseNumber(a.asset)) ?? [];
+  const tabs = search?.get("tabs") ?? "profil-perusahaan";
 
   return (
     <div className="relative min-h-screen py-6 md:py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
@@ -50,7 +24,7 @@ function Company_detail_view({ slug }: { slug: string }) {
       <div className="absolute w-72 h-72 bg-orange-300/30 rounded-full blur-3xl top-[-80px] left-[-80px]" />
       <div className="absolute w-72 h-72 bg-blue-300/30 rounded-full blur-3xl bottom-[-80px] right-[-80px]" />
 
-      <div className="max-w-5xl mx-auto space-y-8">
+      <div className="max-w-5xl mx-auto space-y-5 md:space-y-8">
         {/* Breadcrumbs */}
         <Breadcrumbs
           nav={[
@@ -95,172 +69,15 @@ function Company_detail_view({ slug }: { slug: string }) {
           </div>
         </GlassCard>
 
-        {/* INFORMASI PERUSAHAAN */}
-        <GlassCard>
-          <h3 className="text-[18px] md:text-[24px] font-semibold text-foreground mb-1 flex items-center gap-2">
-            Tentang {selectedCompany?.name}
-          </h3>
-          <p className="text-[14px] text-muted-foreground mb-6">
-            Profil dan manajemen perusahaan
-          </p>
+        <TabsIcons />
 
-          <section className="my-10">
-            <div className="grid md:grid-cols-3 gap-4 mb-6">
-              <div>
-                <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Sektor
-                </h4>
+        {/* Profil Perusahaan */}
+        {tabs === "profil-perusahaan" && (
+          <Profil_perusahaan_view selectedCompany={selectedCompany} />
+        )}
 
-                <a
-                  href={`/profil-perusahaan?search=${selectedCompany?.sector?.name}`}
-                  className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
-                >
-                  {selectedCompany?.sector?.name}
-                </a>
-
-                <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Website
-                </h4>
-                <a
-                  href={formatUrl(selectedCompany?.website)}
-                  target="_blank"
-                  className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
-                >
-                  {selectedCompany?.website}
-                </a>
-
-                <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Tanggal IPO
-                </h4>
-                <p className="text-[14px] text-muted-foreground leading-relaxed">
-                  {format(
-                    selectedCompany?.listing_date ?? new Date(),
-                    "d MMMM yyyy"
-                  )}
-                </p>
-              </div>
-
-              <div>
-                <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Industri
-                </h4>
-                <a
-                  href={`/profil-perusahaan?search=${selectedCompany?.industry?.name}`}
-                  className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
-                >
-                  {selectedCompany?.industry?.name}
-                </a>
-
-                <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  NPWP
-                </h4>
-                <p className="text-[14px] text-muted-foreground leading-relaxed mb-4">
-                  {selectedCompany?.tin}
-                </p>
-
-                <h4 className="text-[16px] font-semibold text-foreground mb-1 capitalize">
-                  {ceo?.position?.toLowerCase()}
-                </h4>
-                <p className="text-[14px] text-muted-foreground leading-relaxed">
-                  {ceo?.name}
-                </p>
-              </div>
-
-              <div>
-                <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Papan
-                </h4>
-                <a
-                  href={`/profil-perusahaan?search=${selectedCompany?.listing_board}`}
-                  className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
-                >
-                  {selectedCompany?.listing_board}
-                </a>
-
-                <h4 className="text-[16px] font-semibold text-foreground mb-1">
-                  Kantor Utama
-                </h4>
-                <p className="text-[14px] text-muted-foreground leading-relaxed">
-                  {selectedCompany?.office_address}
-                </p>
-              </div>
-            </div>
-
-            <h4 className="text-[16px] font-semibold text-foreground mb-1">
-              Bisnis Utama
-            </h4>
-            <p className="text-[14px] text-muted-foreground leading-relaxed">
-              {selectedCompany?.main_business}
-            </p>
-          </section>
-
-          {/* Sekertaris Perusahaan */}
-          <section className="my-10">
-            <h4 className="text-[16px] font-semibold text-foreground mb-2">
-              Sekertaris Perusahaan
-            </h4>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-              <SecretaryCard secretary={secretary!} />
-            </div>
-          </section>
-
-          <section className="my-10">
-            <h4 className="text-[16px] font-semibold text-foreground mb-2">
-              Manajemen Perusahaan
-            </h4>
-
-            <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
-              {managements?.map((item, key) => (
-                <Link
-                  href={`/kepemilikan-saham/${slugify(item.name)}`}
-                  key={key}
-                >
-                  <ManagementCard item={item} />
-                </Link>
-              ))}
-            </div>
-          </section>
-
-          <section className="my-10">
-            <h4 className="text-[16px] font-semibold text-foreground mb-2">
-              Pemegang Saham
-            </h4>
-
-            <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
-              {shareholders?.map((item, key) => (
-                <Link
-                  href={`/kepemilikan-saham/${slugify(item.name)}`}
-                  key={key}
-                >
-                  <ShareholderCard item={item} />
-                </Link>
-              ))}
-            </div>
-          </section>
-
-          <section className="my-10">
-            <h4 className="text-[16px] font-semibold text-foreground mb-2">
-              Anak Perusahaan
-            </h4>
-
-            {!subsidiaries ||
-            subsidiaries.length === 0 ||
-            (subsidiaries.length === 1 &&
-              subsidiaries[0]?.name ===
-                "Data anak perusahaan tidak ditemukan") ? (
-              <div className="border border-dashed rounded-xl p-6 text-center text-sm text-muted-foreground">
-                Tidak ada data anak perusahaan
-              </div>
-            ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                {subsidiaries.map((item, key) => (
-                  <SubsidiarieCard item={item} key={key} />
-                ))}
-              </div>
-            )}
-          </section>
-        </GlassCard>
+        {/* Aksi Korporasi */}
+        {tabs === "aksi-korporasi" && <Aksi_korporasi_view slug={slug} />}
       </div>
     </div>
   );
