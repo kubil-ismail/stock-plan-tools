@@ -5,18 +5,19 @@ import CompanyLogo from "@/components/companyLogo";
 import { IndustryHierarchy } from "@/components/companyCard";
 import { StockDetail } from "@/types/stocks";
 import { GlassCard } from "@/components/glassCard";
-import { TabsIcons } from "@/components/tabs";
-import { useSearchParams } from "next/navigation";
 import Breadcrumbs from "@/components/breadcrumbs";
 import Profil_perusahaan_view from "./tabs/profil-perusahaan.view";
 import Aksi_korporasi_view from "./tabs/aksi-korporasi.view";
 
+import { Building2, Calendar } from "lucide-react";
+import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { useState } from "react";
+
 function Company_detail_view({ slug }: { slug: string }) {
-  const search = useSearchParams();
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
   const selectedCompany = _company.find((item) => item.ticker === slug)!;
 
-  const tabs = search?.get("tabs") ?? "profil-perusahaan";
+  const [tabs, setTabs] = useState("profil-perusahaan");
 
   return (
     <div className="relative min-h-screen py-6 md:py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
@@ -69,7 +70,48 @@ function Company_detail_view({ slug }: { slug: string }) {
           </div>
         </GlassCard>
 
-        <TabsIcons />
+        <Tabs value={tabs} onValueChange={(val) => setTabs(val)}>
+          <TabsList className="rounded-3xl w-full flex overflow-x-auto no-scrollbar md:grid md:grid-cols-3">
+            {/* PROFIL */}
+            <TabsTrigger
+              value="profil-perusahaan"
+              className="group flex items-center gap-2 whitespace-nowrap px-4 text-gray-500 data-[state=active]:text-orange-500 rounded-3xl"
+            >
+              <Building2
+                size={18}
+                className="transition-colors text-gray-400 group-data-[state=active]:text-orange-500"
+              />
+              <span className="hidden sm:inline">Profil Perusahaan</span>
+              <span className="sm:hidden">Profil</span>
+            </TabsTrigger>
+
+            {/* KINERJA */}
+            {/* <TabsTrigger
+          value="kinerja-saham"
+          className="group flex items-center gap-2 whitespace-nowrap px-4 text-gray-500 data-[state=active]:text-orange-500 rounded-3xl"
+        >
+          <LineChart
+            size={18}
+            className="transition-colors text-gray-400 group-data-[state=active]:text-orange-500"
+          />
+          <span className="hidden sm:inline">Kinerja Saham</span>
+          <span className="sm:hidden">Kinerja</span>
+        </TabsTrigger> */}
+
+            {/* AKSI KORPORASI */}
+            <TabsTrigger
+              value="aksi-korporasi"
+              className="group flex items-center gap-2 whitespace-nowrap px-4 text-gray-500 data-[state=active]:text-orange-500 rounded-3xl"
+            >
+              <Calendar
+                size={18}
+                className="transition-colors text-gray-400 group-data-[state=active]:text-orange-500"
+              />
+              <span className="hidden sm:inline">Aksi Korporasi</span>
+              <span className="sm:hidden">Aksi</span>
+            </TabsTrigger>
+          </TabsList>
+        </Tabs>
 
         {/* Profil Perusahaan */}
         {tabs === "profil-perusahaan" && (
