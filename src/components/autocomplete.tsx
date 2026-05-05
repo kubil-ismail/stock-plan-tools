@@ -174,7 +174,7 @@ export function Autocomplete({
                   {item.logo && (
                     <img
                       src={item.logo}
-                      width="20"
+                      width="30"
                       loading="lazy"
                       className="rounded"
                       alt={item.name}
@@ -182,10 +182,6 @@ export function Autocomplete({
                   )}
                   {variant === "stocks" && (
                     <span className="flex gap-2 items-center">
-                      <span className="h-[35px] w-[35px] flex items-center justify-center bg-[#F97316] rounded-lg text-[#fff] font-bold">
-                        {item.code?.charAt(0)}
-                        {item.code?.charAt(1)}
-                      </span>
                       <span className="block">
                         <span className="block text-left">{item.code}</span>
                         <span className="block font-[300] text-neutral-600 text-[12px]">

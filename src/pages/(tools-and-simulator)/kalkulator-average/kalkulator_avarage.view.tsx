@@ -5,6 +5,7 @@ import { useState, useEffect } from "react";
 import { FormValues } from "./kalkulator_average/step_one.view";
 import Step_one_view from "./kalkulator_average/step_one.view";
 import Step_two_view from "./kalkulator_average/step_two.view";
+import posthog from "posthog-js";
 
 export type ResultData = {
   stockCode: string;
@@ -104,7 +105,7 @@ function Kalkulator_avarage_view() {
 
     const bep = newAvg / (1 - SELL_FEE);
 
-    setResult({
+    const resultData = {
       stockCode: value.stock?.code ?? "",
       stock: value.stock!,
       broker: value.broker!,
@@ -126,12 +127,30 @@ function Kalkulator_avarage_view() {
       totalNet: to2Decimal(totalBuyCost),
       totalCost: to2Decimal(totalCost),
       bep: bep,
+    };
+
+    setResult(resultData);
+
+    posthog.capture("kalkulator_average_calculated", {
+      stock_code: value.stock?.code ?? "",
+      broker_name: value.broker?.name ?? "",
+      old_avg_price: value.price,
+      old_lot: value.lot,
+      buy_price: value.buy_price,
+      buy_lot: value.buy_lot,
+      new_avg_price: to2Decimal(newAvg),
+      percent_change: to2Decimal(percentChange),
+      total_lot: totalShare / SHARES_PER_LOT,
+      bep: to2Decimal(bep),
     });
 
     setCurrentStep("step-2");
   };
 
   const handlePrevStep = (prev: "step-1" | "step-2") => {
+    posthog.capture("kalkulator_average_recalculated", {
+      stock_code: result?.stockCode ?? "",
+    });
     setCurrentStep(prev);
   };
 

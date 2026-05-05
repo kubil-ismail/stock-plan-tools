@@ -1,3 +1,4 @@
+"use client";
 import {
   TrendingUp,
   Star,
@@ -11,6 +12,7 @@ import {
   Megaphone,
 } from "lucide-react";
 import Link from "next/link";
+import posthog from "posthog-js";
 
 export const marketFeatures = [
   {
@@ -132,7 +134,7 @@ function Home_View() {
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {marketFeatures.map((feature) => (
-            <Link href={feature.link} key={feature.link}>
+            <Link href={feature.link} key={feature.link} onClick={() => posthog.capture("home_feature_clicked", { feature_title: feature.title, feature_link: feature.link, section: "market_insight" })}>
               <div className="bg-white shadow-md rounded-2xl p-8 border border-[#E5E7EB] hover:border-[#F97316] hover:shadow-lg transition-all cursor-pointer group">
                 <div className="w-14 h-14 bg-[rgba(249,115,22,0.1)] rounded-xl flex items-center justify-center mb-6 group-hover:bg-[#F97316] transition-colors">
                   <feature.icon className="w-7 h-7 text-[#F97316] group-hover:text-white transition-colors" />
@@ -160,7 +162,7 @@ function Home_View() {
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {toolsFeatures.map((feature) => (
-            <Link href={feature.link} key={feature.link}>
+            <Link href={feature.link} key={feature.link} onClick={() => posthog.capture("home_feature_clicked", { feature_title: feature.title, feature_link: feature.link, section: "tools_simulator" })}>
               <div className="bg-white shadow-md rounded-2xl p-8 border border-[#E5E7EB] hover:border-[#F97316] hover:shadow-lg transition-all cursor-pointer group">
                 <div className="w-14 h-14 bg-[rgba(249,115,22,0.1)] rounded-xl flex items-center justify-center mb-6 group-hover:bg-[#F97316] transition-colors">
                   <feature.icon className="w-7 h-7 text-[#F97316] group-hover:text-white transition-colors" />
@@ -222,6 +224,7 @@ function Home_View() {
           </p>
           <a
             href="mailto:info@stockplan.id"
+            onClick={() => posthog.capture("contact_email_clicked")}
             className="bg-[#F97316] text-white px-8 py-3 rounded-xl font-bold text-[16px] hover:bg-[#EA580C] transition-colors inline-block"
           >
             Kirim Pesan

@@ -4,6 +4,7 @@ import ShareholderGrid from "@/components/shareholderGrid";
 import { useParams } from "next/navigation";
 import { useMemo, useState } from "react";
 import { formatRupiah, unslugify } from "@/lib/utils";
+import posthog from "posthog-js";
 
 const INITIAL_LOAD = 102;
 const LOAD_MORE_STEP = 102;
@@ -46,7 +47,21 @@ function Kepemilikan_saham_view() {
   const hasMore = visibleCount < filteredData.length;
 
   const handleLoadMore = () => {
+    posthog.capture("shareholder_load_more_clicked", {
+      search_term: search,
+      visible_count: visibleCount,
+      total_results: filteredData.length,
+    });
     setVisibleCount((prev) => prev + LOAD_MORE_STEP);
+  };
+
+  const handleSearchBlur = () => {
+    if (search) {
+      posthog.capture("shareholder_searched", {
+        search_term: search,
+        result_count: filteredData.length,
+      });
+    }
   };
 
   return (
@@ -62,6 +77,7 @@ function Kepemilikan_saham_view() {
               type="text"
               defaultValue={search}
               onChange={(e) => setSearch(e.target.value)}
+              onBlur={handleSearchBlur}
               placeholder="Cari kode saham / perusahaan..."
               className="flex-1 min-w-[180px] px-4 py-2 rounded-xl border border-white/40 bg-white/70 text-sm focus:outline-none focus:ring-2 focus:ring-orange-400"
             />

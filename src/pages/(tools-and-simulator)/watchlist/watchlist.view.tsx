@@ -22,6 +22,7 @@ import { CSS } from "@dnd-kit/utilities";
 import { format } from "date-fns";
 import { calculatePercentage, cn, formatRupiah } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
+import posthog from "posthog-js";
 
 export const mockWatchlist = [
   { stock_code: "", buy: "", target: "", stop_loss: "" },
@@ -237,11 +238,18 @@ function Watchlist_view() {
       // auto masuk edit mode ke item terakhir
       setEditIndex(updated.length - 1);
 
+      posthog.capture("watchlist_stock_added", {
+        total_stocks: updated.length,
+      });
+
       return updated;
     });
   };
 
   const handleDeleteItem = (index: number) => {
+    posthog.capture("watchlist_stock_deleted", {
+      stock_code: watchlist[index]?.stock_code ?? "",
+    });
     setWatchlist((prev) => prev.filter((_, i) => i !== index));
     setEditIndex(null);
   };
@@ -405,7 +413,15 @@ function Watchlist_view() {
 
                 <section>
                   <button
-                    onClick={() => setStep("step-2")}
+                    onClick={() => {
+                      posthog.capture("watchlist_saved", {
+                        watchlist_title: title,
+                        has_date: Boolean(date),
+                        has_note: Boolean(note),
+                        total_stocks: watchlist.length,
+                      });
+                      setStep("step-2");
+                    }}
                     type="button"
                     className="w-full bg-[#F97316] hover:bg-orange-600 text-white font-bold py-3 rounded-xl transition"
                   >

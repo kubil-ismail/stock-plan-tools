@@ -9,6 +9,8 @@ function CompanyLogo({
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
+  console.log(company.logo)
+
   return (
     <div className="w-14 h-14 shrink-0 rounded-2xl overflow-hidden border border-gray-200 bg-white flex items-center justify-center relative">
       {/* Skeleton */}
@@ -17,7 +19,7 @@ function CompanyLogo({
       {/* Image */}
       {!error && company?.logo && (
         <img
-          src={`https://www.idx.co.id/${company?.logo ?? ""}`}
+          src={`${company?.logo ?? ""}`}
           alt={company?.name}
           className={`
             object-contain p-2 w-full h-full

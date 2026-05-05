@@ -3,6 +3,7 @@ import React, { useMemo, useState } from "react";
 import company from "@/data/company.json";
 import CompanyCard from "@/components/companyCard";
 import { StockDetail } from "@/types/stocks";
+import posthog from "posthog-js";
 
 const INITIAL_LOAD = 120;
 const LOAD_MORE_STEP = 120;
@@ -47,7 +48,21 @@ function Profil_perusahaan_view({ search }: { search: string }) {
   };
 
   const handleLoadMore = () => {
+    posthog.capture("company_profile_load_more_clicked", {
+      search_term: searchTerm,
+      visible_count: visibleCount,
+      total_results: filteredCompanies.length,
+    });
     setVisibleCount((prev) => prev + LOAD_MORE_STEP);
+  };
+
+  const handleSearchBlur = () => {
+    if (searchTerm) {
+      posthog.capture("company_profile_searched", {
+        search_term: searchTerm,
+        result_count: filteredCompanies.length,
+      });
+    }
   };
 
   return (
@@ -64,6 +79,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
               type="text"
               value={searchTerm}
               onChange={handleSearch}
+              onBlur={handleSearchBlur}
               placeholder="Cari kode saham / nama perusahaan..."
               className="flex-1 min-w-[180px] px-4 py-2 rounded-xl border border-white/40 bg-white/70 text-sm focus:outline-none focus:ring-2 focus:ring-orange-400"
             />

@@ -1,7 +1,7 @@
 import * as yup from "yup";
 import { brokers } from "@/data/brokers";
 import { Broker } from "@/types/brokers";
-import { StockList } from "@/types/stocks";
+import { StockDetail, StockList } from "@/types/stocks";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { RupiahInput } from "@/components/numberinput";
@@ -9,7 +9,7 @@ import { Autocomplete } from "@/components/autocomplete";
 import { BanknoteArrowDown, BanknoteArrowUp } from "lucide-react";
 import { useRef } from "react";
 import { useFormik } from "formik";
-import companyList from "@/data/company_list.json";
+import companyList from "@/data/company.json";
 import { ResultData } from "../kalkulator_avarage.view";
 
 const validationSchema = yup.object({
@@ -63,6 +63,14 @@ const validationSchema = yup.object({
     .nullable()
     .required("Saham wajib dipilih"),
 });
+
+const _company: StockDetail[] = (companyList as { data: StockDetail[] }).data;
+
+const mappingData = _company?.map((item: StockDetail) => ({
+  logo: item.logo,
+  code: item?.ticker,
+  name: item?.name,
+}));
 
 export type FormValues = {
   price: number | null;
@@ -173,7 +181,7 @@ export default function Step_one_view({
             <div className="col-span-2">
               <Autocomplete
                 label="Pilih Saham"
-                options={companyList.data}
+                options={mappingData}
                 variant="stocks"
                 value={formik.values.stock}
                 onChange={(value) => handleChange("stock", value)}

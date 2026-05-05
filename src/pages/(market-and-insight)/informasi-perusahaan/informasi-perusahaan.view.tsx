@@ -14,6 +14,7 @@ import CompanyLogo from "@/components/companyLogo";
 import { StockDetail } from "@/types/stocks";
 import { useMemo, useRef, useState } from "react";
 import { format, addDays, subDays } from "date-fns";
+import posthog from "posthog-js";
 import { id } from "date-fns/locale";
 
 import company from "@/data/company.json";
@@ -52,11 +53,25 @@ function Informasi_perusahaan_view() {
   }, [date, pemantauan_khusus.data]);
 
   const handlePrevDate = () => {
-    setDate((prev) => subDays(prev, 1));
+    setDate((prev) => {
+      const newDate = subDays(prev, 1);
+      posthog.capture("informasi_perusahaan_date_changed", {
+        date: format(newDate, "yyyy-MM-dd"),
+        direction: "prev",
+      });
+      return newDate;
+    });
   };
 
   const handleNextDate = () => {
-    setDate((prev) => addDays(prev, 1));
+    setDate((prev) => {
+      const newDate = addDays(prev, 1);
+      posthog.capture("informasi_perusahaan_date_changed", {
+        date: format(newDate, "yyyy-MM-dd"),
+        direction: "next",
+      });
+      return newDate;
+    });
   };
 
   const handleOpenCalendar = () => {
@@ -75,6 +90,11 @@ function Informasi_perusahaan_view() {
     const selected = new Date(e.target.value);
 
     if (isNaN(selected.getTime())) return;
+
+    posthog.capture("informasi_perusahaan_date_changed", {
+      date: e.target.value,
+      direction: "calendar",
+    });
 
     setDate(selected);
   };
@@ -127,7 +147,17 @@ function Informasi_perusahaan_view() {
           </p>
         </div>
 
-        <Tabs defaultValue="semua" className="w-full">
+        <Tabs
+          defaultValue="semua"
+          className="w-full"
+          onValueChange={(tab) => {
+            posthog.capture("informasi_perusahaan_tab_viewed", {
+              tab,
+              date: format(date, "yyyy-MM-dd"),
+              total_items: filter_calendar.length + filter_pemantauan_khusus.length,
+            });
+          }}
+        >
           <div className="flex items-center overflow-x-auto overflow-y-hidden">
             <TabsList variant="line">
               <TabsTrigger value="semua">
