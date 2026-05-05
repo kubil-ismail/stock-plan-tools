@@ -24,6 +24,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const name = companySelected?.name || slug;
   const ticker = companySelected?.ticker || slug;
 
+  const baseUrl = "https://stockplan.id";
+  const ogImage = `${baseUrl}/api/og/profil-perusahaan?ticker=${ticker}`;
+
+
   return {
     title: `Profil Perusahaan ${name} (${ticker}) | Saham, Direksi, Komisaris & Kepemilikan | Stockplan`,
 
@@ -45,7 +49,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: `Profil Perusahaan ${name} (${ticker}) | Saham, Direksi, Komisaris & Kepemilikan`,
 
-      description: `Lihat profil lengkap perusahaan ${name} (${ticker}) di Bursa Efek Indonesia (IDX). Termasuk bidang usaha, direksi, komisaris, pemegang saham, dan informasi saham terbaru.`,
+      description: `Lihat profil lengkap perusahaan ${name} (${ticker}). Termasuk bidang usaha, direksi, komisaris, pemegang saham, dan informasi saham terbaru.`,
 
       url: `https://stockplan.id/profil-perusahaan/${slug}`,
 
@@ -55,21 +59,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
       images: [
         {
-          url: "/og-shareholder.png",
+          url: ogImage, // ✅ FULL URL
           width: 1200,
           height: 630,
-          alt: "Kepemilikan Saham dan Pemegang Saham Perusahaan",
+          alt: `Profil Perusahaan ${name} (${ticker})`,
         },
       ],
     },
 
     twitter: {
       card: "summary_large_image",
-      title: `Profil Perusahaan ${name} (${ticker}) | Saham, Direksi, Komisaris & Kepemilikan`,
-
-      description: `Lihat profil lengkap perusahaan ${name} (${ticker}) di Bursa Efek Indonesia (IDX). Termasuk bidang usaha, direksi, komisaris, pemegang saham, dan informasi saham terbaru.`,
-
-      images: ["/og-shareholder.png"],
+      title: `Profil Perusahaan ${name} (${ticker})`,
+      description: `Lihat profil lengkap perusahaan ${name} (${ticker}). Termasuk bidang usaha, direksi, komisaris, pemegang saham, dan informasi saham terbaru.`,
+      images: [ogImage], // ✅ sama dengan OG
     },
 
     robots: {
