@@ -37,7 +37,7 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
         <div className="min-h-screen">
           {/* Header */}
-          <header className="bg-white/80 backdrop-blur-md border-b border-[#E5E7EB] sticky top-0 z-50">
+          <header className="bg-white/80 backdrop-blur-md border-b border-[#E5E7EB] md:sticky top-0 z-50">
             <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
               <Link href="/">
                 <button className="flex items-center gap-2 cursor-pointer">
