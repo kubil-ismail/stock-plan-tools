@@ -10,16 +10,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticRoutes = [
     "",
-    "/kalender-saham",
-    "/aktivitas-insider",
+    "/informasi-perusahaan",
     "/kepemilikan-saham",
     "/profil-perusahaan",
     "/kalkulator-avarage",
-    "/kalkulator-drawdown",
-    "/kalkulator-resiko-and-reward",
-    "/pembagian-portofolio",
-    "/kalkulator-dividen",
-    "/simulasi-strategi-investasi",
+    "/watchlist",
   ].map((path) => ({
     url: `${BASE_URL}${path}`,
     lastModified: now,
