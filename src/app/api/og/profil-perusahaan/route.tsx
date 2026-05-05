@@ -1,17 +1,13 @@
 import { ImageResponse } from "@vercel/og";
-import company from "@/data/company.json";
-import { StockDetail } from "@/types/stocks";
 
 export const runtime = "edge";
 
 export async function GET(req: Request) {
   const { searchParams } = new URL(req.url);
-  const ticker = (searchParams.get("ticker") || "BBCA").toUpperCase();
-
-  const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
-  const companySelected = _company.find(
-    (item) => item.ticker === String(ticker)
-  );
+  const ticker = (searchParams.get("ticker") || "").toUpperCase();
+  const name = (searchParams.get("name") || "").toUpperCase();
+  const sector = (searchParams.get("sector") || "").toUpperCase();
+  const industry = (searchParams.get("industry") || "").toUpperCase();
 
   try {
     const logoUrl = `${process.env.NEXT_PUBLIC_BASE_URL}/images/company/logo/${ticker}.svg`;
@@ -130,7 +126,7 @@ export async function GET(req: Request) {
                     marginTop: 8,
                   }}
                 >
-                  {companySelected?.name}
+                  {name}
                 </div>
 
                 <div
@@ -150,7 +146,7 @@ export async function GET(req: Request) {
                       color: "#475569",
                     }}
                   >
-                    {companySelected?.sector?.name}
+                    {sector}
                   </div>
 
                   <div
@@ -162,7 +158,7 @@ export async function GET(req: Request) {
                       color: "#475569",
                     }}
                   >
-                    {companySelected?.industry?.name}
+                    {industry}
                   </div>
                 </div>
               </div>

@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const ticker = companySelected?.ticker || slug;
 
   const baseUrl = "https://stockplan.id";
-  const ogImage = `${baseUrl}/api/og/profil-perusahaan?ticker=${ticker}`;
+  const ogImage = `${baseUrl}/api/og/profil-perusahaan?ticker=${ticker}&name=${name}&industry=${companySelected?.industry?.name}&sector=${companySelected?.sector?.name}`;
 
 
   return {
