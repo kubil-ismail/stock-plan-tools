@@ -9,8 +9,6 @@ function CompanyLogo({
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
-  console.log(company.logo)
-
   return (
     <div className="w-14 h-14 shrink-0 rounded-2xl overflow-hidden border border-gray-200 bg-white flex items-center justify-center relative">
       {/* Skeleton */}
