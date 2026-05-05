@@ -5,6 +5,7 @@ import { useParams } from "next/navigation";
 import { useMemo, useState } from "react";
 import { formatRupiah, unslugify } from "@/lib/utils";
 import posthog from "posthog-js";
+import Breadcrumbs from "@/components/breadcrumbs";
 
 const INITIAL_LOAD = 102;
 const LOAD_MORE_STEP = 102;
@@ -65,13 +66,26 @@ function Kepemilikan_saham_view() {
   };
 
   return (
-    <div className="relative min-h-screen py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
+    <div className="relative min-h-screen py-6 md:py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
       {/* Background Glass Ornaments */}
       <div className="absolute w-72 h-72 bg-orange-300/30 rounded-full blur-3xl top-[-80px] left-[-80px]" />
       <div className="absolute w-72 h-72 bg-blue-300/30 rounded-full blur-3xl bottom-[-80px] right-[-80px]" />
 
       <div className="max-w-7xl mx-auto relative">
-        <div className="mb-6">
+        {/* Breadcrumbs */}
+        <Breadcrumbs
+          nav={[
+            { name: "Home", link: "/" },
+            { name: "Market & Insight", link: "/#market-insight" },
+            {
+              name: "Kepemilikan Saham",
+              link: "/kepemilikan-saham",
+              active: true,
+            },
+          ]}
+        />
+
+        <div className="my-6">
           <div className="bg-white/60 border border-white/30 rounded-2xl p-4 shadow-sm flex flex-wrap gap-3 items-center">
             <input
               type="text"

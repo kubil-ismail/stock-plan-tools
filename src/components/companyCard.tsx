@@ -38,7 +38,7 @@ export default function CompanyCard(props: Props) {
 
               {/* BOARD */}
               <div className="mt-2">
-                <BoardBadge board={company.listing_board} />
+                <BoardBadge disableLink board={company.listing_board} />
               </div>
             </div>
           </div>
@@ -60,7 +60,7 @@ export default function CompanyCard(props: Props) {
           <div className="my-5 pt-4 border-t border-gray-100">
             <p className="text-xs text-gray-500 mb-1">Sektor & Industri</p>
 
-            <IndustryHierarchy company={company} />
+            <IndustryHierarchy company={company} disableLink />
           </div>
 
           <div className="mt-auto mt-5 pt-4 border-t border-gray-100">
@@ -76,7 +76,13 @@ export default function CompanyCard(props: Props) {
   );
 }
 
-export function IndustryHierarchy({ company }: { company: StockDetail }) {
+export function IndustryHierarchy({
+  company,
+  disableLink,
+}: {
+  company: StockDetail;
+  disableLink?: boolean;
+}) {
   const rawItems = [
     company?.sector?.name,
     company?.subsector?.name,
@@ -99,13 +105,24 @@ export function IndustryHierarchy({ company }: { company: StockDetail }) {
       <span className="">
         {items.map((item: string, index: number) => (
           <span key={index}>
-            <span
-              className={
-                index === 0 ? "font-semibold text-gray-800" : "text-gray-600"
-              }
-            >
-              {item}
-            </span>
+            {disableLink ? (
+              <span
+                className={
+                  index === 0 ? "font-semibold text-gray-800" : "text-gray-600"
+                }
+              >
+                {item}
+              </span>
+            ) : (
+              <a
+                className={
+                  index === 0 ? "font-semibold text-gray-800" : "text-gray-600"
+                }
+                href={`/profil-perusahaan?search=${item}`}
+              >
+                {item}
+              </a>
+            )}
 
             {index !== items.length - 1 && (
               <span className="mx-2 text-gray-400">›</span>
@@ -117,7 +134,13 @@ export function IndustryHierarchy({ company }: { company: StockDetail }) {
   );
 }
 
-function BoardBadge({ board }: { board?: string }) {
+function BoardBadge({
+  board,
+  disableLink,
+}: {
+  board?: string;
+  disableLink?: boolean;
+}) {
   if (!board) return null;
 
   const styles: Record<string, string> = {
@@ -130,7 +153,7 @@ function BoardBadge({ board }: { board?: string }) {
     "Pemantauan Khusus": "bg-red-100 text-red-700 border-red-200",
   };
 
-  return (
+  return disableLink ? (
     <span
       className={`
         inline-block
@@ -145,6 +168,21 @@ function BoardBadge({ board }: { board?: string }) {
     >
       {board}
     </span>
+  ) : (
+    <a
+      href={`/profil-perusahaan?search=${board}`}
+      className={`
+        inline-block
+        px-3 py-1
+        rounded-xl
+        text-xs
+        font-semibold
+        border
+        whitespace-nowrap
+        ${styles[board] || "bg-gray-100 text-gray-700 border-gray-200"}
+      `}
+    >
+      {board}
+    </a>
   );
 }
-

@@ -10,8 +10,9 @@ import SubsidiarieCard from "@/components/subsidiarieCard";
 import { IndustryHierarchy } from "@/components/companyCard";
 import { StockDetail, StockManagement } from "@/types/stocks";
 import { GlassCard } from "@/components/glassCard";
-import { parseNumber, slugify, sortManagement } from "@/lib/utils";
+import { formatUrl, parseNumber, slugify, sortManagement } from "@/lib/utils";
 import { format } from "date-fns";
+import Breadcrumbs from "@/components/breadcrumbs";
 
 function Company_detail_view({ slug }: { slug: string }) {
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
@@ -33,21 +34,44 @@ function Company_detail_view({ slug }: { slug: string }) {
     ) ?? []
   );
 
-  const shareholders = selectedCompany?.shareholders
-    .slice()
-    .sort((a, b) => parseNumber(b.total) - parseNumber(a.total)) ?? [];
+  const shareholders =
+    selectedCompany?.shareholders
+      .slice()
+      .sort((a, b) => parseNumber(b.total) - parseNumber(a.total)) ?? [];
 
-  const subsidiaries = selectedCompany?.subsidiaries
-    .slice()
-    .sort((a, b) => parseNumber(b.asset) - parseNumber(a.asset)) ?? [];
+  const subsidiaries =
+    selectedCompany?.subsidiaries
+      .slice()
+      .sort((a, b) => parseNumber(b.asset) - parseNumber(a.asset)) ?? [];
 
   return (
-    <div className="relative min-h-screen py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
+    <div className="relative min-h-screen py-6 md:py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
       {/* Background */}
       <div className="absolute w-72 h-72 bg-orange-300/30 rounded-full blur-3xl top-[-80px] left-[-80px]" />
       <div className="absolute w-72 h-72 bg-blue-300/30 rounded-full blur-3xl bottom-[-80px] right-[-80px]" />
 
       <div className="max-w-5xl mx-auto space-y-8">
+        {/* Breadcrumbs */}
+        <Breadcrumbs
+          nav={[
+            { name: "Home", link: "/" },
+            {
+              name: "Market & Insight",
+              link: "/#market-insight",
+              className: "hidden md:block",
+            },
+            {
+              name: "Profil Perusahaan",
+              link: "/profil-perusahaan",
+            },
+            {
+              name: selectedCompany?.ticker,
+              link: `/profil-perusahaan/${selectedCompany?.ticker}`,
+              active: true,
+            },
+          ]}
+        />
+
         {/* Head */}
         <GlassCard>
           <div className="flex gap-4">
@@ -86,16 +110,24 @@ function Company_detail_view({ slug }: { slug: string }) {
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
                   Sektor
                 </h4>
-                <p className="text-[14px] text-muted-foreground leading-relaxed mb-4">
+
+                <a
+                  href={`/profil-perusahaan?search=${selectedCompany?.sector?.name}`}
+                  className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
+                >
                   {selectedCompany?.sector?.name}
-                </p>
+                </a>
 
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
                   Website
                 </h4>
-                <p className="text-[14px] text-muted-foreground leading-relaxed mb-4">
+                <a
+                  href={formatUrl(selectedCompany?.website)}
+                  target="_blank"
+                  className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
+                >
                   {selectedCompany?.website}
-                </p>
+                </a>
 
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
                   Tanggal IPO
@@ -112,9 +144,12 @@ function Company_detail_view({ slug }: { slug: string }) {
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
                   Industri
                 </h4>
-                <p className="text-[14px] text-muted-foreground leading-relaxed mb-4">
-                  {selectedCompany?.sector?.name}
-                </p>
+                <a
+                  href={`/profil-perusahaan?search=${selectedCompany?.industry?.name}`}
+                  className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
+                >
+                  {selectedCompany?.industry?.name}
+                </a>
 
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
                   NPWP
@@ -135,9 +170,12 @@ function Company_detail_view({ slug }: { slug: string }) {
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
                   Papan
                 </h4>
-                <p className="text-[14px] text-muted-foreground leading-relaxed mb-4">
+                <a
+                  href={`/profil-perusahaan?search=${selectedCompany?.listing_board}`}
+                  className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
+                >
                   {selectedCompany?.listing_board}
-                </p>
+                </a>
 
                 <h4 className="text-[16px] font-semibold text-foreground mb-1">
                   Kantor Utama

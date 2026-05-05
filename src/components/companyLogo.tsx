@@ -22,6 +22,7 @@ function CompanyLogo({
           className={`
             object-contain p-2 w-full h-full
             transition-opacity duration-200
+            rounded-2xl
           `}
           loading="lazy"
           decoding="async"

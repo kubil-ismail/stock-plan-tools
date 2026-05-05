@@ -224,3 +224,15 @@ export function sortManagement(data: any[]) {
     return a.name.localeCompare(b.name);
   });
 }
+
+export const formatUrl = (url?: string) => {
+  if (!url) return "#";
+
+  // kalau sudah ada protocol, pakai langsung
+  if (url.startsWith("http://") || url.startsWith("https://")) {
+    return url;
+  }
+
+  // kalau belum ada → tambahin https
+  return `https://${url}`;
+};

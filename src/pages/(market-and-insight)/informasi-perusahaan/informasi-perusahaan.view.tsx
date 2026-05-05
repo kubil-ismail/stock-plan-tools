@@ -21,6 +21,7 @@ import company from "@/data/company.json";
 import notation from "@/data/information/notations/notation.json";
 import pemantauan_khusus from "@/data/information/pemantauan_khusus/pemantauan_khusus.json";
 import calendar from "@/data/information/calendar/calendar.json";
+import Breadcrumbs from "@/components/breadcrumbs";
 
 function Informasi_perusahaan_view() {
   const inputRef = useRef<HTMLInputElement | null>(null);
@@ -107,13 +108,26 @@ function Informasi_perusahaan_view() {
   const isAllEmpty = isEmptyPemantauan && isEmptyCalendar;
 
   return (
-    <div className="relative min-h-screen py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
+    <div className="relative min-h-screen py-6 md:py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
       {/* Background */}
       <div className="absolute w-72 h-72 bg-orange-300/30 rounded-full blur-3xl top-[-80px] left-[-80px]" />
       <div className="absolute w-72 h-72 bg-blue-300/30 rounded-full blur-3xl bottom-[-80px] right-[-80px]" />
 
       <div className="max-w-7xl mx-auto relative">
-        <p className="text-2xl font-bold mb-4 text-[#2A2826]">
+        {/* Breadcrumbs */}
+        <Breadcrumbs
+          nav={[
+            { name: "Home", link: "/" },
+            { name: "Market & Insight", link: "/#market-insight" },
+            {
+              name: "Informasi Perusahaan",
+              link: "/informasi-perusahaan",
+              active: true,
+            },
+          ]}
+        />
+
+        <p className="text-2xl font-bold mb-4 mt-6 text-[#2A2826]">
           Informasi Perusahaan
         </p>
         <div className="flex items-center gap-2 mb-6">
@@ -154,7 +168,8 @@ function Informasi_perusahaan_view() {
             posthog.capture("informasi_perusahaan_tab_viewed", {
               tab,
               date: format(date, "yyyy-MM-dd"),
-              total_items: filter_calendar.length + filter_pemantauan_khusus.length,
+              total_items:
+                filter_calendar.length + filter_pemantauan_khusus.length,
             });
           }}
         >
@@ -346,18 +361,20 @@ function Calendar_card(props: {
             <span className="text-neutral-600">{variant}</span>
           </div>
 
-          <div>
-            <span className="font-semibold">Keterangan:</span>
-            <br />
+          {desc && (
             <div>
-              <span
-                className="text-neutral-600"
-                dangerouslySetInnerHTML={{
-                  __html: desc.split("\n").join("<br />"),
-                }}
-              />
+              <span className="font-semibold">Keterangan:</span>
+              <br />
+              <div>
+                <span
+                  className="text-neutral-600"
+                  dangerouslySetInnerHTML={{
+                    __html: desc.split("\n").join("<br />"),
+                  }}
+                />
+              </div>
             </div>
-          </div>
+          )}
         </div>
       </CardContent>
     </Card>
@@ -420,18 +437,20 @@ function Notation_card(props: {
             <span className="text-neutral-600">{variant}</span>
           </div>
 
-          <div>
-            <span className="font-semibold">Keterangan:</span>
-            <br />
-            <div className="md:pl-2 mt-1">
-              <span
-                className="text-neutral-600"
-                dangerouslySetInnerHTML={{
-                  __html: desc.split("\n").join("<br />"),
-                }}
-              />
+          {desc && (
+            <div>
+              <span className="font-semibold">Keterangan:</span>
+              <br />
+              <div className="md:pl-2 mt-1">
+                <span
+                  className="text-neutral-600"
+                  dangerouslySetInnerHTML={{
+                    __html: desc.split("\n").join("<br />"),
+                  }}
+                />
+              </div>
             </div>
-          </div>
+          )}
         </div>
       </CardContent>
     </Card>

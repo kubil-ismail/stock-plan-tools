@@ -4,11 +4,14 @@ import company from "@/data/company.json";
 import CompanyCard from "@/components/companyCard";
 import { StockDetail } from "@/types/stocks";
 import posthog from "posthog-js";
+import Breadcrumbs from "@/components/breadcrumbs";
+import { useRouter } from "next/navigation";
 
 const INITIAL_LOAD = 120;
 const LOAD_MORE_STEP = 120;
 
 function Profil_perusahaan_view({ search }: { search: string }) {
+  const router = useRouter();
   const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
 
   const [searchTerm, setSearchTerm] = useState(search ?? "");
@@ -16,7 +19,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
 
   // SEARCH FILTER
   const filteredCompanies = useMemo(() => {
-    if (!searchTerm) return _company;
+    if (!searchTerm || !search) return _company;
 
     const keyword = searchTerm.toLowerCase();
 
@@ -32,7 +35,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
         c.listing_board?.toLowerCase().includes(keyword)
       );
     });
-  }, [_company, searchTerm]);
+  }, [_company, searchTerm, search]);
 
   // PAGINATION
   const visibleData = filteredCompanies.slice(0, visibleCount);
@@ -45,6 +48,11 @@ function Profil_perusahaan_view({ search }: { search: string }) {
 
     // reset pagination saat search
     setVisibleCount(INITIAL_LOAD);
+
+
+    if (search && value.length === 0) {
+      router.replace("/profil-perusahaan");
+    }
   };
 
   const handleLoadMore = () => {
@@ -66,14 +74,27 @@ function Profil_perusahaan_view({ search }: { search: string }) {
   };
 
   return (
-    <div className="relative min-h-screen py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
+    <div className="relative min-h-screen py-6 md:py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
       {/* Background */}
       <div className="absolute w-72 h-72 bg-orange-300/30 rounded-full blur-3xl top-[-80px] left-[-80px]" />
       <div className="absolute w-72 h-72 bg-blue-300/30 rounded-full blur-3xl bottom-[-80px] right-[-80px]" />
 
       <div className="max-w-7xl mx-auto relative">
+        {/* Breadcrumbs */}
+        <Breadcrumbs
+          nav={[
+            { name: "Home", link: "/" },
+            { name: "Market & Insight", link: "/#market-insight" },
+            {
+              name: "Profil Perusahaan",
+              link: "/profil-perusahaan",
+              active: true,
+            },
+          ]}
+        />
+
         {/* SEARCH */}
-        <div className="mb-6">
+        <div className="my-6">
           <div className="bg-white/60 border border-white/30 rounded-2xl p-4 shadow-sm flex flex-wrap gap-3 items-center">
             <input
               type="text"
