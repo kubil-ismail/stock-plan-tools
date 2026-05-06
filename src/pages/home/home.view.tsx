@@ -116,7 +116,7 @@ function Home_View() {
     <>
       {/* Hero */}
       <section className="relative bg-white overflow-hidden">
-        <div className="max-w-7xl mx-auto px-6 py-16 text-center relative z-10">
+        <div className="max-w-7xl mx-auto px-6 py-24 text-center relative z-10">
           <h1 className="text-[28px] md:text-[48px] font-bold text-[#2A2826] mb-4 leading-tight">
             Tools & Insight untuk Investor Saham
           </h1>

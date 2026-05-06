@@ -4,6 +4,7 @@ import { cn } from "@/lib/utils";
 import Link from "next/link";
 import { Analytics } from "@vercel/analytics/next";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import Searchbar from "@/components/searchbar";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
@@ -100,6 +101,8 @@ export default function RootLayout({
                       Contact Us
                     </button>
                   </Link>
+
+                  <Searchbar />
                 </nav>
               </div>
             </header>

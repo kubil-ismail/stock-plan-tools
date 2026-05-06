@@ -1,16 +1,24 @@
 "use client";
+import { cn } from "@/lib/utils";
 import { useState, memo } from "react";
 
 function CompanyLogo({
   company,
+  disableBorder,
 }: {
   company: { logo: string; name?: string; ticker?: string };
+  disableBorder?: boolean;
 }) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
   return (
-    <div className="w-14 h-14 shrink-0 rounded-2xl overflow-hidden border border-gray-200 bg-white flex items-center justify-center relative">
+    <div
+      className={cn(
+        "w-14 h-14 shrink-0 rounded-2xl overflow-hidden flex items-center justify-center relative",
+        disableBorder ? "" : "border border-gray-200 "
+      )}
+    >
       {/* Skeleton */}
       {loading && !error && <div className="absolute inset-0 bg-gray-100" />}
 

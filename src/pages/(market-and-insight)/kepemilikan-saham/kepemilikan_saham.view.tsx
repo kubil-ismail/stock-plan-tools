@@ -88,7 +88,7 @@ function Kepemilikan_saham_view() {
         <div className="my-6">
           <div className="bg-white/60 border border-white/30 rounded-2xl p-4 shadow-sm flex flex-wrap gap-3 items-center">
             <input
-              type="text"
+              type="search"
               defaultValue={search}
               onChange={(e) => setSearch(e.target.value)}
               onBlur={handleSearchBlur}
