@@ -10,12 +10,12 @@ export async function GET(req: Request) {
   const industry = (searchParams.get("industry") || "").toUpperCase();
 
   try {
-    const logoUrl = `${process.env.NEXT_PUBLIC_BASE_URL}/images/company/logo/${ticker}.svg`;
+    // const logoUrl = `${process.env.NEXT_PUBLIC_BASE_URL}/images/company/logo/${ticker}.svg`;
 
-    const logoRes = await fetch(logoUrl);
-    const logoSvg = await logoRes.text();
+    // const logoRes = await fetch(logoUrl);
+    // const logoSvg = await logoRes.text();
 
-    const logoBase64 = `data:image/svg+xml;base64,${btoa(logoSvg)}`;
+    // const logoBase64 = `data:image/svg+xml;base64,${btoa(logoSvg)}`;
 
     return new ImageResponse(
       (
@@ -103,7 +103,7 @@ export async function GET(req: Request) {
                   justifyContent: "center",
                 }}
               >
-                <img src={logoBase64} width={90} height={90} />
+                {/* <img src={logoBase64} width={90} height={90} /> */}
               </div>
 
               {/* text */}
@@ -182,6 +182,9 @@ export async function GET(req: Request) {
       }
     );
   } catch (err) {
-    return new Response("Error generating image", { status: 500 });
+    console.log(`${err.message}`);
+    return new Response(`Failed to generate the image`, {
+      status: 500,
+    });
   }
 }
