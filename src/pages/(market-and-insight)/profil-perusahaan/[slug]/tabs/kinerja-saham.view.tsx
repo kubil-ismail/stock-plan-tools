@@ -81,7 +81,7 @@ export default function Kinerja_saham_view(props: Props) {
   ).data;
 
   const selectedTechnicalSummary = _technical_summary.find(
-    (item) => item.Kode_Saham === selectedCompany.ticker
+    (item) => item.Kode_Saham === selectedCompany?.ticker
   )!;
 
   return (
