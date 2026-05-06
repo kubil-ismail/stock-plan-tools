@@ -236,3 +236,29 @@ export const formatUrl = (url?: string) => {
   // kalau belum ada → tambahin https
   return `https://${url}`;
 };
+
+export const formatDecimal = (
+  value: string | null | undefined,
+  direction?: "+" | "-" | "="
+): number => {
+  if (!value) return 0;
+
+  // bersihin string
+  let cleaned = value.replace(/[^\d,.-]/g, "");
+
+  // format indo → number
+  cleaned = cleaned.replace(/\./g, "").replace(",", ".");
+
+  let result = Number(cleaned);
+
+  if (isNaN(result)) return 0;
+
+  // paksa jadi absolute dulu
+  result = Math.abs(result);
+
+  // apply direction
+  if (direction === "-") return -result;
+  if (direction === "=") return 0;
+
+  return result; // default atau "+"
+};

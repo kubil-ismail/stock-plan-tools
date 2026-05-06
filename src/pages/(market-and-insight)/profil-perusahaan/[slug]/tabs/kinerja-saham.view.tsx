@@ -14,44 +14,12 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
+import technical_summary from "@/data/technical_summary.json";
+import { StockTechnical } from "@/types/stocks";
 
 interface Props {
   selectedCompany: StockDetail;
 }
-
-const dummyMetrics = {
-  fundamental: {
-    index: "LQ45",
-    per: 0, // murah
-    pbv: 0, // wajar
-    roe: 0, // bagus
-    roa: 0, // cukup
-    der: 0, // tinggi (bad)
-    marketCap: 0, // 12.5T
-    totalRevenue: 0, // 3.4T
-  },
-
-  performance: {
-    change4w: 0, // naik kecil
-    change13w: 0, // naik gede
-    change26w: 0, // stagnan
-    change52w: 0, // turun
-    npm: 0, // tipis
-    mtd: 0, // turun dikit
-    ytd: 0, // naik
-  },
-};
-
-function formatNumber(value?: number) {
-  if (value === undefined || value === null) return "-";
-
-  if (value >= 1e12) return (value / 1e12).toFixed(2) + " T";
-  if (value >= 1e9) return (value / 1e9).toFixed(2) + " B";
-  if (value >= 1e6) return (value / 1e6).toFixed(2) + " M";
-
-  return value.toLocaleString("id-ID");
-}
-
 
 const metricDescriptions: Record<string, string> = {
   Index: "Indeks tempat saham ini terdaftar (misalnya IDX30, LQ45).",
@@ -63,10 +31,10 @@ const metricDescriptions: Record<string, string> = {
   DER: "Debt to Equity Ratio: perbandingan utang terhadap modal.",
   "Market Cap": "Total nilai pasar perusahaan (harga saham × jumlah saham).",
   "Total Revenue": "Total pendapatan perusahaan dalam periode tertentu.",
-  "4W Change %": "Perubahan harga saham dalam 4 minggu terakhir.",
-  "13W Change %": "Perubahan harga saham dalam 13 minggu terakhir.",
-  "26W Change %": "Perubahan harga saham dalam 26 minggu terakhir.",
-  "52W Change %": "Perubahan harga saham dalam 52 minggu terakhir.",
+  "4W Change": "Perubahan harga saham dalam 4 minggu terakhir.",
+  "13W Change": "Perubahan harga saham dalam 13 minggu terakhir.",
+  "26W Change": "Perubahan harga saham dalam 26 minggu terakhir.",
+  "52W Change": "Perubahan harga saham dalam 52 minggu terakhir.",
   "NPM %": "Net Profit Margin: persentase laba bersih dari pendapatan.",
   MTD: "Month to Date: performa sejak awal bulan ini.",
   YTD: "Year to Date: performa sejak awal tahun ini.",
@@ -74,6 +42,7 @@ const metricDescriptions: Record<string, string> = {
 
 import { ArrowUpRight, ArrowDownRight, Minus } from "lucide-react";
 import clsx from "clsx";
+import { formatDecimal } from "@/lib/utils";
 
 const metricRules: Record<
   string,
@@ -104,14 +73,143 @@ const metricRules: Record<
   },
 };
 
+export default function Kinerja_saham_view(props: Props) {
+  const { selectedCompany } = props;
+
+  const _technical_summary: StockTechnical[] = (
+    technical_summary as { data: StockTechnical[] }
+  ).data;
+
+  const selectedTechnicalSummary = _technical_summary.find(
+    (item) => item.Kode_Saham === selectedCompany.ticker
+  )!;
+
+  return (
+    <GlassCard>
+      <div className="mb-6">
+        <h3 className="text-xl md:text-2xl font-semibold text-foreground">
+          Kinerja Saham
+        </h3>
+        <p className="text-sm text-muted-foreground">{selectedCompany?.name}</p>
+      </div>
+
+      {/* FUNDAMENTAL */}
+      {/* <Section title="Fundamental">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <Metric
+            label="Index"
+            value={dummyMetrics.fundamental.index}
+            disableIcon
+          />
+          <Metric
+            label="PER"
+            value={dummyMetrics.fundamental.per}
+            disableIcon
+          />
+          <Metric
+            label="PBV"
+            value={dummyMetrics.fundamental.pbv}
+            disableIcon
+          />
+          <Metric
+            label="ROE %"
+            value={dummyMetrics.fundamental.roe}
+            disableIcon
+          />
+          <Metric
+            label="ROA %"
+            value={dummyMetrics.fundamental.roa}
+            disableIcon
+          />
+          <Metric
+            label="DER"
+            value={dummyMetrics.fundamental.der}
+            disableIcon
+          />
+          <Metric
+            label="Market Cap"
+            value={formatNumber(dummyMetrics.fundamental.marketCap)}
+            disableIcon
+          />
+          <Metric
+            label="Total Revenue"
+            value={formatNumber(dummyMetrics.fundamental.totalRevenue)}
+            disableIcon
+          />
+        </div>
+      </Section> */}
+
+      {/* PERFORMANCE */}
+      <Section title="Performance">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+          <Metric
+            label="4W Change"
+            value={formatDecimal(
+              selectedTechnicalSummary._4_wk_chg.value,
+              selectedTechnicalSummary._4_wk_chg.direction
+            )}
+            percentage
+          />
+          <Metric
+            label="13W Change"
+            value={formatDecimal(
+              selectedTechnicalSummary._13_wk_chg.value,
+              selectedTechnicalSummary._13_wk_chg.direction
+            )}
+            percentage
+          />
+          <Metric
+            label="26W Change"
+            value={formatDecimal(
+              selectedTechnicalSummary._26_wk_chg.value,
+              selectedTechnicalSummary._26_wk_chg.direction
+            )}
+            percentage
+          />
+          <Metric
+            label="52W Change"
+            value={formatDecimal(
+              selectedTechnicalSummary._52_wk_chg.value,
+              selectedTechnicalSummary._52_wk_chg.direction
+            )}
+            percentage
+          />
+          {/* <Metric
+            label="NPM %"
+            value={formatDecimal(selectedTechnicalSummary.npm)}
+          /> */}
+          <Metric
+            label="MTD"
+            value={formatDecimal(
+              selectedTechnicalSummary.mtd.value,
+              selectedTechnicalSummary.mtd.direction
+            )}
+            percentage
+          />
+          <Metric
+            label="YTD"
+            value={formatDecimal(
+              selectedTechnicalSummary.ytd.value,
+              selectedTechnicalSummary.ytd.direction
+            )}
+            percentage
+          />
+        </div>
+      </Section>
+    </GlassCard>
+  );
+}
+
 function Metric({
   label,
   value,
   disableIcon,
+  percentage,
 }: {
   label: string;
   value?: string | number;
   disableIcon?: boolean;
+  percentage?: boolean;
 }) {
   const isNumber = typeof value === "number";
 
@@ -176,7 +274,6 @@ function Metric({
 
                 <TooltipContent
                   side="top"
-                  
                   className="max-w-[220px] text-xs leading-relaxed bg-white text-black border border-gray-200 shadow-md rounded-lg px-3 py-2"
                 >
                   {metricDescriptions[label]}
@@ -189,6 +286,7 @@ function Metric({
       <div className="flex items-center gap-1.5">
         <p className={clsx("text-lg font-semibold", colorClass)}>
           {value ?? "-"}
+          {percentage ? "%" : ""}
         </p>
         {Icon && <Icon size={16} className={colorClass} />}
       </div>
@@ -219,91 +317,3 @@ function Section({
     </section>
   );
 }
-
-function Kinerja_saham_view(props: Props) {
-  const { selectedCompany } = props;
-
-  return (
-    <GlassCard>
-      <div className="mb-6">
-        <h3 className="text-xl md:text-2xl font-semibold text-foreground">
-          Kinerja Saham
-        </h3>
-        <p className="text-sm text-muted-foreground">{selectedCompany?.name}</p>
-      </div>
-
-      {/* FUNDAMENTAL */}
-      <Section title="Fundamental">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <Metric
-            label="Index"
-            value={dummyMetrics.fundamental.index}
-            disableIcon
-          />
-          <Metric
-            label="PER"
-            value={dummyMetrics.fundamental.per}
-            disableIcon
-          />
-          <Metric
-            label="PBV"
-            value={dummyMetrics.fundamental.pbv}
-            disableIcon
-          />
-          <Metric
-            label="ROE %"
-            value={dummyMetrics.fundamental.roe}
-            disableIcon
-          />
-          <Metric
-            label="ROA %"
-            value={dummyMetrics.fundamental.roa}
-            disableIcon
-          />
-          <Metric
-            label="DER"
-            value={dummyMetrics.fundamental.der}
-            disableIcon
-          />
-          <Metric
-            label="Market Cap"
-            value={formatNumber(dummyMetrics.fundamental.marketCap)}
-            disableIcon
-          />
-          <Metric
-            label="Total Revenue"
-            value={formatNumber(dummyMetrics.fundamental.totalRevenue)}
-            disableIcon
-          />
-        </div>
-      </Section>
-
-      {/* PERFORMANCE */}
-      <Section title="Performance">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <Metric
-            label="4W Change %"
-            value={dummyMetrics.performance.change4w}
-          />
-          <Metric
-            label="13W Change %"
-            value={dummyMetrics.performance.change13w}
-          />
-          <Metric
-            label="26W Change %"
-            value={dummyMetrics.performance.change26w}
-          />
-          <Metric
-            label="52W Change %"
-            value={dummyMetrics.performance.change52w}
-          />
-          <Metric label="NPM %" value={dummyMetrics.performance.npm} />
-          <Metric label="MTD" value={dummyMetrics.performance.mtd} />
-          <Metric label="YTD" value={dummyMetrics.performance.ytd} />
-        </div>
-      </Section>
-    </GlassCard>
-  );
-}
-
-export default Kinerja_saham_view;

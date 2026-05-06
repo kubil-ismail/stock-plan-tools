@@ -74,3 +74,46 @@ export type StockDetail = {
     deletedAt: string | null;
   }[];
 };
+
+export type StockTechnical = {
+  Nama_Perusahaan: string;
+  Kode_Saham: string;
+  Kode_SubIndustri: string;
+  Sektor: string;
+  Subsektor: string;
+  Idustri: string;
+  Subindustri: string;
+  Index: string;
+  Per: string;
+  Pbv: string;
+  Roe: string;
+  Roa: string;
+  Der: string;
+  Mkt_Cap: string;
+  Total_Rev: string;
+  _4_wk_chg: {
+    value: string;
+    direction: "+" | "-" | "=";
+  };
+  _13_wk_chg: {
+    value: string;
+    direction: "+" | "-" | "=";
+  };
+  _26_wk_chg: {
+    value: string;
+    direction: "+" | "-" | "=";
+  };
+  _52_wk_chg: {
+    value: string;
+    direction: "+" | "-" | "=";
+  };
+  npm: string;
+  mtd: {
+    value: string;
+    direction: "+" | "-" | "=";
+  };
+  ytd: {
+    value: string;
+    direction: "+" | "-" | "=";
+  };
+};
