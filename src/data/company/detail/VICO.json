@@ -1,0 +1,225 @@
+{
+  "company_name": "PT Victoria Investama Tbk.",
+  "ticker": "VICO",
+  "office_address": "Graha Bip Lantai 3a Jl. Gatot Subroto Kav. 23, Jakarta Selatan 12930",
+  "email": "corsec@victoriainvestama.co.id",
+  "phone": "(021) 30008870",
+  "fax": "-",
+  "tax_id": "01.339.3621.0-054.000",
+  "website": "https://www.victoriainvestama.co.id",
+  "listing_date": "2013-07-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Mutiara Hastantri Wardhani",
+    "email": "corsec@victoriainvestama.co.id",
+    "phone": "(021) 50992950"
+  },
+  "directors": [
+    {
+      "name": "Aldo Jusuf Tjahaja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jimmy Kurniawan Setio",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Untung Woenardi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Eko Rachmansyah G",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eko Rachmansyah Gindo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Alfia Oktaviani, S.ap",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yolanda Andika, S.e.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Gratamulia Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 6856943900,
+      "percentage": 45.06
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4309273320,
+      "percentage": 28.32
+    },
+    {
+      "name": "Suzanna Tanojo",
+      "type": "Lebih dari 5%",
+      "shares": 4050858438,
+      "percentage": 26.62
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Untung Woenardi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eko Rachmansyah Gindo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aldo Jusuf Tjahaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jimmy Kurniawan Setio",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Victoria International Tbk (bvic)",
+      "business_type": "Bank Umum",
+      "total_assets": 31045989252,
+      "ownership_percentage": 44.23
+    },
+    {
+      "name": "PT Bank Victoria Syariah (bvis)",
+      "business_type": "Perbankan Syariah",
+      "total_assets": 3314468601,
+      "ownership_percentage": 80.19
+    },
+    {
+      "name": "PT Victoria Insurance Tbk (vins)",
+      "business_type": "Asuransi Kerugian",
+      "total_assets": 243101289,
+      "ownership_percentage": 82.33
+    },
+    {
+      "name": "PT Victoria Alife Indonesia (vai)",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 179387249,
+      "ownership_percentage": 99.33
+    },
+    {
+      "name": "PT Victoria Sekuritas Indonesia (vsi)",
+      "business_type": "Perantara Perdagangan Efek, Manajer Investasi/ Penasihat Investasi dan Penjamin Emisi Efek",
+      "total_assets": 153398930,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Victoria Manajemen Investasi (vmi)",
+      "business_type": "Pengelolaan Investasi",
+      "total_assets": 29730678,
+      "ownership_percentage": 95.83
+    },
+    {
+      "name": "PT. Sumber Daya Sakti",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 88755,
+      "ownership_percentage": 99.94
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.510.817.483.570",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,10",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,81",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,33",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "16,20",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,60",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "21,43",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:22.142Z"
+}

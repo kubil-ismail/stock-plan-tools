@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import company from "@/data/company.json";
+import company from "@/data/archive/company.json";
 import Profil_perusahaan_detail_view from "@/pages/(market-and-insight)/profil-perusahaan/[slug]/profil-perusahaan-detail.view";
 import { StockDetail } from "@/types/stocks";
 

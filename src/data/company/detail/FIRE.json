@@ -1,0 +1,236 @@
+{
+  "company_name": "PT Alfa Energi Investama Tbk.",
+  "ticker": "FIRE",
+  "office_address": "Plaza 5 Pondok Indah Blok D-12, Jl. Marga Guna Rt. 3/rw.11, Gandaria Utara, Kebayoran Baru, Jakarta",
+  "email": "corsec@alfacentra.com",
+  "phone": "0217246966",
+  "fax": "02175930552",
+  "tax_id": "72.558.812.3-013.000",
+  "website": "https://www.alfacentra.com",
+  "listing_date": "2017-06-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan, pengangkutan, dan pertambangan batubara melalui entitas anak Perseroan",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Lyna",
+    "email": "corsec@alfacentra.com",
+    "phone": "081288460488"
+  },
+  "directors": [
+    {
+      "name": "Lyna",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Teguh Budi Santosa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Denny Fitria Ayu K",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Aris Munandar",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Budi Kartika",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Herbert Darwin Mangatas Sitorus",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Herbert Darwin Mangatas Sitorus",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tri Ardiyanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jeska Athalia Stephanie S",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 714352129,
+      "percentage": 48.42
+    },
+    {
+      "name": "Aris Munandar",
+      "type": "Direksi",
+      "shares": 531203000,
+      "percentage": 36
+    },
+    {
+      "name": "PT Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 229783050,
+      "percentage": 15.58
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 25000,
+      "percentage": 0
+    },
+    {
+      "name": "Lyna",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Teguh Budi Santosa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. M Noer Qomari, Ak",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Kartika",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "203.600.118.702",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,53",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,26",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "63,86",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "86,30",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,45",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "21,84",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:45.989Z"
+}

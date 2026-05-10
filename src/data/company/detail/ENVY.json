@@ -1,0 +1,218 @@
+{
+  "company_name": "PT Envy Technologies Indonesia Tbk",
+  "ticker": "ENVY",
+  "office_address": "Satrio Tower, Lantai 24 Unit D, Jl. Prof. Dr. Satrio Kav.1-4 Blok C4, Kuningan Timur, Setiabudi, Jakarta Selatan 12950",
+  "email": "corsec@nvtechindo.com",
+  "phone": "-",
+  "fax": "-",
+  "tax_id": "02.194.334.5-058.000",
+  "website": "https://www.envytech.co.id",
+  "listing_date": "2019-07-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa dan Perdagangan Teknologi Informasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Rastie Lanina Paypin",
+    "email": "corsec@nvtechindo.com",
+    "phone": "0215761435"
+  },
+  "directors": [
+    {
+      "name": "Dato' Sri Mohd Sopiyan Bin Mohd Rashdi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hansyah Dharma Jauri",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jaya Jayandi Artana",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Mahendra M.sc",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Muliandy Nasution",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wan Kamarul Zaman Bin Wan Yaacob",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ayu Perwitasari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1560140900,
+      "percentage": 86.675
+    },
+    {
+      "name": "PT Envy Manajemen Konsultansi",
+      "type": "Lebih dari 5%",
+      "shares": 130352100,
+      "percentage": 7.24
+    },
+    {
+      "name": "Weiser Global Capital Markets Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 108157000,
+      "percentage": 6.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 1350000,
+      "percentage": 0.075
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Envy Unity Indonesia",
+      "business_type": "Perdagangan Besar dan Eceran Serta Informasi dan Komunikasi",
+      "total_assets": 10000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ritel Global Solusi",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 2412377038,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Envy Kapital Internasional",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 99226000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Envy Kapital Internasional",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 99226000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "90.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:29.347Z"
+}

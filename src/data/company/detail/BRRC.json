@@ -1,0 +1,209 @@
+{
+  "company_name": "PT Raja Roti Cemerlang Tbk",
+  "ticker": "BRRC",
+  "office_address": "Kampung Pulo Kendal Rt002/rw003, Kel. Setia Asih, Kec. Tarumajaya, Kab. Bekasi, Provinsi Jawa Barat 17215",
+  "email": "corporate.secretary@rajaroticemerlang.com",
+  "phone": "021-29084611",
+  "fax": "",
+  "tax_id": "75.030.567.4-435.000",
+  "website": "https://www.rajaroticemerlang.com",
+  "listing_date": "2025-01-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Produksi tepung roti (breadcrumbs)",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Nurjihan Khairunisa",
+    "email": "corporate.secretary@rajaroticemerlang.com",
+    "phone": "021-29084611"
+  },
+  "directors": [
+    {
+      "name": "Ari Sudarsono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dicky Chandra Hermawan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Afiful Mahis",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rosyita Rachmi Sholihah",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Leo Herlambang",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Leo Herlambang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Muhlisin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Raden Mas Bagus Adrian Prandika Putra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 459580844,
+      "percentage": 46.21
+    },
+    {
+      "name": "Ari Sudarsono",
+      "type": "Direksi",
+      "shares": 421936056,
+      "percentage": 42.42
+    },
+    {
+      "name": "Noprian Fadli",
+      "type": "Lebih dari 5%",
+      "shares": 60603600,
+      "percentage": 6.09
+    },
+    {
+      "name": "Agus Sumarjito",
+      "type": "Lebih dari 5%",
+      "shares": 52482536,
+      "percentage": 5.28
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dicky Chandra Hermawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Afiful Mahis",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rosyita Rachmi Sholihah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Leo Herlambang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "77.579.036.808",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,30",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "20,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "41,54",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "43,40",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "31,53",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:27.408Z"
+}

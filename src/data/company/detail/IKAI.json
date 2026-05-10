@@ -1,0 +1,226 @@
+{
+  "company_name": "Intikeramik Alamasri Industri Tbk",
+  "ticker": "IKAI",
+  "office_address": "Menara Bidakara 2 Lantai 1, Jl. Gatot Subroto Kav. 71-73, Jakarta Selatan 12870",
+  "email": "corpsecretary_legal@intikeramik.com",
+  "phone": "(021) 83700435",
+  "fax": "(021) 83700436",
+  "tax_id": "01.359.538.4-054.000",
+  "website": "https://www.intikeramik.com",
+  "listing_date": "1997-06-04",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Manufaktur Keramik dan Perhotelan",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan, Properti, Manufaktur.",
+    "business_tags": [
+      "Kesehatan",
+      "Properti",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "property",
+      "real estate",
+      "properti",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Winda Yohana",
+    "email": "corpsecretary_legal@intikeramik.com",
+    "phone": "(021) 83700435"
+  },
+  "directors": [
+    {
+      "name": "Desra Firza Ghazfan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Emirza Adi Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "William Eduard Daniel",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bernardus Djonoputro",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bernardus Djonoputro",
+      "position": "Ketua"
+    },
+    {
+      "name": "William Eduard Daniel",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dandossi Matram",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 10655112005,
+      "percentage": 80.079
+    },
+    {
+      "name": "PT Finix Bangun Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2572878610,
+      "percentage": 19.337
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 77808772,
+      "percentage": 0.584
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Desra Firza Ghazfan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Emirza Adi Wibowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "William Eduard Daniel",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bernardus Djonoputro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Internusa Keramik Alamasri Industri",
+      "business_type": "Industri Ubin Porselen/porcelain Tile Manufacturing",
+      "total_assets": 316,
+      "ownership_percentage": 90.45
+    },
+    {
+      "name": "PT Internusa Keramik Alamasri Industri",
+      "business_type": "Industri Ubin Porselen/porcelain Tile Manufacturing",
+      "total_assets": 316,
+      "ownership_percentage": 90.45
+    },
+    {
+      "name": "PT Hotel Properti Internasional",
+      "business_type": "Perhotelan/ Hospitality",
+      "total_assets": 161,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Hotel Properti Internasional",
+      "business_type": "Perhotelan/ Hospitality",
+      "total_assets": 161,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nusantara Bhuana Investasi",
+      "business_type": "Praoperasional Perhotelan/pre-operating Hospitality",
+      "total_assets": 147,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Nusantara Bhuana Investasi",
+      "business_type": "Praoperasional Perhotelan/pre-operating Hospitality",
+      "total_assets": 147,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Saka Mitra Sejati",
+      "business_type": "Perhotelan/ Hospitality",
+      "total_assets": 113,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "332.644.984.675",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,70",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "19,05",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "78,57",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "212,50",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,41",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "19,05",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:05.337Z"
+}

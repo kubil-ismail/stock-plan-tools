@@ -1,0 +1,177 @@
+{
+  "company_name": "Kabelindo Murni Tbk",
+  "ticker": "KBLM",
+  "office_address": "Jl. Rawagirang No. 2, Kawasan Industri Pulogadung, Jakarta Timur",
+  "email": "corsec@kabelindo.co.id",
+  "phone": "021-460-9065, 460-9550",
+  "fax": "021-460-9064, 460-4271",
+  "tax_id": "01.002.962.7-054.000",
+  "website": "https://www.kabelindo.co.id",
+  "listing_date": "1992-06-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Kabel",
+    "business_summary": "Perusahaan bergerak di bidang Komponen & Peralatan Kelistrikan.",
+    "business_tags": [
+      "Komponen & Peralatan Kelistrikan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 18,
+    "name": "Kelistrikan"
+  },
+  "sub_industry": {
+    "id": 38,
+    "name": "Komponen & Peralatan Kelistrikan",
+    "industries_id": 18
+  },
+  "corporate_secretary": {
+    "name": "Intan Eka Dewi",
+    "email": "intan@kabelindo.co.id",
+    "phone": "021-4609065"
+  },
+  "directors": [
+    {
+      "name": "Elly Soepono",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Veronica Lukman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Petrus Nugroho Dwisantoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Syarwani Harun",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Soepono",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Surya Adiwijaya Soepono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dikdik Sugiharto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dikdik Sugiharto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Adiwinata",
+      "position": "Anggota"
+    },
+    {
+      "name": "Neny Mustika Suseno",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sibalec",
+      "type": "Lebih dari 5%",
+      "shares": 451017200,
+      "percentage": 40.27
+    },
+    {
+      "name": "PT Mesindo Agung Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 389300000,
+      "percentage": 34.76
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 129136020,
+      "percentage": 11.53
+    },
+    {
+      "name": "PT Erdikha Elit Sekuritas",
+      "type": "Lebih dari 5%",
+      "shares": 73711600,
+      "percentage": 6.58
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 64335180,
+      "percentage": 5.74
+    },
+    {
+      "name": "Elly Soepono",
+      "type": "Direksi",
+      "shares": 12500000,
+      "percentage": 1.12
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "360.640.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,82",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,81",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "8,94",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "9,40",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "3,55",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:06.766Z"
+}

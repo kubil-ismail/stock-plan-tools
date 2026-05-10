@@ -1,0 +1,166 @@
+{
+  "company_name": "PT Dua Putra Utama Makmur Tbk.",
+  "ticker": "DPUM",
+  "office_address": "Jl. Raya Pati Juwana Km 7 Kelurahan Purworejo, Kecamatan Pati, Kabupaten Pati, Jawa Tengah, Indonesia 59119",
+  "email": "info@duaputra.co.id",
+  "phone": "(0295) 4199 010/11",
+  "fax": "(0295) 4199 014",
+  "tax_id": "31.533.808.7-507.000",
+  "website": "https://www.duaputra.co.id",
+  "listing_date": "2015-12-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri, perikanan dan perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Julius Siwalette",
+    "email": "corsec@duaputra.co.id",
+    "phone": "(0295) 4199 010"
+  },
+  "directors": [
+    {
+      "name": "Ir. Bambang Panca Putra Yudiono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "R. Sri Dwi Mamik Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Winardi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sherley Chandra Hadipurnomo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Machhendra Setyo Atmaja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Machhendra Setyo Atmaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Erik Subiyanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nanda Patrio Basuwardhana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pandawa Putra Investama",
+      "type": "Lebih dari 5%",
+      "shares": 2872954500,
+      "percentage": 68.81
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1291585500,
+      "percentage": 30.94
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 10460000,
+      "percentage": 0.25
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Samudra Pangan Indonesia",
+      "business_type": "Perindustrian dan Perdagangan",
+      "total_assets": 10551660000,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "484.300.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "20,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "45,65",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "127,27",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "200,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "30,43",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "45,65",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:08.393Z"
+}

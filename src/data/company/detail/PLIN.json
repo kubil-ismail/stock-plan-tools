@@ -1,0 +1,216 @@
+{
+  "company_name": "Plaza Indonesia Realty Tbk",
+  "ticker": "PLIN",
+  "office_address": "The Plaza Office Tower Lt. 10 Jl. m.h. Thamrin Kav.28-30 Jakarta 10350",
+  "email": "corsec@plazaindonesia.com",
+  "phone": "(021) 29920000",
+  "fax": "(021) 29921111",
+  "tax_id": "01.065.302.0-054.000",
+  "website": "https://www.plazaindonesiarealty.com",
+  "listing_date": "1992-06-15",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pengelola Mal dan Hotel",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Umbas Rombe",
+    "email": "umbas.rombe@plazaindonesia.com",
+    "phone": "021-29920000"
+  },
+  "directors": [
+    {
+      "name": "Rosano Barack",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Anthony Prabowo Susilo",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Widjaja",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Evy Tirtasudira",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "David Raimond Sulaiman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Franky Oesman Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Amelia Gozali",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sintong Panjaitan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sintong Panjaitan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Se Min Sutanto, S.e.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Chandra Widjaja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Plaza Indonesia Investama",
+      "type": "Lebih dari 5%",
+      "shares": 3429674130,
+      "percentage": 96.61
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 85529600,
+      "percentage": 2.41
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 20550000,
+      "percentage": 0.58
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 14246270,
+      "percentage": 0.4
+    },
+    {
+      "name": "Evy Tirtasudira",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Franky Oesman Widjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amelia Gozali",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sintong Panjaitan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rosano Barack",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anthony Prabowo Susilo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michael Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Raimond Sulaiman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.910.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:31.150Z"
+}

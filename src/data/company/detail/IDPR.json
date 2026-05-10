@@ -1,0 +1,182 @@
+{
+  "company_name": "PT Indonesia Pondasi Raya Tbk.",
+  "ticker": "IDPR",
+  "office_address": "Jl. Pegangsaan Dua Km 4,5 Jakarta 14250",
+  "email": "corporate_secretary@indopora.com",
+  "phone": "(021) 4603253",
+  "fax": "(021) 4604390; 4604393",
+  "tax_id": "01.302.756.0-046.000",
+  "website": "https://www.indopora.com",
+  "listing_date": "2015-12-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang konstruksi pondasi, dinding penahan tanah, perbaikan tanah, dan pengujian tiang",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Dwijanto",
+    "email": "corporate_secretary@indopora.com",
+    "phone": "(021) 4603253"
+  },
+  "directors": [
+    {
+      "name": "Febyan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heribertus Herry Putranto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Albertus Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dwijanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ignatius Enrico Setiawan Setiodihardjo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Manuel Djunako",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wiro Atmojo Wijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Wiro Atmojo Wijaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wahyu Tedjamihardja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Anita Leonardi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Manuel Djunako",
+      "type": "Komisaris",
+      "shares": 1727847606,
+      "percentage": 86.263
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 185476400,
+      "percentage": 9.26
+    },
+    {
+      "name": "Febyan",
+      "type": "Direksi",
+      "shares": 55606700,
+      "percentage": 2.776
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 34069294,
+      "percentage": 1.701
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Rekagunatek Persada",
+      "business_type": "Pembuatan Tiang Pancang Precast dan Prestressed dan Jasa Pemancangan.",
+      "total_assets": 808088829892,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Gema Bahana Utama",
+      "business_type": "Konstruksi",
+      "total_assets": 54070389990,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "604.906.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "8,57",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "2,56",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "67,96",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,33",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "13,43",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:00.996Z"
+}

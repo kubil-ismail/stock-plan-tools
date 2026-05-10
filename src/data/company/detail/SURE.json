@@ -1,0 +1,412 @@
+{
+  "company_name": "PT Super Energy Tbk.",
+  "ticker": "SURE",
+  "office_address": "Gedung Equity Tower Lt. 29 Unit E SCBD Lot 9 Jln. Jend. Sudirman Kav. 52-53 Kebayoran Baru Jakarta Selatan 12190",
+  "email": "secretary@superenergi.com;",
+  "phone": "021 29035295",
+  "fax": "021 29035297",
+  "tax_id": "03.138.794.4-012.000",
+  "website": "https://superenergi.com",
+  "listing_date": "2018-10-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Minyak, Gas Bumi dan Bidang Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 82,
+    "name": "Produksi & Penyulingan Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Andre Rachman",
+    "email": "secretary@superenergi.com",
+    "phone": "+62 21 29035295"
+  },
+  "directors": [
+    {
+      "name": "Agustus Sani Nugroho",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andreas Sugihardjo Tjendana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Gogo Bonardo Parsaulian Panjaitan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Keisuke Ito",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fauqi Hapidekso",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rheza Reynald Riady Susanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sammy T. S. Lalamentik",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ruliff Redemptus Sena Susanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tomomasa Nishimura",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sammy T. S. Lalamentik",
+      "position": "Ketua"
+    },
+    {
+      "name": "Syaefudin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Super Capital Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 881590000,
+      "percentage": 58.87
+    },
+    {
+      "name": "Tokyo Gas Asia Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 500190643,
+      "percentage": 33.4
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 115796128,
+      "percentage": 7.73
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Energy Mina Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 1155089332085,
+      "ownership_percentage": 81.5
+    },
+    {
+      "name": "PT Energy Mina Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 1135441077177,
+      "ownership_percentage": 81.5
+    },
+    {
+      "name": "PT Energy Mina Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 981675636856,
+      "ownership_percentage": 81.5
+    },
+    {
+      "name": "PT Energy Mina Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 981675636856,
+      "ownership_percentage": 81.5
+    },
+    {
+      "name": "PT Energy Mina Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 899178198679,
+      "ownership_percentage": 81.5
+    },
+    {
+      "name": "PT Sumber Aneka Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 618962485112,
+      "ownership_percentage": 74.99
+    },
+    {
+      "name": "PT Sumber Aneka Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 589029144371,
+      "ownership_percentage": 74.99
+    },
+    {
+      "name": "PT Sumber Aneka Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 422327414453,
+      "ownership_percentage": 74.99
+    },
+    {
+      "name": "PT Sumber Aneka Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 422327414453,
+      "ownership_percentage": 74.99
+    },
+    {
+      "name": "PT Gasuma Federal Indonesia",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 270383334867,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Gasuma Federal Indonesia",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 253578717685,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Gasuma Federal Indonesia",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 253578717685,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Sumber Aneka Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 241386771856,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Gasuma Federal Indonesia",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 238035575173,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Gasuma Federal Indonesia",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 231672410665,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Bahtera Abadi Gas (bag)",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 159215882780,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Abadi Gas (bag)",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 157270653571,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Abadi Gas (bag)",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 137558499782,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Abadi Gas (bag)",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 123708512082,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Abadi Gas (bag)",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 123708512082,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Subang Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 87239456446,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Subang Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 86950037943,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Subang Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 86950037943,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Subang Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 84602154458,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Subang Abadi",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 83758357875,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Andalan Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 80894877128,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Andalan Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 80472346032,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Andalan Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 80472346032,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Andalan Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 78446608747,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Andalan Gas",
+      "business_type": "Perdagangan Gas",
+      "total_assets": 77243393734,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.193.214.958.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,09",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "0,76",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "2,25",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "14,47",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,69",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "2,97",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:09.902Z"
+}

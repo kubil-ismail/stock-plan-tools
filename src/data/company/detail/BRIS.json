@@ -1,0 +1,410 @@
+{
+  "company_name": "PT Bank Syariah Indonesia (persero) Tbk",
+  "ticker": "BRIS",
+  "office_address": "Gedung The Tower, Jalan Gatot Subroto No. 27, Kel. Karet Semanggi, Kec. Setiabudi, Jakarta Selatan 12930",
+  "email": "corporate.secretary@bankbsi.co.id",
+  "phone": "+62 21 30405999",
+  "fax": "+62 21 30421888",
+  "tax_id": "01.105.094.5-093.000",
+  "website": "https://www.bankbsi.co.id",
+  "listing_date": "2018-05-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan Syariah",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Wisnu Sunandar",
+    "email": "corporate.secretary@bankbsi.co.id",
+    "phone": "021 30405999"
+  },
+  "directors": [
+    {
+      "name": "Anggoro Eko Cahyo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Anton Sukarna",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bob Tyasika Ananta",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Cahyo Nugroho",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muharto Hadi Suprapto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Zaidan Novari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kemas Erwan Husainy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Grandhis Helmi Harumansyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arief Adhi Sanjaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Firman Nugraha",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Felicitas Tallulembang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muhadjir Effendy",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mochamad Agus Rofiudin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kamaruddin Amin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nizar Ahmad Saputra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Addin Jauharudin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sigit Pramono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Muhammad Cholil Nafis",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Addin Jauharudin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Felicitas Tallulembang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nizar Ahmad Saputra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhammad Syafii Antonio",
+      "position": "Anggota"
+    },
+    {
+      "name": "Suharto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mahfud Sholihin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bank Mandiri (persero) Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 23740608436,
+      "percentage": 51.47
+    },
+    {
+      "name": "PT Bank Negara Indonesia (persero) Tbk-divisi Ppa",
+      "type": "Lebih dari 5%",
+      "shares": 10720230418,
+      "percentage": 23.24
+    },
+    {
+      "name": "PT Bank Rakyat Indonesia (persero) Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 7092761655,
+      "percentage": 15.38
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4568197427,
+      "percentage": 9.91
+    },
+    {
+      "name": "Pemerintah Negara Republik Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhadjir Effendy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Meidy Ferdiansyah",
+      "type": "Komisaris",
+      "shares": 133000,
+      "percentage": 0
+    },
+    {
+      "name": "Mochamad Agus Rofiudin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kamaruddin Amin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nizar Ahmad Saputra",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Syafii Antonio",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Addin Jauharudin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kemas Erwan Husainy",
+      "type": "Direksi",
+      "shares": 220101,
+      "percentage": 0
+    },
+    {
+      "name": "Anton Sukarna",
+      "type": "Direksi",
+      "shares": 2280100,
+      "percentage": 0
+    },
+    {
+      "name": "Ade Cahyo Nugroho",
+      "type": "Direksi",
+      "shares": 2280100,
+      "percentage": 0
+    },
+    {
+      "name": "Zaidan Novari",
+      "type": "Direksi",
+      "shares": 1071400,
+      "percentage": 0
+    },
+    {
+      "name": "Bob Tyasika Ananta",
+      "type": "Direksi",
+      "shares": 1134400,
+      "percentage": 0
+    },
+    {
+      "name": "Grandhis",
+      "type": "Direksi",
+      "shares": 343100,
+      "percentage": 0
+    },
+    {
+      "name": "Felicitas Tallulembang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anggoro Eko Cahyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muharto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arief Adhi Sanjaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Firman Nugraha",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "81.060.482.809.225",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,48",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "19,75",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,90",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "31,29",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,70",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "11,57",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:23.831Z"
+}

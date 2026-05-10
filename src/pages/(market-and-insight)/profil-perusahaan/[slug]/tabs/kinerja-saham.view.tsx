@@ -14,7 +14,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
-import technical_summary from "@/data/technical_summary.json";
+import technical_summary from "@/data/archive/technical_summary.json";
 import { StockTechnical } from "@/types/stocks";
 
 interface Props {

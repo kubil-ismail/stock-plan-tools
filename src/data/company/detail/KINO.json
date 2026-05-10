@@ -1,0 +1,275 @@
+{
+  "company_name": "PT Kino Indonesia Tbk",
+  "ticker": "KINO",
+  "office_address": "Kino Tower Lt. 17 Jl. Jalur Sutera Boulevard No. 01 Panunggangan Timur, Pinang Kota Tangerang 15143",
+  "email": "corsec@kino.co.id",
+  "phone": "021-80821100",
+  "fax": "021-80821123",
+  "tax_id": "01.853.207.7-441.000",
+  "website": "https://www.kino.co.id",
+  "listing_date": "2015-12-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha industri dan perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Makanan & Minuman, Retail.",
+    "business_tags": [
+      "Logistik",
+      "Makanan & Minuman",
+      "Retail"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Anggara Andrian Linanda",
+    "email": "corsec@kino.co.id",
+    "phone": "021-80821100"
+  },
+  "directors": [
+    {
+      "name": "Harry Sanusi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kurdi Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vebbyna Dewianti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anggara Andrian Linanda",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nurindra Prawarianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rokhmad Sunanto",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Sandianto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rokhmad Sunanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hardianto Soefajin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sumianty Lie",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kino Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 1128584800,
+      "percentage": 79
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 192458743,
+      "percentage": 13.48
+    },
+    {
+      "name": "Harry Sanusi",
+      "type": "Direksi",
+      "shares": 57775257,
+      "percentage": 4.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 49752600,
+      "percentage": 3.48
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kurdi Gunawan",
+      "type": "Direksi",
+      "shares": 100,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dutalestari Sentratama",
+      "business_type": "Perdagangan Umum, Distributor, Industri/pabrik, dan Pemberian Jasa",
+      "total_assets": 436451054495,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "Kino International Pte. Ltd.",
+      "business_type": "Bisnis Jasa Penunjang",
+      "total_assets": 198412867593,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kino Consumer Philippines Inc.",
+      "business_type": "Distributor",
+      "total_assets": 157693909663,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ristra Laboratoris Indonesia",
+      "business_type": "Perindustrian, Perdagangan, Pengangkutan Darat, Pergudangan, dan Jasa",
+      "total_assets": 94897518193,
+      "ownership_percentage": 99.04
+    },
+    {
+      "name": "Kino Care Consumer (cambodia) Co. Ltd.",
+      "business_type": "Penjualan, Pemasaran, dan Distribusi Produk-produk Kebutuhan Konsumen",
+      "total_assets": 37020436709,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Kino Care (m) Sdn. Bhd.",
+      "business_type": "Perdagangan Produk Rumah Tangga dan Pemeliharaan dan Perawatan Tubuh",
+      "total_assets": 35939305239,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kino Food Indonesia",
+      "business_type": "Produksi dan Penjualan Produk Makanan.",
+      "total_assets": 32144669006,
+      "ownership_percentage": 80.4
+    },
+    {
+      "name": "PT Kino Malee Trading",
+      "business_type": "Perdagangan, Termasuk Distribusi, Ekspor, dan Impor Produk Minuman",
+      "total_assets": 15818561324,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ristra Klinik Indonesia",
+      "business_type": "Pemberian Jasa Pemeliharaan Tubuh dan Kesehatan",
+      "total_assets": 13887420949,
+      "ownership_percentage": 99.14
+    },
+    {
+      "name": "Kino Vietnam Co. Ltd.",
+      "business_type": "Impor dan Ekspor Produk Konsumen",
+      "total_assets": 4689031011,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kino Incorporation (shanghai) Co., Ltd (kis)",
+      "business_type": "Penjualan, Pemasaran, dan Distribusi Produk-produk Kebutuhan Konsumen",
+      "total_assets": 3068084588,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kino Ecomm Solusindo",
+      "business_type": "Perdagangan, Pembangunan, Industri, Transportasi Darat, Pertanian, Percetakan, Perbengkelan dan Jasa, Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 1269938123,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "Linanda Consumer India Pvt. Ltd.",
+      "business_type": "",
+      "total_assets": 1253839787,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kino Japan Kabushiki Kaisha",
+      "business_type": "",
+      "total_assets": 71310596,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.600.000.080.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,88",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,60",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "14,62",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "0,91",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "19,86",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:25.404Z"
+}

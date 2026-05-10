@@ -1,0 +1,397 @@
+{
+  "company_name": "PT Visi Media Asia Tbk",
+  "ticker": "VIVA",
+  "office_address": "Gedung Wisma Bakrie, Lt. 4, Jl. Hr. Rasuna Said, Kav. B-1, Jakarta 12920",
+  "email": "corsec@vivagroup.co.id",
+  "phone": "021-5225057",
+  "fax": "021-22535515",
+  "tax_id": "02.433.688.5.054.000",
+  "website": "https://www.vivagroup.co.id",
+  "listing_date": "2011-11-21",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "perdagangan, jasa konsultasi manajemen bisnis, dan informasi dan komunikasi baik langsung maupun tidak langsung melalui entitas anak Perseroan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Properti, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Properti",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "property",
+      "real estate",
+      "properti",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 59,
+    "name": "Penyiaran",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Neil Ricardo Tobing",
+    "email": "corsec@viva.co.id",
+    "phone": "0"
+  },
+  "directors": [
+    {
+      "name": "Arief Yahya",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Neil R. Tobing",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "M. Sahid Mahudie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jastiro Abi",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Omar Luthfi Anwar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ilham Akbar Habibie",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anindya Novyan Bakrie",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ilham Akbar Habibie",
+      "position": "Ketua"
+    },
+    {
+      "name": "A. M. Sabur",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ika Wulan Kurniawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 9076764745,
+      "percentage": 55.13
+    },
+    {
+      "name": "PT Bakrie Global Ventura",
+      "type": "Lebih dari 5%",
+      "shares": 5423628910,
+      "percentage": 32.94
+    },
+    {
+      "name": "Surya Ganesa Amani, PT",
+      "type": "Lebih dari 5%",
+      "shares": 1135863245,
+      "percentage": 6.9
+    },
+    {
+      "name": "Ubs Ag Hongkong Non-treaty Omnibus Account-2052034005",
+      "type": "Lebih dari 5%",
+      "shares": 828013500,
+      "percentage": 5.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cakrawala Andalas Televisi (cat)",
+      "business_type": "Penyiaran Televisi Swasta Umum/general Private Television Broadcasting",
+      "total_assets": 4451829201,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Intermedia Capital Tbk (imc)",
+      "business_type": "Perdagangan dan Jasa/ Trading And Services",
+      "total_assets": 4334976897,
+      "ownership_percentage": 89.999
+    },
+    {
+      "name": "PT Lativi Mediakarya (lm)",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta/ Private Television Broadcasting Industry Services",
+      "total_assets": 2318359204,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Redal Semesta (rs)",
+      "business_type": "Jasa Sewa Kantor, Manajemen Properti dan Jasa Lainnya/office Rental Services, Property Management And Other Services",
+      "total_assets": 82976095,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Bandung Dan/and Bengkulu",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 23501592,
+      "ownership_percentage": 99.09
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Bali Dan/and Mataram",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 23084518,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Medan Dan/and Batam",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 23084518,
+      "ownership_percentage": 99.09
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Makassar Dan/and Palu",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 23074518,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Banjarmasin Dan/and Padang",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 23062558,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Palembang Dan/and Bangka Belitung",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 21590958,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Viva Media Baru (vmb)",
+      "business_type": "Jasa Iklan Internet dan Website/ Internet Advertising And Website",
+      "total_assets": 21325566,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Yogyakarta Dan/and Ambon",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 21065199,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Pekanbaru Dan/and Papua",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 19844638,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Manado Dan/and Gorontalo",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta/ Private Television Broadcasting Industry Service",
+      "total_assets": 19830838,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Lampung Dan/and Kendari",
+      "business_type": "Jasa Industri Penyiaran Televisi/television Broadcasting Industry Services",
+      "total_assets": 19820838,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi - Semarang Dan/and Palangkaraya",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta/ Private Television Broadcasting Industry Service",
+      "total_assets": 16229780,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT One Media Digital",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 13786196,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Sarana Media Usaha (smu)",
+      "business_type": "Jasa Konsultasi Manajemen/ Management Consultant Services",
+      "total_assets": 5000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ventura Kapital Asia (vka)",
+      "business_type": "Perdagangan dan Jasa/ Trading And Services",
+      "total_assets": 4286370,
+      "ownership_percentage": 99.997
+    },
+    {
+      "name": "PT Asia Global Media (agm)",
+      "business_type": "Perdagangan dan Jasa Konsultan Manajemen Bisnis/ Trading And Business Management Consultant Services",
+      "total_assets": 4007833,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lativi Mediakarya Lombok Dan/and Palu",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 2430666,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Semarang Dan/and Padang",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 2322610,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Surabaya Dan/and Jambi",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 1479069,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Manado Dan/and Samarinda",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 1098479,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Bandung",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 908280,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Medan Dan/and Pekanbaru",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 657021,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Yogyakarta Dan/and Lampung",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 608222,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Palembang Dan/and Palangkaraya",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 606889,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Surabaya dan/ And Samarinda",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta/ Private Television Broadcasting Industry",
+      "total_assets": 566435,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Makassar Dan/and Ambon",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 554689,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Bali Dan/and Kep. Riau",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 494159,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Lativi Mediakarya Banjarmasin Dan/and Bengkulu",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 277995,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT One Media Kreatif",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 125000,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT One Media Services",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 125000,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Lativi Mediakarya Kendari Dan/and Pontianak",
+      "business_type": "Jasa Industri Penyiaran Televisi/private Television Broadcasting Industry Services",
+      "total_assets": 42974,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "856.142.060.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "21,62",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "28,57",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "55,17",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "309,09",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "13,46",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:24.784Z"
+}

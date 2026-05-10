@@ -1,0 +1,436 @@
+{
+  "company_name": "Bayan Resources Tbk",
+  "ticker": "BYAN",
+  "office_address": "Gedung Office 8, Lantai 37 Unit A-h Jl. Senopati No. 8b, Senayan, Kebayoran Baru, Jakarta Selatan 12950 - Indonesia",
+  "email": "corporate.secretary@bayan.com.sg",
+  "phone": "021-2935 6888",
+  "fax": "021-2935 6999",
+  "tax_id": "02.433.110.0-091.000",
+  "website": "https://www.bayan.com.sg",
+  "listing_date": "2008-08-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara(Coal Mining)",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Batubara, Energi, Konstruksi.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Batubara",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Jenny Quantero",
+    "email": "jenny.kwan@bayan.com.sg",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Dato' Dr. Low Tuck Kwong",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jenny Quantero",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Chai Hock",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Low Yi Ngo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Russell John Neil",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alastair Gordon Christopher Mcleod",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander Ery Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Oliver Khaw Kar Heng",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Merlin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ulina Fitriani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Siyoung Park",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hendarman S.h.",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lifransyah Gumay S.e. Ak., M.m.",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Moermahadi Soerja Djanegara",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Budiman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Timur Pradopo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Timur Pradopo",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Dato' Dr Low Tuck Kwong",
+      "type": "Direksi",
+      "shares": 13406921870,
+      "percentage": 40.22
+    },
+    {
+      "name": "Elaine Low",
+      "type": "Lebih dari 5%",
+      "shares": 7333833700,
+      "percentage": 22.002
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7089564830,
+      "percentage": 21.269
+    },
+    {
+      "name": "PT Sumber Suryadana Prima",
+      "type": "Lebih dari 5%",
+      "shares": 3333380000,
+      "percentage": 10
+    },
+    {
+      "name": "Lim Chai Hock",
+      "type": "Direksi",
+      "shares": 1087150000,
+      "percentage": 3.261
+    },
+    {
+      "name": "Jenny Quantero",
+      "type": "Direksi",
+      "shares": 994975000,
+      "percentage": 2.985
+    },
+    {
+      "name": "Low Yi Ngo",
+      "type": "Direksi",
+      "shares": 62364800,
+      "percentage": 0.187
+    },
+    {
+      "name": "Ulina Fitriani",
+      "type": "Direksi",
+      "shares": 8000000,
+      "percentage": 0.024
+    },
+    {
+      "name": "Alastair G.c. Mcleod",
+      "type": "Direksi",
+      "shares": 7000000,
+      "percentage": 0.021
+    },
+    {
+      "name": "Russell Neil",
+      "type": "Direksi",
+      "shares": 5926500,
+      "percentage": 0.018
+    },
+    {
+      "name": "Merlin",
+      "type": "Direksi",
+      "shares": 4002000,
+      "percentage": 0.012
+    },
+    {
+      "name": "Oliver Khaw Kar Heng",
+      "type": "Direksi",
+      "shares": 213800,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Fajar Sakti Prima",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 671726442,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Indonesia Pratama",
+      "business_type": "Perdagangan, Jasa Kontraktorpertambangan",
+      "total_assets": 489950219,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bara Tabang",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 479422148,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Tiwa Abadi",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 408216571,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bayan Energy",
+      "business_type": "Pertambangan, Pengangkutan dan Konstruksi",
+      "total_assets": 189462751,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dermaga Perkasapratama",
+      "business_type": "Jasa Bongkar Muat Batubara",
+      "total_assets": 182009550,
+      "ownership_percentage": 87.4
+    },
+    {
+      "name": "PT Wahana Baratama Mining",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 146222156,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Firman Ketaun Perkasa",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 129686479,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanur Jaya",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 64963698,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perkasa Inakakerta",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 55129596,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Muji Lines",
+      "business_type": "Perkapalan",
+      "total_assets": 51907723,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kangaroo Resources Pty Ltd",
+      "business_type": "Investasi pada Antitas Anak",
+      "total_assets": 49957062,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karsa Optima Jaya",
+      "business_type": "Investasi",
+      "total_assets": 49754423,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Teguh Sinarabadi",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 40075496,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gunungbayan Pratamacoal",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 31400273,
+      "ownership_percentage": 92.7
+    },
+    {
+      "name": "PT Kariangau Power",
+      "business_type": "Penyedia Tenaga Listrik",
+      "total_assets": 12637817,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Enggang Alam Sawita",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 10904037,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dermaga Energi",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 6032338,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Metalindo Prosestama",
+      "business_type": "Investasi pada Anak Perusahaan",
+      "total_assets": 3683316,
+      "ownership_percentage": 95.2
+    },
+    {
+      "name": "PT Brian Anjat Sentosa",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 3566723,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Silau Kencana",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 1164510,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bara Sejati",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 411370,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mamahak Coal Mining",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 264834,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sumber Api",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 235279,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Orkida Makmur",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 81062,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Apira Utama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 17630,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Alam",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 14816,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "380.000.019.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,86",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "23,16",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "37,34",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "44,55",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,97",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "31,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:48.918Z"
+}

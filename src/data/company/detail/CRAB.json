@@ -1,0 +1,241 @@
+{
+  "company_name": "PT Toba Surimi Industries Tbk",
+  "ticker": "CRAB",
+  "office_address": "Komplek Cemara Asri Blok C6 No 12 Sampali, Percut Sei Tuan, Deli Serdang Sumatera Utara 20371",
+  "email": "corsec@tobasurimi.com",
+  "phone": "+62 616871022",
+  "fax": "+62 616871007",
+  "tax_id": "01.718.918.4-125.00",
+  "website": "https://www.tobasurimi.com",
+  "listing_date": "2022-08-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Pembekuan, Pengolahan, Pengawetan, Perdagangan Besar Makanan dan Minuman serta Hasil Perikanan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Mulyanti",
+    "email": "corsec@tobasurimi.com",
+    "phone": "061-6871022"
+  },
+  "directors": [
+    {
+      "name": "Gindra Tardy",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Irsan Sudargo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Erman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kok Kieng",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sia Leng Hong Alias Tony S.",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bintarna Tardy",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Budi Satria Tardy",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Purnomo Darmowasito",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Purnomo Darmowasito",
+      "position": "Ketua"
+    },
+    {
+      "name": "Juwita",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yuliana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Gindra Tardy",
+      "type": "Direksi",
+      "shares": 507780000,
+      "percentage": 26.04
+    },
+    {
+      "name": "Bintarna Tardy",
+      "type": "Komisaris",
+      "shares": 436112200,
+      "percentage": 22.36
+    },
+    {
+      "name": "Budi Satria Tardy",
+      "type": "Komisaris",
+      "shares": 329195700,
+      "percentage": 16.88
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 296272100,
+      "percentage": 15.2
+    },
+    {
+      "name": "Irsan Sudargo",
+      "type": "Direksi",
+      "shares": 168012000,
+      "percentage": 8.62
+    },
+    {
+      "name": "Sia Leng Hong Alias Tony S",
+      "type": "Direksi",
+      "shares": 161928000,
+      "percentage": 8.3
+    },
+    {
+      "name": "Erman",
+      "type": "Direksi",
+      "shares": 46800000,
+      "percentage": 2.4
+    },
+    {
+      "name": "Kok Kieng",
+      "type": "Direksi",
+      "shares": 3900000,
+      "percentage": 0.2
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "409.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,67",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "13,22",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "28,08",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "14,63",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,78",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:28.710Z"
+}

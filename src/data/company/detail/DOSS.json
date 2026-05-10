@@ -1,0 +1,236 @@
+{
+  "company_name": "PT Global Sukses Digital Tbk",
+  "ticker": "DOSS",
+  "office_address": "Gedung Ratu Plaza Lantai 1, Jl. Jend. Sudirman Kav.9 Rt.001 Rw.003, Gelora, Tanah Abang, Jakarta Pusat 10270",
+  "email": "corsec@globalsuksesdigital.com",
+  "phone": "021-2700195",
+  "fax": "",
+  "tax_id": "0033 1273 1707 7000",
+  "website": "https://www.globalsuksesdigital.com",
+  "listing_date": "2024-08-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Eceran Alat Fotografi dan Perlengkapannya",
+    "business_summary": "Perusahaan bergerak di bidang Barang Elektronik Konsumen.",
+    "business_tags": [
+      "Barang Elektronik Konsumen"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 6,
+    "name": "Barang Rekreasi",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 4,
+    "name": "Barang Elektronik Konsumen"
+  },
+  "sub_industry": {
+    "id": 11,
+    "name": "Barang Elektronik Konsumen",
+    "industries_id": 4
+  },
+  "corporate_secretary": {
+    "name": "Caroline Thalia",
+    "email": "corsec@globalsuksesdigital.com",
+    "phone": "087841065258"
+  },
+  "directors": [
+    {
+      "name": "Tahir Matulatan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Eddy Yulianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Imelda Goenawang",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rika Yuliana Kristian Astriani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rika Yuliana Kristiani Astriani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Cici Rosmala",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ibnu Sholeh",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sukses Investama Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1086250000,
+      "percentage": 62.97
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 341470100,
+      "percentage": 19.8
+    },
+    {
+      "name": "Sugiman Halim",
+      "type": "Lebih dari 5%",
+      "shares": 172083800,
+      "percentage": 9.98
+    },
+    {
+      "name": "Tahir Matulatan",
+      "type": "Direksi",
+      "shares": 124871100,
+      "percentage": 7.24
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 325000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Gambar Masa Depan",
+      "business_type": "Jasa Desain Khusus Film, Video, Program Tv, Animasi dan Komik",
+      "total_assets": 7033410713,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Gambar Masa Depan",
+      "business_type": "Jasa Desain Khusus Film, Video, Program Tv, Animasi dan Komik",
+      "total_assets": 7033410713,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Gambar Masa Depan",
+      "business_type": "Jasa Desain Khusus Film, Video, Program Tv, Animasi dan Komik",
+      "total_assets": 6024806023,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Distribusi Selalu Sukses",
+      "business_type": "Perdagangan Alat Fotografi dan Barang Optik",
+      "total_assets": 1137056584,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Distribusi Selalu Sukses",
+      "business_type": "Perdagangan Alat Fotografi dan Barang Optik",
+      "total_assets": 968395461,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Distribusi Selalu Sukses",
+      "business_type": "Perdagangan Alat Fotografi dan Barang Optik",
+      "total_assets": 968395461,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Kreasi Imaji Integrasi",
+      "business_type": "Jasa Desain Khusus Film, Video, Program Tv, Animasi dan Komik",
+      "total_assets": 589535200,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Kreasi Imaji Integrasi",
+      "business_type": "Jasa Desain Khusus Film, Video, Program Tv, Animasi dan Komik",
+      "total_assets": 313568255,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Kreasi Imaji Integrasi",
+      "business_type": "Jasa Desain Khusus Film, Video, Program Tv, Animasi dan Komik",
+      "total_assets": 313568255,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "263.925.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,25",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "1,96",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "7,98",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,32",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "36,97",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:06.579Z"
+}

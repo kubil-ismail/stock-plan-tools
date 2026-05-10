@@ -1,0 +1,191 @@
+{
+  "company_name": "PT Terang Dunia Internusa Tbk.",
+  "ticker": "UNTD",
+  "office_address": "Jl. Alam Sutera Boulevard No. Kav. 12a, Pakulonan, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15325",
+  "email": "corsecretary@unitedbike.com",
+  "phone": "(021) 30052633",
+  "fax": "(021) 30052630",
+  "tax_id": "01.329.849.2-436.001",
+  "website": "https://www.TerangDuniaInternusa.com",
+  "listing_date": "2024-02-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di Industri Sepeda dan Industri Sepeda Motor Roda Dua dan Tiga",
+    "business_summary": "Perusahaan bergerak di bidang Peralatan Olah Raga & Barang Hobi.",
+    "business_tags": [
+      "Peralatan Olah Raga & Barang Hobi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 6,
+    "name": "Barang Rekreasi",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 42,
+    "name": "Peralatan Olah Raga & Barang Hobi"
+  },
+  "sub_industry": {
+    "id": 65,
+    "name": "Peralatan Olah Raga & Barang Hobi",
+    "industries_id": 42
+  },
+  "corporate_secretary": {
+    "name": "Marina Pratiwi",
+    "email": "corsecretary@unitedbike.com",
+    "phone": "(021) 30052633"
+  },
+  "directors": [
+    {
+      "name": "Stephen Mulyadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Mulyadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Mulyadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tan Eric Raharjo Prayitno",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Poltak Sihotang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Doktorandus Gatot Eddy Pramono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Poltak Sihotang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hendra Ginoto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Donny Sutanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1666666700,
+      "percentage": 25
+    },
+    {
+      "name": "Tan Tjoe Ing",
+      "type": "Lebih dari 5%",
+      "shares": 1500000000,
+      "percentage": 22.5
+    },
+    {
+      "name": "Stephen Mulyadi",
+      "type": "Direksi",
+      "shares": 1375000000,
+      "percentage": 20.625
+    },
+    {
+      "name": "Andrew Mulyadi",
+      "type": "Direksi",
+      "shares": 1000000000,
+      "percentage": 15
+    },
+    {
+      "name": "Henry Mulyadi",
+      "type": "Direksi",
+      "shares": 1000000000,
+      "percentage": 15
+    },
+    {
+      "name": "Tan Eric Raharjo Prayitno",
+      "type": "Komisaris",
+      "shares": 125000000,
+      "percentage": 1.875
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "573.333.336.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,49",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "3,75",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "14,43",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,60",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,49",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "16,16",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:15.140Z"
+}

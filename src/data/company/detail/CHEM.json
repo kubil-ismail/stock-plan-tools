@@ -1,0 +1,203 @@
+{
+  "company_name": "PT Chemstar Indonesia Tbk",
+  "ticker": "CHEM",
+  "office_address": "Jl. Industri Ubrug No. 70, Kp. Cisampih, Kel. Cibinong, Kec. Jatiluhur, Kab. Purwakarta, Jawa Barat 41152",
+  "email": "corp.sec@chemstarindonesia.com",
+  "phone": "(62-264) 8222 823 / 824",
+  "fax": "(62-264) 8222 817",
+  "tax_id": "02.342.003.7-038.000",
+  "website": "https://www.chemstarindonesia.com",
+  "listing_date": "2022-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri dan perdagangan bahan kimia spesialisasi untuk industri tekstil",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Dasar.",
+    "business_tags": [
+      "Barang Kimia Dasar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Wenty Akbar Rasjid",
+    "email": "corp.sec@chemstarindonesia.com",
+    "phone": "(62-264) 8222 823 / 824"
+  },
+  "directors": [
+    {
+      "name": "Kwee Sutrimo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tony Widjaja",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lusi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Wim Zulkarnaen",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Eko Muljono Suprapto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Eko Pratikto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eko Pratikto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Anton Hilman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bobby Mandala Putra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tunas Bahtera Harum",
+      "type": "Lebih dari 5%",
+      "shares": 1164000000,
+      "percentage": 68.47
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 500032794,
+      "percentage": 29.4
+    },
+    {
+      "name": "Kwee Sutrimo",
+      "type": "Direksi",
+      "shares": 12000000,
+      "percentage": 0.71
+    },
+    {
+      "name": "Eko Muljono Suprapto",
+      "type": "Komisaris",
+      "shares": 12000000,
+      "percentage": 0.71
+    },
+    {
+      "name": "Ir. Wim Zulkarnaen",
+      "type": "Komisaris",
+      "shares": 12000000,
+      "percentage": 0.71
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "154.701.328.054",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,18",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,20",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "26,45",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "64,81",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,11",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,88",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:08.039Z"
+}

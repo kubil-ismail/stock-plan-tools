@@ -1,0 +1,248 @@
+{
+  "company_name": "Supra Boga Lestari Tbk",
+  "ticker": "RANC",
+  "office_address": "Ranch Market Headquarter Lt. 5, Jl. Pesanggrahan Raya No. 2, Kembangan - Jakarta Barat 11610",
+  "email": "corp_sec@ranchmarket.co.id",
+  "phone": "(62-21) 5835 1999",
+  "fax": "(62-21) 5835 0999",
+  "tax_id": "01.821.420.5-054.000",
+  "website": "https://Website:www.ranchmarket.co.id",
+  "listing_date": "2012-06-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Distribusi dan perdagangan eceran dengan format pengelola jaringan",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 95,
+    "name": "Supermarket",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Hady Purnama",
+    "email": "corp_sec@ranchmarket.co.id",
+    "phone": "021-58351999"
+  },
+  "directors": [
+    {
+      "name": "Johartono Susilo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Suharno Kusumodjojo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hady Purnama",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Elsa Dian Trifani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kusumo Martanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ronny Prasetya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hedy Maria Helena Lapian",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hedy Maria Helena Lapian",
+      "position": "Ketua"
+    },
+    {
+      "name": "Justinus Aditya Sidharta",
+      "position": "Anggota"
+    },
+    {
+      "name": "Stephanus Junianto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Global Digital Niaga, Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1103853228,
+      "percentage": 70.56
+    },
+    {
+      "name": "PT Wijaya Sumber Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 185113597,
+      "percentage": 11.83
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 184273182,
+      "percentage": 11.77
+    },
+    {
+      "name": "PT Prima Rasa Inti",
+      "type": "Lebih dari 5%",
+      "shares": 90051343,
+      "percentage": 5.76
+    },
+    {
+      "name": "Suharno Kusumodjojo",
+      "type": "Direksi",
+      "shares": 889950,
+      "percentage": 0.06
+    },
+    {
+      "name": "Ronny Prasetya",
+      "type": "Komisaris",
+      "shares": 306200,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kusumo Martanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hedy Maria Helena Lapian",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johartono Susilo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hady Purnama",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Elsa Dian Trifani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Supra Investama Mandiri",
+      "business_type": "Jasa Manajemen Operasi",
+      "total_assets": 15383065397,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Supra Investama Mandiri",
+      "business_type": "Jasa Manajemen Operasi",
+      "total_assets": 15383065397,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Supra Investama Mandiri",
+      "business_type": "Jasa Manajemen Operasi",
+      "total_assets": 15383065397,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Supra Investama Mandiri",
+      "business_type": "Jasa Manajemen Operasi",
+      "total_assets": 15383065397,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Supra Investama Mandiri",
+      "business_type": "Jasa Manajemen Operasi",
+      "total_assets": 15383065397,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "891.757.875.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,92",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "26,53",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "37,93",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "30,43",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,42",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "39,33",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:37.073Z"
+}

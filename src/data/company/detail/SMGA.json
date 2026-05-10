@@ -1,0 +1,256 @@
+{
+  "company_name": "PT Sumber Mineral Global Abadi Tbk",
+  "ticker": "SMGA",
+  "office_address": "Graha Bip Lantai 2 Jl. Gatot Subroto Kav.23 Jakarta Selatan 12930, Indonesia",
+  "email": "corsec@smgagroup.com",
+  "phone": "(+62) 21 522 9900",
+  "fax": "",
+  "tax_id": "80.464.742.8-077.000",
+  "website": "https://www.smgagroup.com",
+  "listing_date": "2024-01-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Perdagangan Besar Bijih Nikel dan Batubara Perdagangan Besar Bijih Nikel dan Batubara",
+    "business_summary": "Perusahaan bergerak di bidang Batubara.",
+    "business_tags": [
+      "Batubara"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Mona Dita Saraswati",
+    "email": "corsec@smgagroup.com",
+    "phone": "(+62) 21 522 9900"
+  },
+  "directors": [
+    {
+      "name": "Raymond Ng Chi Ching",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dimas Arie Wicaksana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hu Bo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kiki Hermawan Susilo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Welly Thomas",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "G. A. Yurisio",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gregorius Ananda Yurisio",
+      "position": "Ketua"
+    },
+    {
+      "name": "Alex Gunawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Venny Heryanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sumber Global Energy Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 6300000000,
+      "percentage": 72
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1750000000,
+      "percentage": 20
+    },
+    {
+      "name": "Vivi Ramalyati Hutama",
+      "type": "Lebih dari 5%",
+      "shares": 700000000,
+      "percentage": 8
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Raymond Ng Chi Ching",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dimas Arie Wicaksana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hu Bo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kiki Hermawan Susilo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Welly Thomas",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "G.a. Yurisio",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jasatama Mandiri Sukses",
+      "business_type": "Penggalian Batu Kapur/gamping",
+      "total_assets": 7495867338,
+      "ownership_percentage": 600
+    },
+    {
+      "name": "PT Jasatama Mandiri Sukses",
+      "business_type": "Penggalian Batu Kapur/gamping",
+      "total_assets": 21851,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jasatama Mandiri Sukses",
+      "business_type": "Penggalian Batu Kapur/gamping",
+      "total_assets": 21851,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jasatama Mandiri Sukses",
+      "business_type": "Penggalian Batu Kapur/gamping",
+      "total_assets": 21851,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jasatama Mandiri Sukses",
+      "business_type": "Penggalian Batu Kapur/gamping",
+      "total_assets": 15789,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "778.750.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,19",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "13,33",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "21,55",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "37,88",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,21",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "15,74",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:34.059Z"
+}

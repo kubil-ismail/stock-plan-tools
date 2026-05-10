@@ -1,0 +1,172 @@
+{
+  "company_name": "Kedaung Indah Can Tbk",
+  "ticker": "KICI",
+  "office_address": "Jl. Raya Rungkut 15 - 17, Surabaya 60293",
+  "email": "kedawung@sby.centrin.net.id",
+  "phone": "(031) 8700088",
+  "fax": "(031) 8705212",
+  "tax_id": "01.133.212.9-054.000",
+  "website": "https://0",
+  "listing_date": "1993-10-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Peralatan Rumah Tangga",
+    "business_summary": "Perusahaan bergerak di bidang Perlengkapan Rumah Tangga.",
+    "business_tags": [
+      "Perlengkapan Rumah Tangga"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 74,
+    "name": "Perlengkapan Rumah Tangga",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Ing Hidayat Karnadi",
+    "email": "kedawung@sby.centrin.net.id",
+    "phone": "(031) 8700088"
+  },
+  "directors": [
+    {
+      "name": "Ir. Ratna Setyakusuma",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. I Made Indrawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hadi Muliyono, Se Ak.",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Philip Lam Tin Sing",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Djoni Sukohardjo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ratna Indrawati, Mba",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ratna Indrawati, Mba",
+      "position": "Ketua"
+    },
+    {
+      "name": "Handrianto Hadie Widjojo, Se",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ina Handayani, Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kedawung Subur",
+      "type": "Lebih dari 5%",
+      "shares": 120390280,
+      "percentage": 43.62
+    },
+    {
+      "name": "Dk Lim & Sons Investment Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 86664000,
+      "percentage": 31.4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 54109568,
+      "percentage": 19.6
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 14209992,
+      "percentage": 5.15
+    },
+    {
+      "name": "Djoni Sukohardjo",
+      "type": "Komisaris",
+      "shares": 625400,
+      "percentage": 0.23
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Philip Lam Tin Sing",
+      "type": "Komisaris",
+      "shares": 760,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "60.168.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,09",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "5,26",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "18,18",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "94,59",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,42",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "8,54",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:22.696Z"
+}

@@ -1,0 +1,251 @@
+{
+  "company_name": "PT Superior Prima Sukses Tbk",
+  "ticker": "BLES",
+  "office_address": "Jl. Raya Kupang Baru No. 27 Dukuh Kupang, Dukuh Pakis, Surabaya, Jawa Timur 60225",
+  "email": "corsec@superior.co.id",
+  "phone": "+62 31 7312477",
+  "fax": "",
+  "tax_id": "31.411.366.3-616.000",
+  "website": "https://superiorprimasukses.com",
+  "listing_date": "2024-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Bata Ringan dan Semen Mortar",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Andrew",
+    "email": "corsec@superior.co.id",
+    "phone": "+62 31 7312477"
+  },
+  "directors": [
+    {
+      "name": "Liauw, Billy Law",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hendra Widodo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henrianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Go Herliani Proyogo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dermawan Suparsono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Danny Kristono Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tjio Fong Ing",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Belinda Natalia",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Drs. Chandra Setiawan, M.m. Ph.d",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lukas Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Chandra Setiawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wadirman Wijaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tony Setioko",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Global Base Universal",
+      "type": "Lebih dari 5%",
+      "shares": 3630000000,
+      "percentage": 40.831
+    },
+    {
+      "name": "PT Tata Utama Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 2640000000,
+      "percentage": 29.696
+    },
+    {
+      "name": "PT Tancorp Investama Mulia",
+      "type": "Lebih dari 5%",
+      "shares": 1605000000,
+      "percentage": 18.054
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 684999600,
+      "percentage": 7.705
+    },
+    {
+      "name": "Liauw, Billy Law",
+      "type": "Direksi",
+      "shares": 198000000,
+      "percentage": 2.227
+    },
+    {
+      "name": "Dermawan Suparsono",
+      "type": "Komisaris",
+      "shares": 132000000,
+      "percentage": 1.485
+    },
+    {
+      "name": "Andrew",
+      "type": "Direksi",
+      "shares": 206800,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Superior Persada Sejahtera",
+      "business_type": "Pengangkutan",
+      "total_assets": 89780,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Superior Sarana Sukses",
+      "business_type": "Pengangkutan",
+      "total_assets": 23818,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.449.103.643.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,92",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "6,00",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "12,15",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,45",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "2,45",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:57.204Z"
+}

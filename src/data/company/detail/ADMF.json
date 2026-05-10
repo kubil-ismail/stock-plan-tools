@@ -1,0 +1,212 @@
+{
+  "company_name": "Adira Dinamika Multi Finance Tbk",
+  "ticker": "ADMF",
+  "office_address": "Millennium Centennial Center Lantai 53, 56-61, Jl. Jenderal Sudirman Kav. 25 Jakarta 12920",
+  "email": "af.corsec@adira.co.id",
+  "phone": "021-3973 3232, 021-3973 3322",
+  "fax": "021-3973 4949",
+  "tax_id": "01.346.494.6-091.000",
+  "website": "https://www.adira.co.id",
+  "listing_date": "2004-03-31",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Veronika Dyah Puspitaningrum",
+    "email": "af.corsec@adira.co.id",
+    "phone": "021-39733232"
+  },
+  "directors": [
+    {
+      "name": "I Dewa Made Susila",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Swandajani Gunadi",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Niko Kurniawan Bonggowarsito",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Denny Riza Farib",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sigit Hendra Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sylvanus Gani K. Mendrofa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ricky Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Takanori Mizuno",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nobuya Kawasaki",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Krisna Wijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Manggi Taruna Habir",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Congsin Congcar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Theresia Adriana Widjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Manggi Taruna Habir",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jusuf Sukiman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Restiana Ie Tjoe Linggadjaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bank Danamon Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 920700000,
+      "percentage": 74.5
+    },
+    {
+      "name": "Mufg Bank, Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 233757759,
+      "percentage": 18.92
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 71429196,
+      "percentage": 5.78
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 9816154,
+      "percentage": 0.79
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 100000,
+      "percentage": 0.01
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "10.875.067.359.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,61",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "3,27",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1,70",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "0,86",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,29",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "2,36",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:54.117Z"
+}

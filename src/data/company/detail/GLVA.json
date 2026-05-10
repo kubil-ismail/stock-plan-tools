@@ -1,0 +1,233 @@
+{
+  "company_name": "PT Galva Technologies Tbk",
+  "ticker": "GLVA",
+  "office_address": "Gedung Galva, Jl. Hayam Wuruk No. 27, Gambir, Jakarta Pusat 10120",
+  "email": "gtc.secretary@galva.co.id",
+  "phone": "(021) 345 6650",
+  "fax": "(021) 345 6651",
+  "tax_id": "01.562.264.0-073.000",
+  "website": "https://www.gtc.co.id",
+  "listing_date": "2019-12-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Trade, Services and Investment",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 23,
+    "name": "Perangkat Keras & Peralatan Teknologi",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 45,
+    "name": "Perangkat, Instrumen & Komponen Elektronik"
+  },
+  "sub_industry": {
+    "id": 67,
+    "name": "Perangkat & Instrumen Elektronik",
+    "industries_id": 45
+  },
+  "corporate_secretary": {
+    "name": "Maria Fransiska",
+    "email": "gtc.secretary@galva.co.id",
+    "phone": "(021) 345 6650"
+  },
+  "directors": [
+    {
+      "name": "Suwardi Ngaturi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mardani Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Maria Fransiska",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Oki Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tjioe Johan Sugita",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. H. Edy Kuntardjo, Mm",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Edy Kuntardjo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Natalia Salim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lita Hardianti Rahardja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Elsiscom Prima Karya",
+      "type": "Lebih dari 5%",
+      "shares": 859801900,
+      "percentage": 57.32
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 603181700,
+      "percentage": 40.21
+    },
+    {
+      "name": "Oki Widjaja",
+      "type": "Komisaris",
+      "shares": 37016400,
+      "percentage": 2.47
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Libera Technologies Indonesia",
+      "business_type": "Perdagangan Besar Industri Komputer dan Reparasi",
+      "total_assets": 104790,
+      "ownership_percentage": 40
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "510.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,07",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,64",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,19",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "3,07",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "19,62",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:07.274Z"
+}

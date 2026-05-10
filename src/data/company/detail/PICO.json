@@ -1,0 +1,174 @@
+{
+  "company_name": "Pelangi Indah Canindo Tbk",
+  "ticker": "PICO",
+  "office_address": "Jl. Daan Mogot Km. 14 Kalideres Jakarta Barat",
+  "email": "corpsec@pic.co.id",
+  "phone": "(021) 6192222",
+  "fax": "(021) 6193446",
+  "tax_id": "01.367.344.7-054.000",
+  "website": "https://0",
+  "listing_date": "1996-09-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Metal and Alied Products",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Anton",
+    "email": "corpsec@pic.co.id",
+    "phone": "(021)619222"
+  },
+  "directors": [
+    {
+      "name": "Radius Wirawan Ko",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rubianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Darminto Darmadji",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rodriques Kurniawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rodriques Kurniawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hariri Junaidy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Manik Rahayu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Citrajaya Perkasamulia",
+      "type": "Lebih dari 5%",
+      "shares": 208315040,
+      "percentage": 36.651
+    },
+    {
+      "name": "PT Saranamulia Mahardhika",
+      "type": "Lebih dari 5%",
+      "shares": 182093745,
+      "percentage": 32.038
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 171914715,
+      "percentage": 30.247
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 6051500,
+      "percentage": 1.064
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Radius Wirawan Ko",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rubianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Darminto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rodriques Kurniawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "91.508.375.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,86",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,60",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "37,30",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "51,92",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,25",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,47",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:24.799Z"
+}

@@ -1,0 +1,222 @@
+{
+  "company_name": "PT Bank Qnb Indonesia Tbk",
+  "ticker": "BKSW",
+  "office_address": "Revenue Tower, District 8, SCBD, Jl. Jenderal Sudirman Kav. 52-53, Jakarta 12190",
+  "email": "corporate.communication@qnb.co.id",
+  "phone": "021-5155155",
+  "fax": "021-5155388",
+  "tax_id": "01-100.446.2-054.000",
+  "website": "https://qnb.co.id",
+  "listing_date": "2002-11-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perbankan/Banking",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Indah Mathilda",
+    "email": "indah.mathilda@qnb.co.id",
+    "phone": "021-5155155"
+  },
+  "directors": [
+    {
+      "name": "Windiartono Tabingin",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Nick Groene",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Gede Shanta Wiguna",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mario Utama",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Djoko Sarwono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Anas Malla",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Khalid Al-sada",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fatma Al-suwaidi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Muhammad Anas Malla",
+      "position": "Ketua"
+    },
+    {
+      "name": "Heru Subroto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Idewan Diaz",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Qatar National Bank (q.p.s.c.)",
+      "type": "Lebih dari 5%",
+      "shares": 32195726062,
+      "percentage": 91.57
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2610485091,
+      "percentage": 7.43
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 351837212,
+      "percentage": 1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Djoko Sarwono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gede Shanta Wiguna",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mario Albert Utama (mario Utama)",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Windiartono Tabingin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fatma Abdulla Al-suwaidi (fatma Al-suwaidi)",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nicolas Alix Groene (nick Groene)",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Khalid Ahmed Al-sada (khalid Al-sada)",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Anas Malla",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Qnb Indonesia Tbk",
+      "business_type": "Keuangan",
+      "total_assets": 12852873,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.088.388.072.860",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "6,45",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,38",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "3,33",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,33",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,38",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:56.389Z"
+}

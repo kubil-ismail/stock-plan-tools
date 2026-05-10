@@ -1,0 +1,334 @@
+{
+  "company_name": "PT Caturkarda Depo Bangunan Tbk",
+  "ticker": "DEPO",
+  "office_address": "Jl. Raya Serpong Km2, Kel. Pakulonan, Kec. Serpong Utara, Tangerang Selatan",
+  "email": "corp.secretary@depobangunan.co.id",
+  "phone": "021–53120808",
+  "fax": "021–53120707",
+  "tax_id": "01.756.274.5-415.000",
+  "website": "https://www.depobangunan.co.id",
+  "listing_date": "2021-11-25",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Supermarket dan/atau Retail Bahan Bangunan",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 88,
+    "name": "Ritel Barang Rumah Tangga",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Caroline Agustina Kettin",
+    "email": "corp.secretary@depobangunan.co.id",
+    "phone": "021-53120808"
+  },
+  "directors": [
+    {
+      "name": "Kambiyanto Kettin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Johnny Liyanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Caroline Agustina Kettin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Amanda Grace Kettin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pathama Sirikul",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henryanto Komala",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hermanto Tanoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Budyanto Totong",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rita Lijanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Herbudianto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sartono Budi Santoso",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Piphop Vasanaarchasakul",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Herbudianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Toni Setioko",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sartono Budi Santoso",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tancorp Surya Sukses",
+      "type": "Lebih dari 5%",
+      "shares": 1595423600,
+      "percentage": 23.5
+    },
+    {
+      "name": "PT Buanatata Adisentosa",
+      "type": "Lebih dari 5%",
+      "shares": 1595423600,
+      "percentage": 23.5
+    },
+    {
+      "name": "Kambiyanto Kettin",
+      "type": "Direksi",
+      "shares": 1543739100,
+      "percentage": 22.73
+    },
+    {
+      "name": "Global House International Company Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1493800000,
+      "percentage": 22
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 510235100,
+      "percentage": 7.51
+    },
+    {
+      "name": "Johnny Liyanto",
+      "type": "Direksi",
+      "shares": 51378600,
+      "percentage": 0.76
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henryanto Komala",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Caroline Agustina Kettin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amanda Grace Kettin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pathama Sirikul",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hermanto Tanoko",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budyanto Totong",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rita Lijanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Piphop Vasanaarchasakul",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. Herbudianto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sartono Budi Santoso",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Megadepo Indonesia",
+      "business_type": "Supermarket Dan/atau Retail Bahan Bangunan",
+      "total_assets": 793,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Megadepo Indonesia",
+      "business_type": "Supermarket Dan/atau Retail Bahan Bangunan",
+      "total_assets": 786,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Megadepo Indonesia",
+      "business_type": "Supermarket Dan/atau Retail Bahan Bangunan",
+      "total_assets": 765,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Megadepo Indonesia",
+      "business_type": "Supermarket Dan/atau Retail Bahan Bangunan",
+      "total_assets": 761,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Megadepo Indonesia",
+      "business_type": "Supermarket Dan/atau Retail Bahan Bangunan",
+      "total_assets": 403,
+      "ownership_percentage": 91.81
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.751.820.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "34,91",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "19,17",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "10,85",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "24,35",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "9,16",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "8,33",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:47.926Z"
+}

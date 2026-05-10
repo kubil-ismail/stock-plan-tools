@@ -1,0 +1,232 @@
+{
+  "company_name": "Indo Acidatama Tbk",
+  "ticker": "SRSN",
+  "office_address": "Graha Kencana Lt. 9 Suite A Jl. Raya Perjuangan 88 Jakarta 11530",
+  "email": "bramandika@acidatama.co.id",
+  "phone": "021-5366-0777",
+  "fax": "021 - 5366 0698",
+  "tax_id": "0013 6074 3705 4000",
+  "website": "https://www.acidatama.co.id",
+  "listing_date": "1993-01-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Chemicals",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Dasar.",
+    "business_tags": [
+      "Barang Kimia Dasar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Bram Andika Cahya Gumilang",
+    "email": "bramandika@acidatama.co.id",
+    "phone": "0271-648400"
+  },
+  "directors": [
+    {
+      "name": "Budhi Moeljono",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mulyadi Utomo Budhi Moeljono",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wong Lukas Yoyok Nurcahya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nurdjono Kusumohadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Shelumiel Setijo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sharad Ganesh Ugrankar",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Biantoro Setijo",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Budhi Santoso",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Budhi Hartono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wymbo Widjaksono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fs Bahari Nusantara",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Stephanus Junianto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fs Bahari Nusantara",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hoo Kwie Han",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ignatius Dion Setiawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1483561144,
+      "percentage": 24.6
+    },
+    {
+      "name": "Pt.budhi Bersaudara Manunggal",
+      "type": "Lebih dari 5%",
+      "shares": 851685910,
+      "percentage": 14.15
+    },
+    {
+      "name": "Pt.kemiri Sarana Investama",
+      "type": "Lebih dari 5%",
+      "shares": 819055188,
+      "percentage": 13.61
+    },
+    {
+      "name": "Budhi Moeljono",
+      "type": "Direksi",
+      "shares": 632261282,
+      "percentage": 10.5
+    },
+    {
+      "name": "Budhi Santoso",
+      "type": "Komisaris",
+      "shares": 596233053,
+      "percentage": 9.9
+    },
+    {
+      "name": "Budhi Hartono",
+      "type": "Komisaris",
+      "shares": 596233053,
+      "percentage": 9.9
+    },
+    {
+      "name": "Biantoro Setijo",
+      "type": "Komisaris",
+      "shares": 315965311,
+      "percentage": 5.3
+    },
+    {
+      "name": "Ludijanto Setijo",
+      "type": "Lebih dari 5%",
+      "shares": 315827912,
+      "percentage": 5.25
+    },
+    {
+      "name": "Pt.sarana Integritas, PT",
+      "type": "Lebih dari 5%",
+      "shares": 303457702,
+      "percentage": 5.04
+    },
+    {
+      "name": "Mulyadi Utomo Budhi Moeljono",
+      "type": "Direksi",
+      "shares": 102470588,
+      "percentage": 1.7
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3248857,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "421.400.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,47",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "16,95",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "7,81",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "30,19",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,43",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,29",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:57.321Z"
+}

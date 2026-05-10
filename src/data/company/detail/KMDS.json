@@ -1,0 +1,273 @@
+{
+  "company_name": "PT Kurniamitra Duta Sentosa Tbk.",
+  "ticker": "KMDS",
+  "office_address": "Komplek Pergudangan T8 No. 16 Alam Sutera, Serpong Utara Tangerang Selatan 15325",
+  "email": "corporate@kmds.co.id",
+  "phone": "(021) 2235 3388",
+  "fax": "(021) 2904 7378",
+  "tax_id": "02.006.147.9-415.000",
+  "website": "https://www.kmds.co.id",
+  "listing_date": "2020-09-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Produk Bahan Makanan, Minuman, dan Peralatan Penunjangnya seperti Mesin Kopi, Blender, beserta Suku Cadangnya (Sparepart)",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 86,
+    "name": "Ritel & Distributor Makanan",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Sarrah Jessica Hidayat",
+    "email": "corporate@kmds.co.id",
+    "phone": "(021) 2235 3388"
+  },
+  "directors": [
+    {
+      "name": "Hengky Wijaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Marjuky",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Charli",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dewi Irianty Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dion Amaury",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Irman",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Laurens Nagajaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Gunadi, M.sc., Ak",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Gunadi, M.sc., Ak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Heri Yeo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Astri Juniar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dima Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 440000100,
+      "percentage": 55
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 176214082,
+      "percentage": 22.02
+    },
+    {
+      "name": "PT Miki Ojisan Indomitra",
+      "type": "Lebih dari 5%",
+      "shares": 158050511,
+      "percentage": 19.76
+    },
+    {
+      "name": "Hengky Wijaya",
+      "type": "Direksi",
+      "shares": 21553720,
+      "percentage": 2.69
+    },
+    {
+      "name": "Dion Amaury",
+      "type": "Direksi",
+      "shares": 3654000,
+      "percentage": 0.46
+    },
+    {
+      "name": "Dewi Irianty Wijaya",
+      "type": "Direksi",
+      "shares": 527587,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Nutri Boga Sukses",
+      "business_type": "Perdagangan",
+      "total_assets": 1349358885,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nutri Boga Sukses",
+      "business_type": "Perdagangan",
+      "total_assets": 1173256497,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nutri Boga Sukses",
+      "business_type": "Perdagangan",
+      "total_assets": 1173256497,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nutri Boga Sukses",
+      "business_type": "Perdagangan",
+      "total_assets": 1173256497,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nutri Boga Sukses",
+      "business_type": "Perdagangan",
+      "total_assets": 1173256497,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "452.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,04",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,04",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "20,42",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "6,61",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,73",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "16,91",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:32.810Z"
+}

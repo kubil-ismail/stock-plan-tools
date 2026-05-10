@@ -1,0 +1,198 @@
+{
+  "company_name": "PT Bersama Mencapai Puncak Tbk.",
+  "ticker": "BAIK",
+  "office_address": "Jl. Raya Regency Kav. 9 No. 5 Kabupaten Malang, Jawa Timur 65153",
+  "email": "corporatesecretary@ptbmp.co",
+  "phone": "(0341) 4376127",
+  "fax": "(0341) 4376127",
+  "tax_id": "841283625657000",
+  "website": "https://www.ptbersamamencapaipuncak.com",
+  "listing_date": "2024-02-15",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang mengelola rumah makan secara langsung dan melalui entitas anak, kemitraan rumah makan serta perdagangan bahan baku (makanan beku & sembako)",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Mahendra Kumala Adi",
+    "email": "corporatesecretary@ptbmp.co",
+    "phone": "081336810773"
+  },
+  "directors": [
+    {
+      "name": "Nanang Suherman",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Afanin Nur Raudhah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ubaidillah",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yeni Isnawati",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Wijanarko, Se. Ak",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Wijanarko Se. Ak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Muhammad Ihda Ainun Najib",
+      "position": "Anggota"
+    },
+    {
+      "name": "Doni Atmaja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Anak Baik Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 888900000,
+      "percentage": 78.84
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 227497572,
+      "percentage": 20.18
+    },
+    {
+      "name": "Nanang Suherman",
+      "type": "Direksi",
+      "shares": 7780000,
+      "percentage": 0.69
+    },
+    {
+      "name": "Yeni Isnawati",
+      "type": "Komisaris",
+      "shares": 3320000,
+      "percentage": 0.29
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Afanin Nur Raudhah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bersama Menggapai Cita",
+      "business_type": "Mengelola Rumah Makan",
+      "total_assets": 3081346957,
+      "ownership_percentage": 50.1
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Griselda, Wisnu & Arum"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "749.785.885.380",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "90,18",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "93,75",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "526,26",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "825,37",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,77",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "369,70",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:05.792Z"
+}

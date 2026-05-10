@@ -1,0 +1,200 @@
+{
+  "company_name": "Apexindo Pratama Duta Tbk",
+  "ticker": "APEX",
+  "office_address": "Gedung Office 8, Lt. 20-21, SCBD Lot 28, Jl. Jend. Sudirman Kav. 52-53, Jakarta 12190",
+  "email": "info@apexindo.coom",
+  "phone": "(021) 29333000",
+  "fax": "(021) 29333111",
+  "tax_id": "001.374.289.5-081.000",
+  "website": "https://www.apexindo.com",
+  "listing_date": "2013-06-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di bidang pengeboran minyak, gas dan panas bumi",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 29,
+    "name": "Jasa Pengeboran Minyak & Gas",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Frieda Salvantina",
+    "email": "frieda.salvantina@apexindo.com",
+    "phone": "(021) 29333000"
+  },
+  "directors": [
+    {
+      "name": "Zainal Abidinsyah Siregar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    },
+    {
+      "name": "Donald Kent Wood",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mahar Atanta Sembiring",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sofwan Farisyi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Irawan Sastrotanojo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Eka Dharmajanto Kasih",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Robinson P. Simbolon",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Robinson P. Simbolon",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jeanne Watulo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Loh Wing Kiong Anthony @adam Loh",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1403966454,
+      "percentage": 39.58
+    },
+    {
+      "name": "Uob Kay Hian (hong Kong) Ltd (pledge Account) - Glas Agency (hong Kong) Ltd Obo PT Aserra Capital",
+      "type": "Lebih dari 5%",
+      "shares": 771356500,
+      "percentage": 21.75
+    },
+    {
+      "name": "PT. Aserra Capital",
+      "type": "Lebih dari 5%",
+      "shares": 585167000,
+      "percentage": 16.5
+    },
+    {
+      "name": "PT Aserra Capital",
+      "type": "Lebih dari 5%",
+      "shares": 458523581,
+      "percentage": 12.93
+    },
+    {
+      "name": "Standard Chartered Bank Singapore S/a Augusta Investments I Pte.ltd. Id134190500001",
+      "type": "Lebih dari 5%",
+      "shares": 220767550,
+      "percentage": 6.23
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 77713672,
+      "percentage": 2.19
+    },
+    {
+      "name": "Eka Dharmajanto Kasih",
+      "type": "Komisaris",
+      "shares": 28551560,
+      "percentage": 0.81
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 420344,
+      "percentage": 0.01
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Apexindo Energi Investindo",
+      "business_type": "Menjalankan Usaha Aktivitas Penunjang Pertambangan Minyak Bumi dan Gas Alam dan Jasa Terkait Lainnya Berdasarkan Balas Jasa atau Kontrak",
+      "total_assets": 574,
+      "ownership_percentage": 99.92
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "716.386.265.522",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,67",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "3,68",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "40,77",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "88,66",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,11",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "26,21",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:23.783Z"
+}

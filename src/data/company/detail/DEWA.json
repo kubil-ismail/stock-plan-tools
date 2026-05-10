@@ -1,0 +1,388 @@
+{
+  "company_name": "Darma Henwa Tbk",
+  "ticker": "DEWA",
+  "office_address": "Prosperity Tower Lantai 39, SCBD, District 8, Lot 28, Jl. Jenderal Sudirman Kav. 52-53, Kelurahan Senayan, Kecamatan Kebayoran Baru, Jakarta Selatan, 12190",
+  "email": "corporate.secretary@ptdh.co.id",
+  "phone": "021- 5025 8888",
+  "fax": "-",
+  "tax_id": "01.565.295.1-091.000",
+  "website": "https://www.ptdh.co.id",
+  "listing_date": "2007-09-26",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Mukson Arif Rosyidi",
+    "email": "corporate.secretary@ptdh.co.id",
+    "phone": "021-5025 8888"
+  },
+  "directors": [
+    {
+      "name": "Teguh Boentoro",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ahmad Hilyadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fredia Yuzirwan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mahmud Samuri",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mukson Arif Rosyidi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Faruk Fauzi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anny Tjandra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Joseph Lembayung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ricardo Silaen",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Irawan Hendradi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Suadi Atma",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gories Mere",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wisnu Wahyudin Pettalolo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Suharyono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Nalinkant Amratlal Rathod",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sorimuda Pulungan",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Suharyono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mulyadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indra Safitri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 26943334914,
+      "percentage": 66.22
+    },
+    {
+      "name": "Goldwave Capital Limited",
+      "type": "Lebih dari 5%",
+      "shares": 3815217000,
+      "percentage": 9.38
+    },
+    {
+      "name": "PT Andhesti Tungkas Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 3181254866,
+      "percentage": 7.81
+    },
+    {
+      "name": "Cimb Securities Limited",
+      "type": "Lebih dari 5%",
+      "shares": 2595655200,
+      "percentage": 6.38
+    },
+    {
+      "name": "Zurich Asset International Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 2513178390,
+      "percentage": 6.18
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 1638793874,
+      "percentage": 4.03
+    },
+    {
+      "name": "PT Cgs International Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Irawan Hendradi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suadi Atma",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nalinkant Amratlal Rathod",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wisnu Wahyudin Pettalolo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sorimuda Pulungan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gories Mere",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agus Suharyono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Teguh Boentoro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Hilyadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fredia Yuzirwan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mahmud Samuri",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mukson Arif Rosyidi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Faruk Fauzi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anny Tjandra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Joseph Lembayung",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ricardo Silaen",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sabina Mahardika",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 845080220,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT Cipta Multi Prima",
+      "business_type": "Macam-macam Jasa",
+      "total_assets": 490032686,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Rocky Investments Group",
+      "business_type": "Perusahaan Dagang dan Jasa Pertambangan",
+      "total_assets": 367383867,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Dh Services",
+      "business_type": "Jasa Reparasi Mesin dan Penunjang Pertambangan",
+      "total_assets": 39769161,
+      "ownership_percentage": 95.55
+    },
+    {
+      "name": "PT Darma Reka Teknik",
+      "business_type": "Jasa Reparasi Mesin dan Penunjang Pertambangan",
+      "total_assets": 12000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Dh Investindo",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 0,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Dh Konstruksindo",
+      "business_type": "Konstruksi",
+      "total_assets": 0,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Dh Kontraktama",
+      "business_type": "Penunjang Pertambangan dan Aktivitas Pertambangan Lainnya",
+      "total_assets": 0,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Dh Tradingcorp",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 0,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "20.180.967.385.024",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,96",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,16",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "36,21",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "213,91",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,05",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "36,80",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:48.782Z"
+}

@@ -1,0 +1,196 @@
+{
+  "company_name": "Primarindo Asia Infrastructure Tbk",
+  "ticker": "BIMA",
+  "office_address": "Gedung Dana Pensiun- Bank Mandiri 3a Floor Jl. Tanjung Karang No. 3-4a Jakarta",
+  "email": "tax@primarindo.com",
+  "phone": "(022) 7560555",
+  "fax": "(021) 3148317",
+  "tax_id": "01.465.268.9-054.000",
+  "website": "https://0",
+  "listing_date": "1994-08-30",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Alas Kaki",
+    "business_summary": "Perusahaan bergerak di bidang Alas Kaki.",
+    "business_tags": [
+      "Alas Kaki"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 2,
+    "name": "Alas Kaki",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Mohamad Al Hadi",
+    "email": "paijkt@cbn.net.id; exim@primarindo.com",
+    "phone": "(022) 7560555"
+  },
+  "directors": [
+    {
+      "name": "Bambang Setiyono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "David Jahja",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yati Nurhayati",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Judiono Tosin",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Soetopo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Endang Kosasih",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Soetopo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sri Mulyani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Oei Fuad Octavianus",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Golden Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 526475716,
+      "percentage": 86.56
+    },
+    {
+      "name": "Masyarakat Lainnya",
+      "type": "Lebih dari 5%",
+      "shares": 81700000,
+      "percentage": 13.44
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Jahya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yati Nurhayati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Judiono Tosin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agus Sutopo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Endang Kosasih",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Setiyono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "49.870.408.712",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "9,33",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "95,24",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:45.298Z"
+}

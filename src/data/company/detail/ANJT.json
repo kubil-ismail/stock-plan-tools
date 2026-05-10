@@ -1,0 +1,271 @@
+{
+  "company_name": "PT Austindo Nusantara Jaya Tbk.",
+  "ticker": "ANJT",
+  "office_address": "Apl Tower Lantai 28, Jalan Letnan Jenderal Siswondo Parman Kaveling 28, Kelurahan Tanjung Duren Selatan, Kecamatan Grogol Petamburan, Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+  "email": "corsec@anj-group.com",
+  "phone": "(62-21) 2929 8888",
+  "fax": "(62-21) 2929 8878",
+  "tax_id": "01.626.081.2-054.000",
+  "website": "https://www.anj-group.com",
+  "listing_date": "2013-05-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan, jasa dan pengoperasian perkebunan, pengolahan dan perdagangan produk kelapa sawit baik sendiri maupun melalui Entitas Anak, pengolahan dan perdagangan produk sagu serta produksi dan penggunaan energi terbarukan dan kelistrikan melalui Entitas Anak.",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Hilman Lukito",
+    "email": "corsec@anj-group.com / hilman.lukito@first-resources.com",
+    "phone": "021-29651777"
+  },
+  "directors": [
+    {
+      "name": "Suhendro",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Isen Henry Tjong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hilman Lukito",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Harianto Tanamoeljono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Sofyan Abdul Djalil, S.h.,m.a",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Janto Tatno Moeljono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Martono, Cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr. Sofyan A. Djalil S.h., M.a., Mald",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "First Resources Limited",
+      "type": "Lebih dari 5%",
+      "shares": 3217218477,
+      "percentage": 95.917
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 136956523,
+      "percentage": 4.083
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Harianto Tanamoeljono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Sofyan Abdul Jalil, S.h., m.h",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suhendro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Isen Henry Tjong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hilman Lukito",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Austindo Nusantara Jaya Agri",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 512087594,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Putera Manunggal Perkasa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 116858567,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permata Putera Mandiri",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 90985058,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kayung Agro Lestari",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 84992982,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sahabat Mewah dan Makmur",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 76443771,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Austindo Nusantara Jaya Agri Siais (anjas)",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 44378609,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anj Agri Papua",
+      "business_type": "Agribisnis Sagu",
+      "total_assets": 11469945,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gading Mas Indonesia Teguh",
+      "business_type": "Agribisnis",
+      "total_assets": 11374989,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Galempa Sejahtera Bersama",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 10352203,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Austindo Aufwind New Energy",
+      "business_type": "Energi Terbarukan",
+      "total_assets": 1220914,
+      "ownership_percentage": 99.22
+    },
+    {
+      "name": "PT Lestari Sagu Papua",
+      "business_type": "Agribisnis Sagu",
+      "total_assets": 255103,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Austindo Nusantara Jaya Boga",
+      "business_type": "Produk Konsumen",
+      "total_assets": 86886,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.087.827.625.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "16,99",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "7,83",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "16,36",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,29",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,10",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:21.997Z"
+}

@@ -1,0 +1,223 @@
+{
+  "company_name": "Toba Pulp Lestari Tbk",
+  "ticker": "INRU",
+  "office_address": "Uniplaza, East Tower, Lantai 3 Jalan Letjend. Haryono MT No. A-1 Medan 20231 Sumut - Indonesia",
+  "email": "investor_relation@tobapulp.com",
+  "phone": "+62 61 453 2088",
+  "fax": "+62 61 453 0967",
+  "tax_id": "01.219.795.0-054.000",
+  "website": "https://www.tobapulp.com",
+  "listing_date": "1990-06-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pulp and Paper",
+    "business_summary": "Perusahaan bergerak di bidang Kertas.",
+    "business_tags": [
+      "Kertas"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 37,
+    "name": "Kertas",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Anwar Lawden, S.h.",
+    "email": "investor_relation@tobapulp.com",
+    "phone": "061-4532088 ext 7581"
+  },
+  "directors": [
+    {
+      "name": "Sandeep Bhalla",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jandres Halomoan Silalahi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Anwar Lawden, Sh",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Monang Simatupang",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Niroshan Romesh Silva",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ignatius Ari Djoko Purnomo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Elisa Ganda Togu Manurung",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Thomson Siagian, Sh",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Joni Supriyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Thomson Siagian, Sh",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hong Chun",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lamsaudin Situmeang, Se, Sh",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Allied Hill Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1285265467,
+      "percentage": 92.54
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 73975491,
+      "percentage": 5.32
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 29642325,
+      "percentage": 2.14
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ignatius Ari Djoko Purnomo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Elisa Ganda Togu Manurung",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Thomson Siagian, Sh",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Joni Supriyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sandeep Bhalla",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jandres Halomoan Silalahi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anwar Lawden, Sh",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Monang Simatupang",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Niroshan Romesh Silva",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "819.441.136.970",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "18,06",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "49,75",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:29.190Z"
+}

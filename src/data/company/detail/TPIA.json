@@ -1,0 +1,452 @@
+{
+  "company_name": "PT Chandra Asri Pacific Tbk",
+  "ticker": "TPIA",
+  "office_address": "Gedung Wisma Barito Pacific Tower A, Lt. 7 Jl. Let Jend S. Parman Kav. 62-63 Rt.008 Rw.004 Slipi Palmerah. Jakarta Barat. Dki Jakarta - 11410",
+  "email": "corporatesecretary@capcx.com",
+  "phone": "(021) 5307950",
+  "fax": "(021) 5308950",
+  "tax_id": "01.062.049.0-092.000",
+  "website": "https://www.chandra-asri.com",
+  "listing_date": "2008-05-26",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Petrokimia",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik, Manufaktur.",
+    "business_tags": [
+      "Energi",
+      "Logistik",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Erri Dewi Riani",
+    "email": "erri.riani@capcx.com",
+    "phone": "(021) 5307950"
+  },
+  "directors": [
+    {
+      "name": "Konlakan Chankachangchaeng",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Edi Riva'i",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Raymond Budhin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Erwin Ciputra",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pholavit Thiebpattama",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Baritono Prajogo Pangestu",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andre Khor Kah Hin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fransiskus Ruly Aryawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suryandi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nongnapat Saisuthi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wittaya Guntawang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ronald Sihombing",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hamim Thohari",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tan Ek Kia",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ho Hon Cheong",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Salim Pangestu",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lim Chong Thian",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sakchai Patiparnpreechavud",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pongpun Amornvivat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rungnapa Janchookiat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djoko Suyanto",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tan Ek Kia",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dikdik Sugiharto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Michell Suharli",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Barito Pacific Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 29957670400,
+      "percentage": 34.63
+    },
+    {
+      "name": "Scg Chemicals Public Company Limited",
+      "type": "Lebih dari 5%",
+      "shares": 26446618924,
+      "percentage": 30.57
+    },
+    {
+      "name": "PT Top Investment Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 12976731760,
+      "percentage": 15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 12608850292,
+      "percentage": 14.59
+    },
+    {
+      "name": "Prajogo Pangestu",
+      "type": "Lebih dari 5%",
+      "shares": 4354382164,
+      "percentage": 5.03
+    },
+    {
+      "name": "Erwin Ciputra",
+      "type": "Direksi",
+      "shares": 140258272,
+      "percentage": 0.16
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 19274200,
+      "percentage": 0.02
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2010000,
+      "percentage": 0
+    },
+    {
+      "name": "Fransiskus Ruly Aryawan",
+      "type": "Direksi",
+      "shares": 400212,
+      "percentage": 0
+    },
+    {
+      "name": "Lim Chong Thian",
+      "type": "Komisaris",
+      "shares": 1182568,
+      "percentage": 0
+    },
+    {
+      "name": "Baritono Prajogo Pangestu",
+      "type": "Direksi",
+      "shares": 324100,
+      "percentage": 0
+    },
+    {
+      "name": "Edi Riva'i",
+      "type": "Direksi",
+      "shares": 110200,
+      "percentage": 0
+    },
+    {
+      "name": "Raymond",
+      "type": "Direksi",
+      "shares": 3300000,
+      "percentage": 0
+    },
+    {
+      "name": "Andre Khor Kah Hin",
+      "type": "Direksi",
+      "shares": 432000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Chandra Asri Trading Company Pte. Ltd.",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 4729945,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Chandra Asri Capital Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3848840,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Capgc Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3839973,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Aster Chemicals And Energy Pte. Ltd.",
+      "business_type": "Kilang dan Petrokimia",
+      "total_assets": 3255104,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chandra Daya Investasi",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 1536154,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Chandra Asri Perkasa",
+      "business_type": "Petrokimia",
+      "total_assets": 887654,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chandra Asri Alkali",
+      "business_type": "Khlor dan Alkali",
+      "total_assets": 405992,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Krakatau Chandra Energi",
+      "business_type": "Industri Listrik",
+      "total_assets": 276121,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Chandra Shipping International",
+      "business_type": "Angkutan Laut",
+      "total_assets": 178193,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Marina Indah Maritim",
+      "business_type": "Angkutan Laut",
+      "total_assets": 147719,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "Aster Polymer Solutions Pte. Ltd.",
+      "business_type": "Petrokimia",
+      "total_assets": 147487,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chandra Pelabuhan Nusantara",
+      "business_type": "Pergudangan, Penyimpanan dan Layanan Kepelabuhanan",
+      "total_assets": 95769,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Aster Power Pte. Ltd.",
+      "business_type": "Industri Listrik",
+      "total_assets": 80167,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chandra Samudra Port",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 77632,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chandra Cilegon Port",
+      "business_type": "Pergudangan, Penyimpanan dan Layanan Kepelabuhan",
+      "total_assets": 77497,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chandra Trading Nusantara",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 59986,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Chandra Maritime International Pte. Ltd.",
+      "business_type": "Angkutan Laut",
+      "total_assets": 43253,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chandra Domestic Warehouse",
+      "business_type": "Pergudangan dan Penyimpanan",
+      "total_assets": 17966,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Redeco Petrolin Utama",
+      "business_type": "Sewa Tangki",
+      "total_assets": 11954,
+      "ownership_percentage": 50.75
+    },
+    {
+      "name": "Chandra Asri Bio Investment Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 10965,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aster Chemicals And Energy Shanghai Limited",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 5669,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chandra Investa Prima",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 5074,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Aster Anz Pty. Ltd.",
+      "business_type": "",
+      "total_assets": 3395,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Sarana Energi",
+      "business_type": "Penjualan Bahan Bakar Minyak",
+      "total_assets": 1195,
+      "ownership_percentage": 68.07
+    },
+    {
+      "name": "PT Chandra Cold Chain",
+      "business_type": "Pengangkutan dan Pergudangan",
+      "total_assets": 820,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Chandra Tirta Karian",
+      "business_type": "Holding Investasi, Konsultasi Manajemen dan Jasa Pengelolaan Air",
+      "total_assets": 738,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Chandra Asri Sentral Solusi",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 372,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Aster Asia Alpha Pte. Ltd.",
+      "business_type": "Holding Investasi",
+      "total_assets": 114,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Chandra Industrial Infra Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chandra Asri Port",
+      "business_type": "Pergudangan, Penyimpanan dan Layanan Kepelabuhan",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {},
+  "scraped_at": "2026-05-10T14:03:50.968Z"
+}

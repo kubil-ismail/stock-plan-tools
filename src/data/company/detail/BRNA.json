@@ -1,0 +1,233 @@
+{
+  "company_name": "Berlina Tbk",
+  "ticker": "BRNA",
+  "office_address": "Jl. Jababeka Raya Kawasan Industri Jababeka - Cikarang No.e12-17, Wangunharja, Kec. Cikarang Utara, Bekasi, Jawa Barat 17530",
+  "email": "brna.corsec@berlina.co.id",
+  "phone": "(021) 89830160",
+  "fax": "-",
+  "tax_id": "01.132.923.2-054.000",
+  "website": "https://www.berlina.co.id",
+  "listing_date": "1989-11-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Kemasan Plastik",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Benedikta Maritza",
+    "email": "benedikta@berlina.co.id",
+    "phone": "(021) 89830160"
+  },
+  "directors": [
+    {
+      "name": "Pujihasana Wijaya",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Benedikta Maritza, S.e.",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "David I Tjiptobiantoro",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Adrian Koesnendar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Achmad Widjaja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Charles Christian Gandha",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Charles Christian Gandha",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rizzah Fega Pratiwi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Julian Christopher Limantara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dwi Satrya Utama",
+      "type": "Lebih dari 5%",
+      "shares": 534252162,
+      "percentage": 54.57
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 284984238,
+      "percentage": 29.11
+    },
+    {
+      "name": "Komodo Fund",
+      "type": "Lebih dari 5%",
+      "shares": 102414000,
+      "percentage": 10.46
+    },
+    {
+      "name": "Lisjanto Tjiptobiantoro",
+      "type": "Lebih dari 5%",
+      "shares": 49774000,
+      "percentage": 5.08
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 7685600,
+      "percentage": 0.78
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David I Tjiptobiantoro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adrian Koesnendar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Achmad Widjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Charles Christian Gandha",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pujihasana Wijaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benedikta Maritza, Se",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Lamipak Primula Indonesia",
+      "business_type": "Industri Laminasi Plastik dan Kemasan",
+      "total_assets": 378697904,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Hefei Paragon Plastic Packaging Co. Ltd",
+      "business_type": "Industri Botol dan Cap Plastik dan Sikat Gigi",
+      "total_assets": 246509347,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Quantex",
+      "business_type": "Industri Kemasan Plastik, Perdagangan dan Jasa",
+      "total_assets": 27559769,
+      "ownership_percentage": 99.49
+    },
+    {
+      "name": "PT Natura Plasindo",
+      "business_type": "Industri Pengolahan Plastik, Perdagangan dan Jasa",
+      "total_assets": 15769743,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Berlina Singapore Pte. Ltd",
+      "business_type": "Industri Plastik dan Perdagangan Umum",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "646.212.600.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,39",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,35",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "0,70",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "2,86",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,60",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "2,86",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:25.620Z"
+}

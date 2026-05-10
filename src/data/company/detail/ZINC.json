@@ -1,0 +1,224 @@
+{
+  "company_name": "PT Kapuas Prima Coal Tbk",
+  "ticker": "ZINC",
+  "office_address": "Jl. Pantai Indah Selatan I, Elang Laut Blok A No. 32-33 Lantai 5 Jakarta 14470, Indonesia",
+  "email": "corsec@ptkpc.com",
+  "phone": "021 - 29676236",
+  "fax": "021 - 29676234",
+  "tax_id": "02.386.972.0-091.000",
+  "website": "https://www.ptkpc.com",
+  "listing_date": "2017-10-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pertambangan dan Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Logam & Mineral Lainnya.",
+    "business_tags": [
+      "Logam & Mineral Lainnya"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Lucky Tajo",
+    "email": "corsec@ptkpc.com",
+    "phone": "021 29676236"
+  },
+  "directors": [
+    {
+      "name": "Harjanto Widjaja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hendra Susanto William",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Padli Noor",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Evelyne Kioe",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sim Antony",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Kioe Nata",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Bambang Ghiri Arianto, Se, Mba, MH",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Bambang G.a, Se, Mba, MH",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hendro",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sem Damaris",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8733506656,
+      "percentage": 34.6
+    },
+    {
+      "name": "Sim Antony",
+      "type": "Komisaris",
+      "shares": 3639992000,
+      "percentage": 14.4
+    },
+    {
+      "name": "Kioe Nata",
+      "type": "Komisaris",
+      "shares": 3113992000,
+      "percentage": 12.3
+    },
+    {
+      "name": "Budimulio Utomo",
+      "type": "Lebih dari 5%",
+      "shares": 2562000000,
+      "percentage": 10.1
+    },
+    {
+      "name": "PT Sarana Inti Selaras",
+      "type": "Lebih dari 5%",
+      "shares": 2470509344,
+      "percentage": 9.8
+    },
+    {
+      "name": "Haroen Soedjatmiko",
+      "type": "Lebih dari 5%",
+      "shares": 2416000000,
+      "percentage": 9.6
+    },
+    {
+      "name": "William",
+      "type": "Lebih dari 5%",
+      "shares": 2314000000,
+      "percentage": 9.2
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kapuas Prima Citra",
+      "business_type": "Industri Pembuatan Logam Dasar Bukan Besi",
+      "total_assets": 219888515282,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "757.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "14,29",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "3,45",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "130,77",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "6,25",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:55.518Z"
+}

@@ -1,0 +1,243 @@
+{
+  "company_name": "PT Cikarang Listrindo Tbk.",
+  "ticker": "POWR",
+  "office_address": "World Trade Centre 1, Lantai 17 Jl. Jend. Sudirman Kav. 29 - 31 Jakarta 12920, Indonesia",
+  "email": "corpsec@listrindo.com",
+  "phone": "+62215228122",
+  "fax": "+62215224440",
+  "tax_id": "01.547.702.9-062.000",
+  "website": "https://www.listrindo.com",
+  "listing_date": "2016-06-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Kegiatan pembangkitan, transmisi, dan pendistribusian energi listrik kepada konsumen akhir",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 34,
+    "name": "Utilitas",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 57,
+    "name": "Utilitas Listrik"
+  },
+  "sub_industry": {
+    "id": 100,
+    "name": "Utilitas Listrik",
+    "industries_id": 57
+  },
+  "corporate_secretary": {
+    "name": "Rani Maheswari Miraza",
+    "email": "corpsec@listrindo.com",
+    "phone": "+62215228122"
+  },
+  "directors": [
+    {
+      "name": "Andrew Kukkutahlie Labbaika",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Png Ewe Chai",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Richard Noel Flynn",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Christanto Pranata",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yudho Pratikto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sutanto Joso",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Iwan Putra Brasali",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fenza Sofyan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djeradjat Janto Joso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Kiskenda Suriahardja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Josep Karnady",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Josep Karnady",
+      "position": "Ketua"
+    },
+    {
+      "name": "Freddy Soetanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wiyandi The",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Udinda Wahanatama",
+      "type": "Lebih dari 5%",
+      "shares": 4903778030,
+      "percentage": 30.48
+    },
+    {
+      "name": "PT Pentakencana Pakarperdana",
+      "type": "Lebih dari 5%",
+      "shares": 4285064945,
+      "percentage": 26.64
+    },
+    {
+      "name": "PT Brasali Industri Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 4285134845,
+      "percentage": 26.64
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2152235947,
+      "percentage": 13.38
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 235656900,
+      "percentage": 1.47
+    },
+    {
+      "name": "Png Ewe Chai",
+      "type": "Direksi",
+      "shares": 174386780,
+      "percentage": 1.08
+    },
+    {
+      "name": "Yudho Pratikto",
+      "type": "Direksi",
+      "shares": 21578253,
+      "percentage": 0.13
+    },
+    {
+      "name": "Andrew K Labbaika",
+      "type": "Direksi",
+      "shares": 13040500,
+      "percentage": 0.08
+    },
+    {
+      "name": "Sutanto Joso",
+      "type": "Komisaris",
+      "shares": 11763500,
+      "percentage": 0.07
+    },
+    {
+      "name": "Iwan Putra Brasali",
+      "type": "Komisaris",
+      "shares": 4216600,
+      "percentage": 0.03
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fenza Sofyan",
+      "type": "Komisaris",
+      "shares": 299700,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bahtera Listrindo Jaya",
+      "business_type": "PT Bahtera Listrindo Jaya Didirikan untuk Industri Pengolahan, Pengangkutan dan Pergudangan, Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak Opsi, Ketenagakerjaan, Agen Perjalanan dan Usaha Lainnya",
+      "total_assets": 13777423,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.824.059.660.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,36",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "7,19",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "4,93",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "4,93",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,36",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "5,67",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:51.766Z"
+}

@@ -1,0 +1,205 @@
+{
+  "company_name": "Asia Pacific Fibers Tbk",
+  "ticker": "POLY",
+  "office_address": "The East Lt 35 Unit 7, Jl. Dr. Ide Anak Agung Gde Agung Kav. E3.2 No. 1, Jakarta - 12950",
+  "email": "tunaryo@apf.co.id",
+  "phone": "021-579.38555",
+  "fax": "021-579.38565",
+  "tax_id": "0012 5404 0709 2000",
+  "website": "https://www.asiapacificfibers.com",
+  "listing_date": "1991-03-12",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Serat Sintetis",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Tunaryo",
+    "email": "tunaryo@apf.co.id",
+    "phone": "021-57938555"
+  },
+  "directors": [
+    {
+      "name": "Vasudevan Ravi Shankar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius Widyatma Sumarlin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Deddy Sutrisno",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Robert Mc Carthy Jr",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Christopher Ian Teague",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Alexander Shaik",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Christopher Robert Botsford",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Tjahajana Wirakusumah",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sumiyati",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sumiyati",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Tjahajana Wirakusumah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Husni Sidik Sodikin, Cpa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Damiano Investments Bv",
+      "type": "Lebih dari 5%",
+      "shares": 1443805382,
+      "percentage": 57.85
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 730237296,
+      "percentage": 29.26
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 182639982,
+      "percentage": 7.32
+    },
+    {
+      "name": "PT. Multikarsa Investama",
+      "type": "Lebih dari 5%",
+      "shares": 131394719,
+      "percentage": 5.26
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 6426468,
+      "percentage": 0.26
+    },
+    {
+      "name": "V. Ravi Shankar",
+      "type": "Direksi",
+      "shares": 1249500,
+      "percentage": 0.05
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Polysindo International Finance Company B.v. (pifc)",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 682,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Texmaco Jaya Tbk (tj) (dalam Pailit)",
+      "business_type": "Tekstil",
+      "total_assets": 228,
+      "ownership_percentage": 92
+    },
+    {
+      "name": "PT Texmaco Graha Busana (tgb) - Dimiliki Tj dengan Kepemilikan 99%",
+      "business_type": "Garmen",
+      "total_assets": 167,
+      "ownership_percentage": 91
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "79.864.106.688",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "3,03",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,08",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "60,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "14,29",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:48.096Z"
+}

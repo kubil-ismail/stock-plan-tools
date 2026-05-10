@@ -1,0 +1,215 @@
+{
+  "company_name": "PT Satyamitra Kemas Lestari Tbk",
+  "ticker": "SMKL",
+  "office_address": "Kawasan Industri Benua Permai Lestari Jl. Raya Serang Km 25,6, Desa Cisereh, Tigaraksa Tangerang 15720",
+  "email": "satyamitra@satyamira.com",
+  "phone": "+6221 5950988",
+  "fax": "+6221 5950089",
+  "tax_id": "02.093.167.1-415.000",
+  "website": "https://www.satyamitra.com",
+  "listing_date": "2019-07-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Industri Alat Permainan",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Thie David",
+    "email": "david@satyamitra.com",
+    "phone": "(+6221) 5950988"
+  },
+  "directors": [
+    {
+      "name": "Ang Kinardo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Franco Agung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herryanto Setiono Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rachman Sastra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Kihary Angdias",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Suryana",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bambang Suryana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ade Sukirman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fransiska Natalia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Satyamitra Investindo Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 2839189300,
+      "percentage": 83.06
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 436911290,
+      "percentage": 12.78
+    },
+    {
+      "name": "Tan Franco Agung",
+      "type": "Direksi",
+      "shares": 72500000,
+      "percentage": 2.12
+    },
+    {
+      "name": "Ang Kinardo",
+      "type": "Direksi",
+      "shares": 63500000,
+      "percentage": 1.86
+    },
+    {
+      "name": "Herryanto Setiono Hidayat",
+      "type": "Direksi",
+      "shares": 5984700,
+      "percentage": 0.18
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "553.729.816.980",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,16",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,98",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "1,88",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "9,40",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,82",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "6,32",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:36.764Z"
+}

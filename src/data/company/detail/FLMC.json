@@ -1,0 +1,215 @@
+{
+  "company_name": "PT Falmaco Nonwoven Industri Tbk",
+  "ticker": "FLMC",
+  "office_address": "De Lavida Town House, Jalan Setra Duta Indah, B-15 Kelurahan Pasirkaliki, Kecamatan Cimahi Utara, Kota Cimahi, Jawa Barat 40514",
+  "email": "corporate@falmaco.com",
+  "phone": "022-2022066",
+  "fax": "-",
+  "tax_id": "01.723.315.6-421.000",
+  "website": "https://www.falmaco-nonwoven.com",
+  "listing_date": "2021-07-08",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bergerak di bidang produksi tisu basah, kain nonwoven dan produk kesehatan lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Andre Rajasa",
+    "email": "corporate@falmaco.com",
+    "phone": "022-2022066"
+  },
+  "directors": [
+    {
+      "name": "Rosalina Indra Wirawati",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andre Rajasa",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Theresia Indrawirawan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Michelle Evangeline Hanafi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sari Rahmawati",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tsun Tie Wen Lie",
+      "position": "Ketua"
+    },
+    {
+      "name": "Riska Dwiana Adhawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Annisa Ramadhani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 387787429,
+      "percentage": 49.63
+    },
+    {
+      "name": "Theresia Indra Wirawan",
+      "type": "Komisaris",
+      "shares": 308477875,
+      "percentage": 39.49
+    },
+    {
+      "name": "Hans Saputra",
+      "type": "Lebih dari 5%",
+      "shares": 45177321,
+      "percentage": 5.78
+    },
+    {
+      "name": "Rosalina Indra Wirawati",
+      "type": "Direksi",
+      "shares": 39807375,
+      "percentage": 5.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andre Rajasa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Falmaco Nonwoven Industri Tbk",
+      "business_type": "Consumer Goods Industry Cosmetics And Household Non Durability",
+      "total_assets": 75591197720,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Richard Risambessy & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Richard Risambessy & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Richard Risambessy dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Heru Saleh Marzuki & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "139.062.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "17,24",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "26,87",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "18,27",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "277,78",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,41",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,84",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:48.577Z"
+}

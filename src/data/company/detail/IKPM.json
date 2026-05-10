@@ -1,0 +1,221 @@
+{
+  "company_name": "PT Ikapharmindo Putramas Tbk.",
+  "ticker": "IKPM",
+  "office_address": "Jl. Pulogadung Raya No. 29 Kawasan Industri Pulogadung, Jakarta Timur 13930 Indonesia",
+  "email": "corporate.secretary@ikapharmindo.com",
+  "phone": "0214600086",
+  "fax": "0214608865",
+  "tax_id": "01.104.846.9-007.000",
+  "website": "https://www.ikapharmindo.com",
+  "listing_date": "2023-11-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha Industri Farmasi dan Personal Care",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Ayi Saepudin",
+    "email": "corporate.secretary@ikapharmindo.com",
+    "phone": "0214600086"
+  },
+  "directors": [
+    {
+      "name": "Kartono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ayi Saepudin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eliza Arlena Winata",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Maudy Ratna Winata",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Titianus Winata",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Susanto Lam",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Susanto Lam",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wan Wan",
+      "position": "Anggota"
+    },
+    {
+      "name": "R. Bagus Sisnanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Ikapharma Inti Mas",
+      "type": "Lebih dari 5%",
+      "shares": 1315950000,
+      "percentage": 78.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 336932500,
+      "percentage": 20
+    },
+    {
+      "name": "Maudy Ratna Winata",
+      "type": "Komisaris",
+      "shares": 14840000,
+      "percentage": 0.88
+    },
+    {
+      "name": "Titianus Winata",
+      "type": "Komisaris",
+      "shares": 10460000,
+      "percentage": 0.62
+    },
+    {
+      "name": "Eliza Arlena Winata",
+      "type": "Direksi",
+      "shares": 3240000,
+      "percentage": 0.19
+    },
+    {
+      "name": "Augustina Winata",
+      "type": "Komisaris",
+      "shares": 3240000,
+      "percentage": 0.19
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "343.671.150.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,87",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "24,05",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "16,39",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,08",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,45",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "8,72",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:10.326Z"
+}

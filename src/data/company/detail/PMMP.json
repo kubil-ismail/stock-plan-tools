@@ -1,0 +1,231 @@
+{
+  "company_name": "PT Panca Mitra Multiperdana Tbk.",
+  "ticker": "PMMP",
+  "office_address": "Jl. Bubutan 16-22 Kav-a No. 1-2 Surabaya, Jawa Timur 60174",
+  "email": "corsec@pancamitra.com",
+  "phone": "+62(31) 5462539",
+  "fax": "0",
+  "tax_id": "01.821.663.0-651.000",
+  "website": "https://www.pancamitra.com",
+  "listing_date": "2020-12-18",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Pengolahan Udang, Pembekuan Udang dan Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Hirawan Tedjokoesoemo",
+    "email": "corsec@pancamitra.com",
+    "phone": "(031) 5462539"
+  },
+  "directors": [
+    {
+      "name": "Martinus Soesilo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hirawan Tedjokoesoemo",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Alin Rostanti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Patrick Djuanda",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Soesilo Soebardjo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Suwarli, S.e.,ak",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Salis Teguh Hartono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Suwarli, S.e.,ak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Moch. Muchsin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mardian Menggala Putra, S.e.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tiga Makin Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 898236200,
+      "percentage": 34.7
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 783121300,
+      "percentage": 30.26
+    },
+    {
+      "name": "Soesilo Soebardjo",
+      "type": "Komisaris",
+      "shares": 580000000,
+      "percentage": 22.41
+    },
+    {
+      "name": "PT Harapan Bangsa Kita",
+      "type": "Lebih dari 5%",
+      "shares": 188240000,
+      "percentage": 7.27
+    },
+    {
+      "name": "Martinus Soesilo",
+      "type": "Direksi",
+      "shares": 118702500,
+      "percentage": 4.59
+    },
+    {
+      "name": "Hirawan Tedjo Koesoemo",
+      "type": "Direksi",
+      "shares": 20000000,
+      "percentage": 0.77
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "129.415.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "19,35",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:37.126Z"
+}

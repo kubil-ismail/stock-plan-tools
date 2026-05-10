@@ -1,0 +1,251 @@
+{
+  "company_name": "Aksara Global Development Tbk",
+  "ticker": "GAMA",
+  "office_address": "Gedung Office 8, Lt. 5 Unit F, SCBD Lot 28, Jl. Jend. Sudirman Kav.52-53, Jakarta 12190",
+  "email": "info@gadingdevelopment.com",
+  "phone": "(021) 29333521",
+  "fax": "(021) 29333520",
+  "tax_id": "03.080.333.2-063.000",
+  "website": "https://www.gadingdevelopment.com",
+  "listing_date": "2012-07-11",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Properti melalui entitas anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Christina Nina Mawarsari",
+    "email": "corsec@agd.co.id",
+    "phone": "021 - 27598899"
+  },
+  "directors": [
+    {
+      "name": "Budiawan Lebar",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Denny Nandar Haulian",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yunita",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lely Sri Suryawati",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lely Sri Suryawati",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dinta Yuvira",
+      "position": "Anggota"
+    },
+    {
+      "name": "Handy Suryanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 6901027656,
+      "percentage": 69
+    },
+    {
+      "name": "PT Gading Investment",
+      "type": "Lebih dari 5%",
+      "shares": 2403000000,
+      "percentage": 24
+    },
+    {
+      "name": "PT Multidaya Industri",
+      "type": "Lebih dari 5%",
+      "shares": 707000000,
+      "percentage": 7
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "0",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Swakarsa Adimanunggal",
+      "business_type": "Investasi",
+      "total_assets": 1245538619777,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kembang Sari Buana",
+      "business_type": "Apartemen",
+      "total_assets": 311124281131,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gading Selaras",
+      "business_type": "Apartemen",
+      "total_assets": 132212224584,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pondok Persada Jaya",
+      "business_type": "Investasi",
+      "total_assets": 106177479104,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Gading Hotel & Resort",
+      "business_type": "Investasi",
+      "total_assets": 82414058199,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Matari Kirana",
+      "business_type": "Perumahan",
+      "total_assets": 81007115959,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Graha Kirana Indonesia",
+      "business_type": "Hotel",
+      "total_assets": 71796285670,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nuansa Berdikari",
+      "business_type": "Perumahan",
+      "total_assets": 63420830366,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Permata Jaya Bersinar",
+      "business_type": "Perumahan",
+      "total_assets": 52178268417,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Graha Bumi Mas Jaya",
+      "business_type": "Perumahan",
+      "total_assets": 46247506735,
+      "ownership_percentage": 99.59
+    },
+    {
+      "name": "PT Gading Hill",
+      "business_type": "Perumahan",
+      "total_assets": 25002785567,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Mentari Mulia",
+      "business_type": "Apartemen",
+      "total_assets": 21237236866,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Gading Mahardika",
+      "business_type": "Hotel",
+      "total_assets": 10373000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Permata Sari Bersinar",
+      "business_type": "Hotel",
+      "total_assets": 4363770906,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Gading Jaya",
+      "business_type": "Apartemen",
+      "total_assets": 51000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Matari Karya Abadi",
+      "business_type": "Apartemen",
+      "total_assets": 51000000,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "180.198.497.808",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:57.331Z"
+}

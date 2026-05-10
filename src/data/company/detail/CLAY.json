@@ -1,0 +1,198 @@
+{
+  "company_name": "PT Citra Putra Realty Tbk",
+  "ticker": "CLAY",
+  "office_address": "Menara Bidakara 2 Lt 17 Jln. Jend. Gatot Subroto Kav. 71-73 Menteng dalam, Tebet Jakarta Selatan 12870",
+  "email": "corporate.secretary@cpr.co.id",
+  "phone": "021-29069370, 021-31996270",
+  "fax": "021-31996267",
+  "tax_id": "03.036.037.4-063.000",
+  "website": "https://www.cpr.co.id",
+  "listing_date": "2019-01-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang akomodasi (jasa perhotelan)",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Joko Santoso",
+    "email": "corporate.secretary@cpr.co.id",
+    "phone": "021-31996270"
+  },
+  "directors": [
+    {
+      "name": "Christofer Wibisono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. H. Chairul Umaiya, Mm. Ak.",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hildi Hamid",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Raja Sapta Ervian",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rd James Rachmat Subekti",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Gories Mere",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rd James Rachmat Subekti",
+      "position": "Ketua"
+    },
+    {
+      "name": "Galumbang Christianson Sitinjak",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sutia Wijaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Citra Putra Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 1998750000,
+      "percentage": 77.77
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 529181734,
+      "percentage": 20.59
+    },
+    {
+      "name": "Raja Sapta Ervian",
+      "type": "Komisaris",
+      "shares": 42068266,
+      "percentage": 1.64
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Citra Putra Thamrin",
+      "business_type": "Perhotelan",
+      "total_assets": 21794147,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Oso Jasa Medika",
+      "business_type": "Rumah Sakit",
+      "total_assets": 4876412,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "7.298.800.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,54",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,50",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1,41",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "229,89",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,06",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "25,33",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:12.760Z"
+}

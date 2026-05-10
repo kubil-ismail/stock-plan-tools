@@ -1,0 +1,199 @@
+{
+  "company_name": "PT Trimuda Nuansa Citra Tbk.",
+  "ticker": "TNCA",
+  "office_address": "Wisma Intra Asia, Ground Floor Jl. Prof. Dr. Soepomo Sh No. 58 Jakarta Selatan 12870",
+  "email": "corsec@ged.co.id",
+  "phone": "(021) 83703700",
+  "fax": "(021) 83700023",
+  "tax_id": "0017 2082 4001 5000",
+  "website": "https://www.ged.co.id",
+  "listing_date": "2018-06-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Penyelenggaraan Pos dan Giro, Perdagangan dan Pengangkutan",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Felicia Fanny",
+    "email": "corsec@ged.co.id",
+    "phone": "(021) 83703800"
+  },
+  "directors": [
+    {
+      "name": "Rendra Prapantsa",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ari Widiatmoko",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Achmad Sutjipto",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Andy Raharja",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Achmad Sutjipto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agustine Rosmaulina Munthe",
+      "position": "Anggota"
+    },
+    {
+      "name": "Meri Binti Sabon",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Akulaku Silvrr Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 133333400,
+      "percentage": 31.62
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 127050900,
+      "percentage": 30.14
+    },
+    {
+      "name": "Holyhead East Limited",
+      "type": "Lebih dari 5%",
+      "shares": 115910400,
+      "percentage": 27.49
+    },
+    {
+      "name": "Eka Suhendra",
+      "type": "Lebih dari 5%",
+      "shares": 24263300,
+      "percentage": 5.75
+    },
+    {
+      "name": "PT Asuransi Intra Asia",
+      "type": "Lebih dari 5%",
+      "shares": 21082000,
+      "percentage": 5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Ged Lintas Indonesia",
+      "business_type": "Pengangkutan dan Pergudangan",
+      "total_assets": 27379067868,
+      "ownership_percentage": 99.92
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "81.798.160.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,33",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,17",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "20,73",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "22,64",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,04",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "29,35",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:42.848Z"
+}

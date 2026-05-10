@@ -1,0 +1,254 @@
+{
+  "company_name": "PT Global Mediacom Tbk",
+  "ticker": "BMTR",
+  "office_address": "Mnc Tower Lantai 27 Suite 2701, Jl. Kebon Sirih No. 17-19, Kebon Sirih, Menteng, Jakarta Pusat, Dki Jakarta",
+  "email": "corsec.mncmedia@mncgroup.com",
+  "phone": "021-3909211, 021-3900310",
+  "fax": "021-3927859",
+  "tax_id": "01.361.257.7-054.000",
+  "website": "https://mediacom.co.id",
+  "listing_date": "1995-07-17",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Investment Company",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 72,
+    "name": "Periklanan",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Christophorus Taufik Siswandi",
+    "email": "corsec.mncmedia@mncgroup.com",
+    "phone": "0213909211, 0213900310"
+  },
+  "directors": [
+    {
+      "name": "Hary Tanoesoedibjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ruby Panjaitan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Syafril Nasution",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Christophorus Taufik Siswandi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indra Pudjiastuti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rosano Barack",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mohamed Idwan Ganie",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Beti Puspitasari Santoso",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mohamed Idwan Ganie",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Mulyanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Joel Richard Hogarth",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7660564426,
+      "percentage": 46.85
+    },
+    {
+      "name": "PT Mnc Asia Holding Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 7520655000,
+      "percentage": 45.99
+    },
+    {
+      "name": "Drs. Lo Kheng Hong",
+      "type": "Lebih dari 5%",
+      "shares": 1067633500,
+      "percentage": 6.53
+    },
+    {
+      "name": "Hary Tanoesoedibjo",
+      "type": "Direksi",
+      "shares": 47726040,
+      "percentage": 0.29
+    },
+    {
+      "name": "Rosano Barack",
+      "type": "Komisaris",
+      "shares": 31038500,
+      "percentage": 0.19
+    },
+    {
+      "name": "Indra Pudjiastuti",
+      "type": "Direksi",
+      "shares": 20055800,
+      "percentage": 0.12
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 4688820,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 231485500,
+      "percentage": 0
+    },
+    {
+      "name": "Ruby Panjaitan",
+      "type": "Direksi",
+      "shares": 150000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Media Nusantara Citra Tbk (mncn)",
+      "business_type": "Iklan dan Konten",
+      "total_assets": 25133851,
+      "ownership_percentage": 52.67
+    },
+    {
+      "name": "PT. Mnc Vision Networks Tbk (mvn)",
+      "business_type": "Tv Berbayar dan Broadband",
+      "total_assets": 8522672,
+      "ownership_percentage": 60.67
+    },
+    {
+      "name": "PT. Infokom Elektrindo (infokom)",
+      "business_type": "Lainnya",
+      "total_assets": 1091428,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Bmtr Digital Limited (bdl)",
+      "business_type": "Iklan dan Konten",
+      "total_assets": 296067,
+      "ownership_percentage": 81.06
+    },
+    {
+      "name": "Universal Media Holding Corporation (umhc)",
+      "business_type": "Lainnya",
+      "total_assets": 219840,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Global Mediacom International Ltd. (gmi)",
+      "business_type": "Lainnya",
+      "total_assets": 113986,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bmtr Media Limited (bml)",
+      "business_type": "Lainnya",
+      "total_assets": 41133,
+      "ownership_percentage": 81.06
+    },
+    {
+      "name": "PT. Mnc Gs Homeshopping (mnc Shop)",
+      "business_type": "Lainnya",
+      "total_assets": 39252,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.786.111.594.448",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "7,25",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "4,96",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "5,71",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "11,90",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "4,96",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:06.286Z"
+}

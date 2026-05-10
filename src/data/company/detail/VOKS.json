@@ -1,0 +1,209 @@
+{
+  "company_name": "Voksel Electric Tbk",
+  "ticker": "VOKS",
+  "office_address": "Gedung Menara Karya Lantai 3 Unit D Jl. Hr. Rasuna Said Blok X-5, Kav. 1-2 Jakarta 12950",
+  "email": "corsecve@voksel.com",
+  "phone": "(021) 57944622",
+  "fax": "(021) 57944649",
+  "tax_id": "01.000.784.7-054.000",
+  "website": "http://www.voksel.co.id",
+  "listing_date": "1990-12-20",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Kabel",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 18,
+    "name": "Kelistrikan"
+  },
+  "sub_industry": {
+    "id": 38,
+    "name": "Komponen & Peralatan Kelistrikan",
+    "industries_id": 18
+  },
+  "corporate_secretary": {
+    "name": "Melly Triani",
+    "email": "corsecve@voksel.com",
+    "phone": "021-8203525"
+  },
+  "directors": [
+    {
+      "name": "Rizal Nangoy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hua Shun",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ferry Suarly",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wu Hualu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ni Yongqiang",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Linda Lius",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hardi Sasmita",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Huiliang",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tjahyadi Lukiman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wang Xinguo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Linda Lius",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mulyagi Parali",
+      "position": "Anggota"
+    },
+    {
+      "name": "M. Nurdin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hengtong Optic Electric International Co., Limited",
+      "type": "Lebih dari 5%",
+      "shares": 2271920320,
+      "percentage": 54.67
+    },
+    {
+      "name": "Dbs Vickers (hong Kong) Limited A/c Client",
+      "type": "Lebih dari 5%",
+      "shares": 1046500000,
+      "percentage": 25.18
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 830259975,
+      "percentage": 19.98
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 6922300,
+      "percentage": 0.17
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Prima Mitra Elektrindo",
+      "business_type": "Perdagangan Umum, Pembangunan dan Jasa",
+      "total_assets": 97973466092,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Bangun Prima Semesta",
+      "business_type": "Kontraktor Umum, Perdagangan",
+      "total_assets": 69561401717,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Cipta Karya Teknik",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 2583026674,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Buana Konstruksi Elektrindo",
+      "business_type": "Kontraktor Umum dan Perdagangan",
+      "total_assets": 583492402,
+      "ownership_percentage": 99.88
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "897.610.160.520",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,26",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "17,16",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "11,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,74",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "12,60",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:26.824Z"
+}

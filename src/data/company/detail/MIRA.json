@@ -1,0 +1,232 @@
+{
+  "company_name": "Mitra International Resources Tbk",
+  "ticker": "MIRA",
+  "office_address": "Jl. Raya Gunung Putri Km 19 Gunung Putri, Bogor 16962",
+  "email": "corsecmitrarajasa@gmail.com",
+  "phone": "021 - 8671538",
+  "fax": "+62 21 8671536",
+  "tax_id": "01.316.063.5-054.000",
+  "website": "https://www.mitrarajasa.com",
+  "listing_date": "1997-01-30",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa Transportasi Darat",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Arda Billy",
+    "email": "corporatesecretary@mitrarajasa.com",
+    "phone": "(021) 8671237/8671537"
+  },
+  "directors": [
+    {
+      "name": "Wirawan Halim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Darminto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Arda Billy",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Beni Prananto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Huda Nardono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Huda Nardono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Silviana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Shandy Tanamas Dhira",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3268979358,
+      "percentage": 82.49
+    },
+    {
+      "name": "Intikencana Pranajati,pt",
+      "type": "Lebih dari 5%",
+      "shares": 462105014,
+      "percentage": 11.67
+    },
+    {
+      "name": "Mitra Murni Expressindo",
+      "type": "Lebih dari 5%",
+      "shares": 229491667,
+      "percentage": 5.79
+    },
+    {
+      "name": "Beni Prananto",
+      "type": "Komisaris",
+      "shares": 1350000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 876000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wirawan Halim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Darminto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arda Billy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Huda Nardono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pulau Kencana Raya (pkr)",
+      "business_type": "Jasa Penunjang Sektor Energi Minyak dan Gas Bumi Lepas Pantai",
+      "total_assets": 81076031509,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Dinamika Logistik (mdl)",
+      "business_type": "Jasa Pengelolaan Gudang",
+      "total_assets": 25758689187,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Rama Dinamika Raya (rdr)",
+      "business_type": "Industri Karoseri Jasa Angkutan",
+      "total_assets": 3277894433,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Mitra Alpha Dinamika (mad)",
+      "business_type": "Jasa Angkutan",
+      "total_assets": 147419371,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pulau Kencana Oilfield Service (pkos)",
+      "business_type": "Jasa Penunjang Industri Minyak dan Gas Bumi di Daratan",
+      "total_assets": 1000000,
+      "ownership_percentage": 0.17
+    },
+    {
+      "name": "PT Mitra Rajasa Transportindo (mrt)",
+      "business_type": "Jasa Angkutan Darat untuk Tujuan Wisata Sesuai Ijin Trayek",
+      "total_assets": 0,
+      "ownership_percentage": 99.31
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "95.074.848.936",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,50",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "25,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "46,15",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "110,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,55",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "38,24",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:55.808Z"
+}

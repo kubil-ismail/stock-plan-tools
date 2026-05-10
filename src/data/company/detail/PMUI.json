@@ -1,0 +1,179 @@
+{
+  "company_name": "PT Prima Multi Usaha Indonesia Tbk",
+  "ticker": "PMUI",
+  "office_address": "Gedung Grha Prima Indonesia Jl. Tuparev No. 87a, Kabupaten Cirebon, Jawa Barat - 45113",
+  "email": "corsec@pmui.co.id",
+  "phone": "0231 233 500",
+  "fax": "",
+  "tax_id": "0022 4757 9242 6000",
+  "website": "https://www.pmui.co.id",
+  "listing_date": "2025-07-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Telekomunikasidan Aktivitas Konsultasi Manajemen",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Retail.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Retail"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 9,
+    "name": "Distributor Barang Konsumen"
+  },
+  "sub_industry": {
+    "id": 17,
+    "name": "Distributor Barang Konsumen",
+    "industries_id": 9
+  },
+  "corporate_secretary": {
+    "name": "Ari Purwandini",
+    "email": "corsec@pmui.co.id",
+    "phone": "0231 233 500"
+  },
+  "directors": [
+    {
+      "name": "Agus Susanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ari Purwandini",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rudy Susanto Wijaya Kaswan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Theo Lekatompessy",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Theo Lekatompessy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Cindy Widiani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Astried Aprilianti D. Hermawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Rudy Susanto Wijaya Kaswan",
+      "type": "Komisaris",
+      "shares": 3248000000,
+      "percentage": 56
+    },
+    {
+      "name": "Agus Susanto",
+      "type": "Direksi",
+      "shares": 1392000000,
+      "percentage": 24
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1160000000,
+      "percentage": 20
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Graha Prima Mentari Tbk",
+      "business_type": "Perdagangan Besar Fast Moving Consumer Goods (fmcg)",
+      "total_assets": 191501664271,
+      "ownership_percentage": 70.67
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kap Hendry, Ferdy & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "603.200.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,90",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "20,77",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "31,33",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,90",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "39,05",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:38.032Z"
+}

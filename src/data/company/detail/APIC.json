@@ -1,0 +1,180 @@
+{
+  "company_name": "Pacific Strategic Financial Tbk",
+  "ticker": "APIC",
+  "office_address": "Menara Jamsostek, Gedung Menara Utara Lt. 12a Jl. Jend. Gatot Subroto No. 38 Jakarta Selatan 12710",
+  "email": "corpsec@apic.co.id",
+  "phone": "021-39502900",
+  "fax": "021-39502901",
+  "tax_id": "01.341.811.6-054.000",
+  "website": "https://www.apic.co.id",
+  "listing_date": "2002-12-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Investment Company",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Wiyana",
+    "email": "corsec@apic.co.id",
+    "phone": "021-29333740"
+  },
+  "directors": [
+    {
+      "name": "Jon Adijaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wiyana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Agus Herlambang",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Leon Tangi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Leon Tangi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Henny Suwanti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ida Kusumawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7386296101,
+      "percentage": 62.77
+    },
+    {
+      "name": "PT Pan Pacific Investama",
+      "type": "Lebih dari 5%",
+      "shares": 3272225055,
+      "percentage": 27.81
+    },
+    {
+      "name": "PT Pacific Indocorpora",
+      "type": "Lebih dari 5%",
+      "shares": 1107792332,
+      "percentage": 9.42
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pacific Strategic Invesco",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 4535693628121,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pacific Sekuritas Indonesia",
+      "business_type": "Perusahaan Efek",
+      "total_assets": 1256854871072,
+      "ownership_percentage": 94.46
+    },
+    {
+      "name": "PT Pacific Capital Investment",
+      "business_type": "Manajer Investasi",
+      "total_assets": 652529970974,
+      "ownership_percentage": 97.02
+    },
+    {
+      "name": "PT Pacific Multi Finance",
+      "business_type": "Lembaga Pembiayaan",
+      "total_assets": 451872238324,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "22.297.164.059.760",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,54",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "24,01",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "49,78",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "49,14",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,35",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "23,13",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:24.693Z"
+}

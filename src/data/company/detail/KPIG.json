@@ -1,0 +1,345 @@
+{
+  "company_name": "Mnc Tourism Indonesia Tbk",
+  "ticker": "KPIG",
+  "office_address": "Mnc Tower Lt. 17 Jl. Kebon Sirih Kav. 17 - 19, Jakarta Pusat",
+  "email": "corsec.mnctourism@mncgroup.com",
+  "phone": "021 - 392 9828",
+  "fax": "021 - 392 1227",
+  "tax_id": "0013 5307 2005 4000",
+  "website": "https://www.mnctourismindonesia.com",
+  "listing_date": "2000-03-30",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Tourism",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Alex Wardhana",
+    "email": "corporatesecretary.mncland@mncgroup.com",
+    "phone": "021-3929828"
+  },
+  "directors": [
+    {
+      "name": "Hary Tanoesoedibjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "M. Budi Rustanto",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andrian Budi Utama",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Stefan Dharmajaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alex Wardhana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Junita Sari Ujung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ridawaty",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Letjen Tni (purn) Joni Supriyanto",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Liliana Tanaja Tanoesoedibjo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Henry Suparman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Susaningtyas Nefo Handayani Kertopati",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Stien Maria Schouten",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Susaningtyas Nefo Handayani Kertopati",
+      "position": "Ketua"
+    },
+    {
+      "name": "Stien Maria Schouten",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rully Rakhmatullah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 48650041299,
+      "percentage": 48.73
+    },
+    {
+      "name": "PT Mnc Asia Holding Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 25673435380,
+      "percentage": 25.71
+    },
+    {
+      "name": "Uob Kay Hian Hong Kong Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 15725026164,
+      "percentage": 15.75
+    },
+    {
+      "name": "Ht Investment Development Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 8779326700,
+      "percentage": 8.79
+    },
+    {
+      "name": "Hary Tanoesoedibjo",
+      "type": "Direksi",
+      "shares": 917922520,
+      "percentage": 0.92
+    },
+    {
+      "name": "Liliana Tanaja Tanoesoedibjo",
+      "type": "Komisaris",
+      "shares": 74850400,
+      "percentage": 0.07
+    },
+    {
+      "name": "Henry Suparman",
+      "type": "Komisaris",
+      "shares": 22000000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Junita Sari Ujung",
+      "type": "Direksi",
+      "shares": 5330500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Joni Supriyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Susaningtyas Nefo H. Kertopati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Stien Maria Schouten",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "M. Budi Rustanto",
+      "type": "Direksi",
+      "shares": 1478900,
+      "percentage": 0
+    },
+    {
+      "name": "Andrian Budi Utama",
+      "type": "Direksi",
+      "shares": 4000000,
+      "percentage": 0
+    },
+    {
+      "name": "Alex Wardhana",
+      "type": "Direksi",
+      "shares": 3141800,
+      "percentage": 0
+    },
+    {
+      "name": "Michael Stefan Dharmajaya",
+      "type": "Direksi",
+      "shares": 975600,
+      "percentage": 0
+    },
+    {
+      "name": "Ridawaty",
+      "type": "Direksi",
+      "shares": 30000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mnc Development Bali",
+      "business_type": "Pengembang Properti",
+      "total_assets": 52447478774,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Land Lido",
+      "business_type": "Resor, Lapangan Golf & Hotel",
+      "total_assets": 15138420,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Land Bali",
+      "business_type": "Resor, Lapangan Golf & Hotel",
+      "total_assets": 8227553,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Wahana Wisata",
+      "business_type": "Taman Rekreasi",
+      "total_assets": 4506614,
+      "ownership_percentage": 94.53
+    },
+    {
+      "name": "PT Gld Property",
+      "business_type": "Pengembang Properti",
+      "total_assets": 2636590,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Land Surabaya",
+      "business_type": "Pengembang Properti",
+      "total_assets": 1087239,
+      "ownership_percentage": 98.64
+    },
+    {
+      "name": "PT Nusadua Graha International",
+      "business_type": "Hotel & Konvensi",
+      "total_assets": 709478,
+      "ownership_percentage": 53.98
+    },
+    {
+      "name": "PT Global Jasa Sejahtera",
+      "business_type": "Jasa Keamanan",
+      "total_assets": 514372,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Mnc Lido Hotel",
+      "business_type": "Resor & Hotel",
+      "total_assets": 365441,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Lido Resort",
+      "business_type": "Lapangan Golf",
+      "total_assets": 292977,
+      "ownership_percentage": 99.85
+    },
+    {
+      "name": "PT Kios Ria Kreasi",
+      "business_type": "Hotel & Taman Rekreasi",
+      "total_assets": 216913,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Mnc Graha Bali",
+      "business_type": "Pengembang Properti",
+      "total_assets": 19662,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.084.189.078.193",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,76",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "31,85",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,21",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "14,40",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,46",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "31,85",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:42.793Z"
+}

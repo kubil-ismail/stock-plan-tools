@@ -1,0 +1,540 @@
+{
+  "company_name": "Gudang Garam Tbk",
+  "ticker": "GGRM",
+  "office_address": "Jl. Semampir Ii/1 Kediri 64121, Jl. Jend. A. Yani No. 75-79 Jakarta 10510",
+  "email": "corporate_secretary@gudanggaramtbk.com",
+  "phone": "(0354) 682091-97, (021) 29557000",
+  "fax": "(0354) 681555, (021) 29557009",
+  "tax_id": "0011 0715 5265 1000",
+  "website": "https://www.gudanggaramtbk.com",
+  "listing_date": "1990-08-27",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Rokok",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Konstruksi, Media.",
+    "business_tags": [
+      "Logistik",
+      "Konstruksi",
+      "Media"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 31,
+    "name": "Rokok",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 55,
+    "name": "Rokok"
+  },
+  "sub_industry": {
+    "id": 92,
+    "name": "Rokok",
+    "industries_id": 55
+  },
+  "corporate_secretary": {
+    "name": "Heru Budiman",
+    "email": "corporate_secretary@gudanggaramtbk.com",
+    "phone": "(021) 29557000"
+  },
+  "directors": [
+    {
+      "name": "Susilo Wonowidjojo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indra Gunawan Wonowidjojo",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heru Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herry Susianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Istata Taswin Siddharta",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andik Wahyudi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hamdhany Halim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Slamet Budiono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sony Sasono Rahmadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Juni Setiawati Wonowidjojo",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Frank Willem Van Gelder",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Gotama Hengdratsonata",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hanlim Suprianto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hanlim Suprianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fajar Andrianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sukiman Muljana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Suryaduta Investama",
+      "type": "Lebih dari 5%",
+      "shares": 1333146800,
+      "percentage": 69.29
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 328448530,
+      "percentage": 17.07
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 129108640,
+      "percentage": 6.71
+    },
+    {
+      "name": "PT. Suryamitra Kusuma",
+      "type": "Lebih dari 5%",
+      "shares": 120442700,
+      "percentage": 6.26
+    },
+    {
+      "name": "Juni Setiawati Wonowidjojo",
+      "type": "Komisaris",
+      "shares": 11231645,
+      "percentage": 0.58
+    },
+    {
+      "name": "Susilo Wonowidjojo",
+      "type": "Direksi",
+      "shares": 1709685,
+      "percentage": 0.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Surya Dhoho Investama",
+      "business_type": "Penyelenggara Aktivitas Kebandarudaraan/airport Service Activities",
+      "total_assets": 15582188,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Dhoho Investama",
+      "business_type": "Penyelenggaraan Aktivitas Kebandarudaraan/airport Service Activities",
+      "total_assets": 15519869,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Dhoho Investama",
+      "business_type": "Penyelenggara Aktivitas Kebandarudaraan/airport Service Activities",
+      "total_assets": 15480562,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Dhoho Investama",
+      "business_type": "Penyelenggara Aktivitas Kebandarudaraan/airport Service Activities",
+      "total_assets": 15445347,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Madistrindo",
+      "business_type": "Perdagangan/ Trading",
+      "total_assets": 14533728,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Madistrindo",
+      "business_type": "Perdagangan/ Trading",
+      "total_assets": 11683808,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Dhoho Investama",
+      "business_type": "Infrastruktur/infrastructure",
+      "total_assets": 10938200,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Madistrindo",
+      "business_type": "Perdagangan/ Trading",
+      "total_assets": 10430703,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Madistrindo",
+      "business_type": "Perdagangan/ Trading",
+      "total_assets": 10022445,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Madistrindo",
+      "business_type": "Perdagangan/ Trading",
+      "total_assets": 9132891,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Pamenang",
+      "business_type": "Industri Kertas/paper Industry",
+      "total_assets": 2554915,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Pamenang",
+      "business_type": "Industri Kertas/paper Industry",
+      "total_assets": 2516906,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Pamenang",
+      "business_type": "Industri Kertas/paper Industry",
+      "total_assets": 2509866,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Pamenang",
+      "business_type": "Industri Kertas/paper Industry",
+      "total_assets": 2488173,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Pamenang",
+      "business_type": "Industri Kertas/paper Industry",
+      "total_assets": 2426930,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Kerta Agung",
+      "business_type": "Konstruksi/ Construction",
+      "total_assets": 1145191,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Kerta Agung",
+      "business_type": "Konstruksi/ Construction",
+      "total_assets": 1145162,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Kerta Agung",
+      "business_type": "Konstruksi/ Construction",
+      "total_assets": 1145134,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Kerta Agung",
+      "business_type": "Konstruksi/ Construction",
+      "total_assets": 1145107,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Kerta Agung",
+      "business_type": "Konstruksi/ Construction",
+      "total_assets": 1141385,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Sapta Agung Tol",
+      "business_type": "Aktivitas Jalan Tol dan Konstruksi/ Toll Road Activities And Construction",
+      "total_assets": 911235,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Sapta Agung Tol",
+      "business_type": "Aktivitas Jalan Tol dan Konstruksi/ Toll Road Activities And Construction",
+      "total_assets": 901287,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Prime Galaxy Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 663555,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prime Galaxy Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 647371,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prime Galaxy Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 639279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prime Galaxy Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 631187,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prime Galaxy Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 623094,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Inti Tembakau",
+      "business_type": "Industri Pengolahan Tembakau/ Tobacco Processing Industry",
+      "total_assets": 538657,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Inti Tembakau",
+      "business_type": "Industri Pengolahan Tembakau/ Tobacco Processing Industry",
+      "total_assets": 536447,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Inti Tembakau",
+      "business_type": "Industri Pengolahan Tembakau/ Tobacco Processing Industry",
+      "total_assets": 530219,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Inti Tembakau",
+      "business_type": "Industri Pengolahan Tembakau/ Tobacco Processing Industry",
+      "total_assets": 519621,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Air",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 493520,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Inti Tembakau",
+      "business_type": "Industri Pengolahan Tembakau/ Tobacco Processing Industry",
+      "total_assets": 491795,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Air",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 488716,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Air",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 481452,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Air",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 471311,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Air",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 467840,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Sapta Agung Tol",
+      "business_type": "Aktivitas Jalan Tol dan Konstruksi/ Toll Road Activities And Construction",
+      "total_assets": 299972,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Galaxy Prime Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 249249,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Galaxy Prime Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 241696,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Galaxy Prime Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 237920,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Galaxy Prime Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 234144,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Galaxy Prime Ltd.",
+      "business_type": "Jasa Transportasi Udara Tidak Terjadwal/ Non- Scheduled Air Transport Services",
+      "total_assets": 230367,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Surya Media",
+      "business_type": "Jasa Hiburan/ Entertainment Services",
+      "total_assets": 200107,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Surya Media",
+      "business_type": "Jasa Hiburan/ Entertainment Services",
+      "total_assets": 194566,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Surya Media",
+      "business_type": "Jasa Hiburan/ Entertainment Services",
+      "total_assets": 193557,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Surya Media",
+      "business_type": "Jasa Hiburan/ Entertainment Services",
+      "total_assets": 191451,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Surya Media",
+      "business_type": "Jasa Hiburan/ Entertainment Services",
+      "total_assets": 183048,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Abadi Semesta",
+      "business_type": "Industri Peralatan Pelindung Keselamatan/safety Protective Equipments Industry",
+      "total_assets": 38726,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Abadi Semesta",
+      "business_type": "Industri Peralatan Pelindung Keselamatan/safety Protective Equipments Industry",
+      "total_assets": 38295,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Abadi Semesta",
+      "business_type": "Industri Peralatan Pelindung Keselamatan/safety Protective Equipments Industry",
+      "total_assets": 37945,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Abadi Semesta",
+      "business_type": "Industri Peralatan Pelindung Keselamatan/safety Protective Equipments Industry",
+      "total_assets": 37729,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Abadi Semesta",
+      "business_type": "Industri Peralatan Pelindung Keselamatan/safety Protective Equipments Industry",
+      "total_assets": 37089,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "30.785.408.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "14,55",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,36",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "0,74",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "74,22",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,40",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "22,53",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:01.890Z"
+}

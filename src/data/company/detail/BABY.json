@@ -1,0 +1,212 @@
+{
+  "company_name": "PT Multitrend Indo Tbk.",
+  "ticker": "BABY",
+  "office_address": "Gedung Menara Era Lt. 14-02 Jl. Senen Raya No. 135-137 Dki Jakarta 10410",
+  "email": "corporate.secretary@kanmogroup.com",
+  "phone": "021 352 0729",
+  "fax": "021 352 0724",
+  "tax_id": "02.109.702.7-073.000",
+  "website": "https://kanmomultitrend.id",
+  "listing_date": "2023-09-07",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan Eceran Pakaian dan Mainan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 91,
+    "name": "Ritel Pakaian & Tekstil",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Nauli Masitha Dewi",
+    "email": "corporate.secretary@kanmogroup.com",
+    "phone": "021 352 0729"
+  },
+  "directors": [
+    {
+      "name": "Niraj Jain",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jitin Singh Kapoor",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lina Paulina",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hasan Sameer Abdulla Ahmed Alshuwaikh",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Oke Nurwan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adrian Colin Mckay",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Manoj Bharwani",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nigel Tham Wei yang",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Adrian Colin Mckay",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dodi Suparjo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Serli Amelia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Blooming Years Pte, Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 2416077906,
+      "percentage": 92.35
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 200148800,
+      "percentage": 7.65
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kanmo Multi Gemilang",
+      "business_type": "Perdagangan Impor dan Distribusi",
+      "total_assets": 121906897961,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kanmo Garment Indo",
+      "business_type": "Industri Garmen",
+      "total_assets": 2621528146,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kanmo Retail Gemilang",
+      "business_type": "Perdagangan Retail",
+      "total_assets": 89668852,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "654.056.676.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "20,63",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "21,38",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "30,91",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "38,04",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,87",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "31,33",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:03.870Z"
+}

@@ -1,0 +1,214 @@
+{
+  "company_name": "PT Victoria Insurance Tbk.",
+  "ticker": "VINS",
+  "office_address": "Graha Bip Lantai 3a, Jl. Jend. Gatot Subroto Kav. 23 Jakarta Selatan 12930",
+  "email": "corsec@victoriainsurance.co.id",
+  "phone": "021 3005 5555",
+  "fax": "-",
+  "tax_id": "01.108.147.8-036.000",
+  "website": "https://www.victoriainsurance.co.id",
+  "listing_date": "2015-09-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Asuransi Umum",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Netta Ivana Calista",
+    "email": "corsec@victoriainsurance.co.id",
+    "phone": "021-300-55555"
+  },
+  "directors": [
+    {
+      "name": "Drs. Fatchurhuda",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Rosalina Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suwandi Suharto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sulistijowati",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jimmy Paulus Watulingas",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tomi Parisianto Wibowo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Vivekanand Atmaram Tolani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Temmy Afiano",
+      "position": "Anggota"
+    },
+    {
+      "name": "Susanti Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Victoria Investama Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1319359038,
+      "percentage": 84.93
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 234071721,
+      "percentage": 15.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sulistijowati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tomi Parisianto Wibowo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jimmy Paulus Watulingas",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suwandi Suharto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fatchurhuda, Drs",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rosalina Gunawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "259.422.936.753",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,20",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "19,90",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "5,77",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "43,48",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,20",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "4,62",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:23.002Z"
+}

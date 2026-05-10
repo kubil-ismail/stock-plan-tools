@@ -1,0 +1,180 @@
+{
+  "company_name": "PT Pelayaran Kurnia Lautan Semesta Tbk",
+  "ticker": "KLAS",
+  "office_address": "Rukan Grand Puri Niaga Jl. Puri Kencana Blok K6 No 3-o Kel. Kembangan Selatan, Kec. Kembangan Kota Administrasi Jakarta Barat 11610",
+  "email": "corsec@pelayarankls.co.id",
+  "phone": "(021) 5835 1606",
+  "fax": "(021) 5835 1607",
+  "tax_id": "03.078.308.8-086.000",
+  "website": "https://(021)58351607",
+  "listing_date": "2023-06-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "angkutan laut dalam negeri barang umum, aktivitas perusahaan holding dan aktivitas jasa konsultasi manajemen lainnyaserta melakukan investasi melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Eva Arnas Ernawati",
+    "email": "corsec@pelayarankls.co.id",
+    "phone": "(021) 5835 1606"
+  },
+  "directors": [
+    {
+      "name": "Kurnyatjan Sakti Efendie",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Novi Susanti",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Frederick Rompas",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Nickolas Tjan Sakti Efendie",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Frederick Rompas",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aga Nugraha",
+      "position": "Anggota"
+    },
+    {
+      "name": "Benito Juriman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Kurnyatjan Sakti Efendie",
+      "type": "Direksi",
+      "shares": 2611997395,
+      "percentage": 71.67
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1028999310,
+      "percentage": 28.24
+    },
+    {
+      "name": "Nickolas Tjan Sakti Efendie",
+      "type": "Komisaris",
+      "shares": 3419270,
+      "percentage": 0.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "306.130.941.900",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,41",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,35",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "32,03",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "32,56",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,41",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "37,86",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:29.925Z"
+}

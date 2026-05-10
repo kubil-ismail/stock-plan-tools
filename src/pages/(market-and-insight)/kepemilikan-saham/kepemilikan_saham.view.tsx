@@ -1,5 +1,5 @@
 "use client";
-import shareholder from "@/data/shareholders.json";
+import shareholder from "@/data/archive/shareholders.json";
 import ShareholderGrid from "@/components/shareholderGrid";
 import { useParams } from "next/navigation";
 import { useMemo, useState } from "react";

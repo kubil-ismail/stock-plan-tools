@@ -1,0 +1,168 @@
+{
+  "company_name": "Duta Pertiwi Tbk",
+  "ticker": "DUTI",
+  "office_address": "Sinar Mas Land Plaza Wing 3b, Bsd Green Office Park, Jl. Grand Boulevard, Bsd City Tangerang 15345",
+  "email": "corporate.secretary@sinarmasland.com",
+  "phone": "021 - 50368368",
+  "fax": "021 - 50588270",
+  "tax_id": "01.314.094.2-092.000",
+  "website": "https://www.sinarmasland.com",
+  "listing_date": "1994-11-02",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Susan",
+    "email": "susan.wtj@sinarmasland.com",
+    "phone": "021-50368368"
+  },
+  "directors": [
+    {
+      "name": "Teky Mailoa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lie Jani Harjanto",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hongky Jeffry Nantung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Handoko Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muktar Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Franciscus Xaverius Rd",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Teddy Pawitra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Susiyati Bambang Hirawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Teddy Pawitra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rudiantara",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rizal E. Halim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bumi Serpong Damai Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1839074899,
+      "percentage": 99.41
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 10010876,
+      "percentage": 0.54
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 914225,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "7.918.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,44",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "0,24",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "4,43",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "19,88",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,53",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "4,65",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:14.059Z"
+}

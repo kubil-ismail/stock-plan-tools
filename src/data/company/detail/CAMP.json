@@ -1,0 +1,231 @@
+{
+  "company_name": "PT Campina Ice Cream Industry Tbk.",
+  "ticker": "CAMP",
+  "office_address": "Jl. Rungkut Industri Ii/ 15-17 Surabaya, Rt.002 Rw.006 Kel. Tenggilis Mejoyo Kec. Tenggilis Mejoyo, Surabaya",
+  "email": "corsec@campina.co.id",
+  "phone": "(031) 843-2247",
+  "fax": "(031) 843-9232",
+  "tax_id": "0017 2274 1463 1000",
+  "website": "https://www.campina.co.id",
+  "listing_date": "2017-12-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Pengolahan Es Krim",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 81,
+    "name": "Produk Susu Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Sagita Melati",
+    "email": "corsec@campina.co.id",
+    "phone": "031-8432247"
+  },
+  "directors": [
+    {
+      "name": "Samudera Prawirawidjaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arif Harmoko Rayadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hans Jensen",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendro Hadipranoto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adji Andjono Purwo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Insinyur Jutianto Isnandar",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Doktorandus Makmur Widjaja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Doktorandus Makmur Widjaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bing Hartono Poernomosidi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rudy Soraya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sabana Prawirawidjaja",
+      "type": "Lebih dari 5%",
+      "shares": 4940010100,
+      "percentage": 83.94
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 557525000,
+      "percentage": 9.48
+    },
+    {
+      "name": "Justiani Hadipranoto",
+      "type": "Lebih dari 5%",
+      "shares": 297974000,
+      "percentage": 5.06
+    },
+    {
+      "name": "Hendro Hadipranoto",
+      "type": "Direksi",
+      "shares": 89430900,
+      "percentage": 1.52
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 10000,
+      "percentage": 0
+    },
+    {
+      "name": "Adji Andjono Purwo",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Kap Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Kap Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Kap Supoyo, Sutjahjo, Subyantara & Rekan"
+    },
+    {
+      "name": "Supoyo, Sutjahjo, Subyantara & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.200.540.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,98",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,48",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,17",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "5,32",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "7,48",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:50.716Z"
+}

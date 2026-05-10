@@ -1,0 +1,198 @@
+{
+  "company_name": "PT Sepeda Bersama Indonesia Tbk",
+  "ticker": "BIKE",
+  "office_address": "Jl. Alam Sutera Boulevard Kav. 12a, Pakulon, Serpong Utara Tangerang Selatan, Banten 15325",
+  "email": "corsec@sepedabersamaindonesia.co.id",
+  "phone": "(+62-21) 3005 2633",
+  "fax": "(+62-21) 3005 2622",
+  "tax_id": "83.308.799.2-411.000",
+  "website": "https://www.sepedabersamaindonesia.co.id",
+  "listing_date": "2022-03-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Alat Olahraga & Perdagangan Besar Alat Transportasi Darat (Bukan Mobil, Sepeda Motor, dan sejenisnya), Suku Cadang dan Perlengkapannya",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 6,
+    "name": "Barang Rekreasi",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 42,
+    "name": "Peralatan Olah Raga & Barang Hobi"
+  },
+  "sub_industry": {
+    "id": 65,
+    "name": "Peralatan Olah Raga & Barang Hobi",
+    "industries_id": 42
+  },
+  "corporate_secretary": {
+    "name": "Winston Mulyadi",
+    "email": "corsec@sepedabersamaindonesia.co.id",
+    "phone": "+62-21 30052633"
+  },
+  "directors": [
+    {
+      "name": "Andrew Mulyadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Winston Mulyadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Henry Mulyadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Muh Nur Rahmad",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tito Loho",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lie Siok Hoa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Natalia Sanjaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Andrew Mulyadi",
+      "type": "Direksi",
+      "shares": 327375000,
+      "percentage": 25.3
+    },
+    {
+      "name": "Henry Mulyadi",
+      "type": "Komisaris",
+      "shares": 327375000,
+      "percentage": 25.3
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 323916404,
+      "percentage": 25.03
+    },
+    {
+      "name": "Stephen Mulyadi",
+      "type": "Lebih dari 5%",
+      "shares": 266750000,
+      "percentage": 20.62
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 48500000,
+      "percentage": 3.75
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Winston Mulyadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muh Nur Rahmad",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "659.897.366.040",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "14,86",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "8,05",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "38,55",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "9,73",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "31,08",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:44.301Z"
+}

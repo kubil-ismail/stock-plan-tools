@@ -1,0 +1,178 @@
+{
+  "company_name": "Trust Finance Indonesia Tbk",
+  "ticker": "TRUS",
+  "office_address": "Artha Graha Building Lantai 21 Jl. Jend. Sudirman Kav.52-53 Jakarta 12190",
+  "email": "tfi_pusat@yahoo.com",
+  "phone": "021-5155477",
+  "fax": "021-5155484",
+  "tax_id": "01.349.130.3-054.000",
+  "website": "https://www.trustfinanceindonesia.com",
+  "listing_date": "2002-11-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Windy Wijaya",
+    "email": "windy_tfi@yahoo.co.id",
+    "phone": "021-5155477"
+  },
+  "directors": [
+    {
+      "name": "Suparman Sulina",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tandijono Koko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suhiwan Budiyanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Renee Tang",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Halim Kesuma",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Halim Kesuma",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wifin Supinawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wira Natapraja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Majujaya Terus Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 240000000,
+      "percentage": 30
+    },
+    {
+      "name": "PT. Artha Capital Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 223760000,
+      "percentage": 27.97
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 165785000,
+      "percentage": 20.72
+    },
+    {
+      "name": "PT. Artha Perdana Investama",
+      "type": "Lebih dari 5%",
+      "shares": 74760000,
+      "percentage": 9.35
+    },
+    {
+      "name": "Hendry Hartato",
+      "type": "Lebih dari 5%",
+      "shares": 56190000,
+      "percentage": 7.02
+    },
+    {
+      "name": "Renee Tang",
+      "type": "Komisaris",
+      "shares": 39505000,
+      "percentage": 4.94
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "307.200.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,50",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,31",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "13,95",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "24,49",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,63",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "20,94",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:03.374Z"
+}

@@ -1,0 +1,231 @@
+{
+  "company_name": "PT Gihon Telekomunikasi Indonesia Tbk",
+  "ticker": "GHON",
+  "office_address": "Apl Tower-central Park 19th Floor/unit T7 Jl. S. Parman Kav.28 Jakarta Barat 1147",
+  "email": "investor.relation@gihon-indonesia.com",
+  "phone": "021 - 29659371",
+  "fax": "0",
+  "tax_id": "002.038.123.2-038.000",
+  "website": "https://www.gihon-indonesia.com",
+  "listing_date": "2018-04-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Penunjang Telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 17,
+    "name": "Jasa Telekomunikasi Nirkabel"
+  },
+  "sub_industry": {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  "corporate_secretary": {
+    "name": "Yoyong",
+    "email": "investor.relation@gihon-indonesia.com",
+    "phone": "021-80511652"
+  },
+  "directors": [
+    {
+      "name": "Rudolf Parningotan Nainggolan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jonni Pangaribuan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yoyong",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Drs. Kumari Ak",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Felix Ariodamar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Aria Kanaka",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Aria Kanaka",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nyaryanti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Andreas Adoe",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tower Bersama Infrastructure Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 277337700,
+      "percentage": 50.425
+    },
+    {
+      "name": "Rudolf Parningotan Nainggolan",
+      "type": "Direksi",
+      "shares": 198395080,
+      "percentage": 36.0718
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 72973630,
+      "percentage": 13.268
+    },
+    {
+      "name": "Felix Ariodamar",
+      "type": "Komisaris",
+      "shares": 986090,
+      "percentage": 0.1793
+    },
+    {
+      "name": "Yoyong",
+      "type": "Direksi",
+      "shares": 307500,
+      "percentage": 0.0559
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Global Patra Sinertama",
+      "business_type": "Jaringan Fiber Optik",
+      "total_assets": 65398193,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Global Patra Sinertama",
+      "business_type": "Jaringan Fiber Optik",
+      "total_assets": 63035860,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Global Patra Sinertama",
+      "business_type": "Jaringan Fiber Optik",
+      "total_assets": 63000435,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Global Patra Sinertama",
+      "business_type": "Jaringan Fiber Optik",
+      "total_assets": 62732036,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Global Patra Sinertama",
+      "business_type": "Instalasi Telekomunikasi dan Aktivitas Telekomunikasi dengan Kabal",
+      "total_assets": 54069163,
+      "ownership_percentage": 30
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": ""
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "984.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,11",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,39",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "6,43",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "17,80",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,68",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "10,98",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:03.622Z"
+}

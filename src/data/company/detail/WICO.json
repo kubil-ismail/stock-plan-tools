@@ -1,0 +1,232 @@
+{
+  "company_name": "Wicaksana Overseas International Tbk",
+  "ticker": "WICO",
+  "office_address": "Jl. Ancol Barat VII Blok A5d No. 2 Jakarta Utara",
+  "email": "corporate_wico@dksh.com",
+  "phone": "021-629 7293; 690 9244",
+  "fax": "021-690 9436; 692 7766",
+  "tax_id": "01.300.066.6-054.000",
+  "website": "https://www.wicaksana.co.id",
+  "listing_date": "1994-08-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Makanan, Minuman, dan lainnya.",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 86,
+    "name": "Ritel & Distributor Makanan",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Theodorus Warlando Ginting",
+    "email": "theodorus.ginting@dksh.com",
+    "phone": "021-692 7293; 690 9244"
+  },
+  "directors": [
+    {
+      "name": "Andika Laksmana Putra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Theodorus Warlando Ginting S.",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ameya Atul Badwe",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yosie Ampang Kuranji",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arini Imamawati",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Agustinus Nicholas Lumban Tobing",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agustinus Nicholas L Tobing",
+      "position": "Ketua"
+    },
+    {
+      "name": "Alpin Napitupulu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ctla Safekeeping Account Dksh Holding Lt D",
+      "type": "Lebih dari 5%",
+      "shares": 2286096532,
+      "percentage": 95.504
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 107613816,
+      "percentage": 4.496
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andika Laksmana Putra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Theodorus Warlando Ginting",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ameya Atul Badwe",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yosie Ampang Kuranji",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arini Imamawati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agustinus Nicholas Lumban Tobing",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wicaksana Supra Ekatama (wse)",
+      "business_type": "Induk Perusahaan untuk Pusat Perdagangan Besar",
+      "total_assets": 36212863391,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Wicaksana Supra Ekatama (wse)",
+      "business_type": "Induk Perusahaan untuk Pusat Perdagangan Besar",
+      "total_assets": 36212863391,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Wicaksana Supra Ekatama (wse)",
+      "business_type": "Induk Perusahaan untuk Pusat Perdagangan Besar/holding Company For Trading Center",
+      "total_assets": 36212863391,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Wicaksana Supra Ekatama (wse)",
+      "business_type": "Induk Perusahaan untuk Pusat Perdagangan Besar",
+      "total_assets": 36212863391,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Wicaksana Supra Ekatama (wse)",
+      "business_type": "Induk Perusahaan untuk Pusat Perdagangan Besar",
+      "total_assets": 36212863391,
+      "ownership_percentage": 99.97
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "294.426.372.804",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:34.119Z"
+}

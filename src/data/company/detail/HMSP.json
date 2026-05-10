@@ -1,0 +1,555 @@
+{
+  "company_name": "Hm Sampoerna Tbk",
+  "ticker": "HMSP",
+  "office_address": "One Pacific Place Sudirman Central Business District (SCBD) Lantai 18 Jl. Jend. Sudirman Kav. 52-53 Jakarta - 12190 Indonesia",
+  "email": "sampoerna.corporate@sampoerna.com",
+  "phone": "021-5151-234",
+  "fax": "021-5152-234",
+  "tax_id": "01.108.205.4-631.000",
+  "website": "https://www.sampoerna.com",
+  "listing_date": "1990-08-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Produk Tembakau",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Manufaktur.",
+    "business_tags": [
+      "Properti",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 31,
+    "name": "Rokok",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 55,
+    "name": "Rokok"
+  },
+  "sub_industry": {
+    "id": 92,
+    "name": "Rokok",
+    "industries_id": 55
+  },
+  "corporate_secretary": {
+    "name": "Maharani Djody Putri",
+    "email": "corporate.secretary@sampoerna.com",
+    "phone": "021 5151234"
+  },
+  "directors": [
+    {
+      "name": "Houria Raselma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Elvira Lianita",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "The Ivan Cahyadi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Johannes Hendrikus Bink",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sharmen Karthigasu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Reno Bontemps",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andre Dahan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Paul Norman Janelle",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mindaugas Trumpaitis",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Justin Guy Mayall",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Luthfi Mardiansyah",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lama",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lama",
+      "position": "Anggota"
+    },
+    {
+      "name": "Baru",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Philip Morris Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 107523239925,
+      "percentage": 92.44
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8726268275,
+      "percentage": 7.5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 68568700,
+      "percentage": 0.06
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Luthfi Mardiansyah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "The Ivan Cahyadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Elvira Lianita",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Houria Raselma",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sharmen Karthigasu",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johan Bink",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Reno Bontemps",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andre Dahan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yohan Lesmana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rianto Probo Hartono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Paul Norman Janelle",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Justin Guy Mayall",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mindaugas Trumpaitis",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Perusahaan Dagang dan Industri Panamas",
+      "business_type": "Distribusi Rokok",
+      "total_assets": 676812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perusahaan Dagang dan Industri Panamas",
+      "business_type": "Distribusi Rokok",
+      "total_assets": 676812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perusahaan Dagang dan Industri Panamas",
+      "business_type": "Distribusi Rokok",
+      "total_assets": 649362,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perusahaan Dagang dan Industri Panamas",
+      "business_type": "Distribusi Rokok",
+      "total_assets": 645870,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perusahaan Dagang dan Industri Panamas",
+      "business_type": "Distribusi Rokok",
+      "total_assets": 629217,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Taman Dayu",
+      "business_type": "Pengembangan Properti",
+      "total_assets": 301900,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Persada Makmur Indonesia",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 299526,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Persada Makmur Indonesia",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 299526,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sampoerna Indonesia Sembilan",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 249063,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sampoerna Indonesia Sembilan",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 177895,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sampoerna Indonesia Sembilan",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 177895,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Persada Makmur Indonesia",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 156529,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Persada Makmur Indonesia",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 153495,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sampoerna Indonesia Sembilan",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 148169,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sampoerna Indonesia Sembilan",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 146385,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Persada Makmur Indonesia",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 126275,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Src Indonesia Sembilan",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 106009,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Src Indonesia Sembilan",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 106009,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Src Indonesia Sembilan",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 91992,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Src Indonesia Sembilan",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 89014,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Src Indonesia Sembilan",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 80186,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Golf Taman Dayu",
+      "business_type": "Wisata dan Jasa Lapangan Golf",
+      "total_assets": 39781,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sampoerna",
+      "business_type": "Properti, Perdagangan, dan Jasa",
+      "total_assets": 13054,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sampoerna",
+      "business_type": "Properti, Perdagangan, dan Jasa",
+      "total_assets": 11518,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sampoerna",
+      "business_type": "Properti, Perdagangan, dan Jasa",
+      "total_assets": 11518,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sampoerna",
+      "business_type": "Properti, Perdagangan, dan Jasa",
+      "total_assets": 10470,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sampoerna",
+      "business_type": "Properti, Perdagangan, dan Jasa",
+      "total_assets": 10430,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sampoerna International Pte. Ltd.",
+      "business_type": "Investasi Saham pada Perusahaan-perusahaan Lain",
+      "total_assets": 2829,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sampoerna International Pte. Ltd.",
+      "business_type": "Investasi Saham pada Perusahaan-perusahaan Lain",
+      "total_assets": 2829,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sampoerna International Pte. Ltd.",
+      "business_type": "Investasi Saham pada Perusahaan-perusahaan Lain",
+      "total_assets": 2739,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sampoerna International Pte. Ltd.",
+      "business_type": "Investasi Saham pada Perusahaan-perusahaan Lain",
+      "total_assets": 2697,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sampoerna International Pte. Ltd.",
+      "business_type": "Investasi Saham pada Perusahaan-perusahaan Lain",
+      "total_assets": 2435,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perusahaan Dagang dan Industri Panamas",
+      "business_type": "Distribusi Rokok",
+      "total_assets": 690,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harapan Karya Sembilan",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 235,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harapan Maju Sentosa",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 235,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harapan Maju Sentosa",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 235,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harapan Maju Sentosa",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 235,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harapan Maju Sentosa",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 235,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harapan Maju Sentosa",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 235,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sampoerna Indonesia Sembilan",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 182,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Persada Makmur Indonesia",
+      "business_type": "Manufaktur dan Perdagangan Rokok",
+      "total_assets": 124,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Src Indonesia Sembilan",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 101,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sampoerna",
+      "business_type": "Properti, Perdagangan, dan Jasa",
+      "total_assets": 11,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sampoerna International Pte. Ltd.",
+      "business_type": "Investasi Saham pada Perusahaan-perusahaan Lain",
+      "total_assets": 3,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Golf Taman Dayu",
+      "business_type": "Wisata dan Jasa Lapangan Golf",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Golf Taman Dayu",
+      "business_type": "Wisata dan Jasa Lapangan Golf",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Taman Dayu",
+      "business_type": "Pengembangan Properti",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Taman Dayu",
+      "business_type": "Pengembangan Properti",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "87.238.557.675.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,66",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "13,14",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "11,11",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "25,62",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,01",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "2,70",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:44.789Z"
+}

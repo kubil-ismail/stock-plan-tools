@@ -1,0 +1,258 @@
+{
+  "company_name": "PT Saptausaha Gemilangindah Tbk",
+  "ticker": "SAGE",
+  "office_address": "Jl. Kramat Raya No. 32-34 Kel. Kramat Kec. Senen, Jakarta Pusat, Dki Jakarta 10450 Telp.: +6221 391 6338",
+  "email": "corsec@saptagroup.com",
+  "phone": "+6221 391 6338",
+  "fax": "+6221 319 5557",
+  "tax_id": "01.577.929.1-023.000",
+  "website": "https://www.saptagroup.com",
+  "listing_date": "2023-03-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang real estat",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Cindy Veronica Jong",
+    "email": "corsec@saptagroup.com",
+    "phone": "+6221 391 6338"
+  },
+  "directors": [
+    {
+      "name": "Edward Halim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Cindy Veronica Jong",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Erwin Tan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Handry Soesanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Handry Soesanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Minaldi Muffid Kamil",
+      "position": "Anggota"
+    },
+    {
+      "name": "Opri Simbolon",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Benteng Terang Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 5623599800,
+      "percentage": 70
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1609927460,
+      "percentage": 20.04
+    },
+    {
+      "name": "Edward Halim",
+      "type": "Direksi",
+      "shares": 775000000,
+      "percentage": 9.65
+    },
+    {
+      "name": "Erwin Tan",
+      "type": "Komisaris",
+      "shares": 25000000,
+      "percentage": 0.31
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cindy Veronica Jong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Handry Soesanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pilar Loka Karya",
+      "business_type": "Real Estat, Konsultasi Manajemen Lainnya, Keinsinyuran dan Konsultasi Teknis Ybdi",
+      "total_assets": 3609701370,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Pilar Loka Karya",
+      "business_type": "Real Estat, Konsultasi Manajemen Lainnya, Keinsinyuran dan Konsultasi Teknis Ybdi",
+      "total_assets": 3609701370,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Pilar Loka Karya",
+      "business_type": "Real Estat, Konsultasi Manajemen Lainnya, Keinsinyuran dan Konsultasi Teknis Ybdi",
+      "total_assets": 3609701370,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Pilar Loka Karya",
+      "business_type": "Jasa Manajemen dan Konsultan",
+      "total_assets": 2193199604,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Pilar Loka Karya",
+      "business_type": "Jasa Manajemen dan Konsultan",
+      "total_assets": 2190598134,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Pilar Loka Karya",
+      "business_type": "Jasa Manajemen dan Konsultan",
+      "total_assets": 2184156837,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Pilar Loka Karya",
+      "business_type": "Jasa Manajemen dan Konsultan",
+      "total_assets": 2159544925,
+      "ownership_percentage": 99.6
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "241.005.817.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,68",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,65",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "12,50",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "100,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,67",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "20,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:59.940Z"
+}

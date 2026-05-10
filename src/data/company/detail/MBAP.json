@@ -1,0 +1,464 @@
+{
+  "company_name": "PT Mitrabara Adiperdana Tbk",
+  "ticker": "MBAP",
+  "office_address": "Grha Baramulti Komp.harmoni Blok 8a Jl.suryopranoto No. 2 Jakarta Pusat 10130 Indonesia",
+  "email": "corsec@mitrabaraadiperdana.co.id",
+  "phone": "+6221 63864061",
+  "fax": "+6221 63864062",
+  "tax_id": "01.589.137.7-091.000",
+  "website": "https://0",
+  "listing_date": "2014-07-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Batubara, Energi.",
+    "business_tags": [
+      "Agribisnis",
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Meliana Gunawan",
+    "email": "corsec@mitrabaraadiperdana.co.id",
+    "phone": "021-63856211"
+  },
+  "directors": [
+    {
+      "name": "Khoirudin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yulius Leonardo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Helmy Paramaditya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dani Prastiadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Doktorandus Doddy Sumantyawan Hadidojo Soedaryo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Abdullah Farid Siddik",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Abdullah Farid Siddik",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rallyati A. Wibowo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rifky Adrianto Firdaus",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Wahana Sentosa Cemerlang",
+      "type": "Lebih dari 5%",
+      "shares": 736363152,
+      "percentage": 60
+    },
+    {
+      "name": "PT Wahana Batubara Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 368181600,
+      "percentage": 30
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 119126000,
+      "percentage": 9.7069
+    },
+    {
+      "name": "Khoirudin",
+      "type": "Direksi",
+      "shares": 3408100,
+      "percentage": 0.2776
+    },
+    {
+      "name": "Yulius Leonardo",
+      "type": "Direksi",
+      "shares": 184000,
+      "percentage": 0.0149
+    },
+    {
+      "name": "Dani Prastiadi",
+      "type": "Direksi",
+      "shares": 7100,
+      "percentage": 0.0005
+    },
+    {
+      "name": "Helmy Paramaditya",
+      "type": "Direksi",
+      "shares": 2000,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 64257172,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 51983997,
+      "ownership_percentage": 99.995
+    },
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 51983997,
+      "ownership_percentage": 99.995
+    },
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 40733695,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 40733695,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 40733695,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 38878451,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 37391146,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Baradinamika Mudasukses",
+      "business_type": "Pertambangan",
+      "total_assets": 36677831,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Mitra Malinau Energi",
+      "business_type": "Pembangkit Listrik Tenaga Biomassa",
+      "total_assets": 14572792,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Malinau Energi",
+      "business_type": "Pembangkit Listrik Tenaga Biomassa",
+      "total_assets": 14572792,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Malinau Energi",
+      "business_type": "Pembangkit Listrik Tenaga Biomassa",
+      "total_assets": 14572792,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Malinau Energi",
+      "business_type": "Pembangkit Listrik Tenaga Biomassa",
+      "total_assets": 13460402,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Malinau Hijau Lestari",
+      "business_type": "Perkebunan",
+      "total_assets": 12599551,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Malinau Hijau Lestari",
+      "business_type": "Perkebunan",
+      "total_assets": 12599551,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Malinau Hijau Lestari",
+      "business_type": "Perkebunan",
+      "total_assets": 12599551,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Malinau Hijau Lestari",
+      "business_type": "Perkebunan",
+      "total_assets": 12061021,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Malinau Energi",
+      "business_type": "Pembangkit Listrik Tenaga Biomassa",
+      "total_assets": 8784861,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Malinau Energi",
+      "business_type": "Pembangkit Listrik Tenaga Biomassa",
+      "total_assets": 8784861,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Malinau Hijau Lestari",
+      "business_type": "Perkebunan",
+      "total_assets": 7440427,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitramuda Makmur",
+      "business_type": "Jasa Penambangan",
+      "total_assets": 7184132,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitramuda Makmur",
+      "business_type": "Jasa Penambangan",
+      "total_assets": 7184132,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitramuda Makmur",
+      "business_type": "Jasa Penambangan",
+      "total_assets": 7184132,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Malinau Hijau Lestari",
+      "business_type": "Perkebunan",
+      "total_assets": 7118434,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitradelta Bahari Pratama",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 6358556,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Mitradelta Bahari Pratama",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 6358556,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Mitradelta Bahari Pratama",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 6358556,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Mitradelta Bahari Pratama",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 6027980,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Mitradelta Bahari Pratama",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 5921774,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Mitradelta Bahari Pratama",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 5648941,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Mitramuda Makmur",
+      "business_type": "Jasa Penambangan",
+      "total_assets": 5243737,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Alam Bahari Sentosa",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 5113696,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Mitra Alam Bahari Sentosa",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 5113696,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Mitra Alam Bahari Sentosa",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 5113696,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Mitra Alam Bahari Sentosa",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 5015957,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Mitra Alam Bahari Sentosa",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 4878551,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Mitra Alam Bahari Sentosa",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 4723649,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Mitramuda Makmur",
+      "business_type": "Jasa Penambangan",
+      "total_assets": 4449332,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitramuda Makmur",
+      "business_type": "Jasa Penambangan",
+      "total_assets": 3106900,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Malinau Hijau Lestari",
+      "business_type": "Perkebunan",
+      "total_assets": 2030165,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Mitra Malinau Energi",
+      "business_type": "Pembangkit Listrik Tenaga Biomassa",
+      "total_assets": 664511,
+      "ownership_percentage": 99.999
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Suherman & Surja"
+    },
+    {
+      "name": "Purwantono, Suherman & Surja"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Purwantono, Suherman & Surja"
+    },
+    {
+      "name": "Purwantono, Suherman & Surja"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.024.998.720.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,00",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "0,31",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1,25",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "12,43",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,99",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "1,57",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:26.601Z"
+}

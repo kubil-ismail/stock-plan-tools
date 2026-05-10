@@ -1,0 +1,521 @@
+{
+  "company_name": "PT Putra Mandiri Jembar Tbk",
+  "ticker": "PMJS",
+  "office_address": "Dipo Tower, Lantai 18 Jl. Jend. Gatot Subroto Kav.51-52 Jakarta 10260, Indonesia",
+  "email": "corpsec@ptpmj.co.id",
+  "phone": "(021) 30060000",
+  "fax": "(021) 30060088",
+  "tax_id": "02.121.210.5-072.000",
+  "website": "https://www.ptpmj.co.id",
+  "listing_date": "2019-12-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Kegiatan Perseroan dan Entitas Anak meliputi kegiatan usaha otomotif, penyewaan kendaraan, dan platform pasar otomotif",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif.",
+    "business_tags": [
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 90,
+    "name": "Ritel Otomotif",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Kresna Adi Wibawa",
+    "email": "corpsec@ptpmj.co.id",
+    "phone": "(021) 3006 0000"
+  },
+  "directors": [
+    {
+      "name": "Ie Putra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Eiichiro Hamazaki",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sandi Yoswandi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Peter Alexander",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Shinya Oka",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Winata",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suhanti Poniman",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Masanori Goto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fritz Gunawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nyoman Wenten Artha",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Nursalam Andi Tabusalla",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nursalam Andi Tabusalla",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mawar I.r Napitupulu",
+      "position": "Anggota"
+    },
+    {
+      "name": "Arman Hendiyanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pahalamas Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 6910982000,
+      "percentage": 50.24
+    },
+    {
+      "name": "Mitsubishi Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 4676904000,
+      "percentage": 34
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1231714000,
+      "percentage": 8.96
+    },
+    {
+      "name": "Suhanti Poniman",
+      "type": "Komisaris",
+      "shares": 936000000,
+      "percentage": 6.8
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dipo Internasional Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 4108791817100,
+      "ownership_percentage": 82.64
+    },
+    {
+      "name": "PT Dipo Internasional Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 4104655362346,
+      "ownership_percentage": 82.64
+    },
+    {
+      "name": "PT Dipo Internasional Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 4037885880496,
+      "ownership_percentage": 82.64
+    },
+    {
+      "name": "PT Dipo Internasional Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 4028076100158,
+      "ownership_percentage": 82.64
+    },
+    {
+      "name": "PT Dipo Internasional Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 3994961821562,
+      "ownership_percentage": 82.64
+    },
+    {
+      "name": "PT Dipo Angkasa Motor",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawata",
+      "total_assets": 285226231337,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dipo Angkasa Motor",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawata",
+      "total_assets": 283534013834,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dipo Angkasa Motor",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawata",
+      "total_assets": 282512113099,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dipo Angkasa Motor",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawata",
+      "total_assets": 277309456784,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dipo Angkasa Motor",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 261887876171,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitdi Teja Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 156045278273,
+      "ownership_percentage": 82.63
+    },
+    {
+      "name": "PT Global Pahala Rental",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 121182418322,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Global Pahala Rental",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 120973249641,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Global Pahala Rental",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 117900625322,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Global Pahala Rental",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 111414330193,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Suku Cadang Oto Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 110499203646,
+      "ownership_percentage": 34
+    },
+    {
+      "name": "PT Global Pahala Rental",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 108480377786,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Suku Cadang Oto Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 96575193670,
+      "ownership_percentage": 34
+    },
+    {
+      "name": "PT Suku Cadang Oto Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 81869179180,
+      "ownership_percentage": 34
+    },
+    {
+      "name": "PT Suku Cadang Oto Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 75846679184,
+      "ownership_percentage": 34
+    },
+    {
+      "name": "PT Suku Cadang Oto Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 73965825076,
+      "ownership_percentage": 34
+    },
+    {
+      "name": "PT Dipo Berlian Servis Otomotif",
+      "business_type": "Body & Paint",
+      "total_assets": 50946460555,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Dipo Berlian Servis Otomotif",
+      "business_type": "Body & Paint",
+      "total_assets": 50636697066,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Dipo Berlian Servis Otomotif",
+      "business_type": "Body & Paint",
+      "total_assets": 50313779182,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Dipo Berlian Servis Otomotif",
+      "business_type": "Body & Paint",
+      "total_assets": 50002806995,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Mobilku Dotcom Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 15088045122,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Mobilku Dotcom Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 12425476377,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Mobilku Dotcom Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 11498213035,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Mobilku Dotcom Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 10742025397,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Mokas Otomotif Sejahtera",
+      "business_type": "Mobil Bekas",
+      "total_assets": 10307650281,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Mobilku Dotcom Sejahtera",
+      "business_type": "Platform Pasar Otomotif",
+      "total_assets": 9862233763,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Dipo Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 7101351772,
+      "ownership_percentage": 87.1
+    },
+    {
+      "name": "PT Dipo Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 6780953858,
+      "ownership_percentage": 87.1
+    },
+    {
+      "name": "PT Dipo Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 6518424928,
+      "ownership_percentage": 87.1
+    },
+    {
+      "name": "PT Mokas Otomotif Sejahtera",
+      "business_type": "Mobil Bekas",
+      "total_assets": 5624055097,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Dipo Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 5393939246,
+      "ownership_percentage": 87.1
+    },
+    {
+      "name": "PT Mokas Otomotif Sejahtera",
+      "business_type": "Mobil Bekas",
+      "total_assets": 5128167823,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Global Pahala Servis",
+      "business_type": "Perbengkelan",
+      "total_assets": 4932472558,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Global Pahala Servis",
+      "business_type": "Perbengkelan",
+      "total_assets": 4870994060,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Dipo Pahala Otomotif",
+      "business_type": "Perdagangan, Diler Resmi dan Jasa-jasa yang Berhubungan dengan Kendaraan Bermotor Termasuk Jasa Reparasi dan Perawatan",
+      "total_assets": 4826238759,
+      "ownership_percentage": 87.1
+    },
+    {
+      "name": "PT Mokas Otomotif Sejahtera",
+      "business_type": "Mobil Bekas",
+      "total_assets": 4819681501,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Global Pahala Servis",
+      "business_type": "Perbengkelan",
+      "total_assets": 4809775240,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Mokas Otomotif Sejahtera",
+      "business_type": "Mobil Bekas",
+      "total_assets": 4809741637,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Global Pahala Servis",
+      "business_type": "Perbengkelan",
+      "total_assets": 4761173872,
+      "ownership_percentage": 91.75
+    },
+    {
+      "name": "PT Global Pahala Servis",
+      "business_type": "Perbengkelan",
+      "total_assets": 4699504944,
+      "ownership_percentage": 91.75
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.760.716.800.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "15,79",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,28",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "9,40",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "5,79",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,78",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,30",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:08:41.384Z"
+}

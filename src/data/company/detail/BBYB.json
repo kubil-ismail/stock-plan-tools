@@ -1,0 +1,230 @@
+{
+  "company_name": "PT Bank Neo Commerce Tbk.",
+  "ticker": "BBYB",
+  "office_address": "Treasury Tower Lantai 60 Kawasan District 8, Lot 28, SCBD, Jalan Jenderal Sudirman Kav. 52-53 Jakarta 12190",
+  "email": "corsec@bankneo.co.id",
+  "phone": "021-27094950 021-27094951",
+  "fax": "-",
+  "tax_id": "0013415708073000",
+  "website": "http://www.bankneocommerce.co.id",
+  "listing_date": "2015-01-13",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Heru Sulistiadhi",
+    "email": "corsec@bankneo.co.id",
+    "phone": "02127094950"
+  },
+  "directors": [
+    {
+      "name": "Eri Budiono",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Adrian W. Soewardjo*)",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Indra Aditya Sanjaya*)",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Inkawan D. Jusi",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pramoda Dei Sudarmo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kreisna Dewantara Gozali",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pramoda Dei Sudarmo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Johny Kandano",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jusuf Sukiman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6526110912,
+      "percentage": 48.88
+    },
+    {
+      "name": "PT Akulaku Silvrr Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 4598768727,
+      "percentage": 34.45
+    },
+    {
+      "name": "PT Gozco Capital",
+      "type": "Lebih dari 5%",
+      "shares": 1406384381,
+      "percentage": 10.53
+    },
+    {
+      "name": "Rockcore Financial Technology Co. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 736968376,
+      "percentage": 5.52
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 82249950,
+      "percentage": 0.62
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eri Budiono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aditya Wahyu Windarwo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ricko Irwanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Inkawan D Jusi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kreisna D Gozali",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pramoda Dei Sudarmo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Husni, Mucharam & Rasidi"
+    },
+    {
+      "name": "Husni, Mucharam & Rasidi"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Husni, Mucharam & Rasidi"
+    },
+    {
+      "name": "Husni, Mucharam & Rasidi"
+    },
+    {
+      "name": "Husni, Mucharam & Rasidi"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Husni, Mucharam & Rasidi"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.044.395.122.038",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,75",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,84",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "22,84",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "16,92",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,66",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "36,67",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:27.199Z"
+}

@@ -1,0 +1,229 @@
+{
+  "company_name": "Jasuindo Tiga Perkasa Tbk",
+  "ticker": "JTPE",
+  "office_address": "Jl. Raya Betro No. 21 Sedati - Sidoarjo",
+  "email": "corporate.secretary@jasuindo.com",
+  "phone": "(031) 891-0919",
+  "fax": "(031) 891-0928",
+  "tax_id": "0015312614054000",
+  "website": "https://www.jasuindo.com",
+  "listing_date": "2002-04-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Media dan Percetakan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 70,
+    "name": "Percetakan Komersial",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Drs. Lukito Budiman",
+    "email": "corporate.secretary@jasuindo.com",
+    "phone": "031 891 0919"
+  },
+  "directors": [
+    {
+      "name": "Oei, Allan Wibisono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Lukito Budiman",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Oei, Hendro Susanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Sarah Pamela",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Sulistiani Ikwanto",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yongky Wijaya",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Made Sudarma Mm, Cpa, Ca. Ak.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jean-pierre Ting",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Made Sudarma",
+      "position": "Ketua"
+    },
+    {
+      "name": "Made Dudy Satyawan, Jr",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nosy Yodi Metana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Jasuindo Multi Investama",
+      "type": "Lebih dari 5%",
+      "shares": 3129590000,
+      "percentage": 45.67
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1922226500,
+      "percentage": 28.05
+    },
+    {
+      "name": "Toppan Gravity Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1370410000,
+      "percentage": 20
+    },
+    {
+      "name": "Yongky Wijaya",
+      "type": "Komisaris",
+      "shares": 322103500,
+      "percentage": 4.7
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 57720000,
+      "percentage": 0.85
+    },
+    {
+      "name": "Oei, Allan Wibisono",
+      "type": "Direksi",
+      "shares": 50000000,
+      "percentage": 0.73
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Jasuindo Hid Security (jhid)",
+      "business_type": "Industri Percetakan Khusus",
+      "total_assets": 325427365080,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Jasuindo Informatika Pratama (jip)",
+      "business_type": "Jasa Solusi Teknologi Informasi",
+      "total_assets": 59121390600,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Solusi Identitas Global Net (sign)",
+      "business_type": "Informasi dan Telekomunikasi",
+      "total_assets": 25808687576,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Solusi Anak Milenial (sam)",
+      "business_type": "Informasi dan Telekomunikasi",
+      "total_assets": 12290002312,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indika Adidaya Mandiri (iam)",
+      "business_type": "Jasa Solusi Teknologi Informasi",
+      "total_assets": 671614583,
+      "ownership_percentage": 98
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.316.791.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "8,55",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "71,62",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "178,51",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,83",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "6,72",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:00.523Z"
+}

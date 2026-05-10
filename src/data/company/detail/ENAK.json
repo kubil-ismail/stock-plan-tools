@@ -1,0 +1,213 @@
+{
+  "company_name": "PT Champ Resto Indonesia Tbk",
+  "ticker": "ENAK",
+  "office_address": "Jl. Raya Tanjung Barat No. 81a Rt 002/04, Tanjung Barat, Jagakarsa, Jakarta Selatan 12530.",
+  "email": "corpsec@champ-group.com",
+  "phone": "+622139832178",
+  "fax": "+622139832179",
+  "tax_id": "31.182.319.9-017.000",
+  "website": "https://www.champ-group.com",
+  "listing_date": "2022-02-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Restoran",
+    "business_summary": "Perusahaan bergerak di bidang Rumah Makan.",
+    "business_tags": [
+      "Rumah Makan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Christopher Supit",
+    "email": "corpsec@champ-group.com",
+    "phone": "021-39832178"
+  },
+  "directors": [
+    {
+      "name": "Hendrik Alexander Wanggur Mboi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Christopher Supit",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ridwan Budijono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Christian Sugiarto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Agustina Supriyani Kardono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sjariful Haq",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "M. Noor Rachman Soejoeti",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Ismawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mohammad Noor Rachman Soejoeti",
+      "position": "Ketua"
+    },
+    {
+      "name": "Christian P.m Nainggolan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Iwan Irawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Barokah Melayu Foods Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1181173300,
+      "percentage": 54.516
+    },
+    {
+      "name": "Ali Gunawan Budiman",
+      "type": "Lebih dari 5%",
+      "shares": 309683700,
+      "percentage": 14.293
+    },
+    {
+      "name": "PT Alba Cipta Rasa",
+      "type": "Lebih dari 5%",
+      "shares": 294363000,
+      "percentage": 13.586
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 210030200,
+      "percentage": 9.694
+    },
+    {
+      "name": "PT Cipta Rasa Juara",
+      "type": "Lebih dari 5%",
+      "shares": 163454000,
+      "percentage": 7.544
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 7187000,
+      "percentage": 0.332
+    },
+    {
+      "name": "Christopher Supit",
+      "type": "Direksi",
+      "shares": 421000,
+      "percentage": 0.019
+    },
+    {
+      "name": "Hendrik Alexander W. Mboi",
+      "type": "Direksi",
+      "shares": 354600,
+      "percentage": 0.016
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "762.666.713.600",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,90",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "28,98",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "49,57",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "52,97",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "43,41",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:27.596Z"
+}

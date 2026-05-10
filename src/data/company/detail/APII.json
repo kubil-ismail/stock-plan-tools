@@ -1,0 +1,642 @@
+{
+  "company_name": "PT Arita Prima Indonesia Tbk.",
+  "ticker": "APII",
+  "office_address": "Komplek Sunter Permai Jl. Danau Sunter Utara Blok C No. 9 Sunter Agung, Tanjung Priuk Jakarta 14350",
+  "email": "corsec@arita.co.id",
+  "phone": "021-6519188",
+  "fax": "021-6516107",
+  "tax_id": "002.005.399.7-059.000",
+  "website": "https://www.arita.co.id",
+  "listing_date": "2013-10-29",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan ekspor dan impor barang-barang logam yang mencakup valve, fitting dan produk terkait lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 46,
+    "name": "Mesin & Komponen Perindustrian",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "M Farras Zulna",
+    "email": "corsec@arita.co.id",
+    "phone": "0216519188"
+  },
+  "directors": [
+    {
+      "name": "Harianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Low Yew Lean",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chan Chein Liang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Low Ze Wen",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bernadetha Melinda Kirana Putri",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Cheah Chooi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sim Yee Fuan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lim Jun Lin",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bernadetha Melinda Kirana Putri",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agustinus Nicko Ariwibowo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dion Situmorang",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Arita Global,pt",
+      "type": "Lebih dari 5%",
+      "shares": 622214760,
+      "percentage": 57.84
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 240376000,
+      "percentage": 22.34
+    },
+    {
+      "name": "Arita Engineering, Sdn.bhd",
+      "type": "Lebih dari 5%",
+      "shares": 151125260,
+      "percentage": 14.05
+    },
+    {
+      "name": "Low Yew Lean",
+      "type": "Direksi",
+      "shares": 60146480,
+      "percentage": 5.59
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1136000,
+      "percentage": 0.11
+    },
+    {
+      "name": "Harianto",
+      "type": "Direksi",
+      "shares": 761500,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lim Cheah Chooi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sim Yee Fuan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bernadetha Melinda Kirana Putri",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chan Chein Liang",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lim Jun Lin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Low Ze Wen",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Makmur Abadi Valve",
+      "business_type": "Manufaktur Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 112435000000,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Makmur Abadi Valve",
+      "business_type": "Manufaktur Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 111614000000,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Aira Sukses Internasional",
+      "business_type": "Pengelolaan Air, Jasa Konstruksi, Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 75608000000,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Makmur Abadi Valve",
+      "business_type": "Manufaktur Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 67331000000,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Makmur Abadi Valve",
+      "business_type": "Manufaktur Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 67331000000,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Aira Sukses Internasional",
+      "business_type": "Pengelolaan Air, Jasa Konstruksi, Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 63188000000,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Aira Sukses Internasional",
+      "business_type": "Pengelolaan Air, Jasa Konstruksi, Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 50494854162,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Aira Sukses Internasional",
+      "business_type": "Pengelolaan Air, Jasa Konstruksi, Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 38795000000,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Amanah Nusantara Sejahtera",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 30642000000,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Amanah Nusantara Sejahtera",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 30642000000,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Internasional Multi Jaya Logam",
+      "business_type": "Industri Logam / Metal Industry",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Logam",
+      "business_type": "Industri Logam / Metal Industry",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Logam",
+      "business_type": "Industri Logam / Metal Industry",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Logam",
+      "business_type": "Industri Logam / Metal Industry",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Logam",
+      "business_type": "Industri Logam / Metal Industry",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Tekindo",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Tekindo",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Tekindo",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Tekindo",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Internasional Multi Jaya Tekindo",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 30000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Makmur Abadi Valve",
+      "business_type": "Manufaktur Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 28632000000,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Amanah Nusantara Sejahtera",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 27022000000,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Amanah Nusantara Sejahtera",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 26862000000,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Sangkuriang Bangun Persada",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 21788000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Amanah Nusantara Sejahtera",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 20858000000,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Internasional Asia Prima Sukses",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 20682000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Internasional Asia Prima Sukses",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 20498000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bont Technologies Nusantara",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 20148000000,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Internasional Asia Prima Sukses",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 19801000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Internasional Asia Prima Sukses",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 19449000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Internasional Asia Prima Sukses",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 19449000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Sangkuriang Bangun Persada",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 18428000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Internasional Asia Pasifik Sinergi",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 17752000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bont Technologies Nusantara",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 17284000000,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Sangkuriang Bangun Persada",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 16577000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Sangkuriang Bangun Persada",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 16577000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Bont Technologies Nusantara",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 16249000000,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Bont Technologies Nusantara",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 15605496862,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Internasional Asia Pasifik Sinergi",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 15464000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Internasional Asia Pasifik Sinergi",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 14326000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Internasional Asia Pasifik Sinergi",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 14058000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Internasional Asia Pasifik Sinergi",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 14058000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Garuda Reksa Tekonologi",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 13612000000,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Garuda Reksa Tekonologi",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 13214000000,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Garuda Reksa Tekonologi",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 13110000000,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Garuda Reksa Tekonologi",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 13069115283,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Bont Technologies Nusantara",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 13048000000,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Sinergi Primajaya Indonesia",
+      "business_type": "Pengelolaan Air dan Perdagangan Klep dan Produk Lainnya",
+      "total_assets": 12291000000,
+      "ownership_percentage": 73.78
+    },
+    {
+      "name": "PT Sinergi Primajaya Indonesia",
+      "business_type": "Pengelolaan Air dan Perdagangan Klep dan Produk Lainnya",
+      "total_assets": 11970000000,
+      "ownership_percentage": 73.78
+    },
+    {
+      "name": "PT Sinergi Primajaya Indonesia",
+      "business_type": "Pengelolaan Air dan Perdagangan Klep dan Produk Lainnya",
+      "total_assets": 11710000000,
+      "ownership_percentage": 73.78
+    },
+    {
+      "name": "PT Sinergi Primajaya Indonesia",
+      "business_type": "Pengelolaan Air dan Perdagangan Klep dan Produk Lainnya",
+      "total_assets": 11710000000,
+      "ownership_percentage": 73.78
+    },
+    {
+      "name": "PT Garuda Reksa Tekonologi",
+      "business_type": "Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 11701000000,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Sangkuriang Bangun Persada",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 11082000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Sinergi Primajaya Indonesia",
+      "business_type": "Pengelolaan Air dan Perdagangan Klep dan Produk Lainnya",
+      "total_assets": 10150000000,
+      "ownership_percentage": 73.78
+    },
+    {
+      "name": "PT Artha Mulia Nusantara",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 10002000000,
+      "ownership_percentage": 59
+    },
+    {
+      "name": "PT Artha Mulia Nusantara",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 10002000000,
+      "ownership_percentage": 59
+    },
+    {
+      "name": "PT Artha Mulia Nusantara",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 9826000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Aira Sukses Internasional",
+      "business_type": "Pengelolaan Air, Jasa Konstruksi, Perdagangan Klep dan Produk Terkait Lainnya",
+      "total_assets": 8522000000,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Artha Mulia Nusantara",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 8358000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Artha Mulia Nusantara",
+      "business_type": "Perdagangan Valve, Fitting dan Produk Terkait Lainnya",
+      "total_assets": 6924000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Global Teknik Agronusa",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 6371000000,
+      "ownership_percentage": 58.65
+    },
+    {
+      "name": "PT Global Teknik Agronusa",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 5843000000,
+      "ownership_percentage": 58.65
+    },
+    {
+      "name": "PT Global Teknik Agronusa",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 3472000000,
+      "ownership_percentage": 58.65
+    },
+    {
+      "name": "PT Global Teknik Agronusa",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 3472000000,
+      "ownership_percentage": 58.65
+    },
+    {
+      "name": "PT Global Consultant Engineering",
+      "business_type": "Jasa Arsitektur dan Keinsinyuran",
+      "total_assets": 3259000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Global Consultant Engineering",
+      "business_type": "Jasa Arsitektur dan Keinsinyuran",
+      "total_assets": 2983000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Global Consultant Engineering",
+      "business_type": "Jasa Arsitektur dan Keinsinyuran",
+      "total_assets": 2647000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Global Consultant Engineering",
+      "business_type": "Jasa Arsitektur dan Keinsinyuran",
+      "total_assets": 2647000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Global Teknik Agronusa",
+      "business_type": "Jasa Reparasi dan Pemasangan Peralatan",
+      "total_assets": 1250000000,
+      "ownership_percentage": 58.65
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "207.621.680.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,59",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,52",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "1,05",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "12,94",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,52",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "8,57",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:25.541Z"
+}

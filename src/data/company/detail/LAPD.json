@@ -1,0 +1,282 @@
+{
+  "company_name": "Leyand International Tbk",
+  "ticker": "LAPD",
+  "office_address": "Panin Tower Lt. 11 Senayan City, Jl. Asia Afrika Lot 19 Jakarta 10270",
+  "email": "corsec@leyand.com",
+  "phone": "+62 (21) 72781895",
+  "fax": "+62 (21) 72781896",
+  "tax_id": "01.354.497.8-054.000",
+  "website": "https://-",
+  "listing_date": "2001-07-17",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Consumer Goods Retailing",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Retail.",
+    "business_tags": [
+      "Energi",
+      "Retail"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 95,
+    "name": "Supermarket",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Handayani Rahayu",
+    "email": "lapd_corsec@yahoo.com",
+    "phone": "021-72781895"
+  },
+  "directors": [
+    {
+      "name": "Jamal Abdul Nasir Bamadhaj",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Rahardja Burhan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kiran Raj",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hong Shieh Yung, Travis (hong Xueyong, Travis)",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Achmad Rifky",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sayid Muhammad Riyadh",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Siok Sing",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Thauriq Anwar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Toto Iriyanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mumajad",
+      "position": "Anggota"
+    },
+    {
+      "name": "A. Wisnu Widodo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Jsi Sinergi Mas",
+      "type": "Lebih dari 5%",
+      "shares": 2022838500,
+      "percentage": 51
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 1943511639,
+      "percentage": 49
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sayid Muhammad Riyadh",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jamal Abdul Nasir Bamadhaj",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Rusindo Eka Raya",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 227589555109,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Rusindo Eka Raya",
+      "business_type": "Distributor",
+      "total_assets": 221899257097,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Rusindo Eka Raya",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 204167301654,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Rusindo Eka Raya",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 194327607759,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Rusindo Eka Raya",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 193972792224,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Asta Keramasan Energi",
+      "business_type": "Pembangkit Listrik",
+      "total_assets": 35070421,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Asta Keramasan Energi",
+      "business_type": "Pembangkit Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Asta Keramasan Energi",
+      "business_type": "Pembangkit Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Asta Keramasan Energi",
+      "business_type": "Pembangkit Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Asta Keramasan Energi",
+      "business_type": "Pembangkit Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Sumatera Energy Capital",
+      "business_type": "Penyertaan Modal dan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sumatera Energy Capital Pte, Ltd",
+      "business_type": "Penyertaan Modal dan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sumatera Energy Capital Pte, Ltd",
+      "business_type": "Penyertaan Modal dan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sumatera Energy Capital Pte, Ltd",
+      "business_type": "Penyertaan Modal dan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sumatera Energy Capital Pte, Ltd",
+      "business_type": "Penyertaan Modal dan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "372.836.913.066",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,33",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "9,68",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "53,85",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "200,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "15,15",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "45,81",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:51.708Z"
+}

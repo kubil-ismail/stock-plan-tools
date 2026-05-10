@@ -1,0 +1,285 @@
+{
+  "company_name": "Bumi Resources Tbk",
+  "ticker": "BUMI",
+  "office_address": "Bakrie Tower Lt. 12, Komplek Rasuna Epicentrum, Jl. H.r. Rasuna Said, Jakarta Selatan 12940",
+  "email": "corsec@bumiresources.com",
+  "phone": "(021) 5794 2080",
+  "fax": "(021) 5794 2070",
+  "tax_id": "01.122.101.7-054.000",
+  "website": "http://www.bumiresources.com",
+  "listing_date": "1990-07-30",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perusahaan induk pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Irana Candra Mala",
+    "email": "icandramala@bumiresources.com",
+    "phone": "02157942080"
+  },
+  "directors": [
+    {
+      "name": "Adika Nuraga Bakrie",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agoes Projosasmito",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nalinkant Amratlal Rathod",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adrian Wicaksono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Phiong Phillipus Darma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eddy Sanusi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Christopher Beckham",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "R.a. Sri Dharmayanti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Maringan M. Ido Hotna Hutabarat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rio Supin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Himawan Setiadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Christopher Fong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sharif Cicip Sutardjo",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anton Setianto Soedarsono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kanaka Puradiredja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Y.a. Didik Cahyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anggawira",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adhika Andrayudha Bakrie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Thomas Myer Kearney",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sulaiman Zuhdi Pane",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs. Kanaka Puradireja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indra Safitri",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mawar I.r Napitupulu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 201268458411,
+      "percentage": 54.2
+    },
+    {
+      "name": "Mach Energy (hongkong) Limited",
+      "type": "Lebih dari 5%",
+      "shares": 170000000000,
+      "percentage": 45.78
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 30433657,
+      "percentage": 0.01
+    },
+    {
+      "name": "Eddy Sanusi",
+      "type": "Direksi",
+      "shares": 36500000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kaltim Prima Coal",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 1887242109,
+      "ownership_percentage": 50.99
+    },
+    {
+      "name": "PT Bumi Resources Minerals Tbk",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 1216465110,
+      "ownership_percentage": 20.09
+    },
+    {
+      "name": "PT Arutmin Indonesia",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 852641220,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Darma Henwa Tbk",
+      "business_type": "Kontraktor Pertambangan",
+      "total_assets": 550158070,
+      "ownership_percentage": 12.44
+    },
+    {
+      "name": "Indocoal Resources (cayman)",
+      "business_type": "Distributor Batubara",
+      "total_assets": 136348897,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Pendopo Energi Batubara",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 5812796,
+      "ownership_percentage": 84.54
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "89.120.494.096.320",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,20",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "4,42",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "53,19",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "96,36",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,09",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "48,57",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:45.435Z"
+}

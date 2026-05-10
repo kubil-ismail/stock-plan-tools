@@ -1,0 +1,208 @@
+{
+  "company_name": "PT Royaltama Mulia Kontraktorindo Tbk.",
+  "ticker": "RMKO",
+  "office_address": "Wisma Rmk Jl. Puri Kencana Blok M4 No. 1 Kembangan Selatan Jakarta Barat 11610",
+  "email": "corsec@rmko.co.id",
+  "phone": "+62 21 5822 555",
+  "fax": "+62 21 5827 555",
+  "tax_id": "83.723.162.0-086.000",
+  "website": "https://www.rmko.co.id",
+  "listing_date": "2023-07-31",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di bidang jasa penunjang pertambangan dan jasa penyewaan alat-alat berat",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Elbert",
+    "email": "corsec@rmko.co.id",
+    "phone": "+62 21 5822 555"
+  },
+  "directors": [
+    {
+      "name": "William Saputra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Yosa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Elbert",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Vincent Saputra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rokhmad Sunanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rokhmad Sunanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lusi Tikasari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Calvin Dickson",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Rmk Investama",
+      "type": "Lebih dari 5%",
+      "shares": 843730000,
+      "percentage": 67.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 406250000,
+      "percentage": 32.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Vincent Saputra",
+      "type": "Direksi",
+      "shares": 20000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Royaltama Mulia Konstruksi",
+      "business_type": "Konstruksi",
+      "total_assets": 90232254090,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Royaltama Mulia Beton",
+      "business_type": "Industri Pengolahan dan Perdagangan",
+      "total_assets": 6192387885,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "607.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,21",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "22,03",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "105,36",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "400,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,17",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "0,86",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:51.001Z"
+}

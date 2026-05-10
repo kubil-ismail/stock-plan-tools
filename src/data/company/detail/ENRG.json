@@ -1,0 +1,279 @@
+{
+  "company_name": "Energi Mega Persada Tbk",
+  "ticker": "ENRG",
+  "office_address": "Bakrie Tower 32nd Floor, Rasuna Epicentrum, Jl. Hr Rasuna Said, Jakarta 12960",
+  "email": "corsec@emp.id",
+  "phone": "021-29941540",
+  "fax": "021-29941247",
+  "tax_id": "02.091.654.0-081.000",
+  "website": "https://www.emp.id",
+  "listing_date": "2004-06-07",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Eksplorasi dan Produksi Minyak dan Gas Bumi",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 82,
+    "name": "Produksi & Penyulingan Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Riri Hosniari Harahap",
+    "email": "riri.harahap@energi-mp.com",
+    "phone": "52906250"
+  },
+  "directors": [
+    {
+      "name": "Syailendra S. Bakrie",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edoardus Ardianto",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edi Sutriono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tri Firmanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Kelik R. Suharya",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Riri Hosniari Harahap",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adinda Andarina Bakrie",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suyitno Patmosukismo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rudianto Rimbono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rizal Malarangeng",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Syamsu Alam",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Gita Rusmida Sjahrir",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Syamsu Alam",
+      "position": "Ketua"
+    },
+    {
+      "name": "Poppy Sofia Koeswayo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yosephin E. Dewi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 14755388494,
+      "percentage": 56.006
+    },
+    {
+      "name": "PT Shima Global Kapital",
+      "type": "Lebih dari 5%",
+      "shares": 4661422413,
+      "percentage": 17.693
+    },
+    {
+      "name": "Trimegah Sekuritas Indonesia Tbk, PT",
+      "type": "Lebih dari 5%",
+      "shares": 3093347222,
+      "percentage": 11.741
+    },
+    {
+      "name": "PT Cgs International Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2000030098,
+      "percentage": 7.591
+    },
+    {
+      "name": "PT Maybank Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1835449500,
+      "percentage": 6.967
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 592523,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Syailendra S. Bakrie",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edoardus Ardianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adinda A. Bakrie",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edi Sutriono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tri Firmanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kelik R. Suharya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Riri Harahap",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rudianto Rimbono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suyitno Patmosukismo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gita R. Sjahrir",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Syamsu Alam",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rizal Malarangeng",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "44.788.591.425.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,88",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "51,57",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "94,25",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "753,54",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,17",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "3,05",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:28.471Z"
+}

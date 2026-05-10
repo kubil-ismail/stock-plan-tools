@@ -1,0 +1,467 @@
+{
+  "company_name": "Citra Marga Nusaphala Persada Tbk",
+  "ticker": "CMNP",
+  "office_address": "Gedung Cmnp Jl. Yos Sudarso Kav. 28 Jakarta 14350",
+  "email": "cmnp@citra.co.id",
+  "phone": "(021) 65306930 (hunting)",
+  "fax": "(021) 65306391",
+  "tax_id": "01.062.151.4-054.000",
+  "website": "https://www.cmnp.co.id",
+  "listing_date": "1995-01-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Penyelenggaraan Jalan Tol",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Properti, Logistik, Konstruksi.",
+    "business_tags": [
+      "Teknologi",
+      "Properti",
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "property",
+      "real estate",
+      "properti",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 10,
+    "name": "Infrastruktur Transportasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 30,
+    "name": "Operator Infrastruktur Transportasi"
+  },
+  "sub_industry": {
+    "id": 51,
+    "name": "Operator Jalan Tol & Rel",
+    "industries_id": 30
+  },
+  "corporate_secretary": {
+    "name": "Hasyim",
+    "email": "hasyim@citramarga.com",
+    "phone": "021 65306930"
+  },
+  "directors": [
+    {
+      "name": "Arief Budhy Hardono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hasyim",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Djoko Sapto M. Mulyo",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dahnu Teguh Adrianto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jhoni Ginting",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Goeritno Soekamto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dionisius Widijanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dionisius Widijanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Benny Hakim Setiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tinne Ratulangi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bp2s Sg/bnp Paribas Wealth Management Singapore Branch",
+      "type": "Lebih dari 5%",
+      "shares": 3974436274,
+      "percentage": 59.35
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2670009298,
+      "percentage": 39.87
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 51908819,
+      "percentage": 0.78
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Citra Karya Jabar Tol",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 11054419,
+      "ownership_percentage": 63.3
+    },
+    {
+      "name": "Citra Karya Jabar Tol",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 11049938,
+      "ownership_percentage": 63.3
+    },
+    {
+      "name": "Citra Karya Jabar Tol",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 11040613,
+      "ownership_percentage": 63.3
+    },
+    {
+      "name": "Citra Karya Jabar Tol",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 11040613,
+      "ownership_percentage": 63.3
+    },
+    {
+      "name": "Citra Karya Jabar Tol",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 11036737,
+      "ownership_percentage": 63.3
+    },
+    {
+      "name": "PT Citra Karya Jabar Tol",
+      "business_type": "Penyelenggaraan Ruas Jalan Tol Depok - Antasari",
+      "total_assets": 8766000,
+      "ownership_percentage": 54.59
+    },
+    {
+      "name": "Citra Waspphutowa",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 5375055,
+      "ownership_percentage": 79.79
+    },
+    {
+      "name": "Citra Waspphutowa",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 5375055,
+      "ownership_percentage": 79.79
+    },
+    {
+      "name": "PT Citra Waspphutowa",
+      "business_type": "Penyelenggaraan Ruas Jalan Tol Depok - Antasari",
+      "total_assets": 5346051,
+      "ownership_percentage": 79.79
+    },
+    {
+      "name": "Citra Waspphutowa",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 5333911,
+      "ownership_percentage": 79.79
+    },
+    {
+      "name": "Citra Waspphutowa",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 5322434,
+      "ownership_percentage": 79.79
+    },
+    {
+      "name": "Citra Waspphutowa",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 5182260,
+      "ownership_percentage": 79.79
+    },
+    {
+      "name": "PT Girder Indonesia",
+      "business_type": "Perdagangan, Kontraktor, Pengolahan Lahan, Perindustrian dan Jasa",
+      "total_assets": 2594837,
+      "ownership_percentage": 97.55
+    },
+    {
+      "name": "Girder Indonesia",
+      "business_type": "Perdagangan, Kontraktor, Pengolahan Lahan,",
+      "total_assets": 2439295,
+      "ownership_percentage": 97.55
+    },
+    {
+      "name": "Girder Indonesia",
+      "business_type": "Perdagangan, Kontraktor, Pengolahan Lahan,",
+      "total_assets": 2439295,
+      "ownership_percentage": 97.55
+    },
+    {
+      "name": "Girder Indonesia",
+      "business_type": "Perdagangan, Kontraktor, Pengolahan Lahan,",
+      "total_assets": 1902362,
+      "ownership_percentage": 97.55
+    },
+    {
+      "name": "Girder Indonesia",
+      "business_type": "Perdagangan, Kontraktor, Pengolahan Lahan,",
+      "total_assets": 1743993,
+      "ownership_percentage": 97.96
+    },
+    {
+      "name": "PT Citra Marga Lintas Jabar",
+      "business_type": "Penyelenggaraan Ruas Jalan Tol Soreang - Pasir Koja",
+      "total_assets": 1673830,
+      "ownership_percentage": 82.4
+    },
+    {
+      "name": "Citra Marga Lintas Jabar",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 1664541,
+      "ownership_percentage": 82.4
+    },
+    {
+      "name": "Citra Marga Lintas Jabar",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 1664541,
+      "ownership_percentage": 82.4
+    },
+    {
+      "name": "Citra Marga Lintas Jabar",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 1657494,
+      "ownership_percentage": 82.4
+    },
+    {
+      "name": "Citra Marga Lintas Jabar",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 1656975,
+      "ownership_percentage": 82.4
+    },
+    {
+      "name": "Citra Marga Lintas Jabar",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 1648749,
+      "ownership_percentage": 82.4
+    },
+    {
+      "name": "Girder Indonesia",
+      "business_type": "Perdagangan, Kontraktor, Pengolahan Lahan,",
+      "total_assets": 1602758,
+      "ownership_percentage": 97.55
+    },
+    {
+      "name": "PT Citra Margatama Surabaya",
+      "business_type": "Penyelenggaraan Ruas Jalan Tol Simpang Susun Waru -juanda di Surabaya",
+      "total_assets": 957021,
+      "ownership_percentage": 96.83
+    },
+    {
+      "name": "Citra Margatama Surabaya",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 951747,
+      "ownership_percentage": 96.83
+    },
+    {
+      "name": "Citra Margatama Surabaya",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 944405,
+      "ownership_percentage": 96.83
+    },
+    {
+      "name": "Citra Margatama Surabaya",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 944405,
+      "ownership_percentage": 96.83
+    },
+    {
+      "name": "Citra Margatama Surabaya",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 943392,
+      "ownership_percentage": 96.83
+    },
+    {
+      "name": "Citra Margatama Surabaya",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 926777,
+      "ownership_percentage": 96.83
+    },
+    {
+      "name": "PT Citra Marga Nusantara Propertindo",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian dan Jasa Lainnya",
+      "total_assets": 618848,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "Citra Marga Nusantara Propertindo",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian dan Jasa Lainnya",
+      "total_assets": 617817,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "Citra Marga Nusantara Propertindo",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian dan Jasa Lainnya",
+      "total_assets": 617443,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "Citra Marga Nusantara Propertindo",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian dan Jasa Lainnya",
+      "total_assets": 617443,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "Citra Marga Nusantara Propertindo",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian dan Jasa Lainnya",
+      "total_assets": 617228,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "Citra Marga Nusantara Propertindo",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian dan Jasa Lainnya",
+      "total_assets": 616806,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Citra Persada Infrastruktur",
+      "business_type": "Perdagangan, Pembangunan dan Jasa Lainnya",
+      "total_assets": 440351,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Citra Persada Infrastruktur",
+      "business_type": "Perdagangan, Pembangunan",
+      "total_assets": 299600,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Citra Persada Infrastruktur",
+      "business_type": "Perdagangan, Pembangunan",
+      "total_assets": 297994,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Citra Persada Infrastruktur",
+      "business_type": "Perdagangan, Pembangunan",
+      "total_assets": 297994,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Citra Persada Infrastruktur",
+      "business_type": "Perdagangan, Pembangunan",
+      "total_assets": 294660,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Citra Persada Infrastruktur",
+      "business_type": "Perdagangan, Pembangunan",
+      "total_assets": 284641,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Elevasi Teknologi Indonesia",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 3792,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "Elevasi Teknologi Indonesia",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 3790,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "Elevasi Teknologi Indonesia",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 3787,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "Elevasi Teknologi Indonesia",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 3785,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "Elevasi Teknologi Indonesia",
+      "business_type": "Penyelenggara Jalan Tol",
+      "total_assets": 3785,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Elevasi Teknologi Indonesia",
+      "business_type": "Perdagangan, Kontraktor, Pengolahan Lahan, Perindustrian dan Jasa",
+      "total_assets": 3780,
+      "ownership_percentage": 99.95
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "10.144.976.902.365",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,74",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "8,66",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "8,27",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "7,12",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,53",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "22,82",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:15.647Z"
+}

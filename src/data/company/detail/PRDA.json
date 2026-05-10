@@ -1,0 +1,301 @@
+{
+  "company_name": "PT Prodia Widyahusada Tbk.",
+  "ticker": "PRDA",
+  "office_address": "Prodia Tower Jl. Kramat Raya No. 150 Jakarta - 10430",
+  "email": "corporate.secretary@prodia.co.id",
+  "phone": "021-3144182",
+  "fax": "021-3144181",
+  "tax_id": "0013496567073000",
+  "website": "https://www.prodia.co.id",
+  "listing_date": "2016-12-07",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Pelayanan Penunjang Kesehatan (Laboratorium Medis) dan Klinik Swasta",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Marina Eka Amalia",
+    "email": "corporate.secretary@prodia.co.id",
+    "phone": "021-3144182"
+  },
+  "directors": [
+    {
+      "name": "Liana Kuswandi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Marina Eka Amalia",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indriyanti Rafi Sukmawati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andri Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ida Zuraida",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Andi Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Gunawan Prawiro Soeharto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Endang Wahjuningtyas Hoyaranda",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dewi Muliaty",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lukas Setia Atmaja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Keri Lestari",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lukas Setia Atmaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Keri Lestari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ria Budiweni Sumiati Pardede",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Prodia Utama",
+      "type": "Lebih dari 5%",
+      "shares": 534375000,
+      "percentage": 57
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 242899800,
+      "percentage": 26
+    },
+    {
+      "name": "Bio Majesty Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 112500000,
+      "percentage": 12
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 47724500,
+      "percentage": 5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andi Widjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Prawiro Soeharto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Endang Wahjuningtyas",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewi Muliaty",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lukas Setia Atmaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Keri Lestari",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Liana Kuswandi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marina Eka Amalia",
+      "type": "Direksi",
+      "shares": 300,
+      "percentage": 0
+    },
+    {
+      "name": "Indriyanti Rafi Sukmawati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andri Hidayat",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ida Zuraida",
+      "type": "Direksi",
+      "shares": 400,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Prodia Digital Indonesia",
+      "business_type": "Portal Web Dan/atau Platform Digital dengan Tujuan Komersial",
+      "total_assets": 319318,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.381.250.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,61",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "5,86",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1,17",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "0,80",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,69",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,52",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:00.063Z"
+}

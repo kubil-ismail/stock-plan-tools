@@ -1,0 +1,332 @@
+{
+  "company_name": "Golden Energy Mines Tbk",
+  "ticker": "GEMS",
+  "office_address": "Sinar Mas Land Plaza, Tower Ii, Lantai 6 Jl. MH Thamrin No. 51 Jakarta Pusat 10350",
+  "email": "corsec@goldenenergymines.com",
+  "phone": "02150186888",
+  "fax": "021-31990319",
+  "tax_id": "01.831.727.1-021.000",
+  "website": "https://www.goldenenergymines.com",
+  "listing_date": "2011-11-17",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan batubara melalui anak perusahaan dan perdagangan batubara",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Sudin S H",
+    "email": "corsec@goldenenergymines.com",
+    "phone": "(62)8811109999 ext 1621"
+  },
+  "directors": [
+    {
+      "name": "Bonifasius",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Hermawan",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yoghi Nuswantoro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "R. Utoro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suhendra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Paulus Yuniar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lokita Prasetya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Achmad Ananda Djajanegara",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Alex Sutanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Feriwan Sinatra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Ir. Bambang Setiawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ketut Sanjaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ir. Bambang Setiawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ir. Djuangga Mangasi Mangunsong",
+      "position": "Anggota"
+    },
+    {
+      "name": "Leong Chee Keen (dikenal Juga sebagai Darren Leong)",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 3000000100,
+      "percentage": 51
+    },
+    {
+      "name": "PT Radhika Jananta Raya",
+      "type": "Lebih dari 5%",
+      "shares": 1764705900,
+      "percentage": 30
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 706454647,
+      "percentage": 12.01
+    },
+    {
+      "name": "Golden Energy And Resources Limited",
+      "type": "Lebih dari 5%",
+      "shares": 411192353,
+      "percentage": 6.99
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Borneo Indobara",
+      "business_type": "Pertambangan",
+      "total_assets": 683573656,
+      "ownership_percentage": 98.1
+    },
+    {
+      "name": "PT Roundhill Capital Indonesia",
+      "business_type": "Penyertaan Saham dan Perdagangan Besar",
+      "total_assets": 682947735,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Duta Sarana Internusa",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 130037724,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Barasentosa Lestari",
+      "business_type": "Pertambangan Batubara dan Pengembangan Pembagkit Listrik Mulut Tambang",
+      "total_assets": 129900929,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dwikarya Sejati Utama",
+      "business_type": "Modal Ventura dan Manajemen Konsultasi",
+      "total_assets": 129737461,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kuansing Inti Makmur",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 92222681,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bungo Bara Utama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 45800291,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tanjung Belit Bara Utama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 23198934,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Mining Solutions (d/h Bas)",
+      "business_type": "Perdagangan",
+      "total_assets": 20608492,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berkat Nusantara Permai",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 20242307,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bungo Bara Makmur",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 19709067,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Cemerlang Persada",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 7116844,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Gems Trading Resources Pte. Ltd",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 5240714,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Trisula Kencana Sakti",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 3455489,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bara Harmonis Batang Asam",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 1451020,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Mitra Selaras",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 930456,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Rimba Lestari",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 763953,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kuansing Inti Sejahtera",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 343263,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berkat Satria Abadi",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 165690,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gems Energy Indonesia",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 121938,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Unsoco",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 71353,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "46.617.647.525.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,14",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,97",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "15,90",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "14,29",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "4,29",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:00.948Z"
+}

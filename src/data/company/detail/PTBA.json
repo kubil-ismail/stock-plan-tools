@@ -1,0 +1,427 @@
+{
+  "company_name": "PT Bukit Asam (persero) Tbk",
+  "ticker": "PTBA",
+  "office_address": "Menara Kadin Indonesia 15th Floor & 9th Floor Jl. Hr Rasuna Said X-5, Kav 2& 3 Jakarta 12950",
+  "email": "corsec@bukitasam.co.id",
+  "phone": "(021) 5254014",
+  "fax": "021 - 5254002",
+  "tax_id": "0010 0001 1505 1000",
+  "website": "https://www.ptba.co.id",
+  "listing_date": "2002-12-23",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara(Coal Mining)",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Batubara, Perbankan, Kesehatan, Properti, Energi, Konstruksi.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Batubara",
+      "Perbankan",
+      "Kesehatan",
+      "Properti",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "batubara",
+      "coal",
+      "mining",
+      "bank",
+      "banking",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Eko Prayitno",
+    "email": "eprayitno@bukitasam.co.id",
+    "phone": "(62-21) 5254014"
+  },
+  "directors": [
+    {
+      "name": "Arsal Ismali",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ilham Yacob",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Verisca Hutanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Una Lindasari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Turino Yulianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ihsanuddin Usman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Ismawan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dewi Hanggraeni",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suko Hartono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dalu Agung Darmawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Zaelani",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ferial Martifauzi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lana Saria",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Suko Hartono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bambang Ismawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jenny Rizkiana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wakhid Kurniawan Saputra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mineral Industri Indonesia (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 7595650695,
+      "percentage": 65.93
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3774095650,
+      "percentage": 32.76
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 144305005,
+      "percentage": 1.26
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 6302000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Suko Hartono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dalu Agung Darmawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Zaelani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferial Martifauzi",
+      "type": "Komisaris",
+      "shares": 1000,
+      "percentage": 0
+    },
+    {
+      "name": "Lana Saria",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arsal Ismail",
+      "type": "Direksi",
+      "shares": 304900,
+      "percentage": 0
+    },
+    {
+      "name": "Ilham Yacob",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Verisca Hutanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Una Lindasari",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Turino Yulianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ihsanuddin Usman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Ismawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewi Hanggraeni",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Huadian Bukit Asam Power",
+      "business_type": "Produsen Energi Listrik",
+      "total_assets": 37096385,
+      "ownership_percentage": 45
+    },
+    {
+      "name": "PT Bukit Pembangkit Innovative",
+      "business_type": "Produsen Energi Listrik",
+      "total_assets": 5390309,
+      "ownership_percentage": 59.75
+    },
+    {
+      "name": "PT Bukit Multi Investama",
+      "business_type": "Melakukan Investasi pada Perusahaan Lain",
+      "total_assets": 3884637,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Satria Bahana Sarana",
+      "business_type": "Jasa Penambangan",
+      "total_assets": 2025547,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bumi Sawindo Permai",
+      "business_type": "Perkebunan Kelapa Sawit dan Hasil Olahan Kelapa Sawit",
+      "total_assets": 812893,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bukit Asam Prima",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 749894,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Internasional Prima Coal",
+      "business_type": "Penambangan Batubara",
+      "total_assets": 698178,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sinergi Mitra Lestari (dahulu PT Nasional Hijau Lestari)",
+      "business_type": "Infrastruktur",
+      "total_assets": 468518,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Bukit Prima Bahari",
+      "business_type": "Pelayaran",
+      "total_assets": 461094,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bukit Energi Investama",
+      "business_type": "Melakukan Investasi",
+      "total_assets": 254991,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Bukit Energi Service Terpadu",
+      "business_type": "Perdagangan, Jasa, Perbengkelan, Pembangunan, Perindustrian, dan Pengangkutan",
+      "total_assets": 173853,
+      "ownership_percentage": 99.62
+    },
+    {
+      "name": "PT Pelabuhan Bukit Prima",
+      "business_type": "Jasa Pelabuhan",
+      "total_assets": 143696,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bukitasam Transpacific Railway",
+      "business_type": "Jasa Angkutan Batubara",
+      "total_assets": 112685,
+      "ownership_percentage": 10
+    },
+    {
+      "name": "PT Bukit Asam Medika",
+      "business_type": "Rumah Sakit, Klinik, Poliklinik, Poliklinik Spesialis, dan Balai Pengobatan",
+      "total_assets": 107029,
+      "ownership_percentage": 97.5
+    },
+    {
+      "name": "PT Batubara Bukit Kendi",
+      "business_type": "Penambangan Batubara",
+      "total_assets": 55010,
+      "ownership_percentage": 99.39
+    },
+    {
+      "name": "PT Bukit Multi Properti",
+      "business_type": "Real Estate dan Konstruksi",
+      "total_assets": 47389,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Penajam Internasional Terminal",
+      "business_type": "Jasa Pelabuhan",
+      "total_assets": 37575,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Bukit Asam Banko",
+      "business_type": "Pertambangan dan Perdagangan",
+      "total_assets": 313,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bukit Asam Metana Enim",
+      "business_type": "Penambangan Gas Metana Batubara",
+      "total_assets": 73,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bukit Asam Metana Ombilin",
+      "business_type": "Penambangan Gas Metana Batubara",
+      "total_assets": 34,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "33.064.292.047.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,04",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,16",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "19,67",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "5,54",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,05",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "23,28",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:11.553Z"
+}

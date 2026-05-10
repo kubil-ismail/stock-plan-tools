@@ -1,0 +1,304 @@
+{
+  "company_name": "PT Trimegah Bangun Persada Tbk.",
+  "ticker": "NCKL",
+  "office_address": "Jalan Jendral Sudirman Kav. 1 Kelurahan Gelora, Kecamatan Tanah Abang, Jakarta Pusat 10270",
+  "email": "tbp.corsec@haritanickel.com",
+  "phone": "+62-21 5722924",
+  "fax": "+62-21 5722924",
+  "tax_id": "02.368.854.2-077.000",
+  "website": "https://www.tbpnickel.com",
+  "listing_date": "2023-04-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak di bidang usaha Pertambangan Bijih Nikel",
+    "business_summary": "Perusahaan bergerak di bidang Logam & Mineral Lainnya.",
+    "business_tags": [
+      "Logam & Mineral Lainnya"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Sdri. Rafika Fazrin",
+    "email": "tbp.corsec@haritanickel.com",
+    "phone": "+62-21 5722924"
+  },
+  "directors": [
+    {
+      "name": "Roy Arman Arfandy",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Suparsin Darmo Liwan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Sian Choo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tonny Hasudungan Gultom",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Younsel Evand Roos",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Donald J. Hermanus",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Darjoto Setyawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suryadi Sasmita",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Darjoto Setyawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Toni Setioko",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tsun Tien Wen Lie",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Harita Jayaraya",
+      "type": "Lebih dari 5%",
+      "shares": 50344432000,
+      "percentage": 79.79
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8129223600,
+      "percentage": 12.88
+    },
+    {
+      "name": "Citibank Hong Kong S/a Glencore International Investments Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 3963201100,
+      "percentage": 6.28
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 551010000,
+      "percentage": 0.87
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 110733300,
+      "percentage": 0.18
+    },
+    {
+      "name": "Suparsin Darmo Liwan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lim Sian Choo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tonny Hasudungan Gultom",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Younsel Evand Roos",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Donald J. Hermanus",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Darjoto Setyawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suryadi Sasmita",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Roy Arman Arfandy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Obira Mitra Jaya (omj)",
+      "business_type": "Konsultan",
+      "total_assets": 23312,
+      "ownership_percentage": 63.54
+    },
+    {
+      "name": "PT Halmahera Jaya Feronikel (hjf) - Melalui Omj",
+      "business_type": "Pengolahan Nikel",
+      "total_assets": 23309,
+      "ownership_percentage": 63.1
+    },
+    {
+      "name": "PT Megah Surya Pertiwi (msp)",
+      "business_type": "Pengolahan Nikel",
+      "total_assets": 5734,
+      "ownership_percentage": 59.9
+    },
+    {
+      "name": "PT Gane Permai Sentosa (gps)",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 1987,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gane Tambang Sentosa (gts)",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 1009,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jikodolong Megah Pertiwi (jmp) - Melalui Gps",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 84,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "Hjf International Trading (ningbo) Co., Ltd (hjfi) - Melalui Hjf",
+      "business_type": "Perdagangan",
+      "total_assets": 52,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Obi Anugerah Mineral (oam) - Melalui Gps",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 8,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Kreasi Kemakmuran Tambang (kkt) - Melalui Gts",
+      "business_type": "Pertambangan Lainnya",
+      "total_assets": 1,
+      "ownership_percentage": 99.95
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "65.938.037.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "11,35",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "21,92",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,78",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "51,49",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,93",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,88",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:37.883Z"
+}

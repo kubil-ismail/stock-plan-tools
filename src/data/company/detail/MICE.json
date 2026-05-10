@@ -1,0 +1,184 @@
+{
+  "company_name": "Multi Indocitra Tbk",
+  "ticker": "MICE",
+  "office_address": "Green Central City Commercial Area Lantai 6, Jl. Gajah Mada No. 188, Glodok, Taman Sari, Jakarta Barat 11120",
+  "email": "corp.sec@mic.co.id",
+  "phone": "(021) 2936 8888",
+  "fax": "(021) 2937 9212",
+  "tax_id": "0013 5328 6605 4000",
+  "website": "https://www.mic.co.id",
+  "listing_date": "2005-12-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Perlengkapan Rumah Tangga.",
+    "business_tags": [
+      "Perlengkapan Rumah Tangga"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 74,
+    "name": "Perlengkapan Rumah Tangga",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Ali Arifin Sutedjo",
+    "email": "corp.sec@mic.co.id",
+    "phone": "021-29368888"
+  },
+  "directors": [
+    {
+      "name": "Anthony Honoris",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Budiman Gitaloka",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendro Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alka Tranggana, Sh",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Teddy Syarief Natawidjaja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Budi Setyawan, Mm",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Teddy Syarief Natawidjaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Matheus Polusto Salbri",
+      "position": "Anggota"
+    },
+    {
+      "name": "Widya Mandasari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Buana Graha Utama",
+      "type": "Lebih dari 5%",
+      "shares": 290014018,
+      "percentage": 48.34
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 197457272,
+      "percentage": 32.91
+    },
+    {
+      "name": "Sukarto Bujung",
+      "type": "Lebih dari 5%",
+      "shares": 69173500,
+      "percentage": 11.53
+    },
+    {
+      "name": "PT Hoki Investasi Sejati",
+      "type": "Lebih dari 5%",
+      "shares": 39546900,
+      "percentage": 6.59
+    },
+    {
+      "name": "Anthony Honoris",
+      "type": "Direksi",
+      "shares": 2651200,
+      "percentage": 0.44
+    },
+    {
+      "name": "Budiman Gitaloka",
+      "type": "Direksi",
+      "shares": 806600,
+      "percentage": 0.13
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 237510,
+      "percentage": 0.04
+    },
+    {
+      "name": "Hendro Wibowo",
+      "type": "Direksi",
+      "shares": 113000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "303.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,99",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,67",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "22,14",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,94",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "11,30",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:51.489Z"
+}

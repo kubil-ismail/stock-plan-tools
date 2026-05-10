@@ -1,0 +1,210 @@
+{
+  "company_name": "PT Geoprima Solusi Tbk",
+  "ticker": "GPSO",
+  "office_address": "Rukan Artha Gading Niaga Blok D No. 15a, Kel. Kelapa Gading Barat, Kec. Kelapa Gading, Jakarta Utara 14240",
+  "email": "corsec@geoprima.co.id",
+  "phone": "(+62-21) 45850642",
+  "fax": "-",
+  "tax_id": "01.813.780.2-043.000",
+  "website": "https://www.geoprima.co.id",
+  "listing_date": "2021-09-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Mesin, Peralatan dan Perlengkapan Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Mesin & Komponen Perindustrian.",
+    "business_tags": [
+      "Mesin & Komponen Perindustrian"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 46,
+    "name": "Mesin & Komponen Perindustrian",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Daniel Gunawan",
+    "email": "corsec@geoprima.co.id",
+    "phone": "(021) 4585 0667"
+  },
+  "directors": [
+    {
+      "name": "Dionysius Tjokro",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Axel Tobias Joel",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Karnadi Margaka",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Adi Sulaiman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Purwan Habibie Siswanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Purwan Habibie Siswanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Theo Hutomo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Esther Lowiyanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 340357003,
+      "percentage": 51.05
+    },
+    {
+      "name": "PT Pimsf Pulogadung",
+      "type": "Lebih dari 5%",
+      "shares": 326369600,
+      "percentage": 48.95
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dionysius Tjokro",
+      "type": "Direksi",
+      "shares": 14500,
+      "percentage": 0
+    },
+    {
+      "name": "Axel Tobias Joel",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Karnadi Margaka",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adi Sulaiman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Purwan Habibie Siswanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Herman, Dody, Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Herman, Dody, Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "230.692.421.638",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "39,24",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,65",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "43,59",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "18,28",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "27,91",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "38,03",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:15.389Z"
+}

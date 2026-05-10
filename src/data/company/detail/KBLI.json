@@ -1,0 +1,284 @@
+{
+  "company_name": "Kmi Wire And Cable Tbk",
+  "ticker": "KBLI",
+  "office_address": "Jl. Raya Bekasi Km 23,1 Cakung Jakarta Timur 13910 Telp. 021-4601733 Fax. 021-4610593",
+  "email": "madeyudana@kmi.co.id",
+  "phone": "021-4601733",
+  "fax": "-",
+  "tax_id": "001.000.177.4-054.000",
+  "website": "https://www.kmi.co.id",
+  "listing_date": "1992-07-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Kabel",
+    "business_summary": "Perusahaan bergerak di bidang Komponen & Peralatan Kelistrikan.",
+    "business_tags": [
+      "Komponen & Peralatan Kelistrikan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 18,
+    "name": "Kelistrikan"
+  },
+  "sub_industry": {
+    "id": 38,
+    "name": "Komponen & Peralatan Kelistrikan",
+    "industries_id": 18
+  },
+  "corporate_secretary": {
+    "name": "Made Yudana",
+    "email": "madeyudana@kmi.co.id",
+    "phone": "021-4601733 Ext. 242"
+  },
+  "directors": [
+    {
+      "name": "Herman Nursalim",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lili",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Fui Liong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ilham",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Irwan Mandrawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Laura Rahardja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Todo Sihombing",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sang Nyoman Suwisma",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sintawati Sukamuljo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sintawati Sukamuljo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lieta Irawati Sumantri",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agustine Fransisca",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 2024842870,
+      "percentage": 50.53
+    },
+    {
+      "name": "PT. Omedata Electronics",
+      "type": "Lebih dari 5%",
+      "shares": 1982392237,
+      "percentage": 49.47
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herman Nursalim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Laura Rahardja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lim Fui Liong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ilham",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Irwan Mandrawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Todo Sihombing",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sang Nyoman Suwisma",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sintawati Sukamuljo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kmi Electric Solution",
+      "business_type": "Industri Pembuatan Aksesoris dan Perlengkapan Kabel",
+      "total_assets": 76125720015,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT. Langgeng Baja Pratama",
+      "business_type": "Industri Pembuatan Kawat Baja",
+      "total_assets": 65052289560,
+      "ownership_percentage": 58.9
+    },
+    {
+      "name": "PT Langgeng Baja Pratama",
+      "business_type": "Industri Pembuatan Kawat Baj",
+      "total_assets": 109366627,
+      "ownership_percentage": 58.9
+    },
+    {
+      "name": "PT Kmi Electric Solution",
+      "business_type": "Industri Pembuatan Aksesoris dan Perlengkapan Kabel dan Perdagangan",
+      "total_assets": 99693172,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Kmi Electric Solution",
+      "business_type": "Industri Pembuatan Aksesoris dan Perlengkapan Kabel dan Perdagangan",
+      "total_assets": 97294885,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Langgeng Baja Pratama",
+      "business_type": "Industri Pembuatan Kawat Baj",
+      "total_assets": 81331219,
+      "ownership_percentage": 58.9
+    },
+    {
+      "name": "PT. Langgeng Baja Pratama",
+      "business_type": "Industri Pembuatan Kawat Baja",
+      "total_assets": 78165739,
+      "ownership_percentage": 58.9
+    },
+    {
+      "name": "PT Kmi Electric Solution",
+      "business_type": "Industri Pembuatan Aksesoris dan Perlengkapan Kabel",
+      "total_assets": 76779210,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Kmi Electric Solution",
+      "business_type": "Industri Pembuatan Aksesoris dan Perlengkapan Kabel",
+      "total_assets": 72252860,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT. Langgeng Baja Pratama",
+      "business_type": "Industri Pembuatan Kawat Baja",
+      "total_assets": 65235903,
+      "ownership_percentage": 58.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.306.358.644.882",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,23",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "1,83",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "5,85",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,86",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,62",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "1,23",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:05.859Z"
+}

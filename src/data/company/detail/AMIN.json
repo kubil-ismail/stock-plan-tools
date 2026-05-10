@@ -1,0 +1,205 @@
+{
+  "company_name": "PT Ateliers Mecaniques D Indonesie Tbk.",
+  "ticker": "AMIN",
+  "office_address": "Jalan Sei Belumai Km. 2,4 No. 30-38 Desa Dagang Kelambir - Tanjung Marowa Deli Serdang - Sumatera Utara",
+  "email": "corsec@atmindo.co.id",
+  "phone": "(061) 794 7751",
+  "fax": "(061) 794 7755",
+  "tax_id": "01.001.807.5-055.000",
+  "website": "https://www.atmindoboiler.com",
+  "listing_date": "2015-12-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang Industri Manufaktur dan Perakitan Mesin Industri",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 46,
+    "name": "Mesin & Komponen Perindustrian",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Pieter Simanjuntak",
+    "email": "corsec@atmindo.co.id",
+    "phone": "(061) 7947751"
+  },
+  "directors": [
+    {
+      "name": "Rudy Susanto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lai Kien Hsin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Linda Taty",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chong Kim Kong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lai May Ling",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Juliani",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Daulat Sihombing",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Septony Benjamin Siahaan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Septony B Siahaan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wesly Simanjuntak",
+      "position": "Anggota"
+    },
+    {
+      "name": "Arison Nainggolan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sphere Corporation, Sdn, Bhd",
+      "type": "Lebih dari 5%",
+      "shares": 630638300,
+      "percentage": 58.39
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 197559700,
+      "percentage": 18.29
+    },
+    {
+      "name": "Chong Kim Kong",
+      "type": "Direksi",
+      "shares": 109200000,
+      "percentage": 10.11
+    },
+    {
+      "name": "Chong Kim Leong",
+      "type": "Lebih dari 5%",
+      "shares": 75600000,
+      "percentage": 7
+    },
+    {
+      "name": "Rudy Susanto",
+      "type": "Direksi",
+      "shares": 42000000,
+      "percentage": 3.89
+    },
+    {
+      "name": "Lai Kien Hsin",
+      "type": "Direksi",
+      "shares": 10000000,
+      "percentage": 0.93
+    },
+    {
+      "name": "Lai May Ling",
+      "type": "Direksi",
+      "shares": 10000000,
+      "percentage": 0.93
+    },
+    {
+      "name": "Lindataty",
+      "type": "Direksi",
+      "shares": 5002000,
+      "percentage": 0.46
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "270.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "18,80",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "6,11",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "8,59",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "98,57",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,73",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "11,20",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:16.651Z"
+}

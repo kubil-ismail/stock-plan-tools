@@ -1,0 +1,188 @@
+{
+  "company_name": "Fortune Mate Indonesia Tbk",
+  "ticker": "FMII",
+  "office_address": "Gedung Gozco Lt. 3 Jl. Raya Darmo No. 54-56, Surabaya 60265 Jawa Timur",
+  "email": "corsec@fmiindo.com",
+  "phone": "(031) 561-28-18 (hunting)",
+  "fax": "(031) 562-09-68",
+  "tax_id": "01.061.806.4-641.001",
+  "website": "https://www.fmiindo.com",
+  "listing_date": "2000-06-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengembang dan Pembangunan (Real Estate)",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Bapak Agustinus Agus Sunarto",
+    "email": "agustinus.sunarto@fmiindo.com",
+    "phone": "(031) 561-28-18 pes 512"
+  },
+  "directors": [
+    {
+      "name": "Olivia Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjandra Mindharta Gozali",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yongki Tedja",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Kwong Heranita Cintya",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Teddy Gunawan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lisajana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Harijanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ibu Lisajana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ibu Lina Chandra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bapak Firly Baihaqi Hendyanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Surya Mega Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 2987129145,
+      "percentage": 46.67
+    },
+    {
+      "name": "Tjandra Mindharta Gozali",
+      "type": "Direksi",
+      "shares": 1318342187,
+      "percentage": 20.6
+    },
+    {
+      "name": "Teddy Gunawan",
+      "type": "Komisaris",
+      "shares": 1318342187,
+      "percentage": 20.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 776186481,
+      "percentage": 12.13
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Multi Bangun Sarana",
+      "business_type": "Pembangunan Real Estate",
+      "total_assets": 201671,
+      "ownership_percentage": 99.85
+    },
+    {
+      "name": "PT. Indosuryo Wahyupahala",
+      "business_type": "Pembangunan Real Estate",
+      "total_assets": 29245,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.484.800.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "14,15",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "8,33",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "32,02",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "43,46",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,83",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "17,69",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:49.406Z"
+}

@@ -1,0 +1,326 @@
+{
+  "company_name": "PT Chandra Daya Investasi Tbk",
+  "ticker": "CDIA",
+  "office_address": "Wisma Barito Pacific Tower A, Lantai 5 Jl. Let. Jend. S. Parman Kav. 62 - 63 Jakarta Barat 11410, Indonesia",
+  "email": "corporatesecretary.cdi@capcx.com",
+  "phone": "0215307950",
+  "fax": "",
+  "tax_id": "62.845.300.3-031.000",
+  "website": "http://www.chandradaya-investasi.com",
+  "listing_date": "2025-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding dan Konsultasi Manajemen Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik, Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 34,
+    "name": "Utilitas",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 57,
+    "name": "Utilitas Listrik"
+  },
+  "sub_industry": {
+    "id": 100,
+    "name": "Utilitas Listrik",
+    "industries_id": 57
+  },
+  "corporate_secretary": {
+    "name": "Merly",
+    "email": "corporatesecretary.cdi@capcx.com",
+    "phone": "+62215307950"
+  },
+  "directors": [
+    {
+      "name": "Fransiskus Ruly Aryawan",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Jonathan Kandinata",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Merly",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Lukmanul Hakim",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Saksit Suntharekanon",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Erry Riyana Hardjapamekas",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Supandi, Se",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Erwin Ciputra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Andre Khor Kah Hin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Thawat Hirancharukorn",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prasit Laohawirapap",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ade Supandi, Se",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jennywati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Toni Setioko",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Chandra Asri Pacific Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 74897620800,
+      "percentage": 60
+    },
+    {
+      "name": "Phoenix Power B.v.",
+      "type": "Lebih dari 5%",
+      "shares": 37448816400,
+      "percentage": 30
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 12432315200,
+      "percentage": 9.9595
+    },
+    {
+      "name": "Andre Khor Kah Hin",
+      "type": "Komisaris",
+      "shares": 19250000,
+      "percentage": 0.0154
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 11572300,
+      "percentage": 0.0093
+    },
+    {
+      "name": "Fransiskus Ruly Aryawan",
+      "type": "Direksi",
+      "shares": 5600000,
+      "percentage": 0.0044
+    },
+    {
+      "name": "Jonathan Kandinata",
+      "type": "Direksi",
+      "shares": 5000000,
+      "percentage": 0.004
+    },
+    {
+      "name": "Merly",
+      "type": "Direksi",
+      "shares": 4000000,
+      "percentage": 0.0032
+    },
+    {
+      "name": "Erwin Ciputra",
+      "type": "Komisaris",
+      "shares": 3700000,
+      "percentage": 0.003
+    },
+    {
+      "name": "Agus Lukmanul Hakim",
+      "type": "Direksi",
+      "shares": 1500000,
+      "percentage": 0.0012
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Krakatau Chandra Energi",
+      "business_type": "Industri Listrik",
+      "total_assets": 277650089,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Chandra Shipping International",
+      "business_type": "Pengangkutan Pelayaran",
+      "total_assets": 51145064,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Marina Indah Maritim",
+      "business_type": "Pengangkutan Pelayaran",
+      "total_assets": 33321064,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Chandra Domesitc Warehouse",
+      "business_type": "Pergudangan dan Penyimpanan",
+      "total_assets": 17965553,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chandra Samudera Port",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 13760650,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chandra Cilegon Port",
+      "business_type": "Pergudangan, Penyimpanan, dan Layanan Kepelabuhan",
+      "total_assets": 13400324,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Redeco Petrolin Utama",
+      "business_type": "Sewa Tangki",
+      "total_assets": 9929501,
+      "ownership_percentage": 50.75
+    },
+    {
+      "name": "PT Chandra Cold Chain",
+      "business_type": "Pengangkutan dan Pergudangan",
+      "total_assets": 929253,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Chandra Trita Karian",
+      "business_type": "Jasa Keuangan, Aktivitas Kantor Pusat, dan Konsultasi Manajemen",
+      "total_assets": 929253,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Krakatau Sarana Energi",
+      "business_type": "Penjualan Bahan Bakar Minyak",
+      "total_assets": 735739,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Chandra Industrial Infra Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chandra Asri Port",
+      "business_type": "Pergudangan, Penyimpanan, dan Layanan Kepelabuhan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "129.822.549.688.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,97",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,98",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "45,95",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,43",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "39,65",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:02.495Z"
+}

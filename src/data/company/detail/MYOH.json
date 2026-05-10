@@ -1,0 +1,296 @@
+{
+  "company_name": "Samindo Resources Tbk",
+  "ticker": "MYOH",
+  "office_address": "Equity Tower, Unit Cdh Lantai 30, SCBD Lot 9, Jl. Jend. Sudirman Kav. 52-53, Jakarta Selatan 12190 Indonesia",
+  "email": "admin@samindoresources.com",
+  "phone": "(62-21) 29037723",
+  "fax": "(62-21) 5257508",
+  "tax_id": "01.949.387.3.054.000",
+  "website": "https://www.samindoresources.com",
+  "listing_date": "2000-07-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Otomotif.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Ahmad Zaki Natsir",
+    "email": "zaki@samindoresources.com",
+    "phone": "021 5257481 ext 114"
+  },
+  "directors": [
+    {
+      "name": "Jeong Subok",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kim Hyo Yeol",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Koo Kwangrim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Park Jung Ook",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lee Kang Hyeob",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sukardi Rinakit",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Herman R. Soetisna",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Myung Chang Yong",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yoo Robert Yong Wook",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Oh Donggyu",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Herman R. Soetisna",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ary Nugroho",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sandra Aulia Zanny",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "St International Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 1302479275,
+      "percentage": 59.03
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 591035725,
+      "percentage": 26.79
+    },
+    {
+      "name": "Low, Tuck Kwong",
+      "type": "Lebih dari 5%",
+      "shares": 312776250,
+      "percentage": 14.18
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 21250,
+      "percentage": 0
+    },
+    {
+      "name": "Herman R. Soetisna",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Oh Donggyu",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Myung Chang Yong",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yoo Robert Yong Wook",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sukardi Rinakit",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jeong Subok",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Park Jung Ook",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kim Hyo Yeol",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Koo Kwangrim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lee Kang Hyeob",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Transkon Jaya Tbk",
+      "business_type": "Jasa Sewa Kendaraan",
+      "total_assets": 54626222,
+      "ownership_percentage": 83.81
+    },
+    {
+      "name": "PT Sims Jaya Kaltim",
+      "business_type": "Jasa Pemindahan Tanah dan Pengambilan Batubara",
+      "total_assets": 44372127,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Samindo Utama Kaltim",
+      "business_type": "Jasa Pengangkutan Batubara",
+      "total_assets": 13458287,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Trasindo Murni Perkasa",
+      "business_type": "Jasa Pengangkutan Batubara",
+      "total_assets": 12484026,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Mintec Abadi",
+      "business_type": "Jasa Pengeboran Eksplorasi dan Lainnya",
+      "total_assets": 1259901,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Multi Perkasa Indonesia",
+      "business_type": "Jasa Layanan Informasi dan Komunikasi, Perdagangan Besar dan Eceran dan Reparasi dan Perawatan Mobil dan Sepeda Motor",
+      "total_assets": 511481,
+      "ownership_percentage": 83.64
+    },
+    {
+      "name": "PT Borneo Sentana Gemilang",
+      "business_type": "Jasa Alih Daya, Perdagangan Suku Cadang dan Aksesoris Mobil/",
+      "total_assets": 461162,
+      "ownership_percentage": 83.64
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.724.795.937.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,08",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "10,83",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "20,32",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "30,81",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,41",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "20,06",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:29.960Z"
+}

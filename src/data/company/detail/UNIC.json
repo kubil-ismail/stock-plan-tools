@@ -1,0 +1,434 @@
+{
+  "company_name": "Unggul Indah Cahaya Tbk",
+  "ticker": "UNIC",
+  "office_address": "Ws.uic Jl. Gatot Subroto Kav.6-7, Karet Semanggi - Setiabudi, Jakarta Selatan",
+  "email": "corp_sect@uic.co.id",
+  "phone": "(021) 57905100",
+  "fax": "(021) 57905111",
+  "tax_id": "0010601094092000",
+  "website": "http://www.uic.co.id",
+  "listing_date": "1989-11-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Chemicals",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Dasar.",
+    "business_tags": [
+      "Barang Kimia Dasar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Fifi Afriyanthi",
+    "email": "corp_sect@uic.co.id",
+    "phone": "(021) 57905100"
+  },
+  "directors": [
+    {
+      "name": "Yani Alifen",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lily Setiadi",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Toni Liawan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Erwin Sudjono",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hanny Sutanto",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Teddy J. Katuari",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Indrawan Masrin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Farid Harianto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Franciscus Welirang",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Farid Harianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hana Pergiwati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sutjipto Budiman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Aspirasi Luhur",
+      "type": "Lebih dari 5%",
+      "shares": 139351604,
+      "percentage": 36.35
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 133093599,
+      "percentage": 34.73
+    },
+    {
+      "name": "PT Alas Pusaka",
+      "type": "Lebih dari 5%",
+      "shares": 43660821,
+      "percentage": 11.39
+    },
+    {
+      "name": "PT. Salim Chemicals Corpora",
+      "type": "Lebih dari 5%",
+      "shares": 39635036,
+      "percentage": 10.34
+    },
+    {
+      "name": "PT Lautan Luas Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 22858900,
+      "percentage": 5.96
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 4412894,
+      "percentage": 1.15
+    },
+    {
+      "name": "Hanny Sutanto",
+      "type": "Komisaris",
+      "shares": 318509,
+      "percentage": 0.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Universal Interchemicals Corp. Pte., Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 44635115,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson Australia Ltd.",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 44603793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson (awal)",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 41058067,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Interchemicals Corp. Pte., Ltd. (\"uicpl')",
+      "business_type": "Investasi",
+      "total_assets": 41013244,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson (australia) Ltd. (\"awal\")",
+      "business_type": "Produksi dan Distribusi Fosfat dan Surfactant",
+      "total_assets": 40981052,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Interchemicals Corp. Pte., Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 40230710,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson (australia) Ltd.",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 40201939,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Interchemicals Corp. Pte., Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 39086726,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson Australia Ltd.",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 38205339,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Unggul Indah Investama (\"uii\")",
+      "business_type": "Investasi",
+      "total_assets": 28464511,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Wiranusa Grahatama ('wg\")",
+      "business_type": "Pengembang Real Estat",
+      "total_assets": 28434275,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Unggul Indah Investama, PT",
+      "business_type": "Investasi",
+      "total_assets": 27524822,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Wiranusa Grahatama PT",
+      "business_type": "Pengembang Real Estat",
+      "total_assets": 27500752,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT. Unggul Indah Investama",
+      "business_type": "Investasi",
+      "total_assets": 27439392,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Wiranusa Grahatama",
+      "business_type": "Pengembang Real Estat",
+      "total_assets": 27420642,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT. Unggul Indah Investama",
+      "business_type": "Investasi",
+      "total_assets": 26629922,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Wiranusa Grahatama",
+      "business_type": "Pengembang Real Estat",
+      "total_assets": 26607943,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT. Unggul Indah Investama",
+      "business_type": "Investasi",
+      "total_assets": 25664332,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Wiranusa Grahatama",
+      "business_type": "Pengembang Real Estat",
+      "total_assets": 25644278,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Uic Vietnam Co., Ltd.",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 18242042,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Uic Vietnam Co., Ltd.",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 18104124,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Uic Vietnam Co., Ltd.",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 17705422,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Uic Vietnam Co., Ltd. (\"uicv\")",
+      "business_type": "Produksi dan Distribusi Deterjen Aktif Linear Alkylbenzene Sulfonic Acid dan Sodium Lauryl Ether Sulfate",
+      "total_assets": 17677160,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Uic Vietnam Co., Ltd.",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 16774884,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Petrocentral (\"petrocentral\")",
+      "business_type": "Produksi dan Distribusi Sodium Tripolyphosphate dan Phosphoric Acid",
+      "total_assets": 6386567,
+      "ownership_percentage": 61.72
+    },
+    {
+      "name": "PT. Petrocentral",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 6353871,
+      "ownership_percentage": 70.13
+    },
+    {
+      "name": "PT. Petrocentral",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 6094352,
+      "ownership_percentage": 70.13
+    },
+    {
+      "name": "PT. Petrocentral",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 5887483,
+      "ownership_percentage": 70.13
+    },
+    {
+      "name": "Petrocentral PT",
+      "business_type": "Produksi dan Distribusi",
+      "total_assets": 5506865,
+      "ownership_percentage": 61.72
+    },
+    {
+      "name": "Universal Interchemicals Corp. Pte., Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 4109071,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson New Zealand Ltd.",
+      "business_type": "Distribusi",
+      "total_assets": 2706695,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson New Zealand Ltd.",
+      "business_type": "Distribusi",
+      "total_assets": 2704663,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson (awnz)",
+      "business_type": "Distribusi",
+      "total_assets": 2684603,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson New Zealand Ltd.",
+      "business_type": "Distribusi",
+      "total_assets": 2445213,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Albright & Wilson New Zealand Ltd. (\"awnz')",
+      "business_type": "Distribusi Fosfat dan Surfactant",
+      "total_assets": 2262120,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Wira Usaha Tama (\"wut\")",
+      "business_type": "",
+      "total_assets": 3369,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Wira Usaha Tama",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3314,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Wira Usaha Tama",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3272,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Wira Usaha Tama",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3176,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Wira Usaha Tama",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3060,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.753.308.901.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,23",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "34,55",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "36,34",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "63,17",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,80",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "43,98",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:11.505Z"
+}

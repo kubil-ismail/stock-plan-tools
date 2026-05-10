@@ -1,0 +1,387 @@
+{
+  "company_name": "Aneka Tambang Tbk.",
+  "ticker": "ANTM",
+  "office_address": "Gedung Aneka Tambang, Jl. Letjen T.b. Simatupang No. 1 Jakarta 12530",
+  "email": "corsec@antam.com",
+  "phone": "021-7805119; 021-7891234 ; 021-7812635",
+  "fax": "021-7812822",
+  "tax_id": "0010016632051000",
+  "website": "http://www.antam.com",
+  "listing_date": "1997-11-27",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Metal and Mineral Mining",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Batubara, Logistik, Konstruksi.",
+    "business_tags": [
+      "Agribisnis",
+      "Batubara",
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "batubara",
+      "coal",
+      "mining",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Wisnu Danandi Haryanto",
+    "email": "corsec@antam.com",
+    "phone": "6221 789 1234"
+  },
+  "directors": [
+    {
+      "name": "Untung Budiharto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hartono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "I Dewa Wirantaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arianto Sabtonugroho Rudjito",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Handi Sutanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ratih Amri",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Irwandy Arif",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Elen Setiadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ridwan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rudy Sufahriadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "M. Rudy Salahuddin Ramto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pius Lustrilanang",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pius Lustrilanang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ridwan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Vera Diyanty",
+      "position": "Anggota"
+    },
+    {
+      "name": "Firly Rachmaditya Baskoro",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mineral Industri Indonesia (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 15619999999,
+      "percentage": 65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8373310492,
+      "percentage": 34.84
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 37418858,
+      "percentage": 0.16
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 22875,
+      "percentage": 0
+    },
+    {
+      "name": "Irwandy Arif",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Elen Setiadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ridwan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rudy Sufahriadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pius Lustrilanang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Untung Budiharto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hartono",
+      "type": "Direksi",
+      "shares": 12500,
+      "percentage": 0
+    },
+    {
+      "name": "I Dewa Wirantaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Handi Sutanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arianto Sabtonugroho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ratih Dewihandajani L.",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Gag Nikel",
+      "business_type": "Eksplorasi dan Operator Tambang Nikel",
+      "total_assets": 4112468,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Asia Pacific Nickel Pty., Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3887896,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indonesia Chemical Alumina",
+      "business_type": "Pengolahan dan Pemurnian Hasil Tambang Bauksit Menjadi Produk Alumina, Pengangkutan, Perdagangan dan Pendistribusian Produk Alumina",
+      "total_assets": 2870578,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumberdaya Arindo",
+      "business_type": "Eksplorasi dan Operator Tambang Nikel",
+      "total_assets": 1745603,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nusa Karya Arindo",
+      "business_type": "Eksplorasi dan Operator Tambang Nikel",
+      "total_assets": 920305,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Antam Resourcindo",
+      "business_type": "Eksplorasi dan Operator Tambang",
+      "total_assets": 183975,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Borneo Edo International",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertanian dan Pertambangan",
+      "total_assets": 183096,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emas Antam Indonesia",
+      "business_type": "Perindustrian dan Perdagangan",
+      "total_assets": 133746,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cibaliung Sumberdaya",
+      "business_type": "Eksplorasi, Konstruksi dan Pengembangan Tambang, Penambangan, Produksi, Pengolahan dan Pemurnian, Pengangkutan dan Penjualan di Industri Emas",
+      "total_assets": 126415,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mega Citra Utama",
+      "business_type": "Konstruksi, Perdagangan, Perindustrian, Pertanian dan Pertambangan",
+      "total_assets": 67761,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT International Mineral Capital",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 41351,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pongkeru Mineral Utama",
+      "business_type": "Eksplorasi dan Operator Tambang Nikel",
+      "total_assets": 29753,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Borneo Edo International Agro",
+      "business_type": "Perkebunan, Perindustrian, Pengangkutan Hasil Perkebunan, Perdagangan dan Jasa",
+      "total_assets": 22923,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kawasan Industri Antam Timur",
+      "business_type": "Jasa Manajemen Kawasan Industri",
+      "total_assets": 22057,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indonesia Coal Resources",
+      "business_type": "Perdagangan, Transportasi dan Jasa Tambang Batubara",
+      "total_assets": 16150,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Borneo Edo Sejahtera",
+      "business_type": "Jasa, Perdagangan, dan Perindustrian",
+      "total_assets": 13396,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dwimitra Enggang Khatulistiwa",
+      "business_type": "Eksplorasi dan Operator Tambang",
+      "total_assets": 12720,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Tobindo Sukses Perkasa",
+      "business_type": "Eksplorasi dan Operator Tambang Batubara",
+      "total_assets": 9697,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gunung Kendaik",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertanian, Pengangkutan Darat, Jasa, Pertambangan dan Percetakan",
+      "total_assets": 1646,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "89.875.060.071.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,16",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,16",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "25,17",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "35,45",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,47",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "13,08",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:22.890Z"
+}

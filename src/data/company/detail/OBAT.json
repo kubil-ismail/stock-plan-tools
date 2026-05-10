@@ -1,0 +1,257 @@
+{
+  "company_name": "PT Brigit Biofarmaka Teknologi Tbk",
+  "ticker": "OBAT",
+  "office_address": "Jalan Raya Tawangsari-klaten, Rejosari, Rt 01, Rw 07, Kateguhan, Tawangsari, Sukoharjo, Jawa Tengah 57561",
+  "email": "info@brigit.co.id",
+  "phone": "(0271) 5992141",
+  "fax": "",
+  "tax_id": "82.147.255.2-532.000",
+  "website": "https://www.brigit.co.id",
+  "listing_date": "2025-01-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang Maklon Herbal, Kosmetik, dan Minuman Fungsional dan Botanikal",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan, Makanan & Minuman.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Toufin Noor Prambudi",
+    "email": "info@brigit.co.id",
+    "phone": "(0271) 5992141"
+  },
+  "directors": [
+    {
+      "name": "Is Heriyanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Atik Setyaningsih",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Angga Arie Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Machmud Lutfi Huzain",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Narno Raharjo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dahlan Iskan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dahlan Iskan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kusnia Arianto",
+      "position": ""
+    },
+    {
+      "name": "Alinda Diah Yualita Harmoko",
+      "position": ""
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Machmud Lutfi Huzain",
+      "type": "Komisaris",
+      "shares": 215000000,
+      "percentage": 31.6
+    },
+    {
+      "name": "Amei Lisa Dita Karina",
+      "type": "Lebih dari 5%",
+      "shares": 193500000,
+      "percentage": 28.44
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 161801975,
+      "percentage": 23.78
+    },
+    {
+      "name": "Drs. Surono Subekti",
+      "type": "Lebih dari 5%",
+      "shares": 88574600,
+      "percentage": 13.02
+    },
+    {
+      "name": "Narno Raharjo",
+      "type": "Komisaris",
+      "shares": 21500000,
+      "percentage": 3.16
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dahlan Iskan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Is Heriyanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Atik Setyaningsih",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Angga Arie Wibowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Botryo Herba Bioteknologi",
+      "business_type": "Perdagangan Eceran Kosmetik untuk Manusia, Obat Tradisional, Sabun dan Bahan Pembersih Keperluan Rumah Tangga, Alat Kesehatan dalam Subgolongan",
+      "total_assets": 9696473394,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Meilis Inovasi Bioteknologi",
+      "business_type": "Perdagangan Eceran Kosmetik untuk Manusia",
+      "total_assets": 6880706029,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Denbo Higienis Laboratoris (dhi)",
+      "business_type": "Industri Sabun dan Bahan Pembersih Keperluan Rumah Tangga",
+      "total_assets": 5887620000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Algaepark Indonesia Mandiri",
+      "business_type": "Industri Minuman Ringan, Industri Bahan Baku Obat Tradisional untuk Manusia, Industri Pengolahan Susu Bubuk dan Susu Kental, Industri Sirop, dan Industri Glukosa dan Sejenisnya",
+      "total_assets": 2913443040,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Robert, Rudi, Yansen & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Yansen & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Yansen & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Yansen & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Yansen & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Yansen & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "224.524.269.750",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,47",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "14,52",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "26,73",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "37,03",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "18,88",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:55.750Z"
+}

@@ -1,0 +1,301 @@
+{
+  "company_name": "Surya Toto Indonesia Tbk",
+  "ticker": "TOTO",
+  "office_address": "Jl. Letjen S. Parman Kav 81, Kota Bambu Selatan, Pal Merah, Kota Adm. Jakarta Barat, Dki Jakarta, 11420",
+  "email": "toto.indonesia@toto.co.id",
+  "phone": "021 - 29298686",
+  "fax": "021 - 5682282, 021 - 5601296",
+  "tax_id": "01.000.239.2-054.000",
+  "website": "https://investor.toto.co.id",
+  "listing_date": "1990-10-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Basic Industry and Chemicals - Cement",
+    "business_summary": "Perusahaan bergerak di bidang Produk & Perlengkapan Bangunan.",
+    "business_tags": [
+      "Produk & Perlengkapan Bangunan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Bapak Ng Agus Setiawan",
+    "email": "toto.indonesia@toto.co.id",
+    "phone": "021-29298686"
+  },
+  "directors": [
+    {
+      "name": "Hanafi Atmadiredja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hiroshi Tomonari",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Juliawan Sari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ng Agus Setiawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Junichi Kida",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ferry Prajogo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cin Chin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Toru Yamamura",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Shoichiro Morita",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anton Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Benny Suryanto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hiromoto Harano",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Umarsono Andy",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gunawan Sumana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Setia Budi Purwadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gunawan Sumana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Setia Budi Purwadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "David Tjahjadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Toto Limited",
+      "type": "Lebih dari 5%",
+      "shares": 3911546800,
+      "percentage": 37.9
+    },
+    {
+      "name": "Multifortuna Asindo",
+      "type": "Lebih dari 5%",
+      "shares": 3032548250,
+      "percentage": 29.39
+    },
+    {
+      "name": "Suryaparamitra Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 2574878650,
+      "percentage": 24.95
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 774923900,
+      "percentage": 7.51
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 26102400,
+      "percentage": 0.25
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benny Suryanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hiromoto Harano",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Umarsono Andy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Sumana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Setia Budi Purwadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hanafi Atmadiredja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hiroshi Tomonari",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Juliawan Sari",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Junichi Kida",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferry Prajogo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Toru Yamamura",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Shoichiro Morita",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cin Chin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anton Budiman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ng Agus Setiawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.786.400.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,11",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,26",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,34",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "13,04",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,76",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "3,70",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:48.169Z"
+}

@@ -1,0 +1,226 @@
+{
+  "company_name": "PT Nusantara Almazia, Tbk.",
+  "ticker": "NZIA",
+  "office_address": "Kantor Pemasaran Ckm City Jl. Raya Citra Kebun Mas Desa Bengle, Kecamatan Majalaya Kabupaten Karawang, Jawa Barat - 41351",
+  "email": "nusantara@ristiagroup.com",
+  "phone": "+62 267 432851",
+  "fax": "+62 267 432851",
+  "tax_id": "02.663.417.0-408.000",
+  "website": "https://www.nusantara-almazia.com",
+  "listing_date": "2019-09-25",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengembang (Developer) Properti",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Novrizal Setyawan",
+    "email": "nusantara@ristiagroup.com",
+    "phone": "+62 267 432851"
+  },
+  "directors": [
+    {
+      "name": "Novrizal Setyawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Caesarika Dwi Sekar Palupi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nur Anisa Nusuqi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ventje Rahardjo Soedigno",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Michella Ristiadewi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Selamat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Selamat",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nuraeni",
+      "position": "Anggota"
+    },
+    {
+      "name": "Widia Puspa Kartika Putri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Richard Wiriahardja",
+      "type": "Lebih dari 5%",
+      "shares": 977980000,
+      "percentage": 44.5
+    },
+    {
+      "name": "PT Ristia Bintang Mahkotasejati Tbk. (rbms)",
+      "type": "Lebih dari 5%",
+      "shares": 758000000,
+      "percentage": 34.49
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 461540705,
+      "percentage": 21
+    },
+    {
+      "name": "Michella Ristiadewi",
+      "type": "Komisaris",
+      "shares": 20000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Serena Inti Sejati",
+      "business_type": "Pengembangan Perumahan dan Real Estat",
+      "total_assets": 120495612742,
+      "ownership_percentage": 68
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "345.013.890.685",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "15,22",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "37,10",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "41,82",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "140,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,70",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "36,84",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:54.018Z"
+}

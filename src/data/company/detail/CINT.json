@@ -1,0 +1,285 @@
+{
+  "company_name": "PT Chitose Internasional Tbk",
+  "ticker": "CINT",
+  "office_address": "Jl. Industri III No. 5 Rt. 001 Rw.008, Kelurahan Utama, Kecamatan Cimahi Selatan, Kota Cimahi Jawa Barat 40533",
+  "email": "cint@chitose.id",
+  "phone": "(6222) 6031900",
+  "fax": "-",
+  "tax_id": "0011184793054000",
+  "website": "https://www.chitose-indonesia.com",
+  "listing_date": "2014-06-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perindustrian, perdagangan dan jasa Furniture.",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 84,
+    "name": "Produsen Furnitur Rumah",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Yaya Sunjaya",
+    "email": "cint@chitose-indonesia.com",
+    "phone": "(022) 6031900"
+  },
+  "directors": [
+    {
+      "name": "Kazuhiko Aminaka",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "R. Nurwulan Kusumawati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Arifin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dedie Suherlan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "V Roy Sunarja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Widjaya Djohan",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "V. Roy Sunarja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yohanes Linero",
+      "position": "Anggota"
+    },
+    {
+      "name": "Satyadharma Ruslim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tritirta Inti Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 532646100,
+      "percentage": 53.2646
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 291152100,
+      "percentage": 29.1152
+    },
+    {
+      "name": "Niven Holding Limited",
+      "type": "Lebih dari 5%",
+      "shares": 60194800,
+      "percentage": 6.0195
+    },
+    {
+      "name": "Kiky Suherlan",
+      "type": "Lebih dari 5%",
+      "shares": 50000000,
+      "percentage": 5
+    },
+    {
+      "name": "Dedie Suherlan",
+      "type": "Komisaris",
+      "shares": 50000000,
+      "percentage": 5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 15750000,
+      "percentage": 1.575
+    },
+    {
+      "name": "Kazuhiko Aminaka",
+      "type": "Direksi",
+      "shares": 257000,
+      "percentage": 0.0257
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "R. Nurwulan Kusumawati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ade Arifin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Widjaya Djohan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "V Roy Sunarja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Susanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Delta Furindotama",
+      "business_type": "Perdagangan/retail",
+      "total_assets": 53474937302,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Sejahtera Wahana Gemilang",
+      "business_type": "Perdagangan/retail",
+      "total_assets": 27449051710,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Sinar Sejahtera Mandiri",
+      "business_type": "Perdagangan/retail",
+      "total_assets": 26990885825,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Mega Inti Mandiri",
+      "business_type": "Perdagangan/retail",
+      "total_assets": 16564419883,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Trijati Primula",
+      "business_type": "Perdagangan/retail",
+      "total_assets": 13444397093,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sejahtera Samarinda Furindo",
+      "business_type": "Perdagangan/retail",
+      "total_assets": 8151497958,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sejahtera Palembang Furindo",
+      "business_type": "Perdagangan/retail",
+      "total_assets": 5314863856,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Chitose C-engineering Indonesia",
+      "business_type": "Perdagangan/retail",
+      "total_assets": 4198575151,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Koesbandijah, Beddy Samsi & Setiasih"
+    },
+    {
+      "name": "Koesbandijah, Beddy Samsi & Setiasih"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Koesbandijah, Beddy Samsi & Setiasih"
+    },
+    {
+      "name": "Koesbandijah, Beddy Samsi & Setiasih"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "216.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,94",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,94",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "12,50",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "9,39",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,94",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,61",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:09.936Z"
+}

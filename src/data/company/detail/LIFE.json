@@ -1,0 +1,214 @@
+{
+  "company_name": "PT Msig Life Insurance Indonesia Tbk.",
+  "ticker": "LIFE",
+  "office_address": "Sinarmas Land Plaza Sudirman, Lantai 6 Jalan Jend. Sudirman Kav. 21 Jakarta Selatan 12920",
+  "email": "corsec@msiglife.co.id",
+  "phone": "021-50597777",
+  "fax": "021-50608899",
+  "tax_id": "01.391.150.8-073.000",
+  "website": "https://www.msiglife.co.id",
+  "listing_date": "2019-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Asuransi Jiwa",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 5,
+    "name": "Asuransi Jiwa",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Leony Samosir",
+    "email": "corsec@sinarmasmsiglife.co.id",
+    "phone": "021-50597777"
+  },
+  "directors": [
+    {
+      "name": "Wianto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tomoyuki Monden",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herman Sulistyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ken Terada",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eiji Takahashi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Elly Susanti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Indra Widjaja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hideaki Nomura",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kimitake Sugiura",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sidharta Akmam",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Nazly Parlindungan Siregar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Teuku Radja Sjahnan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Teuku Radja Sjahnan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Karel Tjahjadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bambang Santoso Marsoem",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mitsui Sumitomo Insurance Co., Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 1680000000,
+      "percentage": 80
+    },
+    {
+      "name": "Ubs Ag Singapore S/a PT Sinar Mas Multiartha Tbk. - 2091145119",
+      "type": "Lebih dari 5%",
+      "shares": 262500000,
+      "percentage": 12.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 157500000,
+      "percentage": 7.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.382.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,07",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,49",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,98",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "12,70",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,39",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,55",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:56.239Z"
+}

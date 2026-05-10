@@ -1,0 +1,196 @@
+{
+  "company_name": "PT Sillo Maritime Perdana Tbk",
+  "ticker": "SHIP",
+  "office_address": "Ghj Suite Lantai 5-6, Jl. Tanah Abang III No. 18, Petojo, Gambir, Jakarta Pusat 10160",
+  "email": "corpsec@sillomp.com",
+  "phone": "(62-21)3863861",
+  "fax": "(62-21)3867521",
+  "tax_id": "01.342.992.3-081.000",
+  "website": "https://www.sillomaritime.com",
+  "listing_date": "2016-06-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Usaha Pelayaran",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Anastasia Xenia",
+    "email": "corpsec@sillomp.com",
+    "phone": "021 – 3863861"
+  },
+  "directors": [
+    {
+      "name": "Edi Yosfi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hans Raymond Ekajaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sofwan Farisyi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sutanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bartolomeus Christopher Ekajaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mohammad Noor Rachman Soejoeti",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mohammad Noor Rachman Soejoeti",
+      "position": "Ketua"
+    },
+    {
+      "name": "Juninho Widjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Zulfitry Ramdan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Goldenheaven Prima Investama",
+      "type": "Lebih dari 5%",
+      "shares": 1219790000,
+      "percentage": 44.85
+    },
+    {
+      "name": "PT Maxima Prima Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 1000000000,
+      "percentage": 36.77
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 497904000,
+      "percentage": 18.31
+    },
+    {
+      "name": "Hans Raymond Ekajaya",
+      "type": "Direksi",
+      "shares": 2096000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Suasa Benua Sukses",
+      "business_type": "Pelayaran",
+      "total_assets": 279080672,
+      "ownership_percentage": 73.05
+    },
+    {
+      "name": "PT Golden Prima Maritim",
+      "business_type": "Pelayaran",
+      "total_assets": 110444583,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pratama Unggul Lestari",
+      "business_type": "Perdagangan",
+      "total_assets": 45666078,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Niaga Maritim Indonesia",
+      "business_type": "Pelayaran",
+      "total_assets": 3634528,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "10.443.993.600.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,16",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "13,83",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "32,88",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "98,86",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "18,84",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "28,78",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:17.690Z"
+}

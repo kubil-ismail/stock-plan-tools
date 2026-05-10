@@ -1,0 +1,277 @@
+{
+  "company_name": "PT Cerestar Indonesia Tbk",
+  "ticker": "TRGU",
+  "office_address": "The City Tower Lt. 28 Jl. m.h Thamrin No. 81, Menteng Jakarta Pusat 10310 – Dki Jakarta Telepon: +62 660 6003",
+  "email": "corporate.secretary@cerestargroup.co.id",
+  "phone": "+62 660 6003",
+  "fax": "",
+  "tax_id": "96.003.731.5-071.000",
+  "website": "https://www.cerestargroup.co.id",
+  "listing_date": "2022-07-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Tepung Terigu dan Perdagangan Serealia/Biji-Bijian Melalui Perusahaan Anak dan Jasa Konsultasi Manajemen",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Mulyadi Chandra",
+    "email": "corporate.secretary@cerestargroup.co.id",
+    "phone": "+62 660 6003"
+  },
+  "directors": [
+    {
+      "name": "Indra Irawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kevin Surya Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chua Kiat Hwa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Thong Kok Mun",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Low Chee Yin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hondro Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Kadir Widjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Soetopo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Harris Thany",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Antonius",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rachmad",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wito",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sunterra Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 6445382700,
+      "percentage": 81.1208
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1497804200,
+      "percentage": 18.8512
+    },
+    {
+      "name": "Indra Irawan",
+      "type": "Direksi",
+      "shares": 2195800,
+      "percentage": 0.0276
+    },
+    {
+      "name": "Hondro Widjaja",
+      "type": "Komisaris",
+      "shares": 30000,
+      "percentage": 0.0004
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Harvestar Flour Mills",
+      "business_type": "Industri Tepung dan Pati sebagai Bahan Makanan",
+      "total_assets": 3083045031326,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harvestar Flour Mills",
+      "business_type": "Industri Tepung dan Pati sebagai Bahan Makanan",
+      "total_assets": 2865887874194,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harvestar Flour Mills",
+      "business_type": "Industri Tepung dan Pati sebagai Bahan Makanan",
+      "total_assets": 2592516659481,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harvestar Flour Mills",
+      "business_type": "Industri Tepung dan Pati sebagai Bahan Makanan",
+      "total_assets": 2539216951183,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Harvestar Flour Mills",
+      "business_type": "Industri Tepung dan Pati sebagai Bahan Makanan",
+      "total_assets": 1782170734259,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agristar Grain Industry",
+      "business_type": "Real Estat, Pengangkutan dan Pergudangan Serta Industri Pengolahan",
+      "total_assets": 746473999588,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agristar Grain Industry",
+      "business_type": "Real Estat, Pengangkutan dan Pergudangan Serta Industri Pengolahan",
+      "total_assets": 721686340638,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agristar Grain Industry",
+      "business_type": "Real Estat, Pengangkutan dan Pergudangan Serta Industri Pengolahan",
+      "total_assets": 648368680069,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agristar Grain Industry",
+      "business_type": "Real Estat, Pengangkutan dan Pergudangan Serta Industri Pengolahan",
+      "total_assets": 619699137866,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agristar Grain Industry",
+      "business_type": "Real Estat, Pengangkutan dan Pergudangan Serta Industri Pengolahan",
+      "total_assets": 198766026742,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.477.846.762.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,66",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "4,69",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "1,61",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "3,39",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,08",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "8,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:53.832Z"
+}

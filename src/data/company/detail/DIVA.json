@@ -1,0 +1,280 @@
+{
+  "company_name": "PT Distribusi Voucher Nusantara Tbk",
+  "ticker": "DIVA",
+  "office_address": "Axa Tower Lt. 7, Suite 5, Kuningan City Jl. Prof. Dr. Satrio Kav. 18, Setiabudi Jakarta 12940",
+  "email": "corporate@ptdvn.com",
+  "phone": "+6221 30480712",
+  "fax": "+6221 30480713",
+  "tax_id": "0023556707022000",
+  "website": "https://www.ptdvn.com",
+  "listing_date": "2018-11-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha Jasa Teknologi Informasi dan Digital",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Logistik.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Septi Suryani",
+    "email": "corporate@ptdvn.com",
+    "phone": "+6221 30480712"
+  },
+  "directors": [
+    {
+      "name": "Raymond Loho",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tati Ramawati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Stanley Tjiandra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Irawan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sebastian Togelang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Artiko Samudro",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bambang Irawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Saifira Indrika Nurhafifa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Syafna Esteva Haliza",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Asuransi Jiwa Kresna",
+      "type": "Lebih dari 5%",
+      "shares": 454825000,
+      "percentage": 31.84
+    },
+    {
+      "name": "PT 1 Inti Dot Com",
+      "type": "Lebih dari 5%",
+      "shares": 317195300,
+      "percentage": 22.2
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 290999000,
+      "percentage": 20.37
+    },
+    {
+      "name": "PT Soteria Wicaksana Investama",
+      "type": "Lebih dari 5%",
+      "shares": 216771800,
+      "percentage": 15.17
+    },
+    {
+      "name": "Martin Suharlie",
+      "type": "Lebih dari 5%",
+      "shares": 116936200,
+      "percentage": 8.19
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 28583800,
+      "percentage": 2
+    },
+    {
+      "name": "Sebastian Togelang",
+      "type": "Komisaris",
+      "shares": 3110300,
+      "percentage": 0.22
+    },
+    {
+      "name": "Raymond Loho",
+      "type": "Direksi",
+      "shares": 150000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Berkah Karunia Kreasi",
+      "business_type": "Perdagangan, Pembangunan, Industri, Jasa, Pertanian, Perdagangan Sepeda Motor Baru, Perbengkelan dan Percetakan",
+      "total_assets": 114596196428,
+      "ownership_percentage": 96.64
+    },
+    {
+      "name": "PT Berkah Trijaya Indonesia",
+      "business_type": "Perdagangan, Jasa, Perdagangan Sepeda Motor Baru, dan Industri",
+      "total_assets": 89743936056,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Multidaya Dinamika",
+      "business_type": "Jasa Teknologi Piranti Lunak dan Keras dalam Industri Keuangan",
+      "total_assets": 51153901140,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Surprise Indonesia",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 13599157083,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Chat Bot Nusantara",
+      "business_type": "Perdagangan, Jasa, Industri, Percetakan, Pengangkutan Transportasi Darat",
+      "total_assets": 5486816878,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Disa Citra Digital",
+      "business_type": "Perdagangan, Telekomunikasi dan Pengembangan Aplikasi Perdagangan Melalui Internet (e- Commerce)",
+      "total_assets": 510000000,
+      "ownership_percentage": 37.45
+    },
+    {
+      "name": "PT Wicaksana Anugerah Solusindo",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi dan Aktivitas Telekomunikasi",
+      "total_assets": 234136793,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Berkah Omega Sukses",
+      "business_type": "Perdagangan, Jasa, Industri, Percetakan",
+      "total_assets": 185188081,
+      "ownership_percentage": 40
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "219.999.995.600",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "16,23",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "16,79",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "17,10",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "60,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,63",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "6,98",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:56.241Z"
+}

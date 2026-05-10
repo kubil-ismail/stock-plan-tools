@@ -1,0 +1,185 @@
+{
+  "company_name": "PT Era Graharealty Tbk",
+  "ticker": "IPAC",
+  "office_address": "Tcc Batavia Tower One Lantai 8 Suite 3-5jl. K.h. Mas Mansyur Kav. 126jakarta Pusat 10220",
+  "email": "corsec@eraindonesia.com",
+  "phone": "(021) 570 8000 / (021) 2967 5123",
+  "fax": "(021) 570 4776 / (021) 570 8082",
+  "tax_id": "01.567.150.6-022.000",
+  "website": "https://www.eraindonesia.com",
+  "listing_date": "2021-06-30",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Waralaba dan Jasa Agen Real Estat",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Edwar",
+    "email": "corsec@eraindonesia.com",
+    "phone": "(021) 570 8000 / (021) 2967 5123"
+  },
+  "directors": [
+    {
+      "name": "Darmadi Darmawangsa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Aan Andriani Sutrisno",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Susan Widjayawati",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tjio Yafet Kristanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tjio Yafet Kristanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nurharyanto, Ak. Mm. Crmp.cfra. Ca.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Julius Jurianto Cfa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Apac Investment 2 Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 860562600,
+      "percentage": 90.598
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 89305900,
+      "percentage": 9.402
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Darmadi Darmawangsa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aan Andriani Sutrisno",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Susan Widjayawati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjio Yafet Kristanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "140.580.538.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,56",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "37,19",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "14,29",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,33",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "3,80",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:33.631Z"
+}

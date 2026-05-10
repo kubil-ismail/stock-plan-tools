@@ -1,0 +1,301 @@
+{
+  "company_name": "PT Cisarua Mountain Dairy Tbk",
+  "ticker": "CMRY",
+  "office_address": "Rukan Taman Meruya Jl. Komp. Rukan Taman Meruya No.n/27-28 Jakarta Barat 11620",
+  "email": "corsec@cimory.com",
+  "phone": "+62 21 5874630",
+  "fax": "+62 21 5874630",
+  "tax_id": "02.405.764.8-431.000",
+  "website": "https://www.cimory.com",
+  "listing_date": "2021-12-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Produk Susu Premium dan Konsumen Premium",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur, Makanan & Minuman.",
+    "business_tags": [
+      "Manufaktur",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 81,
+    "name": "Produk Susu Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Dinar Primasari",
+    "email": "corsec@cimory.com",
+    "phone": "+62 21 5874630"
+  },
+  "directors": [
+    {
+      "name": "Farell Grandisuri",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Axel Sutantio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bharat Shah Joshi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Martua P Sihaloho",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arjoso Wisanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pamungkas Bayu T",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Sutantio",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wenzel Sutantio",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Alexander S Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alexander S. Rusli",
+      "position": "Ketua"
+    },
+    {
+      "name": "Danny Tjahjana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hansen Bunardi Wijoyo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bambang Sutantio",
+      "type": "Komisaris",
+      "shares": 4250000000,
+      "percentage": 53.56
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1529437022,
+      "percentage": 19.28
+    },
+    {
+      "name": "Farell Grandisuri",
+      "type": "Direksi",
+      "shares": 608558900,
+      "percentage": 7.67
+    },
+    {
+      "name": "Wenzel Sutantio",
+      "type": "Komisaris",
+      "shares": 561807600,
+      "percentage": 7.08
+    },
+    {
+      "name": "Axel Sutantio",
+      "type": "Direksi",
+      "shares": 537003200,
+      "percentage": 6.77
+    },
+    {
+      "name": "General Atlantic Singapore Cmr Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 447777778,
+      "percentage": 5.64
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alexander S Rusli",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bharat Shah Joshi",
+      "type": "Direksi",
+      "shares": 24000,
+      "percentage": 0
+    },
+    {
+      "name": "Arjoso Wisanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Martua Paningotan Sihaloho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pamungkas Bayu Triprasetyo",
+      "type": "Direksi",
+      "shares": 74500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Macrosentra Niagaboga",
+      "business_type": "Distributor",
+      "total_assets": 2007290,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Macroprima Panganutama",
+      "business_type": "Pengolahan dan Pengalengan Makanan",
+      "total_assets": 1954981,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Java Egg Specialities",
+      "business_type": "Manufaktur dengan Basis Produk Telur",
+      "total_assets": 190363,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "33.643.055.920.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,49",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "15,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "21,65",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "8,18",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,49",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "14,23",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:18.430Z"
+}

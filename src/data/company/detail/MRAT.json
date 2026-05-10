@@ -1,0 +1,203 @@
+{
+  "company_name": "Mustika Ratu Tbk",
+  "ticker": "MRAT",
+  "office_address": "Graha Mustika Ratu Lt Ph Jl. Gatot Subroto Kav 74-75 Jakarta",
+  "email": "corsec@mustika-ratu.co.id",
+  "phone": "021-8306754, 8306759, 8307419",
+  "fax": "021-830-6753, 830-6760",
+  "tax_id": "01.002.915.5-054.000",
+  "website": "https://mustika-ratu.co.id",
+  "listing_date": "1995-07-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Kosmetik, Jamu dan Personal Care Products",
+    "business_summary": "Perusahaan bergerak di bidang Produk Perawatan Tubuh.",
+    "business_tags": [
+      "Produk Perawatan Tubuh"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Jodi Andrea Suryokusumo, Bcom, Mcorpgov, Ca (icaa)",
+    "email": "info@mustika-ratu.co.id",
+    "phone": "(021) 830-6754, 830-6759"
+  },
+  "directors": [
+    {
+      "name": "Ir. Bingar Egidius Situmorang",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Jodi Andrea Suryokusumo, Bcom, Mcorpgov, Ca(icaa)",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kusuma Ida Anjani, Bcom, Mbus, Mappfin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Djoko Ramiadji, Msc",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Haryo Tedjo Baskoro, Mba",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. F.g Winarno",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. F. G. Winarno",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Purnomo, Se.",
+      "position": "Anggota"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mustika Ratu Investama",
+      "type": "Lebih dari 5%",
+      "shares": 304772000,
+      "percentage": 71.209
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 120380300,
+      "percentage": 28.126
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2760900,
+      "percentage": 0.645
+    },
+    {
+      "name": "Jodi Andrea Suryokusumo Bcom, Mcorpgov, Ca (icaa)",
+      "type": "Direksi",
+      "shares": 74700,
+      "percentage": 0.017
+    },
+    {
+      "name": "Ir. Bingar Egidius Situmorang",
+      "type": "Direksi",
+      "shares": 12100,
+      "percentage": 0.003
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mustika Ratubuana International",
+      "business_type": "Distribusi dan Perdagangan",
+      "total_assets": 322120019460,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "Mustika Ratu (m) Sdn. Bhd.",
+      "business_type": "Distribusi dan Perdagangan",
+      "total_assets": 61973773350,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mustika Ratu Sugi",
+      "business_type": "Distribusi dan Perdagangan",
+      "total_assets": 59971692500,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mustika Ratu Entertainment",
+      "business_type": "Hiburan dan Kesenian",
+      "total_assets": 11603153467,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Paras Cantik Kenanga",
+      "business_type": "Distribusi dan Perdagangan",
+      "total_assets": 9305560568,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mustika International Laboratories",
+      "business_type": "Distribusi dan Perdagangan",
+      "total_assets": 4000000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "172.056.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,31",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,91",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "13,54",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "78,69",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,31",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "4,39",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:14.631Z"
+}

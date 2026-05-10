@@ -1,0 +1,270 @@
+{
+  "company_name": "Kalbe Farma Tbk",
+  "ticker": "KLBF",
+  "office_address": "Gedung Kalbe Let.jend Suprato Kav. 4 Jakarta",
+  "email": "info@kalbe.co.id",
+  "phone": "42873888",
+  "fax": "42873680",
+  "tax_id": "01.001.836.4-092.000",
+  "website": "https://www.kalbe.co.id",
+  "listing_date": "1991-07-30",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Farmasi",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Maria Teresa Fabiola",
+    "email": "maria.fabiola@kalbecorp.com",
+    "phone": "(021) 428 73 888"
+  },
+  "directors": [
+    {
+      "name": "Bernadette Ruth Irawati Setiady",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sie Djohan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mulialie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jos Iwan Atmadjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kartika Setiabudy",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ronny Hadiana",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Santoso Oen",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ferdinand Aryanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rhenald Kasali",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Herijanto Irawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Herijanto Irawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bernadus Karmin Winata",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dianawati Sugiarto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 17935731801,
+      "percentage": 38.313
+    },
+    {
+      "name": "Ladang Ira Panen, PT",
+      "type": "Lebih dari 5%",
+      "shares": 4903185740,
+      "percentage": 10.47
+    },
+    {
+      "name": "Gira Sole Prima, PT",
+      "type": "Lebih dari 5%",
+      "shares": 4824509485,
+      "percentage": 10.31
+    },
+    {
+      "name": "Santa Seha Sanadi, PT",
+      "type": "Lebih dari 5%",
+      "shares": 4718121940,
+      "percentage": 10.08
+    },
+    {
+      "name": "Lucasta Murni Cemerlang, PT",
+      "type": "Lebih dari 5%",
+      "shares": 4439895440,
+      "percentage": 9.48
+    },
+    {
+      "name": "Diptanala Bahana, PT",
+      "type": "Lebih dari 5%",
+      "shares": 4352057040,
+      "percentage": 9.3
+    },
+    {
+      "name": "Bina Arta Charisma, PT",
+      "type": "Lebih dari 5%",
+      "shares": 3844639040,
+      "percentage": 8.21
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 1564531430,
+      "percentage": 3.342
+    },
+    {
+      "name": "Ronny Hadiana",
+      "type": "Komisaris",
+      "shares": 93571007,
+      "percentage": 0.2
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 72485540,
+      "percentage": 0.155
+    },
+    {
+      "name": "Santoso Oen",
+      "type": "Komisaris",
+      "shares": 42465032,
+      "percentage": 0.09
+    },
+    {
+      "name": "B. R. Irawati Setiady",
+      "type": "Direksi",
+      "shares": 21588000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Mulialie",
+      "type": "Direksi",
+      "shares": 250045,
+      "percentage": 0
+    },
+    {
+      "name": "Ferdinand Aryanto",
+      "type": "Komisaris",
+      "shares": 360000,
+      "percentage": 0
+    },
+    {
+      "name": "Rhenald Kasali",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herijanto Irawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sie Djohan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jos Iwan Atmadjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kartika Setiabudy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "40.493.583.682.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,60",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,86",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,27",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "36,55",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,36",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "23,65",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:30.906Z"
+}

@@ -1,0 +1,207 @@
+{
+  "company_name": "Trans Power Marine Tbk",
+  "ticker": "TPMA",
+  "office_address": "Centennial Tower, Lantai 26 Unit A & B, Jl. Gatot Subroto Kav.24-25, Jakarta Selatan 12930",
+  "email": "corsec@pt-tpm.com",
+  "phone": "021-22958999",
+  "fax": "021-22958737/38",
+  "tax_id": "02.435.712.1-054.000",
+  "website": "https://www.transpowermarine.com",
+  "listing_date": "2013-02-20",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Shipping",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Rudy Sutiono",
+    "email": "corsec@pt-tpm.com",
+    "phone": "22958999"
+  },
+  "directors": [
+    {
+      "name": "Ronny Kurniawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Wardojo",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rudy Sutiono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Aman Suaedi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ibu Hongisisilia",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "I. Ade Sundari P.",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hongisisilia, Se",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sunarto Cahyono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Pauline Maria",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dwitunggal Perkasa Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 1825430197,
+      "percentage": 52.04
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1217751326,
+      "percentage": 34.75
+    },
+    {
+      "name": "PT Patin Resources",
+      "type": "Lebih dari 5%",
+      "shares": 315896590,
+      "percentage": 9
+    },
+    {
+      "name": "Ronny Kurniawan",
+      "type": "Direksi",
+      "shares": 106060387,
+      "percentage": 3
+    },
+    {
+      "name": "Daniel Wardojo",
+      "type": "Direksi",
+      "shares": 29141522,
+      "percentage": 0.83
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 10939900,
+      "percentage": 0.31
+    },
+    {
+      "name": "Rudy Sutiono",
+      "type": "Direksi",
+      "shares": 1250112,
+      "percentage": 0.04
+    },
+    {
+      "name": "Aman Suaedi",
+      "type": "Direksi",
+      "shares": 950000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bahtera Energi Samudra Tuah",
+      "business_type": "Jasa Pengangkutan Laut",
+      "total_assets": 100703563,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Trans Ocean Permata",
+      "business_type": "Jasa Pengangkutan Laut",
+      "total_assets": 7793832,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.876.469.718.190",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,50",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "4,31",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "4,31",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "21,28",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,78",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "8,26",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:51.842Z"
+}

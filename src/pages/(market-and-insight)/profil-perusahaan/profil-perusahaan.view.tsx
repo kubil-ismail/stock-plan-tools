@@ -1,6 +1,6 @@
 "use client";
 import React, { useMemo, useState } from "react";
-import company from "@/data/company.json";
+import company from "@/data/company/company.json";
 import CompanyCard from "@/components/companyCard";
 import { StockDetail } from "@/types/stocks";
 import posthog from "posthog-js";
@@ -24,14 +24,21 @@ function Profil_perusahaan_view({ search }: { search: string }) {
     const keyword = searchTerm.toLowerCase();
 
     return _company.filter((c) => {
+      const businessKeywords =
+        c.business_field?.business_tags?.some((item: string) =>
+          item.toLowerCase().includes(keyword),
+        ) || false;
+
       return (
         c.ticker?.toLowerCase().includes(keyword) ||
-        c.name?.toLowerCase().includes(keyword) ||
-        c.sector.name?.toLowerCase().includes(keyword) ||
-        c.subsector.name?.toLowerCase().includes(keyword) ||
-        c.industry.name?.toLowerCase().includes(keyword) ||
-        c.subindustry.name?.toLowerCase().includes(keyword) ||
-        c.main_business?.toLowerCase().includes(keyword) ||
+        c.company_name?.toLowerCase().includes(keyword) ||
+        c.sector?.name?.toLowerCase().includes(keyword) ||
+        c.sub_industry?.name?.toLowerCase().includes(keyword) ||
+        c.industry?.name?.toLowerCase().includes(keyword) ||
+        c.sub_sector?.name?.toLowerCase().includes(keyword) ||
+        c.business_field?.raw_business?.toLowerCase().includes(keyword) ||
+        c.business_field?.business_summary?.toLowerCase().includes(keyword) ||
+        businessKeywords ||
         c.listing_board?.toLowerCase().includes(keyword)
       );
     });

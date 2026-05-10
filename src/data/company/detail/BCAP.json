@@ -1,0 +1,351 @@
+{
+  "company_name": "Mnc Kapital Indonesia Tbk",
+  "ticker": "BCAP",
+  "office_address": "Gedung Mnc Bank Tower Lantai 21 Jl. Kebon Sirih No. 21-27 Jakarta Pusat 10340 Indonesia",
+  "email": "corsec.mncfinancialservices@mncgroup.com",
+  "phone": "021-29709700",
+  "fax": "021-39836870",
+  "tax_id": "01.911.968.4-054.000",
+  "website": "https://www.mncfinancialservices.com",
+  "listing_date": "2001-06-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Investment Company",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Teknologi, Properti, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Teknologi",
+      "Properti",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "property",
+      "real estate",
+      "properti",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Steffi Elizabeth",
+    "email": "steffi.manalu@mncgroup.com",
+    "phone": "021-29709700"
+  },
+  "directors": [
+    {
+      "name": "Mashudi Hamka",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Anthony Putra Tjiptodihardjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Peter Fajar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Suhada",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mahjudin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Angela Herliani Tanoesoedibjo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Santi Paramita",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sukisto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sukisto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Andrea Frans Tambunan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Pio Paulus Sembiring",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mnc Asia Holding Tbk (d/h PT Mnc Investama Tbk)",
+      "type": "Lebih dari 5%",
+      "shares": 23524335155,
+      "percentage": 55.2
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8686627672,
+      "percentage": 20.39
+    },
+    {
+      "name": "Jalan Pantai Limited",
+      "type": "Lebih dari 5%",
+      "shares": 3900000000,
+      "percentage": 9.15
+    },
+    {
+      "name": "Ht Investment Development Ltd 2",
+      "type": "Lebih dari 5%",
+      "shares": 3708705000,
+      "percentage": 8.7
+    },
+    {
+      "name": "Uob Kay Hian (hong Kong) Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 2782427300,
+      "percentage": 6.53
+    },
+    {
+      "name": "Angela Herliani Tanoesoedibjo",
+      "type": "Komisaris",
+      "shares": 5897500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Peter Fajar",
+      "type": "Direksi",
+      "shares": 5479500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Mahjudin",
+      "type": "Direksi",
+      "shares": 4978800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Santi Paramita",
+      "type": "Komisaris",
+      "shares": 400000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Mnc Internasional Tbk",
+      "business_type": "Bank",
+      "total_assets": 20496643,
+      "ownership_percentage": 50.39
+    },
+    {
+      "name": "PT Motion Digital Technology",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3369609,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Sekuritas",
+      "business_type": "Jasa Perantara Pedagang Efek",
+      "total_assets": 2439739,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Winfly Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 2179141,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mnc Finance",
+      "business_type": "Lembaga Pembiayaan",
+      "total_assets": 1337019,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Life Assurance",
+      "business_type": "Jasa Asuransi Jiwa",
+      "total_assets": 1245069,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Lafite Assets Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 909492,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mnc Guna Usaha Indonesia",
+      "business_type": "Jasa Penyewaan",
+      "total_assets": 898466,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Asuransi Indonesia",
+      "business_type": "Jasa Asuransi Umum",
+      "total_assets": 851037,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Mnc Teknologi Nusantara",
+      "business_type": "Teknologi Informasi",
+      "total_assets": 815949,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fm Digital Solution",
+      "business_type": "Teknologi Informasi",
+      "total_assets": 103836,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Motion Crypto Technology",
+      "business_type": "Jasa Perantara Perdagangan Aset Digital",
+      "total_assets": 102756,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Asset Management",
+      "business_type": "Jasa Pengelolaan Investasi",
+      "total_assets": 97804,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Medan Nusantara Propertindo",
+      "business_type": "Penyewaan Properti",
+      "total_assets": 76194,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Sistem Informasi Aplikasi Pembayaran",
+      "business_type": "Finansial Teknologi",
+      "total_assets": 25408,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Riau Nusantara Propertindo",
+      "business_type": "Penyewaan Properti",
+      "total_assets": 16127,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Mnc Insurance Broker",
+      "business_type": "Jasa Perantara Asuransi",
+      "total_assets": 3724,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modal Anak Bangsa",
+      "business_type": "Layanan Urun Dana",
+      "total_assets": 1135,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Modal Ventura",
+      "business_type": "Modal Ventura",
+      "total_assets": 107,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "Motion Digital Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 51,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Mnc Asset Management Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.216.180.248.204",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,66",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,71",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "35,90",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "13,79",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:28.153Z"
+}

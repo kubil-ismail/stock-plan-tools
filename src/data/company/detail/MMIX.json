@@ -1,0 +1,203 @@
+{
+  "company_name": "PT Multi Medika Internasional Tbk",
+  "ticker": "MMIX",
+  "office_address": "Jl. Peternakan III No. 55b, Kapuk Cengkareng, Jakarta Barat 11720",
+  "email": "corpsec@multimed.co.id",
+  "phone": "+62 21 2967-6078",
+  "fax": "+62 21 565 9458",
+  "tax_id": "095.965.444.3-034.000",
+  "website": "https://www.multimed.co.id",
+  "listing_date": "2022-12-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Alat Laboratorium, Alat Farmasi dan Alat Kedokteran Untuk Manusia, dan Sewa Guna Usaha Tanpa Hak Opsi Intelektual Properti, Bukan Karya Hak Cipta",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan, Properti.",
+    "business_tags": [
+      "Kesehatan",
+      "Properti"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 39,
+    "name": "Peralatan & Perlengkapan Kesehatan"
+  },
+  "sub_industry": {
+    "id": 57,
+    "name": "Penyedia & Distribusi Perlengkapan Kesehatan",
+    "industries_id": 39
+  },
+  "corporate_secretary": {
+    "name": "Synthia Wijaya",
+    "email": "corpsec@multimed.co.id",
+    "phone": "+6221- 50665999"
+  },
+  "directors": [
+    {
+      "name": "Mengky Mangarek",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Eveline Natalia Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Allen Feliciano",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Togu Cornetius Simanjuntak",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Togu Cornetius Simanjuntak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Djunggu H. Sitorus",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yusnia Endah Wahyuni",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Multi Inti Usaha",
+      "type": "Direksi",
+      "shares": 2880000000,
+      "percentage": 60
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1200425380,
+      "percentage": 25
+    },
+    {
+      "name": "Mengky Mangarek",
+      "type": "Direksi",
+      "shares": 288000000,
+      "percentage": 6
+    },
+    {
+      "name": "Eveline Natalia Susanto",
+      "type": "Direksi",
+      "shares": 288000000,
+      "percentage": 6
+    },
+    {
+      "name": "Hillary Josephine",
+      "type": "Komisaris",
+      "shares": 72000000,
+      "percentage": 1.5
+    },
+    {
+      "name": "Allen Feliciano",
+      "type": "Komisaris",
+      "shares": 72000000,
+      "percentage": 1.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.440.127.614.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "32,59",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "65,74",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "47,93",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "153,90",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "19,33",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "65,74",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:04.482Z"
+}

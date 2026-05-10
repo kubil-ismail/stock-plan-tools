@@ -1,0 +1,225 @@
+{
+  "company_name": "Sepatu Bata Tbk",
+  "ticker": "BATA",
+  "office_address": "Gedung Ventura Lantai 7 Unit 701, Jl. R.a. Kartini No. 26 Rt.12/rw.6, Cilandak Barat, Kecamatan Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430.",
+  "email": "id.corporate-secretary@bata.com",
+  "phone": "021 7505353",
+  "fax": "-",
+  "tax_id": "01.000.075.0-092.000",
+  "website": "https://www.bata.id",
+  "listing_date": "1982-03-24",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Alas Kaki",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 2,
+    "name": "Alas Kaki",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Hatta Tutuko",
+    "email": "id.corporate-secretary@bata.com",
+    "phone": "021 750 5353"
+  },
+  "directors": [
+    {
+      "name": "Hatta Tutuko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ahmad Danial",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Prima Andhika Irawati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ian Duncan Mcnab Cowe",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Amitav Nandy",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Shaibal Sinha",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Nurudin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Nurudin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Robert Darmadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Stania Pranoto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bafin (nederland) B.v.",
+      "type": "Lebih dari 5%",
+      "shares": 1066187400,
+      "percentage": 82.014
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 149893070,
+      "percentage": 11.53
+    },
+    {
+      "name": "Liem Tjen Hung",
+      "type": "Lebih dari 5%",
+      "shares": 70617400,
+      "percentage": 5.433
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 13302130,
+      "percentage": 1.023
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Shaibal Sinha",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agus Nurudin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amitav Nandy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ian Duncan Mcnab Cowe",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Prima Andhika Irawati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Danial",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hatta Tutuko",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sepatu Bata Online",
+      "business_type": "Perdagangan Eceran Melalui Media dan Portal Web Dan/atau Platform Digital",
+      "total_assets": 11851615,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "83.200.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,56",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "30,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "7,14",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:11.411Z"
+}

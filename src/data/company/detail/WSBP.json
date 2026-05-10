@@ -1,0 +1,194 @@
+{
+  "company_name": "PT Waskita Beton Precast Tbk.",
+  "ticker": "WSBP",
+  "office_address": "Gedung Teraskita, Lt. 3-3a Jl. MT. Haryono Kav. No. 10a, Rt 11, Rw11, Cipinang Cempedak, Jatinegara, Jakarta Timur 13340",
+  "email": "info@waskitaprecast.co.id",
+  "phone": "(021) 22892999",
+  "fax": "(021) 29838020",
+  "tax_id": "71.207.015.0-093.000",
+  "website": "https://www.waskitaprecast.co.id",
+  "listing_date": "2016-09-20",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri manufaktur beton precast dan ready mix",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Fandy Dewanto",
+    "email": "sekper@waskitaprecast.co.id",
+    "phone": "(021) 22892999"
+  },
+  "directors": [
+    {
+      "name": "Anak Agung Gede Sumadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Koento Wahyudiat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Indra Utama",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ahmad Subagya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Heri Sebayang",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Heri Sebayang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Darwin Suzandi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Puji Wibowo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 32877032159,
+      "percentage": 57.9
+    },
+    {
+      "name": "PT Waskita Karya (persero) Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 16017557697,
+      "percentage": 28.21
+    },
+    {
+      "name": "PT Intiniaga Sukses Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 3918646978,
+      "percentage": 6.9
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2121064252,
+      "percentage": 3.74
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 1845281000,
+      "percentage": 3.25
+    },
+    {
+      "name": "Indra Utama",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Subagya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anak Agung Gede Sumadi",
+      "type": "Direksi",
+      "shares": 153000,
+      "percentage": 0
+    },
+    {
+      "name": "Heri Sebayang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Koento Wahyudiat",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.078.829.091.234",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "14,29",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "21,74",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "20,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "21,74",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:46.705Z"
+}

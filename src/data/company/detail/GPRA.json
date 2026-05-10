@@ -1,0 +1,253 @@
+{
+  "company_name": "Perdana Gapura Prima Tbk",
+  "ticker": "GPRA",
+  "office_address": "Bellezza Arcade Lantai 2 The Bellezza Permata Hijau Jl. Letjen Soepeno No. 34 Arteri Permata Hijau",
+  "email": "corsecgpra@gapuraprima.com",
+  "phone": "(021) 536 68360 , (021) 536 71717",
+  "fax": "(021) 536 71717",
+  "tax_id": "01.321.336.8-404.001",
+  "website": "https://www.gapuraprima.com",
+  "listing_date": "2007-10-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pemborongan (Kontraktor dan Real Estate)",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Rinny Febrianty M",
+    "email": "rfm0202@gmail.com",
+    "phone": "02153668360-53671717"
+  },
+  "directors": [
+    {
+      "name": "Arvin F Iskandar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rudy Kurniawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ahmad Taufik Zaenal",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rudy Margono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Heryani Margono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nugroho Sulistyo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nugroho Sulistyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fathimah Rose Noor Hannah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mery",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nugroho Sulistyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fathimah Rose Noor Hannah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mery",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Abadimukti Gunalestari",
+      "type": "Lebih dari 5%",
+      "shares": 2074808420,
+      "percentage": 48.51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1947023416,
+      "percentage": 45.53
+    },
+    {
+      "name": "Aditya Antonius",
+      "type": "Lebih dari 5%",
+      "shares": 229445900,
+      "percentage": 5.37
+    },
+    {
+      "name": "Rudy Margono",
+      "type": "Komisaris",
+      "shares": 24054000,
+      "percentage": 0.56
+    },
+    {
+      "name": "Arvin Fibrianto Iskandar",
+      "type": "Direksi",
+      "shares": 1299600,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rudy Kurniawan",
+      "type": "Direksi",
+      "shares": 24000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Sumber Daya Nusaphala",
+      "business_type": "Pembangunan Pusat Perbelanjaan",
+      "total_assets": 373815033537,
+      "ownership_percentage": 99.76
+    },
+    {
+      "name": "PT. Dinamika Karya Utama",
+      "business_type": "Pembangunan Apartemen",
+      "total_assets": 247698726193,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT. Ciawi Megah Indah",
+      "business_type": "Pembangunan Condotel",
+      "total_assets": 193887727805,
+      "ownership_percentage": 98.19
+    },
+    {
+      "name": "PT. Graha Azura",
+      "business_type": "Pembangunan Apartemen",
+      "total_assets": 159094783183,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT. Mandiri Bangun Konstruksi",
+      "business_type": "Pembangunan Apartemen",
+      "total_assets": 131461677271,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Gapura Pakuan Properti",
+      "business_type": "Pembangunan Perumahan",
+      "total_assets": 111620312936,
+      "ownership_percentage": 95.45
+    },
+    {
+      "name": "PT. Megapolitan Gapuraprima",
+      "business_type": "Pembangunan Perumahan",
+      "total_assets": 104678998284,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Bella Indah Gapura",
+      "business_type": "Pembangunan Perkantoran dan Apartemen",
+      "total_assets": 71337998063,
+      "ownership_percentage": 64
+    },
+    {
+      "name": "PT. Pacific Exintraco",
+      "business_type": "Pembangunan Perumahan",
+      "total_assets": 64018529283,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "491.815.363.640",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,80",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,35",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "16,03",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "1,79",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,51",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "23,61",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:14.448Z"
+}

@@ -1,0 +1,273 @@
+{
+  "company_name": "PT Vktr Teknologi Mobilitas Tbk",
+  "ticker": "VKTR",
+  "office_address": "Bakrie Tower Lantai 35 Jl. H.r. Rasuna Said Jakarta, 12940",
+  "email": "corsec@vktr.id",
+  "phone": "(+62) 21 2991 2222",
+  "fax": "(+62) 21 2991 2333",
+  "tax_id": "02.672.214.0-006.000",
+  "website": "https://www.vktr.id",
+  "listing_date": "2023-06-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan besar mobil baru dan sepeda motor baru berupa kendaraan bermotor listrik berbasis baterai, komponen suku cadang, aksesori mobil, dan industri karoseri kendaraan bermotor roda empat atau lebih, kendaraan bermotor listrik berbasis baterai, sepeda motor roda dua dan tiga serta industri pengecoran besi dan baja, industri suku cadang dan aksesori kendaraan bermotor roda empat atau lebih melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif.",
+    "business_tags": [
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 94,
+    "name": "Suku Cadang Otomotif",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Indah Permatasari Saugi",
+    "email": "corsec@vktr.id",
+    "phone": "(+62) 21 2991 2222"
+  },
+  "directors": [
+    {
+      "name": "Gilarsi Wahju Setijono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dino Ahmad Ryandi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Achmad Amri Aswono Putro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Valentinus Bimo Kurniatmoko",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anindya Novyan Bakrie",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "The Lord Sarfraz Aamer Ahmad",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Dino Patti Djalal",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Dino Patti Djalal",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arief A. Dhani",
+      "position": "Anggota"
+    },
+    {
+      "name": "A. Kristiyanto Wahyu Indriya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 26760879545,
+      "percentage": 61.18
+    },
+    {
+      "name": "PT Bakrie & Brothers Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 10676843318,
+      "percentage": 24.4
+    },
+    {
+      "name": "PT Bakrie Metal Industries",
+      "type": "Lebih dari 5%",
+      "shares": 6227415137,
+      "percentage": 14.23
+    },
+    {
+      "name": "The Lord Aamer Ahmad Sarfraz (aamer Ahmad The Lord Sarfraz)",
+      "type": "Komisaris",
+      "shares": 44862000,
+      "percentage": 0.1
+    },
+    {
+      "name": "Gilarsi Wahju Setijono",
+      "type": "Direksi",
+      "shares": 12500000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Achmad Amri Aswono Putro",
+      "type": "Direksi",
+      "shares": 12500000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Dino Ahmad Ryandi",
+      "type": "Direksi",
+      "shares": 15000000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anindya Novyan Bakrie",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Dino Patti Djalal",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bakrie Autoparts",
+      "business_type": "Pabrikasi Besi Cor dan Komponen Otomotif",
+      "total_assets": 594842,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Braja Mukti Cakra",
+      "business_type": "Industri Suku Cadang Kendaraan Bermotor",
+      "total_assets": 302347,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Bina Usaha Mandiri Mizusawa",
+      "business_type": "Industri Suku Cadang Kendaraan Bermotor",
+      "total_assets": 77655,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Vktr Sakti Industries",
+      "business_type": "Industri Karoseri Kendaraan Bermotor",
+      "total_assets": 62225,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Sarana Ekomobilitas Indonesia",
+      "business_type": "Perdagangan Besar dan Penyewaan Kendaraan Bermotor",
+      "total_assets": 1013,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bakrie Komponen Mobilitas",
+      "business_type": "Industri Suku Cadang Kendaraan Bermotor",
+      "total_assets": 0,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Y. Santosa"
+    },
+    {
+      "name": "Y. Santosa"
+    },
+    {
+      "name": "Y. Santosa"
+    },
+    {
+      "name": "Y. Santosa"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "39.593.750.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,31",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "10,83",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "148,57",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "866,67",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,92",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,12",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:25.702Z"
+}

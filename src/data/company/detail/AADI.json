@@ -1,0 +1,594 @@
+{
+  "company_name": "PT Adaro Andalan Indonesia Tbk",
+  "ticker": "AADI",
+  "office_address": "Cyber 2 Tower Lantai 26 Jl. H.r. Rasuna Said Blok X-5, No. 13 Jakarta 12950 - Indonesia",
+  "email": "corsec@adaroindonesia.com",
+  "phone": "(021) 2553 3065",
+  "fax": "(021) 2553 3066",
+  "tax_id": "02.433.115.9-091.000",
+  "website": "https://www.adaroindonesia.com",
+  "listing_date": "2024-12-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perkebunan kelapa sawit, karet dan tanaman penghasil getah lain, perusahaan holding, dan konsultasi manajemen lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Karet, Batubara, Energi, Logistik, Konstruksi.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Karet",
+      "Batubara",
+      "Energi",
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "karet",
+      "rubber",
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Ray Aryaputra",
+    "email": "corsec@adaroindonesia.com",
+    "phone": "(021) 2553 3065"
+  },
+  "directors": [
+    {
+      "name": "Julius Aslan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Priyadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lie Luckman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Susanti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Budi Bowoleksono",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Primus Dorimulu",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Budi Bowoleksono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ignatius Robby Sani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lindawati Gani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Adaro Strategic Investments",
+      "type": "Lebih dari 5%",
+      "shares": 3200142830,
+      "percentage": 41.0965
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1505870937,
+      "percentage": 19.3385
+    },
+    {
+      "name": "Afiliasi",
+      "type": "Lebih dari 5%",
+      "shares": 1427097871,
+      "percentage": 18.3269
+    },
+    {
+      "name": "PT Alamtri Resources Indonesia Tbk (sebelumnya Bernama PT Adaro Energy Indonesia Tbk)",
+      "type": "Lebih dari 5%",
+      "shares": 1197023942,
+      "percentage": 15.3723
+    },
+    {
+      "name": "Garibaldi Thohir",
+      "type": "Lebih dari 5%",
+      "shares": 454011607,
+      "percentage": 5.8305
+    },
+    {
+      "name": "Julius Aslan",
+      "type": "Direksi",
+      "shares": 2506265,
+      "percentage": 0.0322
+    },
+    {
+      "name": "Priyadi",
+      "type": "Direksi",
+      "shares": 207108,
+      "percentage": 0.0027
+    },
+    {
+      "name": "Susanti",
+      "type": "Direksi",
+      "shares": 22700,
+      "percentage": 0.0003
+    },
+    {
+      "name": "Primus Dorimulu",
+      "type": "Komisaris",
+      "shares": 8500,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Bowoleksono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lie Luckman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Adaro Indonesia",
+      "business_type": "Pertambangan",
+      "total_assets": 2167745,
+      "ownership_percentage": 88.47
+    },
+    {
+      "name": "Arindo Holdings (mauritius) Ltd",
+      "business_type": "Investasi",
+      "total_assets": 1692658,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Vindoor Investments (mauritius) Ltd",
+      "business_type": "Investasi",
+      "total_assets": 1155652,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Adaro Capital Limited",
+      "business_type": "Investasi",
+      "total_assets": 844449,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Adaro International (singapore) Pte Ltd",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 832548,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Adaro Logistics",
+      "business_type": "Jasa",
+      "total_assets": 772994,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kaltara Power Indonesia",
+      "business_type": "Penyewaan Pembangkit Listrik dan Jasa Penunjang Tenaga Listrik",
+      "total_assets": 725198,
+      "ownership_percentage": 83.99
+    },
+    {
+      "name": "PT Maritim Barito Perkasa",
+      "business_type": "Pengangkutan Laut",
+      "total_assets": 576137,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Viscaya Investments",
+      "business_type": "Investasi",
+      "total_assets": 302730,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mustika Indah Permai",
+      "business_type": "Pertambangan",
+      "total_assets": 208995,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Laskar Semesta Alam",
+      "business_type": "Pertambangan",
+      "total_assets": 130057,
+      "ownership_percentage": 75.2
+    },
+    {
+      "name": "PT Semesta Centramas",
+      "business_type": "Pertambangan",
+      "total_assets": 123209,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Adaro Tirta Mandiri",
+      "business_type": "Aktivitas Kantor Pusat dan Perdagangan",
+      "total_assets": 103960,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Paramitha Cipta Sarana",
+      "business_type": "Pertambangan",
+      "total_assets": 88421,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Adaro Persada Mandiri",
+      "business_type": "Jasa",
+      "total_assets": 73598,
+      "ownership_percentage": 90.59
+    },
+    {
+      "name": "PT Indonesia Bulk Terminal",
+      "business_type": "Jasa Pengelolaan Terminal",
+      "total_assets": 63877,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dianlia Setyamukti",
+      "business_type": "Investasi",
+      "total_assets": 50410,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indoprima Niaga Sejahtera",
+      "business_type": "Investasi",
+      "total_assets": 43544,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Adaro Tirta Sarana",
+      "business_type": "Jasa Penunjang Pertambangan",
+      "total_assets": 43125,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Indotama Semesta Manunggal",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 31327,
+      "ownership_percentage": 64.97
+    },
+    {
+      "name": "PT Pari Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 28997,
+      "ownership_percentage": 64.9
+    },
+    {
+      "name": "PT Sarana Mekar Pratama",
+      "business_type": "Investasi",
+      "total_assets": 20614,
+      "ownership_percentage": 54.99
+    },
+    {
+      "name": "PT Sarana Daya Mandiri",
+      "business_type": "Jasa",
+      "total_assets": 20609,
+      "ownership_percentage": 30.25
+    },
+    {
+      "name": "PT Harapan Bahtera Internusa",
+      "business_type": "Pengangkutan Laut",
+      "total_assets": 19908,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Barito Galangan Nusantara",
+      "business_type": "Pembuatan, Perbaikan dan Perawatan Angkutan Laut",
+      "total_assets": 16957,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adaro Mining Technologies",
+      "business_type": "Jasa",
+      "total_assets": 16819,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indonesia Multi Purpose Terminal",
+      "business_type": "Jasa Pengelolaan Terminal",
+      "total_assets": 14888,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kaltara Power Services",
+      "business_type": "Jasa Penunjang Tenaga Listrik",
+      "total_assets": 13697,
+      "ownership_percentage": 83.99
+    },
+    {
+      "name": "PT Adaro Wamco Prima",
+      "business_type": "Jasa Penunjang Pertambangan",
+      "total_assets": 12942,
+      "ownership_percentage": 59.41
+    },
+    {
+      "name": "PT Adaro Tirta Brayan",
+      "business_type": "Pengolahan Air",
+      "total_assets": 12706,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Indovisi Sentosa Mandiri",
+      "business_type": "Kepelabuhan",
+      "total_assets": 11460,
+      "ownership_percentage": 64.97
+    },
+    {
+      "name": "PT Adaro Tirta Gresik",
+      "business_type": "Pengolahan Air",
+      "total_assets": 10277,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Puradika Bongkar Muat Makmur",
+      "business_type": "Jasa",
+      "total_assets": 9909,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rehabilitasi Lingkungan Indonesia",
+      "business_type": "Jasa",
+      "total_assets": 9381,
+      "ownership_percentage": 90.59
+    },
+    {
+      "name": "PT Adaro Jasabara Indonesia",
+      "business_type": "Jasa",
+      "total_assets": 8653,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adaro Tirta Mentaya",
+      "business_type": "Pengolahan Air",
+      "total_assets": 8055,
+      "ownership_percentage": 89.12
+    },
+    {
+      "name": "PT Harapan Insani Millenia",
+      "business_type": "Kawasan Industri",
+      "total_assets": 8035,
+      "ownership_percentage": 90.59
+    },
+    {
+      "name": "PT Drupadi Tirta Intan",
+      "business_type": "Pengolahan Air",
+      "total_assets": 7088,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Adaro Jasa Tirta",
+      "business_type": "Jasa Penunjang Pengelolaan Air",
+      "total_assets": 6749,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Sarana Multi Talenta",
+      "business_type": "Jasa",
+      "total_assets": 6299,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Grenex Tirta Mandiri",
+      "business_type": "Pengolahan Air",
+      "total_assets": 5338,
+      "ownership_percentage": 74.26
+    },
+    {
+      "name": "PT Agri Multi Lestari",
+      "business_type": "Peternakan",
+      "total_assets": 4983,
+      "ownership_percentage": 90.59
+    },
+    {
+      "name": "PT Adaro Tirta Wening",
+      "business_type": "Jasa Penunjang Pengelolaan Air",
+      "total_assets": 4944,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Alam Sukses Lestari",
+      "business_type": "Kehutanan",
+      "total_assets": 2596,
+      "ownership_percentage": 90.59
+    },
+    {
+      "name": "PT Hutan Amanah Lestari",
+      "business_type": "Kehutanan",
+      "total_assets": 1269,
+      "ownership_percentage": 67.94
+    },
+    {
+      "name": "Adaro Australia Pty Ltd",
+      "business_type": "Investasi",
+      "total_assets": 770,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakra Wana Lestari",
+      "business_type": "Kehutanan",
+      "total_assets": 306,
+      "ownership_percentage": 90.59
+    },
+    {
+      "name": "Orchard Maritime Logistics Pte Ltd",
+      "business_type": "Penanganan dan Pengangkutan Batubara",
+      "total_assets": 263,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ratah Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 149,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Indo Mitra Konstruksi",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 99,
+      "ownership_percentage": 64.97
+    },
+    {
+      "name": "PT Mitra Rimba Indoprima",
+      "business_type": "Usaha Kehutanan",
+      "total_assets": 15,
+      "ownership_percentage": 64.97
+    },
+    {
+      "name": "PT Mandiri Wana Lestari",
+      "business_type": "Kehutanan",
+      "total_assets": 6,
+      "ownership_percentage": 90.59
+    },
+    {
+      "name": "PT Persada Wana Lestari",
+      "business_type": "Kehutanan",
+      "total_assets": 5,
+      "ownership_percentage": 90.59
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "90.327.944.416.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,91",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,45",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "10,56",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "35,13",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "14,12",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "33,69",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:44.275Z"
+}

@@ -1,0 +1,195 @@
+{
+  "company_name": "Asuransi Jasa Tania Tbk",
+  "ticker": "ASJT",
+  "office_address": "Gedung Agro Plaza Lantai 9 Jl. Hr. Rasuna Said Blok X 2 Nomor 1 Jakarta 12950",
+  "email": "headoffice@jastan.co.id",
+  "phone": "021-5262529",
+  "fax": "021-5262539, 5262540",
+  "tax_id": "01.105.014.3-054.000",
+  "website": "https://www.jastan.co.id",
+  "listing_date": "2003-12-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Asuransi Umum Konvensional",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Dani Rediansyah",
+    "email": "corsec@jastan.co.id",
+    "phone": "021-5262529"
+  },
+  "directors": [
+    {
+      "name": "Sugeng Sudibjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Arifia Indah Liany",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hasbi Ashsiddiqi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sugeng Sudibjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Arifia Indah Liany",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hasbi Ashsiddiqi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Memed Wiramihardja",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Setia Dharma Sebayang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jadi Haposan Manurung",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Memed Wiramihardja",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Setia Dharma Sebayang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jadi Haposan Manurung",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Memed Wiramihardja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Edward Tanujaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Faizal Abidin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Dana Pensiun Perkebunan",
+      "type": "Lebih dari 5%",
+      "shares": 1083519966,
+      "percentage": 77.39
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 316440034,
+      "percentage": 22.607
+    },
+    {
+      "name": "Hasbi Ash Siddiqi",
+      "type": "Direksi",
+      "shares": 40000,
+      "percentage": 0.003
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "264.600.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,72",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,53",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "48,82",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "81,73",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,05",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:42.662Z"
+}

@@ -1,0 +1,161 @@
+{
+  "company_name": "Yanaprima Hastapersada Tbk",
+  "ticker": "YPAS",
+  "office_address": "Gedung Graha Irama Lt. 2e Jl. H.r. Rasuna Said Blok X-1 Kav.1-2 Rt.006 Rw.004 Kuningan Timur Setiabudi Kota Adm.jakarta Selatan Dki Jakarta12950",
+  "email": "corsec_yanaprim@yahoo.com",
+  "phone": "(021) 5261172, 5261173",
+  "fax": "-",
+  "tax_id": "01.764.455.0-054.000",
+  "website": "https://www.yanaprima.com",
+  "listing_date": "2008-03-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Kemasan Plastik",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Lukas Lucky",
+    "email": "yanaprim@indosat.net.id",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Jap Irwan Susanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rinawati",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alexander Tanzil",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Santoso Wijaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sri Wahjuningsih",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sri Wahjuningsih",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rinna Yohana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Patricia Sulistya Riani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Hastagraha Bumipersada",
+      "type": "Lebih dari 5%",
+      "shares": 597650500,
+      "percentage": 89.46
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 68000089,
+      "percentage": 10.18
+    },
+    {
+      "name": "Alexander Tanzil",
+      "type": "Komisaris",
+      "shares": 1174750,
+      "percentage": 0.18
+    },
+    {
+      "name": "Santoso Wijaya",
+      "type": "Komisaris",
+      "shares": 1174750,
+      "percentage": 0.18
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "811.620.108.135",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "42,65",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "91,35",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "93,20",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "218,91",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "34,32",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "70,09",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:51.162Z"
+}

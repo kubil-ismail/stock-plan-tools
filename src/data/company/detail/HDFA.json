@@ -1,0 +1,177 @@
+{
+  "company_name": "Radana Bhaskara Finance Tbk",
+  "ticker": "HDFA",
+  "office_address": "Cibis Nine, Lantai 11, Unit W-16, Jalan Tahi Bonar Simatupang No 2, Jakarta Selatan, 12560",
+  "email": "corp@radanafinance.co.id",
+  "phone": "021 50991088",
+  "fax": "021 50991089",
+  "tax_id": "01.306.439.9-038.000",
+  "website": "https://www.radanafinance.co.id",
+  "listing_date": "2011-05-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Elquino Parulian Simanjuntak",
+    "email": "legal@radanafinance.co.id",
+    "phone": "02150503333"
+  },
+  "directors": [
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Eng Khim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rahadja Alimhamzah",
+      "position": "Ketua"
+    },
+    {
+      "name": "Setiawan Kriswanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sandra Aulia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Rubicon Investments Holding Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 3613117337,
+      "percentage": 55.23
+    },
+    {
+      "name": "Tiara Marga Trakindo",
+      "type": "Lebih dari 5%",
+      "shares": 2430707293,
+      "percentage": 37.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 498621153,
+      "percentage": 7.62
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "0",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "0",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "726.211.481.913",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,91",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "6,84",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "43,52",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "1,87",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,68",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,17",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:31.517Z"
+}

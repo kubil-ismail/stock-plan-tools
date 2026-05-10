@@ -1,0 +1,464 @@
+{
+  "company_name": "Alamtri Resources Indonesia Tbk",
+  "ticker": "ADRO",
+  "office_address": "Menara Karya 23rd Floor Jl. H.r. Rasuna Said, Block X-5, Kav. 1-2 Jakarta 12950",
+  "email": "corsec@alamtri.com; maharani.opssedha@alamtri.com",
+  "phone": "021-25533000",
+  "fax": "021-5211266",
+  "tax_id": "0023992449091000",
+  "website": "https://www.alamtri.com",
+  "listing_date": "2008-07-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas perusahaan holding dan konsultasi manajemen lainnya (untuk kegiatan usaha anak-anak perusahaan Perseroan yang bergerak di bidang pertambangan, penggalian, jasa penunjang pertambangan, perdagangan besar, angkutan, pergudangan dan aktivitas penunjang angkutan, penanganan kargo (bongkar muat barang), aktivitas pelayanan kepelabuhanan laut, pertanian tanaman, konstruksi, reparasi dan pemasangan mesin, pengadaan listrik, pengelolaan air, kehutanan, industri)",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Maharani Cindy Opssedha",
+    "email": "maharani.opssedha@alamtri.com",
+    "phone": "(021) 25533000"
+  },
+  "directors": [
+    {
+      "name": "Mohammad Syah Indra Aman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Dewono Budiyuwono",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lany Djuwita Wong",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Edwin Soeryadjaya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arini Saraswaty Subianto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mohammad Effendi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Bowoleksono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Garibaldi Thohir",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Christian Ariano Rachmat",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mohammad Effendi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ignatius Robby Sani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lindawati Gani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Adaro Strategic Investment",
+      "type": "Lebih dari 5%",
+      "shares": 14045425500,
+      "percentage": 47.79
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 11630338396,
+      "percentage": 39.573
+    },
+    {
+      "name": "Garibaldi Thohir",
+      "type": "Komisaris",
+      "shares": 1976632710,
+      "percentage": 6.726
+    },
+    {
+      "name": "Edwin Soeryadjaja",
+      "type": "Komisaris",
+      "shares": 1051738544,
+      "percentage": 3.579
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 589195200,
+      "percentage": 2.004
+    },
+    {
+      "name": "Arini Saraswaty Subianto",
+      "type": "Komisaris",
+      "shares": 80106250,
+      "percentage": 0.273
+    },
+    {
+      "name": "Christian Ariano Rachmat",
+      "type": "Komisaris",
+      "shares": 16000000,
+      "percentage": 0.054
+    },
+    {
+      "name": "Lany Djuwita",
+      "type": "Direksi",
+      "shares": 250000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iwan Dewono Budiyuwono",
+      "type": "Direksi",
+      "shares": 2800,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Alamtri Minerals Indonesia Tbk",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 2650759,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Alamtri Baterai Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 1293812,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Alamtri Indo Aluminium",
+      "business_type": "Investasi",
+      "total_assets": 1292574,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Alam Tri Daya Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 1285826,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Kalimantan Aluminium Industry",
+      "business_type": "Pengolahan Logam",
+      "total_assets": 1254681,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Maruwai Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 1169190,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Alamtri Power Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 900125,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Saptaindra Sejati",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 888238,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Alam Tri Bangun Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 177992,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalimantan Industrial Park Indonesia",
+      "business_type": "Kawasan Industri",
+      "total_assets": 172769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Alamtri Renewables Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 139952,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Makmur Sejahtera Wisesa",
+      "business_type": "Perdagangan dan Pembangkitan Listrik",
+      "total_assets": 126392,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Lahai Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 112432,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Mentarang Tirta Energi",
+      "business_type": "Investasi",
+      "total_assets": 73424,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalimantan Energi Hijau",
+      "business_type": "Investasi",
+      "total_assets": 64339,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Batam Surya Energi",
+      "business_type": "Investasi",
+      "total_assets": 35463,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Batam Sarana Surya",
+      "business_type": "Penyediaan Tenaga Listrik",
+      "total_assets": 35236,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Alam Tri Cakra Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 31962,
+      "ownership_percentage": 86
+    },
+    {
+      "name": "PT Juloi Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 26661,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Karimun Industri Surya Semesta",
+      "business_type": "Investasi",
+      "total_assets": 6238,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Karimun Sarana Surya",
+      "business_type": "Penyediaan Tenaga Listrik",
+      "total_assets": 6061,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Batuan Anugerah Semesta",
+      "business_type": "Pertambangan",
+      "total_assets": 4262,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Sumber Barito Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 4138,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Jaringan Interkoneksi Karimun Abadi",
+      "business_type": "Transmisi Tenaga Listrik",
+      "total_assets": 4027,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Alam Seraya",
+      "business_type": "Pertambangan Batu Kapur",
+      "total_assets": 3872,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Kalteng Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 1883,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Kalimantan Energi Lestari Indonesia",
+      "business_type": "Pembangkit, Transmisi Distribusi dan Penjualan Tenaga Listrik",
+      "total_assets": 1313,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Jaringan Interkoneksi Batam Abadi",
+      "business_type": "Transmisi Tenaga Listrik",
+      "total_assets": 596,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Adaro Solar International Pte. Ltd.",
+      "business_type": "Transmisi, Distribusi dan Penjualan Tenaga Listrik",
+      "total_assets": 461,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Alamtri Sunshine International",
+      "business_type": "Investasi",
+      "total_assets": 265,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Alamtri Wind Energy",
+      "business_type": "Investasi",
+      "total_assets": 212,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Alamtri Sarana Energi Terbarukan",
+      "business_type": "Penyedia Tenaga Listrik",
+      "total_assets": 60,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indonesia Solar Energy Corridor Pte. Ltd.",
+      "business_type": "Transmisi, Distribusi dan Penjualan Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Basalt Sinar Lestari",
+      "business_type": "Penggalian Batu, Pasir dan Tanah Liat Lainnya",
+      "total_assets": 0,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Pembangkit Indonesia Alfa",
+      "business_type": "Penyedia Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pembangkit Indonesia Delta",
+      "business_type": "Penyedia Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pembangkit Indonesia Epsilon",
+      "business_type": "Penyedia Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pembangkit Indonesia Eta",
+      "business_type": "Penyedia Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pembangkit Indonesia Gamma",
+      "business_type": "Penyedia Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pembangkit Indonesia Zeta",
+      "business_type": "Penyedia Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "74.062.017.288.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,05",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "19,71",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "28,02",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "34,23",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,40",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "36,81",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:56.791Z"
+}

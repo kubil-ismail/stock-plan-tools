@@ -1,0 +1,213 @@
+{
+  "company_name": "PT Superkrane Mitra Utama Tbk",
+  "ticker": "SKRN",
+  "office_address": "Jl. Raya Cakung Cilincing No. 9b, Jakarta Utara 14130 Indonesia",
+  "email": "superkrane@superkrane.com",
+  "phone": "(021) 441 3455",
+  "fax": "(021) 441 8290",
+  "tax_id": "01.749.696.9-045.000",
+  "website": "https://www.superkrane.com",
+  "listing_date": "2018-10-11",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak di bidang usaha dalam bidang jasa sewa crane dan alat-alat berat/fleets lainnya, jasa konstruksi lifting, pengangkutan umum dan perdagangan umum lainnya.",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Otomotif.",
+    "business_tags": [
+      "Konstruksi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 47,
+    "name": "Mesin Konstruksi & Kendaraan Berat",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Eddy Gunawin",
+    "email": "corporate@superkrane.com",
+    "phone": "(021) 441 3455"
+  },
+  "directors": [
+    {
+      "name": "Yafin Tandiono Tan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Linayati",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Johannes Wargo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Irjen Pol (p) Drs Anton Wahono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Irjen Pol (p) Drs Anton Wahono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wikanto Artadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dian Utami Tjandra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Saga Investama Sedaya",
+      "type": "Lebih dari 5%",
+      "shares": 4481000000,
+      "percentage": 59.75
+    },
+    {
+      "name": "Yafin Tandiono Tan",
+      "type": "Direksi",
+      "shares": 1550000000,
+      "percentage": 20.67
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 678186327,
+      "percentage": 9.04
+    },
+    {
+      "name": "Federal International (2000) Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 408813499,
+      "percentage": 5.45
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 382000174,
+      "percentage": 5.09
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.615.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,73",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "5,26",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "35,57",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,13",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,04",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,11",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:26.726Z"
+}

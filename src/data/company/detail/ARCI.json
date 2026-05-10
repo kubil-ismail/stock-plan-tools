@@ -1,0 +1,301 @@
+{
+  "company_name": "PT Archi Indonesia Tbk",
+  "ticker": "ARCI",
+  "office_address": "Rajawali Place Lantai 27 Jl. H. R. Rasuna Said Kav. B/4, Rt 003, Rw 07, Setiabudi, Jakarta Selatan, Dki Jakarta 12910, Indonesia",
+  "email": "corsec@archimining.com",
+  "phone": "+62 21 576 1719",
+  "fax": "+62 21 576 1720",
+  "tax_id": "03.088.742.6-063.000",
+  "website": "https://www.archiindonesia.com",
+  "listing_date": "2021-06-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan holding di bidang pertambangan mineral (antara lain, emas dan perak)",
+    "business_summary": "Perusahaan bergerak di bidang Batubara.",
+    "business_tags": [
+      "Batubara"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 18,
+    "name": "Emas",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Hidayat Dwiputro Sulaksono",
+    "email": "corsec@archimining.com",
+    "phone": "+62 576 1719"
+  },
+  "directors": [
+    {
+      "name": "Rudy Suhendra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Christian Emanuel David Sompie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hidayat Dwiputro Sulaksono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kenneth Ronald Kennedy Crichton",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rizki Indrakusuma",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Abed Nego",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Ir. Bambang Setiawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hamid Awaluddin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jhoni Ginting",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ir. Bambang Setiawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hamid Awaluddin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Herwan Ng",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Rajawali Corpora",
+      "type": "Lebih dari 5%",
+      "shares": 18142375000,
+      "percentage": 71.894
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4010068900,
+      "percentage": 15.8905
+    },
+    {
+      "name": "PT Rajawali Kapital Emas",
+      "type": "Lebih dari 5%",
+      "shares": 2967375000,
+      "percentage": 11.759
+    },
+    {
+      "name": "Rudy Suhendra",
+      "type": "Direksi",
+      "shares": 27000000,
+      "percentage": 0.107
+    },
+    {
+      "name": "Hidayat Dwiputro Sulaksono",
+      "type": "Direksi",
+      "shares": 25971900,
+      "percentage": 0.1029
+    },
+    {
+      "name": "Abed Nego",
+      "type": "Komisaris",
+      "shares": 25200000,
+      "percentage": 0.0999
+    },
+    {
+      "name": "Christian Emanuel David Sompie",
+      "type": "Direksi",
+      "shares": 20000000,
+      "percentage": 0.0793
+    },
+    {
+      "name": "Rizki Indrakusuma",
+      "type": "Komisaris",
+      "shares": 12009200,
+      "percentage": 0.0476
+    },
+    {
+      "name": "Kenneth Ronald Kennedy Crichton",
+      "type": "Komisaris",
+      "shares": 5000000,
+      "percentage": 0.0198
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Meares Soputan Mining",
+      "business_type": "Pertambangan Emas",
+      "total_assets": 494732056,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tambang Tondano Nusajaya",
+      "business_type": "Pertambangan Emas",
+      "total_assets": 401899973,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Geopersada Mulia Abadi",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 81612330,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Jasa Pertambangan Perkasa",
+      "business_type": "Jasa Tambang",
+      "total_assets": 6325372,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Elang Mulia Abadi Sempurna",
+      "business_type": "Perdagangan dan Pengolahan Emas",
+      "total_assets": 6033798,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Karya Kreasi Mulia",
+      "business_type": "Jasa Tambang",
+      "total_assets": 4300353,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Archipelago Resources Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 2050497,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "39.114.250.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "11,22",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "13,71",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "20,43",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "278,42",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,88",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "15,81",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:28.208Z"
+}

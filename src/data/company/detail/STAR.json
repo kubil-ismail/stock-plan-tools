@@ -1,0 +1,235 @@
+{
+  "company_name": "PT Calculus Global Ventures Tbk",
+  "ticker": "STAR",
+  "office_address": "Menara Bca Lt.45 Grand Indonesia Jl. MH. Thamrin No. 1 Menteng Jakarta 10310",
+  "email": "cs@buanaarthaanugerah.co.id",
+  "phone": "021-23585612",
+  "fax": "021-23584401",
+  "tax_id": "02.505.700.1-054.000",
+  "website": "https://www.buanaarthaanugerah.co.id",
+  "listing_date": "2011-07-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan umum besar",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Holding Keuangan.",
+    "business_tags": [
+      "Perusahaan Holding Keuangan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Amal Amarullah",
+    "email": "cs@calculusglobalventures.com",
+    "phone": "021-23585612"
+  },
+  "directors": [
+    {
+      "name": "Bayu Priantoro",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Amal Amarullah",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yose Rizal Araujo Gotty",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andri Vendredi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bayu Priantoro",
+      "position": "Ketua"
+    },
+    {
+      "name": "Patricia Ameta Depari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indria Santi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3255075602,
+      "percentage": 67.81
+    },
+    {
+      "name": "Calculus Investment Pte.ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1544925000,
+      "percentage": 32.19
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Star Semesta Sejahtera",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 199053284620,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Star Semesta Sejahtera",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 198319040323,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Star Semesta Sejahtera",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 198307914776,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Star Semesta Sejahtera",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 197742408238,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Star Semesta Sejahtera",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 196192806069,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Foster Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 72481647263,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Foster Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 72367154413,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Foster Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 71427237859,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Foster Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 71162638790,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Foster Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 70749631831,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Tunas Surya Abadi",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 1000000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Tunas Surya Abadi",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 1000000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Tunas Surya Abadi",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 1000000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Tunas Surya Abadi",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 1000000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Tunas Surya Abadi",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 1000000000,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.928.000.367.220",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,38",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "21,15",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "791,30",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "1.763,64",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,81",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "45,73",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:02.609Z"
+}

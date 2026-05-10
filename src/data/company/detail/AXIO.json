@@ -1,0 +1,210 @@
+{
+  "company_name": "PT Tera Data Indonusa Tbk",
+  "ticker": "AXIO",
+  "office_address": "Wisma Exa Jl. Inspeksi Pam No. 168, Cakung Barat Jakarta Timur 13910",
+  "email": "corporatesecretary@terra.co.id",
+  "phone": "+6221 22461001",
+  "fax": "+6221 22461001",
+  "tax_id": "027068709056000",
+  "website": "https://www.terra.co.id",
+  "listing_date": "2022-07-20",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Komputer dan Perlengkapan Komputer",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 23,
+    "name": "Perangkat Keras & Peralatan Teknologi",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 43,
+    "name": "Perangkat Komputer"
+  },
+  "sub_industry": {
+    "id": 68,
+    "name": "Perangkat Komputer",
+    "industries_id": 43
+  },
+  "corporate_secretary": {
+    "name": "Luhur Budiman",
+    "email": "corporatesecretary@terra.co.id",
+    "phone": "081282355484"
+  },
+  "directors": [
+    {
+      "name": "Michael Sugiarto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Luhur Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alex",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sugiyanto Sutikno",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Alpino Kianjaya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jessica Hartono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alpino Kianjaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aswinth Maratimbo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Michael",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Exa Nusa Persada",
+      "type": "Lebih dari 5%",
+      "shares": 3460240000,
+      "percentage": 59.25
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1188190800,
+      "percentage": 20.345
+    },
+    {
+      "name": "PT Primitias Ikota Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 1004405800,
+      "percentage": 17.199
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 186320000,
+      "percentage": 3.19
+    },
+    {
+      "name": "Alex",
+      "type": "Direksi",
+      "shares": 604200,
+      "percentage": 0.01
+    },
+    {
+      "name": "Luhur Budiman",
+      "type": "Direksi",
+      "shares": 365700,
+      "percentage": 0.006
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Internet Pratama Indonesia",
+      "business_type": "Perdagangan Besar Komputer, Perlengkapan Komputer dan Piranti Lunak",
+      "total_assets": 173385,
+      "ownership_percentage": 60.01
+    },
+    {
+      "name": "PT Pintar Pilih Motor",
+      "business_type": "Perdagangan Besar Sepeda Motor Listrik",
+      "total_assets": 5693,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "683.294.800.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,86",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "13,33",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,63",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,86",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "10,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:56.415Z"
+}

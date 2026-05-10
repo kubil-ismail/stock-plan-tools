@@ -1,0 +1,238 @@
+{
+  "company_name": "Mitra Investindo Tbk",
+  "ticker": "MITI",
+  "office_address": "Jl. Menteng Raya No. 72, Jakarta Pusat 10340",
+  "email": "corsec@mitra-investindo.com",
+  "phone": "(021) 29079558",
+  "fax": "(021) 29079559",
+  "tax_id": "0016426298091000",
+  "website": "https://www.mitra-investindo.com",
+  "listing_date": "1997-07-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Pelayaran dan Total Logistik",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Sugeng Wahono",
+    "email": "corsec@mitra-investindo.com",
+    "phone": "021-29079558"
+  },
+  "directors": [
+    {
+      "name": "Andreas Tjahjadi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Bambang Ediyanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ignatius Edy Suhardaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Leonard Tanubrata",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mohamad Indra Permana",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Diah Pertiwi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Diah Pertiwi Gandhi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Juli Sinaga, S.e, Ak, Cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Drs. Stefanus Ginting",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Prime Asia Capital",
+      "type": "Lebih dari 5%",
+      "shares": 1693367137,
+      "percentage": 45.15
+    },
+    {
+      "name": "PT Inti Bina Utama",
+      "type": "Lebih dari 5%",
+      "shares": 1129824572,
+      "percentage": 30.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 674971709,
+      "percentage": 18
+    },
+    {
+      "name": "Andreas Tjahjadi",
+      "type": "Direksi",
+      "shares": 205526016,
+      "percentage": 5.48
+    },
+    {
+      "name": "Mohamad Indra Permana",
+      "type": "Komisaris",
+      "shares": 18496600,
+      "percentage": 0.49
+    },
+    {
+      "name": "Ir. Bambang Ediyanto",
+      "type": "Direksi",
+      "shares": 14248300,
+      "percentage": 0.38
+    },
+    {
+      "name": "Ignatius Edy Suhardaya",
+      "type": "Direksi",
+      "shares": 13996600,
+      "percentage": 0.37
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 95669,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pelayaran Karana Line",
+      "business_type": "Pelayaran untuk Pengangkut Penumpan dan Barang",
+      "total_assets": 122368464501,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pelayaran Karana Line",
+      "business_type": "Pelayaran untuk Pengangkut Penumpan dan Barang",
+      "total_assets": 122368464501,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Wasesa Line",
+      "business_type": "Pelayaran untuk Pengangkut Penumpang dan Barang",
+      "total_assets": 114250230958,
+      "ownership_percentage": 99.81
+    },
+    {
+      "name": "PT Wasesa Line",
+      "business_type": "Pelayaran untuk Pengangkut Penumpang dan Barang",
+      "total_assets": 114250230958,
+      "ownership_percentage": 99.81
+    },
+    {
+      "name": "PT Karya Abdi Luhur",
+      "business_type": "Pengangkutan dan Pergudangan",
+      "total_assets": 84381168141,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Karya Abdi Luhur",
+      "business_type": "Pengangkutan dan Pergudangan",
+      "total_assets": 84381168141,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Nusantara Bina Silika",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 20482000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Nusantara Bina Silika",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 20482000000,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "930.130.597.544",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,20",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "20,92",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "19,33",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "51,25",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,20",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "45,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:56.688Z"
+}

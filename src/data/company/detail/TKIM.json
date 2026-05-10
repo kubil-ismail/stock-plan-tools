@@ -1,0 +1,184 @@
+{
+  "company_name": "Pabrik Kertas Tjiwi Kimia Tbk",
+  "ticker": "TKIM",
+  "office_address": "Gedung Sinar Mas Land Plaza Menara 2 Lt.9 Jl. Mh.thamrin No. 51 Gondangdia Menteng Kota Adm.jakarta Pusat Dki Jakarta 10350",
+  "email": "yan_partawijaya@app.co.id;heri_santoso@app.co.id;suhendra_wiriadinata@app.co.id; arman_sutedja@app.co.id; lydia_lydia@app.co.id",
+  "phone": "021-29650800",
+  "fax": "021-3927685",
+  "tax_id": "01.109.421.6-092.000",
+  "website": "https://www.app.co.id",
+  "listing_date": "1990-04-03",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pulp and Paper",
+    "business_summary": "Perusahaan bergerak di bidang Kertas.",
+    "business_tags": [
+      "Kertas"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 37,
+    "name": "Kertas",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Ananda Sidharta",
+    "email": "ananda_sidharta@app.co.id",
+    "phone": "021-29650800"
+  },
+  "directors": [
+    {
+      "name": "Suhendra Wiriadinata",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Agustian Rachmansjah Partawidjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alfian Lim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Megawaty Tjendra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andre Ridwan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Saleh Husin, Se, Msi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Jaya Kosasih",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sukirta Mangku Djaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Andrie Setiawan Yapsir",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Ir. Rizal Affandi Lukman,m.a.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Prof. Widyo Pramono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suryamin Halim",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ir. Rizal Affandi Lukman, M.a.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Suryamin Halim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tio I Huat",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT App Purinusa Ekapersada",
+      "type": "Lebih dari 5%",
+      "shares": 1857744987,
+      "percentage": 59.6727
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 911361387,
+      "percentage": 29.2739
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 344117196,
+      "percentage": 11.0534
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "26.929.383.880.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,95",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "19,22",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "19,64",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "46,93",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,37",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "14,33",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:38.421Z"
+}

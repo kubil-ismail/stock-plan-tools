@@ -1,0 +1,293 @@
+{
+  "company_name": "Sekar Bumi Tbk",
+  "ticker": "SKBM",
+  "office_address": "Plaza Asia Fl. 21, Jl. Jenderal Sudirman Kav. 59, Jakarta 12190",
+  "email": "skbm@sekarbumi.com",
+  "phone": "(021) 51401122",
+  "fax": "(021) 51401212",
+  "tax_id": "01.148.487.0-054.000",
+  "website": "https://www.sekarbumi.com",
+  "listing_date": "2012-09-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Manufaktur dan Penyalur Makanan Olahan Beku",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur, Makanan & Minuman.",
+    "business_tags": [
+      "Manufaktur",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Ivone Margaretha",
+    "email": "ivone@sekarbumi.com",
+    "phone": "(031) 8951910"
+  },
+  "directors": [
+    {
+      "name": "Oei Harry Lukmito",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Howard Ken Lukmito",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Freddy Adam",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Gary Iyawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Pahlawan Hari Tjahjono",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ivone Margaretha",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mark Gerard Clay",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Finna Huang",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hadi Cahyadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hartono Wijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hadi Cahyadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Eddy Sutjahjo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rachmatdi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Tael Two Partners Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 554706046,
+      "percentage": 32.06
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 349235156,
+      "percentage": 20.19
+    },
+    {
+      "name": "Green Resources Investments Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 338732360,
+      "percentage": 19.58
+    },
+    {
+      "name": "PT Multi Karya Sejati",
+      "type": "Lebih dari 5%",
+      "shares": 169860287,
+      "percentage": 9.82
+    },
+    {
+      "name": "Bank Negara Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 105927874,
+      "percentage": 6.12
+    },
+    {
+      "name": "Fj Capital Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 93859834,
+      "percentage": 5.43
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 77958361,
+      "percentage": 4.5
+    },
+    {
+      "name": "Oei Harry Lukmito",
+      "type": "Direksi",
+      "shares": 34335488,
+      "percentage": 1.98
+    },
+    {
+      "name": "Finna Huang",
+      "type": "Komisaris",
+      "shares": 4801440,
+      "percentage": 0.28
+    },
+    {
+      "name": "Gary Iyawan",
+      "type": "Direksi",
+      "shares": 270000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Freddy Adam",
+      "type": "Direksi",
+      "shares": 270000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Howard Ken Lukmito",
+      "type": "Direksi",
+      "shares": 66371,
+      "percentage": 0
+    },
+    {
+      "name": "Pahlawan Hari Tjahjono",
+      "type": "Direksi",
+      "shares": 80000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bumi Pangan Utama",
+      "business_type": "Industri Pembekuan Biota Air Lainnya",
+      "total_assets": 684369287460,
+      "ownership_percentage": 92.32
+    },
+    {
+      "name": "PT Sekar Katokichi",
+      "business_type": "Industri Makanan dan Masakan Olahan",
+      "total_assets": 92542699077,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sentra Budidaya Biotek",
+      "business_type": "Budidaya Tambak Udang",
+      "total_assets": 82781738328,
+      "ownership_percentage": 92.96
+    },
+    {
+      "name": "PT Bumi Pangan Asri",
+      "business_type": "Industri Pembekuan Biota Air Lainnya",
+      "total_assets": 70613809005,
+      "ownership_percentage": 92.07
+    },
+    {
+      "name": "PT Bumi Pangan Sejahtera",
+      "business_type": "Industri Pembekuan Biota Air Lainnya",
+      "total_assets": 53450687331,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Bumifood Agro Industri",
+      "business_type": "Industri Makanan dari Kedelai dan Kacangkacangan Lainnya Bukan Kecap, Tempe dan Tahu",
+      "total_assets": 26829252311,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Sekar Bumi Industri (dahulu PT Bumi Pangan Mulia)",
+      "business_type": "Pembangunan, Industri, Pengangkutan, Pertanian, Jasa, Percetakan dan Perbengkelan",
+      "total_assets": 19689750342,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Sekar Bumi Distrindo (dahulu PT Bumi Pangan Inti)",
+      "business_type": "Pedagangan Besar Hasil Olahan Perikanan",
+      "total_assets": 138983469,
+      "ownership_percentage": 99.75
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.202.421.735.815",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,78",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "24,27",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "29,03",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "59,20",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,25",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,28",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:24.961Z"
+}

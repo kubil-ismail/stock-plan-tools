@@ -1,0 +1,204 @@
+{
+  "company_name": "PT Budi Starch & Sweetener Tbk.",
+  "ticker": "BUDI",
+  "office_address": "Wisma Budi Lantai 8-9. Jl. H.r.rasuna Said Kav C6",
+  "email": "alice.yuliana@sungaibudi.com",
+  "phone": "021-5213383",
+  "fax": "021-5213339, 5213392",
+  "tax_id": "01.221.127.2-054.000 / 0012211272054000",
+  "website": "http://www.budistarchsweetener.com",
+  "listing_date": "1995-05-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Basic Industry and Chemicals - Cement",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Alice Yuliana",
+    "email": "alice.yuliana@sungaibudi.com",
+    "phone": "021-5213383"
+  },
+  "directors": [
+    {
+      "name": "Santoso Winata",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sudarmo Tasmin",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sugandhi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Oey Albert",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Basuki Prawono Winata",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jason Indrian Winata",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Anthony Sudirjo",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Widarto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Oey Alfred",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Daniel Kandinata",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Daniel Kandinata",
+      "position": "Ketua"
+    },
+    {
+      "name": "Liesye Lestari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yetty Semiawaty",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1802392256,
+      "percentage": 40.0621
+    },
+    {
+      "name": "PT Budi Delta Swakarya",
+      "type": "Lebih dari 5%",
+      "shares": 1487271833,
+      "percentage": 33.0579
+    },
+    {
+      "name": "PT Sungai Budi",
+      "type": "Lebih dari 5%",
+      "shares": 1201296998,
+      "percentage": 26.7014
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 7720400,
+      "percentage": 0.1716
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 315875,
+      "percentage": 0.007
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Associated British Budi",
+      "business_type": "Industri Glukosa, Fruktosa, dan Maltodextrin",
+      "total_assets": 357251,
+      "ownership_percentage": 50.1
+    },
+    {
+      "name": "PT Budi Lumbung Cipta Tani",
+      "business_type": "Industri Tapioka, Glukosa dan Maltodextrin",
+      "total_assets": 131061,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Budi Starch & Sweetener Singapore Pte., Ltd",
+      "business_type": "Perdagangan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "944.789.446.020",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,95",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,80",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "6,31",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "0,95",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,89",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "3,70",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:41.618Z"
+}

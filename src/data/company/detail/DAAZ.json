@@ -1,0 +1,219 @@
+{
+  "company_name": "PT Daaz Bara Lestari Tbk",
+  "ticker": "DAAZ",
+  "office_address": "Gedung Office 8, Lantai 21 Unit E dan F, Jl. Senopati No. 8b, Senayan, Kebayoran Baru, Jakarta Selatan, Dki Jakarta, 12190",
+  "email": "corsec@daaz-group.com",
+  "phone": "(021) 2933 3203",
+  "fax": "",
+  "tax_id": "0029789625012000",
+  "website": "http://www.daaz-group.com",
+  "listing_date": "2024-11-11",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan besar logam, bijih logam dan penyedia jasa aktivitas perusahaan holding",
+    "business_summary": "Perusahaan bergerak di bidang Logam & Mineral Lainnya.",
+    "business_tags": [
+      "Logam & Mineral Lainnya"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Tracy Margarettha",
+    "email": "corsec@daaz-group.com",
+    "phone": "(021) 2933 3203"
+  },
+  "directors": [
+    {
+      "name": "Mahar Atanta Sembiring",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Muljanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Junaidy Kwedarisman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Irawan Sigit Subekti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Erlyn Sulistio",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Erwin Sutanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Irawan Sastrotanojo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yohanes Yudha Indrajati",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yohanes Yudha Indrajati",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jeanne Watulo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Drs Prawira Atmadja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Daaz Nusantara Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 848500000,
+      "percentage": 42.49
+    },
+    {
+      "name": "Zainal Abidinsyah Siregar",
+      "type": "Lebih dari 5%",
+      "shares": 339400000,
+      "percentage": 17
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 300000000,
+      "percentage": 15.01
+    },
+    {
+      "name": "Irawan Sastrotanojo",
+      "type": "Komisaris",
+      "shares": 254550000,
+      "percentage": 12.75
+    },
+    {
+      "name": "Erwin Sutanto",
+      "type": "Komisaris",
+      "shares": 254550000,
+      "percentage": 12.75
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mahar Atanta Sembiring",
+      "type": "Direksi",
+      "shares": 25000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.653.010.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,53",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "29,62",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "7,92",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "46,62",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,15",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,53",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:40.769Z"
+}

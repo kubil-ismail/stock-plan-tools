@@ -1,0 +1,229 @@
+{
+  "company_name": "PT Sumber Sinergi Makmur Tbk",
+  "ticker": "IOTF",
+  "office_address": "Fox Logger Tower Jl. Cideng Barat Nomor 31a, Rt. 003/rw. 011, Kelurahan Cideng, Kecamatan Gambir, Jakarta Pusat 10150",
+  "email": "corsec@foxlogger.com",
+  "phone": "(021) 629 2775",
+  "fax": "",
+  "tax_id": "73.088.471.5-451.000",
+  "website": "https://www.foxlogger.co.id",
+  "listing_date": "2023-10-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Peralatan Telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 23,
+    "name": "Perangkat Keras & Peralatan Teknologi",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 45,
+    "name": "Perangkat, Instrumen & Komponen Elektronik"
+  },
+  "sub_industry": {
+    "id": 67,
+    "name": "Perangkat & Instrumen Elektronik",
+    "industries_id": 45
+  },
+  "corporate_secretary": {
+    "name": "Tommy Indra Anggara",
+    "email": "corsec@foxlogger.com",
+    "phone": "(021) 629 2775"
+  },
+  "directors": [
+    {
+      "name": "Alamsyah",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tommy Indra Anggara",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Gracia Puspita Suciono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Elvina",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Elvina",
+      "position": ""
+    },
+    {
+      "name": "Denise Widya Sahrany",
+      "position": ""
+    },
+    {
+      "name": "Andi Hartono",
+      "position": ""
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Alamsyah",
+      "type": "Direksi",
+      "shares": 2555000000,
+      "percentage": 48.3
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1690298067,
+      "percentage": 31.95
+    },
+    {
+      "name": "Gracia Puspita Suciono",
+      "type": "Komisaris",
+      "shares": 1045000000,
+      "percentage": 19.75
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Elvina",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tommy Indra Anggara",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Teknologi Data Pembuatan Keputusan",
+      "business_type": "Perdagangan Eceran Alat Komunikasi dan Aktivitas Telekomunikasi Lainnya yang Tidak Dapat Diklasifikasikan di Tempat Lain",
+      "total_assets": 2306569931,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Teknologi Data Pembuatan Keputusan",
+      "business_type": "Perdagangan Eceran Alat Komunikasi dan Aktivitas Telekomunikasi Lainnya yang Tidak Dapat Diklasifikasikan di Tempat Lain",
+      "total_assets": 2306569931,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Teknologi Data Pembuatan Keputusan",
+      "business_type": "Perdagangan Eceran Alat Komunikasi dan Aktivitas Telekomunikasi Lainnya yang Tidak Dapat Diklasifikasikan di Tempat Lain",
+      "total_assets": 2306569931,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Teknologi Data Pembuatan Keputusan",
+      "business_type": "Perdagangan Eceran Alat Komunikasi dan Aktivitas Telekomunikasi Lainnya yang Tidak Dapat Diklasifikasikan di Tempat Lain",
+      "total_assets": 2306569931,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Teknologi Data Pembuatan Keputusan",
+      "business_type": "Perdagangan Eceran Alat Komunikasi dan Aktivitas Telekomunikasi Lainnya yang Tidak Dapat Diklasifikasikan di Tempat Lain",
+      "total_assets": 0,
+      "ownership_percentage": 99.95
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "333.288.778.221",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "12,50",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,59",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "66,49",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "25,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:32.729Z"
+}

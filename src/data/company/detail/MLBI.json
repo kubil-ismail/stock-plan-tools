@@ -1,0 +1,263 @@
+{
+  "company_name": "Multi Bintang Indonesia Tbk",
+  "ticker": "MLBI",
+  "office_address": "Jl. Daan Mogot Km.19 Tangerang 15122",
+  "email": "eka_lesdiana@multibintang.co.id",
+  "phone": "619-01-08, 545-07-50, 545-07-42",
+  "fax": "021 - 619-0190",
+  "tax_id": "01.002.228.3-092.000",
+  "website": "https://-",
+  "listing_date": "1981-12-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri air minum dalam kemasan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 48,
+    "name": "Minuman Keras",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Heryatmita Sisdjiatmo Thalib",
+    "email": "eka.lesdiana@heineken.com",
+    "phone": "+62 21 27880800"
+  },
+  "directors": [
+    {
+      "name": "Roland Bala",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Stephanie Yolande Peregrin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jemmy Cahyono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Putu Norma Astyari, S.e., M.a.",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fajar Muharisa Suryo Saputro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Drs.bambang Chriswanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Maurits Daniel Rudolf Lalisang",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Uday Shankar Sinha",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Charl Marais",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Clayton Allen Wenas",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jose Rolando Saenz Dominguez",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Clayton Allen Wenas",
+      "position": "Ketua"
+    },
+    {
+      "name": "Franky Jamin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Setiawan Kriswanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Heineken International B.v.",
+      "type": "Lebih dari 5%",
+      "shares": 1881951000,
+      "percentage": 89.32
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 201697700,
+      "percentage": 9.57
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 23351300,
+      "percentage": 1.11
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Roland Bala",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Stephanie Yolande Peregrin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Putu Norma Astyari",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fajar Muharisa Suryo Saputro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Chriswanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jemmy Cahyono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Maurits Daniel Rudolf Lalisang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Clayton Allen Wenas",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Uday Shankar Sinha",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Charl Marais",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jose Rolando Saenz Dominguez",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Multi Bintang Indonesia Niaga",
+      "business_type": "Distributor",
+      "total_assets": 1398757,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Tirta Prima Indonesia",
+      "business_type": "Industri Minuman Ringan",
+      "total_assets": 218627,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "12.273.275.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,51",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,89",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1,72",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "3,28",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,85",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "3,96",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:00.960Z"
+}

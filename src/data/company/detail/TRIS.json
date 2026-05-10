@@ -1,0 +1,289 @@
+{
+  "company_name": "Trisula International Tbk",
+  "ticker": "TRIS",
+  "office_address": "Trisula Center. Jl. Lingkar Luar Barat Blok A No. 1 Jakarta 11740",
+  "email": "corporate.secretary@trisula.com",
+  "phone": "021-58357377",
+  "fax": "021-58358033",
+  "tax_id": "02.420.282.2-054.000",
+  "website": "https://www.trisula.co.id",
+  "listing_date": "2012-06-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan pakaian jadi (garmen), industri garmen, industri tekstil serta usaha terkait lainnya.",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Manufaktur.",
+    "business_tags": [
+      "Properti",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 53,
+    "name": "Pakaian, Aksesoris, & Tas",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Kresna Wilendrata",
+    "email": "kresna.wilendrata@trisula.com",
+    "phone": "02158357377"
+  },
+  "directors": [
+    {
+      "name": "Widjaya Djohan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Marcus Harianto B",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjhoi Lisa Tjahjadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Fendy Sutanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fendy Sutanto",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Inti Nusa Damai",
+      "type": "Lebih dari 5%",
+      "shares": 633384048,
+      "percentage": 20.16
+    },
+    {
+      "name": "Kiky Suherlan",
+      "type": "Lebih dari 5%",
+      "shares": 507072000,
+      "percentage": 16.14
+    },
+    {
+      "name": "Dedie Suherlan",
+      "type": "Lebih dari 5%",
+      "shares": 507072000,
+      "percentage": 16.14
+    },
+    {
+      "name": "PT Trisula Insan Tiara",
+      "type": "Lebih dari 5%",
+      "shares": 502814700,
+      "percentage": 16.01
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 471772683,
+      "percentage": 15.02
+    },
+    {
+      "name": "PT Karya Dwimanunggal Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 470037000,
+      "percentage": 14.96
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 48232500,
+      "percentage": 1.54
+    },
+    {
+      "name": "Marcus Harianto B",
+      "type": "Direksi",
+      "shares": 1058900,
+      "percentage": 0.03
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Trisco Tailored Apparel Manufacturing (tsc)",
+      "business_type": "Industri Garmen (ekspor)",
+      "total_assets": 578,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Trisula Textile Industries Tbk (bell)",
+      "business_type": "Industri Tekstil",
+      "total_assets": 566,
+      "ownership_percentage": 79.11
+    },
+    {
+      "name": "PT Mido Indonesia (mi)",
+      "business_type": "Ritel",
+      "total_assets": 197,
+      "ownership_percentage": 78.31
+    },
+    {
+      "name": "Trisco Tailored And Woven International Ltd (ttwi)",
+      "business_type": "Penyalur dan Penjual Pakaian Jadi",
+      "total_assets": 100,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Trimas Belindo Aparel Manufaktur (tbam)",
+      "business_type": "Manufaktur",
+      "total_assets": 52,
+      "ownership_percentage": 79.11
+    },
+    {
+      "name": "PT Trimas Sarana Garment Industry (tms)",
+      "business_type": "Industri Garmen (ekspor)",
+      "total_assets": 52,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "Mido Uniforms Pte. Ltd. (mu)",
+      "business_type": "Penyalur dan Penjual Pakaian Seragam",
+      "total_assets": 49,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Prima Moda Kreasindo (pmk)",
+      "business_type": "Distributor",
+      "total_assets": 36,
+      "ownership_percentage": 31.64
+    },
+    {
+      "name": "PT Sinar Abadi Citranusa (sac)",
+      "business_type": "Distributor",
+      "total_assets": 36,
+      "ownership_percentage": 63.28
+    },
+    {
+      "name": "PT Savana Lestari (sl)",
+      "business_type": "Distributor",
+      "total_assets": 29,
+      "ownership_percentage": 51.42
+    },
+    {
+      "name": "PT Tricitra Busanamas (tbm)",
+      "business_type": "Distributor",
+      "total_assets": 24,
+      "ownership_percentage": 31.64
+    },
+    {
+      "name": "PT Trisula Garmindo Manufacturing (tgm)",
+      "business_type": "Sewa Milik Sendiri",
+      "total_assets": 17,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Cakra Kencana (ck)",
+      "business_type": "Distributor",
+      "total_assets": 13,
+      "ownership_percentage": 55.37
+    },
+    {
+      "name": "PT Tritirta Saranadamai (tsd)",
+      "business_type": "Penyewaan dan Manajemen Properti",
+      "total_assets": 13,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Permata Busana Mas (pbm)",
+      "business_type": "Distributor",
+      "total_assets": 12,
+      "ownership_percentage": 47.46
+    },
+    {
+      "name": "PT Bina Citra Sentosa (bcg)",
+      "business_type": "Distributor",
+      "total_assets": 6,
+      "ownership_percentage": 41.13
+    },
+    {
+      "name": "PT Tricom Mitra Mandiri (tmm)",
+      "business_type": "Management E-commerce",
+      "total_assets": 4,
+      "ownership_percentage": 58.11
+    },
+    {
+      "name": "PT Bintang Cipta Sejahtera (bcs)",
+      "business_type": "Distributor",
+      "total_assets": 2,
+      "ownership_percentage": 33.22
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "584.308.552.566",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,71",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,21",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "10,19",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,09",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,63",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "5,61",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:58.122Z"
+}

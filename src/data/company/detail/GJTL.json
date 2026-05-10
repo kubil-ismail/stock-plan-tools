@@ -1,0 +1,297 @@
+{
+  "company_name": "Gajah Tunggal Tbk",
+  "ticker": "GJTL",
+  "office_address": "Wisma Hayam Wuruk Lt. 10, Jl. Hayam Wuruk No. 8 Jakarta 10120",
+  "email": "gajahjak@gt-tires.com;dradjat.tribrata@gt-tires.com",
+  "phone": "021 - 3811102, 3459431, 3459302",
+  "fax": "021 - 3805663",
+  "tax_id": "01.003.009.6-092.000",
+  "website": "https://www.gt-tires.com",
+  "listing_date": "1990-05-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Automotive and Components",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif.",
+    "business_tags": [
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 8,
+    "name": "Ban",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Kisyuwono",
+    "email": "gajahjak@gt-tires.com",
+    "phone": "021-5098 5916-20"
+  },
+  "directors": [
+    {
+      "name": "Sugeng Rahardjo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budhi Santoso Tanasaleh",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kisyuwono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendra Soerijadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hui Chee Teck",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Yee Sin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Drs. Sutanto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Enk Ee",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gautama Hartarto, Ma",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Juliani Gozali",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Sunaria Tadjuddin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sudrajat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sudrajat",
+      "position": "Ketua"
+    },
+    {
+      "name": "Grace Subali",
+      "position": "Anggota"
+    },
+    {
+      "name": "Timotius Hendrajaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Denham Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1724972443,
+      "percentage": 49.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1162083535,
+      "percentage": 33.347
+    },
+    {
+      "name": "Compagnie Financiere Michelin Scma",
+      "type": "Lebih dari 5%",
+      "shares": 348480000,
+      "percentage": 10
+    },
+    {
+      "name": "Drs. Lo Kheng Hong",
+      "type": "Lebih dari 5%",
+      "shares": 232792900,
+      "percentage": 6.68
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 16271122,
+      "percentage": 0.4673
+    },
+    {
+      "name": "Kisyuwono",
+      "type": "Direksi",
+      "shares": 200000,
+      "percentage": 0.0057
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Prima Sentra Megah",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1227307,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Prima Sentra Megah",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1220429,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Prima Sentra Megah",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1124585,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Prima Sentra Megah",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1059884,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Prima Sentra Megah",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1007715,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Filamendo Sakti",
+      "business_type": "Industri Pembuatan Nylon Filament Yarn",
+      "total_assets": 630880,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Filamendo Sakti",
+      "business_type": "Industri Pembuatan Nylon Filament Yarn",
+      "total_assets": 614062,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Filamendo Sakti",
+      "business_type": "Industri Pembuatan Nylon Filament Yarn",
+      "total_assets": 610343,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Filamendo Sakti",
+      "business_type": "Industri Pembuatan Nylon Filament Yarn",
+      "total_assets": 590603,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Filamendo Sakti",
+      "business_type": "Industri Pembuatan Nylon Filament Yarn",
+      "total_assets": 556152,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Speedwork Solusi Utama",
+      "business_type": "Perdagangan Secara Online/e-commerce",
+      "total_assets": 26996,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Speedwork Solusi Utama",
+      "business_type": "Perdagangan Secara Online/e-commerce",
+      "total_assets": 0,
+      "ownership_percentage": 6.86
+    },
+    {
+      "name": "PT Speedwork Solusi Utama",
+      "business_type": "Perdagangan Secara Online/e-commerce",
+      "total_assets": 0,
+      "ownership_percentage": 6.86
+    },
+    {
+      "name": "PT Speedwork Solusi Utama",
+      "business_type": "Perdagangan Secara Online/e-commerce",
+      "total_assets": 0,
+      "ownership_percentage": 6.86
+    },
+    {
+      "name": "PT Speedwork Solusi Utama",
+      "business_type": "Perdagangan Secara Online/e-commerce",
+      "total_assets": 0,
+      "ownership_percentage": 6.86
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.164.336.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,87",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "11,79",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "9,72",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "11,27",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,25",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,79",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:05.574Z"
+}

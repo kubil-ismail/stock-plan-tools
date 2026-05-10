@@ -1,0 +1,294 @@
+{
+  "company_name": "PT Md Entertainment Tbk",
+  "ticker": "FILM",
+  "office_address": "Md Place, Tower 1, 9th Floor Jl. Setiabudi Selatan No. 7, Jakarta 12910",
+  "email": "corporatesecretary@mdentertainment.com",
+  "phone": "(62-21) 29855777",
+  "fax": "(62-21) 29055777",
+  "tax_id": "02.250.161.3-018.000",
+  "website": "https://www.mdentertainment.com/pictures",
+  "listing_date": "2018-08-07",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Studio Perfilman",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Media.",
+    "business_tags": [
+      "Properti",
+      "Media"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 11,
+    "name": "Hiburan & Film"
+  },
+  "sub_industry": {
+    "id": 21,
+    "name": "Hiburan & Film",
+    "industries_id": 11
+  },
+  "corporate_secretary": {
+    "name": "Fadel Ramadhia",
+    "email": "corporatesecretary@mdentertainment.com",
+    "phone": "021-29855777"
+  },
+  "directors": [
+    {
+      "name": "Manoj Dhamoo Punjabi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Priyadarshi Anand",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sajan Lachmandas Mulani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Theodore Yoon Soung Kim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Firdauzi Saksono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "William Hyongmin Kim",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Shania Manoj Punjabi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sanjeva Advani",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dian Adhitama",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dian Adhitama",
+      "position": "Ketua"
+    },
+    {
+      "name": "Supardji",
+      "position": "Anggota"
+    },
+    {
+      "name": "Richad Antonio",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Md Corp Enterprises",
+      "type": "Lebih dari 5%",
+      "shares": 4803164585,
+      "percentage": 44.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2317079436,
+      "percentage": 21.28
+    },
+    {
+      "name": "Manoj Dhamoo Punjabi",
+      "type": "Direksi",
+      "shares": 1379704058,
+      "percentage": 12.67
+    },
+    {
+      "name": "Samuel Sekuritas Indonesia, PT",
+      "type": "Lebih dari 5%",
+      "shares": 1228711500,
+      "percentage": 11.29
+    },
+    {
+      "name": "Morgan Stanley And Co Intl Plc-client Ac",
+      "type": "Lebih dari 5%",
+      "shares": 1136851700,
+      "percentage": 10.44
+    },
+    {
+      "name": "Shania Manoj Punjabi",
+      "type": "Komisaris",
+      "shares": 18955400,
+      "percentage": 0.17
+    },
+    {
+      "name": "Sanjeva Advani",
+      "type": "Komisaris",
+      "shares": 3100079,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sajan Lachmandas Mulani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Priyadashi Anand",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dian Adhitama",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Theodore Yoon Soung Kim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Firdauzi Saksono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "William Hyongmin Kim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT MDTV Media Technologies Tbk",
+      "business_type": "Aktivitas Kantor Pusat",
+      "total_assets": 959688448053,
+      "ownership_percentage": 80.05
+    },
+    {
+      "name": "PT Jakarta Film Studio",
+      "business_type": "Jasa Persewaan Gedung Dan/atau Property, Bidang Jasa Persewaan Mesin dan Peralatan Film, Bidang Perdagangan Film",
+      "total_assets": 215505109848,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Md Produksi Indonesia",
+      "business_type": "Rumah Produksi",
+      "total_assets": 24492470650,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Takedua Jakarta Film Studio",
+      "business_type": "Jasa Persewaan Peralatan Shooting",
+      "total_assets": 19854721855,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT White Tiger Studios",
+      "business_type": "Rumah Produksi",
+      "total_assets": 16855057429,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Paw Pic Studio Indonesia",
+      "business_type": "Produksi Film dan Video",
+      "total_assets": 150247364,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "25.912.408.884.040",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,20",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "62,63",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "56,98",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "11,03",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "17,97",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "83,31",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:44.273Z"
+}

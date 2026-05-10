@@ -1,0 +1,262 @@
+{
+  "company_name": "PT Airasia Indonesia Tbk",
+  "ticker": "CMPP",
+  "office_address": "Redhouse Airasia, Jalan Marsekal Surya Dharma (m1) No. 1, Neglasari, Tangerang 15127",
+  "email": "iaa_corporatesecretary@airasia.com",
+  "phone": "(021) 29850888",
+  "fax": "(021) 29850889",
+  "tax_id": "01.482.815.6-054.000",
+  "website": "https://ir.aaid.co.id",
+  "listing_date": "1994-12-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa konsultasi bisnis dan manejemen, perdagangan umum",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 24,
+    "name": "Maskapai Penerbangan"
+  },
+  "sub_industry": {
+    "id": 44,
+    "name": "Maskapai Penerbangan",
+    "industries_id": 24
+  },
+  "corporate_secretary": {
+    "name": "Liza Nur Azizah",
+    "email": "lizanurazizah@airasia.com",
+    "phone": "021-29850888"
+  },
+  "directors": [
+    {
+      "name": "Raden Achmad Sadikin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Luh Gede Mega Putri Tjatera",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ahmad Al Farouk Bin Ahmad Kamal",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sabam Hutajulu",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Julianto Sidarto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Reza Viryawan",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sabam Hutajulu",
+      "position": "Ketua"
+    },
+    {
+      "name": "Elok Tresnaningsih",
+      "position": "Anggota"
+    },
+    {
+      "name": "Myrnie Zachraini",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Airasia Aviation Group Limited",
+      "type": "Lebih dari 5%",
+      "shares": 4942013300,
+      "percentage": 46.25
+    },
+    {
+      "name": "PT Fersindo Nusaperkasa",
+      "type": "Lebih dari 5%",
+      "shares": 4931915000,
+      "percentage": 46.16
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 810058141,
+      "percentage": 7.58
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1138000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Raden Achmad Sadikin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Luh Gede Mega Putri Tjatera",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Al Farouk Bin Ahmad Kamal",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sabam Hutajulu",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Julianto Sidarto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Reza Viryawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indonesia Airasia",
+      "business_type": "Penerbangan",
+      "total_assets": 3355764,
+      "ownership_percentage": 57.25
+    },
+    {
+      "name": "PT Indonesia Airasia",
+      "business_type": "Penerbangan",
+      "total_assets": 3355764,
+      "ownership_percentage": 57.25
+    },
+    {
+      "name": "PT Indonesia Airasia",
+      "business_type": "Penerbangan",
+      "total_assets": 3355764,
+      "ownership_percentage": 57.25
+    },
+    {
+      "name": "PT Indonesia Airasia",
+      "business_type": "Penerbangan",
+      "total_assets": 3355764,
+      "ownership_percentage": 57.25
+    },
+    {
+      "name": "PT Indonesia Airasia",
+      "business_type": "Penerbangan",
+      "total_assets": 3355764,
+      "ownership_percentage": 57.25
+    },
+    {
+      "name": "PT Garda Tawang Reksa Indonesia",
+      "business_type": "Aktivitas Kebandarudaraan",
+      "total_assets": 43935,
+      "ownership_percentage": 38.36
+    },
+    {
+      "name": "PT Garda Tawang Reksa Indonesia",
+      "business_type": "Aktivitas Kebandarudaraan",
+      "total_assets": 43935,
+      "ownership_percentage": 38.36
+    },
+    {
+      "name": "PT Garda Tawang Reksa Indonesia",
+      "business_type": "Aktivitas Kebandarudaraan",
+      "total_assets": 43935,
+      "ownership_percentage": 38.36
+    },
+    {
+      "name": "PT Garda Tawang Reksa Indonesia",
+      "business_type": "Aktivitas Kebandarudaraan",
+      "total_assets": 43935,
+      "ownership_percentage": 38.36
+    },
+    {
+      "name": "PT Garda Tawang Reksa Indonesia",
+      "business_type": "Aktivitas Kebandarudaraan",
+      "total_assets": 43935,
+      "ownership_percentage": 38.36
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "854.809.955.280",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,23",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "7,87",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "11,83",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,50",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,20",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,77",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:17.490Z"
+}

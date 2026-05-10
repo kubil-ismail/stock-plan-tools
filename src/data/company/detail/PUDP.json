@@ -1,0 +1,418 @@
+{
+  "company_name": "Pudjiadi Prestige Tbk",
+  "ticker": "PUDP",
+  "office_address": "Gedung Jayakarta Hotel Lt. 21 Jl. Hayam Wuruk 126 Jakarta, Barat 11180",
+  "email": "erna@pudjiadiprestige.co.id; info@pudjiadiprestige.co.id",
+  "phone": "021 - 6241030",
+  "fax": "021 - 6240981",
+  "tax_id": "01.318.007.0-054.000",
+  "website": "https://www.pudjiadiprestige.co.id",
+  "listing_date": "1994-11-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Erna Hesriyanti",
+    "email": "erna@pudjiadiprestige.co.id",
+    "phone": "021-6241030/6241033"
+  },
+  "directors": [
+    {
+      "name": "Damian Pudjiadi, Mba",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Toto Sasetyo Dbl",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kosmian Pudjiadi Bsise, Mba",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Octavianus Halim, Mba",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ariyo Tejo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Octavianus Halim, Mba",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ardika May Fendra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Afika Nur Fadilah Fikri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Istana Kuta Ratu Prestige",
+      "type": "Lebih dari 5%",
+      "shares": 293545682,
+      "percentage": 44.54
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 156740618,
+      "percentage": 23.77
+    },
+    {
+      "name": "Lenawati Pudjiadi",
+      "type": "Lebih dari 5%",
+      "shares": 150093228,
+      "percentage": 22.77
+    },
+    {
+      "name": "Kosmian Pudjiadi",
+      "type": "Komisaris",
+      "shares": 27076454,
+      "percentage": 4.11
+    },
+    {
+      "name": "Damian Pudjiadi",
+      "type": "Direksi",
+      "shares": 18642778,
+      "percentage": 2.83
+    },
+    {
+      "name": "Ariyo Tejo",
+      "type": "Komisaris",
+      "shares": 8800806,
+      "percentage": 1.34
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 4220434,
+      "percentage": 0.64
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Graha Puji Propertindo",
+      "business_type": "Real Estate",
+      "total_assets": 169328073984,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Graha Puji Propertindo",
+      "business_type": "Real Estate",
+      "total_assets": 169243466344,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Graha Puji Propertindo",
+      "business_type": "Real Estate",
+      "total_assets": 168781577783,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Puji Propertindo",
+      "business_type": "Real Estat",
+      "total_assets": 168099792614,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Puji Propertindo",
+      "business_type": "Real Estat",
+      "total_assets": 167984423315,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Hotel Marbella Pengembang Internasional",
+      "business_type": "Perhotelan",
+      "total_assets": 80332765555,
+      "ownership_percentage": 99.14
+    },
+    {
+      "name": "PT Hotel Marbella Pengembang Internasional",
+      "business_type": "Perhotelan",
+      "total_assets": 78487528171,
+      "ownership_percentage": 99.14
+    },
+    {
+      "name": "PT. Hotel Marbella Pengembang Internasional",
+      "business_type": "Perhotelan",
+      "total_assets": 78251374913,
+      "ownership_percentage": 99.14
+    },
+    {
+      "name": "PT. Hotel Marbella Pengembang Internasional",
+      "business_type": "Perhotelan",
+      "total_assets": 78014464841,
+      "ownership_percentage": 99.14
+    },
+    {
+      "name": "PT. Hotel Marbella Pengembang Internasional",
+      "business_type": "Perhotelan",
+      "total_assets": 77506563915,
+      "ownership_percentage": 99.14
+    },
+    {
+      "name": "PT. Jakarta International Property Management",
+      "business_type": "Pengelolaan Gedung",
+      "total_assets": 33026138915,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jakarta Internasional Property",
+      "business_type": "Real Estat",
+      "total_assets": 29465917412,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Jakarta Internasional Property",
+      "business_type": "Real Estat",
+      "total_assets": 28982270906,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Jakarta International Property",
+      "business_type": "Pengelolaan Gedung",
+      "total_assets": 27771886431,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Jakarta International Property",
+      "business_type": "Pengelolaan Gedung",
+      "total_assets": 27715073874,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ubud Bali Asri",
+      "business_type": "Real Estat",
+      "total_assets": 10532211633,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ubud Bali Asri",
+      "business_type": "Real Estat",
+      "total_assets": 10531335688,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Ubud Bali Asri",
+      "business_type": "Real Esatate",
+      "total_assets": 10474535188,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Ubud Bali Asri",
+      "business_type": "Real Esatate",
+      "total_assets": 10474535188,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Ubud Bali Asri",
+      "business_type": "Real Esatate",
+      "total_assets": 10474535188,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Graha Pudji Bahana",
+      "business_type": "Real Estate",
+      "total_assets": 8264858574,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Graha Pudji Bahana",
+      "business_type": "Real Estate",
+      "total_assets": 8258118740,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Graha Puji Bahana",
+      "business_type": "Real Estat",
+      "total_assets": 7180605705,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Graha Puji Bahana",
+      "business_type": "Real Estat",
+      "total_assets": 7138641862,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Graha Pudji Bahana",
+      "business_type": "Real Estate",
+      "total_assets": 6805892659,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Kota Serang Baru Permai",
+      "business_type": "Real Estate",
+      "total_assets": 6353286662,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT. Kota Serang Baru Permai",
+      "business_type": "Real Estate",
+      "total_assets": 6339754407,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT. Kota Serang Baru Permai",
+      "business_type": "Real Estate",
+      "total_assets": 6334590608,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Kotaserang Baru Permai",
+      "business_type": "Real Estat",
+      "total_assets": 6322899526,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Kotaserang Baru Permai",
+      "business_type": "Real Estat",
+      "total_assets": 6155208960,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Pudjiadi Gapura Villa Arbelah",
+      "business_type": "Real Estat",
+      "total_assets": 396031512,
+      "ownership_percentage": 64.7
+    },
+    {
+      "name": "PT Pudjiadi Gapura Villa Arbelah",
+      "business_type": "Real Estat",
+      "total_assets": 396031512,
+      "ownership_percentage": 64.7
+    },
+    {
+      "name": "PT. Pudjiadi Gapura Villa Marbella",
+      "business_type": "Real Estate",
+      "total_assets": 396031512,
+      "ownership_percentage": 64.7
+    },
+    {
+      "name": "PT. Pudjiadi Gapura Villa Marbella",
+      "business_type": "Real Estate",
+      "total_assets": 396031512,
+      "ownership_percentage": 64.7
+    },
+    {
+      "name": "PT. Pudjiadi Gapura Villa Marbella",
+      "business_type": "Real Estate",
+      "total_assets": 396031512,
+      "ownership_percentage": 64.7
+    },
+    {
+      "name": "PT Marbella Property",
+      "business_type": "Real Estat",
+      "total_assets": 258319517,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Marbella Property",
+      "business_type": "Real Estat",
+      "total_assets": 258319517,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Marbella Property",
+      "business_type": "Real Estate",
+      "total_assets": 258319517,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Marbella Property",
+      "business_type": "Real Estate",
+      "total_assets": 258319517,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Marbella Property",
+      "business_type": "Real Estate",
+      "total_assets": 258319517,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "209.600.160.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,21",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "14,50",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "51,83",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "58,33",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,55",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "34,86",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:24.543Z"
+}

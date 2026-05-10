@@ -1,0 +1,324 @@
+{
+  "company_name": "Nusa Konstruksi Enjiniring Tbk",
+  "ticker": "DGIK",
+  "office_address": "Its Tower Nifarro Park, Tower Office Lt. 20 - Jalan Kh. Guru Amin No. 18. Pejaten Timur. Pasar Minggu. Jakarta Selatan. Dki Jakarta 12510",
+  "email": "corporate@nusakonstruksi.com",
+  "phone": "7221003, 7267603",
+  "fax": "7396580",
+  "tax_id": "01.370.350.9-054.000",
+  "website": "http://www.nusakonstruksi.com",
+  "listing_date": "2007-12-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Almanda S. Pohan",
+    "email": "almanda.pohan@nusakonstruksi.com",
+    "phone": "7221003"
+  },
+  "directors": [
+    {
+      "name": "Djoko Prabowo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Arvin Jahja Tjahjana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rizaldi Limpas",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rijanto Onggo Wahono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Susilo Budi Utomo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hendro Martowardojo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ade Rahardja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ganda Kusuma",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ade Rahardja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Natsir Jafar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bima Priya Santosa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Global Dinamika Kencana",
+      "type": "Lebih dari 5%",
+      "shares": 2897768500,
+      "percentage": 52.3
+    },
+    {
+      "name": "Public",
+      "type": "Lebih dari 5%",
+      "shares": 1696023800,
+      "percentage": 30.61
+    },
+    {
+      "name": "Ocbc Sec Pte Ltd S/a Hudson River Group Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 536958200,
+      "percentage": 9.69
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 400214500,
+      "percentage": 7.22
+    },
+    {
+      "name": "Hendro Martowardojo",
+      "type": "Komisaris",
+      "shares": 5200000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Ganda Kusuma",
+      "type": "Komisaris",
+      "shares": 5000000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arvin Jahja Tjahjana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rizaldi Limpas",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ade Rahardja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Djoko Prabowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rijanto Onggo Wahono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Susilo Budi Utomo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Duta Buana Permata",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 265261078297,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Duta Buana Permata",
+      "business_type": "Perdagangan, Pembangunan & Jasa",
+      "total_assets": 265156746038,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Duta Buana Permata",
+      "business_type": "Perdagangan, Pembangunan & Jasa",
+      "total_assets": 264493816133,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Duta Buana Permata",
+      "business_type": "Perdagangan, Pembangunan & Jasa",
+      "total_assets": 264090905292,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Duta Buana Permata",
+      "business_type": "Perdagangan, Pembangunan & Jasa",
+      "total_assets": 261534266679,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Inti Duta Energi",
+      "business_type": "Pengadaan Listrik",
+      "total_assets": 106425274831,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Inti Duta Energi",
+      "business_type": "Pengadaan Listrik",
+      "total_assets": 106322672752,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Inti Duta Energi",
+      "business_type": "Pengadaan Listrik",
+      "total_assets": 105920277143,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Inti Duta Energi",
+      "business_type": "Pengadaan Listrik",
+      "total_assets": 104900220162,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Inti Duta Energi",
+      "business_type": "Pengadaan Listrik",
+      "total_assets": 97525525668,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Saptacitra Perdana",
+      "business_type": "Konstruksi Pertambangan",
+      "total_assets": 5448883012,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Nusa Saptacitra Perdana",
+      "business_type": "Konstruksi Pertambangan",
+      "total_assets": 5448883012,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Nusa Saptacitra Perdana",
+      "business_type": "Konstruksi Pertambangan",
+      "total_assets": 5429702212,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Nusa Saptacitra Perdana",
+      "business_type": "Konstruksi Pertambangan",
+      "total_assets": 5424907012,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Nusa Saptacitra Perdana",
+      "business_type": "Konstruksi Pertambangan",
+      "total_assets": 5424907012,
+      "ownership_percentage": 95
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "764.680.770.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,53",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,24",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "47,37",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "100,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,71",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,93",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:51.430Z"
+}

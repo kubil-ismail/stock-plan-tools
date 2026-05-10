@@ -1,0 +1,212 @@
+{
+  "company_name": "Maskapai Reasuransi Indonesia Tbk",
+  "ticker": "MREI",
+  "office_address": "Plaza Marein, 18th Floor Jl. Jend. Sudirman Kav. 76-78 Jakarta 12910",
+  "email": "marein@marein-re.com",
+  "phone": "579-36558",
+  "fax": "5793 6580; 5793 6583",
+  "tax_id": "01.315.822.5-054.000",
+  "website": "https://www.marein-re.com",
+  "listing_date": "1989-09-04",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Reasuransi",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 85,
+    "name": "Reasuransi",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Lukcimo Jahja",
+    "email": "cosec@marein-re.com",
+    "phone": "021 57936588"
+  },
+  "directors": [
+    {
+      "name": "Robby Loho",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Trinita Situmeang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lukcimo Jahja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hardjono",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Aloysia Dwi Ana Nurhandayani",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fanra Budiman Arief",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Hardjono, S.e., Mm, Amrp, Aaij, Asai",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jacob Samuel Matullesya, S.e.",
+      "position": "Anggota"
+    },
+    {
+      "name": "T. Alexander A. Amzul, S.e., M.m., Cplhi, Qcro",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 296020698,
+      "percentage": 57.16
+    },
+    {
+      "name": "PT Graha Sentosa Persada",
+      "type": "Lebih dari 5%",
+      "shares": 106281536,
+      "percentage": 20.53
+    },
+    {
+      "name": "Ajb Bumiputera 1912",
+      "type": "Lebih dari 5%",
+      "shares": 76816535,
+      "percentage": 14.84
+    },
+    {
+      "name": "Bank Of Singapore Limited",
+      "type": "Lebih dari 5%",
+      "shares": 33412655,
+      "percentage": 6.45
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5260257,
+      "percentage": 1.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Robby Loho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Trinita Situmeang",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lukcimo Jahja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hardjono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aloysia Dwi Ana Nurhandayani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fanra Budiman Arief",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "548.859.181.860",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,44",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,09",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "1,52",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "40,85",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "17,36",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:15.510Z"
+}

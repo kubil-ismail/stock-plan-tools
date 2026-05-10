@@ -1,0 +1,247 @@
+{
+  "company_name": "Inti Agri Resources Tbk",
+  "ticker": "IIKP",
+  "office_address": "Puri Britania Blok T7 No. B27 - 29 Kembangan Selatan - Kembangan Jakarta Barat 11610",
+  "email": "akbar@shelookred.com",
+  "phone": "(021) 5830 4806, (021) 5830 4808",
+  "fax": "(021) 5830 4809",
+  "tax_id": "01.881.244.6-054.000",
+  "website": "https://www.iikp.com",
+  "listing_date": "2002-10-14",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Penangkaran Ikan",
+    "business_summary": "Perusahaan bergerak di bidang Peralatan Olah Raga & Barang Hobi.",
+    "business_tags": [
+      "Peralatan Olah Raga & Barang Hobi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 6,
+    "name": "Barang Rekreasi",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 42,
+    "name": "Peralatan Olah Raga & Barang Hobi"
+  },
+  "sub_industry": {
+    "id": 65,
+    "name": "Peralatan Olah Raga & Barang Hobi",
+    "industries_id": 42
+  },
+  "corporate_secretary": {
+    "name": "Yenny Wijaya",
+    "email": "corsec@shelookred.com",
+    "phone": "(021) 58304806, (021) 58304808"
+  },
+  "directors": [
+    {
+      "name": "Susanti Hidayat",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kwee Jen Ping (yenny Wijaya)",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Setiawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lay Thiam Siong",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lay Thiam Siong",
+      "position": "Ketua"
+    },
+    {
+      "name": "Veny Indrawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tuty Santoso",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 19866603175,
+      "percentage": 59.13
+    },
+    {
+      "name": "PT. Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 5113669575,
+      "percentage": 15.22
+    },
+    {
+      "name": "Kejaksaan Agung",
+      "type": "Lebih dari 5%",
+      "shares": 3306907460,
+      "percentage": 9.84
+    },
+    {
+      "name": "PT. Asuransi Jiwa Ifg - Ifg Life Dana Cadangan Bunga Mengambang - Migr",
+      "type": "Lebih dari 5%",
+      "shares": 3195133750,
+      "percentage": 9.51
+    },
+    {
+      "name": "PT. Maxima Agro Industri",
+      "type": "Lebih dari 5%",
+      "shares": 2117686040,
+      "percentage": 6.3
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Inti Kapuas International",
+      "business_type": "Perdagangan dan Penangkaran Ikan Arowana",
+      "total_assets": 223552716029,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Inti Kapuas International",
+      "business_type": "Perdagangan dan Penangkaran Ikan Arowana",
+      "total_assets": 223552716029,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Inti Kapuas Internasional",
+      "business_type": "Penangkaran Ikan Arowana",
+      "total_assets": 156118650372,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Inti Kapuas Internasional",
+      "business_type": "Penangkaran Ikan Arowana",
+      "total_assets": 154381601767,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Prima Cakrawala Abadi",
+      "business_type": "Pengolahan Rajungan",
+      "total_assets": 47557224445,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Prima Cakrawala Abadi",
+      "business_type": "Pengolahan Rajungan",
+      "total_assets": 47557224445,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Nuansa Cipta Magello",
+      "business_type": "Pengolahan Rajungan",
+      "total_assets": 13804568887,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nuansa Cipta Magello",
+      "business_type": "Pengolahan Rajungan",
+      "total_assets": 13804568887,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bahari Istana Alkausar",
+      "business_type": "Penangkaran Ikan Arowana",
+      "total_assets": 9347613105,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bahari Istana Alkausar",
+      "business_type": "Penangkaran Ikan Arowana",
+      "total_assets": 9347613105,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Karya Persada Katulistiwa",
+      "business_type": "Pengolahan Rajungan",
+      "total_assets": 5142837238,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Karya Persada Katulistiwa",
+      "business_type": "Pengolahan Rajungan",
+      "total_assets": 5142837238,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bahari Istana Alkausar",
+      "business_type": "Penangkaran Ikan Arowana",
+      "total_assets": 262685577,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bahari Istana Alkausar",
+      "business_type": "Penangkaran Ikan Arowana",
+      "total_assets": 262568577,
+      "ownership_percentage": 99.98
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.680.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:04.508Z"
+}

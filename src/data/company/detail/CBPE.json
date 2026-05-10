@@ -1,0 +1,184 @@
+{
+  "company_name": "PT Citra Buana Prasida Tbk",
+  "ticker": "CBPE",
+  "office_address": "Komplek Paskal Hyper Square Blok G Lantai 2 No. 206, 208 Jl. H.o.s. Cokroaminoto No. 25, 27 Dh. Jl. Pasirkaliki No. 25, 27 Bandung 40181",
+  "email": "corsec@citrabuanaprasida.co.id",
+  "phone": "(022) 8606 1108",
+  "fax": "",
+  "tax_id": "01.977.283.9-028.000",
+  "website": "https://www.citrabuanaprasida.co.id",
+  "listing_date": "2023-01-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di bidang real estat dan properti",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Albert Karnof Purba, S.h.",
+    "email": "corsec@citrabuanaprasida.co.id",
+    "phone": "(022) 8606 1108"
+  },
+  "directors": [
+    {
+      "name": "Didi Omara",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Linna Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Thomas Aquinas Pramukuswala",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Gaery Djohari",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Melissa Cresentia Kurniawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Melissa Cresentia Kurniawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Suhandi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Josephine Tri Anggraini",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sandhi Parama Nusa",
+      "type": "Lebih dari 5%",
+      "shares": 992031000,
+      "percentage": 73.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 271250000,
+      "percentage": 20
+    },
+    {
+      "name": "Gaery Djohari",
+      "type": "Komisaris",
+      "shares": 92969000,
+      "percentage": 6.85
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Kap Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "412.300.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,89",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "6,85",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "13,87",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "65,08",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,30",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "1,30",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:59.042Z"
+}

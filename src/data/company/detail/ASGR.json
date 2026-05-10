@@ -1,0 +1,231 @@
+{
+  "company_name": "Astra Graphia Tbk",
+  "ticker": "ASGR",
+  "office_address": "Jl. Kramat Raya N0. 43 Jakarta 10450",
+  "email": "corporate.secretary@astragraphia.co.id",
+  "phone": "021 - 3909190",
+  "fax": "021 - 3909388",
+  "tax_id": "0013 0726 1605 4000",
+  "website": "https://www.astragraphia.co.id",
+  "listing_date": "1989-11-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Computer and Services",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 27,
+    "name": "Jasa Pendukung Bisnis",
+    "industries_id": 14
+  },
+  "corporate_secretary": {
+    "name": "Trivena Nalsalita",
+    "email": "trivena.nalsalita@astragraphia.co.id",
+    "phone": "021 3909190"
+  },
+  "directors": [
+    {
+      "name": "Hendrix Pramana",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "King Iriawan Sutanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Widi Triwibowo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Trivena Nalsalita",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Santosa",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gunawan Geniusahardja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arya Narayana Soemali",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Cynthia Afriani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Cynthia Afriani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tarsisius Wijaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mario C. Surung Gultom",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Astra International Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 1036752580,
+      "percentage": 76.87
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 297594560,
+      "percentage": 22.06
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 14433360,
+      "percentage": 1.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Trivena Nalsalita",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "King Iriawan Sutanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cynthia Afriani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Santosa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arya Narayana Soemali",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Geniusahardja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendrix Pramana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Widi Triwibowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Astra Graphia Information Technology",
+      "business_type": "Penyedia Jasa Konsultasi dan Implementasi Teknologi Informasi",
+      "total_assets": 1001333,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astragraphia Xprins Indonesia",
+      "business_type": "Perdagangan, Percetakan, Perindustrian, Kontraktor, Pekerjaan Teknik, Pengangkutan dan Jasa",
+      "total_assets": 127278,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.212.000.020.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,88",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "11,60",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "33,33",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "88,24",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,14",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "36,17",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:39.606Z"
+}

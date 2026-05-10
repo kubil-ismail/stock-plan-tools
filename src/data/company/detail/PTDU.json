@@ -1,0 +1,300 @@
+{
+  "company_name": "PT Djasa Ubersakti Tbk",
+  "ticker": "PTDU",
+  "office_address": "Bona Indah Plaza Blok A2/b8, Jl. Karang Tengah Raya, Kota Jakarta Selatan, Dki Jakarta 12440",
+  "email": "corsec@djasaubersakti.co.id",
+  "phone": "0217660114",
+  "fax": "0217508037",
+  "tax_id": "01.300.818.0-062.000",
+  "website": "http://djasaubersakti.co.id",
+  "listing_date": "2020-12-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak Dalam Bidang Konstruksi dan Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Ir. Wistiandono A. Harsono",
+    "email": "corsec@djasaubersakti.co.id",
+    "phone": "0217660114"
+  },
+  "directors": [
+    {
+      "name": "Heru Putranto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rama Adiwena",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Radman Ediwena",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pio Hizkia Wehantouw",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "-",
+      "position": "",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wahyu Priya Kuswanda",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Usin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Andi Muhammad Soleh",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Andi Muhammad Soleh",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sandi Chandrapura Rochi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Eko Hadi Siswanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Teknindo Geosistem Unggul",
+      "type": "Lebih dari 5%",
+      "shares": 625000000,
+      "percentage": 41.67
+    },
+    {
+      "name": "PT Rsk Investasi Unggul",
+      "type": "Lebih dari 5%",
+      "shares": 475000000,
+      "percentage": 31.67
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 400000000,
+      "percentage": 26.66
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Djasa Ubersakti Properti",
+      "business_type": "Real Estat",
+      "total_assets": 15059492755,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Dinamika Usaha Propertindo",
+      "business_type": "Mendirikan dan Menjalankan Usaha Real Estat",
+      "total_assets": 14837128130,
+      "ownership_percentage": 64.21
+    },
+    {
+      "name": "PT Djasa Ubersakti Properti (dup)",
+      "business_type": "Real Estat",
+      "total_assets": 9806677403,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Djasa Ubersakti Properti (dup)",
+      "business_type": "Real Estat",
+      "total_assets": 9806677403,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Djasa Ubersakti Properti (dup)",
+      "business_type": "Real Estat",
+      "total_assets": 9806677403,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Dinamika Usaha Propertindo (d/h PT Dinamika Usaha Perumahan) (dur)*)",
+      "business_type": "Real Estat",
+      "total_assets": 9761095187,
+      "ownership_percentage": 64.21
+    },
+    {
+      "name": "PT Dinamika Usaha Propertindo (d/h PT Dinamika Usaha Perumahan) (dur)*)",
+      "business_type": "Real Estat",
+      "total_assets": 9761095187,
+      "ownership_percentage": 64.21
+    },
+    {
+      "name": "PT Dinamika Usaha Propertindo (d/h PT Dinamika Usaha Perumahan) (dur)*)",
+      "business_type": "Real Estat",
+      "total_assets": 9761095187,
+      "ownership_percentage": 64.21
+    },
+    {
+      "name": "PT Dinamika Usaha Pergudangan",
+      "business_type": "Mendirikan dan Menjalan Usaha Real Estat Pergudangan",
+      "total_assets": 25569745,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Dinamika Usaha Pergudangan (dug",
+      "business_type": "Real Estat",
+      "total_assets": 25000000,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Dinamika Usaha Pergudangan (dug",
+      "business_type": "Real Estat",
+      "total_assets": 25000000,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Dinamika Usaha Pergudangan (dug",
+      "business_type": "Real Estat",
+      "total_assets": 25000000,
+      "ownership_percentage": 99.6
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "105.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "12,90",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "337,50",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "288,89",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "38,05",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:12.492Z"
+}

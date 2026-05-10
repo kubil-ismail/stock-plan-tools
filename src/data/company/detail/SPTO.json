@@ -1,0 +1,348 @@
+{
+  "company_name": "PT Surya Pertiwi Tbk",
+  "ticker": "SPTO",
+  "office_address": "Jl. Letjen S.parman Kav.81 Jakarta Barat 11420 Indonesia",
+  "email": "corpsec@suryapertiwi.co.id",
+  "phone": "(62-21) 2929-8585",
+  "fax": "(62-21) 568-0068",
+  "tax_id": "01.305.911.8-038.000",
+  "website": "https://www.suryapertiwi.co.id",
+  "listing_date": "2018-05-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan barang saniter dan fitting (wholesale)",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Adhi Sudargo Tasmin",
+    "email": "corpsec@suryapertiwi.co.id",
+    "phone": "(021) 2929-8585"
+  },
+  "directors": [
+    {
+      "name": "Willianto Alim",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Johan Gojali",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Efendy Gojali",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Umarsono Andy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Benny Suryanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Tjahjadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Roys Tanudjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adhi Sudargo Tasmin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjahjono Alim",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Usman Andy",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Goh Poh Heng",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Goh Poh Heng",
+      "position": "Ketua"
+    },
+    {
+      "name": "Gunawan Sumana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Paulus Soelistyo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 944690600,
+      "percentage": 34.99
+    },
+    {
+      "name": "PT Multifortuna Asindo",
+      "type": "Lebih dari 5%",
+      "shares": 810000000,
+      "percentage": 30
+    },
+    {
+      "name": "PT Suryaparamitra Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 810000000,
+      "percentage": 30
+    },
+    {
+      "name": "Bbh Luxembourg S/a Fidelity Fd Sicav-fid",
+      "type": "Lebih dari 5%",
+      "shares": 135309400,
+      "percentage": 5.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Roys Tanudjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adhi Sudargo Tasmin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Goh Poh Heng",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjahjono Alim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Efendy Gojali",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Willianto Alim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benny Suryanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Umarsono Andy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johan Gojali",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iwan Tjahjadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Usman Andy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Surya Pertiwi Nusantara",
+      "business_type": "Manufaktur, Industri dan Perdagangan",
+      "total_assets": 1009112543953,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Surya Pertiwi Nusantara",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 1001837766929,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Surya Pertiwi Nusantara",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 990589131118,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Surya Pertiwi Nusantara",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 990362231960,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Surya Pertiwi Nusantara",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 990362231960,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Surya Pertiwi Nusantara",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 987039366485,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Surya Graha Pertiwi",
+      "business_type": "Pembangunan",
+      "total_assets": 818655457627,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Surya Graha Pertiwi",
+      "business_type": "Pembangunan",
+      "total_assets": 817187706922,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Surya Graha Pertiwi",
+      "business_type": "Pembangunan",
+      "total_assets": 809397249151,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Surya Graha Pertiwi",
+      "business_type": "Pembangunan",
+      "total_assets": 809147524528,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Surya Graha Pertiwi",
+      "business_type": "Pembangunan",
+      "total_assets": 809147524528,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Surya Graha Pertiwi",
+      "business_type": "Pembangunan dan Pengelolaan Gedung",
+      "total_assets": 805733851224,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.674.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,85",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,03",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "11,19",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "13,77",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,65",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "7,75",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:53.816Z"
+}

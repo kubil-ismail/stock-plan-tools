@@ -1,0 +1,250 @@
+{
+  "company_name": "Ever Shine Textile Industry Tbk",
+  "ticker": "ESTI",
+  "office_address": "Jl. Kh. Fachruddin No. 16 Kel. Kampung Bali, Kec. Tanah Abang, Jakarta Pusat 10250",
+  "email": "erlien@evershinetex.com",
+  "phone": "021-3160238 Hunting",
+  "fax": "021-3160260, 3160271",
+  "tax_id": "0011 3130 1205 4000",
+  "website": "https://www.evershinetex.com",
+  "listing_date": "1992-10-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Tekstil",
+    "business_summary": "Perusahaan bergerak di bidang Tekstil.",
+    "business_tags": [
+      "Tekstil"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Erlien Lindawati S.",
+    "email": "erlien@evershinetex.com",
+    "phone": "316-02-38"
+  },
+  "directors": [
+    {
+      "name": "Sung Pui Man",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dra. Erlien Lindawati Surianto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Peter Sung",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Sung",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Emmy Ranoewidjojo",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Aryanto Agus Mulyo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wirawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Wirawan, S.e, Ak, S.h, m.h., Msi, Cpa, Cpi, Bkp.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Noeniek Herliani, S.e. Ak., M.m",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr. Timotius, Ak., Ca",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Cahaya Interkontinental ( Pemegang Saham Pengendali )",
+      "type": "Lebih dari 5%",
+      "shares": 1838055873,
+      "percentage": 91.21
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 171167077,
+      "percentage": 8.49
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5983470,
+      "percentage": 0.3
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Emmy Ranoewidjojo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. Aryanto Agus Mulyo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wirawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sung Pui Man",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dra. Erlien Lindawati Surianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Peter Sung",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michael Sung",
+      "type": "Direksi",
+      "shares": 2300,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Primarajuli Sukses",
+      "business_type": "Produsen Benang",
+      "total_assets": 53779278,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Primarajuli Sukses",
+      "business_type": "Produsen Benang",
+      "total_assets": 53561513,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Primarajuli Sukses",
+      "business_type": "Produsen Benang",
+      "total_assets": 52896885,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Primarajuli Sukses",
+      "business_type": "Produsen Benang",
+      "total_assets": 52881920,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Primarajuli Sukses",
+      "business_type": "Produsen Benang",
+      "total_assets": 52684786,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indoyongtex Jaya",
+      "business_type": "Produsen Benang",
+      "total_assets": 4503795,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Indoyongtex Jaya",
+      "business_type": "Produsen Benang",
+      "total_assets": 4389855,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Indoyongtex Jaya",
+      "business_type": "Produsen Benang",
+      "total_assets": 4268846,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "338.555.064.960",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,78",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,78",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "29,69",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "348,65",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "58,10",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:38.157Z"
+}

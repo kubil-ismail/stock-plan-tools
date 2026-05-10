@@ -1,0 +1,172 @@
+{
+  "company_name": "Polaris Investama Tbk",
+  "ticker": "PLAS",
+  "office_address": "Mayapada Tower Lt. 11 Jl. Jend. Sudirman Kav 28 Jakarta 12920",
+  "email": "corsec@polarisinvestama.co.id",
+  "phone": "5289 7418",
+  "fax": "5289 7399",
+  "tax_id": "01.582.410.5-054.000",
+  "website": "https://www.polarisinvestama.co.id",
+  "listing_date": "2001-03-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Herwin Tri Munardi",
+    "email": "corsec@polarisinvestama.co.id",
+    "phone": "021-52897418"
+  },
+  "directors": [
+    {
+      "name": "Khaeruman Nasruddinnillah",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Herwin Tri Munardi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Feri Dwi Agustina",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dhita Indriani",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Adi Kusumasmara",
+      "position": "Ketua"
+    },
+    {
+      "name": "Akbar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Retnowati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 999940500,
+      "percentage": 84.44
+    },
+    {
+      "name": "PT. Malaka Jaya Mulia",
+      "type": "Lebih dari 5%",
+      "shares": 99259500,
+      "percentage": 8.38
+    },
+    {
+      "name": "Credit Suisse Securities (europe) Limited - 94644000",
+      "type": "Lebih dari 5%",
+      "shares": 85000000,
+      "percentage": 7.18
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Binong Nuansa Permai",
+      "business_type": "Konstruksi",
+      "total_assets": 185071005444,
+      "ownership_percentage": 99.75
+    },
+    {
+      "name": "PT Polaris Indo Energy",
+      "business_type": "Pertambangan",
+      "total_assets": 4101803614,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "59.210.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:30.281Z"
+}

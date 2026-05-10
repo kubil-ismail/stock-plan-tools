@@ -1,0 +1,197 @@
+{
+  "company_name": "Darya-varia Laboratoria Tbk",
+  "ticker": "DVLA",
+  "office_address": "South Quarter, Tower C, 18th-19th Floor Jl. R.a. Kartini Kav.8 Jakarta 12430, Indonesia",
+  "email": "info@darya-varia.com",
+  "phone": "021 227 68000",
+  "fax": "021 227 68016",
+  "tax_id": "01.001.859.6-054.000",
+  "website": "http://www.darya-varia.com",
+  "listing_date": "1994-11-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Produk Farmasi untuk Manusia, Industri Kosmetik termasuk Pasta Gigi, Industri Produk Obat Tradisional, dan aktivitas konsultasi manajemen lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Widya Olivia Tobing",
+    "email": "info@darya-varia.com",
+    "phone": "+62 21-22768000"
+  },
+  "directors": [
+    {
+      "name": "Dr. Ian Martin Wibawa Kloer",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yustina Endang Setyowati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Celso Paz Lim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dennis Tee Co",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander S. Panlilio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jose Luis H. Narvaez",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sonny Kalona",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Clinton Andrew Campos Hess",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Eric Albert Lim Gotuaco",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mariano John Lim Tan, Jr.",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Marlia Hayati Goestam",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sancoyo Antarikso",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Marlia Hayati Goestam",
+      "position": "Ketua"
+    },
+    {
+      "name": "Homer De Jesus",
+      "position": "Anggota"
+    },
+    {
+      "name": "Renan Danganan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Blue Sphere Singapore Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1031737312,
+      "percentage": 92.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 86938480,
+      "percentage": 7.77
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1324208,
+      "percentage": 0.11
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Varia Interhealth Indonesia",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 12000000,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.797.600.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,63",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,17",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "2,72",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,42",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,94",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "2,72",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:14.932Z"
+}

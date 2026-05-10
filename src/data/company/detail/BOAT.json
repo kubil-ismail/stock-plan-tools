@@ -1,0 +1,191 @@
+{
+  "company_name": "PT Newport Marine Services Tbk",
+  "ticker": "BOAT",
+  "office_address": "Thamrin Residences Office Park Unit C.18, Jalan Thamrin Boulevard, Kebon Melati, Tanah Abang, Jakarta Pusat 10230",
+  "email": "corporate.secretary@nms-ina.com",
+  "phone": "+6221 23579928",
+  "fax": "+6221 2357 9927",
+  "tax_id": "0210 4486 0107 2000",
+  "website": "https://www.nms-ina.com",
+  "listing_date": "2024-11-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Sewa dan menyewa kapal untuk menunjang kegiatan lepas pantai di luar dan dalam negeri yang berfokus pada industri minyak dan gas bumi",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Ahmad Wisya Pratama",
+    "email": "corporate.secretary@nms-ina.com",
+    "phone": "+6221 23579928"
+  },
+  "directors": [
+    {
+      "name": "Sujaya Soekarno Putra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Surya Soekarno Putra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ahmad Wisya Pratama",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dharmawati Djuhana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Iwan Irawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Iwan Irawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Linawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ferdy Kontaria",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sujaya Soekarno Putra",
+      "type": "Direksi",
+      "shares": 1000400000,
+      "percentage": 28.57
+    },
+    {
+      "name": "Dharmawati Djuhana",
+      "type": "Komisaris",
+      "shares": 750400000,
+      "percentage": 21.43
+    },
+    {
+      "name": "Surya Soekarno Putra",
+      "type": "Direksi",
+      "shares": 750400000,
+      "percentage": 21.43
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 630569800,
+      "percentage": 18.01
+    },
+    {
+      "name": "Sugiman Halim",
+      "type": "Lebih dari 5%",
+      "shares": 369910200,
+      "percentage": 10.56
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "490.235.200.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,86",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,74",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "8,73",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "24,55",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,44",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "44,31",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:13.863Z"
+}

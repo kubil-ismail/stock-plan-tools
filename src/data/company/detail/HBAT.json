@@ -1,0 +1,215 @@
+{
+  "company_name": "PT Minahasa Membangun Hebat Tbk",
+  "ticker": "HBAT",
+  "office_address": "Perumahan Sawangan Permai Kel. Sawangan, Kec. Tombulu, Kab. Minahasa, Prov. Sulawesi Utara 95663, Indonesia",
+  "email": "corsec@mmhebat.co.id",
+  "phone": "(0431) 7199 888",
+  "fax": "(0431) 7199 888",
+  "tax_id": "94.222.177.1-821.000",
+  "website": "https://mmhebat.co.id",
+  "listing_date": "2023-08-07",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Real Estat",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Rini Atmadja",
+    "email": "corsec@mmhebat.co.id",
+    "phone": "(0431) 7199 888"
+  },
+  "directors": [
+    {
+      "name": "Go Ronny Nugroho",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andrie Rianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rommy Posma Leke",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Fitria Ayu Febrianty",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fitria Ayu Febriany",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sri Rahmadani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Astri Febriani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hendra Sutanto",
+      "type": "Lebih dari 5%",
+      "shares": 467760000,
+      "percentage": 44.94
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 240740800,
+      "percentage": 23.13
+    },
+    {
+      "name": "Rudy Gunawan",
+      "type": "Lebih dari 5%",
+      "shares": 215280000,
+      "percentage": 20.69
+    },
+    {
+      "name": "Jon Fieris",
+      "type": "Lebih dari 5%",
+      "shares": 116960000,
+      "percentage": 11.24
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rommy Posma Leke",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fitria Ayu Febrianty",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Go Ronny Nugroho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andrie Rianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Liasta, Nirwan, Syafruddin & Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Kap Liasta, Nirwan, Syafruddin & Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Kap Liasta, Nirwan, Syafruddin & Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "546.388.920.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "26,97",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,65",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "64,96",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "777,27",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "22,18",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "5,85",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:30.660Z"
+}

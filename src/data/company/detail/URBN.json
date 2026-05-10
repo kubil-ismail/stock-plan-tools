@@ -1,0 +1,299 @@
+{
+  "company_name": "PT Urban Jakarta Propertindo Tbk.",
+  "ticker": "URBN",
+  "office_address": "District 8 Treasury Tower - Lt 19 F-g - SCBD Lot. 28 Jl. Jendral Sudirman Kav. 52-53, Jakarta 12190",
+  "email": "corsec@ujp.co.id",
+  "phone": "+62 21 4011 1717",
+  "fax": "-",
+  "tax_id": "01.071.056.4-012.000",
+  "website": "https://www.urbanjakarta.co.id",
+  "listing_date": "2018-12-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pengembangan Properti Apartemen dan Pusat Perbelanjaan",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Jeanny L. Wullur",
+    "email": "jeanny.wullur@ujp.co.id",
+    "phone": "+62816862038"
+  },
+  "directors": [
+    {
+      "name": "Gorby Agung P. Tambunan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jacqueline Bastiaan Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wira Natapraja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ahmad Fadli Kartajaya",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Wahyu",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ahmad Fadli Kartajaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "A. Bambang Trinurcahya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mung Kusumo Aji",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Nusa Wijaya Propertindo",
+      "type": "Lebih dari 5%",
+      "shares": 2401409999,
+      "percentage": 74.29
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 407475641,
+      "percentage": 13.06
+    },
+    {
+      "name": "Ibukota Development Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 310712500,
+      "percentage": 9.61
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 112524500,
+      "percentage": 3.04
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gorby Agung P. Tambunan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jacqueline Bastiaan Wijaya",
+      "type": "Direksi",
+      "shares": 1,
+      "percentage": 0
+    },
+    {
+      "name": "Ade Wahyu",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Fadli Kartajaya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wira Natapraja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jakarta River City",
+      "business_type": "Bidang Realti, Properti dan Jasa",
+      "total_assets": 2018709176753,
+      "ownership_percentage": 51.012
+    },
+    {
+      "name": "PT Jakarta River City",
+      "business_type": "Bidang Realti, Properti dan Jasa",
+      "total_assets": 2018709176753,
+      "ownership_percentage": 51.012
+    },
+    {
+      "name": "PT Jakarta River City",
+      "business_type": "Bidang Realti, Properti dan Jasa",
+      "total_assets": 2018695128664,
+      "ownership_percentage": 51.012
+    },
+    {
+      "name": "PT Jakarta River City",
+      "business_type": "Bidang Realti, Properti dan Jasa",
+      "total_assets": 2018683115819,
+      "ownership_percentage": 51.012
+    },
+    {
+      "name": "PT Jakarta River City",
+      "business_type": "Bidang Realti, Properti dan Jasa",
+      "total_assets": 2018578845307,
+      "ownership_percentage": 51.012
+    },
+    {
+      "name": "PT Jakarta River City",
+      "business_type": "Bidang Realti, Properti dan Jasa",
+      "total_assets": 2018494928707,
+      "ownership_percentage": 51.012
+    },
+    {
+      "name": "PT. Urban Jakarta Komersial",
+      "business_type": "Pengelolaan dan Pengembangan Komersial Area",
+      "total_assets": 208890125231,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Urban Jakarta Komersial",
+      "business_type": "Pengelolaan dan Pengembangan Komersial Area",
+      "total_assets": 207324184059,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Urban Jakarta Komersial",
+      "business_type": "Pengelolaan dan Pengembangan Komersial Area",
+      "total_assets": 184457286138,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Urban Jakarta Komersial",
+      "business_type": "Pengelolaan dan Pengembangan Komersial Area",
+      "total_assets": 181727617078,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Urban Jakarta Komersial",
+      "business_type": "Pengelolaan dan Pengembangan Komersial Area",
+      "total_assets": 181727617078,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Urban Jakarta Komersial",
+      "business_type": "Pengelolaan dan Pengembangan Komersial Area",
+      "total_assets": 180265482984,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "743.388.207.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "19,59",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "26,78",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "68,12",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "98,29",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,94",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "14,85",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:17.732Z"
+}

@@ -1,0 +1,230 @@
+{
+  "company_name": "Gema Grahasarana Tbk",
+  "ticker": "GEMA",
+  "office_address": "South78, Jl. Boulevard Gading Serpong Blok O No 7 & 8, Medang, Pagedangan,kab. Tangerang,banten 15334",
+  "email": "corporate.secretary@vivere.co.id",
+  "phone": "021-50986988",
+  "fax": "-",
+  "tax_id": "01.392.120.0-054.000",
+  "website": "https://ggs.co.id",
+  "listing_date": "2002-08-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Umum",
+    "business_summary": "Perusahaan bergerak di bidang Produsen Furnitur Rumah.",
+    "business_tags": [
+      "Produsen Furnitur Rumah"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 84,
+    "name": "Produsen Furnitur Rumah",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Ferlina Sutandi",
+    "email": "corporate.secretary@vivere.co.id",
+    "phone": "021-5365 1588"
+  },
+  "directors": [
+    {
+      "name": "William Simiadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chriestina Imayati Hamidjaja Putri",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ilda Imelda Tatang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yenny Andika",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dedy Rochimat",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Pulung Peranginangin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agustinus Purna Irawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Permantoro",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Eko Suhartanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eko Suhartanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yonathan Augustine",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tonny",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Virucci Indogriya Sarana",
+      "type": "Lebih dari 5%",
+      "shares": 1195885000,
+      "percentage": 74.743
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 329928900,
+      "percentage": 20.6206
+    },
+    {
+      "name": "Dedy Rochimat",
+      "type": "Komisaris",
+      "shares": 59115000,
+      "percentage": 3.6947
+    },
+    {
+      "name": "Dr Pulung Peranginangin",
+      "type": "Komisaris",
+      "shares": 7860000,
+      "percentage": 0.4911
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 7200000,
+      "percentage": 0.45
+    },
+    {
+      "name": "William Simiadi",
+      "type": "Direksi",
+      "shares": 7500,
+      "percentage": 0.0005
+    },
+    {
+      "name": "Chriestina Imayati Hamidjaja Putri",
+      "type": "Direksi",
+      "shares": 1000,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yenny Andika",
+      "type": "Direksi",
+      "shares": 2500,
+      "percentage": 0
+    },
+    {
+      "name": "Ilda Imelda Tatang",
+      "type": "Direksi",
+      "shares": 100,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Vivere Multi Kreasi",
+      "business_type": "Perdagangan Perabotan dan Perlengkapan Rumah Maupun Kantor",
+      "total_assets": 271243114756,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Prasetya Gemamulia",
+      "business_type": "Distributor Komponen Inerior dan Furniture",
+      "total_assets": 180697364143,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Laminatech Kreasi Sarana",
+      "business_type": "Perdagangan Bahan dan Laminasi Interior dan Furniture",
+      "total_assets": 16860631744,
+      "ownership_percentage": 99.75
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "142.400.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "2,22",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "4,35",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "12,87",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "8,33",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:00.044Z"
+}

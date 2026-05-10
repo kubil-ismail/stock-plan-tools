@@ -1,0 +1,189 @@
+{
+  "company_name": "PT Anugerah Kagum Karya Utama Tbk",
+  "ticker": "AKKU",
+  "office_address": "Grand Asia Afrika Residence, Commercial Area A-10, Jl. Karapitan No. 1, Paledang, Lengkong, Bandung, Jawa Barat 40261",
+  "email": "info@kagumgroup.com",
+  "phone": "022-2035013",
+  "fax": "022-2035013",
+  "tax_id": "02.038.425.1-054.000",
+  "website": "https://kagumgroup.com",
+  "listing_date": "2004-11-01",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pariwisata",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Irwan Suryadi",
+    "email": "corsec@kagumgroup.com, irwan.rejeki@gmail.com",
+    "phone": "022-73511503"
+  },
+  "directors": [
+    {
+      "name": "Drs. Irwan Suryadi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heni Supartini",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dharmithea Kiemas Hamidy",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wilhelmina Wiriadisastra",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yunita E.l. Ria Sihombing",
+      "position": "Anggota"
+    },
+    {
+      "name": "Susanto Bunjamin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3938055686,
+      "percentage": 61.08
+    },
+    {
+      "name": "PT Renaldi Jaya Eka Inti",
+      "type": "Lebih dari 5%",
+      "shares": 1036756100,
+      "percentage": 16.07
+    },
+    {
+      "name": "PT Bintang Bersinar Cemerlang",
+      "type": "Lebih dari 5%",
+      "shares": 721187100,
+      "percentage": 11.18
+    },
+    {
+      "name": "PT Gema Busana Raya",
+      "type": "Lebih dari 5%",
+      "shares": 394611900,
+      "percentage": 6.11
+    },
+    {
+      "name": "PT Korek Api Guna Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 358795300,
+      "percentage": 5.56
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Irwan Suryadi",
+      "type": "Direksi",
+      "shares": 55000,
+      "percentage": 0
+    },
+    {
+      "name": "Wilhelmina Wiriadisastra",
+      "type": "Komisaris",
+      "shares": 2550,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kagum Maha Karya Jaya",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 672553842734,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permata Nusantara Hotelindo",
+      "business_type": "Manajemen Hotel",
+      "total_assets": 12964355013,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Kamala Khan Maha Investasi",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 23053236,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "245.079.618.168",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "11,76",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "9,52",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "90,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "18,75",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:04.740Z"
+}

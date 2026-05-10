@@ -1,0 +1,215 @@
+{
+  "company_name": "PT Merry Riana Edukasi Tbk",
+  "ticker": "MERI",
+  "office_address": "Soho Capital Lt. 42 Unit 4201-4203 Podomoro City, Jl. S. Parman Kav. 28 Jakarta Barat 11470",
+  "email": "corsec@merryrianaeducation.com",
+  "phone": "+62 21 5010 0576",
+  "fax": "",
+  "tax_id": "76.390.433.1-086.000",
+  "website": "https://merryrianaeducation.com",
+  "listing_date": "2025-07-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan holding yang menaungi Perusahaan Anak yang bergerak di bidang Pendidikan sebagai Lembaga Kursus dan Pelatihan",
+    "business_summary": "Perusahaan bergerak di bidang Jasa Pendidikan.",
+    "business_tags": [
+      "Jasa Pendidikan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 34,
+    "name": "Pendidikan & Jasa Penunjang"
+  },
+  "sub_industry": {
+    "id": 26,
+    "name": "Jasa Pendidikan",
+    "industries_id": 34
+  },
+  "corporate_secretary": {
+    "name": "Budi Agusti",
+    "email": "corsec@merryrianaeducation.com",
+    "phone": "+62 21 5010 0576"
+  },
+  "directors": [
+    {
+      "name": "Alva Christopher Tjenderasa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Agusti",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Khezia Stevi Liana",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Sri Muliati",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Riana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yoel Alex Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Mohammad Raylan, Mm",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Mohammad Raylan, Mm",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wardiman Wijaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yudi Wiranata Prasetio",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Merry Riana Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 599999920,
+      "percentage": 57.96
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 235132500,
+      "percentage": 22.72
+    },
+    {
+      "name": "PT. Tancorp Investama Mulia",
+      "type": "Lebih dari 5%",
+      "shares": 200000000,
+      "percentage": 19.32
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alva Christopher Tjenderasa",
+      "type": "Direksi",
+      "shares": 80,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Merry Riana Edukasi Delapan",
+      "business_type": "Pendidikan Bimbingan Belajar dan Konseling Swasta",
+      "total_assets": 13708303549,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Merry Riana Akademi Tujuh",
+      "business_type": "Jasa Penyelenggara Event Khusus",
+      "total_assets": 8801503103,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Edventura Indonesia Satu",
+      "business_type": "Pendidikan Bimbingan Belajar dan Konseling Swasta",
+      "total_assets": 3578908667,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "143.883.417.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,28",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,26",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "33,96",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "22,65",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:43.462Z"
+}

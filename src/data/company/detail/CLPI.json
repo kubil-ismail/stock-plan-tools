@@ -1,0 +1,215 @@
+{
+  "company_name": "Colorpak Indonesia Tbk",
+  "ticker": "CLPI",
+  "office_address": "Jl. Cideng Barat No. 15 Jakarta Pusat 10140",
+  "email": "herlina@colorpak.co.id",
+  "phone": "021-590-19-62",
+  "fax": "021 - 590-1963",
+  "tax_id": "01.061.759.5-054.000",
+  "website": "https://www.colorpak.co.id",
+  "listing_date": "2001-11-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Chemicals",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Khusus.",
+    "business_tags": [
+      "Barang Kimia Khusus"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 13,
+    "name": "Barang Kimia Khusus",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Ibu Herlina Hatorangan",
+    "email": "herlina@colorpak.co.id",
+    "phone": "021-590-19-62"
+  },
+  "directors": [
+    {
+      "name": "Santoso Jiemy",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Antoni Gunawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Herlina Hatorangan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjia Hwie Tjin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Harris Pranatajaya",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Didik Susilo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Johannes Susilo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ardhini Barotorini",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mieke Tioe",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ink Color Int Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 156230000,
+      "percentage": 50.9991
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 86531600,
+      "percentage": 28.255
+    },
+    {
+      "name": "PT Bukit Jaya Semesta",
+      "type": "Lebih dari 5%",
+      "shares": 22755300,
+      "percentage": 7.4282
+    },
+    {
+      "name": "Chandra Natalie Widjaja",
+      "type": "Lebih dari 5%",
+      "shares": 20364500,
+      "percentage": 6.6477
+    },
+    {
+      "name": "Santoso Jiemy",
+      "type": "Direksi",
+      "shares": 12159000,
+      "percentage": 3.96
+    },
+    {
+      "name": "Tjia Hwie Tjin",
+      "type": "Komisaris",
+      "shares": 8000000,
+      "percentage": 2.61
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 298100,
+      "percentage": 0.1
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Colorpak Flexible Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 239859325335,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Colorpak Flexible Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 237973504465,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Colorpak Flexible Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 237973504465,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Colorpak Flexible Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 228011733692,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Colorpak Flexible Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 201777598377,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Colorpak Flexible Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 186957823296,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "505.458.525.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,57",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,53",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "12,15",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "35,71",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,62",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "7,67",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:14.739Z"
+}

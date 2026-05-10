@@ -1,0 +1,250 @@
+{
+  "company_name": "Capitalinc Investment Tbk",
+  "ticker": "MTFN",
+  "office_address": "Gedung Forci Gamon Jl. Radio dalam Raya No. 2 Kel.gandaria Utara, Kec.kebayoran Baru, Jakarta Selatan 12140",
+  "email": "legal@capitalinc-investment.com",
+  "phone": "021 - 2751 7000",
+  "fax": "021 - 2793 2002",
+  "tax_id": "01.367.131.8-054.000",
+  "website": "https://www.capitalinc-investment.com",
+  "listing_date": "1990-04-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Gideon Tampubolon",
+    "email": "corsec@capitalinc-investment.com",
+    "phone": "021-29660976"
+  },
+  "directors": [
+    {
+      "name": "Rizal Fadjar Bamahry",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Khaerudin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nicholas Justin Whittle",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ahmad Sultoni Soedradjat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ahmad Sultoni Soedradjat",
+      "position": "Ketua"
+    },
+    {
+      "name": "Achmad Herlanto Anggono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Veatrick Septri Adi Simatupang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Reza Mexaliano",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 17487015477,
+      "percentage": 54.919
+    },
+    {
+      "name": "Express Profitable Investment",
+      "type": "Lebih dari 5%",
+      "shares": 6720000000,
+      "percentage": 21.104
+    },
+    {
+      "name": "Roulette Capital Investment",
+      "type": "Lebih dari 5%",
+      "shares": 2967658727,
+      "percentage": 9.32
+    },
+    {
+      "name": "PT Dwina Natura",
+      "type": "Lebih dari 5%",
+      "shares": 2936841273,
+      "percentage": 9.223
+    },
+    {
+      "name": "PT Dwi Daya Capital",
+      "type": "Lebih dari 5%",
+      "shares": 1641109500,
+      "percentage": 5.154
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 89447875,
+      "percentage": 0.28
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nicholas Justin Whittle",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Sultoni Soedradjat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rizal Fadjar Bamahry",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Khaerudin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indogas Kriya Dwiguna",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 339519000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Batu Raja Energi",
+      "business_type": "Minyak dan Gas",
+      "total_assets": 11000000000,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Energi Nusantara Raya",
+      "business_type": "Minyak dan Gas Bumi",
+      "total_assets": 11000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cahaya Batu Raja Blok",
+      "business_type": "Minyak dan Gas",
+      "total_assets": 6000000,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "Fast Returns Enterprise Ltd.",
+      "business_type": "Investment Company",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Greenstar Assets Ltd.",
+      "business_type": "Minyak dan Gas",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indo Kilang Prima",
+      "business_type": "Minyak dan Gas Bumi",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indo Lng Prima",
+      "business_type": "Minyak dan Gas Bumi",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kutai Etam Petroleum",
+      "business_type": "Minyak dan Gas",
+      "total_assets": 0,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "700.525.822.744",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,35",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "15,79",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "29,41",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "450,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "10,00",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:22.668Z"
+}

@@ -1,6 +1,6 @@
 "use client";
 
-import company from "@/data/company.json";
+import company from "@/data/archive/company.json";
 import CompanyLogo from "@/components/companyLogo";
 import { IndustryHierarchy } from "@/components/companyCard";
 import { StockDetail } from "@/types/stocks";

@@ -1,0 +1,552 @@
+{
+  "company_name": "PT Dharma Satya Nusantara Tbk.",
+  "ticker": "DSNG",
+  "office_address": "Grha Dsn, Jalan Pulo Ayang Kav. Or 3, Kawasan Industri Pulogadung, Kelurahan Jatinegara, Kecamatan Cakung, Jakarta Timur 13930",
+  "email": "corsec@dsngroup.co.id",
+  "phone": "(+62) 21 4618135",
+  "fax": "(+62) 21 4606942",
+  "tax_id": "01.060.268.8-054.000",
+  "website": "https://www.dsn.co.id",
+  "listing_date": "2013-06-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Pengolahan Kelapa Sawit, Industri Pengolahan Kayu, Perkebunan dan Hutan Tanaman Industri melalui Perseroan dan Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Energi, Logistik, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Energi",
+      "Logistik",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Paulina Suryanti",
+    "email": "investor.relations@dsngroup.co.id",
+    "phone": "021-461 8135"
+  },
+  "directors": [
+    {
+      "name": "Andrianto Oetomo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Efendi Sulisetyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Timotheus Arifin Cahyono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lucy Sycilia",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jenti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Albertus Hendrawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arianto Oetomo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Hamdani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Adi Resanata Somadi Halim",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Aron Yongky",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djojo Boentoro",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arini Saraswaty Subianto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arif Rachmat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Toddy Mizaabianto Sugoto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Stephen Zacharia Satyahadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Edy Sugito",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Danny Walla",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Danny Walla",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ketut Sunarta",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hartono Tjokrosantoso",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3289553551,
+      "percentage": 31.03
+    },
+    {
+      "name": "PT Triputra Investindo Arya",
+      "type": "Lebih dari 5%",
+      "shares": 3002450341,
+      "percentage": 28.33
+    },
+    {
+      "name": "PT Krishna Kapital Investama",
+      "type": "Lebih dari 5%",
+      "shares": 1533000000,
+      "percentage": 14.46
+    },
+    {
+      "name": "Andrianto Oetomo",
+      "type": "Direksi",
+      "shares": 575367500,
+      "percentage": 5.43
+    },
+    {
+      "name": "Arianto Oetomo",
+      "type": "Direksi",
+      "shares": 568267500,
+      "percentage": 5.36
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 419890000,
+      "percentage": 3.96
+    },
+    {
+      "name": "PT Tri Nur Cakrawala",
+      "type": "Lebih dari 5%",
+      "shares": 400000000,
+      "percentage": 3.77
+    },
+    {
+      "name": "PT Tri Nur Cakrawala",
+      "type": "Lebih dari 5%",
+      "shares": 388898508,
+      "percentage": 3.67
+    },
+    {
+      "name": "Djojo Boentoro",
+      "type": "Komisaris",
+      "shares": 189750000,
+      "percentage": 1.79
+    },
+    {
+      "name": "Efendi Sulisetyo",
+      "type": "Direksi",
+      "shares": 118800000,
+      "percentage": 1.12
+    },
+    {
+      "name": "Timotheus Arifin C.",
+      "type": "Direksi",
+      "shares": 88800000,
+      "percentage": 0.84
+    },
+    {
+      "name": "PT Krishna Kapital Investama",
+      "type": "Lebih dari 5%",
+      "shares": 17365000,
+      "percentage": 0.17
+    },
+    {
+      "name": "Arianto Oetomo",
+      "type": "Direksi",
+      "shares": 7700000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Swakarsa Sinarsentosa",
+      "business_type": "Perkebunan Kelapa Sawit Terpadu dengan Unit Pengolahan Menjadi Minyak Sawit (cpo) dan Pk",
+      "total_assets": 3933662,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dewata Sawit Nusantara",
+      "business_type": "Perdagangan, Pengangkutan Darat, Pertanian, dan Perindustrian",
+      "total_assets": 2234892,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Pilar Wanapersada",
+      "business_type": "Perindustri, Pengangkutan,pertanian, Pembangunan, Perbengkelan, Jasa, Perdagangan dan Pertambangan",
+      "total_assets": 1955417,
+      "ownership_percentage": 99.86
+    },
+    {
+      "name": "PT Dharma Intisawit Nugraha",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan, Jasa dan Pertambangan",
+      "total_assets": 1753539,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agro Pratama",
+      "business_type": "Perdagangan, Perindustrian, Pengangkutandan Pertanian",
+      "total_assets": 1641609,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Bima Palma Nugraha",
+      "business_type": "Perdagangan,pengangkutan,pertanian,perindustrian dan Jasa",
+      "total_assets": 1515694,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dharma Agrotama Nusantara",
+      "business_type": "Perkebunan Kelapa Sawit Terpadu dengan Unit Pengolahannya Menjadi Minyak Sawit (cpo) dan (pk)",
+      "total_assets": 1118522,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gemilang Utama Nusantara",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan dan Jasa",
+      "total_assets": 950476,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Nusa Sarana",
+      "business_type": "Industri, Perdagangan, Pembangunan, Transportasi Darat dan Jasa (kecuali Jasa di Bidang Hukum dan Pajak)",
+      "total_assets": 730011,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Agro Andalan",
+      "business_type": "Perkebunan Kelapa Sawit Terpadu dengan Unit Pengolahannya Menjadi Minyak Sawit (cpo) dan (pk)",
+      "total_assets": 714022,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Kreasi Parquet Industry",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 694783,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Bima Agri Sawit",
+      "business_type": "Perdagangan, Pengangkutan, Pertanian,perindustrian dan Jasa",
+      "total_assets": 666921,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karya Prima Agro Sejahtera",
+      "business_type": "Pertanian/perkebunan, Perindustrian dan Perdagangan",
+      "total_assets": 605643,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kencana Alam Permai",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan, Jasa dan Pertambangan",
+      "total_assets": 522916,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Dharma Intisawit Lestari",
+      "business_type": "Perdagangan, Perindustrian, Pengangkutan Darat dan Pertanian",
+      "total_assets": 400856,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dharma Inti Investama",
+      "business_type": "Pertanian,perikanan,industri Pengolahan Perdagangan",
+      "total_assets": 267627,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Putra Utama Lestari",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan dan Jasa",
+      "total_assets": 237403,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Panyindangan",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan, Jasa dan Pertambangan",
+      "total_assets": 224128,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Biomassa Lestari Nusantara",
+      "business_type": "Perdagangan dan Industrian",
+      "total_assets": 210916,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Prima Sawit Andalan",
+      "business_type": "Pertanian, Perdagangan, dan Perindustrian",
+      "total_assets": 196665,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dharma Persada Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan, Jasa dan Pertambangan",
+      "total_assets": 166011,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dharma Sejahtera Nusantara",
+      "business_type": "Perdagangan, Perindustrian, Pengangkutandan Pertanian",
+      "total_assets": 97675,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dharma Sumber Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 86286,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dharma Sumber Energi",
+      "business_type": "Perdagangan dan Industrian",
+      "total_assets": 78013,
+      "ownership_percentage": 67
+    },
+    {
+      "name": "PT Dharma Sukses Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 76191,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dhanya Perbawa Pradhikasa",
+      "business_type": "Pertanian,perkebunan,peternakan,perdagangan,jasa,industri,transportasi dan Pergudangan",
+      "total_assets": 63439,
+      "ownership_percentage": 91
+    },
+    {
+      "name": "PT Dharma Energi Investama",
+      "business_type": "Industri, Perdagangan, Energi, Pengelolaan Air",
+      "total_assets": 54299,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Buana Lestari",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan dan Jasa",
+      "total_assets": 13405,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dharma Langgeng Lestari",
+      "business_type": "Perdagangan, Perindutrian, Pengangutan, dan Pertanian",
+      "total_assets": 9339,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citra Harapan Inti Cemerlang",
+      "business_type": "Peternakan, Perdagangan, Pergudangan dan Penyimpanan",
+      "total_assets": 7562,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Permata Sawit Nusantara",
+      "business_type": "Perdagangan, Perindustrian, Pengangkutan dan Pertanian",
+      "total_assets": 1065,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cahaya Utama Nusantara",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan dan Jasa.",
+      "total_assets": 250,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Mandiri Cahaya Abadi",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan, Jasa dan Pertambangan",
+      "total_assets": 116,
+      "ownership_percentage": 97.33
+    },
+    {
+      "name": "PT Dharma Utama Inti Tunas",
+      "business_type": "Aktivitas Industri Pengolahan dan Perdagangan",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cipta Utama Andalan Nusantara",
+      "business_type": "Industri,perdagangan, Energi,pengelolaan Air",
+      "total_assets": 91,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mandiri Agrotama Lestari",
+      "business_type": "Perdagangan, Perindustrian, Pengangkutan dan Pertanian",
+      "total_assets": 41,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Rimba Utara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 36,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sawit Utama Lestari",
+      "business_type": "Perdagangan, Perindustrian, Pengangkutandan Pertanian",
+      "total_assets": 16,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Dharma Sawit Nusantara",
+      "business_type": "Perdagangan, Perindustrian, Pengangkutan dan Pertanian",
+      "total_assets": 8,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Nityasa Idola",
+      "business_type": "Industri, Kehutanan, Perkebunan, Pengangkutan, Pembangunan, Jasa, Perdagangan dan Pertambangan",
+      "total_assets": 7,
+      "ownership_percentage": 92.5
+    },
+    {
+      "name": "PT Nusa Mandiri Makmur",
+      "business_type": "Industri, Perdagangan, Pembangunan, Transportasi Darat dan Jasa (kecuali Jasa di Bidang Hukum dan Pajak)",
+      "total_assets": 2,
+      "ownership_percentage": 95.83
+    },
+    {
+      "name": "PT Dharma Nugraha Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan, Jasa dan Pertambangan",
+      "total_assets": 1,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Dharma Utama Lestari",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Pertanian, Perindustrian, Perbengkelan, Jasa dan Pertambangan",
+      "total_assets": 0,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "18.602.723.412.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "15,28",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "5,68",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "114,19",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,14",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,30",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:11.336Z"
+}

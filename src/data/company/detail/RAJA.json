@@ -1,0 +1,218 @@
+{
+  "company_name": "Rukun Raharja Tbk",
+  "ticker": "RAJA",
+  "office_address": "Office Park Thamrin Residences Blok A. No. 01-05 Jl. Thamrin Boulevard, Kebon. Melati, Tanah Abang Jakarta 10230 Indonesia",
+  "email": "corsec@raja.co.id",
+  "phone": "021 2929 1053",
+  "fax": "021 2357 9803",
+  "tax_id": "01.581.976.6-054.000",
+  "website": "https://www.raja.co.id",
+  "listing_date": "2006-04-19",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi/Penyewaan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Yuni Pattinasarani",
+    "email": "yuni.pattinasarani@raja.co.id",
+    "phone": "+622129291053"
+  },
+  "directors": [
+    {
+      "name": "Djauhar Maulidi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ogi Rulino",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "M Arsjad Rasjid P M",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rachmad Gobel",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rudiantara",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "D Andhi Nirwanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "D Andhi Nirwanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Budi Taufik Wibawa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aryo Wibisnono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sentosa Bersama Mitra",
+      "type": "Lebih dari 5%",
+      "shares": 1498372004,
+      "percentage": 35.44
+    },
+    {
+      "name": "Hapsoro",
+      "type": "Lebih dari 5%",
+      "shares": 1163236100,
+      "percentage": 27.52
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1020007696,
+      "percentage": 24.13
+    },
+    {
+      "name": "PT Basis Utama Prima",
+      "type": "Lebih dari 5%",
+      "shares": 523174000,
+      "percentage": 12.38
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 14742700,
+      "percentage": 0.35
+    },
+    {
+      "name": "Djauhar Maulidi",
+      "type": "Direksi",
+      "shares": 5300000,
+      "percentage": 0.13
+    },
+    {
+      "name": "Ogi Rulino",
+      "type": "Direksi",
+      "shares": 2250000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Panji Raya Alamindo",
+      "business_type": "Investasi",
+      "total_assets": 102204,
+      "ownership_percentage": 67
+    },
+    {
+      "name": "PT Raharja Energi Cepu Tbk",
+      "business_type": "Jasa Konsultasi Manajemen dan Bisnis dan Turut Serta Permodalan dalam Perusahaan Lain di Indonesia",
+      "total_assets": 66318,
+      "ownership_percentage": 69.63
+    },
+    {
+      "name": "PT Triguna Internusa Pratama",
+      "business_type": "Transmisi Gas dan Kompresi Gas",
+      "total_assets": 57938,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Petrotech Penta Nusa",
+      "business_type": "Jasa Energi",
+      "total_assets": 14037,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Heksa Energi Mitraniaga",
+      "business_type": "Jasa Penyediaan Fasilitas Lpg",
+      "total_assets": 3743,
+      "ownership_percentage": 85
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "17.500.121.550.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,24",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "18,86",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "9,57",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "97,16",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "33,97",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:35.265Z"
+}

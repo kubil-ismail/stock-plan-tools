@@ -1,0 +1,371 @@
+{
+  "company_name": "PT Amman Mineral Internasional Tbk.",
+  "ticker": "AMMN",
+  "office_address": "Gedung Menara Karya Lantai 6 Unit A, B, C dan H Jl. H.r. Rasuna Said Blok X-5 Kav. 1-2 Jakarta Selatan 12950",
+  "email": "investor.relations@amman.co.id",
+  "phone": "021 5799 4600",
+  "fax": "021 576 1464",
+  "tax_id": "74.147.204.7-067.000",
+  "website": "https://www.amman.co.id",
+  "listing_date": "2023-07-07",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Energi.",
+    "business_tags": [
+      "Properti",
+      "Energi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 97,
+    "name": "Tembaga",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Vemmy Febrianti",
+    "email": "corporate.secretary@amman.co.id",
+    "phone": "+6221 5799 4600"
+  },
+  "directors": [
+    {
+      "name": "Arief Widyawan Sidarto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Aditya Sasmito",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "David Alexander Gibbs",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Irwin Ka Pui Wan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lal Naveen Chandra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Agoes Projosasmito",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Markus Permadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Teguh Boentoro",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "M. Teguh Pamuji",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Alexander Ramlie",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Teguh Boentoro",
+      "position": "Ketua"
+    },
+    {
+      "name": "Devan Peterendy Cesario",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mulyono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sumber Gemilang Persada",
+      "type": "Lebih dari 5%",
+      "shares": 23332191394,
+      "percentage": 32.174
+    },
+    {
+      "name": "PT Medco Energi Internasional Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 15167510552,
+      "percentage": 20.915
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 13769799188,
+      "percentage": 18.988
+    },
+    {
+      "name": "PT Ap Investment",
+      "type": "Lebih dari 5%",
+      "shares": 11014682720,
+      "percentage": 15.189
+    },
+    {
+      "name": "PT Pesona Sukses Cemerlang",
+      "type": "Lebih dari 5%",
+      "shares": 4539377112,
+      "percentage": 6.26
+    },
+    {
+      "name": "Sajir 9 Llc",
+      "type": "Lebih dari 5%",
+      "shares": 3872233990,
+      "percentage": 5.34
+    },
+    {
+      "name": "Agoes Projosasmito",
+      "type": "Komisaris",
+      "shares": 289179940,
+      "percentage": 0.399
+    },
+    {
+      "name": "Alexander Ramlie",
+      "type": "Komisaris",
+      "shares": 185777760,
+      "percentage": 0.256
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 105803800,
+      "percentage": 0.146
+    },
+    {
+      "name": "Arief Widyawan Sidarto",
+      "type": "Direksi",
+      "shares": 79056600,
+      "percentage": 0.109
+    },
+    {
+      "name": "Aditya Sasmito",
+      "type": "Direksi",
+      "shares": 71386700,
+      "percentage": 0.098
+    },
+    {
+      "name": "Lal Naveen Chandra",
+      "type": "Direksi",
+      "shares": 52161300,
+      "percentage": 0.072
+    },
+    {
+      "name": "Irwin Ka Pui Wan",
+      "type": "Direksi",
+      "shares": 39056600,
+      "percentage": 0.054
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Alexander Gibbs",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Amman Mineral Nusa Tenggara",
+      "business_type": "Pertambangan",
+      "total_assets": 9492846,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Amman Mineral Industri",
+      "business_type": "Industri Pengolahan Logam",
+      "total_assets": 1298464,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Amman Nusantara Gas",
+      "business_type": "Penyimpanan Minyak dan Gas Bumi",
+      "total_assets": 189862,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Amman Mineral Contractors Singapore Pte",
+      "business_type": "Perusahaan Induk Lainnya",
+      "total_assets": 150605,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "Amman Mineral Singapore Pte",
+      "business_type": "Perusahaan Induk Lainnya",
+      "total_assets": 145605,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Amman Nusa Propertindo",
+      "business_type": "Perusahaan Induk, Real Estat",
+      "total_assets": 8663,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Amman Mineral Integrasi",
+      "business_type": "Pertambangan, Penyediaan dan Pelatihan Tenaga Kerja dan Lainnya",
+      "total_assets": 7131,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Amman Mineral Energi",
+      "business_type": "Pertambangan, Perdagangan, Industri Pengolahan Logam, dan Lainnya",
+      "total_assets": 6723,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Teluk Indah Sekongkang",
+      "business_type": "Real Estat, Perhotelan",
+      "total_assets": 3332,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pantai Nawasena Sekongkang",
+      "business_type": "Real Estat, Perhotelan",
+      "total_assets": 3157,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Segara Tentram Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 1973,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Angkasa Nusa Sarana",
+      "business_type": "Angkutan Udara Niaga",
+      "total_assets": 1856,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Amman Aviasi Indonesia",
+      "business_type": "Perusahaan Induk Lainnya",
+      "total_assets": 638,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Angkasa Daya Nusa",
+      "business_type": "Aktivitas Kebandarudaraan",
+      "total_assets": 185,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sakameri Sumbawa Barat",
+      "business_type": "Perhotelan",
+      "total_assets": 16,
+      "ownership_percentage": 80
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "369.842.910.045.600",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "22,40",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "41,93",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "40,07",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "42,13",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "14,95",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "38,09",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:17.546Z"
+}

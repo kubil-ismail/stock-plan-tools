@@ -1,0 +1,1592 @@
+{
+  "company_name": "Intiland Development Tbk",
+  "ticker": "DILD",
+  "office_address": "Intiland Tower, Penthouse Floor, Jl. Jend. Sudirman 32, Jakarta 10220, Indonesia",
+  "email": "info@intiland.com",
+  "phone": "+62 21 570 1912, 570 8088",
+  "fax": "+62 21 570 0015",
+  "tax_id": "01.060.126.8-054.000",
+  "website": "https://www.intiland.com",
+  "listing_date": "1991-09-04",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Telekomunikasi, Properti, Konstruksi, Makanan & Minuman.",
+    "business_tags": [
+      "Agribisnis",
+      "Telekomunikasi",
+      "Properti",
+      "Konstruksi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Theresia V. Rustandi",
+    "email": "theresia.rustandi@intiland.com",
+    "phone": "021 5701912"
+  },
+  "directors": [
+    {
+      "name": "Archied Noto Pradono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Utama Gondokusumo",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Novita Anggriani B",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Simon Joseph Wirawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Sofyan A. Djalil, Sh, Ma",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sinarto Dharmawan",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Friso Palilingan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander S. Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alexander S. Rusli",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fransiscus Alip",
+      "position": "Anggota"
+    },
+    {
+      "name": "Atik Susanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4294735201,
+      "percentage": 41.43
+    },
+    {
+      "name": "Cgs-cimb Securities (singapore) Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1556900100,
+      "percentage": 15.02
+    },
+    {
+      "name": "PT Cgs-cimb Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1505252433,
+      "percentage": 14.52
+    },
+    {
+      "name": "PT. Bina Yatra Sentosa",
+      "type": "Lebih dari 5%",
+      "shares": 1168804675,
+      "percentage": 11.28
+    },
+    {
+      "name": "Bali Private Villa(s) Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 775911150,
+      "percentage": 7.49
+    },
+    {
+      "name": "Drs. Lo Kheng Hong",
+      "type": "Lebih dari 5%",
+      "shares": 704138100,
+      "percentage": 6.79
+    },
+    {
+      "name": "Utama Gondokusumo",
+      "type": "Direksi",
+      "shares": 153778684,
+      "percentage": 1.48
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 140426412,
+      "percentage": 1.35
+    },
+    {
+      "name": "Sinarto Dharmawan",
+      "type": "Komisaris",
+      "shares": 65907430,
+      "percentage": 0.64
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Taman Harapan Indah (thi)",
+      "business_type": "Real Estate",
+      "total_assets": 4882582,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Taman Harapan Indah",
+      "business_type": "Real Estate",
+      "total_assets": 4799439,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Taman Harapan Indah",
+      "business_type": "Real Estate",
+      "total_assets": 4792808,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Taman Harapan Indah",
+      "business_type": "Real Estate",
+      "total_assets": 4696575,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Taman Harapan Indah",
+      "business_type": "Real Estate",
+      "total_assets": 4656065,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Grande",
+      "business_type": "Real Estate",
+      "total_assets": 4504747,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Grande",
+      "business_type": "Real Estate",
+      "total_assets": 4497981,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Grande",
+      "business_type": "Real Estate",
+      "total_assets": 4464807,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Intiland Grande (ig)",
+      "business_type": "Real Estate",
+      "total_assets": 4442081,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Grande",
+      "business_type": "Real Estate",
+      "total_assets": 4283771,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Putra Sinar Permaja",
+      "business_type": "Real Estate",
+      "total_assets": 2182522,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Putra Sinar Permaja",
+      "business_type": "Real Estate",
+      "total_assets": 2177465,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Putra Sinar Permaja (psp)",
+      "business_type": "Real Estatee",
+      "total_assets": 2168628,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Putra Sinar Permaja",
+      "business_type": "Real Estate",
+      "total_assets": 2153291,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Putra Sinar Permaja",
+      "business_type": "Real Estate",
+      "total_assets": 2144798,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Raharja Mitra Familia (rmf)",
+      "business_type": "Real Estate",
+      "total_assets": 1539942,
+      "ownership_percentage": 36.63
+    },
+    {
+      "name": "Perkasalestari Utama",
+      "business_type": "Real Estate",
+      "total_assets": 1132077,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkasalestari Utama",
+      "business_type": "Real Estate",
+      "total_assets": 1126818,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Sejahtera",
+      "business_type": "Kawasan Industri",
+      "total_assets": 1123885,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkasalestari Utama",
+      "business_type": "Real Estate",
+      "total_assets": 1123299,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perkasalestari Utama (plu)",
+      "business_type": "Real Estate",
+      "total_assets": 1120748,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkasalestari Utama",
+      "business_type": "Real Estate",
+      "total_assets": 1112427,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Sejahtera",
+      "business_type": "Kawasan Industri",
+      "total_assets": 1005018,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Sejahtera",
+      "business_type": "Kawasan Industri",
+      "total_assets": 972183,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perkasalestari Permai (plp)",
+      "business_type": "Real Estate",
+      "total_assets": 910904,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkasalestari Permai",
+      "business_type": "Real Estate",
+      "total_assets": 896216,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Sejahtera",
+      "business_type": "Kawasan Industri",
+      "total_assets": 886851,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkasalestari Permai",
+      "business_type": "Real Estate",
+      "total_assets": 886437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkasalestari Permai",
+      "business_type": "Real Estate",
+      "total_assets": 879886,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkasalestari Permai",
+      "business_type": "Real Estate",
+      "total_assets": 863615,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Intiland Sejahtera (is)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 840461,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Sentosa Ganda (psg)",
+      "business_type": "Real Estate",
+      "total_assets": 738408,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prima Sentosa Ganda",
+      "business_type": "Real Estate",
+      "total_assets": 729467,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prima Sentosa Ganda",
+      "business_type": "Real Estate",
+      "total_assets": 726022,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prima Sentosa Ganda",
+      "business_type": "Real Estate",
+      "total_assets": 724957,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prima Sentosa Ganda",
+      "business_type": "Real Estate",
+      "total_assets": 716953,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Raharja Mitra Familia",
+      "business_type": "Real Estate",
+      "total_assets": 640846,
+      "ownership_percentage": 36.63
+    },
+    {
+      "name": "PT Sinar Puspa Persada (spp)",
+      "business_type": "Real Estate",
+      "total_assets": 623665,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sinar Puspa Persada",
+      "business_type": "Real Estate",
+      "total_assets": 602688,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sinar Puspa Persada",
+      "business_type": "Real Estate",
+      "total_assets": 597742,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sinar Puspa Persada",
+      "business_type": "Real Estate",
+      "total_assets": 581112,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sinar Puspa Persada",
+      "business_type": "Real Estate",
+      "total_assets": 574263,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perkebunan Indutsri Segajung (pi)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 560805,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkebunan Industri Segajung",
+      "business_type": "Kawasan Industri",
+      "total_assets": 549806,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Raharja Mitra Familia",
+      "business_type": "Real Estate",
+      "total_assets": 502373,
+      "ownership_percentage": 36.63
+    },
+    {
+      "name": "Raharja Mitra Familia",
+      "business_type": "Real Estate",
+      "total_assets": 480158,
+      "ownership_percentage": 36.63
+    },
+    {
+      "name": "Raharja Mitra Familia",
+      "business_type": "Real Estate",
+      "total_assets": 465776,
+      "ownership_percentage": 36.63
+    },
+    {
+      "name": "Perkebunan Industri Segajung",
+      "business_type": "Kawasan Industri",
+      "total_assets": 455378,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Intisarana Ekaraya (iser)",
+      "business_type": "Sub Holding",
+      "total_assets": 431282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intisarana Ekararaya",
+      "business_type": "Real Estate",
+      "total_assets": 407496,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intisarana Ekararaya",
+      "business_type": "Real Estate",
+      "total_assets": 402766,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intisarana Ekararaya",
+      "business_type": "Real Estate",
+      "total_assets": 401369,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intisarana Ekararaya",
+      "business_type": "Real Estate",
+      "total_assets": 400991,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkebunan Industri Segajung",
+      "business_type": "Kawasan Industri",
+      "total_assets": 389973,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gandaria Prima (gp)",
+      "business_type": "Real Estate",
+      "total_assets": 387839,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Jateng Industri Intiland",
+      "business_type": "Kawasan Industri",
+      "total_assets": 375864,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jateng Industri Intiland (jii)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 366321,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Perkebunan Industri Segajung",
+      "business_type": "Kawasan Industri",
+      "total_assets": 357335,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Prima",
+      "business_type": "Real Estate",
+      "total_assets": 342096,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Prima",
+      "business_type": "Real Estate",
+      "total_assets": 337841,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Prima",
+      "business_type": "Real Estate",
+      "total_assets": 337593,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Prima",
+      "business_type": "Real Estate",
+      "total_assets": 335769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Wirasejati Binapersada",
+      "business_type": "Real Estate",
+      "total_assets": 324734,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Wirasejati Binapersada",
+      "business_type": "Real Estate",
+      "total_assets": 324727,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wirasejati Binapersada (wb)",
+      "business_type": "Real Estate",
+      "total_assets": 324726,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Wirasejati Binapersada",
+      "business_type": "Real Estate",
+      "total_assets": 324726,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Wirasejati Binapersada",
+      "business_type": "Real Estate",
+      "total_assets": 324724,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inti Gria Perdana (ig Perdana)",
+      "business_type": "Real Estate",
+      "total_assets": 322518,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Grande Family View",
+      "business_type": "Real Estate",
+      "total_assets": 289399,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Jateng Industri Intiland",
+      "business_type": "Kawasan Industri",
+      "total_assets": 276946,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kinerja Lancar Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 270024,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kinerja Lancar Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 269895,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kinerja Lancar Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 269882,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kinerja Lancar Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 269795,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kinerja Lancar Serasi (kls)",
+      "business_type": "Real Estate",
+      "total_assets": 269774,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grande Family View (gfv)",
+      "business_type": "Real Estate",
+      "total_assets": 267446,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Grande Family View",
+      "business_type": "Real Estate",
+      "total_assets": 265084,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Grande Family View",
+      "business_type": "Real Estate",
+      "total_assets": 262891,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Jateng Industri Intiland",
+      "business_type": "Kawasan Industri",
+      "total_assets": 259178,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Grande Family View",
+      "business_type": "Real Estate",
+      "total_assets": 257740,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Inti Gria Perdana",
+      "business_type": "Real Estate",
+      "total_assets": 252707,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sinar Cemerlang Gemilang (scg)",
+      "business_type": "Real Estate",
+      "total_assets": 246174,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sinar Cemerlang Gemilang",
+      "business_type": "Real Estate",
+      "total_assets": 243322,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sinar Cemerlang Gemilang",
+      "business_type": "Real Estate",
+      "total_assets": 243149,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sinar Cemerlang Gemilang",
+      "business_type": "Real Estate",
+      "total_assets": 243146,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sinar Cemerlang Gemilang",
+      "business_type": "Real Estate",
+      "total_assets": 243069,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perdana",
+      "business_type": "Real Estate",
+      "total_assets": 234684,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perdana",
+      "business_type": "Real Estate",
+      "total_assets": 221407,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Vida Irvetta Peninsula",
+      "business_type": "Real Estate",
+      "total_assets": 220247,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Vida Irvetta Peninsula",
+      "business_type": "Real Estate",
+      "total_assets": 219956,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Vida Irvetta Peninsula",
+      "business_type": "Real Estate",
+      "total_assets": 219451,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Vida Irvetta Peninsula",
+      "business_type": "Real Estate",
+      "total_assets": 214710,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Vida Irvetta Peninsula",
+      "business_type": "Real Estate",
+      "total_assets": 214452,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Jateng Industri Intiland",
+      "business_type": "Kawasan Industri",
+      "total_assets": 206582,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perdana",
+      "business_type": "Real Estate",
+      "total_assets": 178029,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Esperto",
+      "business_type": "Real Estate",
+      "total_assets": 146482,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Anugrah Semesta",
+      "business_type": "Real Estate",
+      "total_assets": 132315,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Kawasan Ploso",
+      "business_type": "Kawasan Industri",
+      "total_assets": 131994,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Anugrah Semesta",
+      "business_type": "Real Estate",
+      "total_assets": 131822,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Melati Anugrah Semesta",
+      "business_type": "Real Estate",
+      "total_assets": 131736,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Melati Anugrah Semesta",
+      "business_type": "Real Estate",
+      "total_assets": 131728,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Melati Anugerah Semesta (mas)",
+      "business_type": "Real Estate",
+      "total_assets": 131540,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Intiland Esperto",
+      "business_type": "Real Estate",
+      "total_assets": 118718,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Palamarta",
+      "business_type": "Real Estate",
+      "total_assets": 116232,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Intiland Esperto (ie)",
+      "business_type": "Real Estate",
+      "total_assets": 114266,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Industri Intiland",
+      "business_type": "Kawasan Industri",
+      "total_assets": 108516,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Ploso",
+      "business_type": "Kawasan Industri",
+      "total_assets": 106357,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Ploso",
+      "business_type": "Kawasan Industri",
+      "total_assets": 102904,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Ploso",
+      "business_type": "Kawasan Industri",
+      "total_assets": 102803,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inti Gria Persada (ig Persada)",
+      "business_type": "Real Estate",
+      "total_assets": 100136,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Inti Gria Persada",
+      "business_type": "Real Estate",
+      "total_assets": 100042,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Inti Gria Persada",
+      "business_type": "Real Estate",
+      "total_assets": 100017,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Inti Gria Persada",
+      "business_type": "Real Estate",
+      "total_assets": 100007,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Inti Gria Persada",
+      "business_type": "Real Estate",
+      "total_assets": 99992,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Intiland Esperto",
+      "business_type": "Real Estate",
+      "total_assets": 99498,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Industri Intiland",
+      "business_type": "Kawasan Industri",
+      "total_assets": 95966,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Selasih Safar",
+      "business_type": "Real Estate",
+      "total_assets": 91944,
+      "ownership_percentage": 52.5
+    },
+    {
+      "name": "Inti Gria Palamarta",
+      "business_type": "Real Estate",
+      "total_assets": 91890,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Selasih Safar",
+      "business_type": "Real Estate",
+      "total_assets": 91048,
+      "ownership_percentage": 52.5
+    },
+    {
+      "name": "Kawasan Industri Intiland",
+      "business_type": "Kawasan Industri",
+      "total_assets": 85004,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grande Imperial (gim)",
+      "business_type": "Real Estate",
+      "total_assets": 84812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Selasih Safar (ss)",
+      "business_type": "Real Estate",
+      "total_assets": 84695,
+      "ownership_percentage": 52.5
+    },
+    {
+      "name": "Selasih Safar",
+      "business_type": "Real Estate",
+      "total_assets": 84147,
+      "ownership_percentage": 52.5
+    },
+    {
+      "name": "Grande Imperial",
+      "business_type": "Real Estate",
+      "total_assets": 84082,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Grande Imperial",
+      "business_type": "Real Estate",
+      "total_assets": 83968,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Grande Imperial",
+      "business_type": "Real Estate",
+      "total_assets": 83923,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Jombang",
+      "business_type": "Kawasan Industri",
+      "total_assets": 83789,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Grande Imperial",
+      "business_type": "Real Estate",
+      "total_assets": 83666,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Selasih Safar",
+      "business_type": "Real Estate",
+      "total_assets": 83367,
+      "ownership_percentage": 52.5
+    },
+    {
+      "name": "PT Inti Gria Palamarta",
+      "business_type": "Real Estate",
+      "total_assets": 81816,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Jombang",
+      "business_type": "Kawasan Industri",
+      "total_assets": 81079,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Jombang",
+      "business_type": "Kawasan Industri",
+      "total_assets": 80916,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Palamarta",
+      "business_type": "Real Estate",
+      "total_assets": 74878,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Jombang",
+      "business_type": "Kawasan Industri",
+      "total_assets": 71902,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kawasan Jombang (kj)",
+      "business_type": "Real Estate",
+      "total_assets": 68041,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Pramudya",
+      "business_type": "Real Estate",
+      "total_assets": 67535,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Esperto",
+      "business_type": "Real Estate",
+      "total_assets": 67038,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inti Gria Pramudya (ig Pramudya)",
+      "business_type": "Real Estate",
+      "total_assets": 65228,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Pramudya",
+      "business_type": "Real Estate",
+      "total_assets": 62637,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kawasan Industri Intiland (kii)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 61287,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kawasan Industri Intiland",
+      "business_type": "Kawasan Industri",
+      "total_assets": 59506,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Pramudya",
+      "business_type": "Real Estate",
+      "total_assets": 58757,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Pramudya",
+      "business_type": "Real Estate",
+      "total_assets": 56470,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Badan Kerjasama Intiland Starlight",
+      "business_type": "Real Estate",
+      "total_assets": 54850,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Kawasan Ploso (kp)",
+      "business_type": "Real Estate",
+      "total_assets": 50946,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inti Gria Perwira",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 50245,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perwira",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 49999,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perwira",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 49889,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perwira",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 49879,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perwira",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 49638,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Palamarta",
+      "business_type": "Real Estate",
+      "total_assets": 47009,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gandaria Permai",
+      "business_type": "Real Estate",
+      "total_assets": 42536,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Permai",
+      "business_type": "Real Estate",
+      "total_assets": 40585,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Permai",
+      "business_type": "Real Estate",
+      "total_assets": 40513,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Permai",
+      "business_type": "Real Estate",
+      "total_assets": 40312,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Permai",
+      "business_type": "Real Estate",
+      "total_assets": 40308,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Badan Kerjasama Intiland Starlight",
+      "business_type": "Real Estate",
+      "total_assets": 40091,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Badan Kerjasama Intiland Starlight",
+      "business_type": "Real Estate",
+      "total_assets": 40084,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Badan Kerjasama Intiland Starlight",
+      "business_type": "Real Estate",
+      "total_assets": 39983,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Melati Wahana Nusantara",
+      "business_type": "Real Estate",
+      "total_assets": 36745,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Wahana Nusantara",
+      "business_type": "Real Estate",
+      "total_assets": 36678,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Wahana Nusantara",
+      "business_type": "Real Estate",
+      "total_assets": 36677,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Wahana Nusantara",
+      "business_type": "Real Estate",
+      "total_assets": 36673,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Melati Wahana Nusantara (mwn)",
+      "business_type": "Real Estate",
+      "total_assets": 36560,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Badan Kerjasama Intiland Starlight",
+      "business_type": "Real Estate",
+      "total_assets": 35784,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Inti Algoritma Perdana (iap)",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 26935,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Alfa Rendita",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 23441,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Usaha Guna Kelola",
+      "business_type": "Real Estate",
+      "total_assets": 22458,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Usaha Guna Kelola",
+      "business_type": "Real Estate",
+      "total_assets": 22449,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Usaha Guna Kelola",
+      "business_type": "Real Estate",
+      "total_assets": 22449,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Usaha Guna Kelola",
+      "business_type": "Real Estate",
+      "total_assets": 22442,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Usaha Guna Kelola",
+      "business_type": "Real Estate",
+      "total_assets": 22442,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Alfa Rendita",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 21480,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Algoritma Perdana",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 21153,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Algoritma Perdana",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 21004,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Alfa Rendita",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 20508,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Algoritma Perdana",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 20256,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Intiland Alfa Rendita",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 20107,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Algoritma Perdana",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 19937,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Impian Bangsa",
+      "business_type": "Real Estate",
+      "total_assets": 13449,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Impian Bangsa",
+      "business_type": "Real Estate",
+      "total_assets": 13442,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Impian Bangsa",
+      "business_type": "Real Estate",
+      "total_assets": 13442,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Melati Impian Bangsa",
+      "business_type": "Real Estate",
+      "total_assets": 13442,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Melati Impian Bangsa (mib)",
+      "business_type": "Real Estate",
+      "total_assets": 13327,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abadi Citra Lestari (acl)",
+      "business_type": "Real Estate",
+      "total_assets": 7236,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dinamika Kencana Mandiri (dkm)",
+      "business_type": "Real Estate",
+      "total_assets": 6475,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Abadi Citra Lestari",
+      "business_type": "Real Estate",
+      "total_assets": 6234,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Abadi Citra Lestari",
+      "business_type": "Real Estate",
+      "total_assets": 6165,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Abadi Citra Lestari",
+      "business_type": "Real Estate",
+      "total_assets": 6077,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dinamika Kencana Mandiri",
+      "business_type": "Real Estate",
+      "total_assets": 6045,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dinamika Kencana Mandiri",
+      "business_type": "Real Estate",
+      "total_assets": 6028,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Abadi Citra Lestari",
+      "business_type": "Real Estate",
+      "total_assets": 6023,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mutiara Raga Indah",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 5556,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perkasa",
+      "business_type": "Real Estate",
+      "total_assets": 5158,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Purisentosa Unggul (psu)",
+      "business_type": "Real Estate",
+      "total_assets": 5126,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Puri Sentosa Unggul",
+      "business_type": "Real Estate",
+      "total_assets": 5120,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Puri Sentosa Unggul",
+      "business_type": "Real Estate",
+      "total_assets": 5115,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Puri Sentosa Unggul",
+      "business_type": "Real Estate",
+      "total_assets": 5108,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Puri Sentosa Unggul",
+      "business_type": "Real Estate",
+      "total_assets": 5108,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perkasa",
+      "business_type": "Real Estate",
+      "total_assets": 4909,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Mulia",
+      "business_type": "Real Estate",
+      "total_assets": 4745,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Mulia",
+      "business_type": "Real Estate",
+      "total_assets": 4745,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Mulia",
+      "business_type": "Real Estate",
+      "total_assets": 4745,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Mulia",
+      "business_type": "Real Estate",
+      "total_assets": 4745,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perkasa",
+      "business_type": "Real Estate",
+      "total_assets": 4688,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mutiara Raga Indah",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 4659,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Inti Gria Perkasa",
+      "business_type": "Real Estate",
+      "total_assets": 4510,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mutiara Raga Indah",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 4476,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mutiara Raga Indah",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 4421,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mutiara Raga Indah",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 4304,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inti Gria Perkasa",
+      "business_type": "Real Estate",
+      "total_assets": 4194,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Sakti",
+      "business_type": "Real Estate",
+      "total_assets": 4002,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Sakti",
+      "business_type": "Real Estate",
+      "total_assets": 4002,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Sakti",
+      "business_type": "Real Estate",
+      "total_assets": 4002,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gandaria Sakti",
+      "business_type": "Real Estate",
+      "total_assets": 4002,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Graha Inti Boga",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 2612,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Graha Inti Boga",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 2606,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Inti Boga (gib)",
+      "business_type": "Makanan dan Masakan Olahan/",
+      "total_assets": 2600,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Graha Inti Boga",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 2509,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Graha Inti Boga",
+      "business_type": "Pusat Kebugaran",
+      "total_assets": 2363,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Bejana",
+      "business_type": "Real Estate",
+      "total_assets": 194,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Buana Bejana",
+      "business_type": "Real Estate",
+      "total_assets": 177,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Buana Bejana",
+      "business_type": "Real Estate",
+      "total_assets": 176,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Buana Bejana",
+      "business_type": "Real Estate",
+      "total_assets": 168,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Buana Bejana",
+      "business_type": "Real Estate",
+      "total_assets": 159,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Intiland Alfa Rendita (iar)",
+      "business_type": "Infrastruktur Telekomunikasi",
+      "total_assets": 26,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gandaria Mulia",
+      "business_type": "Real Estate",
+      "total_assets": 5,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gandaria Sakti",
+      "business_type": "Real Estate",
+      "total_assets": 4,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.347.561.044.050",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,80",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "7,35",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "3,08",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "13,70",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,33",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,64",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:55.358Z"
+}

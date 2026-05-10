@@ -1,0 +1,786 @@
+{
+  "company_name": "Sentul City Tbk",
+  "ticker": "BKSL",
+  "office_address": "Kantor Pusat : Gedung Menara Sudirman, Lantai 25, Jl.jend.sudirman Kav.60, Jakarta 12190, Indonesia Kantor Operasional : Sentul City Building, Jl.mh. Thamrin Kav.8, Sentul City, Bogor 16810, Indonesia",
+  "email": "corsec@sentulcity.co.id",
+  "phone": "8796-0023 522-6848",
+  "fax": "87961036;",
+  "tax_id": "01.614.952.8-054.000",
+  "website": "https://www.bukitsentul.co.id",
+  "listing_date": "1997-07-28",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Supriyana",
+    "email": "corsec@sentulcity.co.id; supriyana@sentulcity.co.id",
+    "phone": "021 8792 3959"
+  },
+  "directors": [
+    {
+      "name": "Hiramsyah Sambudhy Thaib",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Otto Kumala",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Stephanie Alim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjetje Muljanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Syahruzad",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hartan Gunadi Harja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jeyson Pribadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Basaria Panjaitan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Reina Kumala Kwee",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sumarsono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yuswandi Arsyad Temenggung",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wahyu Utomo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lukita Dinarsyah Tuwo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Gatot Sudariyono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jonnardi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lukita Dinarsyah Tuwo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lioe Fei Ling",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tjin Tjiap Loeng",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Sakti Generasi Perdana",
+      "type": "Lebih dari 5%",
+      "shares": 109462099825,
+      "percentage": 65.27
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 45942295381,
+      "percentage": 27.39
+    },
+    {
+      "name": "Stella Isabella Djohan",
+      "type": "Lebih dari 5%",
+      "shares": 11235277812,
+      "percentage": 6.7
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1069229687,
+      "percentage": 0.64
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bukit Jonggol Asri",
+      "business_type": "Real Estat",
+      "total_assets": 3869075148848,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Bukit Jonggol Asri",
+      "business_type": "Real Estat",
+      "total_assets": 3862870762293,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Bukit Jonggol Asri",
+      "business_type": "Real Estat",
+      "total_assets": 3861300319709,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Bukit Jonggol Asri",
+      "business_type": "Real Estat",
+      "total_assets": 3859945372171,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Bukit Jonggol Asri (d/h PT Kota Ulung Selaras)",
+      "business_type": "Real Estat",
+      "total_assets": 3848639337539,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Graha Sejahtera Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 2943969791558,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Graha Sejahtera Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 2571768075406,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Graha Sejahtera Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 2508816862168,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Graha Sejahtera Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 2466049450604,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Graha Sejahtera Abadi",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 2464827370269,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Natura City Developments (d/h PT Serpong Karya Cemerlang)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 938884576902,
+      "ownership_percentage": 15.04
+    },
+    {
+      "name": "PT Aftanesia Raya",
+      "business_type": "Real Estat",
+      "total_assets": 386095012666,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Aftanesia Raya",
+      "business_type": "Real Estat",
+      "total_assets": 385665364688,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Aftanesia Raya",
+      "business_type": "Real Estat",
+      "total_assets": 385547371949,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Aftanesia Raya",
+      "business_type": "Real Estat",
+      "total_assets": 385242493753,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Aftanesia Raya",
+      "business_type": "Real Estat",
+      "total_assets": 384943123535,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gununggeulis Elok Abadi",
+      "business_type": "Restoran dan Pariwisata",
+      "total_assets": 229128392219,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gazelle Indonesia",
+      "business_type": "Real Estat",
+      "total_assets": 207209921271,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gunung Geulis Elok Abadi",
+      "business_type": "Restoran dan Pariwisata",
+      "total_assets": 205965047860,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Gunung Geulis Elok Abadi",
+      "business_type": "Restoran dan Pariwisata",
+      "total_assets": 205368574221,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Gunung Geulis Elok Abadi",
+      "business_type": "Restoran dan Pariwisata",
+      "total_assets": 205132275909,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Gunung Geulis Elok Abadi",
+      "business_type": "Restoran dan Pariwisata",
+      "total_assets": 203699009912,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul Pp Properti",
+      "business_type": "Real Estat",
+      "total_assets": 172395345502,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sentul Pp Properti",
+      "business_type": "Real Estat",
+      "total_assets": 171051227863,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sentul Pp Properti",
+      "business_type": "Real Estat",
+      "total_assets": 170514965261,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sentul Pp Properti",
+      "business_type": "Real Estat",
+      "total_assets": 170087345623,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sentul Pp Properti",
+      "business_type": "Real Estat",
+      "total_assets": 170039269121,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Gazelle Indonesia",
+      "business_type": "Real Estat",
+      "total_assets": 145215358015,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Gazelle Indonesia",
+      "business_type": "Real Estat",
+      "total_assets": 144339278354,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Gazelle Indonesia",
+      "business_type": "Real Estat",
+      "total_assets": 143235928400,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Gazelle Indonesia",
+      "business_type": "Real Estat",
+      "total_assets": 142643422784,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukaputra Graha Cemerlang",
+      "business_type": "Pengelolaan Kota",
+      "total_assets": 80216980653,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Megah Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 55212992821,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Megah Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 55211452899,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Karya Megah Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 55176696356,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Karya Megah Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 55134551488,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Karya Megah Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 55117823609,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukaputra Graha Cemerlang",
+      "business_type": "Pengelolaan Kota",
+      "total_assets": 39786343608,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukaputra Graha Cemerlang",
+      "business_type": "Pengelolaan Kota",
+      "total_assets": 39459146644,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukaputra Graha Cemerlang",
+      "business_type": "Pengelolaan Kota",
+      "total_assets": 39176507483,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukaputra Graha Cemerlang",
+      "business_type": "Pengelolaan Kota",
+      "total_assets": 38914330018,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bintang Perdana Mulia",
+      "business_type": "Real Estat",
+      "total_assets": 38090388488,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bintang Perdana Mulia",
+      "business_type": "Real Estat",
+      "total_assets": 37625851506,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bintang Perdana Mulia",
+      "business_type": "Real Estat",
+      "total_assets": 37442139690,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bintang Perdana Mulia",
+      "business_type": "Real Estat",
+      "total_assets": 37129926792,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bintang Perdana Mulia",
+      "business_type": "Real Estat",
+      "total_assets": 36833040718,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Jaya Selaras Gemilang",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 29385244178,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Jaya Selaras Gemilang",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 28033836295,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Jaya Selaras Gemilang",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 26927563519,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Jasa Selaras Gemilang",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 25504404565,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Jaya Selaras Gemilang",
+      "business_type": "Real Estat",
+      "total_assets": 25023291860,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Sentul Air Nusantara",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 21673534744,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul Air Nusantara",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 21263199234,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul Air Nusantara",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 20871668674,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul Air Nusantara",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 20707891050,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Fauna Land",
+      "business_type": "Pariwisata",
+      "total_assets": 20000000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Fauna Land Sentul",
+      "business_type": "Pariwisata",
+      "total_assets": 20000000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Fauna Land Sentul",
+      "business_type": "Pariwisata",
+      "total_assets": 20000000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Fauna Land Sentul",
+      "business_type": "Pariwisata",
+      "total_assets": 20000000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Fauna Land Sentul",
+      "business_type": "Pariwisata",
+      "total_assets": 20000000000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Sentul Air Nusantara",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 19455186541,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Jaya Selaras Utama",
+      "business_type": "Jasa Parkir",
+      "total_assets": 12166217773,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Jaya Selaras Utama",
+      "business_type": "Jasa Parkir",
+      "total_assets": 9587826316,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Jaya Selaras Utama",
+      "business_type": "Jasa Parkir",
+      "total_assets": 9501925346,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul City Properti",
+      "business_type": "Real Estat",
+      "total_assets": 9424078711,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul City Properti",
+      "business_type": "Real Estat",
+      "total_assets": 8091545038,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Jaya Selaras Utama",
+      "business_type": "Jasa Parkir",
+      "total_assets": 6988571983,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Langgeng Sakti Mandiri",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 5419111968,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Langgeng Sakti Mandiri",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 5419111967,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Langgeng Sakti Mandiri",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 5419111967,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Langgeng Sakti Mandiri",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 5419111967,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Langgeng Sakti Mandiri",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 5419111967,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Jasa Selaras Utama",
+      "business_type": "Jasa Parkir",
+      "total_assets": 4991442786,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kencana Pondok Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 4963701916,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Kencana Pondok Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 4766681431,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Kencana Pondok Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 4694282211,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Kencana Pondok Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 4686525610,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Kencana Pondok Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 3866987962,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Sentul City Properti",
+      "business_type": "Real Estat",
+      "total_assets": 2037523060,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentulcity Property",
+      "business_type": "Real Estat",
+      "total_assets": 2034074468,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul City Properti",
+      "business_type": "Real Estat",
+      "total_assets": 2025683708,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Natura Niaga Berjaya",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 1603973508,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Kencana Pondok Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 1000000000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mulya Cahaya Permata",
+      "business_type": "Real Estat",
+      "total_assets": 1000000000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mulya Cahaya Permata",
+      "business_type": "Real Estat",
+      "total_assets": 1000000000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Serpong Natura Hijau Sentosa",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 658743608,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sentul Graha Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 250000000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul Graha Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 250000000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul Graha Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 250000000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul Graha Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 250000000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sentul Graha Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 250000000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Centerra Manajemen Properti",
+      "business_type": "Pengelolaan Apartemen",
+      "total_assets": 66774338,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pondok Gemilang Sejahtera",
+      "business_type": "Pengelolaan Apartemen",
+      "total_assets": 66594338,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pondok Gemilang Sejahtera",
+      "business_type": "Pengelolaan Apartemen",
+      "total_assets": 66324853,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pondok Gemilang Sejahtera",
+      "business_type": "Pengelolaan Apartemen",
+      "total_assets": 66234853,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pondok Gemilang Sejahtera",
+      "business_type": "Pengelolaan Apartemen",
+      "total_assets": 66094853,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "17.777.143.686.730",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,53",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "22,14",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,70",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "5,56",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,56",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "31,54",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:55.474Z"
+}

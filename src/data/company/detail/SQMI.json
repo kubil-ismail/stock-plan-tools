@@ -1,0 +1,184 @@
+{
+  "company_name": "Wilton Makmur Indonesia Tbk",
+  "ticker": "SQMI",
+  "office_address": "Komplek Harco Mangga Dua (agung Sedayu), Block C No. 5 Jl. Mangga Dua Raya, Jakarta 10730, Indonesia",
+  "email": "email@wilton-groups.com",
+  "phone": "(62) 21-612 5585",
+  "fax": "(62) 21-612 5583",
+  "tax_id": "01.869.295.4-054.000",
+  "website": "https://-",
+  "listing_date": "2004-07-15",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Metal and Mineral Mining",
+    "business_summary": "Perusahaan bergerak di bidang Batubara.",
+    "business_tags": [
+      "Batubara"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 18,
+    "name": "Emas",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Mohammad Noor Syahriel",
+    "email": "m.n.syahriel@wilton-groups.com atau email@wilton-groups.com",
+    "phone": "(+62 21) 612 5585"
+  },
+  "directors": [
+    {
+      "name": "Oktavia Budi Raharjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andrianto Darmasaputra Lawrence",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chia Wei yang (ethan)",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wijaya Lawrence",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mohammad Raylan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Mohammad Raylan, Mm.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Alberto Saur Pasaoran",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mirna Sri Hernawatie",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Wrh - Wilton Resources Holding Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 8152954942,
+      "percentage": 52.47
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3939153458,
+      "percentage": 25.35
+    },
+    {
+      "name": "Cgs International Securities Singapore Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 3441323029,
+      "percentage": 22.15
+    },
+    {
+      "name": "Chia Wei yang (ethan)",
+      "type": "Direksi",
+      "shares": 3960000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 200000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wilton Wahana Indonesia",
+      "business_type": "Pertambangan Emas",
+      "total_assets": 510473845132,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Wilton Investment",
+      "business_type": "Pertambangan Emas",
+      "total_assets": 7612589557,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Liektucha Ciemas",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa.",
+      "total_assets": 409600378,
+      "ownership_percentage": 97.03
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "854.567.528.595",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "17,24",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "11,63",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "11,63",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "5,88",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "9,43",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,63",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:54.673Z"
+}

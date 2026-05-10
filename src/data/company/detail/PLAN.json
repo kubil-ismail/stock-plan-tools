@@ -1,0 +1,175 @@
+{
+  "company_name": "PT Planet Properindo Jaya Tbk",
+  "ticker": "PLAN",
+  "office_address": "Jl. Otto Iskandar Dinata No. 3, Babakan Ciamis, Kec. Sumur Bandung Kota Bandung, Jawa Barat 40117",
+  "email": "corsec@ppjaya.com",
+  "phone": "+62 22 426 6299",
+  "fax": "0",
+  "tax_id": "0",
+  "website": "https://www.planetproperindojaya.com",
+  "listing_date": "2020-09-15",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Hotel Bintang Tiga, Restoran, Aktivitas Konsultasi Pariwisata dan Aktivitas Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Yosafat Haridono",
+    "email": "corsec@ppjaya.com",
+    "phone": "+62 22 426 6299"
+  },
+  "directors": [
+    {
+      "name": "Antonyo Hartono Tanujaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Emilia Marlina Kiuk",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Seto Andry Wibowo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hannar Yogia",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Wilma Willantara",
+      "position": "Ketua"
+    },
+    {
+      "name": "Asen Julianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ir Defi Desmiati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Wahana Tata Bangun",
+      "type": "Lebih dari 5%",
+      "shares": 59942500,
+      "percentage": 66.85
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 270709596,
+      "percentage": 30.3
+    },
+    {
+      "name": "Antonyo Hartono Tanujaya",
+      "type": "Direksi",
+      "shares": 25537500,
+      "percentage": 2.85
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "47.525.608.588",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "34,62",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "2,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "30,77",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,77",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,87",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:29.422Z"
+}

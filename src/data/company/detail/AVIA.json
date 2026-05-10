@@ -1,0 +1,272 @@
+{
+  "company_name": "PT Avia Avian Tbk",
+  "ticker": "AVIA",
+  "office_address": "Jalan Raya Surabaya Sidoarjo Km. 19, Desa Wadungasih, Kecamatan Buduran, Kabupaten Sidoarjo, Jawa Timur, 61252",
+  "email": "corsec@avianbrands.com",
+  "phone": "031 - 8968000",
+  "fax": "",
+  "tax_id": "0012 0326 5264 1000",
+  "website": "https://www.avianbrands.com",
+  "listing_date": "2021-12-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak di bidang usaha industri dan perdagangan cat dan tinta cetak, pernis, lak, perekat/lem, mortar atau beton siap pakai",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 13,
+    "name": "Barang Kimia Khusus",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Hera Septi Astuti",
+    "email": "corsec@avianbrands.com",
+    "phone": "+6231 99850500/99850600"
+  },
+  "directors": [
+    {
+      "name": "Wijono Tanoko",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ruslan Tanoko",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Robert Christian Tanoko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kurnia Hadi Sinanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Angelica Tanisia Jozar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hermanto Tanoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Oscar Christian Maria Jozef Wezenbeek",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lukas Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lukas Rusli",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sammy Ts Lalamentik",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wardiman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tancorp Surya Sentosa",
+      "type": "Lebih dari 5%",
+      "shares": 22674971000,
+      "percentage": 36.6
+    },
+    {
+      "name": "PT Wahana Lancar Rejeki",
+      "type": "Lebih dari 5%",
+      "shares": 20129652900,
+      "percentage": 32.49
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 9947816600,
+      "percentage": 16.07
+    },
+    {
+      "name": "Archipelago Investment Private Limited",
+      "type": "Lebih dari 5%",
+      "shares": 3902748900,
+      "percentage": 6.3
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 2828096900,
+      "percentage": 4.56
+    },
+    {
+      "name": "Robert Christian Tanoko",
+      "type": "Direksi",
+      "shares": 1425406300,
+      "percentage": 2.3
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1041265000,
+      "percentage": 1.68
+    },
+    {
+      "name": "Kurnia Hadi Sinanto",
+      "type": "Direksi",
+      "shares": 782500,
+      "percentage": 0
+    },
+    {
+      "name": "Angelica Tanisia Jozar",
+      "type": "Direksi",
+      "shares": 311300,
+      "percentage": 0
+    },
+    {
+      "name": "Wijono Tanoko",
+      "type": "Direksi",
+      "shares": 2504200,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tirtakencana Tatawarna",
+      "business_type": "Perdagangan Besar Cat, Pergudangan dan Penyimpanan dan Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 4211189,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bangun Bersama Solusindo",
+      "business_type": "Perdagangan Besar Semen, Kapur, Pasir dan Batu untuk Bahan Konstruksi, Material Bangunan, dan Bahan dan Barang Kimia Dasar atau Kimia Industri",
+      "total_assets": 52842,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Multipro Paint Indonesia",
+      "business_type": "Industri Cat dan Tinta Cetak, Industri Vernis (termasuk Mastik) Perdagangaan Besar Cat, Perdagangan Besar Berbagai Macam Material Bangunan",
+      "total_assets": 33043,
+      "ownership_percentage": 67
+    },
+    {
+      "name": "PT Solusi Rumah Praktis",
+      "business_type": "Perdagangan Eceran Cat, Pernis dan Lak dan Pengecatan",
+      "total_assets": 1066,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "23.914.072.461.600",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,58",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "19,40",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "18,70",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,98",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,59",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "28,08",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:54.586Z"
+}

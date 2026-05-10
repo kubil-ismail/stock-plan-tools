@@ -1,0 +1,494 @@
+{
+  "company_name": "Semen Indonesia (persero) Tbk",
+  "ticker": "SMGR",
+  "office_address": "South Quarter Tower A, Lt. 19-20 Jl. Ra Kartini, Kav. 8, Jakarta Selatan 12430",
+  "email": "corporate.secretary@sig.id; investor.relations@sig.id",
+  "phone": "(021) 5261174; (021) 5261175",
+  "fax": "(021) 5261176",
+  "tax_id": "0010 0163 1905 1000",
+  "website": "https://www.sig.id",
+  "listing_date": "1991-07-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Produsen Semen",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Konstruksi.",
+    "business_tags": [
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Vita Mahreyni",
+    "email": "vita.mahreyni@semenindonesia.com",
+    "phone": "021-5261174-5"
+  },
+  "directors": [
+    {
+      "name": "Indrieffouny Indra",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andriano Hosny Panangian",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dicky Saelan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Dennis Prastistha",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Sigit Prastowo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Hadi Setiadi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Reni Wulandari",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sigit Widyawan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lydia Silvanna Djaman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agung Budi Mulyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Saor Siagian",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ratna Irsana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Christina Aryani",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Satya Bhakti Parikesit",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Saor Siagian",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sigit Widyawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agung Budi Mulyanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sahat Pardede",
+      "position": "Anggota"
+    },
+    {
+      "name": "Budi Rahayu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 3422452775,
+      "percentage": 50.691
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3310882964,
+      "percentage": 49.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 15996000,
+      "percentage": 0.237
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1438750,
+      "percentage": 0.021
+    },
+    {
+      "name": "Andriano Hosny P.",
+      "type": "Direksi",
+      "shares": 381300,
+      "percentage": 0.0055
+    },
+    {
+      "name": "Lydia Silvanna Djaman",
+      "type": "Komisaris",
+      "shares": 199600,
+      "percentage": 0.0029
+    },
+    {
+      "name": "Reni Wulandari",
+      "type": "Direksi",
+      "shares": 188700,
+      "percentage": 0.0026
+    },
+    {
+      "name": "Sigit Widyawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Christina Aryani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Satya Bhakti Parikesit",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agung Budi Mulyanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saor Siagian",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dicky Saelan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dennis Pratistha",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sigit Prastowo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ratna Irsana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hadi Setiadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Solusi Bangun Indonesia Tbk",
+      "business_type": "Produksi Semen",
+      "total_assets": 20362362,
+      "ownership_percentage": 83.52
+    },
+    {
+      "name": "PT Solusi Bangun Indonesia Tbk",
+      "business_type": "Produksi Semen",
+      "total_assets": 20362362,
+      "ownership_percentage": 83.52
+    },
+    {
+      "name": "PT Semen Padang",
+      "business_type": "Produksi Semen",
+      "total_assets": 9511093,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semen Padang",
+      "business_type": "Produksi Semen",
+      "total_assets": 9511093,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semen Tonasa",
+      "business_type": "Produksi Semen",
+      "total_assets": 8776747,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semen Tonasa",
+      "business_type": "Produksi Semen",
+      "total_assets": 8776747,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semen Gresik",
+      "business_type": "Produksi Semen",
+      "total_assets": 5054255,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Semen Gresik",
+      "business_type": "Produksi Semen",
+      "total_assets": 5054255,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Semen Baturaja (persero) Tbk",
+      "business_type": "Produksi Semen",
+      "total_assets": 4804404,
+      "ownership_percentage": 75.51
+    },
+    {
+      "name": "PT Semen Baturaja (persero) Tbk",
+      "business_type": "Produksi Semen",
+      "total_assets": 4804404,
+      "ownership_percentage": 75.51
+    },
+    {
+      "name": "PT Semen Indonesia Logistik",
+      "business_type": "Perdagangan, Transportasi, Jasa Bongkar Muat dan Konstruksi",
+      "total_assets": 2255561,
+      "ownership_percentage": 73.65
+    },
+    {
+      "name": "PT Semen Indonesia Logistik",
+      "business_type": "Perdagangan, Transportasi, Jasa Bongkar Muat dan Konstruksi",
+      "total_assets": 2255561,
+      "ownership_percentage": 73.65
+    },
+    {
+      "name": "Thang Long Cement Joint Stock Company",
+      "business_type": "Produksi Semen",
+      "total_assets": 1939688,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Thang Long Cement Joint Stock Company",
+      "business_type": "Produksi Semen",
+      "total_assets": 1939688,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Semen Indonesia International",
+      "business_type": "Perdagangan, Jasa Pelayanan, Manajemen Logistik dan Investasi",
+      "total_assets": 1234107,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Semen Indonesia International",
+      "business_type": "Perdagangan, Jasa Pelayanan, Manajemen Logistik dan Investasi",
+      "total_assets": 1234107,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Semen Indonesia Beton",
+      "business_type": "Produksi Beton Siap Pakai",
+      "total_assets": 802293,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semen Indonesia Beton",
+      "business_type": "Produksi Beton Siap Pakai",
+      "total_assets": 802293,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kawasan Industri Gresik",
+      "business_type": "Pengembangan Kawasan Industri",
+      "total_assets": 629676,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Kawasan Industri Gresik",
+      "business_type": "Pengembangan Kawasan Industri",
+      "total_assets": 629676,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Semen Indonesia Aceh",
+      "business_type": "Produksi Semen",
+      "total_assets": 576957,
+      "ownership_percentage": 52.28
+    },
+    {
+      "name": "PT Semen Indonesia Aceh",
+      "business_type": "Produksi Semen",
+      "total_assets": 576957,
+      "ownership_percentage": 52.28
+    },
+    {
+      "name": "PT Industri Kemasan Semen Gresik",
+      "business_type": "Produksi Kantong Semen",
+      "total_assets": 519830,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Industri Kemasan Semen Gresik",
+      "business_type": "Produksi Kantong Semen",
+      "total_assets": 519830,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT United Tractors Semen Gresik",
+      "business_type": "Jasa Penambangan Batu Kapur dan Tanah Liat",
+      "total_assets": 482321,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT United Tractors Semen Gresik",
+      "business_type": "Jasa Penambangan Batu Kapur dan Tanah Liat",
+      "total_assets": 482321,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Sinergi Mitra Investama",
+      "business_type": "Persewaan Bangunan",
+      "total_assets": 338352,
+      "ownership_percentage": 99.24
+    },
+    {
+      "name": "PT Sinergi Mitra Investama",
+      "business_type": "Persewaan Bangunan",
+      "total_assets": 338352,
+      "ownership_percentage": 99.24
+    },
+    {
+      "name": "PT Semen Kupang Indonesia",
+      "business_type": "Distribusi Semen",
+      "total_assets": 289676,
+      "ownership_percentage": 99.48
+    },
+    {
+      "name": "PT Semen Kupang Indonesia",
+      "business_type": "Distribusi Semen",
+      "total_assets": 289676,
+      "ownership_percentage": 99.48
+    },
+    {
+      "name": "PT Sinergi Informatika Semen Indonesia",
+      "business_type": "Sistem Informasi",
+      "total_assets": 151891,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sinergi Informatika Semen Indonesia",
+      "business_type": "Sistem Informasi",
+      "total_assets": 151891,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Semen Indonesia Industri Bangunan",
+      "business_type": "Bahan Bangunan",
+      "total_assets": 3935,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Semen Indonesia Industri Bangunan",
+      "business_type": "Bahan Bangunan",
+      "total_assets": 3935,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "13.503.080.178.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,69",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "20,91",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,78",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "13,69",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,97",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "21,80",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:34.950Z"
+}

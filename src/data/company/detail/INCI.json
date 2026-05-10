@@ -1,0 +1,172 @@
+{
+  "company_name": "Intanwijaya Internasional Tbk",
+  "ticker": "INCI",
+  "office_address": "Wisma Iwi Lt. 5 Jl. Arjuna Selatan Kav.75, Kebun Jeruk, Jakarta 11530",
+  "email": "intanwijaya898@gmail.com",
+  "phone": "021-5308637",
+  "fax": "021-5308632, 5308633",
+  "tax_id": "01.209.235.9-054.000",
+  "website": "https://www.intanwijaya.com",
+  "listing_date": "1990-07-24",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Chemicals",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Sondy Ardy",
+    "email": "sondyardy@intanwijaya.com",
+    "phone": "021-5308637"
+  },
+  "directors": [
+    {
+      "name": "Tazran Tanmizi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sondy Ardy",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tamzil Tanmizi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ignatius Evan Rickyanto Harsono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Reynazran Royono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ignatius Evan Rickyanto Harsono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Meliani",
+      "position": "Anggota"
+    },
+    {
+      "name": "David Bingei",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 99318619,
+      "percentage": 47.8281
+    },
+    {
+      "name": "Tamzil Tanmizi",
+      "type": "Komisaris",
+      "shares": 39048885,
+      "percentage": 18.805
+    },
+    {
+      "name": "Tazran Tanmizi",
+      "type": "Direksi",
+      "shares": 35720918,
+      "percentage": 17.202
+    },
+    {
+      "name": "Robert Tanmizi",
+      "type": "Lebih dari 5%",
+      "shares": 31878062,
+      "percentage": 15.351
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1690133,
+      "percentage": 0.8139
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Intan Alam Pertiwi",
+      "business_type": "Real Estate",
+      "total_assets": 10492551881,
+      "ownership_percentage": 80
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "148.474.481.155",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,86",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,36",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,09",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "19,01",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,69",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "3,36",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:16.379Z"
+}

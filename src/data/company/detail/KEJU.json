@@ -1,0 +1,269 @@
+{
+  "company_name": "PT Mulia Boga Raya Tbk",
+  "ticker": "KEJU",
+  "office_address": "Kawasan Bekasi International Industrial Estate Jalan Inti Raya II Blok C.7 No. 5-a Cibatu Cikarang Selatan - Bekasi",
+  "email": "corp.secretary@prochiz.co.id",
+  "phone": "021 – 8990 8468",
+  "fax": "021 – 8990 8485",
+  "tax_id": "02.589.590.5-431.00",
+  "website": "https://www.prochiz.com",
+  "listing_date": "2019-11-25",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri pengolahan produk dari susu lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 81,
+    "name": "Produk Susu Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Jeffry Halim",
+    "email": "corp.secretary@prochiz.co.id",
+    "phone": "021 - 38250172"
+  },
+  "directors": [
+    {
+      "name": "Indrasena Patmawidjaja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jeffry Halim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ari Sutanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Randy Rinaldi Chandra Suwita",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alamjit Singh Sekhon",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hardianto Atmadja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Paulus Tedjosutikno",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Robert Chandrakelana Adjie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jean-christophe Maurice Coubat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Maurits Daniel Rudolf Lalisang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Connie Ang",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Connie Ang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs. Anwar Effendi Tjan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Briliana Setyawitta Wardhani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Garudafood Putra Putri Jaya Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 3716642250,
+      "percentage": 66.07
+    },
+    {
+      "name": "Bel Sa",
+      "type": "Lebih dari 5%",
+      "shares": 1265668950,
+      "percentage": 22.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 606983949,
+      "percentage": 10.79
+    },
+    {
+      "name": "Hardianto Atmadja",
+      "type": "Komisaris",
+      "shares": 12909000,
+      "percentage": 0.23
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 7775700,
+      "percentage": 0.14
+    },
+    {
+      "name": "Paulus Tedjosutikno",
+      "type": "Komisaris",
+      "shares": 6454500,
+      "percentage": 0.11
+    },
+    {
+      "name": "Ari Sutanto",
+      "type": "Direksi",
+      "shares": 3819000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Robert Chandrakelana Adji",
+      "type": "Komisaris",
+      "shares": 2739750,
+      "percentage": 0.05
+    },
+    {
+      "name": "Indrasana Patmawidjaja",
+      "type": "Direksi",
+      "shares": 1699400,
+      "percentage": 0.03
+    },
+    {
+      "name": "Jeffry Halim",
+      "type": "Direksi",
+      "shares": 307500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    },
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis, & Rekan"
+    },
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.065.624.999.455",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,65",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,42",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,13",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "7,38",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,67",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "14,39",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:19.966Z"
+}

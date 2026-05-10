@@ -1,0 +1,199 @@
+{
+  "company_name": "Exploitasi Energi Indonesia Tbk",
+  "ticker": "CNKO",
+  "office_address": "Sinarmas Msig Tower, Lantai 9, Jl. Jendral Sudirman Kav.21, Setiabudi, Karet, Jakarta Selatan",
+  "email": "wim.andrian@energigroupindonesia.com",
+  "phone": "021-80511130 021-80511131 021-80511132 021-80511133",
+  "fax": "021-80511134",
+  "tax_id": "01.901.192.3-054.000",
+  "website": "https://www.energigroupindonesia.com",
+  "listing_date": "2001-11-20",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Penambangan Batubara",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Wim Andrian",
+    "email": "wim.andrian@energigroupindonesia.com",
+    "phone": "0212510604"
+  },
+  "directors": [
+    {
+      "name": "Robin Wirawan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sudarwanta",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Erry Indriyana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Pudjianto Gondosasmito",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djoko Sumaryono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edwin P Situmorang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Cahyo Suryo Putro",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Cahyo Suryo Putro",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sudimin Mina",
+      "position": "Anggota"
+    },
+    {
+      "name": "Limi Mulyanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4872896563,
+      "percentage": 54.4
+    },
+    {
+      "name": "Anderson Bay Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 4083459543,
+      "percentage": 45.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5100,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Energi Batubara Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 341632640,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Korporindo Guna Bara",
+      "business_type": "Pertambangan dan Perdagangan Batu Bara",
+      "total_assets": 41308535,
+      "ownership_percentage": 94.59
+    },
+    {
+      "name": "PT Abe Jaya Perkasa",
+      "business_type": "Pertambangan",
+      "total_assets": 34000848,
+      "ownership_percentage": 51.3
+    },
+    {
+      "name": "PT Trans Lintas Segara",
+      "business_type": "Jasa Pelayaran",
+      "total_assets": 11470201,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sekti Rahayu Indah",
+      "business_type": "Pertambangan dan Perdagangan Batu Bara",
+      "total_assets": 328997,
+      "ownership_percentage": 52
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "528.425.311.154",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "18,97",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,96",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "24,19",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "30,56",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "17,54",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,40",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:19.275Z"
+}

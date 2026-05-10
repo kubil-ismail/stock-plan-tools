@@ -1,0 +1,509 @@
+{
+  "company_name": "Erajaya Swasembada Tbk",
+  "ticker": "ERAA",
+  "office_address": "Jl. Gedong Panjang No. 29 - 31, Jakarta 11240",
+  "email": "dl-corsec@erajaya.com",
+  "phone": "021-6905050",
+  "fax": "021-69831225",
+  "tax_id": "01.802.172.5-054.000",
+  "website": "https://www.erajaya.com",
+  "listing_date": "2011-12-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Distribusi dan Pedagang Ritel Produk dan Layanan Komunikasi Selular dan penunjangnya",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Properti, Retail.",
+    "business_tags": [
+      "Teknologi",
+      "Properti",
+      "Retail"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "property",
+      "real estate",
+      "properti",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 89,
+    "name": "Ritel Elektronik",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Amelia Allen",
+    "email": "dl-corsec@erajaya.com",
+    "phone": "+62 21 690 5788"
+  },
+  "directors": [
+    {
+      "name": "Budiarto Halim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hasan Aula",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Joy Wahjudi",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sintawati Halim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sim Chee Ping",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Djohan Sutanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jong Woon Kim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Patrick Adhiatmadja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alexander Halim Kusuma",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Richard Halim Kusuma",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lim Bing Tjay",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "I Gusti Putu Suryawirawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Andreas Harun Djumadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Richard M. Harjani",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "I Gusti Putu Suryawirawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jhon Piter Halomoan Situmorang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Khoe Minhari Handikusuma",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Eralink International",
+      "type": "Lebih dari 5%",
+      "shares": 8800291400,
+      "percentage": 55.17
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6790250894,
+      "percentage": 42.57
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 307703122,
+      "percentage": 1.93
+    },
+    {
+      "name": "Sintawati Halim",
+      "type": "Direksi",
+      "shares": 10655315,
+      "percentage": 0.07
+    },
+    {
+      "name": "Budiarto Halim",
+      "type": "Direksi",
+      "shares": 8493306,
+      "percentage": 0.05
+    },
+    {
+      "name": "Hasan Aula",
+      "type": "Direksi",
+      "shares": 7741987,
+      "percentage": 0.05
+    },
+    {
+      "name": "Sim Chee Ping",
+      "type": "Direksi",
+      "shares": 7433425,
+      "percentage": 0.05
+    },
+    {
+      "name": "Richard Halim Kusuma",
+      "type": "Komisaris",
+      "shares": 6250000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Andreas Harun Djumadi",
+      "type": "Komisaris",
+      "shares": 6250000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Joy Wahjudi",
+      "type": "Direksi",
+      "shares": 1904507,
+      "percentage": 0.01
+    },
+    {
+      "name": "Jong Woon Kim",
+      "type": "Direksi",
+      "shares": 1156454,
+      "percentage": 0.01
+    },
+    {
+      "name": "Djohan Sutanto",
+      "type": "Direksi",
+      "shares": 1775590,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Patrick Adhiatmadja",
+      "type": "Direksi",
+      "shares": 94000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Erafone Artha Retailindo",
+      "business_type": "Retailer",
+      "total_assets": 7556485712,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Erafone Artha Retailindo",
+      "business_type": "Retailer",
+      "total_assets": 7184272965,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Erafone Artha Retailindo",
+      "business_type": "Retailer",
+      "total_assets": 6928213861,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Erafone Artha Retailindo",
+      "business_type": "Retailer",
+      "total_assets": 6893420501,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Erafone Artha Retailindo",
+      "business_type": "Retailer",
+      "total_assets": 6317049770,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Sinar Eka Selaras Tbk",
+      "business_type": "Distributor",
+      "total_assets": 2024581632,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sinar Eka Selaras Tbk",
+      "business_type": "Distributor",
+      "total_assets": 1954920590,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sinar Eka Selaras Tbk",
+      "business_type": "Distributor",
+      "total_assets": 1951027828,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sinar Eka Selaras",
+      "business_type": "Distributor",
+      "total_assets": 1890680812,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sinar Eka Selaras",
+      "business_type": "Distributor",
+      "total_assets": 1333601419,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Sukses Abadi",
+      "business_type": "Properti",
+      "total_assets": 480075349,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Sukses Abadi",
+      "business_type": "Properti",
+      "total_assets": 434584106,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Erajaya Holding Pte. Ltd.",
+      "business_type": "Importir & Eksportir",
+      "total_assets": 393228228,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Era Sukses Abadi",
+      "business_type": "Properti",
+      "total_assets": 392540155,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Erajaya Holding Pte. Ltd.",
+      "business_type": "Importir & Eksportir",
+      "total_assets": 389207695,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Erajaya Holding Pte. Ltd.",
+      "business_type": "Importir & Eksportir",
+      "total_assets": 387088238,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Era Sukses Abadi",
+      "business_type": "Properti",
+      "total_assets": 371158302,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Boga Nusantara",
+      "business_type": "Retailer",
+      "total_assets": 362209332,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Erajaya Holding Pte. Ltd.",
+      "business_type": "Importir & Eksportir",
+      "total_assets": 335923686,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Era Boga Nusantara",
+      "business_type": "Retailer",
+      "total_assets": 331448653,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Boga Nusantara",
+      "business_type": "Retailer",
+      "total_assets": 323233210,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Sukses Abadi",
+      "business_type": "Properti",
+      "total_assets": 322934565,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Boga Nusantara",
+      "business_type": "Retailer",
+      "total_assets": 278165810,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Boga Nusantara",
+      "business_type": "Retailer",
+      "total_assets": 252842804,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Prima Indonesia",
+      "business_type": "Distributor",
+      "total_assets": 133122955,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Prima Indonesia",
+      "business_type": "Distributor",
+      "total_assets": 113162800,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Prima Indonesia",
+      "business_type": "Distributor",
+      "total_assets": 110656162,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Prima Indonesia",
+      "business_type": "Distributor",
+      "total_assets": 108163117,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Prima Indonesia",
+      "business_type": "Distributor",
+      "total_assets": 106781182,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Azec Indonesia Management Services",
+      "business_type": "Sistem Informasi",
+      "total_assets": 65315837,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Azec Indonesia Management Services",
+      "business_type": "Sistem Informasi",
+      "total_assets": 57890527,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Azec Indonesia Management Services",
+      "business_type": "Sistem Informasi",
+      "total_assets": 30621129,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Azec Indonesia Management Services",
+      "business_type": "Sistem Informasi",
+      "total_assets": 30036703,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Azec Indonesia Management Services",
+      "business_type": "Sistem Informasi",
+      "total_assets": 27534438,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Erajaya Holding Pte. Ltd.",
+      "business_type": "Importir & Eksportir",
+      "total_assets": 10746778,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indonesia Orisinil Teknologi",
+      "business_type": "Retailer",
+      "total_assets": 1187505,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indonesia Orisinil Teknologi",
+      "business_type": "Retailer",
+      "total_assets": 1173408,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indonesia Orisinil Teknologi",
+      "business_type": "Retailer",
+      "total_assets": 1164521,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indonesia Orisinil Teknologi",
+      "business_type": "Retailer",
+      "total_assets": 1157826,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indonesia Orisinil Teknologi",
+      "business_type": "Retailer",
+      "total_assets": 1143034,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.539.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,64",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "5,14",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "24,11",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,93",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "1,46",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:32.889Z"
+}

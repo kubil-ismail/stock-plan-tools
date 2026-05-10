@@ -1,0 +1,254 @@
+{
+  "company_name": "Hexindo Adiperkasa Tbk",
+  "ticker": "HEXA",
+  "office_address": "Jl. Pulo Kambing II Kav I & II /33, Jatinegara, Jatinegara, Cakung, Kota Adm. Jakarta Timur, Dki Jakarta, 13930",
+  "email": "corporate@hexindo-tbk.co.id",
+  "phone": "021-4611688",
+  "fax": "021-4611686",
+  "tax_id": "001.385.957.4-091.000",
+  "website": "https://www.hexindo-tbk.co.id",
+  "listing_date": "1995-02-13",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan Alat Berat",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Otomotif.",
+    "business_tags": [
+      "Konstruksi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 47,
+    "name": "Mesin Konstruksi & Kendaraan Berat",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Listiana A Kurniawati",
+    "email": "listiana@hexindo-tbk.co.id",
+    "phone": "(021) 4611688"
+  },
+  "directors": [
+    {
+      "name": "Yasumasa Zaizen",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nobuyasu Hagiwara",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Teru Karahashi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Akihiro Yoshida",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dwi Swasono",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ryoji Tanaka",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hiroki Majima",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yoshendri",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Harry Danui",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs Toto Wahyudiyanto",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harry Danui",
+      "position": "Ketua"
+    },
+    {
+      "name": "Junarto Tjahjadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bambang Dewandaru",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hitachi Construction Machinery Co. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 408180000,
+      "percentage": 48.59
+    },
+    {
+      "name": "Itochu Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 210400000,
+      "percentage": 25.05
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 171678000,
+      "percentage": 20.44
+    },
+    {
+      "name": "Hitachi Construction Machinery Asia And Pacific",
+      "type": "Lebih dari 5%",
+      "shares": 42620000,
+      "percentage": 5.07
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 7122000,
+      "percentage": 0.85
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yasumasa Zaizen",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nobuyasu Hagiwara",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Teru Karahashi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Akihiro Yoshida",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yoshendri",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dwi Swasono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hiroki Majima",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ryoji Tanaka",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Harry Danui",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Toto Wahyudiyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.729.600.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,67",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,19",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "2,58",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "3,82",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,03",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "4,14",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:38.296Z"
+}

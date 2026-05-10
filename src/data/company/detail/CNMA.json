@@ -1,0 +1,295 @@
+{
+  "company_name": "PT Nusantara Sejahtera Raya Tbk",
+  "ticker": "CNMA",
+  "office_address": "Jl. Kh Wahid Hasyim No. 96-a Jakarta Pusat 10340",
+  "email": "investor.relations@nsr.co.id",
+  "phone": "(021) 31901188",
+  "fax": "(021) 31901144",
+  "tax_id": "01.331.456.2-073.000",
+  "website": "https://www.cinema21.co.id",
+  "listing_date": "2023-08-02",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bioskop dan Restoran",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 20,
+    "name": "Fasilitas Rekreasi & Olah Raga",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Indah Tri Wahyuni",
+    "email": "corporate.secretary@nsr.co.id",
+    "phone": "02131901188"
+  },
+  "directors": [
+    {
+      "name": "Suryo Suherman",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Arif Suherman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tri Rudy Anitio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dody Suhartono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Ongki Wanadjati Dana",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Melia Suherman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Harris Lasmana",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sacheen Harris Lasmana",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edwin Surya Winarta",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ariani Vidya Sofjan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mohammad Noor Rachman Soejoeti",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fitradewata Teramihardja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sammy Ts Lalamentik",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Harkatjaya Bumipersada",
+      "type": "Lebih dari 5%",
+      "shares": 45900000000,
+      "percentage": 55.072
+    },
+    {
+      "name": "Salween Investment Private Limited",
+      "type": "Lebih dari 5%",
+      "shares": 19135200000,
+      "percentage": 22.959
+    },
+    {
+      "name": "PT Adi Pratama Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 11475000000,
+      "percentage": 13.768
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6767643591,
+      "percentage": 8.1206
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 65075711,
+      "percentage": 0.078
+    },
+    {
+      "name": "Edwin Surya Winarta",
+      "type": "Komisaris",
+      "shares": 2080698,
+      "percentage": 0.0024
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Lestari Mutra Sembada",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 705285,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Lia Anugrah Semesta",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 110376,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Intra Mandiri",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 102036,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kharisma Maju Abadi",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 88470,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Pan Mitra Sembada",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 82195,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Nusantara Elang Sejahtera",
+      "business_type": "Penyediaan Platform Tiket Online",
+      "total_assets": 63566,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Sekar Saridana",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 46630,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kartika Insani Raya",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 27098,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sanggar Usaha Mandiri",
+      "business_type": "Penyewaan Tanah",
+      "total_assets": 26904,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gading Adi Permai",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 19772,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Prima Mandala",
+      "business_type": "Industri Bioskop dan Penyediaan Makanan dan Minuman",
+      "total_assets": 5061,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.667.880.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,82",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,34",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "12,93",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "35,67",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,94",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "16,53",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:20.135Z"
+}

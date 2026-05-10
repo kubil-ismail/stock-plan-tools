@@ -1,0 +1,346 @@
+{
+  "company_name": "PT Pollux Hotels Group Tbk",
+  "ticker": "POLI",
+  "office_address": "Paragon Mall Lantai 4, Jl. Pemuda No. 118 Semarang 50132, Jawa Tengah, Indonesia",
+  "email": "corporate.secretary@pollux.co.id",
+  "phone": "(024) 3562111",
+  "fax": "(024) 86579272",
+  "tax_id": "02.914.421.9-012.000",
+  "website": "http://polluxinvestments.com",
+  "listing_date": "2019-01-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Menjalankan usaha dalam bidang properti dan real estate baik secara langsung maupun melalui penyertaan saham pada Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Rangga Satrio Utomo",
+    "email": "corporate.secretary@pollux.co.id",
+    "phone": "(021) 29183111"
+  },
+  "directors": [
+    {
+      "name": "Handojo Koentoro Setyadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Aswin Desmonda Rosidi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Teny Siti Febryani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jang Ronny Yuwono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Brian Praneda",
+      "position": "Ketua"
+    },
+    {
+      "name": "Albert Christo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irena Lady Soemarlim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Po Sun Kok",
+      "type": "Lebih dari 5%",
+      "shares": 1145000000,
+      "percentage": 56.95
+    },
+    {
+      "name": "PT Pollux Properti Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 462421100,
+      "percentage": 23
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 402105300,
+      "percentage": 20
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1000000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cakrawala Sakti Kencana",
+      "business_type": "Pembangunan,pengelolaan dan Penyewaan Gedung,perkantoran, Mall, Hotel,ruko, dan Taman Hiburan/ Construction,management And Rental Of Buildings, Offices,malls, Hotels, Shophouses, And Amusement Parks",
+      "total_assets": 1501219383446,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cemerlang Sentosa Mulia",
+      "business_type": "Investasi Penyertaan Saham Langsung",
+      "total_assets": 1153753311456,
+      "ownership_percentage": 99.09
+    },
+    {
+      "name": "PT Bumi Wardana",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 370719469243,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adil Berkat Sentosa",
+      "business_type": "Investasi Penyertaan Saham Langsung",
+      "total_assets": 295651780836,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Pasifik Kencana",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 225764711989,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Duta Megah Laksana",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 225633415117,
+      "ownership_percentage": 52.13
+    },
+    {
+      "name": "PT Pahala Agung",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 212534991884,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Siliwangi Bimantara Perdana",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 192817437132,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Graha Masindo Pratama",
+      "business_type": "Pembangunan, Perhotelan, dan Pengelola Apartemen",
+      "total_assets": 186717416824,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Scotia Sentosa Indonesia",
+      "business_type": "Konstruksi dan Real Estat",
+      "total_assets": 77957126031,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Morindo Masindo",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 66437734365,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sino Propertindo Internasional",
+      "business_type": "Perhotelan",
+      "total_assets": 59067818790,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Graha Satu Tiga Tujuh",
+      "business_type": "Pembangunan, Perhotelan, dan Pengelola Apartemen",
+      "total_assets": 50832748507,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Besen Citra Permata",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 35546924025,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wisma Sembilan Delapan",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 27142417715,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bawen Investama Perdana",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 18499422979,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pasifik Masindo",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 14395322100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Widya Bhakti",
+      "business_type": "Manajemen Properti dan Pembangunan",
+      "total_assets": 11408349487,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pasifik Oriental Masindo",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 10509972047,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cakrawala Bhayangkara Perdana",
+      "business_type": "Manajemen Properti dan Pembangunan/property Management And Development",
+      "total_assets": 2142375067,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mataram Gemilang Abadi",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 962090909,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Royal Phantom Properties",
+      "business_type": "Perhotelan",
+      "total_assets": 20228194,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aman Berkat Cemerlang",
+      "business_type": "Konstruksi, Penyediaan Akomodasi, Penyediaan Makan Minum dan Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Batam Bintang Bahana",
+      "business_type": "Konstruksi, Penyediaan Akomodasi, Penyediaan Makan Minum dan Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.362.368.520.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,17",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,17",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "48,03",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "50,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "36,36",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:45.445Z"
+}

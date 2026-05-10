@@ -1,0 +1,251 @@
+{
+  "company_name": "PT Gunung Raja Paksi Tbk.",
+  "ticker": "GGRP",
+  "office_address": "Jalan Perjuangan Kp. Tangsi No. 8, Rt004/rw006 Sukadanau Cikarang Barat Kabupaten Bekasi Jawa Barat",
+  "email": "corsec@gunungsteel.com",
+  "phone": "(021) 890 0111",
+  "fax": "(021) 890 0555",
+  "tax_id": "01.509.224.0-431.000",
+  "website": "https://www.gunungrajapaksi.com",
+  "listing_date": "2019-09-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Baja",
+    "business_summary": "Perusahaan bergerak di bidang Baja & Besi.",
+    "business_tags": [
+      "Baja & Besi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Harianto",
+    "email": "harianto.fang@gunungsteel.com",
+    "phone": "0218900111"
+  },
+  "directors": [
+    {
+      "name": "Siti Humayah",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "A. Ambar Kuntjoro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ivan Widjaksono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "William Taniwan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Milian",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Siumin Lie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edward Hasan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dikdik Sugiharto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sahat Tamba, S.h",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bapak Dikdik Sugiharto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bapak Kurniadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ibu Dewi Julianti Wijaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Apollo Visintama Putra",
+      "type": "Lebih dari 5%",
+      "shares": 2850189207,
+      "percentage": 23.5332
+    },
+    {
+      "name": "Kamaruddin",
+      "type": "Lebih dari 5%",
+      "shares": 2506975643,
+      "percentage": 20.6993
+    },
+    {
+      "name": "Dr. Chairuddin",
+      "type": "Lebih dari 5%",
+      "shares": 2427345035,
+      "percentage": 20.0419
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1174298600,
+      "percentage": 9.6958
+    },
+    {
+      "name": "Suliana Taniwan",
+      "type": "Lebih dari 5%",
+      "shares": 1144638936,
+      "percentage": 9.4509
+    },
+    {
+      "name": "Fihahati Taniwan",
+      "type": "Lebih dari 5%",
+      "shares": 1088048736,
+      "percentage": 8.9837
+    },
+    {
+      "name": "Richie Leroy Hasan",
+      "type": "Lebih dari 5%",
+      "shares": 459930000,
+      "percentage": 3.7975
+    },
+    {
+      "name": "Edward Hasan",
+      "type": "Komisaris",
+      "shares": 459930000,
+      "percentage": 3.7975
+    },
+    {
+      "name": "Djamaluddin Tanoto",
+      "type": "Lebih dari 5%",
+      "shares": 20000,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Harianto",
+      "type": "Direksi",
+      "shares": 2500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Gunung Steel (shanghai) Co.,ltd",
+      "business_type": "Kantor Perwakilan",
+      "total_assets": 185649,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.488.076.333.216",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,07",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,33",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "45,10",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "52,58",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,33",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "2,07",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:02.749Z"
+}

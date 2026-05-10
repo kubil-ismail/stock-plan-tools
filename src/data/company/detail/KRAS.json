@@ -1,0 +1,438 @@
+{
+  "company_name": "Krakatau Steel (persero) Tbk",
+  "ticker": "KRAS",
+  "office_address": "Jl. Industri No. 5 Po Box 14 Cilegon Banten 42435",
+  "email": "corsec@krakatausteel.com",
+  "phone": "(021) 5221255",
+  "fax": "(021) 5200876",
+  "tax_id": "01.000.054.5-051.000",
+  "website": "https://www.krakatausteel.com",
+  "listing_date": "2010-11-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Baja",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Fedaus",
+    "email": "fedaus@krakatausteel.com",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Muhamad Akbar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Fitzgerald Liman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hernowo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suryantoro Waluyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sidik Darusulistyo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hendro Martowardojo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Setia Diarta",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Adityo Haryo Bimo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "David Pajung",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wilgo Zainar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Willgo Zainar",
+      "position": "Ketua"
+    },
+    {
+      "name": "David Pajung",
+      "position": "Anggota"
+    },
+    {
+      "name": "Djadja Sukirman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bea Rejeki Tirtadewi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management",
+      "type": "Lebih dari 5%",
+      "shares": 15322346345,
+      "percentage": 79
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 3869279380,
+      "percentage": 20
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 154771175,
+      "percentage": 1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendro Martowardojo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Pajung",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Willgo Zainar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adityo Haryo Bimo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Setia Diarta",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhamad Akbar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suryantoro Waluyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Daniel Fitzgerald Liman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hernowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sidik Darusulistyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Krakatau Sarana Infrastruktur",
+      "business_type": "Industri Real Estat dan Perhotelan",
+      "total_assets": 780557,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Sarana Infrastruktur (subholding)",
+      "business_type": "Properti Industri, Komersial dan Hunian Industri",
+      "total_assets": 664003,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Sarana Infrastruktur (subholding)",
+      "business_type": "Properti Industri, Komersial dan Hunian Industri",
+      "total_assets": 647892,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Sarana Infrastruktur (subholding)",
+      "business_type": "Properti Industri, Komersial dan Hunian Industri",
+      "total_assets": 647892,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Sarana Infrastruktur (subholding)",
+      "business_type": "Properti Industri, Komersial dan Hunian Industri",
+      "total_assets": 621881,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Sarana Infrastruktur (subholding)",
+      "business_type": "Properti Industri, Komersial dan Hunian Industri",
+      "total_assets": 608054,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Konstruksi (subholding)",
+      "business_type": "Manufaktur Baja Profil, Baja Tulangan, Pipa Baja, Serta Perdagangan Hasil Tambang dan Produk Besi dan Baja",
+      "total_assets": 275420,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Konstruksi (subholding)",
+      "business_type": "Manufaktur Baja Profil, Baja Tulangan, Pipa Baja, Serta Perdagangan Hasil Tambang dan Produk Besi dan Baja",
+      "total_assets": 266922,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Konstruksi (subholding)",
+      "business_type": "Manufaktur Baja Profil, Baja Tulangan, Pipa Baja, Serta Perdagangan Hasil Tambang dan Produk Besi dan Baja",
+      "total_assets": 266922,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Konstruksi",
+      "business_type": "Manufaktur Baja Profil dan Tulangan, Baja Pipa, dan Perdagangan Baja",
+      "total_assets": 265044,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Konstruksi (subholding)",
+      "business_type": "Manufaktur Baja Profil, Baja Tulangan, Pipa Baja, Serta Perdagangan Hasil Tambang dan Produk Besi dan Baja",
+      "total_assets": 261535,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Konstruksi (subholding)",
+      "business_type": "Manufaktur Baja Profil, Baja Tulangan, Pipa Baja, Serta Perdagangan Hasil Tambang dan Produk Besi dan Baja",
+      "total_assets": 252668,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Industri",
+      "business_type": "Manufaktur Baja Lembaran",
+      "total_assets": 136386,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Industri (subholding)",
+      "business_type": "Manufaktur Baja Lembaran",
+      "total_assets": 109464,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Industri (subholding)",
+      "business_type": "Manufaktur Baja Lembaran",
+      "total_assets": 109464,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Industri (subholding)",
+      "business_type": "Manufaktur Baja Lembaran",
+      "total_assets": 107946,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Industri (subholding)",
+      "business_type": "Manufaktur Baja Lembaran",
+      "total_assets": 100661,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Baja Industri (subholding)",
+      "business_type": "Manufaktur Baja Lembaran",
+      "total_assets": 99229,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Engineering",
+      "business_type": "Rekayasa dan Konstruksi",
+      "total_assets": 39622,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Engineering",
+      "business_type": "Rekayasa dan Konstruksi",
+      "total_assets": 9012,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Engineering",
+      "business_type": "Rekayasa dan Konstruksi",
+      "total_assets": 8578,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Engineering",
+      "business_type": "Rekayasa dan Konstruksi",
+      "total_assets": 8578,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Engineering",
+      "business_type": "Rekayasa dan Konstruksi",
+      "total_assets": 8571,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Krakatau Engineering",
+      "business_type": "Rekayasa dan Konstruksi",
+      "total_assets": 8092,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Meratus Jaya Iron & Steel",
+      "business_type": "Industri dan Produksi Besi Sponge Serta Perdagangan",
+      "total_assets": 216,
+      "ownership_percentage": 66
+    },
+    {
+      "name": "PT Meratus Jaya Iron & Steel",
+      "business_type": "Industri dan Produksi Besi Sponge Serta Perdagangan",
+      "total_assets": 160,
+      "ownership_percentage": 66
+    },
+    {
+      "name": "PT Meratus Jaya Iron & Steel",
+      "business_type": "Industri dan Produksi Besi Sponge Serta Perdagangan",
+      "total_assets": 157,
+      "ownership_percentage": 66
+    },
+    {
+      "name": "PT Meratus Jaya Iron & Steel",
+      "business_type": "Manufaktur Besi dan Baja",
+      "total_assets": 130,
+      "ownership_percentage": 66
+    },
+    {
+      "name": "PT Meratus Jaya Iron & Steel",
+      "business_type": "Industri dan Produksi Besi Sponge Serta Perdagangan",
+      "total_assets": 66,
+      "ownership_percentage": 66
+    },
+    {
+      "name": "PT Meratus Jaya Iron & Steel",
+      "business_type": "Industri dan Produksi Besi Sponge Serta Perdagangan",
+      "total_assets": 66,
+      "ownership_percentage": 66
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.610.455.101.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,80",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,26",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "20,57",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "120,63",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,11",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "18,24",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:43.651Z"
+}

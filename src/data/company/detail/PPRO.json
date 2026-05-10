@@ -1,0 +1,286 @@
+{
+  "company_name": "PT Pp Properti Tbk.",
+  "ticker": "PPRO",
+  "office_address": "Plaza Pp – Gedung Wisma Subiyanto, Lantai 2 Jl. Letjend Tb. Simatupang No. 57 Pasar Rebo Jakarta 13760",
+  "email": "investor.relations@pp-properti.com",
+  "phone": "(021) 8779 2734",
+  "fax": "(021) 8415 606",
+  "tax_id": "03.276.313.8-093.000",
+  "website": "https://www.pp-properti.com",
+  "listing_date": "2015-05-19",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Dyah Novian Tri Hadini",
+    "email": "investor.relations@pp-properti.com",
+    "phone": "(021) - 8779 2734"
+  },
+  "directors": [
+    {
+      "name": "Dyah Rahadyannie",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ikhwan Putra Pradhana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nurjaman Sastrawijaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fakhrul Ulum",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ronaldy Samuel Sinurat",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Abdul Rahman",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Abdul Rahman",
+      "position": "Ketua"
+    },
+    {
+      "name": "M. Andi Mubarok",
+      "position": "Anggota"
+    },
+    {
+      "name": "Redo Harina Hutama",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pp (persero) Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 40063119098,
+      "percentage": 64.96
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 12984246979,
+      "percentage": 21.05
+    },
+    {
+      "name": "PT Asuransi Jiwa Ifg",
+      "type": "Lebih dari 5%",
+      "shares": 5281299407,
+      "percentage": 8.56
+    },
+    {
+      "name": "PT Asabri (persero) Dapen Polri",
+      "type": "Lebih dari 5%",
+      "shares": 3346819399,
+      "percentage": 5.43
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dyah Rahadyannie",
+      "type": "Direksi",
+      "shares": 1300,
+      "percentage": 0
+    },
+    {
+      "name": "Fakhrul Ulum",
+      "type": "Komisaris",
+      "shares": 184900,
+      "percentage": 0
+    },
+    {
+      "name": "Nurjaman",
+      "type": "Direksi",
+      "shares": 800,
+      "percentage": 0
+    },
+    {
+      "name": "Ikhwan Putra Pradhana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ronaldy Samuel Sinurat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Abdul Rahman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Hasta Kreasimandiri",
+      "business_type": "Realti dan Properti",
+      "total_assets": 837585323959,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ppro Sampurna Jaya",
+      "business_type": "Realti dan Properti",
+      "total_assets": 753602575685,
+      "ownership_percentage": 77.14
+    },
+    {
+      "name": "PT Pp Properti Suramadu",
+      "business_type": "Realti dan Properti",
+      "total_assets": 578233280442,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Pp Properti Jababeka Residen",
+      "business_type": "Realti dan Properti",
+      "total_assets": 400792036332,
+      "ownership_percentage": 52.6
+    },
+    {
+      "name": "PT Ppro Bijb Aerocity Development",
+      "business_type": "Realti dan Properti",
+      "total_assets": 390014315215,
+      "ownership_percentage": 68.3
+    },
+    {
+      "name": "PT Wisma Seratus Sejahtera",
+      "business_type": "Realti dan Properti",
+      "total_assets": 334966186103,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Gitanusa Sarana Niaga",
+      "business_type": "Realti dan Properti",
+      "total_assets": 305016733389,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pekanbaru Permai Propertindo",
+      "business_type": "Realti dan Properti",
+      "total_assets": 290060393709,
+      "ownership_percentage": 97.5
+    },
+    {
+      "name": "PT Grahaprima Realtindo",
+      "business_type": "Realti dan Properti",
+      "total_assets": 86984478202,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Limasland Realti Cilegon",
+      "business_type": "Realti dan Properti",
+      "total_assets": 81217329849,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.295.189.109.543",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "26,92",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,52",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,52",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "9,52",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "9,52",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,52",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:55.731Z"
+}

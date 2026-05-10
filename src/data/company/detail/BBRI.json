@@ -1,0 +1,406 @@
+{
+  "company_name": "PT Bank Rakyat Indonesia (persero) Tbk",
+  "ticker": "BBRI",
+  "office_address": "Gedung Bri I Jl. Jenderal Sudirman Kav.44-46, Jakarta Pusat 10210",
+  "email": "humas@bri.co.id; corsec@bri.co.id",
+  "phone": "021 - 575 1966",
+  "fax": "021 - 5752010; 5700916",
+  "tax_id": "0010016087093000",
+  "website": "https://www.bri.co.id",
+  "listing_date": "2003-11-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Dhanny",
+    "email": "humas@bri.co.id, ir@bri.co.id, corsec@bri.co.id",
+    "phone": "021 - 575 1966"
+  },
+  "directors": [
+    {
+      "name": "Viviana Dyah Ayu Retno",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hery Gunardi",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hakim Putratama",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Riko Tasmaya",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Aquarius Rudianto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Farida Thamrin",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Akhmad Purwakajaya",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Alexander Dippo Paris Y S",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Saladin Dharma Nugraha Effendi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mahdi Yusuf",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Aris Hartanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Achmad Royadi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ety Yuniarti",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kartika Wirjoatmodjo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Awan Nurmawan Nuh",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Parman Nataatmadja",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Helvi Yuni Moraza",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edi Susianto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lukmanul Khakim",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Edi Susianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Parman Nataatmadja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Loethano Boy Meizardi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maria Ulpah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management",
+      "type": "Lebih dari 5%",
+      "shares": 79804867107,
+      "percentage": 52.656
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 69946117574,
+      "percentage": 46.151
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 984073900,
+      "percentage": 0.649
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 815096825,
+      "percentage": 0.5382
+    },
+    {
+      "name": "Viviana Dyah Ayu Retno Kumalasari",
+      "type": "Direksi",
+      "shares": 3819500,
+      "percentage": 0.0025
+    },
+    {
+      "name": "Kartika Wirjoatmodjo",
+      "type": "Komisaris",
+      "shares": 1678000,
+      "percentage": 0.0011
+    },
+    {
+      "name": "Achmad Royadi",
+      "type": "Direksi",
+      "shares": 1215672,
+      "percentage": 0.0008
+    },
+    {
+      "name": "Awan Nurmawan Nuh",
+      "type": "Komisaris",
+      "shares": 712500,
+      "percentage": 0.0005
+    },
+    {
+      "name": "Hery Gunardi",
+      "type": "Direksi",
+      "shares": 435000,
+      "percentage": 0.0003
+    },
+    {
+      "name": "Aris Hartanto",
+      "type": "Direksi",
+      "shares": 430964,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Ety Yuniarti",
+      "type": "Direksi",
+      "shares": 291262,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Akhmad Purwakajaya",
+      "type": "Direksi",
+      "shares": 243500,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Lukmanul Khakim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mahdi Yusuf",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hakim Putratama",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Riko Adythia (riko Tasmaya)",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aquarius Rudianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Farida Thamrin",
+      "type": "Direksi",
+      "shares": 19800,
+      "percentage": 0
+    },
+    {
+      "name": "Alexander Dippo Paris Y.s",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saladin Dharma Nugraha Effendi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Parman Nataatmadja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Helvi Yuni Moraza",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edi Susianto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pegadaian",
+      "business_type": "Perusahaan Pembiayaan",
+      "total_assets": 128853129,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permodalan Nasional Madani (pnm)",
+      "business_type": "Perusahaan Pembiayaan",
+      "total_assets": 55736874,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Asuransi Bri Life (bri Life)",
+      "business_type": "Asuransi",
+      "total_assets": 27596293,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bank Raya Indonesia Tbk (bank Raya)",
+      "business_type": "Perbankan",
+      "total_assets": 13632029,
+      "ownership_percentage": 86.85
+    },
+    {
+      "name": "PT Bri Asuransi Indonesia (bri Insurance)",
+      "business_type": "Asuransi",
+      "total_assets": 8345163,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bri Multifinance Indonesia (bri Finance)",
+      "business_type": "Perusahaan Pembiayaan",
+      "total_assets": 5999073,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Bri Ventura Investama (bri Ventures)",
+      "business_type": "Perusahaan Modal Ventura",
+      "total_assets": 2493007,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Bri Danareksa Sekuritas (brids)",
+      "business_type": "Perusahaan Sekuritas",
+      "total_assets": 1465853,
+      "ownership_percentage": 67
+    },
+    {
+      "name": "PT Bri Manajemen Investasi (bri-mi)",
+      "business_type": "Pengelolaan Portofolio Investasi",
+      "total_assets": 361155,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "Bri Global Financial Services Co.ltd (bri Remittance)",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 59853,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "448.629.800.645.130",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,83",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "13,76",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "18,09",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "15,10",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,24",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "10,44",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:20.763Z"
+}

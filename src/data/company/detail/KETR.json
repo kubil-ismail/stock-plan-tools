@@ -1,0 +1,286 @@
+{
+  "company_name": "PT Ketrosden Triasmitra Tbk",
+  "ticker": "KETR",
+  "office_address": "Gedung Meta Epsi Lantai 2 Jl. Mayjend d.i. Panjaitan Kav. 2, Jakarta Timur",
+  "email": "hq@triasmitra.com",
+  "phone": "(021) 22085100",
+  "fax": "(021) 22085151",
+  "tax_id": "01.674.225.6-015.000",
+  "website": "https://www.triasmitra.com",
+  "listing_date": "2021-01-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembangunan, penjualan dan pemeliharaan jaringan telekomunikasi kabel serat optik",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 16,
+    "name": "Jasa Telekomunikasi"
+  },
+  "sub_industry": {
+    "id": 33,
+    "name": "Jasa Telekomunikasi Kabel",
+    "industries_id": 16
+  },
+  "corporate_secretary": {
+    "name": "Ikhsan Triyanto",
+    "email": "ikhsan.triyanto@triasmitra.com",
+    "phone": "087888881072"
+  },
+  "directors": [
+    {
+      "name": "Titus Dondi Patria Arnabaju",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Vidcy Octory",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dani Samsul Ependi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nelly Henry",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "P Sartono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nelly Henry",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agung Sampurna",
+      "position": "Anggota"
+    },
+    {
+      "name": "Darwin Wijaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Fajar Sejahtera Mandiri Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 1606165931,
+      "percentage": 56.53
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 857396696,
+      "percentage": 30.17
+    },
+    {
+      "name": "PT Gema Lintas Benua",
+      "type": "Lebih dari 5%",
+      "shares": 349385787,
+      "percentage": 12.3
+    },
+    {
+      "name": "Petrus Sartono",
+      "type": "Komisaris",
+      "shares": 28313624,
+      "percentage": 1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Titus Dondi Patria Arnabaju",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dani Samsul Ependi, Se",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Vidcy Octory",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nelly Henry",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Triasmitra Multiniaga Internasional",
+      "business_type": "Pemeliharaan dan Pengelolaan Kabel",
+      "total_assets": 1350295272943,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Jejaring Mitra Persada",
+      "business_type": "Pengembangan Jaringan Kabel Serat Optik",
+      "total_assets": 1265621642174,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Triasmitra Cornerstone Indonesia",
+      "business_type": "Konstruksi Jaringan, Saluran Elektrikal dan Telekomunikasi Lainnya",
+      "total_assets": 6976670574,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.420.631.419.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "40,93",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,16",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "43,75",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "187,50",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "19,29",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "47,25",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:20.870Z"
+}

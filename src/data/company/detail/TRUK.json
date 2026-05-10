@@ -1,0 +1,241 @@
+{
+  "company_name": "PT Guna Timur Raya Tbk.",
+  "ticker": "TRUK",
+  "office_address": "Jl. R.e. Martadinata No. 8, Blok A1, Ancol – Jakarta 14430",
+  "email": "budi.gunawan@gunatimurraya.com",
+  "phone": "(021) 6910618",
+  "fax": "(021) 6910926",
+  "tax_id": "01.309.407.3-044.000",
+  "website": "https://www.gunatimurraya.com",
+  "listing_date": "2018-05-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di bidang jasa pengurusan transportasi (freight forwarding)",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Sri Lestari",
+    "email": "corsec@gunatimurraya.com",
+    "phone": "(021) 6910394, 6910618"
+  },
+  "directors": [
+    {
+      "name": "Budi Gunawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Memen Adiwijaya Kusumah",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Carolina Kusuma",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Noer Syamsuddin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Noer Syamsuddin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yulia Astuti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Octavia Endria Fatriana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 129765300,
+      "percentage": 29.83
+    },
+    {
+      "name": "PT Guna Makmur Raya",
+      "type": "Lebih dari 5%",
+      "shares": 109484700,
+      "percentage": 25.17
+    },
+    {
+      "name": "Catur Dharma Anugerah Surya, PT",
+      "type": "Lebih dari 5%",
+      "shares": 87000000,
+      "percentage": 20
+    },
+    {
+      "name": "Suwito",
+      "type": "Lebih dari 5%",
+      "shares": 21750000,
+      "percentage": 5
+    },
+    {
+      "name": "Suminto Husin Giman",
+      "type": "Lebih dari 5%",
+      "shares": 21750000,
+      "percentage": 5
+    },
+    {
+      "name": "Suganto Gunawan",
+      "type": "Lebih dari 5%",
+      "shares": 21750000,
+      "percentage": 5
+    },
+    {
+      "name": "Budi Gunawan",
+      "type": "Direksi",
+      "shares": 21750000,
+      "percentage": 5
+    },
+    {
+      "name": "Carolina Kusuma",
+      "type": "Komisaris",
+      "shares": 21750000,
+      "percentage": 5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Guna Artha Logistik",
+      "business_type": "Jasa Pengurusan Transportasi (freight Forwarding)",
+      "total_assets": 4757868297,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "239.250.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,44",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "39,95",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "44,66",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "351,75",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,74",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "8,85",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:02.454Z"
+}

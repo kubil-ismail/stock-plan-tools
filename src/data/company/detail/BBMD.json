@@ -1,0 +1,210 @@
+{
+  "company_name": "PT Bank Mestika Dharma Tbk.",
+  "ticker": "BBMD",
+  "office_address": "Jl. H. Zainul Arifin No. 118, Medan",
+  "email": "corsec@bankmestika.co.id",
+  "phone": "061-4525800",
+  "fax": "061-4527324",
+  "tax_id": "01.100.435.5-123.000",
+  "website": "https://www.bankmestika.com",
+  "listing_date": "2013-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Suharto Kurniawan",
+    "email": "corsec@bankmestika.co.id",
+    "phone": "061-4525800"
+  },
+  "directors": [
+    {
+      "name": "Achmad Suherman Kartasasmita",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Halim",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andy",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Harun Ansari",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Yusri Hadi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Gardjito Heru",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Indra Halim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Katio",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gardjito Heru",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rusdy Usman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Kiki Farida Ferine",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mestika Benua Mas",
+      "type": "Lebih dari 5%",
+      "shares": 3658020000,
+      "percentage": 89.44
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 369426000,
+      "percentage": 9.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 60965400,
+      "percentage": 1.49
+    },
+    {
+      "name": "Achmad S Kartasasmita",
+      "type": "Direksi",
+      "shares": 436300,
+      "percentage": 0.01
+    },
+    {
+      "name": "Hendra Halim",
+      "type": "Direksi",
+      "shares": 425400,
+      "percentage": 0.01
+    },
+    {
+      "name": "Andy",
+      "type": "Direksi",
+      "shares": 261100,
+      "percentage": 0.006
+    },
+    {
+      "name": "Yusri Hadi",
+      "type": "Direksi",
+      "shares": 243500,
+      "percentage": 0.006
+    },
+    {
+      "name": "Harun Ansari",
+      "type": "Direksi",
+      "shares": 184700,
+      "percentage": 0.005
+    },
+    {
+      "name": "Indra Halim",
+      "type": "Komisaris",
+      "shares": 127600,
+      "percentage": 0.003
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Mestika Dharma Tbk",
+      "business_type": "Perbankan",
+      "total_assets": 16577960829786,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.057.886.309.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,63",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,25",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "2,44",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "8,26",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,44",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "2,44",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:18.669Z"
+}

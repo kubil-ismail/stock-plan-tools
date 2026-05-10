@@ -1,0 +1,228 @@
+{
+  "company_name": "PT Esta Indonesia Tbk",
+  "ticker": "NEST",
+  "office_address": "Terboyo Industri Ii/2, Terboyo Megah Industri, Semarang 50112 - Indonesia",
+  "email": "corsec@estaindonesia.co.id",
+  "phone": "+62 24 658 2804",
+  "fax": "+62 24 658 2806",
+  "tax_id": "01.960.951.0-505.000",
+  "website": "https://www.estaindonesia.co.id",
+  "listing_date": "2024-08-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Pembibitan dan Budidaya Burung Walet dan Perdagangan Besar Sarang Burung Walet",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Shannon Lorelei Wibowo",
+    "email": "corsec@estaindonesia.co.id",
+    "phone": "081252245577"
+  },
+  "directors": [
+    {
+      "name": "Hoo, Anton Siswanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Nurul Rahmawati",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Dian Rochayati Sri Utami",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ira Ratna Sari",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Johan Prasetyo Santoso",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Oei Wenny Kusumawati",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Condro Kirono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Condro Kirono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Budi Yatno",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rohadi Hartawidjaja, Sh",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hoo, Anton Siswanto",
+      "type": "Direksi",
+      "shares": 3310246700,
+      "percentage": 80.49
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 595912500,
+      "percentage": 14.49
+    },
+    {
+      "name": "Xiamen Yan Palace Bird's Nest Industry Co Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 205625000,
+      "percentage": 5
+    },
+    {
+      "name": "Nurul Rahmawati",
+      "type": "Direksi",
+      "shares": 354500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Dian Rochayati Sri Utami",
+      "type": "Direksi",
+      "shares": 355800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ira Ratna Sari",
+      "type": "Direksi",
+      "shares": 5500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tunas Esta Indonesia",
+      "business_type": "Pembibitan dan Budidaya Burung Walet dan Perdagangan Besar Hasil Pertanian dan Hewan Hidup Lainnya",
+      "total_assets": 39364614468,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.760.150.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "49,69",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "25,77",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "34,81",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "51,55",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "13,49",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "41,04",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:39.675Z"
+}

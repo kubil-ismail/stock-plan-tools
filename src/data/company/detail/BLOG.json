@@ -1,0 +1,234 @@
+{
+  "company_name": "PT Trimitra Trans Persada Tbk",
+  "ticker": "BLOG",
+  "office_address": "Alfa Tower, Lantai 28 Jl. Jalur Sutera Barat, Kav 7-9 Alam Sutera, Tangerang, Indonesia",
+  "email": "corsec@b-log.co.id",
+  "phone": "(021)80821778",
+  "fax": "",
+  "tax_id": "02.968.481.8-416.000",
+  "website": "https://b-log.co.id/id/home-id",
+  "listing_date": "2025-07-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak di bidang usaha logistik terintegrasi yang terdiri atas jasa pengangkutan dan pergudangan (melalui Entitas Anak)",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Wanny Wijaya",
+    "email": "corsec@b-log.co.id",
+    "phone": "(021)80821778"
+  },
+  "directors": [
+    {
+      "name": "Maickel Tilon",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wanny Wijaya",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Budiyanto Djoko Susanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Doddy Surja Bajuadji",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wiwiek Dianawati Santoso",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Wiwiek Dianawati Santoso",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arietta Adrianti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Anna Slamet Setiyowati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sigmantara Alfindo",
+      "type": "Lebih dari 5%",
+      "shares": 1717905980,
+      "percentage": 50.83
+    },
+    {
+      "name": "PT Dua Mitra Inti Selaras",
+      "type": "Lebih dari 5%",
+      "shares": 985683750,
+      "percentage": 29.17
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 675897470,
+      "percentage": 20
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Maickel Tilon",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wanny Wijaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Simpan Sini Aja",
+      "business_type": "Pergudangan dan Penyimpanan, Aktivitas Cold Storage, dan Angkutan Bermotor untuk Barang Umum",
+      "total_assets": 91051643940,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.331.517.956.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,51",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,48",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "19,59",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,01",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,83",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:58.062Z"
+}

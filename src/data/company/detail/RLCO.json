@@ -1,0 +1,195 @@
+{
+  "company_name": "PT Abadi Lestari Indonesia Tbk",
+  "ticker": "RLCO",
+  "office_address": "Jl. Raya Bojonegoro - Babat Desa Balenrejo, Kecamatan Balen Kabupaten Bojonegoro, Jawa Timur 62182",
+  "email": "corsec@realco-ali.com",
+  "phone": "(+62 353) 289 3131",
+  "fax": "-",
+  "tax_id": "72.050.311.9-601.000",
+  "website": "https://realco-ali.com",
+  "listing_date": "2025-12-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengolahan dan pencucian sarang burung walet, serta perdagangan produk-produk kesehatan melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Ayu Amanda",
+    "email": "corsec@realco-ali.com",
+    "phone": "(+62 353) 289 3131"
+  },
+  "directors": [
+    {
+      "name": "Edwin Pranata",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dwiadi Prastian Hadi, Ca",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Witny Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ayu Amanda",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Achmad Baiquni",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jenifer Puspitasari Widjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Syafriandi Armand Saleh",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Syafriandi Armand Saleh",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ernaldy Wahyu Putra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Andri Oktavianto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Realco Omega Investama",
+      "type": "Lebih dari 5%",
+      "shares": 2425000000,
+      "percentage": 77.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 627500000,
+      "percentage": 20.08
+    },
+    {
+      "name": "Edwin Pranata",
+      "type": "Direksi",
+      "shares": 72500000,
+      "percentage": 2.32
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Realfood Winta Asia",
+      "business_type": "Perdagangan Produk-produk Kesehatan",
+      "total_assets": 531241438163,
+      "ownership_percentage": 93.75
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Kap Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Kap Krisnawan, Nugroho & Fahmy"
+    },
+    {
+      "name": "Kap Hadori Sugiarto Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.625.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "14,04",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "27,41",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "152,58",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:49.188Z"
+}

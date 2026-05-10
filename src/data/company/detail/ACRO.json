@@ -1,0 +1,209 @@
+{
+  "company_name": "PT Samcro Hyosung Adilestari Tbk.",
+  "ticker": "ACRO",
+  "office_address": "Jl. Raya Serang Km 17,2 Desa Bojong Kecamatan Cikupa, Kabupaten Tangerang. Banten, 15710",
+  "email": "corsec@samcro.co.id",
+  "phone": "021-5960543",
+  "fax": "021-5960548",
+  "tax_id": "01.068.028.8-052.000",
+  "website": "https://https//www.samcro.co.id",
+  "listing_date": "2024-01-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri dan perdagangan Hook dan Loop",
+    "business_summary": "Perusahaan bergerak di bidang Tekstil.",
+    "business_tags": [
+      "Tekstil"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Endri Kusumah S.t",
+    "email": "corsec@samcro.co.id",
+    "phone": "021-5960543"
+  },
+  "directors": [
+    {
+      "name": "Chung Tae Sung",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Suwardi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cahya Wulandari, Sh",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Aswinth Maratimbo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dwi Astuti",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Seok Jin Kim",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Seok Jin Kim",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aprelia Shanty Sitanggang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rosana Purba",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Chung Tae Sung",
+      "type": "Direksi",
+      "shares": 2720072495,
+      "percentage": 78.4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 749273042,
+      "percentage": 21.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cahya Wulandari",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suwardi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aswinth Maratimbo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dwi Astuti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Seok Jin Kim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kap Kanel dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "256.731.569.738",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,33",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "6,33",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,91",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,46",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,33",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "16,85",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:49.622Z"
+}

@@ -1,0 +1,233 @@
+{
+  "company_name": "Asuransi Ramayana Tbk",
+  "ticker": "ASRM",
+  "office_address": "Jl. Kebon Sirih No. 49 Jakarta 10340",
+  "email": "corsec@asuransiramayana.co.id",
+  "phone": "3193 7148",
+  "fax": "-",
+  "tax_id": "01.318.451.0-054.000",
+  "website": "https://www.asuransiramayana.co.id",
+  "listing_date": "1990-03-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Asuransi Kerugian",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif, Keuangan.",
+    "business_tags": [
+      "Otomotif",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Adi Ratna Punggawa N.",
+    "email": "ratna.punggawa@ramayanains.com",
+    "phone": "31937148"
+  },
+  "directors": [
+    {
+      "name": "Syahril",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jiwa Anggara",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pristiwanto Bani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Y. Parlindungan Manurung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "A.m. Andi Primadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. A. Winoto Doeriat",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mohamad Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Antonius Widyatma Sumarlin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ananto Harjokusumo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "A. Widyatma Sumarlin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mohamad Rusli",
+      "position": "Anggota"
+    },
+    {
+      "name": "Deddy Sutrisno",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Syahril",
+      "type": "Direksi",
+      "shares": 402728008,
+      "percentage": 31.51
+    },
+    {
+      "name": "A Winoto Doeriat",
+      "type": "Komisaris",
+      "shares": 244952854,
+      "percentage": 19.17
+    },
+    {
+      "name": "Wirastuti Puntaraksma, S.h.",
+      "type": "Lebih dari 5%",
+      "shares": 148872797,
+      "percentage": 11.64
+    },
+    {
+      "name": "PT Ragam Venturindo",
+      "type": "Lebih dari 5%",
+      "shares": 135030147,
+      "percentage": 10.57
+    },
+    {
+      "name": "Korean Reinsurance Company",
+      "type": "Lebih dari 5%",
+      "shares": 127799734,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 118822781,
+      "percentage": 9.03
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 99812715,
+      "percentage": 8.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wisma Ramayana",
+      "business_type": "Sewa Gedung dan Kendaraan",
+      "total_assets": 85584953118,
+      "ownership_percentage": 9.996
+    },
+    {
+      "name": "PT Asuransi Ramayana Tbk",
+      "business_type": "Jasa Asuransi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Wisma Ramayana",
+      "business_type": "Pembiayaan Sewa Bangunan dan Kendaraan",
+      "total_assets": 0,
+      "ownership_percentage": 9.996
+    },
+    {
+      "name": "PT Wisma Ramayana",
+      "business_type": "Pembiayaan Sewa Bangunan dan Kendaraan",
+      "total_assets": 0,
+      "ownership_percentage": 9.996
+    },
+    {
+      "name": "Wisma Ramayana",
+      "business_type": "Jasa Sewa Kendaraan",
+      "total_assets": 0,
+      "ownership_percentage": 9.996
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "365.505.722.296",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,05",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "4,67",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "17,34",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "1,38",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,69",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,18",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:49.059Z"
+}

@@ -1,0 +1,225 @@
+{
+  "company_name": "PT Surya Biru Murni Acetylene Tbk",
+  "ticker": "SBMA",
+  "office_address": "Jl. Jend. Sudirman No. 5-6, Rt 016 Kelurahan Klandasan Ilir, Kecamatan Balikpapan Kota Balikpapan, Kalimantan Timur 76113",
+  "email": "corsec@suryabiru.com",
+  "phone": "+62542 733600",
+  "fax": "",
+  "tax_id": "01.150.545.0-725.000",
+  "website": "https://www.suryabirumurni.co.id",
+  "listing_date": "2021-09-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri kimia anorganik gas",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Francisca Puspalinda",
+    "email": "corsec@suryabiru.co.id",
+    "phone": "+62542 743555"
+  },
+  "directors": [
+    {
+      "name": "Rini Dwiyanti",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Welly Sumanteri",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Fran Budianto Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Reza Fahlepy S.h., m.h.",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Effendi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "M. Slamet Brotosiswoyo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dinawati",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "M. Slamet Brotosiswoyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Juspa Pakasi, S.e., M.ak., Ak., C.a.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gregoriuis Abelard Bongata, S.e.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Surya Biru Titilea Investama",
+      "type": "Lebih dari 5%",
+      "shares": 585000000,
+      "percentage": 62.91
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 251230582,
+      "percentage": 27.02
+    },
+    {
+      "name": "Tiffany Wei",
+      "type": "Lebih dari 5%",
+      "shares": 65000000,
+      "percentage": 6.99
+    },
+    {
+      "name": "Rini Dwiyanti (direktur Utama)",
+      "type": "Direksi",
+      "shares": 25795700,
+      "percentage": 2.77
+    },
+    {
+      "name": "Effendi (komisaris)",
+      "type": "Komisaris",
+      "shares": 2900000,
+      "percentage": 0.31
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "109.731.301.276",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,67",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "11,94",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,61",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,84",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,61",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:05.657Z"
+}

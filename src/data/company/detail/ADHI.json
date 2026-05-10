@@ -1,0 +1,223 @@
+{
+  "company_name": "PT Adhi Karya (persero) Tbk.",
+  "ticker": "ADHI",
+  "office_address": "Jalan Raya Pasar Minggu Km. 18 Jakarta 12510",
+  "email": "adhi@adhi.co.id",
+  "phone": "021-7975312",
+  "fax": "021-7975311",
+  "tax_id": "01.001.610.3-051.000",
+  "website": "https://www.adhi.co.id",
+  "listing_date": "2004-03-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Rozi Sparta",
+    "email": "rozi.sparta@adhi.co.id",
+    "phone": "021-7975312"
+  },
+  "directors": [
+    {
+      "name": "Moeharmein Z. C",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ki Syahgolang Permata",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bani Iqbal",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "A. Suko Widigdo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harimawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vera Kirana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yan Arianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dody Usodo Hargo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Elan Suherlan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "R. Erwin Moeslimin Singajuru",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Bob Arthur Lombogia",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rustam Sofyan Sirait",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Amelia Tetriana",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rustam Sofyan Sirait",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mardiannus Pramudya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Andi Nugroho Suryo Kuncoro",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 5354686054,
+      "percentage": 63.69
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3049427125,
+      "percentage": 36.27
+    },
+    {
+      "name": "Vera Kirana",
+      "type": "Direksi",
+      "shares": 1081800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Dody Usodo Hargo Suseno",
+      "type": "Komisaris",
+      "shares": 572700,
+      "percentage": 0.01
+    },
+    {
+      "name": "Ki Syahgolang Permata",
+      "type": "Direksi",
+      "shares": 772200,
+      "percentage": 0.01
+    },
+    {
+      "name": "Alloysius Suko Widigdo",
+      "type": "Direksi",
+      "shares": 721200,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 10000,
+      "percentage": 0
+    },
+    {
+      "name": "Harimawan",
+      "type": "Direksi",
+      "shares": 337900,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.782.413.103.548",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,87",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,53",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,88",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "26,62",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,97",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:53.196Z"
+}

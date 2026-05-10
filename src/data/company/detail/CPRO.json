@@ -1,0 +1,614 @@
+{
+  "company_name": "Central Proteina Prima Tbk",
+  "ticker": "CPRO",
+  "office_address": "Treasury Tower Floor 8, District 8, Jl. Jendral Sudirman Kav 52-53, SCBD, Jakarta Selatan",
+  "email": "farah.praditya@cpp.co.id",
+  "phone": "50191788",
+  "fax": "50191788",
+  "tax_id": "001.002.946.0-054.000",
+  "website": "https://www.cpp.co.id",
+  "listing_date": "2006-11-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Agriculture Plantation",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Agribisnis",
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Farah Reza Praditya",
+    "email": "investor.relations@cpp.co.id",
+    "phone": "+622150191788"
+  },
+  "directors": [
+    {
+      "name": "Hendri Laiman",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Paulius Juta",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Arman Zakaria Diah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fredy Robin Sumendap",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indra Sakti",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jimmy Joeng",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendi Yanto Efendy",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hardian Purawimala Widjonarko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sia Leng Ho",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Toto Winanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Franciscus Affandy",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Haryanto Damanik",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sia Leng Ho",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hendra Nur Salman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tan Kiat Heng",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 32585573736,
+      "percentage": 54.7
+    },
+    {
+      "name": "Central Pangan Prima",
+      "type": "Lebih dari 5%",
+      "shares": 26898933014,
+      "percentage": 45.15
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 75117437,
+      "percentage": 0.13
+    },
+    {
+      "name": "Paulius Juta",
+      "type": "Direksi",
+      "shares": 9100000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Freddy Robin Sumendap",
+      "type": "Direksi",
+      "shares": 500000,
+      "percentage": 0
+    },
+    {
+      "name": "Indra Sakti",
+      "type": "Direksi",
+      "shares": 2658600,
+      "percentage": 0
+    },
+    {
+      "name": "Hendri Laiman",
+      "type": "Direksi",
+      "shares": 500000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Centralpertiwi Bahari (cpb)",
+      "business_type": "Pembekuan dan Perdagangan Udang, Produksi dan Perdagangan Pakan Serta Pembibitan Udang",
+      "total_assets": 1824,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Centralpertiwi Bahari (cpb)",
+      "business_type": "Pembekuan dan Perdagangan Udang, Produksi dan Perdagangan Pakan Serta Pembibitan Udang",
+      "total_assets": 1758,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Centralpertiwi Bahari (cpb)",
+      "business_type": "Pembekuan dan Perdagangan Udang, Produksi dan Perdagangan Pakan Serta Pembibitan Udang",
+      "total_assets": 1758,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Centralpertiwi Bahari (cpb)",
+      "business_type": "Pembekuan dan Perdagangan Udang, Produksi dan Perdagangan Pakan Serta Pembibitan Udang",
+      "total_assets": 1672,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Centralpertiwi Bahari (cpb)",
+      "business_type": "Pembekuan dan Perdagangan Udang, Produksi dan Perdagangan Pakan Serta Pembibitan Udang",
+      "total_assets": 1616,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Centralwindu Sejati (cws)",
+      "business_type": "Produksi dan Perdagangan Pakan Hewan Peliharaan",
+      "total_assets": 1263,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Centralwindu Sejati (cws)",
+      "business_type": "Produksi dan Perdagangan Pakan Hewan Peliharaan",
+      "total_assets": 1263,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Centralwindu Sejati (cws)",
+      "business_type": "Produksi dan Perdagangan Pakan Hewan Peliharaan",
+      "total_assets": 1222,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Centralwindu Sejati (cws)",
+      "business_type": "Produksi dan Perdagangan Pakan Hewan Peliharaan",
+      "total_assets": 1146,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Centralwindu Sejati (cws)",
+      "business_type": "Produksi dan Perdagangan Pakan Hewan Peliharaan",
+      "total_assets": 1137,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Central Panganpertiwi (cpgp)",
+      "business_type": "Pertambakan, Produksi dan Perdagangan Pakan Serta Bibit Ikan",
+      "total_assets": 1036,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Central Panganpertiwi (cpgp)",
+      "business_type": "Pertambakan, Produksi dan Perdagangan Pakan Serta Bibit Ikan",
+      "total_assets": 1007,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Central Panganpertiwi (cpgp)",
+      "business_type": "Pertambakan, Produksi dan Perdagangan Pakan Serta Bibit Ikan",
+      "total_assets": 1007,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Central Panganpertiwi (cpgp)",
+      "business_type": "Pertambakan, Produksi dan Perdagangan Pakan Serta Bibit Ikan",
+      "total_assets": 963,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Central Panganpertiwi (cpgp)",
+      "business_type": "Pertambakan, Produksi dan Perdagangan Pakan Serta Bibit Ikan",
+      "total_assets": 870,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Blue Ocean Resources Pte. Ltd. (bor)",
+      "business_type": "Perusahaan Investasi dan Usaha Perdagangan",
+      "total_assets": 657,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blue Ocean Resources Pte. Ltd. (bor)",
+      "business_type": "Perusahaan Investasi dan Usaha Perdagangan",
+      "total_assets": 409,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blue Ocean Resources Pte. Ltd. (bor)",
+      "business_type": "Perusahaan Investasi dan Usaha Perdagangan",
+      "total_assets": 402,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blue Ocean Resources Pte. Ltd. (bor)",
+      "business_type": "Perusahaan Investasi dan Usaha Perdagangan",
+      "total_assets": 364,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blue Ocean Resources Pte. Ltd. (bor)",
+      "business_type": "Perusahaan Investasi dan Usaha Perdagangan",
+      "total_assets": 364,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Central Bali Bahari (cbb)",
+      "business_type": "Probiotik untuk Obat-obatan Udang",
+      "total_assets": 78,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Central Bali Bahari (cbb)",
+      "business_type": "Probiotik untuk Obat-obatan Udang",
+      "total_assets": 78,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Central Bali Bahari (cbb)",
+      "business_type": "Probiotik untuk Obat-obatan Udang",
+      "total_assets": 78,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Central Bali Bahari (cbb)",
+      "business_type": "Probiotik untuk Obat-obatan Udang",
+      "total_assets": 78,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Central Bali Bahari (cbb)",
+      "business_type": "Probiotik untuk Obat-obatan Udang",
+      "total_assets": 78,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Suryawindu Pertiwi (swp)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 74,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Suryawindu Pertiwi (swp)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 72,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Suryawindu Pertiwi (swp)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 72,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Suryawindu Pertiwi (swp)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 69,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Suryawindu Pertiwi (swp)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 69,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Marindolab Pratama (mlp)",
+      "business_type": "Obat-obatan untuk Udang dan Ikan",
+      "total_assets": 34,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Marindolab Pratama (mlp)",
+      "business_type": "Obat-obatan untuk Udang dan Ikan",
+      "total_assets": 34,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Marindolab Pratama (mlp)",
+      "business_type": "Obat-obatan untuk Udang dan Ikan",
+      "total_assets": 33,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Marindolab Pratama (mlp)",
+      "business_type": "Obat-obatan untuk Udang dan Ikan",
+      "total_assets": 33,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Marindolab Pratama (mlp)",
+      "business_type": "Obat-obatan untuk Udang dan Ikan",
+      "total_assets": 32,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Citra Windupertala (cwp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 24,
+      "ownership_percentage": 99.57
+    },
+    {
+      "name": "PT Citra Windupertala (cwp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 24,
+      "ownership_percentage": 99.57
+    },
+    {
+      "name": "PT Citra Windupertala (cwp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 24,
+      "ownership_percentage": 99.57
+    },
+    {
+      "name": "PT Citra Windupertala (cwp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 24,
+      "ownership_percentage": 99.57
+    },
+    {
+      "name": "PT Citra Windupertala (cwp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 24,
+      "ownership_percentage": 99.57
+    },
+    {
+      "name": "PT Windusejati Pertiwi (wsp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 13,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Windusejati Pertiwi (wsp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 13,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Windusejati Pertiwi (wsp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 13,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Windusejati Pertiwi (wsp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 13,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Windusejati Pertiwi (wsp)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 13,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Andalas Windumurni (awm)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 9,
+      "ownership_percentage": 98.75
+    },
+    {
+      "name": "PT Andalas Windumurni (awm)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 9,
+      "ownership_percentage": 98.75
+    },
+    {
+      "name": "PT Andalas Windumurni (awm)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 9,
+      "ownership_percentage": 98.75
+    },
+    {
+      "name": "PT Andalas Windumurni (awm)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 9,
+      "ownership_percentage": 98.75
+    },
+    {
+      "name": "PT Andalas Windumurni (awm)",
+      "business_type": "Pembibitan Udang",
+      "total_assets": 9,
+      "ownership_percentage": 98.75
+    },
+    {
+      "name": "Cp Prima Aquaculture (india) Private Limited",
+      "business_type": "Produksi dan Usaha Perdagangan Produk Aquaculture",
+      "total_assets": 6,
+      "ownership_percentage": 99.25
+    },
+    {
+      "name": "Cp Prima Aquaculture (india) Private Limited",
+      "business_type": "Produksi dan Usaha Perdagangan Produk Aquaculture",
+      "total_assets": 6,
+      "ownership_percentage": 99.25
+    },
+    {
+      "name": "Cp Prima Aquaculture (india) Private Limited",
+      "business_type": "Produksi dan Usaha Perdagangan Produk Aquaculture",
+      "total_assets": 6,
+      "ownership_percentage": 99.25
+    },
+    {
+      "name": "Cp Prima Aquaculture (india) Private Limited",
+      "business_type": "Produksi dan Usaha Perdagangan Produk Aquaculture",
+      "total_assets": 5,
+      "ownership_percentage": 99.25
+    },
+    {
+      "name": "Cp Prima Aquaculture (india) Private Limited",
+      "business_type": "Produksi dan Usaha Perdagangan Produk Aquaculture",
+      "total_assets": 5,
+      "ownership_percentage": 99.25
+    },
+    {
+      "name": "Cp Prima (vietnam) Corporation Limited",
+      "business_type": "Perdagangan Produk Aquaculture",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cp Prima (vietnam) Corporation Limited",
+      "business_type": "Perdagangan Produk Aquaculture",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cp Prima (vietnam) Corporation Limited",
+      "business_type": "Perdagangan Produk Aquaculture",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cp Prima (vietnam) Corporation Limited",
+      "business_type": "Perdagangan Produk Aquaculture",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cp Prima (vietnam) Corporation Limited",
+      "business_type": "Perdagangan Produk Aquaculture",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cpp Intertrade Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cpp Intertrade Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cpp Intertrade Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cpp Intertrade Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cpp Intertrade Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.395.625.818.859",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,82",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "11,11",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "8,20",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "9,80",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,75",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "15,15",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:27.837Z"
+}

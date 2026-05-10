@@ -1,0 +1,255 @@
+{
+  "company_name": "Elnusa Tbk",
+  "ticker": "ELSA",
+  "office_address": "Graha Elnusa, Jl. Tb Simatupang Kav. 1b, Jakarta 12560",
+  "email": "corporate@elnusa.co.id",
+  "phone": "(021) 788-30850",
+  "fax": "(021) 788-30883",
+  "tax_id": "01.000.050.3-051.000",
+  "website": "https://www.elnusa.co.id",
+  "listing_date": "2008-02-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Energi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Energi, Logistik, Konstruksi.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Energi",
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 29,
+    "name": "Jasa Pengeboran Minyak & Gas",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Rustam Aji",
+    "email": "rustam.aji@elnusa.co.id",
+    "phone": "(021)78830850"
+  },
+  "directors": [
+    {
+      "name": "Litta Indriya Ariesca",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andri Haribowo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nelwin Aldriansyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arief Prasetyo Handoyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hera Handayani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Purwadi Arianto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Vitri Cahyaningsih Mallarangeng",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Abdul Hakim",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Farazandi Fidinansyah",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Farazandi Fidinansyah",
+      "position": "Ketua"
+    },
+    {
+      "name": "Widianto Soepeno",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maryanto Makhdori",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pertamina Hulu Energi",
+      "type": "Lebih dari 5%",
+      "shares": 3729781000,
+      "percentage": 51.1034
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3137543700,
+      "percentage": 42.9891
+    },
+    {
+      "name": "Haiyanto",
+      "type": "Lebih dari 5%",
+      "shares": 425442800,
+      "percentage": 5.829
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5722500,
+      "percentage": 0.0784
+    },
+    {
+      "name": "Nelwin Aldriansyah",
+      "type": "Direksi",
+      "shares": 10000,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Elnusa Petrofin",
+      "business_type": "Spbu, Depo, Transportasi dan Perdagangan Bbm dan Bahan Kimia",
+      "total_assets": 4035700,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Elnusa Trans Samudera",
+      "business_type": "Jasa Penyewaan Kapal Laut dan Agen Perkapalan Perusahaan Pelayaran",
+      "total_assets": 603523,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Elnusa Fabrikasi Konstruksi",
+      "business_type": "Jasa Penguliran, Perdagangan dan Pabrikasi Pipa",
+      "total_assets": 430884,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Sigma Cipta Utama",
+      "business_type": "Manajemen Data, Teknologi Infomasi dan Telekomunikasi",
+      "total_assets": 385642,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Patra Nusa Data",
+      "business_type": "Jasa Perolehan dan Produksi Migas",
+      "total_assets": 146112,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "Kso Elnusa - Raga",
+      "business_type": "Jasa Pemeliharaan Mekanik",
+      "total_assets": 70795,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elnusa Oilfield Services",
+      "business_type": "-",
+      "total_assets": 50276,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Elnusa Geosains Indonesia",
+      "business_type": "-",
+      "total_assets": 12880,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.765.815.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,90",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,71",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "40,59",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "52,36",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,19",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "39,22",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:23.165Z"
+}

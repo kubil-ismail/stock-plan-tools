@@ -1,0 +1,214 @@
+{
+  "company_name": "Bukit Darmo Property Tbk",
+  "ticker": "BKDP",
+  "office_address": "Jakarta : Jl. Kramat Raya No. 81 Kramat, Senen - Jakarta Pusat 10450 L Surabaya : Jl. Yono Soewoyo No. 9, Fairway Nine Lantai 6 (nama Baru Lenmarc Mall) Surabaya 60226",
+  "email": "corporatesecretary@bukitdarmoproperty.com",
+  "phone": "021 23599081 ; 021 23599173 ; 021 23599175 ; 021 23599218",
+  "fax": "-",
+  "tax_id": "01.469.504.3-054.000",
+  "website": "https://www.bukitdarmoproperty.com",
+  "listing_date": "2007-06-15",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Brasada Chandra",
+    "email": "corporatesecretary@bukitdarmoproperty.com",
+    "phone": "(031) 7318666"
+  },
+  "directors": [
+    {
+      "name": "Hendro Sumampow",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Iefenn Adrianne Sumampow",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ielenna Sumampow",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Brasada Chandra",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Endang Lestari Pujiastuti",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Leotine Ierma Agustina Sumampow",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Letnan Jenderal (purn.) Tarub",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Widagdo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edy Sukamto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tarub",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Widagdo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Edy Sukamto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Adhibalaraja",
+      "type": "Lebih dari 5%",
+      "shares": 2600000000,
+      "percentage": 34.6
+    },
+    {
+      "name": "PT. Primantara Wisesa Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 2461554500,
+      "percentage": 32.76
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1097126086,
+      "percentage": 14.59
+    },
+    {
+      "name": "Hendro Sumampow",
+      "type": "Direksi",
+      "shares": 623500000,
+      "percentage": 8.3
+    },
+    {
+      "name": "Iefenn Adrianne Sumampow",
+      "type": "Direksi",
+      "shares": 294181167,
+      "percentage": 3.92
+    },
+    {
+      "name": "Leotine Ierma Agustina.s",
+      "type": "Komisaris",
+      "shares": 294181167,
+      "percentage": 3.92
+    },
+    {
+      "name": "Endang Lestari Pujiastuti",
+      "type": "Komisaris",
+      "shares": 143449332,
+      "percentage": 1.91
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Sentra Multi Unggul dan Anak Perusaahaan",
+      "business_type": "Pembangunan dan Jasa Konstruksi",
+      "total_assets": 280193017,
+      "ownership_percentage": 99.2
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "563.549.418.900",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "64,91",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "70,91",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "141,03",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "224,14",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "22,08",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "123,81",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:54.535Z"
+}

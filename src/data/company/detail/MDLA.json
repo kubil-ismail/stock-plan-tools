@@ -1,0 +1,234 @@
+{
+  "company_name": "PT Medela Potentia Tbk",
+  "ticker": "MDLA",
+  "office_address": "Jl. Rs. Fatmawati Kav. 33, Cilandak Barat Jakarta Selatan 12420, Dki Jakarta",
+  "email": "cor.sec@medela-potentia.com",
+  "phone": "02174864210",
+  "fax": "02174863880",
+  "tax_id": "0313795171016000",
+  "website": "https://www.medela-potentia.com",
+  "listing_date": "2025-04-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perusahaan induk atas grup usaha yang bergerak di bidang distribusi dan pemasaran atas produk farmasi, produk kesehatan dan alat kesehatan, manufaktur alat kesehatan, serta penyelenggaraan portal web dan/atau platform digital dengan tujuan komersial melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan, Manufaktur.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Wimala Widjaja",
+    "email": "cor.sec@medela-potentia.com",
+    "phone": "02174864210"
+  },
+  "directors": [
+    {
+      "name": "Krestijanto Pandji",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edbert Orotodan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wimala Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Stanley Ch. Budihardja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lukas Setia Atmaja Msc.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lukas Setia Atmaja Msc.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nita Skolastika Ruslim",
+      "position": "Anggota"
+    },
+    {
+      "name": "A.i.t. Prasetyantoko",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hetty Soetikno, Dra",
+      "type": "Lebih dari 5%",
+      "shares": 9240000000,
+      "percentage": 65.94
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2452301100,
+      "percentage": 17.51
+    },
+    {
+      "name": "PT Ekon Prima",
+      "type": "Lebih dari 5%",
+      "shares": 1260000000,
+      "percentage": 8.99
+    },
+    {
+      "name": "International Finance Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 1050000000,
+      "percentage": 7.49
+    },
+    {
+      "name": "Penerima Program Mip",
+      "type": "Direksi",
+      "shares": 10523900,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Anugrah Argon Medica",
+      "business_type": "Perdagangan Produk Farmasi",
+      "total_assets": 5198200,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Djembatan Dua",
+      "business_type": "Perdagangan Produk Farmasi, Alat Kesehatan, Produk Perawatan Kesehatan, Jasa-jasa",
+      "total_assets": 249557,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Dynamic Argon Co Ltd",
+      "business_type": "Perdagangan Produk Farmasi",
+      "total_assets": 136503,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Deca Metric Medica",
+      "business_type": "Industri Pengolahan Produk Alat Kesehatan",
+      "total_assets": 81859,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Karsa Inti Tuju Askara",
+      "business_type": "Web Portal dan Digital Platform",
+      "total_assets": 47618,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.026.770.200.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,48",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "6,50",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "2,54",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "19,17",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,55",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "12,88",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:36.399Z"
+}

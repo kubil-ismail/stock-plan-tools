@@ -1,0 +1,259 @@
+{
+  "company_name": "PT Bank Maybank Indonesia Tbk",
+  "ticker": "BNII",
+  "office_address": "Sentral Senayan III Lt.26, Jl. Asia Afrika No. 8, Gelora, Tanah Abang, Desa/kelurahan Gelora, Kec. Tanah Abang, Kota Adm. Jakarta Pusat, Provinsi Dki Jakarta, 10270",
+  "email": "putu.dewika.a@maybank.co.id",
+  "phone": "021-29228888",
+  "fax": "021-29228730, 021-29228799",
+  "tax_id": "001.309.323.2-091.000",
+  "website": "https://www.maybank.co.id",
+  "listing_date": "1989-11-21",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Putu Dewika Angganingrum",
+    "email": "putu.dewika.a@maybank.co.id",
+    "phone": "021-29228888"
+  },
+  "directors": [
+    {
+      "name": "Steffano Ridwan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Irvandi Ferizal",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Effendi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Widya Permana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Andri Irawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Shaiful Adhli Yazid",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yessika Effendi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Romy Hardiansyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bianto Surodjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mariana Husin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dato' Zulkiflee Abbas Abdul Hamid",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Datuk Lim Hong Tat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dato' Sri Khairussaleh Ramli",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hendar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Putut Eko Bayuseno",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Marina R. Tusin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel James Rompas",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dr Hasnita Dato Hashim",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Putut Eko Bayuseno",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yetti Septirawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dawny Rachella Tahar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Daniel James Rompas",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr.h.ahmad Satori",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sorak Financial Holdings Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 34312479550,
+      "percentage": 45.0205
+    },
+    {
+      "name": "Maybank Offshore Corporate Services",
+      "type": "Lebih dari 5%",
+      "shares": 25882393996,
+      "percentage": 33.9596
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8417231248,
+      "percentage": 11.044
+    },
+    {
+      "name": "Vital Solution Fund",
+      "type": "Lebih dari 5%",
+      "shares": 6653168749,
+      "percentage": 8.7295
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 949922278,
+      "percentage": 1.2464
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Maybank Indonesia Finance",
+      "business_type": "Jasa Pembiayaan Konsumen",
+      "total_assets": 7857630,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Ottomitra Multiartha Tbk",
+      "business_type": "Jasa Pembiayaan Konsumen",
+      "total_assets": 7313454,
+      "ownership_percentage": 67.49
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.372.916.517.844",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,98",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,34",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "1,94",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,98",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "3,81",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:12.102Z"
+}

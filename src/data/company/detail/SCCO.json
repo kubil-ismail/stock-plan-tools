@@ -1,0 +1,247 @@
+{
+  "company_name": "PT Supreme Cable Manufacturing & Commerce Tbk",
+  "ticker": "SCCO",
+  "office_address": "Jl. Kebon Sirih No. 71 Jakarta 10340",
+  "email": "sccfin@cbn.net.id; corpsec@sucaco.com",
+  "phone": "(021) 3100525",
+  "fax": "(021) 31931119",
+  "tax_id": "01.000.889.4-054.000",
+  "website": "https://0",
+  "listing_date": "1982-07-20",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Kabel",
+    "business_summary": "Perusahaan bergerak di bidang Komponen & Peralatan Kelistrikan.",
+    "business_tags": [
+      "Komponen & Peralatan Kelistrikan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 18,
+    "name": "Kelistrikan"
+  },
+  "sub_industry": {
+    "id": 38,
+    "name": "Komponen & Peralatan Kelistrikan",
+    "industries_id": 18
+  },
+  "corporate_secretary": {
+    "name": "Risti Saka",
+    "email": "sccfin@cbn.net.id; corpsec@sucaco.com",
+    "phone": "(021) 3100525"
+  },
+  "directors": [
+    {
+      "name": "Henny Rosellinny",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Teddy Rustiadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nicodemus Marjopranoto Trisnadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sani Iskandar Darmawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tanto Atmadja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Elly Soepono",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Ir. Dewa Nyoman Adnyana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Surya Adiwijaya Soepono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Ir. Dewan Nyoman Adnyana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Neny Mustika Suseno",
+      "position": "Anggota"
+    },
+    {
+      "name": "Adiwinata",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Moda Sukma",
+      "type": "Lebih dari 5%",
+      "shares": 276303000,
+      "percentage": 33.6
+    },
+    {
+      "name": "PT Tutulan Sukma",
+      "type": "Lebih dari 5%",
+      "shares": 244000000,
+      "percentage": 29.67
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 120745888,
+      "percentage": 14.68
+    },
+    {
+      "name": "Furukawa Electric Co.ltd",
+      "type": "Lebih dari 5%",
+      "shares": 97102560,
+      "percentage": 11.81
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 77647276,
+      "percentage": 9.45
+    },
+    {
+      "name": "Elly Soepono",
+      "type": "Komisaris",
+      "shares": 6498076,
+      "percentage": 0.79
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Prof. Dr. Ir. Dewa Nyoman Adnyana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Surya Adiwijaya Soepono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henny Rosellinny",
+      "type": "Direksi",
+      "shares": 400,
+      "percentage": 0
+    },
+    {
+      "name": "Teddy Rustiadi",
+      "type": "Direksi",
+      "shares": 36000,
+      "percentage": 0
+    },
+    {
+      "name": "Nicodemus M. Trisnadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sani Iskandar Darmawan",
+      "type": "Direksi",
+      "shares": 400,
+      "percentage": 0
+    },
+    {
+      "name": "Tanto Atmadja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Setia Pratama Pelletizing Industries",
+      "business_type": "Pellet Cross Linked Polyethylen And Poly-vinyl Chloride (pvc) Manufacturer",
+      "total_assets": 286238236047,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Supreme Decoluxe",
+      "business_type": "Pembuatan Melamin, Resin dan Lembar Melamin",
+      "total_assets": 234130538,
+      "ownership_percentage": 93.28
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.932.483.960.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,39",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,59",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "2,92",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "14,88",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,49",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "4,22",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:06.551Z"
+}

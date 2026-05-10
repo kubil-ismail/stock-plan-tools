@@ -1,0 +1,338 @@
+{
+  "company_name": "Trada Alam Minera Tbk.",
+  "ticker": "TRAM",
+  "office_address": "Gandaria 8 Office Tower, Lnt 15, Unit H, Jl. Sultan Iskandarmuda No. 10, Kebayoran Lama Utara, Jakarta Selatan 12240, Indonesia",
+  "email": "asnita.kasmy@tram.co.id",
+  "phone": "62 21 29303620",
+  "fax": "62 21 29303620",
+  "tax_id": "01.841.368.2-054.000",
+  "website": "https://www.tram.co.id",
+  "listing_date": "2008-09-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pelayaran dan Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Logistik.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Asnita Kasmy",
+    "email": "asnita.kasmy@trada.co.id",
+    "phone": "021-72786852"
+  },
+  "directors": [
+    {
+      "name": "Soebianto Hidayat",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ismail",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Gani Bustan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Irwandy Arif",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Setiawan",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ir. Bambang Setiawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Budi Purwanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Veronika Yuliani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 23733158331,
+      "percentage": 47.807
+    },
+    {
+      "name": "Kejaksaan Agung Republik Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 23402869906,
+      "percentage": 47.142
+    },
+    {
+      "name": "PT Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 2507599697,
+      "percentage": 5.051
+    },
+    {
+      "name": "Ismail",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gani Bustan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heru Hidayat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alfian Pramana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Soebianto Hidayat",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 300,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Semeru Infra Energi",
+      "business_type": "Investasi",
+      "total_assets": 2605785544,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gunung Bara Utama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 2372562299,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricobana Abadi",
+      "business_type": "Kontraktor Batubara",
+      "total_assets": 2020671571,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Smr Utama Tbk",
+      "business_type": "Investasi",
+      "total_assets": 1763443141,
+      "ownership_percentage": 52.3
+    },
+    {
+      "name": "PT Batu Kaya Berkat",
+      "business_type": "Perdagangan",
+      "total_assets": 1568386402,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ricobana",
+      "business_type": "Investasi",
+      "total_assets": 1226042563,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Hanochem Shipping",
+      "business_type": "Pelayaran",
+      "total_assets": 652539442,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Black Diamond Energy",
+      "business_type": "Umum",
+      "total_assets": 504378225,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Jelajah Bahari Utama",
+      "business_type": "Pelayaran",
+      "total_assets": 196207440,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahari Sukses Utama",
+      "business_type": "Pelayaran",
+      "total_assets": 195026111,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pelabuhan Kalimantan Jaya",
+      "business_type": "Umum",
+      "total_assets": 51961062,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Troposfir Pancar Sejati",
+      "business_type": "Investasi",
+      "total_assets": 46444563,
+      "ownership_percentage": 98.4
+    },
+    {
+      "name": "PT Troposfir Mega Raya",
+      "business_type": "Investasi",
+      "total_assets": 45998463,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Delta Samudra",
+      "business_type": "Investasi",
+      "total_assets": 45036770,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adikarsa Alam Resources",
+      "business_type": "Perdagangan",
+      "total_assets": 21053925,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Trada Offshore Services",
+      "business_type": "Pelayaran",
+      "total_assets": 3680833,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Trada Samudera Bangsa Pte Ltd",
+      "business_type": "Pelayaran",
+      "total_assets": 1001980,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Trada Dryship Singapore Pte., Ltd",
+      "business_type": "Pelayaran",
+      "total_assets": 923294,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Trada Shipping International",
+      "business_type": "Umum",
+      "total_assets": 17506,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agate Bumi Tanker",
+      "business_type": "Pelayaran",
+      "total_assets": 12345,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Java Maritime Lines, S.a",
+      "business_type": "Pelayaran",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.482.181.396.700",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:52.944Z"
+}

@@ -1,0 +1,193 @@
+{
+  "company_name": "PT Charnic Capital Tbk.",
+  "ticker": "NICK",
+  "office_address": "Menara Sudirman Lt. 8 Jln. Jend. Sudirman Kav. 60 Jakarta 12190",
+  "email": "info@charnic.com",
+  "phone": "0215226488",
+  "fax": "0215226518",
+  "tax_id": "0027417419012000",
+  "website": "https://www.charnic.com",
+  "listing_date": "2018-05-02",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Holding dan Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Investasi.",
+    "business_tags": [
+      "Perusahaan Investasi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 77,
+    "name": "Perusahaan Investasi",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Giselle Suhendra",
+    "email": "info@charmic.com",
+    "phone": "0215226488"
+  },
+  "directors": [
+    {
+      "name": "Nicholas Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anton Santoso",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Freddy Santoso",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Anita Marta",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fandy Wijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fandy Wijaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Inggrid Feliciany",
+      "position": "Anggota"
+    },
+    {
+      "name": "Edelyne Christina Ramli",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indovest Central",
+      "type": "Lebih dari 5%",
+      "shares": 375088800,
+      "percentage": 57.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 140792200,
+      "percentage": 21.63
+    },
+    {
+      "name": "PT Okansa Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 113164000,
+      "percentage": 17.38
+    },
+    {
+      "name": "Freddy Santoso",
+      "type": "Komisaris",
+      "shares": 22105000,
+      "percentage": 3.39
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Charnic Land Investment",
+      "business_type": "Jasa Penyewaan Gedung Perkantoran/ Office Building Rental",
+      "total_assets": 11683269682,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Johannes Patricia Juara & Rekan"
+    },
+    {
+      "name": "Johannes Patricia Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Johannes Patricia Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Johannes Patricia Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Johannes Patricia Juara & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "794.403.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,36",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "0,42",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "2,55",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "69,72",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,23",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "0,42",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:43.262Z"
+}

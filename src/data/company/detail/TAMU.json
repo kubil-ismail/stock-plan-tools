@@ -1,0 +1,229 @@
+{
+  "company_name": "PT Pelayaran Tamarin Samudra Tbk.",
+  "ticker": "TAMU",
+  "office_address": "Jl. Alaydrus No. 78 C Petojo Utara, Gambir Jakarta 10130",
+  "email": "corsec@tamarin.co.id",
+  "phone": "(021) 6342275",
+  "fax": "(021) 6335557",
+  "tax_id": "01.859.820.1-038.000",
+  "website": "https://www.tamarin.co.id",
+  "listing_date": "2017-05-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Jasa Penyewaan Kapal Penunjang Kegiatan Lepas Pantai",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Edi Purwanto",
+    "email": "corsec@tamarin.co.id",
+    "phone": "(021) 6342275"
+  },
+  "directors": [
+    {
+      "name": "Kardja Rahardjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edi Purwanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alwie Handoyo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rahmat Sukendar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rahmat Sukendar, S.e., Ak., Ca, Cpa., Cpi., Cbv",
+      "position": "Ketua"
+    },
+    {
+      "name": "Raimon, S.e. M.si., Ak., Ca, Qia, Cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maruli Tua Butar Butar, S.e., Cpa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Andalan Lepas Pantai",
+      "type": "Lebih dari 5%",
+      "shares": 29999900000,
+      "percentage": 80
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7500000000,
+      "percentage": 20
+    },
+    {
+      "name": "PT Sentra Andalan Tamarin",
+      "type": "Lebih dari 5%",
+      "shares": 100000,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Samudra Sukses Gemilang",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis Lainnya Serta Perdagangan Besar",
+      "total_assets": 12500000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Samudra Sukses Gemilang",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis Lainnya Serta Perdagangan Besar",
+      "total_assets": 12500000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Samudra Sukses Gemilang",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis Lainnya Serta Perdagangan Besar",
+      "total_assets": 12500000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Samudra Sukses Gemilang",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis Lainnya Serta Perdagangan Besar",
+      "total_assets": 12500000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sentra Tamarin Samudra",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis Lainnya Serta Perdagangan Besar",
+      "total_assets": 12500000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sentra Tamarin Samudra",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis Lainnya Serta Perdagangan Besar",
+      "total_assets": 12500000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sentra Tamarin Samudra",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis Lainnya Serta Perdagangan Besar",
+      "total_assets": 12500000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sentra Tamarin Samudra",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis Lainnya Serta Perdagangan Besar",
+      "total_assets": 12500000000,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Rama Wendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.087.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,67",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "3,45",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "12,50",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "115,38",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "26,32",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:15.261Z"
+}

@@ -1,0 +1,275 @@
+{
+  "company_name": "PT Harapan Duta Pertiwi Tbk.",
+  "ticker": "HOPE",
+  "office_address": "Kawasan Industri Purati Kencana Alam Kav. 23e Jl. Raya Serang Km 18.8 Cikupa, Tangerang",
+  "email": "corporatesecretary@hdp.co.id",
+  "phone": "(+62-21) 5940 8707",
+  "fax": "(+62-21) 5940 8708",
+  "tax_id": "0",
+  "website": "https://hdp.co.id",
+  "listing_date": "2021-05-24",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Karoseri Kendaraan Bermotor Roda Empat atau Lebihdan Industri Trailer dan Semi Trailer",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi, Otomotif.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 47,
+    "name": "Mesin Konstruksi & Kendaraan Berat",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Rista Widya Saputri",
+    "email": "corporatesecretary@hdp.co.id",
+    "phone": "(+62-21) 5940 8707"
+  },
+  "directors": [
+    {
+      "name": "Kevin Jong",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Nathan Octavian Wangsadirdja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rusli Djuhana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herryan Syahputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lo Khie Pong",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wimba Prambada",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rino Yosiaki Manangkalangi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Antonius",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Antonius",
+      "position": "Ketua"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1190426803,
+      "percentage": 55.88
+    },
+    {
+      "name": "PT Harapan Group Sukses",
+      "type": "Lebih dari 5%",
+      "shares": 687450400,
+      "percentage": 32.27
+    },
+    {
+      "name": "Wiliam Martaputra",
+      "type": "Lebih dari 5%",
+      "shares": 133214900,
+      "percentage": 6.25
+    },
+    {
+      "name": "PT. Meranti Samudra Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 106518100,
+      "percentage": 5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 12750000,
+      "percentage": 0.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kevin Jong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rusli Djuhana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nathan Octavian Wangsadirdja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herryan Syahputra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lo Khie Pong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wimba Prambada",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Antonius",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rino Yosiaki Manangkalangi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Harapan Energi Konstruksi",
+      "business_type": "Konstruksi Barang Logam",
+      "total_assets": 3319620759,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Harapan Energi Konstruksi",
+      "business_type": "Konstruksi Barang Logam",
+      "total_assets": 3319620759,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "351.509.433.495",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "40,00",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "43,18",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,12",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "265,85",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,46",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "5,63",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:48.312Z"
+}

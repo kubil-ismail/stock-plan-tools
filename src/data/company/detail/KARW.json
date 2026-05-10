@@ -1,0 +1,283 @@
+{
+  "company_name": "Meratus Jasa Prima Tbk",
+  "ticker": "KARW",
+  "office_address": "Ruko Enggano Megah Blok C No. 15b-15c, Jl. Raya Enggano, Tanjung Priok, Kota Administrasi Jakarta Utara, Indonesia 14310",
+  "email": "corsec.mjp@meratus.com",
+  "phone": "+62 21 65314710",
+  "fax": "+62 21 65314711",
+  "tax_id": "0010 0076 3105 4000",
+  "website": "https://www.meratusjasaprima.com",
+  "listing_date": "1994-12-20",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pengembangan, Pembangunan, dan Pengoperasian Sarana dan atau Prasarana Logistik Maritim serta Jasa-jasa yang terkait",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Konstruksi.",
+    "business_tags": [
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 10,
+    "name": "Infrastruktur Transportasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 30,
+    "name": "Operator Infrastruktur Transportasi"
+  },
+  "sub_industry": {
+    "id": 52,
+    "name": "Operator Pelabuhan",
+    "industries_id": 30
+  },
+  "corporate_secretary": {
+    "name": "Ike Andriani",
+    "email": "ike.andriani@meratus.com",
+    "phone": "(6221) 65314710"
+  },
+  "directors": [
+    {
+      "name": "Heri Cahyono",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arie Ardian Menaro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Marcel Menaro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heru Adiwaskito",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sjarif Hadiwidjaja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wahyu Hardiyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ayda Sulianti",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Wahyu Hardiyanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tjiam Kian Lim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Herianto Then",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Saranakelola Investa",
+      "type": "Lebih dari 5%",
+      "shares": 452266400,
+      "percentage": 77.03
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 133543600,
+      "percentage": 22.74
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1342700,
+      "percentage": 0.23
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arie Ardian Menaro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heru Adiwaskito",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sjarif Hadiwidjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ayda Sulianti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wahyu Hardiyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heri Cahyono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marcel Menaro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pbm Olah Jasa Andal",
+      "business_type": "Bongkar Muat",
+      "total_assets": 25336422,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pbm Olah Jasa Andal",
+      "business_type": "Bongkar Muat",
+      "total_assets": 12827096,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perusahaan Bongkar Muat Olah Jasa Andal",
+      "business_type": "Bongkar Muat",
+      "total_assets": 12019487,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perusahaan Bongkar Muat Olah Jasa Andal",
+      "business_type": "Bongkar Muat",
+      "total_assets": 11249469,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karinwashindo Centralgraha",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Agrobisnis Dll",
+      "total_assets": 767950,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Karinwashindo Centralgraha",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Agrobisnis Dll",
+      "total_assets": 767950,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Karinwashindo Centralgraha",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Agrobisnis, dan Lain-lain",
+      "total_assets": 767950,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Karinwashindo Centralgraha",
+      "business_type": "Perdagangan, Pembangunan, Pengangkutan, Agrobisnis, dan Lain-lain",
+      "total_assets": 767950,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Karya Investama Indonesia",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Perbengkelan dan Lain-lain",
+      "total_assets": 161769,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Investama Indonesia",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Perbengkelan dan Lain-lain",
+      "total_assets": 161769,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Investama Indonesia",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Perbengkelan Dll",
+      "total_assets": 161769,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Investama Indonesia",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Perbengkelan Dll",
+      "total_assets": 161769,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "176.145.810.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "17,19",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "45,95",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "77,10",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,74",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "21,05",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:03.117Z"
+}

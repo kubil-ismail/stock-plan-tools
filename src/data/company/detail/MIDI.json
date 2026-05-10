@@ -1,0 +1,198 @@
+{
+  "company_name": "Midi Utama Indonesia Tbk",
+  "ticker": "MIDI",
+  "office_address": "Gedung Alfa Tower, Lt. 12, Jl. Jalur Sutera Barat, Kav. 7-9, Alam Sutera, Tangerang, Banten 15143",
+  "email": "corporate.secretary@mu.co.id",
+  "phone": "(021) 8082 1618",
+  "fax": "(021) 8082 1628",
+  "tax_id": "0026 7292 7705 4000",
+  "website": "https://www.alfamidiku.com",
+  "listing_date": "2010-11-30",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan eceran dengan format minimarket dan supermarket",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman, Retail.",
+    "business_tags": [
+      "Makanan & Minuman",
+      "Retail"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 95,
+    "name": "Supermarket",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Suantopo Po",
+    "email": "corporate.secretary@mu.co.id",
+    "phone": "(021) 8082 1618"
+  },
+  "directors": [
+    {
+      "name": "Rullyanto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Maria Theresia Velina Yulianti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suantopo Po",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Endang Mawarti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Afid Hermeily",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Budiyanto Djoko Susanto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Eddy Supardi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Komjen Pol. (purn.) Dr. Boy Rafli Amar, m.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eddy Supardi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Edwin Sutanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Davina Kesumawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sumber Alfaria Trijaya, Tbk PT",
+      "type": "Lebih dari 5%",
+      "shares": 25775473000,
+      "percentage": 77.09
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7435361800,
+      "percentage": 22.24
+    },
+    {
+      "name": "Rullyanto",
+      "type": "Direksi",
+      "shares": 142100000,
+      "percentage": 0.42
+    },
+    {
+      "name": "Maria Theresia Velina Yulianti",
+      "type": "Direksi",
+      "shares": 75400000,
+      "percentage": 0.23
+    },
+    {
+      "name": "Endang Mawarti",
+      "type": "Direksi",
+      "shares": 6960000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Lancar Wiguna Sejahtera",
+      "business_type": "Perdagangan Eceran dan Penyediaan Makanan Minuman dengan Format Restoran",
+      "total_assets": 856380,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.501.741.411.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,75",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "8,07",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "14,29",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,54",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,69",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "7,45",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:52.349Z"
+}

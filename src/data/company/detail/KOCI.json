@@ -1,0 +1,213 @@
+{
+  "company_name": "PT Kokoh Exa Nusantara",
+  "ticker": "KOCI",
+  "office_address": "Ji. Raya Sukolilo, Tebul, Kwanyar Bangkalan 69163",
+  "email": "corsec@kokohcity.com",
+  "phone": "(+62) 811 3208 8881",
+  "fax": "-",
+  "tax_id": "92.482.492.3-606.000",
+  "website": "https://kokohcity.com",
+  "listing_date": "2023-10-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Konstruksi dan Real Estat",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Lie Elli Sariniyudewi Halim",
+    "email": "corsec@kokohcity.com",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Kan Eddy",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lie Elli Sariniyudewi Halim",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sugiyanto Sutikno",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Aswinth Maratimbo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Aswinth Maratimbo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nikmatus Shofiyah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sugiyono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Exa Nusa Persada",
+      "type": "Lebih dari 5%",
+      "shares": 2203710000,
+      "percentage": 49.34
+    },
+    {
+      "name": "PT. Kokoh Anugerah Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 1322260000,
+      "percentage": 29.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 546753157,
+      "percentage": 12.24
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 394204300,
+      "percentage": 8.82
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kan Eddy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lie Elli Sariniyudewi Halim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sugiyanto Sutikno",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aswinth Maratimbo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "580.699.778.620",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,65",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "30,90",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "48,19",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "146,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,38",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "43,02",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:37.482Z"
+}

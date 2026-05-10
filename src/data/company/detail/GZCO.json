@@ -1,0 +1,372 @@
+{
+  "company_name": "Gozco Plantations Tbk",
+  "ticker": "GZCO",
+  "office_address": "Gedung Gozco,jl. Raya Pasar Minggu 32, Pancoran, Jakarta Selatan 12780",
+  "email": "corporate@gozco.com",
+  "phone": "021- 29755555",
+  "fax": "021- 29755556",
+  "tax_id": "0026 2373 0505 4000",
+  "website": "https://www.gozco.com/plantations/home",
+  "listing_date": "2008-05-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Agriculture Plantation",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Ibu Liviana",
+    "email": "-",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Kreisna Dewantara Gozali",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Michael Vincent",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jamal Rosyidin Hakki",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Marvin Herbert Wibisono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjandra Mindharta Gozali",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Harijanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jazid",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Jazid",
+      "position": "Ketua"
+    },
+    {
+      "name": "Henoch Hasudungan Hutabarat",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yosefanny Uke Siswoyo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2482199900,
+      "percentage": 41.37
+    },
+    {
+      "name": "PT Golden Zaga Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1702000000,
+      "percentage": 28.37
+    },
+    {
+      "name": "Tjandra Mindharta Gozali",
+      "type": "Komisaris",
+      "shares": 1581972000,
+      "percentage": 26.37
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 220339000,
+      "percentage": 3.67
+    },
+    {
+      "name": "Jamal Rosyidin Hakki Sh",
+      "type": "Direksi",
+      "shares": 13332000,
+      "percentage": 0.22
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andrew Michael Vincent",
+      "type": "Direksi",
+      "shares": 157100,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Suryabumi Agrolanggeng",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1743993,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Suryabumi Agrolanggeng",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1671322,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Suryabumi Agrolanggeng",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1646488,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Suryabumi Agrolanggeng",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1646488,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Suryabumi Agrolanggeng",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1634432,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Suryabumi Agrolanggeng",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1428283,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Cahya Vidi Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 558956,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Cahya Vidi Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 554354,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Cahya Vidi Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 553950,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Cahya Vidi Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 549853,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Cahya Vidi Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 549853,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Telaga Sari Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 131263,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Telaga Sari Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 126665,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Mas Indo Sawit",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 126616,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Telaga Sari Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 125815,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Telaga Sari Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 125815,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Telaga Sari Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 125124,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Mas Indo Sawit",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 113548,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bumi Mas Indo Sawit",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 112885,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bumi Mas Indo Sawit",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 109819,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bumi Mas Indo Sawit",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 109819,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bumi Mas Indo Sawit",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 109476,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Cahya Vidi Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 538,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Telaga Sari Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 140,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Palma Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 12,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Palma Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 12,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Palma Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 11,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Palma Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 11,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Palma Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 11,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Palma Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 11,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.296.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,96",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "8,81",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "23,91",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "121,05",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "22,79",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:25.146Z"
+}

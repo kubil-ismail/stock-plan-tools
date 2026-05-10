@@ -1,0 +1,333 @@
+{
+  "company_name": "PT Mega Manunggal Property Tbk.",
+  "ticker": "MMLP",
+  "office_address": "Ghra Intirub Lantai 2. Intirub Business Park. Jalan Cililitan Besar No. 454 Jakarta Timur 13650",
+  "email": "corporate.secretary@mmproperty.com",
+  "phone": "021-29379058",
+  "fax": "021-29379057",
+  "tax_id": "003.088.706.1-005.000",
+  "website": "https://mmproperty.com",
+  "listing_date": "2015-06-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pengembang dan penyedia Properti Logistik",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Logistik.",
+    "business_tags": [
+      "Properti",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Jeremy Muliawan",
+    "email": "corporate.secretary@mmproperty.com",
+    "phone": "021-29379058"
+  },
+  "directors": [
+    {
+      "name": "Max William Sunarcia",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Susan Samantha",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lia Prilianty Singgih",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Djap Tet Fa",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wibowo Muljono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Budi Frensidy",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Budi Frensidy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ibu Lina Djafar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bapak Purnama Setiawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Saka Industrial Arjaya",
+      "type": "Lebih dari 5%",
+      "shares": 6299185199,
+      "percentage": 91.437
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 588949409,
+      "percentage": 8.548
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1000000,
+      "percentage": 0.015
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Max William Sunarcia",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Susan Samantha",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lia Prilianty Singgih",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Djap Tet Fa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wibowo Muljono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Prof. Dr. Budi Frensidy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mega Tridaya Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 3175798326,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mega Khatulistiwa Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 2480111624,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mega Dharma Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 1094306712,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Intirub",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 1011829035,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Ace Dalle Mega Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 679517350,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bukit Properti Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 598278691,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hamparan Cipta Sejati",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 523114931,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Mega Jaya Lestari Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 491834179,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Mega Buana Properti Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 489355952,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Manunggal Timur Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 357553631,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mega Properti Logistik Nusantara",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 346439516,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indo Log Advisory",
+      "business_type": "Konsultansi Manajemen Lainnya",
+      "total_assets": 342037120,
+      "ownership_percentage": 70.23
+    },
+    {
+      "name": "PT Manunggal Persada Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 337876232,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Subang Cakrawala Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 329103579,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mega Cahaya Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 315803594,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mega Aruna Nusantara Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 259050222,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Subang Horison Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 177430898,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mega Cakrawala Internusa Properti",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 4058317,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "Mmp Warehouse Singapore Pte. Ltd.",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewakan",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hendrawinata Eddy Sidharta & Tanzil"
+    },
+    {
+      "name": "Hendrawinata Eddy Sidharta & Tanzil"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Hendrawinata Eddy Sidharta & Tanzil"
+    },
+    {
+      "name": "Hendrawinata Eddy Sidharta & Tanzil"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.342.305.766.720",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,96",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "28,98",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "38,41",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "32,43",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,58",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "37,30",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:05.325Z"
+}

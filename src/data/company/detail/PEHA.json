@@ -1,0 +1,289 @@
+{
+  "company_name": "PT Phapros Tbk",
+  "ticker": "PEHA",
+  "office_address": "Menara Rajawali, Lantai 17 Jl. Dr Ide Anak Agung Gde Agung Lot#5.1 Kawasan Mega Kuningan, Jakarta Selatan 12950",
+  "email": "corporate@phapros.co.id",
+  "phone": "021 5762709",
+  "fax": "021 5763910",
+  "tax_id": "01.000.793.8-051.000",
+  "website": "https://www.phapros.co.id",
+  "listing_date": "2018-12-26",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Farmasi",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Zahmilia Akbar",
+    "email": "zahmilia@phapros.co.id",
+    "phone": ""
+  },
+  "directors": [
+    {
+      "name": "Intan Abdams Katoppo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdinand Troedu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ida Rahmi Kurniasih",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Maraja Jeson Siregar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alfi Novtriansyah Rustam",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Masrizal Achmad Syarief",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nurjayanto Kusumawardhono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Bimo Wijayanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bimo Wijayanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Totok Budisantoso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Moh. Fatkhul Mujib",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kimia Farma Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 476901860,
+      "percentage": 56.774
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 253219390,
+      "percentage": 30.145
+    },
+    {
+      "name": "Masrizal A. Syarief",
+      "type": "Komisaris",
+      "shares": 88050850,
+      "percentage": 10.482
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 21827900,
+      "percentage": 2.599
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Lucas Djaja",
+      "business_type": "Industri Farmasi",
+      "total_assets": 291335938,
+      "ownership_percentage": 90.22
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "250.320.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "20,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "25,68",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "13,41",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "40,91",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "25,68",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "24,83",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:18.555Z"
+}

@@ -1,9 +1,9 @@
 "use client";
 import React, { useMemo } from "react";
 
-import notation from "@/data/information/notations/notation.json";
-import pemantauan_khusus from "@/data/information/pemantauan_khusus/pemantauan_khusus.json";
-import calendar from "@/data/information/calendar/calendar.json";
+import notation from "@/data/archive/information/notations/notation.json";
+import pemantauan_khusus from "@/data/archive/information/pemantauan_khusus/pemantauan_khusus.json";
+import calendar from "@/data/archive/information/calendar/calendar.json";
 import { Calendar_card, Notation_card } from "@/pages/(market-and-insight)/informasi-perusahaan/informasi-perusahaan.view";
 
 interface Props {

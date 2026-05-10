@@ -1,0 +1,321 @@
+{
+  "company_name": "Panorama Sentrawisata Tbk",
+  "ticker": "PANR",
+  "office_address": "Panorama Building, 6th Floor, Jl. Tomang Raya No. 63, Jakarta Barat 11440",
+  "email": "corsec.panr@panorama-group.com",
+  "phone": "+62 21 2556.5000",
+  "fax": "+62 21 2556.5055",
+  "tax_id": "01.746.338.1-054.000",
+  "website": "https://www.panorama-sentrawisata.com",
+  "listing_date": "2001-09-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Biro Perjalanan Wisata",
+    "business_summary": "Perusahaan bergerak di bidang Agen Perjalanan.",
+    "business_tags": [
+      "Agen Perjalanan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 1,
+    "name": "Agen Perjalanan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Ahmad Bangun Sadewa",
+    "email": "corsec.panr@panorama-group.com",
+    "phone": "(021) 2556 5000"
+  },
+  "directors": [
+    {
+      "name": "Budijanto Tirtawisata",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ramajanto Tirtawisata",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Angreta Chandra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hellen",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ricardo Setiawanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Satrijanto Tirtawisata",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dharmayanto Tirtawisata",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Ariandy Sijoatmodjo Sh, Mm",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Ariandy Sijoatmodjo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Inge Taslim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Olip Susanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Panorama Tirta Anugerah",
+      "type": "Lebih dari 5%",
+      "shares": 622927623,
+      "percentage": 44.9
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 363688624,
+      "percentage": 26.21
+    },
+    {
+      "name": "Satrijanto Tirtawisata",
+      "type": "Komisaris",
+      "shares": 120116300,
+      "percentage": 8.66
+    },
+    {
+      "name": "Budijanto Tirtawisata",
+      "type": "Direksi",
+      "shares": 96718700,
+      "percentage": 6.97
+    },
+    {
+      "name": "Ramajanto Tirtawisata",
+      "type": "Direksi",
+      "shares": 94800953,
+      "percentage": 6.83
+    },
+    {
+      "name": "Dharmayanto Tirtawisata",
+      "type": "Komisaris",
+      "shares": 89247800,
+      "percentage": 6.43
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Panorama Jtb Tours Indonesia",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 670377766,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Destinasi Tirta Nusantara Tbk",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 299918314,
+      "ownership_percentage": 64.01
+    },
+    {
+      "name": "PT Panorama Ventura Indonesia",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 235907889,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andalan Selaras Abadi",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 198695080,
+      "ownership_percentage": 64.12
+    },
+    {
+      "name": "PT Graha Destinasi",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 114811162,
+      "ownership_percentage": 62.94
+    },
+    {
+      "name": "PT Misi Pelayaran Mandiri",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 70470307,
+      "ownership_percentage": 57
+    },
+    {
+      "name": "PT Chan Brothers Travel Indonesia",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 69352803,
+      "ownership_percentage": 29.97
+    },
+    {
+      "name": "PT Duta Chandra Kencana",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 58313184,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Panorama Destination (thailand) Ltd",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 51464360,
+      "ownership_percentage": 30.84
+    },
+    {
+      "name": "PT Smartravelindo Perkasa",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 47616766,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Andalan Wisata Benua",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 43214755,
+      "ownership_percentage": 50.95
+    },
+    {
+      "name": "PT Mitra Panorama Internasional",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 29388508,
+      "ownership_percentage": 60.04
+    },
+    {
+      "name": "Panorama Destination (m) Sdn. Bhd",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 23586001,
+      "ownership_percentage": 62.94
+    },
+    {
+      "name": "PT Trip Tour Travel",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 21611179,
+      "ownership_percentage": 46.82
+    },
+    {
+      "name": "PT Dwi Ratna Pertiwi",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 19111846,
+      "ownership_percentage": 32.63
+    },
+    {
+      "name": "PT Panorama Destinasi Indonesia",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 15900882,
+      "ownership_percentage": 50.35
+    },
+    {
+      "name": "PT Destinasi Garuda Wisata",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 8397509,
+      "ownership_percentage": 32.1
+    },
+    {
+      "name": "PT Panorama Aplikasi Nusantara",
+      "business_type": "Perdagangan Umum dan Jasa",
+      "total_assets": 2109288,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Panorama Destination (vietnam) Jv Ltd",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 1926718,
+      "ownership_percentage": 42.8
+    },
+    {
+      "name": "PT Destinasi Alam Indonesia",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 1496620,
+      "ownership_percentage": 62.94
+    },
+    {
+      "name": "Panorama Destination (s) Pte., Ltd.,",
+      "business_type": "Biro Perjalanan Wisata/",
+      "total_assets": 327188,
+      "ownership_percentage": 62.94
+    },
+    {
+      "name": "PT Jati Piranti Travelindo Pratama",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 0,
+      "ownership_percentage": 30.57
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "707.625.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,89",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "5,88",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,15",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "34,12",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,67",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "14,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:09.602Z"
+}

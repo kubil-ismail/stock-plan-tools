@@ -1,0 +1,177 @@
+{
+  "company_name": "PT Indo Komoditi Korpora Tbk",
+  "ticker": "INCF",
+  "office_address": "Centennial Tower Lt. 21 Unit H",
+  "email": "tetap corsec@indokomoditikorpora.com",
+  "phone": "021-22958323",
+  "fax": "021-22958324",
+  "tax_id": "01.310.738.8-054.000",
+  "website": "https://www.indokomoditikorpora.com",
+  "listing_date": "2016-09-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengolahan Karet Alam",
+    "business_summary": "Perusahaan bergerak di bidang Karet.",
+    "business_tags": [
+      "Karet"
+    ],
+    "business_keywords": [
+      "karet",
+      "rubber"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 79,
+    "name": "Produk Hutan Lainnya",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Ferry Kurniawan",
+    "email": "corsecikk@gmail.com",
+    "phone": "021 22958323"
+  },
+  "directors": [
+    {
+      "name": "Sujaka Lays",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alycius Hendry",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Donny Janson Manua",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arie Rinaldi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Arie Rinaldi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Donny Janson Manua",
+      "position": "Anggota"
+    },
+    {
+      "name": "Purwanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 606852603,
+      "percentage": 42.19
+    },
+    {
+      "name": "PT Alam Tulus Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 575348186,
+      "percentage": 40
+    },
+    {
+      "name": "Harto",
+      "type": "Lebih dari 5%",
+      "shares": 241294200,
+      "percentage": 16.78
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 14875476,
+      "percentage": 1.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Donny Janson Manua",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arie Rinaldy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sujaka Lays",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alycius Hendry",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "84.863.857.435",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "18,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "14,49",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "37,21",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "90,32",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "7,81",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:15.529Z"
+}

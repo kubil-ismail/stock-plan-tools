@@ -1,0 +1,801 @@
+{
+  "company_name": "Salim Ivomas Pratama Tbk",
+  "ticker": "SIMP",
+  "office_address": "Sudirman Plaza, Indofood Tower, Lantai 11 Jalan Jendral Sudirman Kav. 76-78 Jakarta 12910",
+  "email": "corporate.secretary@simp.co.id",
+  "phone": "6221 5795 8822",
+  "fax": "6221 57937504",
+  "tax_id": "0015 9618 3209 2000",
+  "website": "https://www.simp.co.id",
+  "listing_date": "2011-06-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Agribisnis yang terdiversifikasi serta terintegrasi secara vertikal yang kegiatan utamanya meliputi seluruh mata rantai pasokan dari penelitian dan pengembangan pemuliaan benih bibit, pembudidayaan dan pengolahan kelapa sawit hingga produksi serta pemasaran produk minyak goreng, margarine dan shortening",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Karet, Teknologi, Energi, Logistik, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Karet",
+      "Teknologi",
+      "Energi",
+      "Logistik",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "karet",
+      "rubber",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Meyke Ayuningrum",
+    "email": "corporate.secretary@simp.co.id",
+    "phone": "+6221 57958822"
+  },
+  "directors": [
+    {
+      "name": "Moleonoto (paulus Moleonoto)",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Agustinus Dermawan",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Mark Julian Wakeford",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suaimi Suriady",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Johnny Ponto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Soenardi Winarto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "In She",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdi Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harrijanto Kusumo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chandra Arif Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Djunaidy",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjhie Tje Fie (thomas Tjhie)",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Axton Salim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Taufik Wiraatmadja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Widjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Timotius",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Rajani Panjaitan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Rajani Panjaitan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Goh Kian Chee",
+      "position": "Anggota"
+    },
+    {
+      "name": "Antonius Suwanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Indofood Agri Resources Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 11387745000,
+      "percentage": 73.46
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2823716729,
+      "percentage": 18.22
+    },
+    {
+      "name": "PT. Indofood Sukses Makmur Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1035306400,
+      "percentage": 6.68
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 253621871,
+      "percentage": 1.63
+    },
+    {
+      "name": "Ferdi Gunawan",
+      "type": "Direksi",
+      "shares": 750000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Agustinus Dermawan",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0
+    },
+    {
+      "name": "Taufik Wiraatmadja",
+      "type": "Komisaris",
+      "shares": 120000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Perusahaan Perkebunan London Sumatra Indonesia Tbk",
+      "business_type": "Industri Perkebunan Kelapa Sawit,karet, Kakao,kelapa dan Teh, Serta Pengolahannya Danperdagangan",
+      "total_assets": 14969152000000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "PT Perusahaan Perkebunan London Sumatra Indonesia Tbk",
+      "business_type": "Industri Perkebunan Kelapa Sawit,karet, Kakao,kelapa dan Teh, Serta Pengolahannya Danperdagangan",
+      "total_assets": 14969152000000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "PT Lajuperdana Indah",
+      "business_type": "Perkebunan Tebu dan Pabrik Gula Terpadu",
+      "total_assets": 2809912000000,
+      "ownership_percentage": 61.47
+    },
+    {
+      "name": "PT Lajuperdana Indah",
+      "business_type": "Perkebunan Tebu dan Pabrik Gula Terpadu",
+      "total_assets": 2809912000000,
+      "ownership_percentage": 61.47
+    },
+    {
+      "name": "PT Gunung Mas Raya",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 2030476000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Gunung Mas Raya",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 2030476000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "Ptperusahaan Dagang,perkebunandan Industri Serikat Putra",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 2006797000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "Ptperusahaan Dagang,perkebunandan Industri Serikat Putra",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 2006797000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Hijaupertiwi Indah Plantations",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1740878000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hijaupertiwi Indah Plantations",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1740878000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mentari Subur Abadi",
+      "business_type": "Investasi dan Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1282928000000,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Mentari Subur Abadi",
+      "business_type": "Investasi dan Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1282928000000,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Indointernational Green Energy Resources Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 1095131000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Indointernational Green Energy Resources Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 1095131000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Mega Citra Perdana",
+      "business_type": "Investasi",
+      "total_assets": 1025811000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Mega Citra Perdana",
+      "business_type": "Investasi",
+      "total_assets": 1025811000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Multi Pacific International",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1019713000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Multi Pacific International",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1019713000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Swadaya Bhakti Negaramas",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1000939000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Swadaya Bhakti Negaramas",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1000939000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Cibaliung Tunggal Plantations",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 950393000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Cibaliung Tunggal Plantations",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 950393000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Gunta Samba",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 927390000000,
+      "ownership_percentage": 59.99
+    },
+    {
+      "name": "PT Gunta Samba",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 927390000000,
+      "ownership_percentage": 59.99
+    },
+    {
+      "name": "PT Kebun Mandiri Sejahtera",
+      "business_type": "Perkebunan Karet dan Pabrik Kelapa Sawit",
+      "total_assets": 924038000000,
+      "ownership_percentage": 97.86
+    },
+    {
+      "name": "PT Kebun Mandiri Sejahtera",
+      "business_type": "Perkebunan Karet dan Pabrik Kelapa Sawit",
+      "total_assets": 924038000000,
+      "ownership_percentage": 97.86
+    },
+    {
+      "name": "PT Riau Agrotama Plantation",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 846631000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Riau Agrotama Plantation",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 846631000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Intimegah Bestari Pertiwi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 675050000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Intimegah Bestari Pertiwi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 675050000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Cangkul Bumisubur",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 640206000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Pelangi Intipertiwi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 582906000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Perusahaan Perkebunan,industri dan Dagang Indriplant",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 560667000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Perusahaan Perkebunan,industri dan Dagang Indriplant",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 560667000000,
+      "ownership_percentage": 98.01
+    },
+    {
+      "name": "PT Sumalindo Alam Lestari",
+      "business_type": "Pengelolaan Hutan Tanaman Industri",
+      "total_assets": 435382000000,
+      "ownership_percentage": 79.82
+    },
+    {
+      "name": "PT Sumalindo Alam Lestari",
+      "business_type": "Pengelolaan Hutan Tanaman Industri",
+      "total_assets": 435382000000,
+      "ownership_percentage": 79.82
+    },
+    {
+      "name": "PT Mitra Intisejati Plantation",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 366539000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Intisejati Plantation",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 366539000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citranusa Intisawit",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 334776000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citranusa Intisawit",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 334776000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mentari Pertiwi Makmur",
+      "business_type": "Investasi",
+      "total_assets": 330176000000,
+      "ownership_percentage": 79.68
+    },
+    {
+      "name": "PT Mentari Pertiwi Makmur",
+      "business_type": "Investasi",
+      "total_assets": 330176000000,
+      "ownership_percentage": 79.68
+    },
+    {
+      "name": "PT Indoagri Inti Plantation",
+      "business_type": "Investasi dan Jasa Manajemen dan Pengangkutan",
+      "total_assets": 322431000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indoagri Inti Plantation",
+      "business_type": "Investasi dan Jasa Manajemen dan Pengangkutan",
+      "total_assets": 322431000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sarana Inti Pratama",
+      "business_type": "Pemuliaan Benih Kelapa Sawit, Investasi dan Jasa Riset Manajemen dan Teknik",
+      "total_assets": 316679000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Inti Pratama",
+      "business_type": "Pemuliaan Benih Kelapa Sawit, Investasi dan Jasa Riset Manajemen dan Teknik",
+      "total_assets": 316679000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kebun Ganda Prima",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 253936000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kebun Ganda Prima",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 253936000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Samudera Sejahtera Pratama",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 181067000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Samudera Sejahtera Pratama",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 181067000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tani Andalas Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 136739000000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "PT Tani Andalas Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 136739000000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "PT Jake Sarana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 74790000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jake Sarana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 74790000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Madusari Lampung Indah",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 74144000000,
+      "ownership_percentage": 61.47
+    },
+    {
+      "name": "PT Madusari Lampung Indah",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 74144000000,
+      "ownership_percentage": 61.47
+    },
+    {
+      "name": "PT Wushan Hijau Lestari",
+      "business_type": "Investasi di Bidang Pertanian, Kehutanan, Perikanan dan Perdagangan",
+      "total_assets": 73533000000,
+      "ownership_percentage": 38.68
+    },
+    {
+      "name": "PT Wushan Hijau Lestari",
+      "business_type": "Investasi di Bidang Pertanian, Kehutanan, Perikanan dan Perdagangan",
+      "total_assets": 73533000000,
+      "ownership_percentage": 38.68
+    },
+    {
+      "name": "PT Kencana Subur Sejahtera",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer",
+      "total_assets": 72215000000,
+      "ownership_percentage": 98.02
+    },
+    {
+      "name": "PT Citra Kalbar Sarana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 61350000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Kalbar Sarana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 61350000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tani Musi Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 57539000000,
+      "ownership_percentage": 59.46
+    },
+    {
+      "name": "PT Tani Musi Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 57539000000,
+      "ownership_percentage": 59.46
+    },
+    {
+      "name": "Silveron Investments Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 54706000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Silveron Investments Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 54706000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumatra Agri Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 31519000000,
+      "ownership_percentage": 59.5
+    },
+    {
+      "name": "PT Sumatra Agri Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 31519000000,
+      "ownership_percentage": 59.5
+    },
+    {
+      "name": "PT Perusahaan Perkebunan, Perindustrian dan Perdagangan Umum Pasir Luhur",
+      "business_type": "Perdagangan,pertanian,perindustrian dan Keagenan/perwakilan",
+      "total_assets": 25872000000,
+      "ownership_percentage": 38.67
+    },
+    {
+      "name": "PT Perusahaan Perkebunan, Perindustrian dan Perdagangan Umum Pasir Luhur",
+      "business_type": "Perdagangan,pertanian,perindustrian dan Keagenan/perwakilan",
+      "total_assets": 25872000000,
+      "ownership_percentage": 38.67
+    },
+    {
+      "name": "Asian Synergies Limited",
+      "business_type": "Investasi",
+      "total_assets": 23567000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Asian Synergies Limited",
+      "business_type": "Investasi",
+      "total_assets": 23567000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cakra Alam Makmur",
+      "business_type": "Stasiun Bongkar Muat",
+      "total_assets": 11685000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cakra Alam Makmur",
+      "business_type": "Stasiun Bongkar Muat",
+      "total_assets": 11685000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wana Kaltim Lestari",
+      "business_type": "Pengelolaan Hutan Tanaman Industri",
+      "total_assets": 8477000000,
+      "ownership_percentage": 79.82
+    },
+    {
+      "name": "PT Wana Kaltim Lestari",
+      "business_type": "Pengelolaan Hutan Tanaman Industri",
+      "total_assets": 8477000000,
+      "ownership_percentage": 79.82
+    },
+    {
+      "name": "PT Manggala Batama Perdana",
+      "business_type": "Investasi",
+      "total_assets": 4085000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Manggala Batama Perdana",
+      "business_type": "Investasi",
+      "total_assets": 4085000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Tirta Perkasa",
+      "business_type": "Perkebunan, Perdagangan, Jasa, Fotografi, Angkutan Udara Khusus Pemotretan dan Pemetaan",
+      "total_assets": 1894000000,
+      "ownership_percentage": 59.5
+    },
+    {
+      "name": "PT Bayu Tirta Perkasa",
+      "business_type": "Perkebunan, Perdagangan, Jasa, Fotografi, Angkutan Udara Khusus Pemotretan dan Pemetaan",
+      "total_assets": 1894000000,
+      "ownership_percentage": 59.5
+    },
+    {
+      "name": "Lonsum Singapore Pte. Ltd.",
+      "business_type": "Perdagangan dan Pemasaran",
+      "total_assets": 958000000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "Lonsum Singapore Pte. Ltd.",
+      "business_type": "Perdagangan dan Pemasaran",
+      "total_assets": 958000000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "Agri Investment Pte. Ltd",
+      "business_type": "Investasi di Bidang Usaha Teknologi Pertanian dan Budidaya Tanaman",
+      "total_assets": 683000000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "Agri Investment Pte. Ltd",
+      "business_type": "Investasi di Bidang Usaha Teknologi Pertanian dan Budidaya Tanaman",
+      "total_assets": 683000000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "PT Pratama Citra Gemilang",
+      "business_type": "Industri Rumah Prefabrikasi",
+      "total_assets": 183000000,
+      "ownership_percentage": 98.02
+    },
+    {
+      "name": "PT Pratama Citra Gemilang",
+      "business_type": "Industri Rumah Prefabrikasi",
+      "total_assets": 183000000,
+      "ownership_percentage": 98.02
+    },
+    {
+      "name": "PT Agrosubur Permai",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 51000000,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Agrosubur Permai",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 51000000,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Sumatra Bioscience Pte. Ltd.",
+      "business_type": "Perdagangan, Pemasaran dan Penelitian",
+      "total_assets": 10000,
+      "ownership_percentage": 59.51
+    },
+    {
+      "name": "Sumatra Bioscience Pte. Ltd.",
+      "business_type": "Perdagangan, Pemasaran dan Penelitian",
+      "total_assets": 10000,
+      "ownership_percentage": 59.51
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.936.008.700.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,75",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "17,54",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "5,51",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "63,41",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,84",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "17,54",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:22.311Z"
+}

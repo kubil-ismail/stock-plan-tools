@@ -1,0 +1,359 @@
+{
+  "company_name": "PT Nusantara Pelabuhan Handal Tbk.",
+  "ticker": "PORT",
+  "office_address": "Nph Building Jl. Kebon Bawang I No. 45 Rt.7/rw.7 Kebon Bawang Tanjung Priok Jakarta Utara 14320",
+  "email": "cs@nusantaraport.id",
+  "phone": "(021) 2243 5010",
+  "fax": "(021) 2243 5525",
+  "tax_id": "0021886460013000",
+  "website": "https://www.nusantaraport.id",
+  "listing_date": "2017-03-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas konsultasi manajemen lainnya dan aktivitas perusahaan holding",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Konstruksi.",
+    "business_tags": [
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 10,
+    "name": "Infrastruktur Transportasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 30,
+    "name": "Operator Infrastruktur Transportasi"
+  },
+  "sub_industry": {
+    "id": 52,
+    "name": "Operator Pelabuhan",
+    "industries_id": 30
+  },
+  "corporate_secretary": {
+    "name": "Michelle Widjaja",
+    "email": "cs@nusantaraport.id",
+    "phone": "+62 21 2243 5010"
+  },
+  "directors": [
+    {
+      "name": "Chen Yao",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Paul Krisnadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wu Xiaojia",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sony Sutanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dong Gui",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jolly Chan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Iwan Suyudhie Amri",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bernadet Mariani Siswanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kang Haihua",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "William Tanuwijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bernadet Mariani Siswanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Henry Djaja Karim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jhon Wery",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "China Merchants International Port-integrated Development (hong Kong) Co Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1435110412,
+      "percentage": 51
+    },
+    {
+      "name": "PT Episenta Utama Investasi",
+      "type": "Lebih dari 5%",
+      "shares": 679587615,
+      "percentage": 24.2
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 546235200,
+      "percentage": 19.4
+    },
+    {
+      "name": "PT Prima Permata Cakrawala",
+      "type": "Lebih dari 5%",
+      "shares": 153008758,
+      "percentage": 5.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jolly Chan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iwan Suyudhie Amri",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kang Haihua",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bernadet Mariani Siswanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "William Tanuwijaya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chen Yao",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Paul Krisnadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wu Xiaojia",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sony Sutanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dong Gui",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mustika Alam Lestari",
+      "business_type": "Jasa Handling dan Stevedoring Container untuk Komoditas Ekspor/impor.",
+      "total_assets": 1374017410,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pbm Adipurusa",
+      "business_type": "Bongkar Muat Barang",
+      "total_assets": 526219103,
+      "ownership_percentage": 83.34
+    },
+    {
+      "name": "PT Parvi Indah Persada",
+      "business_type": "Perdagangan, Operator Terminal dan Jasa Perbaikan dan Pemeliharaan",
+      "total_assets": 317782536,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.518.478.076.575",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,06",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "6,50",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,36",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "10,65",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,65",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "26,67",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:49.834Z"
+}

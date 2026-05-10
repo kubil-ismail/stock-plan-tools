@@ -1,0 +1,363 @@
+{
+  "company_name": "Sona Topas Tourism Industry Tbk",
+  "ticker": "SONA",
+  "office_address": "Menara Sudirman Lantai 20, Jl. Jend. Sudirman Kav. 60, Rt 005/rw 03, Kelurahan Senayan, Kecamatan Kebayoran Baru, Jakarta Selatan 12190",
+  "email": "sonatopas@stti.co.id",
+  "phone": "021-5213056",
+  "fax": "021-5213066",
+  "tax_id": "01.370.985.2-054.000",
+  "website": "http://www.sonatopas.co.id",
+  "listing_date": "1992-07-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Biro Perjalanan Wisata",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 8,
+    "name": "Department Store"
+  },
+  "sub_industry": {
+    "id": 15,
+    "name": "Department Store",
+    "industries_id": 8
+  },
+  "corporate_secretary": {
+    "name": "Budi Setiawan",
+    "email": "wong.budi.s@gmail.com",
+    "phone": "5213056-59"
+  },
+  "directors": [
+    {
+      "name": "Ir. Wong Budi Setiawan",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Wei Lawrence Lai",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Milan Rabold",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Vinay Lamba",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Victoria Tahir",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Wangidjaja",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jonathan Tahir",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "John L Sigalos",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kevin Quoc Hong",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ronald Kumalaputra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Godman Hianglin Gn",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Dai Bachtiar, S.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gn Hiang Lin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Elisia Sowiti Sutrisna, Se",
+      "position": "Anggota"
+    },
+    {
+      "name": "Estu Sudarmanik",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pratama Citra Karunia",
+      "type": "Lebih dari 5%",
+      "shares": 298080000,
+      "percentage": 45
+    },
+    {
+      "name": "PT Precise Pacific Realty",
+      "type": "Lebih dari 5%",
+      "shares": 209671080,
+      "percentage": 31.65
+    },
+    {
+      "name": "Tahir",
+      "type": "Lebih dari 5%",
+      "shares": 103999400,
+      "percentage": 15.7
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 50253680,
+      "percentage": 7.58
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 302040,
+      "percentage": 0.05
+    },
+    {
+      "name": "Harry Wangidjaja",
+      "type": "Direksi",
+      "shares": 50800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Jonathan Tahir",
+      "type": "Komisaris",
+      "shares": 61000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Inti Dufree Promosindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 633453027892,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT. Inti Dufree Promosindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 605731599509,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT. Inti Dufree Promosindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 598987639338,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT. Inti Dufree Promosindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 579804591541,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT. Inti Dufree Promosindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 566248972987,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Karya Prima Unggulan",
+      "business_type": "Ritel / Retail",
+      "total_assets": 316663556577,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Karya Prima Unggulan",
+      "business_type": "Ritel / Retail",
+      "total_assets": 283748684670,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Karya Prima Unggulan",
+      "business_type": "Ritel / Retail",
+      "total_assets": 277121247069,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Karya Prima Unggulan",
+      "business_type": "Ritel / Retail",
+      "total_assets": 276702149206,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Karya Prima Unggulan",
+      "business_type": "Ritel / Retail",
+      "total_assets": 275020808310,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sukses Garda Mulia",
+      "business_type": "Ritel / Retail",
+      "total_assets": 5536981814,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukses Garda Mulia",
+      "business_type": "Ritel / Retail",
+      "total_assets": 5437172376,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukses Garda Mulia",
+      "business_type": "Ritel / Retail",
+      "total_assets": 5401651537,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukses Garda Mulia",
+      "business_type": "Ritel / Retail",
+      "total_assets": 5383451495,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sukses Garda Mulia",
+      "business_type": "Ritel / Retail",
+      "total_assets": 5335785051,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Arthamulia Indah",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1941494878,
+      "ownership_percentage": 99.55
+    },
+    {
+      "name": "PT Arthamulia Indah",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1928649033,
+      "ownership_percentage": 99.55
+    },
+    {
+      "name": "PT Arthamulia Indah",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1883722116,
+      "ownership_percentage": 99.55
+    },
+    {
+      "name": "PT Arthamulia Indah",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1871212003,
+      "ownership_percentage": 99.55
+    },
+    {
+      "name": "PT Arthamulia Indah",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1849866960,
+      "ownership_percentage": 99.55
+    },
+    {
+      "name": "PT Cahaya Retilindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1072972256,
+      "ownership_percentage": 99.78
+    },
+    {
+      "name": "PT Cahaya Retilindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1069029566,
+      "ownership_percentage": 99.78
+    },
+    {
+      "name": "PT Cahaya Retilindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1057851193,
+      "ownership_percentage": 99.78
+    },
+    {
+      "name": "PT Cahaya Retilindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1044813206,
+      "ownership_percentage": 99.78
+    },
+    {
+      "name": "PT Cahaya Retilindo",
+      "business_type": "Toko Bebas Bea / Trading",
+      "total_assets": 1042359413,
+      "ownership_percentage": 99.78
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.708.992.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,48",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,92",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "5,69",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "39,43",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,30",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "8,41",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:48.435Z"
+}

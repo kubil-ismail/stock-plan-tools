@@ -1,0 +1,215 @@
+{
+  "company_name": "Bumi Teknokultura Unggul Tbk",
+  "ticker": "BTEK",
+  "office_address": "Gedung Metaepsi Jl.d.i Panjaitan Kavling 2,rt 05 / Rw 09 Rawa Bunga,jatinegara Jakarta Timur 13350",
+  "email": "corporate@btek.ci.id",
+  "phone": "+62-21-8192989",
+  "fax": "+62-21-8567711",
+  "tax_id": "02.072.649.3-054.000",
+  "website": "https://www.btek.co.id",
+  "listing_date": "2004-05-14",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Pengolahan Kakao",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Gina Famya",
+    "email": "corporate@btek.co.id",
+    "phone": "+62-21- 8192989"
+  },
+  "directors": [
+    {
+      "name": "Dhanny Cahyadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Naning Wahyuningsih",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anne Patricia Sutanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rahmat Irawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rahmat Irawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Josua Hutapesa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Asep Dany Hartman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 22197452718,
+      "percentage": 47.97
+    },
+    {
+      "name": "Golden Harvest Cocoa Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 19247528400,
+      "percentage": 41.59
+    },
+    {
+      "name": "PT. Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 4557527258,
+      "percentage": 9.85
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 274988000,
+      "percentage": 0.59
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anne Patricia Sutanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rahmat Irawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dhanny Cahyadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Naning Wahyuningsih",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Golden Harvest Cocoa Pte. Ltd",
+      "business_type": "Trading",
+      "total_assets": 64,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Harvest Cocoa Pte. Ltd",
+      "business_type": "Trading",
+      "total_assets": 64,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Harvest Cocoa Pte. Ltd",
+      "business_type": "Trading",
+      "total_assets": 64,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Harvest Cocoa Pte. Ltd",
+      "business_type": "Trading",
+      "total_assets": 64,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Harvest Cocoa Pte. Ltd",
+      "business_type": "Trading",
+      "total_assets": 64,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "647.884.949.264",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "26,67",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "42,11",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "26,67",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "120,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "21,43",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "38,89",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:33.910Z"
+}

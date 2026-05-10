@@ -1,0 +1,238 @@
+{
+  "company_name": "Radiant Utama Interinsco Tbk",
+  "ticker": "RUIS",
+  "office_address": "Kapten Tendean No. 24 Jakarta 12720",
+  "email": "corsec@radiant.co.id; mona.nazaruddin@radiant.co.id",
+  "phone": "7191020",
+  "fax": "7191002",
+  "tax_id": "01.371.814.3-081.000",
+  "website": "https://www.radiant.co.id",
+  "listing_date": "2006-07-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Kontraktor penambangan",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Mona Nazaruddin",
+    "email": "mona.nazaruddin@radiant.co.id",
+    "phone": "0217191020"
+  },
+  "directors": [
+    {
+      "name": "Aby Abdullah Ganis",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Zaki Maulana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Soeharto Nurcahyono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Amira Ganis",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nino Fediawan Kusmedi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Misyal Abdullah Bahwal",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nino Fediawan Kusmedi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Asep Hikmat",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tjahjo Dahono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nino Fediawan Kusmedi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Asep Hikmat",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tjahjo Dahono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 302797600,
+      "percentage": 39.34
+    },
+    {
+      "name": "Haiyanto",
+      "type": "Lebih dari 5%",
+      "shares": 184598700,
+      "percentage": 23.97
+    },
+    {
+      "name": "Radiant Nusa Investama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 174354500,
+      "percentage": 22.64
+    },
+    {
+      "name": "Ocbc Securities Pte Ltd -client A/c",
+      "type": "Lebih dari 5%",
+      "shares": 106448200,
+      "percentage": 13.82
+    },
+    {
+      "name": "Ir. Misyal Abdullah Bahwal, Mba",
+      "type": "Komisaris",
+      "shares": 1801000,
+      "percentage": 0.23
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aby Abdullah Ganis, Mba",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Zaki Maulana, Mba",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nino Fediawan Kusmedi, S. Ak., Mmsi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Soeharto Nurcahyono, S. Ak",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amira Ganis, Mba",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Supraco Indonesia dan Entitas Anak",
+      "business_type": "Jasa Penyediaan Alat-alat Eksplorasi",
+      "total_assets": 859554612183,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Supraco Lines",
+      "business_type": "Jasa Pelayaran dalam Negeri",
+      "total_assets": 170612705143,
+      "ownership_percentage": 47.97
+    },
+    {
+      "name": "PT Supraco Deep Water",
+      "business_type": "Jasa Penyediaan Alat-alat Eksplorasi",
+      "total_assets": 19192879834,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "177.100.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,90",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,69",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "11,34",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "32,52",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,57",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "14,96",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:57.328Z"
+}

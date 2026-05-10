@@ -1,0 +1,210 @@
+{
+  "company_name": "Pool Advista Indonesia Tbk",
+  "ticker": "POOL",
+  "office_address": "Jl. Letjen Soepono Blok Cc6 No. 9-10 Arteri Permata Hijau Jakarta Selatan 12210",
+  "email": "contact.pai@pooladvista.com",
+  "phone": "021-86026300",
+  "fax": "021-53663180",
+  "tax_id": "01.313.259.2-054.000",
+  "website": "https://www.pooladvista.com",
+  "listing_date": "1991-05-20",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Ferdiansyah Siregar",
+    "email": "corsec@pooladvista.com",
+    "phone": "021-80626300"
+  },
+  "directors": [
+    {
+      "name": "Marhaendra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdiansyah Siregar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jokky Wahyoedi Hidayat",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ferianto Ferry Junarso",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gondo Radityo Gambiro",
+      "position": "Ketua"
+    },
+    {
+      "name": "Alfizar Hendra Muda",
+      "position": "Anggota"
+    },
+    {
+      "name": "Doddy Oktavianus Iskandar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1441008698,
+      "percentage": 61.55
+    },
+    {
+      "name": "Kejaksaan Agung",
+      "type": "Lebih dari 5%",
+      "shares": 625918824,
+      "percentage": 26.73
+    },
+    {
+      "name": "PT Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 175227234,
+      "percentage": 7.48
+    },
+    {
+      "name": "Pt.advista Multi Artha",
+      "type": "Lebih dari 5%",
+      "shares": 76913964,
+      "percentage": 3.29
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 22297544,
+      "percentage": 0.95
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jokky Wahyoedi Hidayat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marhaendra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferdiansyah Siregar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferianto Ferry Junarso",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Pool Advista Finance",
+      "business_type": "Pembiayaan",
+      "total_assets": 308995093,
+      "ownership_percentage": 75.94
+    },
+    {
+      "name": "PT. Asuransi Jiwa Advista",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 68529148,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Pool Advista Sekuritas",
+      "business_type": "Sekuritas",
+      "total_assets": 23999659,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Pool Advista Aset Manajemen",
+      "business_type": "Manajer Investasi",
+      "total_assets": 14154264,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "117.068.313.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:48.974Z"
+}

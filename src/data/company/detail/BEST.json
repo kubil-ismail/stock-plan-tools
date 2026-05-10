@@ -1,0 +1,289 @@
+{
+  "company_name": "Bekasi Fajar Industrial Estate Tbk",
+  "ticker": "BEST",
+  "office_address": "Kawasan Industri Mm2100 Jln. Sumatera Desa Gandasari, Kecamatan Cikarang Barat Kabupaten Bekasi",
+  "email": "corsec@befa.id",
+  "phone": "(021) 252-5334",
+  "fax": "(021) 252-0087",
+  "tax_id": "0013421573054000",
+  "website": "https://www.befa.id",
+  "listing_date": "2012-04-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pembangunan dan pengelolaan kawasan industri dan properti berikut seluruh sarana dan prasarana pendukungnya",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Manufaktur.",
+    "business_tags": [
+      "Properti",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Herdian",
+    "email": "herdian@bfie.co.id",
+    "phone": "2525334"
+  },
+  "directors": [
+    {
+      "name": "Leo Yulianto Sutedja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Swan Mie Rudy Tanardi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hiroki Yoshitake",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "I Gusti Putu Suryawirawan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yoshihiro Kobi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Herbudianto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wahyu Hidayat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Herbudianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hasan Anggono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Didin Wahyudin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Argo Manunggal Land Development",
+      "type": "Lebih dari 5%",
+      "shares": 4643604400,
+      "percentage": 48.13
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4031956750,
+      "percentage": 41.8
+    },
+    {
+      "name": "Nsl S/a Daiwa House Industry Co Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 964750000,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 7000000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Leo Yulianto Sutedja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Swan Mie Rudy Tanardi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hiroki Yoshitake",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "I Gusti Putu Suryawirawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yoshihiro Kobi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herbudianto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wahyu Hidayat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bekasi Matra Industrial Estate",
+      "business_type": "Kawasan Industri",
+      "total_assets": 2015691839733,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bekasi Matra Industrial Estate",
+      "business_type": "Kawasan Industri",
+      "total_assets": 1962021222784,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bekasi Matra Industrial Estate",
+      "business_type": "Kawasan Industri",
+      "total_assets": 1959142455372,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bekasi Matra Industrial Estate",
+      "business_type": "Kawasan Industri",
+      "total_assets": 1913514361994,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bekasi Surya Pratama",
+      "business_type": "Kawasan Industri",
+      "total_assets": 975102007710,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bekasi Surya Pratama",
+      "business_type": "Kawasan Industri",
+      "total_assets": 956870284614,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bekasi Surya Pratama",
+      "business_type": "Kawasan Industri",
+      "total_assets": 948947651443,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bekasi Surya Pratama",
+      "business_type": "Kawasan Industri",
+      "total_assets": 907522572172,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Best Sinar Nusantara",
+      "business_type": "Perhotelan",
+      "total_assets": 96307724433,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Best Sinar Nusantara",
+      "business_type": "Perhotelan",
+      "total_assets": 94658879653,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Best Sinar Nusantara",
+      "business_type": "Pembangunan Hotel dan Prasarana",
+      "total_assets": 92070878273,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Best Sinar Nusantara",
+      "business_type": "Pembangunan Hotel dan Prasarana",
+      "total_assets": 90435972592,
+      "ownership_percentage": 99.71
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.061.204.226.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,77",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,65",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "4,76",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "20,88",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,77",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "0,90",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:38.878Z"
+}

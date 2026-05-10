@@ -1,0 +1,241 @@
+{
+  "company_name": "Ekadharma International Tbk",
+  "ticker": "EKAD",
+  "office_address": "Galeri Niaga Mediterania 2 Blok L8 F-g, Pantai Indah Kapuk, Jakarta Utara 14460",
+  "email": "liephing@ekadharma.com",
+  "phone": "021-5883090",
+  "fax": "021-5883091",
+  "tax_id": "01.360.179.4-054.000",
+  "website": "https://www.ekadharma.com",
+  "listing_date": "1990-08-14",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Chemicals",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Khusus.",
+    "business_tags": [
+      "Barang Kimia Khusus"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 13,
+    "name": "Barang Kimia Khusus",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Ibu Lie Phing",
+    "email": "liephing@kdy.ekadharma.com",
+    "phone": "021-581-30-58"
+  },
+  "directors": [
+    {
+      "name": "Judi Widjaja Leonardi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lie Phing",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Emil Bachtiar",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rudy Kurniawan Leonardi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Emil Bachtiar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ancella A. Hermawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agustin Setya Ningrum",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ekadharma Inti Perkasa, PT,",
+      "type": "Lebih dari 5%",
+      "shares": 2874012300,
+      "percentage": 82.26
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 587871425,
+      "percentage": 16.82
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 31991275,
+      "percentage": 0.92
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Judi Widjaja Leonardi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lie Phing",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Emil Bachtiar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rudy Kurniawan Leonardi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Visko Sdn Bhd",
+      "business_type": "Indusri dan Perdagangan",
+      "total_assets": 222795991071,
+      "ownership_percentage": 77.95
+    },
+    {
+      "name": "Visko Sdn Bhd",
+      "business_type": "Indusri dan Perdagangan",
+      "total_assets": 213376197321,
+      "ownership_percentage": 77.95
+    },
+    {
+      "name": "Visko Sdn Bhd",
+      "business_type": "Indusri dan Perdagangan",
+      "total_assets": 213376197321,
+      "ownership_percentage": 77.95
+    },
+    {
+      "name": "Visko Sdn Bhd",
+      "business_type": "Indusri dan Perdagangan",
+      "total_assets": 195560907915,
+      "ownership_percentage": 77.95
+    },
+    {
+      "name": "Visko Sdn Bhd",
+      "business_type": "Indusri dan Perdagangan",
+      "total_assets": 194649785595,
+      "ownership_percentage": 77.95
+    },
+    {
+      "name": "Visko Industries Sdn Bhd",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 191002753438,
+      "ownership_percentage": 77.95
+    },
+    {
+      "name": "PT Ekadharma Mitra Niaga (d/h PT Dunia Cartridge)",
+      "business_type": "Perdagangan",
+      "total_assets": 3786432936,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Ekadharma Mitra Niaga",
+      "business_type": "Perdagangan",
+      "total_assets": 3499330251,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Ekadharma Mitra Niaga",
+      "business_type": "Perdagangan",
+      "total_assets": 3297526454,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Ekadharma Mitra Niaga",
+      "business_type": "Perdagangan",
+      "total_assets": 3206404534,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Ekadharma Mitra Niaga",
+      "business_type": "Perdagangan",
+      "total_assets": 3206404534,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Ekadharma Mitra Niaga",
+      "business_type": "Perdagangan",
+      "total_assets": 3106136710,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "625.403.625.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,56",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,72",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "5,79",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "6,77",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "2,72",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:20.552Z"
+}

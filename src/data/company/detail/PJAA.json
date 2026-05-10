@@ -1,0 +1,237 @@
+{
+  "company_name": "Pembangunan Jaya Ancol Tbk",
+  "ticker": "PJAA",
+  "office_address": "Ecovention Building-ecopark Jl. Lodan Timur No. 7 Taman Impian Jaya Ancol Jakarta 14430",
+  "email": "investor@ancol.com",
+  "phone": "021-6454567; 021-6453456",
+  "fax": "021-6452986; 021-64710502",
+  "tax_id": "01.300.238.1-054.000",
+  "website": "https://www.ancol.com",
+  "listing_date": "2004-07-02",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengembang Kawasan Properti Komersial",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 20,
+    "name": "Fasilitas Rekreasi & Olah Raga",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Agung Praptono",
+    "email": "agungp@ancol.com",
+    "phone": "021-6454567"
+  },
+  "directors": [
+    {
+      "name": "Syahmudrian Lubis",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Cahyo Satriyo Prakoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Nainggolan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eddy Prastiyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rahmaniar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Irfan Setiaputra",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sutiyoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lies Hartono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Suharini Eliawati",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Trisni Puspitaningtyas",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Irfan Setiaputra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Teti Eko Pratiwi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Loso Judijanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Buntoro",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pemerintah Daerah Dki Jakarta",
+      "type": "Lebih dari 5%",
+      "shares": 1151999999,
+      "percentage": 72
+    },
+    {
+      "name": "PT Pembangunan Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 288099999,
+      "percentage": 18.01
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 159875000,
+      "percentage": 9.99
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cahyo Satriyo Prakoso",
+      "type": "Direksi",
+      "shares": 25000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Taman Impian Jaya Ancol",
+      "business_type": "Pariwisata",
+      "total_assets": 2885349,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Seabreez Indonesia",
+      "business_type": "Pariwisata, Perdagangan & Jasa",
+      "total_assets": 41262,
+      "ownership_percentage": 98.13
+    },
+    {
+      "name": "PT Sarana Tirta Utama",
+      "business_type": "Jasa, Penjernihan Air Bersih, Limbah, Penyaluran Air Bersih, & Pendistribusian Air Bersih",
+      "total_assets": 24870,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Jaya Ancol",
+      "business_type": "Pariwisata",
+      "total_assets": 12379,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jaya Ancol Pratama Tol",
+      "business_type": "Pemb Tol & Jasa",
+      "total_assets": 11750,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Taman Impian",
+      "business_type": "Parawisata",
+      "total_assets": 10839,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Genggam Anugerah Lumbung Kuliner",
+      "business_type": "Jasa Konsultan",
+      "total_assets": 454,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "799.999.998.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,15",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "6,42",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "3,69",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,06",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "12,98",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:26.622Z"
+}

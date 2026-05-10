@@ -1,0 +1,239 @@
+{
+  "company_name": "PT Delta Giri Wacana Tbk",
+  "ticker": "DGWG",
+  "office_address": "Gedung Dgw Group Jl. Agung Karya Vi, Kav. A No. 7, Kelurahan Papanggo, Kecamatan Tanjung Priok, Jakarta Utara 14340",
+  "email": "corporate.secretary@dgw.co.id",
+  "phone": "(021) 6520 222",
+  "fax": "",
+  "tax_id": "31.428.025.6414.000",
+  "website": "https://www.dgw.co.id",
+  "listing_date": "2025-01-13",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Pupuk dan Produk Agrokimia",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 14,
+    "name": "Barang Kimia Pertanian",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Denny Loryta Davinci",
+    "email": "corporate.secretary@dgw.co.id",
+    "phone": "(021) 6520 222"
+  },
+  "directors": [
+    {
+      "name": "David Yaory",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Danny Jo Putra",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Muk Kuang",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Arbi Munandar",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Yody Suganda",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Widagdo Hendro Sukoco",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Pending Dadih Permana",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pending Dadih Permana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wenny Sugianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Okky Rachmadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "David Yaory",
+      "type": "Direksi",
+      "shares": 4255268100,
+      "percentage": 72.34
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 890213900,
+      "percentage": 15.13
+    },
+    {
+      "name": "PT Maybank Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 736843000,
+      "percentage": 12.53
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Danny Jo Putra",
+      "type": "Direksi",
+      "shares": 28000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Fertilizer Inti Technology",
+      "business_type": "Industri Pupuk Buatan Tunggal Hara Makro Primer, Perdagangan Besar Pupuk dan Produk Agrokimia",
+      "total_assets": 1230331,
+      "ownership_percentage": 94.27
+    },
+    {
+      "name": "PT Dharma Guna Wibawa",
+      "business_type": "Industri Pengolahan, dan Perdagangan Besar",
+      "total_assets": 734877,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bangun Sahabat Tani",
+      "business_type": "Perdagangan, Besar Pupuk dan Produk Agrokimia, Perdagangan Besar Mesin, Peralatan, Perlengkapan Pertanian",
+      "total_assets": 419359,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Dgw Pupuk Indonesia",
+      "business_type": "Perdagangan Besar Produk Pupuk dan Agrokimia",
+      "total_assets": 209533,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Mitra International Tunggal",
+      "business_type": "Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 199876,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Semesta Alam Sejati",
+      "business_type": "Industri Barang Plastik Lembaran, Perdagangan Besar Mesin, Peralatan, Perlengkapan Pertanian",
+      "total_assets": 59709,
+      "ownership_percentage": 99.5
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.282.352.964.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "11,22",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,95",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "17,14",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,14",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,94",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "7,94",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:53.279Z"
+}

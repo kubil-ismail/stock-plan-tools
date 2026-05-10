@@ -1,0 +1,284 @@
+{
+  "company_name": "PT Wira Global Solusi Tbk",
+  "ticker": "WGSH",
+  "office_address": "Holland Village Jakarta, Lantai 29 Unit 11, Jl. Letjen Suprapto No. 1, Rw.7, Cempaka Putih Timur, Kecamatan Cempaka Putih, Kota Jakarta Pusat, Dki Jakarta 10510",
+  "email": "info@wgshub.com",
+  "phone": "(021) 80633731",
+  "fax": "",
+  "tax_id": "76.635.118.3-423.000",
+  "website": "https://www.wgshub.com",
+  "listing_date": "2021-12-06",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Investasi Holding dan Teknologi Informasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 44,
+    "name": "Perangkat Lunak"
+  },
+  "sub_industry": {
+    "id": 69,
+    "name": "Perangkat Lunak",
+    "industries_id": 44
+  },
+  "corporate_secretary": {
+    "name": "Hendy Rusli",
+    "email": "corpsec@wgshub.com",
+    "phone": "02129580058"
+  },
+  "directors": [
+    {
+      "name": "Hendy Rusli",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pingadi Limanjaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "M Sajoang",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ikin Wirawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lucky Bayu Purnomo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Christina Rimawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tri Dyah Indrastuti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Walden Global Services",
+      "type": "Lebih dari 5%",
+      "shares": 764293998,
+      "percentage": 36.66
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 441000000,
+      "percentage": 21.16
+    },
+    {
+      "name": "Ikin Wirawan",
+      "type": "Komisaris",
+      "shares": 258140000,
+      "percentage": 12.38
+    },
+    {
+      "name": "PT Wynfield Global Ventures",
+      "type": "Lebih dari 5%",
+      "shares": 238622000,
+      "percentage": 11.44
+    },
+    {
+      "name": "PT Pusaka Mas Persada",
+      "type": "Lebih dari 5%",
+      "shares": 193553202,
+      "percentage": 9.28
+    },
+    {
+      "name": "PT Silicon Valley Connection",
+      "type": "Lebih dari 5%",
+      "shares": 157240000,
+      "percentage": 7.54
+    },
+    {
+      "name": "Erwin Senjaya Hartanto",
+      "type": "Komisaris",
+      "shares": 31100800,
+      "percentage": 1.49
+    },
+    {
+      "name": "Hendy Rusli",
+      "type": "Direksi",
+      "shares": 1050000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kirana Tama Teknologi",
+      "business_type": "Perdagangan Besar Serta Aktivitas Pemrograman",
+      "total_assets": 16527547545,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Qorser Teknologi",
+      "business_type": "Perdagangan Besar Serta Aktivitas Pemrograman",
+      "total_assets": 16228292225,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Kirana Tama Teknologi",
+      "business_type": "Perdagangan Besar Serta Aktivitas Pemrograman",
+      "total_assets": 14808486659,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Qorser Teknologi",
+      "business_type": "Perdagangan Besar Serta Aktivitas Pemrograman",
+      "total_assets": 12719290093,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Smooets Teknologi Outsourcing",
+      "business_type": "Perdagangan Besar Serta Aktivitas Pemrograman",
+      "total_assets": 9790842445,
+      "ownership_percentage": 99.87
+    },
+    {
+      "name": "PT Smooets Teknologi Outsourcing",
+      "business_type": "Perdagangan Besar Serta Aktivitas Pemrograman",
+      "total_assets": 9596037743,
+      "ownership_percentage": 99.87
+    },
+    {
+      "name": "PT Kirana Tama Teknologi",
+      "business_type": "Perdagangan Besar dan Eceran Serta Komunikasi dan Informasi",
+      "total_assets": 4595543083,
+      "ownership_percentage": 99.87
+    },
+    {
+      "name": "PT Smooets Teknologi Outsourcing",
+      "business_type": "Perdagangan Besar dan Eceran Serta Komunikasi dan Informasi",
+      "total_assets": 3901987820,
+      "ownership_percentage": 99.87
+    },
+    {
+      "name": "PT Qorser Teknologi",
+      "business_type": "Perdagangan Besar dan Eceran Serta Komunikasi dan Informasi",
+      "total_assets": 3509750073,
+      "ownership_percentage": 99.47
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "212.670.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,00",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "62,78",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "64,39",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "40,36",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,94",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "64,64",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:33.121Z"
+}

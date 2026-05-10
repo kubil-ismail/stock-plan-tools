@@ -1,0 +1,271 @@
+{
+  "company_name": "PT Indomobil Multi Jasa Tbk.",
+  "ticker": "IMJS",
+  "office_address": "Indomobil Tower Lt. 11, Jl. MT Haryono Kav. 11, Jakarta 13330",
+  "email": "ita@indomobilmultijasa.com",
+  "phone": "(021) 29185400",
+  "fax": "(021) 29185401",
+  "tax_id": "02.489.292.9-002.000",
+  "website": "https://www.indomobilmultijasa.com",
+  "listing_date": "2013-12-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Otomotif, Keuangan.",
+    "business_tags": [
+      "Logistik",
+      "Otomotif",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 36,
+    "name": "Pengangkutan Darat Penumpang"
+  },
+  "sub_industry": {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  "corporate_secretary": {
+    "name": "Syafitri Meitasari",
+    "email": "syafitri.meitasari@indomobilmultijasa.com",
+    "phone": "02129185400"
+  },
+  "directors": [
+    {
+      "name": "Jusak Kertowidjojo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gunawan (gunawan Effendi)",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Nasuri",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Toshiro Mizutani",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Prijono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Willianto Husada",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Hasan Pura Anggawijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Hasan Pura Anggawijaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Inna Saparina Sutanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Amelia Setiawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indomobil Sukses International Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 9978217076,
+      "percentage": 91.97
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 871037924,
+      "percentage": 8.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 7500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Pt.indomobil Finance Indonesia",
+      "business_type": "Pembiayaan",
+      "total_assets": 17424772,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "Pt.csm Corporatama",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 13092902,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Pt.seino Indomobil Logistics",
+      "business_type": "Jasa Pengangkutan",
+      "total_assets": 5746863,
+      "ownership_percentage": 74.9
+    },
+    {
+      "name": "Pt.indomobil Bussan Trucking",
+      "business_type": "Penyewaan Kendaraan Truk",
+      "total_assets": 1168357,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Pt.indomobil Bussan Penske",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 150308,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Pt.wahana Trada Mobilindo",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 113662,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Kharisma Muda",
+      "business_type": "Jasa Pengemudi",
+      "total_assets": 58463,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Indomobil Ekspres Truk",
+      "business_type": "Jasa Perbaikan dan Perawatan",
+      "total_assets": 58260,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Pt.indomobil Bintan Corpora",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 47349,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Pt.solusi Indomobil Perkasa",
+      "business_type": "Ekspedisi",
+      "total_assets": 23153,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Pt.indomobil Edukasi Utama",
+      "business_type": "Jasa Pelatihan",
+      "total_assets": 14930,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Duta Inti Jasa",
+      "business_type": "Jasa Pengemudi",
+      "total_assets": 1934,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Pt.lippo Indorent",
+      "business_type": "Penjualan Bahan Bakar (spbu)",
+      "total_assets": 0,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Suherman & Surja"
+    },
+    {
+      "name": "Purwantono, Suherman & Surja"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Purwantono, Suherman & Surja"
+    },
+    {
+      "name": "Purwantono, Suherman & Surja"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.093.907.662.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "20,37",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,63",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "18,75",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "8,33",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,52",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "30,85",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:12.077Z"
+}

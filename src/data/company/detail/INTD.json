@@ -1,0 +1,193 @@
+{
+  "company_name": "Inter-delta Tbk",
+  "ticker": "INTD",
+  "office_address": "Jl. Gaya Motor Barat Sunter II Jakarta Utara 14330",
+  "email": "corpsecr@interdelta.co.id",
+  "phone": "021 6523333",
+  "fax": "021 6510472",
+  "tax_id": "01.300.809.9-054.000",
+  "website": "https://www.inter-delta.co.id",
+  "listing_date": "1989-12-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan dan Photograf",
+    "business_summary": "Perusahaan bergerak di bidang Kertas.",
+    "business_tags": [
+      "Kertas"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 37,
+    "name": "Kertas",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Wiwid Puji Hastuti",
+    "email": "corpsec@interdelta.com",
+    "phone": "021-651 1533; 652 3333"
+  },
+  "directors": [
+    {
+      "name": "Kevin Wong",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Joe Marco Lesmana",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Karna Brata Lesmana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hasan Efendi Liem",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hasan Efendi Liem",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fachrul Abdul Rachman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hendra Brata",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Peak Aim Depelopment Limited",
+      "type": "Lebih dari 5%",
+      "shares": 323940000,
+      "percentage": 54.74
+    },
+    {
+      "name": "Karna Brata Lesmana",
+      "type": "Komisaris",
+      "shares": 134754220,
+      "percentage": 22.77
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 66843730,
+      "percentage": 11.29
+    },
+    {
+      "name": "Natasha Lesmana",
+      "type": "Lebih dari 5%",
+      "shares": 57644500,
+      "percentage": 9.74
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 8645550,
+      "percentage": 1.46
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Fotomatic Jaya Inndustries",
+      "business_type": "Cuci Cetak",
+      "total_assets": 50000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Fotomatic Jaya Inndustries",
+      "business_type": "Cuci Cetak",
+      "total_assets": 50000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Fotomatic Jaya Inndustries",
+      "business_type": "Cuci Cetak",
+      "total_assets": 50000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Fotomatic Jaya Inndustries",
+      "business_type": "Cuci Cetak",
+      "total_assets": 50000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Motomatic Jaya Industries",
+      "business_type": "Cuci Cetak Film",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Motomatic Jaya Industries",
+      "business_type": "Cuci Cetak Film",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "139.671.408.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,40",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,63",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "11,93",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "27,08",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,40",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,91",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:30.965Z"
+}

@@ -1,0 +1,384 @@
+{
+  "company_name": "PT Impack Pratama Industri Tbk",
+  "ticker": "IMPC",
+  "office_address": "Altira Office Tower Lantai 38, Altira Business Park, Jl. Yos Sudarso No. 85 Jakarta Utara14350",
+  "email": "corporate.secretary@impack-pratama.com",
+  "phone": "6221- 65311045",
+  "fax": "6221-65311041",
+  "tax_id": "01.361.563.8-046.000",
+  "website": "https://www.impack-pratama.com",
+  "listing_date": "2014-12-17",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Produsen dan distributor bahan bangunan dan barang plastik",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Manufaktur.",
+    "business_tags": [
+      "Properti",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Lenggana Linggawati",
+    "email": "corporate.secretary@impack-pratama.com",
+    "phone": "6221-65311045"
+  },
+  "directors": [
+    {
+      "name": "David Herman Liasdanu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Phillip Tjipto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Haryanto Tjiptodihardjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wira Yuwana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Janto Salim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sugiarto Romeli",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lisan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Irawan Soerodjo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tri Susilo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Janti Widjaja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tunggal Jaya Investama",
+      "type": "Lebih dari 5%",
+      "shares": 20759426194,
+      "percentage": 37.81
+    },
+    {
+      "name": "PT Harimas Tunggal Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 19625699600,
+      "percentage": 35.74
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 13424057306,
+      "percentage": 24.45
+    },
+    {
+      "name": "Haryanto Tjiptodihardjo",
+      "type": "Direksi",
+      "shares": 626758000,
+      "percentage": 1.14
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 216578700,
+      "percentage": 0.4
+    },
+    {
+      "name": "Phillip Tjipto",
+      "type": "Direksi",
+      "shares": 158853100,
+      "percentage": 0.29
+    },
+    {
+      "name": "Sugiarto Romeli",
+      "type": "Direksi",
+      "shares": 40025000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Janto Salim",
+      "type": "Direksi",
+      "shares": 33777100,
+      "percentage": 0.06
+    },
+    {
+      "name": "Lindawati",
+      "type": "Komisaris",
+      "shares": 8400000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Lisan",
+      "type": "Direksi",
+      "shares": 7575000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Wira Yuwana",
+      "type": "Direksi",
+      "shares": 4630000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Herman Liasdanu",
+      "type": "Direksi",
+      "shares": 1220000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Unipack Plasindo",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 1198879740323,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mulford Indonesia",
+      "business_type": "Distributor",
+      "total_assets": 952535107767,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Mulford Plastics Pty Ltd",
+      "business_type": "Distributor",
+      "total_assets": 548989398126,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sinar Grahamas Lestari",
+      "business_type": "Pengembang Properti",
+      "total_assets": 447460966151,
+      "ownership_percentage": 50.95
+    },
+    {
+      "name": "Impackone Pty Ltd",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 191088085510,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Impack International Pte Ltd.",
+      "business_type": "Merk Dagang, Investasi, dan Distribusi",
+      "total_assets": 182010705547,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Alderon Pratama Indonesia",
+      "business_type": "Distributor",
+      "total_assets": 172909785596,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Alsynite One Nz Limited",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 167784248266,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mulford Plastics (nz) Limited",
+      "business_type": "Distributor",
+      "total_assets": 155329373830,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sirkular Karya Indonesia",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 129804489960,
+      "ownership_percentage": 90.18
+    },
+    {
+      "name": "Impackone Sdn Bhd",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 119800312433,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kreasi Dasatama",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 119450345117,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Mulford Holdings Pty Ltd",
+      "business_type": "Merk Dagang, Investasi, dan Distribusi",
+      "total_assets": 72556236659,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mulford Plastics (m) Sdn Bhd",
+      "business_type": "Distributor",
+      "total_assets": 71908612219,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Impack Vietnam Company Limited",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 47230410607,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Oci Material Pratama",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 33620695610,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Alsynite Indonesia",
+      "business_type": "Manufaktur Plastik",
+      "total_assets": 13291301508,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Oci International Sdn. Bhd.",
+      "business_type": "Distributor",
+      "total_assets": 148795152,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Impack One Pte. Ltd.",
+      "business_type": "Merk Dagang, Investasi, dan Distribusi",
+      "total_assets": 23839,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "121.893.540.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "17,00",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "10,69",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "617,79",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,93",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "40,46",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:12.926Z"
+}

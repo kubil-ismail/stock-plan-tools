@@ -1,0 +1,241 @@
+{
+  "company_name": "PT Jhonlin Agro Raya Tbk",
+  "ticker": "JARR",
+  "office_address": "Jl. Kodeco Km 1, Kelurahan Gunung Antasari, Kecamatan Simpang Empat, Kabupaten Tanah Bumbu Kalimatan Selatan 72213",
+  "email": "corsec@ptjar.com",
+  "phone": "+62 518 2090000",
+  "fax": "+62 518 2090001",
+  "tax_id": "70.663.132.2-734.000",
+  "website": "https://www.ptjar.com",
+  "listing_date": "2022-08-04",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perkebunan dan Pengolahan Minyak Kelapa Sawit Terpadu",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Sugi Haryanti",
+    "email": "corsec@ptjar.com",
+    "phone": "+62 518 2090000"
+  },
+  "directors": [
+    {
+      "name": "Indra Irawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Temmy Iskandar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jhony Saputra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Aria Wisena",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Usman Aji Purnomo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "I Nyoman Jendrika",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Usman Aji Purnomo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ilham Rusydi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Al Supardini",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Eshan Agro Sentosa",
+      "type": "Lebih dari 5%",
+      "shares": 7997556204,
+      "percentage": 86.64
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1222950000,
+      "percentage": 13.24
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 10158846,
+      "percentage": 0.12
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Aria Wisena",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Indra Irawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Temmy Iskandar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jhony Saputra",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Usman Aji Purnomo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "I Nyoman Jendrika",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "20.215.156.459.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,59",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "6,73",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "43,32",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "462,16",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,80",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "34,80",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:47.090Z"
+}

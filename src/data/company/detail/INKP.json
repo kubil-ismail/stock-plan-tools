@@ -1,0 +1,230 @@
+{
+  "company_name": "Indah Kiat Pulp & Paper Tbk",
+  "ticker": "INKP",
+  "office_address": "Gedung Sinar Mas Land Plaza Menara 2 Lt 9 Jl. Mh.thamrin No 51 Gondangdia Menteng Jakarta Pusat Dki Jakarta 10350",
+  "email": "yan_partawijaya@app.co.id; suhendra_wiriadinata@app.co.id; heri_santoso@app.co.id; lydia_lydia@app.co.id",
+  "phone": "021-29650800",
+  "fax": "021 - 3927685",
+  "tax_id": "01.000.566.8-092.000",
+  "website": "https://www.app.co.id",
+  "listing_date": "1990-07-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pulp and Paper",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 37,
+    "name": "Kertas",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Heri Santoso",
+    "email": "heri_santoso@app.co.id",
+    "phone": "021- 29650800"
+  },
+  "directors": [
+    {
+      "name": "Hendra Jaya Kosasih",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suhendra Wiriadinata",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Didi Harsa Tanaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kurniawan Yuwono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lioe Djohan (djohan Gunawan)",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agustian Rachmansjah Partawidjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heri Santoso,liem",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Saleh Husin, Se, Msi",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kosim Sutiono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sukirta Mangku Djaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Andri Setiawan Yapsir",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Ir. Rizal Affandi Lukman,m.a.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Prof. Widyo Pramono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Baharudin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ir. Rizal Affandi Lukman, M.a.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Baharudin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tio I Huat",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT App Purinusa Ekapersada",
+      "type": "Lebih dari 5%",
+      "shares": 3190144498,
+      "percentage": 58.3103
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2200226253,
+      "percentage": 40.2163
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 80385390,
+      "percentage": 1.4693
+    },
+    {
+      "name": "Hendra Jaya Kosasih",
+      "type": "Direksi",
+      "shares": 226800,
+      "percentage": 0.0041
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Imperial Investment Limited",
+      "business_type": "Investasi",
+      "total_assets": 1616466,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Paramitra Abadimas Cemerlang (pac)",
+      "business_type": "Perdagangan",
+      "total_assets": 21246,
+      "ownership_percentage": 95.16
+    },
+    {
+      "name": "Indah Kiat International Finance Company B.v.",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 2716,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Kemasindo Indah",
+      "business_type": "Perdagangan",
+      "total_assets": 2061,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "53.342.083.674.750",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,91",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "3,39",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "22,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "58,44",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,15",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "4,27",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:24.667Z"
+}

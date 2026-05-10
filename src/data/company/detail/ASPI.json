@@ -1,0 +1,206 @@
+{
+  "company_name": "PT Andalan Sakti Primaindo Tbk.",
+  "ticker": "ASPI",
+  "office_address": "Sona Topas Tower Lantai 5 Ruang 5-01 Jl. Jend. Sudirman Kav. 26 Kelurahan Karet, Kecamatan Setia Budi Jakarta Selatan 12920",
+  "email": "info@ansa-land.com",
+  "phone": "(62-21) 250 6789",
+  "fax": "(62-21) 290 37545",
+  "tax_id": "03.274.046.6-011.000",
+  "website": "https://www.ansa-land.com",
+  "listing_date": "2020-02-17",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang Real Estat",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Arnoldus Jansen Kustianto",
+    "email": "info@ansa-land.com",
+    "phone": "(62-21) 250 6789"
+  },
+  "directors": [
+    {
+      "name": "Suwandi Notopradono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Arnoldus Jansen Kustianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Teddi Budiman",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Loeky Sandrie",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Loeky Sandrie",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dharmawandi Sutanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Andalan Sakti Inti",
+      "type": "Lebih dari 5%",
+      "shares": 349995000,
+      "percentage": 51.18
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 333810725,
+      "percentage": 48.82
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5000,
+      "percentage": 0
+    },
+    {
+      "name": "Teddi Budiman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suwandi Notopradono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Andalan Sakti Nusa",
+      "business_type": "Real Estat",
+      "total_assets": 72311291267,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Asia Mentari Properti",
+      "business_type": "Real Estat",
+      "total_assets": 20577976934,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "256.365.567.192",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,69",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "19,49",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "36,60",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "198,72",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "20,73",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "35,28",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:46.357Z"
+}

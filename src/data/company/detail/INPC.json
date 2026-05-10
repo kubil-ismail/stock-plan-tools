@@ -1,0 +1,224 @@
+{
+  "company_name": "Bank Artha Graha Internasional Tbk",
+  "ticker": "INPC",
+  "office_address": "Gedung Artha Graha Lt. 5, Jl. Jend Sudirman Kav. 52-53 Senayan Kebayoran Baru Jakarta Selatan Dki Jakarta Raya -12190",
+  "email": "co_secretary@ag.co.id",
+  "phone": "(021) 515-2168",
+  "fax": "(021) 515-3157",
+  "tax_id": "01.314.288.0-054.000",
+  "website": "https://www.arthagraha.com",
+  "listing_date": "1990-08-23",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Rumi Kreshna Wibowo",
+    "email": "co_secretary@ag.co.id",
+    "phone": "(021) 5152168"
+  },
+  "directors": [
+    {
+      "name": "Andy Kasih",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Christina Harapan",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Indrastomo Nugroho",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Handoyo Soedirdja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Susana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Selvy Hutomo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kiki Syahnakri",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tomy Winata",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sugianto Kusuma",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Elizawatie Simon",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Pesta Uli Sitanggang",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pesta Uli Sitanggang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Suryani Purwita",
+      "position": "Anggota"
+    },
+    {
+      "name": "Anas Latief",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7980373447,
+      "percentage": 39.47
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3969907118,
+      "percentage": 19.63
+    },
+    {
+      "name": "PT Cakra Inti Utama",
+      "type": "Lebih dari 5%",
+      "shares": 2908909842,
+      "percentage": 14.38
+    },
+    {
+      "name": "PT Pirus Platinum Murni",
+      "type": "Lebih dari 5%",
+      "shares": 1361238977,
+      "percentage": 6.73
+    },
+    {
+      "name": "PT Cerana Artha Putra",
+      "type": "Lebih dari 5%",
+      "shares": 1322157253,
+      "percentage": 6.54
+    },
+    {
+      "name": "PT Artha Graha Network",
+      "type": "Lebih dari 5%",
+      "shares": 1134617030,
+      "percentage": 5.61
+    },
+    {
+      "name": "PT Puspita Bisnispuri",
+      "type": "Lebih dari 5%",
+      "shares": 1087913290,
+      "percentage": 5.38
+    },
+    {
+      "name": "Sugianto Kusuma",
+      "type": "Komisaris",
+      "shares": 450450450,
+      "percentage": 2.23
+    },
+    {
+      "name": "Handoyo Soedirdja",
+      "type": "Direksi",
+      "shares": 7000000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Christina Harapan",
+      "type": "Direksi",
+      "shares": 845500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.163.346.247.082",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,07",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,06",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "13,19",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,63",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "3,27",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:26.552Z"
+}

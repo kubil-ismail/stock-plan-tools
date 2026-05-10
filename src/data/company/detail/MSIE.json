@@ -1,0 +1,204 @@
+{
+  "company_name": "PT Multisarana Intan Eduka Tbk",
+  "ticker": "MSIE",
+  "office_address": "Jl. Raya Kedung Baruk No. 112 - 114 Penjaringan Sari, Kec. Rungkut, Kota Surabaya, Jawa Timur",
+  "email": "corporate.secretary@msie.co.id",
+  "phone": "(+62) 31-8709595",
+  "fax": "",
+  "tax_id": "03.177.832.7-606.000",
+  "website": "http://www.msie.co.id",
+  "listing_date": "2023-08-10",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bergerak di Bidang real estat dan aktivitas penyewaan dan sewa guna usaha tanpa hak opsi, ketenagakerjaan, agen perjalanan dan penunjang usaha lainnya.",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Catharina Siena Nesti D. U Sunaryo",
+    "email": "corporate.secretary@msie.co.id",
+    "phone": "(+62) 31-8709595"
+  },
+  "directors": [
+    {
+      "name": "Tanu Widjaja",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Imanuel Herman Prawiromaruto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Agustina Felisia Willeam",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ian Griffin Prawiromaruto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agustina Felisia Willeam",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tanu Widjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Denny Harisetiawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Suzanna Rosa Prawiromaruto",
+      "type": "Lebih dari 5%",
+      "shares": 440000000,
+      "percentage": 30.14
+    },
+    {
+      "name": "Imanuel Herman Prawiromaruto",
+      "type": "Direksi",
+      "shares": 440000000,
+      "percentage": 30.14
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 358757754,
+      "percentage": 24.56
+    },
+    {
+      "name": "Swandriyani Hudianto",
+      "type": "Lebih dari 5%",
+      "shares": 220000000,
+      "percentage": 15.07
+    },
+    {
+      "name": "Ian Griffin Prawiromaruto",
+      "type": "Komisaris",
+      "shares": 1250000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Pt.surya Kebenaran Nusantara",
+      "business_type": "Property",
+      "total_assets": 12576086776,
+      "ownership_percentage": 99.97
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "163.520.868.448",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "214,89",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "228,89",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "202,04",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "722,22",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "20,33",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "184,62",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:16.367Z"
+}

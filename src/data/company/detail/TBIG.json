@@ -1,0 +1,299 @@
+{
+  "company_name": "PT Tower Bersama Infrastructure Tbk",
+  "ticker": "TBIG",
+  "office_address": "Gedung The Convergence Indonesia, Lt. 11, Kaw. Rasuna Epicentrum, Jl. Hr. Rasuna Said, Jkt-selatan",
+  "email": "corporate.secretary@tower-bersama.com",
+  "phone": "+62 21 2924 8900",
+  "fax": "+62 21 2157 2015",
+  "tax_id": "0023 8875 3205 4000",
+  "website": "https://www.tower-bersama.com",
+  "listing_date": "2010-10-26",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Penyedia Jasa In frastruktur Telekomunikasi Terintegrasi mela lui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 17,
+    "name": "Jasa Telekomunikasi Nirkabel"
+  },
+  "sub_industry": {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  "corporate_secretary": {
+    "name": "Helmy Yusman Santoso",
+    "email": "corporate.secretary@tower-bersama.com",
+    "phone": "+62 21 2924 8900"
+  },
+  "directors": [
+    {
+      "name": "Herman Setya Budi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hardi Wijaya Liong",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budianto Purwahjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Helmy Yusman Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Leonardus Wahyu Wasono Mihardjo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Edwin Soeryadjaya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Verena Lim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ludovicus Sensi Wondabio",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Heri Sunaryadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ludovicus Sensi Wondabio",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agustino Sunarko",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agung Nugroho Soedibyo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bersama Digital Infrastructure Asia Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 18418171023,
+      "percentage": 81.29
+    },
+    {
+      "name": "Wahana Anugerah Sejahtera, PT",
+      "type": "Lebih dari 5%",
+      "shares": 2122271590,
+      "percentage": 9.37
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1867451197,
+      "percentage": 8.24
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 96385100,
+      "percentage": 0.43
+    },
+    {
+      "name": "Edwin Soeryadjaya",
+      "type": "Komisaris",
+      "shares": 71585630,
+      "percentage": 0.32
+    },
+    {
+      "name": "Hardi Wijaya Liong",
+      "type": "Direksi",
+      "shares": 68359905,
+      "percentage": 0.3
+    },
+    {
+      "name": "Herman Setya Budi",
+      "type": "Direksi",
+      "shares": 4625000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Budianto Purwahjo",
+      "type": "Direksi",
+      "shares": 5025000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Helmy Yusman Santoso",
+      "type": "Direksi",
+      "shares": 3125000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Leonardus Wahyu Wasono Mihardjo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Verena Lim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heri Sunaryadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ludovicus Sensi Wondabio",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tower Bersama",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 29696561,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metric Solusi Integrasi",
+      "business_type": "Holding",
+      "total_assets": 9132563,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Menara Indonesia",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 4868669,
+      "ownership_percentage": 70.03
+    },
+    {
+      "name": "PT Gihon Telekomunikasi Indonesia Tbk",
+      "business_type": "Konstruksi, Informasi dan Komunikasi",
+      "total_assets": 1385833,
+      "ownership_percentage": 50.43
+    },
+    {
+      "name": "PT Visi Telekomunikasi Infrastruktur Tbk",
+      "business_type": "Jasa Penyediaan Infrastruktur Telekomunikasi",
+      "total_assets": 457130,
+      "ownership_percentage": 51.09
+    },
+    {
+      "name": "PT Tower One",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 454379,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Telenet Internusa",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 273653,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Triaka Bersama",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 115416,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Menara Bersama Terpadu",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 10057,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT United Towerindo",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "39.536.464.031.525",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,71",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,60",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,27",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "22,33",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,16",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "38,46",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:19.706Z"
+}

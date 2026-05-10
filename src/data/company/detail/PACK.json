@@ -1,0 +1,199 @@
+{
+  "company_name": "PT Abadi Nusantara Hijau Investama Tbk",
+  "ticker": "PACK",
+  "office_address": "Noble House Lantai 31, Kawasan Mega Kuningan Nomor 1-2, Jalan Doktor Ide Anak Agung Gde Agung Kaveling E.4.3, Kelurahan Kuningan Timur, Kecamatan Setiabudi, Jakarta Selatan 12950",
+  "email": "corsec@anhinvt.com",
+  "phone": "021-29783061",
+  "fax": "",
+  "tax_id": "0934126400035000",
+  "website": "https://www.anhinvt.com",
+  "listing_date": "2023-02-08",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bidang Industri Percetakan Digital Untuk Kemasan Fleksibel",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Calvin Setiawan",
+    "email": "corsec@flexypack.com",
+    "phone": "021-29783061"
+  },
+  "directors": [
+    {
+      "name": "Magdalena Veronika",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Frans Raida",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fu Pei Wen",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Endang Sutrisna",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Endang Sutisna",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mira Khanza Felitza",
+      "position": "Anggota"
+    },
+    {
+      "name": "Zuhair",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Eco Energi Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 19972772382,
+      "percentage": 61.71
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 10599130531,
+      "percentage": 32.74
+    },
+    {
+      "name": "Dbs Bank Ltd S/a Pwm",
+      "type": "Lebih dari 5%",
+      "shares": 1750480600,
+      "percentage": 5.41
+    },
+    {
+      "name": "Magdalena Veronika",
+      "type": "Direksi",
+      "shares": 30093000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Zhu Jiangjian",
+      "type": "Direksi",
+      "shares": 14968000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.926.470.164.782",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "33,33",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,61",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "91,00",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "88,28",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,69",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "87,77",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:04.030Z"
+}

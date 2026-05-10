@@ -1,0 +1,222 @@
+{
+  "company_name": "Jaya Konstruksi Manggala Pratama Tbk",
+  "ticker": "JKON",
+  "office_address": "Kantor Taman Bintaro Jaya, Gedung B Jl. Bintaro Raya Jakarta 12330",
+  "email": "info@jayakonstruksi.com",
+  "phone": "7363939; 7340260",
+  "fax": "7363959",
+  "tax_id": "01.362.643.7-062.000",
+  "website": "https://www.jayakonstruksi.com",
+  "listing_date": "2007-12-04",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Indrajanti",
+    "email": "corporate@jayakonstruksi.com",
+    "phone": "7363939"
+  },
+  "directors": [
+    {
+      "name": "Fransiskus Yohanes H. Lazaro",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budi M. Sianipar",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Setiadi Lukita",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indrajanti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tri Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Letjen Tni (purn.) Dr. (h.c.) H. Sutiyoso, S.h.",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Masagoes Ismail Ning",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Frans Satyaki Sunito",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kristianto Indrawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Frans Satyaki Sunito",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sri Nugroho",
+      "position": "Anggota"
+    },
+    {
+      "name": "Eugenia Fiona Susianto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pembangunan Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 9929587750,
+      "percentage": 60.89
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5992928270,
+      "percentage": 36.42
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 386003840,
+      "percentage": 2.37
+    },
+    {
+      "name": "Agus Setiadi Lukita",
+      "type": "Direksi",
+      "shares": 43290000,
+      "percentage": 0.27
+    },
+    {
+      "name": "Masagoes Ismail Ning",
+      "type": "Komisaris",
+      "shares": 8065000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tri Wibowo",
+      "type": "Direksi",
+      "shares": 200,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jaya Trade Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 1210319680,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Jaya Beton Indonesia",
+      "business_type": "Produksi dan Perdagangan Barang Bangunan yang Dibuat dari Campuran Beton",
+      "total_assets": 608198775,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Jaya Teknik Indonesia",
+      "business_type": "Perdagangan, Pembangunan, Jasa dan Perindustrian",
+      "total_assets": 435207248,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Jaya Daido Concrete",
+      "business_type": "Produksi Tiang Pancang Beton Pra Tekan, Mengarahkan Tiang Pancang Beton, Desain dan Perencanaan Pondasi Tiang Pancang, Pelaksana dan Menganalisa Pengujian Muatan Beban",
+      "total_assets": 9879373,
+      "ownership_percentage": 88.76
+    },
+    {
+      "name": "PT Jaya Konstruksi Pratama Tol",
+      "business_type": "Pembangunan dan Jasa",
+      "total_assets": 4967158,
+      "ownership_percentage": 75
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.255.756.029.220",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,11",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,80",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,52",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,11",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,80",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,64",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:54.380Z"
+}

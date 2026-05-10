@@ -1,0 +1,209 @@
+{
+  "company_name": "Citra Tubindo Tbk",
+  "ticker": "CTBN",
+  "office_address": "World Trade Centre (wtc) 5 Lantai 16 Jl.jenderal Sudirman Kav.29-31 Jakarta Selatan",
+  "email": "corsec@citratubindo.co.id",
+  "phone": "(021) 5250609",
+  "fax": "(021) 5712317",
+  "tax_id": "01.258.311.8-054.000",
+  "website": "https://www.citratubindo.com",
+  "listing_date": "1989-11-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Metal and Alied Products",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Susi Yulianti",
+    "email": "susi.yulianti@citratubindo.com",
+    "phone": "021-5250609"
+  },
+  "directors": [
+    {
+      "name": "Xavier Claude Bertin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Saiful Mizra Bin Kassim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Susi Yulianti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mathieu Florent Jacques Barreau",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jerome Henry Marcel Favre",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sudjono Suhardjo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sudjono Suhardjo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Luki Karunia",
+      "position": "Anggota"
+    },
+    {
+      "name": "Roslini Onwardi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Kestrel Wave Investment Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 386029420,
+      "percentage": 48.23
+    },
+    {
+      "name": "Vallourec Tubes",
+      "type": "Lebih dari 5%",
+      "shares": 268000000,
+      "percentage": 33.48
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 90525200,
+      "percentage": 11.32
+    },
+    {
+      "name": "Nippon Steel Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 55816880,
+      "percentage": 6.97
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saiful Mizra Bin Kassim",
+      "type": "Direksi",
+      "shares": 500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sarana Citranusa Kabil (scn)",
+      "business_type": "Port Services",
+      "total_assets": 13240666,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Citra Pembina Pengangkutan Industries (cppi)",
+      "business_type": "Transportation Services",
+      "total_assets": 5483500,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Citramadya Cargindo (cmc)",
+      "business_type": "Stevedoring Services",
+      "total_assets": 922837,
+      "ownership_percentage": 98.6
+    },
+    {
+      "name": "Ns Connection Technology Pte Ltd (nsct Pl)",
+      "business_type": "Technical Support",
+      "total_assets": 870819,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.342.015.387.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,07",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,20",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,62",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "7,55",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,04",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "3,39",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:35.971Z"
+}

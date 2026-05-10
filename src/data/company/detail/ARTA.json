@@ -1,0 +1,168 @@
+{
+  "company_name": "Arthavest Tbk",
+  "ticker": "ARTA",
+  "office_address": "Sahid Sudirman Center Lt.55 Jl.jend.sudirman No. 86 Jakarta 10220",
+  "email": "corpsec@arthavest.com",
+  "phone": "021-31116101",
+  "fax": "021-3453075",
+  "tax_id": "01.356.069.3-054.000",
+  "website": "https://www.arthavest.com",
+  "listing_date": "2002-11-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Tsun Tien Wen Lie",
+    "email": "corpsec@arthavest.com",
+    "phone": "021 31116101"
+  },
+  "directors": [
+    {
+      "name": "Chan Shih Mei",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tsun Tien Wen Lie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yeremy Vincentius",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Henry F. Jusuf, Ma",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dahnu Teguh Adrianto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ervina",
+      "position": "Anggota"
+    },
+    {
+      "name": "Andre Salim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dahnu Teguh Adrianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ervina",
+      "position": "Anggota"
+    },
+    {
+      "name": "Andre Salim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dahnu Teguh Adrianto",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Lucas, Sh. Cn",
+      "type": "Lebih dari 5%",
+      "shares": 366858600,
+      "percentage": 82.13
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 79815575,
+      "percentage": 17.87
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Pt.sanggraha Dhika",
+      "business_type": "Perhotelan",
+      "total_assets": 235,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.161.352.855.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,73",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,15",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "17,31",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "32,31",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,77",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "19,38",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:35.169Z"
+}

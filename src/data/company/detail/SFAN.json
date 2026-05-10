@@ -1,0 +1,223 @@
+{
+  "company_name": "PT Surya Fajar Capital Tbk",
+  "ticker": "SFAN",
+  "office_address": "Satrio Tower Lantai 14, Jalan Prof. Dr. Satrio Kav. C4 Kawasan Mega Kuningan, Jakarta Selatan 12950, Indonesia",
+  "email": "corporate@sfcapital.co.id",
+  "phone": "+62 21 2251 3339",
+  "fax": "+62 21 2598 1342",
+  "tax_id": "76.573.695.4-077.000",
+  "website": "https://www.sfcapital.co.id",
+  "listing_date": "2019-06-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang investasi, jasa, konsultasi manajemen dan bisnis, perdagangan dan keuangan serta bergerak dibidang Jasa Keuangan lainnya melalui Perusahaan Anak.",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Marianto",
+    "email": "corporate@sfcapital.co.id",
+    "phone": "(021) 2251 3339"
+  },
+  "directors": [
+    {
+      "name": "Ivo Rustandi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rico Lesmana Sulistyo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Harun Pandapotan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Arwani Pranajaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Syamsul Bahri Ilyas",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Syamsul Bahri Ilyas",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herlina Sitorus",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sary",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Surya Fajar Corpora (d/h PT Bumi Tirta Rahayu)",
+      "type": "Lebih dari 5%",
+      "shares": 968754430,
+      "percentage": 71.24
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 391169591,
+      "percentage": 28.76
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ivo Rustandi",
+      "type": "Direksi",
+      "shares": 10000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Surya Fajar Sekuritas",
+      "business_type": "Jasa Perdagangan Efek",
+      "total_assets": 99127671207,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Digitalisasi Perangkat Indonesia",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 38830658184,
+      "ownership_percentage": 51.95
+    },
+    {
+      "name": "PT Surya Fajar Investama",
+      "business_type": "Manajer Investasi",
+      "total_assets": 11833158882,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Fajar Urun Dana",
+      "business_type": "Layanan Urun Dana Berbasis Teknologi Informasi (securities Crowdfunding)",
+      "total_assets": 2183696147,
+      "ownership_percentage": 92.5
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.658.671.011.055",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,42",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,81",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "2,34",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "2,88",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,77",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "1,03",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:13.835Z"
+}

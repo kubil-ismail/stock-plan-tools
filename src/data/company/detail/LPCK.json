@@ -1,0 +1,218 @@
+{
+  "company_name": "Lippo Cikarang Tbk",
+  "ticker": "LPCK",
+  "office_address": "Kawasan Easton Commercial Centre, Jl. Gn. Panderman Kav. 05, Cibatu, Cikarang Selatan, Kab. Bekasi, Jawa Barat 17530",
+  "email": "corsec@lippo-cikarang.com",
+  "phone": "897-2488",
+  "fax": "897 2170, 897 2250",
+  "tax_id": "01.438.224.6-054.000",
+  "website": "https://www.lippo-cikarang.com",
+  "listing_date": "1997-07-24",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Properti dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Peter Adrian",
+    "email": "corsec@lippo-cikarang.com",
+    "phone": "021-8972484, 8972488"
+  },
+  "directors": [
+    {
+      "name": "Marlo Budiman",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Marshal Martinus Tissadharma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indryanarum",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Didik Junaedi Rachbini",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hadi Cahyadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Charles Rigoux",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "George Raymond Zage III",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Didik Junaedi Rachbini",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rajiv Krishna",
+      "position": "Anggota"
+    },
+    {
+      "name": "Charles Rigoux",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Kemuning Satiatama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 4390147585,
+      "percentage": 85.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 479288810,
+      "percentage": 9.33
+    },
+    {
+      "name": "Kemuning Satiatama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 179714000,
+      "percentage": 3.5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 85535197,
+      "percentage": 1.67
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Didik Rachbini",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hadi Cahyadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Raymond Zage III",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Charles Rigoux",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marshal Martinus Tissadharma",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Indryanarum",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marlo Budiman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Lippo Cikarang Tbk",
+      "business_type": "Property And Real Estate",
+      "total_assets": 13608274,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.260.525.414.420",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,69",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,81",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "0,84",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "18,81",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "0,84",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:04.156Z"
+}

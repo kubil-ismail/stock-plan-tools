@@ -1,0 +1,250 @@
+{
+  "company_name": "PT Bank Ina Perdana Tbk.",
+  "ticker": "BINA",
+  "office_address": "Ariobimo Sentral",
+  "email": "corp_sec@bankina.co.id",
+  "phone": "021 2525678",
+  "fax": "021 2525117",
+  "tax_id": "01.355.640.2-054.000",
+  "website": "https://www.bankina.co.id",
+  "listing_date": "2014-01-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Adhiputra Tanoyo",
+    "email": "corp_sec@bankina.co.id",
+    "phone": "0212525678"
+  },
+  "directors": [
+    {
+      "name": "Henry Koenaifi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yulius Purnama Junaedi",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kiung Hui Ngo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adhiputra Tanoyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yandy Ramadhani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dewi Kurniawati Prodjohartono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Inawaty Handojo",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yohanes Santoso Wibowo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Josavia Rachman Ichwan",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yohanes Santoso Wibowo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs. Dinan Sufendi Rae, Sh., MH",
+      "position": "Anggota"
+    },
+    {
+      "name": "Antonius Suryanta Se Ak, Mm. Qia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indolife Pensiontama",
+      "type": "Lebih dari 5%",
+      "shares": 1400830852,
+      "percentage": 22.83
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1265678390,
+      "percentage": 20.64
+    },
+    {
+      "name": "PT. Samudra Biru",
+      "type": "Lebih dari 5%",
+      "shares": 1114213066,
+      "percentage": 18.16
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1034416550,
+      "percentage": 16.86
+    },
+    {
+      "name": "PT. Gaya Hidup Masa Kini",
+      "type": "Lebih dari 5%",
+      "shares": 726190057,
+      "percentage": 11.84
+    },
+    {
+      "name": "Dbs Bank Ltd S/a Ltsl As Trustee Of Ns Financial Fund",
+      "type": "Lebih dari 5%",
+      "shares": 593387750,
+      "percentage": 9.67
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Inawaty Handojo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yohanes Santoso Wibowo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Josavia Rachman Ichwan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yulius Purnama Junaedi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adhiputra Tanoyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kiung Hui Ngo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henry Koenaifi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yandy Ramadhani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewi Kurniawati Prodjohartono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "27.026.494.266.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,36",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "14,07",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,44",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "6,93",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,74",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,24",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:46.239Z"
+}

@@ -1,0 +1,207 @@
+{
+  "company_name": "Bumi Citra Permai Tbk",
+  "ticker": "BCIP",
+  "office_address": "Gedung Millennium Group Jl. Kramat Raya No. 32-34, Jakarta Pusat 10450",
+  "email": "corsec@bumicitrapermai.com",
+  "phone": "(021) 391 6338",
+  "fax": "(021) 3193 5557",
+  "tax_id": "019698125054000",
+  "website": "https://www.bumicitrapermai.com",
+  "listing_date": "2009-12-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Ita Sugianti",
+    "email": "ita.corsec@bumicitrapermai.com",
+    "phone": "0213916338"
+  },
+  "directors": [
+    {
+      "name": "Edward Halim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Handry Soesanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wagiman Tanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tahir Ferdian",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Albertus Banunaek",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Effendi Halim",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Albertus Banunaek",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aris Kartawijaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Denni Pratama Karel",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 870548325,
+      "percentage": 60.88
+    },
+    {
+      "name": "PT. Bumi Citra Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 559347200,
+      "percentage": 39.12
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edward Halim",
+      "type": "Direksi",
+      "shares": 20000,
+      "percentage": 0
+    },
+    {
+      "name": "Handry Soesanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tahir Ferdian",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Effendi Halim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Albertus Banunaek",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wagiman Tanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT . Milwater Pratama Mandiri",
+      "business_type": "Water Treatment",
+      "total_assets": 42719089963,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT. Millennium Power",
+      "business_type": "Power Plant",
+      "total_assets": 5626820936,
+      "ownership_percentage": 79
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "94.374.424.650",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,14",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "11,76",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "30,91",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "49,02",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "14,61",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "8,43",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:29.896Z"
+}

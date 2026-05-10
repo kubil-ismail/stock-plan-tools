@@ -1,0 +1,181 @@
+{
+  "company_name": "Saranacentral Bajatama Tbk",
+  "ticker": "BAJA",
+  "office_address": "Jl. Pangeran Jayakarta 55 Jakarta Pusat 10730",
+  "email": "team_scb@yahoo.com",
+  "phone": "(62-21) 628-8647",
+  "fax": "(62-21) 601-1933",
+  "tax_id": "01.640.914.6-054.000",
+  "website": "http://www.saranacentral.com",
+  "listing_date": "2011-12-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri pabrik besi baja lapis seng dan aluminium seng",
+    "business_summary": "Perusahaan bergerak di bidang Baja & Besi.",
+    "business_tags": [
+      "Baja & Besi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Handaja Susanto",
+    "email": "team_scb@yahoo.com",
+    "phone": "0811183057"
+  },
+  "directors": [
+    {
+      "name": "Handaja Susanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pandji Surya Soerjoprahono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Entario Widjaja Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jonatan Suwandi Jusuf",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Soediarto Soerjoprahono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ibnu Susanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yentoro",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lily Phang",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 469552000,
+      "percentage": 26.07
+    },
+    {
+      "name": "Pandji Surya Soerjoprahono",
+      "type": "Direksi",
+      "shares": 296400000,
+      "percentage": 16.47
+    },
+    {
+      "name": "Ibnu Susanto",
+      "type": "Komisaris",
+      "shares": 296016000,
+      "percentage": 16.45
+    },
+    {
+      "name": "Handaja Susanto",
+      "type": "Direksi",
+      "shares": 296016000,
+      "percentage": 16.45
+    },
+    {
+      "name": "Entario Widjaja Susanto",
+      "type": "Direksi",
+      "shares": 296016000,
+      "percentage": 16.45
+    },
+    {
+      "name": "Soediarto Soerjoprahono",
+      "type": "Komisaris",
+      "shares": 146000000,
+      "percentage": 8.11
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yentoro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "286.200.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,95",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "16,30",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1,26",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "89,16",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,63",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "4,85",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:06.684Z"
+}

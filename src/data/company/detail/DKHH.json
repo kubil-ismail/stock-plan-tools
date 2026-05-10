@@ -1,0 +1,199 @@
+{
+  "company_name": "PT Cipta Sarana Medika Tbk",
+  "ticker": "DKHH",
+  "office_address": "Jl. Siliwangi No. 139, Cibadak, Kec Cibadak, Kabupaten Sukabumi, Jawa Barat 43351",
+  "email": "corsec@dkhhospitals.com",
+  "phone": "(021) 4586 9050",
+  "fax": "",
+  "tax_id": "0711094748405000",
+  "website": "https://www.dkhhospitals.com",
+  "listing_date": "2025-05-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Rumah Sakit Swasta",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Heri Akhyar",
+    "email": "corsec@dkhhospitals.com",
+    "phone": "(0266) 7160071/68"
+  },
+  "directors": [
+    {
+      "name": "Satria Muhammad Wilis",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Octen Suhadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Iqbal Rahim Wilis",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Abdullah Sayidi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Mohammad Luthfi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Abdullah Sayidi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mohammad Luthfi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Daud Achmad",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Siliwangi Djajakusumah Hospitals",
+      "type": "Lebih dari 5%",
+      "shares": 2019998000,
+      "percentage": 79.21
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 530152901,
+      "percentage": 20.79
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iqbal Rahim Wilis",
+      "type": "Komisaris",
+      "shares": 2000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mutiara Persada Abadi",
+      "business_type": "Kesehatan",
+      "total_assets": 69839716564,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT As-shofwan Tunggal Mandiri",
+      "business_type": "Kesehatan",
+      "total_assets": 44336845471,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "183.612.498.984",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "15,94",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "6,67",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "12,09",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "47,37",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,11",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:58.289Z"
+}

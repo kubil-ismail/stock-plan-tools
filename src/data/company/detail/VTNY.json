@@ -1,0 +1,402 @@
+{
+  "company_name": "PT Venteny Fortuna International Tbk",
+  "ticker": "VTNY",
+  "office_address": "Jalan Sultan Agung Nomor 20 Rt1/rw1, Guntur, Setiabudi, Jakarta Selatan, 12980",
+  "email": "corporate_secretary@venteny.com",
+  "phone": "(021) 30072777",
+  "fax": "(021) 520 6225 - 6227",
+  "tax_id": "41.449.432.8-011.000",
+  "website": "https://www.venteny.com",
+  "listing_date": "2022-12-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding, Portal Web dan/atau Platform Digital Dengan Tujuan Komersial dan Aktivitas Pengembangan Aplikasi Perdagangan Melalui Internet (E-Commerce)",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Keuangan.",
+    "business_tags": [
+      "Teknologi",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Zasa Pinkan Kinanti",
+    "email": "corporate_secretary@venteny.com",
+    "phone": "(021) 520 6225 - 6227"
+  },
+  "directors": [
+    {
+      "name": "Junichiro Waide",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kaleb Solaiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Milokevin Wendiady",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Katsuya Kitano",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Adler Haymans Manurung, S.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Adler H. Manurung, S.h.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Juninho Widjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rifki Hermawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1380035091,
+      "percentage": 22.03
+    },
+    {
+      "name": "Carta Holdings, Inc.",
+      "type": "Lebih dari 5%",
+      "shares": 1319341020,
+      "percentage": 21.06
+    },
+    {
+      "name": "Junichiro Waide",
+      "type": "Direksi",
+      "shares": 1256866974,
+      "percentage": 20.06
+    },
+    {
+      "name": "Ocean Capital, Inc.",
+      "type": "Lebih dari 5%",
+      "shares": 695736080,
+      "percentage": 11.1
+    },
+    {
+      "name": "Fintech Business Innovation Lps.",
+      "type": "Lebih dari 5%",
+      "shares": 605844660,
+      "percentage": 9.67
+    },
+    {
+      "name": "Kk Investment Holdings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 536915060,
+      "percentage": 8.57
+    },
+    {
+      "name": "Relo Club, Limited",
+      "type": "Lebih dari 5%",
+      "shares": 470454560,
+      "percentage": 7.51
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Venteny Matahari Indonesia",
+      "business_type": "Pemberi Pinjaman Bagi Perusahaan (b2b) dan Karyawannya (b2b2e) Melalui Platform",
+      "total_assets": 726434183102,
+      "ownership_percentage": 89.44
+    },
+    {
+      "name": "Venteny Matahari Indonesia",
+      "business_type": "Pemberi Pinjaman Bagi Perusahaan (b2b) dan Karyawannya (b2b2e) Melalui Platform",
+      "total_assets": 588674614984,
+      "ownership_percentage": 89.44
+    },
+    {
+      "name": "Venteny Matahari Indonesia",
+      "business_type": "Pemberi Pinjaman Bagi Perusahaan (b2b) dan Karyawannya (b2b2e) Melalui Platform",
+      "total_assets": 578931962027,
+      "ownership_percentage": 89.44
+    },
+    {
+      "name": "Venteny Matahari Indonesia",
+      "business_type": "Pemberi Pinjaman Bagi Perusahaan (b2b) dan Karyawannya (b2b2e) Melalui Platform",
+      "total_assets": 568714378575,
+      "ownership_percentage": 89.44
+    },
+    {
+      "name": "Venteny Pte., Ltd.",
+      "business_type": "Aktivitas Pendukung Kantor Khusus Lainnya",
+      "total_assets": 449536768839,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny Pte., Ltd.",
+      "business_type": "Aktivitas Pendukung Kantor Khusus Lainnya",
+      "total_assets": 407863730635,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny Pte., Ltd.",
+      "business_type": "Aktivitas Pendukung Kantor Khusus Lainnya",
+      "total_assets": 363825969528,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny Pte., Ltd.",
+      "business_type": "Aktivitas Pendukung Kantor Khusus Lainnya",
+      "total_assets": 353086794647,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Venteny Matahari Indonesia",
+      "business_type": "Pemberi Pinjaman Bagi Perusahaan (b2b) dan Karyawannya (b2b2e) Melalui Platform",
+      "total_assets": 320866958741,
+      "ownership_percentage": 89.44
+    },
+    {
+      "name": "Venteny G.k.",
+      "business_type": "Peminjam Uang, Penggalangan Dana, Perdagangan Valuta Asing, Pengelolaan Dana dan Jasa Keagenan yang Terkait dengan Bisnis Perusahaan Afiliasi",
+      "total_assets": 240328984375,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny Pte., Ltd.",
+      "business_type": "Aktivitas Pendukung Kantor Khusus Lainnya",
+      "total_assets": 187900994560,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny G.k.",
+      "business_type": "Pengoperasian Portal Web Dan/atau Platform Digital",
+      "total_assets": 103653913746,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny G.k.",
+      "business_type": "Pengoperasian Portal Web Dan/atau Platform Digital",
+      "total_assets": 42809586300,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny G.k.",
+      "business_type": "Pengoperasian Portal Web Dan/atau Platform Digital",
+      "total_assets": 8569942733,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lampung Berkah Finansial Teknologi",
+      "business_type": "Layanan Pinjam Meminjam Uang Berbasis Teknologi Informasi (fintech P2p Lending) Konvensional",
+      "total_assets": 7032975903,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Lampung Berkah Finansial Teknologi",
+      "business_type": "Pinjam Meminjam Uang Berbasis Teknologi",
+      "total_assets": 6232205161,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Venteny Inc.",
+      "business_type": "Bisnis Konsultasi untuk Memberikan Keahlian dalam Pemasaran, Perdagangan, dan Layanan Lainnya",
+      "total_assets": 5405178313,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny Inc.",
+      "business_type": "Bisnis Konsultasi untuk Memberikan Keahlian dalam Pemasaran, Perdagangan, dan Layanan Lainnya",
+      "total_assets": 5328785046,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lampung Berkah Finansial Teknologi",
+      "business_type": "Pinjam Meminjam Uang Berbasis Teknologi",
+      "total_assets": 5232179892,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Venteny Inc.",
+      "business_type": "Kegiatan Konsultasi Bisnis dan Manajemen",
+      "total_assets": 5221949009,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny Inc.",
+      "business_type": "Bisnis Konsultasi untuk Memberikan Keahlian dalam Pemasaran, Perdagangan, dan Layanan Lainnya",
+      "total_assets": 5102074577,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Venteny Inc.",
+      "business_type": "Bisnis Konsultasi untuk Memberikan Keahlian dalam Pemasaran, Perdagangan, dan Layanan Lainnya",
+      "total_assets": 4762953305,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lampung Berkah Finansial Teknologi",
+      "business_type": "Pinjam Meminjam Uang Berbasis Teknologi",
+      "total_assets": 4224796803,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Deltapeak Lending Inc.",
+      "business_type": "Bisnis Pinjaman Langsung",
+      "total_assets": 2588253818,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Deltapeak Lending Inc.",
+      "business_type": "Bisnis Pinjaman Langsung",
+      "total_assets": 2448593922,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Deltapeak Lending Inc.",
+      "business_type": "Bisnis Pinjaman Langsung",
+      "total_assets": 2400634155,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Deltapeak Lending Inc.",
+      "business_type": "Bisnis Pinjaman Langsung",
+      "total_assets": 2372091484,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Deltapeak Lending Inc.",
+      "business_type": "Aktivitas Investor Pinjaman",
+      "total_assets": 2256280275,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Drs. Bambang Sudaryono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Andi Ruswandi Wisnu & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "444.828.734.595",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,35",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "23,26",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,47",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "51,47",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,04",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "30,53",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:28.639Z"
+}

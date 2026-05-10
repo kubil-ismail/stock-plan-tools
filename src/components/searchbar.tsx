@@ -6,7 +6,7 @@ import { Kbd, KbdGroup } from "@/components/ui/kbd";
 import { Dialog, DialogContent, DialogTrigger } from "./ui/dialog";
 import { InputGroup, InputGroupAddon, InputGroupInput } from "./ui/input-group";
 import { cn } from "@/lib/utils";
-import company from "@/data/company.json";
+import company from "@/data/archive/company.json";
 import { StockDetail } from "@/types/stocks";
 import CompanyLogo from "./companyLogo";
 import { useRouter } from "next/navigation";

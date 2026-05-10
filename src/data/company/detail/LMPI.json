@@ -1,0 +1,183 @@
+{
+  "company_name": "Langgeng Makmur Industri Tbk",
+  "ticker": "LMPI",
+  "office_address": "Jl.letjen Sutoyo No. 256, Waru Sidoarjo",
+  "email": "corp_sec@langgengmakmur.com",
+  "phone": "(031) 8533688",
+  "fax": "(031) 8533588",
+  "tax_id": "0011 0942 8105 4000",
+  "website": "http://www.langgengmakmur.com",
+  "listing_date": "1994-10-17",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Peralatan Rumah Tangga",
+    "business_summary": "Perusahaan bergerak di bidang Perlengkapan Rumah Tangga.",
+    "business_tags": [
+      "Perlengkapan Rumah Tangga"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 74,
+    "name": "Perlengkapan Rumah Tangga",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Henri Subiyanto",
+    "email": "corp_sec@langgengmakmur.com",
+    "phone": "(031) 5662789"
+  },
+  "directors": [
+    {
+      "name": "Hidayat Alim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kosasih Koenawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Irawan Alim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pangestu Alim",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hendro Budianto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bing Hartono Poernomosidi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wan Juli",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bing Hartono Poernomosidi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sri Handayani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jessica Budiharto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hidayat Alim",
+      "type": "Direksi",
+      "shares": 385649140,
+      "percentage": 38.239
+    },
+    {
+      "name": "Pangestu Alim",
+      "type": "Direksi",
+      "shares": 302921271,
+      "percentage": 30.036
+    },
+    {
+      "name": "PT Langgeng Bahagia",
+      "type": "Lebih dari 5%",
+      "shares": 132313291,
+      "percentage": 13.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 76463596,
+      "percentage": 7.582
+    },
+    {
+      "name": "Kantor Pusat Djkn Ditjen Kekayaan Negara Kementrian Keuangan",
+      "type": "Lebih dari 5%",
+      "shares": 57901002,
+      "percentage": 5.741
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 53265265,
+      "percentage": 5.282
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kosasih Koenawan",
+      "type": "Direksi",
+      "shares": 4104,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "168.422.450.723",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "14,29",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,18",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "14,29",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "29,23",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,20",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "20,86",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:01.544Z"
+}

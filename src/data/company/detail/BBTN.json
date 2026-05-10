@@ -1,0 +1,351 @@
+{
+  "company_name": "PT Bank Tabungan Negara (persero) Tbk",
+  "ticker": "BBTN",
+  "office_address": "Gedung Menara Btn, Jl.gajah Mada No. 1, Jakarta 10130",
+  "email": "achmad.chaerul@btn.co.id",
+  "phone": "021-6336789",
+  "fax": "-",
+  "tax_id": "01.001.609.5-093.000",
+  "website": "https://www.btn.co.id",
+  "listing_date": "2009-12-17",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak Dalam Bidang Usaha Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Ramon Armando",
+    "email": "ramon.armando@btn.co.id",
+    "phone": "0216336789 ext 2003"
+  },
+  "directors": [
+    {
+      "name": "Nixon L.p. Napitupulu",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hirwandi Gafar",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Setiyo Wibowo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Nofry Rony Poetra",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Eko Waluyo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Oni Febriarto Rahardjo",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "I Nyoman Sugiri Yasa",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Venda Yuniarti",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Rully Setiawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Helmy Afrisa Nugroho",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Hermita",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Jacky Chen",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suryo Utomo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Endra Gunawan",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ida Nuryanti",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Fahri Hamzah",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pietra Machreza Paloh",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Panangian Simanungkalit",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Didyk Choiroel",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pietra Machreza Paloh",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ida Nuryanti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Panangian Simanungkalit",
+      "position": "Anggota"
+    },
+    {
+      "name": "Endang A. Suprijatna",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indra Jaka Aprilyanta",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management",
+      "type": "Lebih dari 5%",
+      "shares": 8336459982,
+      "percentage": 59.4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5594360230,
+      "percentage": 40
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 84307366,
+      "percentage": 0.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suryo Utomo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Endra Gunawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ida Nuryanti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fahri Hamzah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pietra Machreza Paloh",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Panangian Simanungkalit",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eko Waluyo",
+      "type": "Direksi",
+      "shares": 2868364,
+      "percentage": 0
+    },
+    {
+      "name": "Hirwandi Gafar",
+      "type": "Direksi",
+      "shares": 2759714,
+      "percentage": 0
+    },
+    {
+      "name": "Nixon L.p. Napitupulu",
+      "type": "Direksi",
+      "shares": 5399000,
+      "percentage": 0
+    },
+    {
+      "name": "Setiyo Wibowo",
+      "type": "Direksi",
+      "shares": 2889100,
+      "percentage": 0
+    },
+    {
+      "name": "Oni Febriarto Rahardjo",
+      "type": "Direksi",
+      "shares": 1149100,
+      "percentage": 0
+    },
+    {
+      "name": "Nofry Rony Poetra",
+      "type": "Direksi",
+      "shares": 3527422,
+      "percentage": 0
+    },
+    {
+      "name": "I Nyoman Sugiri Yasa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Venda Yuniarti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rully Setiawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Helmy Afrisa Nugroho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hermita",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Jacky Chen",
+      "type": "Direksi",
+      "shares": 724135,
+      "percentage": 0
+    },
+    {
+      "name": "Didyk Choiroel",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Victoria Syariah",
+      "business_type": "Perbankan/sharia Banking",
+      "total_assets": 1106659412200,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "18.826.505.457.995",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,20",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "7,03",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "11,38",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "19,13",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,74",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "18,10",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:24.449Z"
+}

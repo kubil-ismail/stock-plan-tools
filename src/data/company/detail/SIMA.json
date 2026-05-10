@@ -1,0 +1,168 @@
+{
+  "company_name": "Siwani Makmur Tbk",
+  "ticker": "SIMA",
+  "office_address": "Mayapada Tower 1 Lantai 21 Jl. Jend. Sudirman Kav. 28 Jakarta 12920",
+  "email": "corporate@siwani.co.id",
+  "phone": "021-5213555 ( Hunting )",
+  "fax": "021-5214555",
+  "tax_id": "01.318.684.6-054.000",
+  "website": "https://www.siwani.co.id",
+  "listing_date": "1994-06-03",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Kemasan Plastik",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Yudhi Surjadjaja",
+    "email": "yudhi@siwani.co.id",
+    "phone": "021-72784608"
+  },
+  "directors": [
+    {
+      "name": "Ifiandiaz Nazir, Sh",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ikman Maulana",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wiwik Sukarno Ar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Sutedjo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bambang Sutejo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Suyono Handoko",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ayuningtyas Widiani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 416781871,
+      "percentage": 94.168
+    },
+    {
+      "name": "Yuanta Securities Indonesia, PT",
+      "type": "Lebih dari 5%",
+      "shares": 25808000,
+      "percentage": 5.832
+    },
+    {
+      "name": "Benny Tjokrosaputro",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ifiandiaz Nazsir Sh",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ikman Maulana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wiwik Sukarno Ar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Sutejo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "22.129.493.550",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:21.436Z"
+}

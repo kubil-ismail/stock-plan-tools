@@ -1,0 +1,246 @@
+{
+  "company_name": "PT Kioson Komersial Indonesia Tbk.",
+  "ticker": "KIOS",
+  "office_address": "Alaydrus No. 66 Bc, Kel. Petojo Utara, Kec. Gambir, Jakarta Pusat",
+  "email": "corsec@kioson.com",
+  "phone": "+6221-6317523",
+  "fax": "-",
+  "tax_id": "73.560.773.1-029.000",
+  "website": "https://kioson.app",
+  "listing_date": "2017-10-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan online (e-commerce) dan teknologi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Retail.",
+    "business_tags": [
+      "Teknologi",
+      "Retail"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Ornela Bartin Sutan Giri",
+    "email": "corseckioson@gmail.com",
+    "phone": "021-8204701"
+  },
+  "directors": [
+    {
+      "name": "Ornela Bartin Sutan Giri",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Reginald Trisna",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Viperi Limiardi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Junaidi Ariansyah",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Junaidi Ariansyah",
+      "position": "Ketua"
+    },
+    {
+      "name": "Selfi Fajarwati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Megawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 642193426,
+      "percentage": 59.7
+    },
+    {
+      "name": "PT Artav Mobile Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 350300000,
+      "percentage": 32.56
+    },
+    {
+      "name": "PT Prambanan Investasi Sukses",
+      "type": "Lebih dari 5%",
+      "shares": 83369534,
+      "percentage": 7.74
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Junaidi Ariansyah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Viperi Limiardi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ornela Bartin Sutan Giri",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Reginald Trisna",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Retail Kita Indonesia",
+      "business_type": "Perdagangan & Jasa",
+      "total_assets": 98239095900,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gudang Pintar Indonesia",
+      "business_type": "Pergudangan dan Penyimpanan",
+      "total_assets": 2235710799,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Dra. Suhartati & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Dra. Suhartati & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Rama Wendra"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "116.193.199.680",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,02",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,02",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "35,90",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "112,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,75",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "60,15",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:26.278Z"
+}

@@ -1,0 +1,180 @@
+{
+  "company_name": "PT Atlantis Subsea Indonesia Tbk",
+  "ticker": "ATLA",
+  "office_address": "Jl.tebet Barat dalam Raya No. 6, Jakarta Selatan 12810, Indonesia",
+  "email": "corp.secretary@atlantissubsea.com",
+  "phone": "+6221 831 2530",
+  "fax": "",
+  "tax_id": "81.066.845.9-081.000",
+  "website": "https://www.atlantissubsea.com",
+  "listing_date": "2024-04-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Survei dan Layanan untuk Perusahaan Energi",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Uba Rialin",
+    "email": "corp.secretary@atlantissubsea.com",
+    "phone": "+6221 831 2530"
+  },
+  "directors": [
+    {
+      "name": "Yophi Kurniawan Iswanto",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andreas Setiawan, S.e. M.b.a",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rudi Reksa Sutantra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yohanes Henri Prasetyo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yohanes Henri Prasetyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Thamrin Prima Simatupang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Budi Rahmat Halawa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Rudi Reksa Sutantra",
+      "type": "Komisaris",
+      "shares": 2774254200,
+      "percentage": 44.75
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2375448493,
+      "percentage": 38.32
+    },
+    {
+      "name": "Yophi Kurniawan Iswanto",
+      "type": "Direksi",
+      "shares": 1049875000,
+      "percentage": 16.93
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Herman, Dody, Tanumihardja & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Herman, Dody, Tanumihardja & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "328.577.617.729",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,70",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "20,00",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "16,13",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:52.715Z"
+}

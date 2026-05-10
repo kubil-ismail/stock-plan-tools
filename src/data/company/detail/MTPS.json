@@ -1,0 +1,226 @@
+{
+  "company_name": "PT Meta Epsi Tbk.",
+  "ticker": "MTPS",
+  "office_address": "Meta Epsi Building Jln. Mayjen d.i. Panjaitan Kav. 2 Jakarta 13350",
+  "email": "corpsec@metaepsi.com",
+  "phone": "0218564955",
+  "fax": "0218564956",
+  "tax_id": "01.312.187.6-062.000",
+  "website": "https://www.metaepsi.com",
+  "listing_date": "2019-04-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha rekayasa, pengadaan dan konstruksi (EPC)",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Francis Indarto",
+    "email": "corpsec@metaepsi.com",
+    "phone": "0218564955"
+  },
+  "directors": [
+    {
+      "name": "Kahar Anwar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Francis Indarto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anne Patricia Sutanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nawi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ludijanto Setijo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nawi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus San Njoto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Darwin Wijaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Central Energi Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 744329000,
+      "percentage": 35.702
+    },
+    {
+      "name": "PT Anugerah Perkasa Semesta",
+      "type": "Lebih dari 5%",
+      "shares": 713476000,
+      "percentage": 34.222
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 627045829,
+      "percentage": 30.076
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Iskandar dan Sulaeman"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Armanda & Enita"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Armanda & Enita"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Sabar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Sabar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "168.872.917.149",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "478,57",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:25.385Z"
+}

@@ -1,0 +1,412 @@
+{
+  "company_name": "PT Royalindo Investa Wijaya Tbk",
+  "ticker": "INDO",
+  "office_address": "Gedung M@cokro 49 #100 Jl. Hos Cokroaminoto No. 49, Menteng, Jakarta Pusat",
+  "email": "021-3983 7700",
+  "phone": "021-3983 9900",
+  "fax": "021-3983 7700",
+  "tax_id": "02.417 .200.9-029.00",
+  "website": "https://www.royalindo.id",
+  "listing_date": "2020-01-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Real Estat yang dilakukan baik secara langsung oleh Perseroan maupun melalui Entitas Anak,serta investasi pada Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 32,
+    "name": "Jasa Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Ko Sugiarto",
+    "email": "corsec@royalindo.id",
+    "phone": "021–39839900"
+  },
+  "directors": [
+    {
+      "name": "Leslie Soemedi",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nevin Soemedi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Diah Soemedi",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Istanto Burhan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Istanto Burhan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ismail Mandry",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tri Oktaviani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Leslie Soemedi",
+      "type": "Direksi",
+      "shares": 1443027600,
+      "percentage": 32.21
+    },
+    {
+      "name": "Ibrahim Soemedi",
+      "type": "Lebih dari 5%",
+      "shares": 670000000,
+      "percentage": 14.95
+    },
+    {
+      "name": "Herman Soemedi",
+      "type": "Lebih dari 5%",
+      "shares": 670000000,
+      "percentage": 14.95
+    },
+    {
+      "name": "Ko, Sugiarto",
+      "type": "Lebih dari 5%",
+      "shares": 586040000,
+      "percentage": 13.08
+    },
+    {
+      "name": "Nevin Soemedi",
+      "type": "Direksi",
+      "shares": 558205800,
+      "percentage": 12.46
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 553468238,
+      "percentage": 12.35
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Semangat Pangeran Jayakarta",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 120052915171,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Jayakarta",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 119750365632,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Jayakarta",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 119355800741,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Jayakarta",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 118978356868,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Jayakarta",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 117878930915,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Bangun Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 114993943507,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Bangun Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 112807308829,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Bangun Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 112783756422,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Bangun Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 112752916457,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Bangun Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 110539655362,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Arta Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 95750836773,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Arta Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 94896031700,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Arta Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 94048958309,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Arta Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 93372000888,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Arta Nusantara",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 92787099228,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 67794809234,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 67543779282,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 67538507882,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 67535755441,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 67108055258,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Royal Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 59652432897,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Royal Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 59641078713,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Royal Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 59593375909,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Royal Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 59426099576,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Semesta Investa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 59205821896,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Semesta Investa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 58325720462,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Semesta Investa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 58279921417,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Semesta Investa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 58229834573,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Semesta Investa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 57466562379,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Abadi",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 38446884285,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Abadi",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 38372309292,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Abadi",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 37927848787,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Abadi",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 37896689984,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semangat Pangeran Abadi",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 37408750933,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Royal Indonusa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 999615000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Nusa Sentosa",
+      "business_type": "Konstruksi, Perdagangan dan Real Estat",
+      "total_assets": 1000000,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto, dan Rekan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "694.514.953.890",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,61",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "32,79",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "26,79",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "8,89",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,13",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "52,05",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:19.081Z"
+}

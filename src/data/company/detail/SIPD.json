@@ -1,0 +1,296 @@
+{
+  "company_name": "PT Sreeya Sewu Indonesia Tbk",
+  "ticker": "SIPD",
+  "office_address": "Sequis Tower, Lantai 40, Jl. Jenderal Sudirman Kav.71, Jakarta Selatan, 12190",
+  "email": "info.sreeya@sreeyasewu.com",
+  "phone": "021-50991599",
+  "fax": "021-27083636",
+  "tax_id": "01.393.676.0-054.000",
+  "website": "https://www.sreeyasewu.com",
+  "listing_date": "1996-12-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Animal Feed",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Natanael Yuyun Suryadi",
+    "email": "natanael.suryadi@sreeyasewu.com",
+    "phone": "021 50991599"
+  },
+  "directors": [
+    {
+      "name": "Eddy Tamboto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Irvan Cahyana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Natanael Yuyun Suryadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kent Kurnadi Sarosa",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Antonius Joenoes Supit",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Theo Lekatompessy",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Stephanie Verawaty Gondokusumo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Theo Lekatompessy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lita Suprianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aria Kanaka",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Great Giant Pineapple",
+      "type": "Lebih dari 5%",
+      "shares": 1669503819,
+      "percentage": 90.78
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 166732728,
+      "percentage": 9.06
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2865509,
+      "percentage": 0.16
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Antonius Joenoes Supit",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Theo Lekatompessy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eddy Tamboto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Irvan Cahyana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Natanael Yuyun Suryadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kent Kurnadi Sarosa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sungkono Sadikin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Belfoods Indonesia",
+      "business_type": "Berusaha dalam Bidang Perindustrian dan Perdagangan dan Aktivitas Pengepakan",
+      "total_assets": 766523,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belfoods Indonesia",
+      "business_type": "Berusaha dalam Bidang Perindustrian dan Perdagangan dan Aktivitas Pengepakan",
+      "total_assets": 765614,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belfoods Indonesia",
+      "business_type": "Berusaha dalam Bidang Perindustrian dan Perdagangan dan Aktivitas Pengepakan",
+      "total_assets": 765614,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belfoods Indonesia",
+      "business_type": "Berusaha dalam Bidang Perindustrian dan Perdagangan dan Aktivitas Pengepakan",
+      "total_assets": 763590,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belfoods Indonesia",
+      "business_type": "Berusaha dalam Bidang Perindustrian dan Perdagangan dan Aktivitas Pengepakan",
+      "total_assets": 757781,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Transpasifik Niagareksa",
+      "business_type": "Perdagangan",
+      "total_assets": 5566,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Transpasifik Niagareksa",
+      "business_type": "Perdagangan",
+      "total_assets": 5566,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Transpasifik Niagareksa",
+      "business_type": "Perdagangan",
+      "total_assets": 5566,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Transpasifik Niagareksa",
+      "business_type": "Perdagangan",
+      "total_assets": 5566,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Transpasifik Niagareksa",
+      "business_type": "Perdagangan",
+      "total_assets": 5556,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sierad Corpora",
+      "business_type": "Dalam Proses Likuidasi",
+      "total_assets": 3166,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sierad Corpora",
+      "business_type": "Dalam Proses Likuidasi",
+      "total_assets": 3166,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sierad Corpora",
+      "business_type": "Dalam Proses Likuidasi",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sierad Corpora",
+      "business_type": "Dalam Proses Likuidasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.691.973.891.520",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,50",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "28,97",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "26,95",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "15,48",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,77",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "20,44",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:24.043Z"
+}

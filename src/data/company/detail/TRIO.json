@@ -1,0 +1,173 @@
+{
+  "company_name": "Trikomsel Oke Tbk",
+  "ticker": "TRIO",
+  "office_address": "Jl. Kebon Sirih Raya Kav.63, Jakarta Pusat 10340, Indonesia",
+  "email": "mely@oke.com",
+  "phone": "021-31905997",
+  "fax": "021-3915808 dan 021-3915710",
+  "tax_id": "01.793.780.6-054.000",
+  "website": "https://www.oke.com",
+  "listing_date": "2009-04-14",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Ritel Elektronik.",
+    "business_tags": [
+      "Ritel Elektronik"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 89,
+    "name": "Ritel Elektronik",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Mely",
+    "email": "mely@oke.com",
+    "phone": "02131905997"
+  },
+  "directors": [
+    {
+      "name": "Sugiono Wiyono Sugialam",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Matthew Paul Richards",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jason Aleksander Kardachi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dedet Yandrinal",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hermin Hartono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hermin Hartono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bambang Sutanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Iwan Setiawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sukses Perdana Prima",
+      "type": "Lebih dari 5%",
+      "shares": 9948636242,
+      "percentage": 38.25
+    },
+    {
+      "name": "Glas Trust (singapore) Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 6640600956,
+      "percentage": 25.53
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 3372249347,
+      "percentage": 12.97
+    },
+    {
+      "name": "PT Tigadari Fiesta",
+      "type": "Lebih dari 5%",
+      "shares": 2259227224,
+      "percentage": 8.69
+    },
+    {
+      "name": "Polaris Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 2136744500,
+      "percentage": 8.22
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1571437929,
+      "percentage": 6.04
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 78598447,
+      "percentage": 0.3
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.079.192.718.770",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:57.290Z"
+}

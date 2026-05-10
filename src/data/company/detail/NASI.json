@@ -1,0 +1,198 @@
+{
+  "company_name": "PT Wahana Inti Makmur Tbk",
+  "ticker": "NASI",
+  "office_address": "Gedung Latumenten Jl. Prof Dr Latumenten, 35 I/j, Kelurahan Angke, Kecamatan Tambora, Kota Administrasi Jakarta Barat, Dki Jakarta",
+  "email": "corsec@wahanaintimakmur.com",
+  "phone": "(021) 22066031",
+  "fax": "-",
+  "tax_id": "72.446.875.6-416.000",
+  "website": "https://www.wahanaintimakmur.com",
+  "listing_date": "2021-12-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Produsen dan Pemasok Beras",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Atikah Salsa Batubara",
+    "email": "corsec@wahanaintimakmur.com",
+    "phone": "(021) 22066031"
+  },
+  "directors": [
+    {
+      "name": "Piero Mustafa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Shanty Mustafa",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjiu Lanny Idayani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Toni Yoyo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Toni Yoyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Piero Mustafa",
+      "type": "Direksi",
+      "shares": 341016000,
+      "percentage": 42.24
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 231000000,
+      "percentage": 28.6
+    },
+    {
+      "name": "PT Modis Cipta Kreasi",
+      "type": "Lebih dari 5%",
+      "shares": 216080000,
+      "percentage": 26.76
+    },
+    {
+      "name": "PT Wahana Kreasi Investama",
+      "type": "Lebih dari 5%",
+      "shares": 18288000,
+      "percentage": 2.27
+    },
+    {
+      "name": "Tjiu Lanny Idayani",
+      "type": "Komisaris",
+      "shares": 101600,
+      "percentage": 0.13
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Clara Sunarsi"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Clara Sunarsi"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Clara Sunarsi & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Clara Sunarsi & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "123.532.200.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,67",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "19,78",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "41,75",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "84,81",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,95",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "35,19",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:35.327Z"
+}

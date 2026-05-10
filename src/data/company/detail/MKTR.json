@@ -1,0 +1,382 @@
+{
+  "company_name": "PT Menthobi Karyatama Raya Tbk",
+  "ticker": "MKTR",
+  "office_address": "Gedung Wisma Maktour Lt.4 Jalan Otto Iskandardinata No. 80 Jakarta Timur 13330",
+  "email": "corporate@mktr.co.id",
+  "phone": "021 50201035",
+  "fax": "",
+  "tax_id": "83.075.571.6-002.000",
+  "website": "https://mktr.co.id",
+  "listing_date": "2022-11-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang perdagangan minyak kelapa sawit, serta bidang perkebunan dan pabrik kelapa sawit melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Logistik, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Logistik",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Ilhamd Fithriansyah",
+    "email": "corporate@mktr.co.id",
+    "phone": "021-50201035"
+  },
+  "directors": [
+    {
+      "name": "Harry Mohamad Nadir",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wawan Sulistyawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Laksanawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mohammad Arief Pahlevi Pangerang",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muhammad Rocky Mahsyur",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Widodo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Khairnadhif Kasyfillah",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lilik Qusairy",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Fuad Hasan Masyhur",
+      "type": "Lebih dari 5%",
+      "shares": 8276210000,
+      "percentage": 68.62
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2825327565,
+      "percentage": 23.45
+    },
+    {
+      "name": "PT Maktour Bangun Persada",
+      "type": "Lebih dari 5%",
+      "shares": 938790000,
+      "percentage": 7.78
+    },
+    {
+      "name": "Harry Mohamad Nadir",
+      "type": "Direksi",
+      "shares": 6535948,
+      "percentage": 0.05
+    },
+    {
+      "name": "Wawan Sulistyawan",
+      "type": "Direksi",
+      "shares": 4159239,
+      "percentage": 0.03
+    },
+    {
+      "name": "Bambang Laksanawan",
+      "type": "Direksi",
+      "shares": 4059239,
+      "percentage": 0.03
+    },
+    {
+      "name": "Mohammad Arief Pahlevi Pangerang",
+      "type": "Direksi",
+      "shares": 4159239,
+      "percentage": 0.03
+    },
+    {
+      "name": "Muhammad Rocky Masyhur",
+      "type": "Komisaris",
+      "shares": 1187354,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Widodo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "M. Khairnadif Kasyfillah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Menthobi Makmur Lestari (mmal)",
+      "business_type": "Perkebunan",
+      "total_assets": 1538017483,
+      "ownership_percentage": 99.78
+    },
+    {
+      "name": "PT Menthobi Makmur Lestari (mmal)",
+      "business_type": "Perkebunan",
+      "total_assets": 1446092354,
+      "ownership_percentage": 99.78
+    },
+    {
+      "name": "PT Menthobi Makmur Lestari (mmal)",
+      "business_type": "Perkebunan",
+      "total_assets": 1391428429,
+      "ownership_percentage": 99.78
+    },
+    {
+      "name": "PT Menthobi Makmur Lestari (mmal)",
+      "business_type": "Perkebunan",
+      "total_assets": 1383094130,
+      "ownership_percentage": 99.78
+    },
+    {
+      "name": "PT Menthobi Makmur Lestari (mmal)",
+      "business_type": "Perkebunan Kelapa Sawit dan Industri Minyak Mentah Kelapa Sawit",
+      "total_assets": 694599091,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Khatulistiwa Sinergi Omnidaya (kso)",
+      "business_type": "Perdagangan",
+      "total_assets": 133333810,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Khatulistiwa Sinergi Omnidaya (kso)",
+      "business_type": "Perdagangan",
+      "total_assets": 131270099,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Khatulistiwa Sinergi Omnidaya (kso)",
+      "business_type": "Perdagangan",
+      "total_assets": 111913520,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Khatulistiwa Sinergi Omnidaya (kso)",
+      "business_type": "Perdagangan",
+      "total_assets": 91032100,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Menthobi Hijau Lestari (mhl)",
+      "business_type": "Pengelolaan Limbah",
+      "total_assets": 43642317,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Menthobi Hijau Lestari (mhl)",
+      "business_type": "Pengelolaan Limbah",
+      "total_assets": 40905669,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Menthobi Hijau Lestari (mhl)",
+      "business_type": "Pengelolaan Limbah",
+      "total_assets": 38143536,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Menthobi Hijau Lestari (mhl)",
+      "business_type": "Pengelolaan Limbah",
+      "total_assets": 30655070,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Menthobi Transitian Raya (mtr)",
+      "business_type": "Transportasi",
+      "total_assets": 23936179,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Menthobi Transitian Raya (mtr)",
+      "business_type": "Transportasi",
+      "total_assets": 21147863,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Menthobi Transitian Raya (mtr)",
+      "business_type": "Transportasi",
+      "total_assets": 20416919,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Menthobi Transitian Raya (mtr)",
+      "business_type": "Transportasi",
+      "total_assets": 18558390,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Menthobi Agro Raya (mar)",
+      "business_type": "Perkebunan",
+      "total_assets": 9030147,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Menthobi Agro Raya (mar)",
+      "business_type": "Perkebunan",
+      "total_assets": 6606422,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Menthobi Agro Raya (mar)",
+      "business_type": "Perkebunan",
+      "total_assets": 6085148,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Menthobi Agro Raya (mar)",
+      "business_type": "Perkebunan",
+      "total_assets": 5446634,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Menthobi Hijau Lestari (mhl)",
+      "business_type": "Perkebunan Buah Kelapa Sawit dan Pengelolaan dan Pembuangan Sampah Tidak Berbahaya",
+      "total_assets": 4379239,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Menthobi Transitian Raya (mtr)",
+      "business_type": "Angkutan Sewa dan Angkutan untuk Barang Umum",
+      "total_assets": 1000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Menthobi Agro Raya (mar)",
+      "business_type": "Perkebunan Buah Kelapa Sawit dan Pertanian Biji-bijian Penghasil Minyak Makan",
+      "total_assets": 101500,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.531.674.430.168",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,78",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,78",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "10,34",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "14,04",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,17",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "13,33",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:00.087Z"
+}

@@ -1,0 +1,256 @@
+{
+  "company_name": "Tigaraksa Satria Tbk",
+  "ticker": "TGKA",
+  "office_address": "Menara Duta Lt. 2 & 4, Jl. H.r. Rasuna Said Kav. B-9, Setiabudi, Jakarta Selatan",
+  "email": "corporate@tigaraksa.co.id",
+  "phone": "021 - 2527300",
+  "fax": "02179181379",
+  "tax_id": "01.328.025.0-054.000",
+  "website": "https://www.tigaraksa.co.id",
+  "listing_date": "1990-06-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "perdagangan umum, pembangunan, perindustrian, pertanian, pengangkutan, percetakan, multimedia melalui perangkat satelit dan perangkat telekomunikasi lainnya, jasa dan industri",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Energi, Logistik, Makanan & Minuman, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Energi",
+      "Logistik",
+      "Makanan & Minuman",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Syahrizal Sabir",
+    "email": "syahrizal-sabir@tigaraksa.co.id",
+    "phone": "02179180050"
+  },
+  "directors": [
+    {
+      "name": "Lianne Widjaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adhi B. Supit",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Eddy Sutisna",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Meity Tjiptobiantoro",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Shinta W. Kamdani",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Chandra N. Widjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Kartasasmita",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Harry Pramono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harry Pramono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Prawira Atmadja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fauzy",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Penta Widjaja Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 332627350,
+      "percentage": 36.21
+    },
+    {
+      "name": "PT Sarana Ledaun",
+      "type": "Lebih dari 5%",
+      "shares": 269484150,
+      "percentage": 29.34
+    },
+    {
+      "name": "PT Widjajatunggal Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 232845900,
+      "percentage": 25.35
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 78795355,
+      "percentage": 8.58
+    },
+    {
+      "name": "Chandra Natalie Widjaja",
+      "type": "Komisaris",
+      "shares": 2580400,
+      "percentage": 0.28
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2078745,
+      "percentage": 0.23
+    },
+    {
+      "name": "Meity Tjiptobiantoro",
+      "type": "Komisaris",
+      "shares": 80850,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tira Cipta Logistik",
+      "business_type": "Kegiatan Penyimpanan Barang Sementara Sebelum Barang Tersebut Dikirim ke Tujuan Akhir -logistik, Gudang Penyimpanan Beku dan Pembekuan Cepat",
+      "total_assets": 398607,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Blue Gas Indonesia",
+      "business_type": "Industri Alat-alat Dapur dari Logam dan Jasa Perawatan dan Pengisian Gas Lpg",
+      "total_assets": 267883,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tira Satria Niaga",
+      "business_type": "Perdagangan Eceran, Jasa Informasi, Pergudangan, dan Penunjang Angkutan, Pemograman dan Konsultasi Komputer, dan Konsultasi Periklanan dan Penelitian, Pasar, Konsultan Manajemen",
+      "total_assets": 93012,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Tira Cipta Transportasi",
+      "business_type": "Aktivitas Penunjang Angkutan",
+      "total_assets": 22855,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Gazenta Niaga",
+      "business_type": "Industri Alat-alat Dapur dari Logam",
+      "total_assets": 11185,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Gramedia Digital Nusantara",
+      "business_type": "Perdagangan Eceran, Penerbitan Buku, (e-commerce), Aktivitas Pemograman Komputer, Aktivitas Hosting, Portal Web Dan/atau Platform Digital Tanpa dan dengan Tujuan Komersial, Aktivitas Konsultasi Manajemen, Periklanan, Penelitian Pasar, Jasa Penyelenggara Event Khusus",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.776.162.300.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,68",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,40",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "5,59",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "25,67",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,83",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "0,81",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:32.014Z"
+}

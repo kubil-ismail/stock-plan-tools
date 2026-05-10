@@ -1,0 +1,339 @@
+{
+  "company_name": "PT Hillcon Tbk",
+  "ticker": "HILL",
+  "office_address": "Blok R2, Jl. Taman Modern No. 19 Rt.014/rw.006, Ujung Menteng, Kecamatan Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13960",
+  "email": "corporate.secretary@hillcon.co.id",
+  "phone": "(021) 4618458",
+  "fax": "(021) 4618457",
+  "tax_id": "210391942006000",
+  "website": "https://www.hillcon.co.id",
+  "listing_date": "2023-03-01",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Aktivitas perusahaanholding dan aktivitas konsultasi manajemen serta jasa pertambangan dan jasa konstruksi melalui perusahaan anak.",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Properti, Energi, Logistik, Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Batubara",
+      "Properti",
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Anna Etty Sulistiorini",
+    "email": "corporate.secretary@hillcon.co.id",
+    "phone": "(021) 4618458"
+  },
+  "directors": [
+    {
+      "name": "Hersan Qiu",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Stanley Qiu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hermansyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jaya Angdika",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tan Tjoe Liang",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Caecilia Sulistiowati",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tan Tjoe Liang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herwan Ng",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nadalia Shofia Audrina",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Hillcon Equity Management",
+      "type": "Lebih dari 5%",
+      "shares": 5560841600,
+      "percentage": 37.72
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4241564500,
+      "percentage": 28.77
+    },
+    {
+      "name": "PT Cgs International Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2558393900,
+      "percentage": 17.36
+    },
+    {
+      "name": "PT Bukit Persada Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2380700000,
+      "percentage": 16.15
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hermansyah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jaya Angdika",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Stanley Qiu",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Tjoe Liang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Caecilia Sulistiowati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hersan Qiu",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Hillconjaya Sakti",
+      "business_type": "Jasa Kontruksi",
+      "total_assets": 5651920,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Hillcon Jaya Land",
+      "business_type": "Real Estate",
+      "total_assets": 1129690,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Hillcon Industrial Assets",
+      "business_type": "Perdagangan Suku Cadang, Reparasi, Sewa, dan Aksesoris Mobil",
+      "total_assets": 49106,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Pawon Servis Tama",
+      "business_type": "Perdagangan Suku Cadang, dan Aksesoris Mobil",
+      "total_assets": 24898,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Hillcon Mining Indonesia",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 16856,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Jaya Berkat Usaha",
+      "business_type": "Jasa Kontruksi",
+      "total_assets": 16747,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sanafi Bukit Mineral",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 10110,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hillcon Shappire Hotel",
+      "business_type": "Hotel, Restoran, dan Perumahaan",
+      "total_assets": 7005,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Peregrin Travel Agency",
+      "business_type": "Agen Perjalanan Wisata",
+      "total_assets": 5300,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Pangan Unggul Satu",
+      "business_type": "Hotel, Restoran, dan Perumahaan",
+      "total_assets": 5000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Hillcon Jaya Sukses",
+      "business_type": "Jasa Penunjang Pertambangan dan Penggalian",
+      "total_assets": 3555,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Roda Perkasa Utama",
+      "business_type": "Perdagangan Suku Cadang, dan Aksesoris Mobil",
+      "total_assets": 2000,
+      "ownership_percentage": 67
+    },
+    {
+      "name": "PT Hillcon Logistics Supplies",
+      "business_type": "Perdagangan Suku Cadang, dan Aksesoris Mobil",
+      "total_assets": 1000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "309.571.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,09",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "83,33",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "87,58",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "93,24",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "86,93",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:40.030Z"
+}

@@ -1,0 +1,284 @@
+{
+  "company_name": "PT Sinar Mas Agro Resources And Technology Tbk",
+  "ticker": "SMAR",
+  "office_address": "Gedung Sinar Mas Land Plaza, Menara 2 Lt. 28-30, Jl. MH. Thamrin No. 51, Rt 09 Rw 04, Gondangdia, Menteng, Jakarta Pusat, Dki Jakarta 10350",
+  "email": "investor@smart-tbk.com; jimmy.pramono@sinarmas-agri.com",
+  "phone": "021-50338899",
+  "fax": "-",
+  "tax_id": "01.000.183.2-092.000",
+  "website": "https://www.smart-tbk.com",
+  "listing_date": "1992-11-20",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Agribisnis",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Properti, Energi, Logistik, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Properti",
+      "Energi",
+      "Logistik",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Bapak Jimmy Pramono",
+    "email": "investor@smart-tbk.com; jimmy.pramono@sinarmas-agri.com",
+    "phone": "021-50338899"
+  },
+  "directors": [
+    {
+      "name": "The Biao Leng",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jimmy Pramono",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Ing. Gianto Widjaja",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Franciscus Costan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "D. Agus Purnomo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Gatot Eddy Pramono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Franky Oesman Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Teddy Pawitra",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rafael Buhay Concepcion, Jr.",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Lukmono Sutarto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ketut Sanjaya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Prof. Dr. Susiyati B. Hirawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ardhayadi, Se., Ma",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ardhayadi, Se., Ma",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dr. Robert A. Simanjuntak",
+      "position": "Anggota"
+    },
+    {
+      "name": "Reynold M. Batubara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Purimas Sasmita, PT",
+      "type": "Lebih dari 5%",
+      "shares": 2653897571,
+      "percentage": 92.4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 216823000,
+      "percentage": 7.55
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1472795,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tapian Nadenggan - Tapian",
+      "business_type": "Industri Kelapa Sawit",
+      "total_assets": 5594264,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Soci Mas - Soci",
+      "business_type": "Industri Oleokimia",
+      "total_assets": 4055660,
+      "ownership_percentage": 99.39
+    },
+    {
+      "name": "PT Sinarmas Bio Energy - Sbe",
+      "business_type": "Industri Kimia Dasar Organik dan Energi Terbarukan",
+      "total_assets": 2791048,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kresna Duta Agroindo - Kresna",
+      "business_type": "Industri Kelapa Sawit",
+      "total_assets": 1809144,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Maskapai Perkebunan Leidong West Indonesia - Leidong",
+      "business_type": "Industri Kelapa Sawit",
+      "total_assets": 674143,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Satya Kisma Usaha - Satya",
+      "business_type": "Industri Kelapa Sawit",
+      "total_assets": 551167,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Propertindo Prima - Propertindo",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 422359,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sinarmas Sentra Cipta - Ssc",
+      "business_type": "Jasa Administrasi Kantor",
+      "total_assets": 347451,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perusahaan Perkebunan Panigoran - Panigoran",
+      "business_type": "Industri Kelapa Sawit",
+      "total_assets": 15670,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Pratama Ronaperintis - Pratama",
+      "business_type": "Investasi",
+      "total_assets": 244,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "17.663.989.200.900",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "21,29",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "11,36",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "20,10",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "68,27",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,41",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "28,95",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:29.533Z"
+}

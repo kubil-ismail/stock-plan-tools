@@ -1,0 +1,186 @@
+{
+  "company_name": "Limas Indonesia Makmur Tbk",
+  "ticker": "LMAS",
+  "office_address": "Plaza Asia Lantai 22, Jl. Jend. Sudirman Kav. 59, Jakarta 12190",
+  "email": "corsec@limas.com",
+  "phone": "021-5155168",
+  "fax": "021-5151695",
+  "tax_id": "01.788.077.4-054.000",
+  "website": "https://www.limas.com",
+  "listing_date": "2001-12-28",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Computer and Services",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Baso Amir",
+    "email": "basoa@limas.com",
+    "phone": "0215155168"
+  },
+  "directors": [
+    {
+      "name": "Ibin Bachtiar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Itek Bachtiar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Edwin Lim",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dewi Tio",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "He Ratna Permanasari",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alexander Andrew Kelton",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rudy Soraya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Cornelius Pranata",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 620686725,
+      "percentage": 78.78
+    },
+    {
+      "name": "Suparman Tjahaja",
+      "type": "Lebih dari 5%",
+      "shares": 58777200,
+      "percentage": 7.46
+    },
+    {
+      "name": "Itek Bachtiar",
+      "type": "Direksi",
+      "shares": 56957850,
+      "percentage": 7.23
+    },
+    {
+      "name": "Eka Suhendra",
+      "type": "Lebih dari 5%",
+      "shares": 51429400,
+      "percentage": 6.53
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 350,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Geotech System Indonesia",
+      "business_type": "Perdagangan Perangkat Keras dan Perangkat Lunak Serta Fasilitas Pendukungnya, dan Konsultan Teknologi Informasi",
+      "total_assets": 345130906015,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "39.392.576.250",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:59.844Z"
+}

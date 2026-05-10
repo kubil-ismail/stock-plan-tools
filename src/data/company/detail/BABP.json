@@ -1,0 +1,231 @@
+{
+  "company_name": "PT Bank Mnc Internasional Tbk.",
+  "ticker": "BABP",
+  "office_address": "Gedung Mnc Bank Tower Lantai 8, Jl. Kebon Sirih No. 21-27, Jakarta 10340",
+  "email": "corporate.legal@mncbank.co.id",
+  "phone": "2980-5555",
+  "fax": "3983-6700",
+  "tax_id": "01.342.094.8-054.000",
+  "website": "https://www.mncbank.co.id",
+  "listing_date": "2002-07-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Edward Kennetze",
+    "email": "edward.lubis@mncbank.co.id",
+    "phone": "29805555"
+  },
+  "directors": [
+    {
+      "name": "Rita Montagna Siahaan",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Hermawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Tiolina Tumanggor",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lukito Adisubrata Suwardi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Donny Kushendratno",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ponky Nayarana Pudijanto",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Peter Fajar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Frederikus P. Weoseke",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ponky Nayarana Pudijanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Frederikus P. Weoseke",
+      "position": "Anggota"
+    },
+    {
+      "name": "H. Eddy Yantho Sofwan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mohammad Sumarsono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mnc Kapital Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 22153006407,
+      "percentage": 49.83
+    },
+    {
+      "name": "Winfly Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 10423122655,
+      "percentage": 23.44
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5622821595,
+      "percentage": 12.66
+    },
+    {
+      "name": "Global Mediacom Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 3213433333,
+      "percentage": 7.23
+    },
+    {
+      "name": "Mnc Land Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 3034200264,
+      "percentage": 6.82
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 10000000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Peter Fajar",
+      "type": "Komisaris",
+      "shares": 2413100,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ponky Nayarana Pudijanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Frederikus P. Weoseke",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rita Montagna Siahaan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hermawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tiolina Tumanggor",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lukito Adisubrata Suwardi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.244.730.989.426",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,92",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "8,93",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "7,27",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "5,56",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "12,07",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:02.855Z"
+}

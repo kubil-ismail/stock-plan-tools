@@ -1,0 +1,291 @@
+{
+  "company_name": "PT Cemindo Gemilang Tbk",
+  "ticker": "CMNT",
+  "office_address": "Gedung Gama Tower Lantai 43, Jl. Hr Rasuna Said Kav. C22, Kuningan, Jakarta Selatan 12940, Indonesia",
+  "email": "investor@cemindo.com",
+  "phone": "(021) 21889999",
+  "fax": "(021) 21889991",
+  "tax_id": "03.148.714.3-041.000",
+  "website": "https://www.cemindo.com",
+  "listing_date": "2021-09-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Semen",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Ameesh Anand",
+    "email": "corsec@cemindo.com",
+    "phone": "+622121889999"
+  },
+  "directors": [
+    {
+      "name": "Liu Chang I (tony Liu)",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vince Erlington Indigo",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ameesh Anand",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Surindro Kalbu Adi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jacqueline Sitorus",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mahmuddin Yasin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mahmuddin Yasin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Pradeep Kumar Kilpady",
+      "position": "Anggota"
+    },
+    {
+      "name": "Djuaman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Wh Investments Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 14962904000,
+      "percentage": 87.37
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2062600000,
+      "percentage": 12.05
+    },
+    {
+      "name": "Vince Erlington Indigo",
+      "type": "Direksi",
+      "shares": 100000000,
+      "percentage": 0.58
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jacqueline Sitorus",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mahmuddin Yasin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Liu Chang-i (tony Liu)",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ameesh Anand",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Surindro Kalbu Adi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Cemindo Investment Pte Ltd",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 3428903,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Chinfon Cement Corporation",
+      "business_type": "Industri Semen",
+      "total_assets": 2551519,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Chinfon Vietnam Holding",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 991308,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Motive Mulia",
+      "business_type": "Industri Mortar / Beton Siap Pakai & Pengelolaan Limbah",
+      "total_assets": 422830,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Andalan Nusa Pratama",
+      "business_type": "Angkutan Darat",
+      "total_assets": 135092,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Cemindo Bangun Persada",
+      "business_type": "Industri Semen & Aktivitas Pengepakan",
+      "total_assets": 94919,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Karsa Primapermata Nusa",
+      "business_type": "Pertambangan & Industri Beton Siap Pakai",
+      "total_assets": 64214,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Lebak Energi Nusantara",
+      "business_type": "Pertambangan",
+      "total_assets": 59174,
+      "ownership_percentage": 49
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "13.957.285.760.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,89",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,25",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "5,88",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "4,71",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,25",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "4,71",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:16.522Z"
+}

@@ -1,0 +1,189 @@
+{
+  "company_name": "Reliance Sekuritas Indonesia Tbk",
+  "ticker": "RELI",
+  "office_address": "Soho Westpoint Kota Kedoya Jalan Macan Kav. 4-5 Kedoya Utara Kebon Jeruk Jakarta Barat",
+  "email": "corsec@reliancesekuritas.com",
+  "phone": "021-29520558",
+  "fax": "021-29119951",
+  "tax_id": "01.349.347.3-054.000",
+  "website": "https://www.reliancesekuritas.com",
+  "listing_date": "2005-07-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Securities Company",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 12,
+    "name": "Jasa Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 13,
+    "name": "Jasa Investasi"
+  },
+  "sub_industry": {
+    "id": 10,
+    "name": "Bank Investasi & Perantara Perdagangan",
+    "industries_id": 13
+  },
+  "corporate_secretary": {
+    "name": "Nurwati Tunggal",
+    "email": "nurwati.tunggal@reliancesekuritas.com",
+    "phone": "+62 21 6617768"
+  },
+  "directors": [
+    {
+      "name": "Akhabani",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Novi Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Reza Priyambada",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anton Budidjaja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Indra Safitri",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Indra Safitri",
+      "position": "Ketua"
+    },
+    {
+      "name": "Torang Sitanggang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aditya Kurniawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Reliance Capital Management",
+      "type": "Lebih dari 5%",
+      "shares": 1541616135,
+      "percentage": 85.645
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 248379765,
+      "percentage": 13.799
+    },
+    {
+      "name": "Anton Budidjaja",
+      "type": "Komisaris",
+      "shares": 10000000,
+      "percentage": 0.556
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Indra Safitri",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Akhabani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andrew Novi Gunawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Reza Priyambada",
+      "type": "Direksi",
+      "shares": 4100,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Reliance Manajer Investasi",
+      "business_type": "Manajer Investasi",
+      "total_assets": 18106901788,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "909.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,40",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,31",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "23,08",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "12,61",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,63",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "11,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:43.747Z"
+}

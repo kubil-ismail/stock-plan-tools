@@ -1,0 +1,373 @@
+{
+  "company_name": "PT Samator Indo Gas Tbk",
+  "ticker": "AGII",
+  "office_address": "Gedung Ugm - Samator Pendidikan Tower A Lantai 5-6 Jl. Dr. Sahardjo No. 83, Manggarai Tebet, Jakarta Selatan 12850",
+  "email": "corsec@anekagas.com",
+  "phone": "021 - 83709111",
+  "fax": "021 - 83709911",
+  "tax_id": "01.002.124.4-038.000",
+  "website": "https://www.anekagas.com",
+  "listing_date": "2016-09-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Produsen Gas Industri",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Imelda Mulyani Harsono",
+    "email": "corsec@samator.com",
+    "phone": "021-83709111"
+  },
+  "directors": [
+    {
+      "name": "Rachmat Harsono, Bsc., Mba",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Imelda Mulyani Harsono, Ba., Mm., Ll.m.",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Sigit Purwanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andy Purwohardono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Noni Mulianti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Heyzer Harsono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rasid Harsono",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ferryawan Utomo, Ir. M.m.",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Michael W. P. Soeryadjaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sutanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Robiyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Atiff Ibrahim Gill",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hans-gerd Wienands-adelsbach",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Nini Liemijanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Robiyanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sutanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tjokro Aliwidjaja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Samator",
+      "type": "Lebih dari 5%",
+      "shares": 1080693020,
+      "percentage": 35.24
+    },
+    {
+      "name": "Matrix Company Limited",
+      "type": "Lebih dari 5%",
+      "shares": 986967780,
+      "percentage": 32.18
+    },
+    {
+      "name": "PT Aneka Mega Energi",
+      "type": "Lebih dari 5%",
+      "shares": 459999000,
+      "percentage": 15
+    },
+    {
+      "name": "PT Saratoga Investama Sedaya",
+      "type": "Lebih dari 5%",
+      "shares": 306666000,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 231437100,
+      "percentage": 7.55
+    },
+    {
+      "name": "Ir. Sigit Purwanto",
+      "type": "Direksi",
+      "shares": 350900,
+      "percentage": 0.012
+    },
+    {
+      "name": "Ferryawan Utomo",
+      "type": "Komisaris",
+      "shares": 211400,
+      "percentage": 0.007
+    },
+    {
+      "name": "Nini Liemijanto",
+      "type": "Komisaris",
+      "shares": 152000,
+      "percentage": 0.005
+    },
+    {
+      "name": "Noni Mulianti",
+      "type": "Direksi",
+      "shares": 98200,
+      "percentage": 0.003
+    },
+    {
+      "name": "Budi Susanto",
+      "type": "Direksi",
+      "shares": 84600,
+      "percentage": 0.003
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2709923,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2709923,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2709923,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2709923,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2643633,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2643633,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2587148,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2587148,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2543141,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Samator Gas Industri",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 2504820,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 74936,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 74936,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 74649,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 74649,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 74649,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 74649,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 74431,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 74431,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 73557,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Ruci Gas",
+      "business_type": "Produksi dan Perdagangan Gas",
+      "total_assets": 72816,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "9.199.980.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,01",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "39,63",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "124,44",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "150,41",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,94",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "90,57",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:59.481Z"
+}

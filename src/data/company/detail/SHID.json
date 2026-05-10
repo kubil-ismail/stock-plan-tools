@@ -1,0 +1,171 @@
+{
+  "company_name": "Hotel Sahid Jaya Tbk",
+  "ticker": "SHID",
+  "office_address": "Jl. Jend. Sudirman No. 86 Jakarta - 10220",
+  "email": "a",
+  "phone": "5703232",
+  "fax": "5701619",
+  "tax_id": "01.002.979.1-054.000",
+  "website": "https://www.pthsji.com",
+  "listing_date": "1990-05-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Hotel and Tourism",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Hengky Roy",
+    "email": "hengky.roy@sahidgroup.com",
+    "phone": "(021) 5704444, 5702425"
+  },
+  "directors": [
+    {
+      "name": "Dr. Ir. H. Hariyadi Budisantoso Sukamdani, M.m",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hengky Roy, Se",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Dhanadi Kusuma Wardana Sukamdani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muhamad Nurdin, S.e",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Beny Roelyawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. (h.c.) Dra. Hj. Sarwo Budi Wiryanti Sukamdani, C.h.a.",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hj Exacty Budiarsi Sryantoro, M.b.a",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ir. Budiarto Subroto, Dea",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dra. L Sri Mardini",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sayekti, Se, Mm, Mba",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Empu Sahid Holding International, PT",
+      "type": "Lebih dari 5%",
+      "shares": 883951142,
+      "percentage": 78.972
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 160715680,
+      "percentage": 14.358
+    },
+    {
+      "name": "Sahid Insanadi, PT",
+      "type": "Lebih dari 5%",
+      "shares": 68010926,
+      "percentage": 6.076
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 6345920,
+      "percentage": 0.567
+    },
+    {
+      "name": "Muhammad Nurdin",
+      "type": "Komisaris",
+      "shares": 302500,
+      "percentage": 0.027
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "833.897.995.160",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,56",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "14,12",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "13,14",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,01",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,66",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "15,56",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:16.756Z"
+}

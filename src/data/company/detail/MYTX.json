@@ -1,0 +1,186 @@
+{
+  "company_name": "PT Asia Pacific Investama Tbk.",
+  "ticker": "MYTX",
+  "office_address": "Jl. Pajajaran 14 No. 62 Kelurahan Gandasari, Jatiuwung, Kota Tangerang 15137",
+  "email": "corporate_secretary@apacinti.com",
+  "phone": "(021) 556688 88 Ext.34021",
+  "fax": "(021) 556 678 33",
+  "tax_id": "1.321.628.8-054.000",
+  "website": "https://www.apinvestama.co.id",
+  "listing_date": "1989-10-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Tekstil dan Garment",
+    "business_summary": "Perusahaan bergerak di bidang Tekstil.",
+    "business_tags": [
+      "Tekstil"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Kristina Bay Maca",
+    "email": "corporate_secretary@apacinti.com",
+    "phone": "(021) 556 688 88"
+  },
+  "directors": [
+    {
+      "name": "Ivan Pesik",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kristina Bay Maca",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Johnny Pesik",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Benny Soetrisno",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sintong Panjaitan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sintong Panjaitan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rakiyo Wibowo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gatot Hidayat",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indah Jaya Investama",
+      "type": "Lebih dari 5%",
+      "shares": 5662429162,
+      "percentage": 73.09
+    },
+    {
+      "name": "PT Prima Graha Hiburan",
+      "type": "Lebih dari 5%",
+      "shares": 1434131954,
+      "percentage": 18.51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 602240482,
+      "percentage": 7.77
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 48480351,
+      "percentage": 0.63
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Apac Inti Corpora",
+      "business_type": "Penenunan dan Pemintalan",
+      "total_assets": 3862394,
+      "ownership_percentage": 96.44
+    },
+    {
+      "name": "PT Apac Inti Corpora",
+      "business_type": "Penenunan dan Pemintalan",
+      "total_assets": 3857146,
+      "ownership_percentage": 96.44
+    },
+    {
+      "name": "PT Apac Inti Corpora",
+      "business_type": "Penenunan dan Pemintalan",
+      "total_assets": 3798348,
+      "ownership_percentage": 9.644
+    },
+    {
+      "name": "PT Apac Inti Corpora",
+      "business_type": "Penenunan dan Permintalan",
+      "total_assets": 3758454,
+      "ownership_percentage": 96.44
+    },
+    {
+      "name": "PT Apac Inti Corpora",
+      "business_type": "Penenunan dan Permintalan",
+      "total_assets": 3369866,
+      "ownership_percentage": 96.44
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "495.826.044.736",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "41,86",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "56,41",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "69,44",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "69,44",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,17",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "69,44",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:31.657Z"
+}

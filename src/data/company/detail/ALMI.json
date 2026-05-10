@@ -1,0 +1,202 @@
+{
+  "company_name": "Alumindo Light Metal Industry Tbk",
+  "ticker": "ALMI",
+  "office_address": "Gedung Maspion Lt.7, Jl. Kembang Jepun 38-40, Surabaya 60162 Jawa Timur - Indonesia",
+  "email": "cs@alumindo.com",
+  "phone": "+62-31-3531445, 3541040",
+  "fax": "+62-31-3533055, 3533218",
+  "tax_id": "01.122.572.9-092.000",
+  "website": "https://www.alumindo.com",
+  "listing_date": "1997-01-02",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Metal and Alied Products",
+    "business_summary": "Perusahaan bergerak di bidang Alumunium.",
+    "business_tags": [
+      "Alumunium"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 3,
+    "name": "Alumunium",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Wibowo Suryadinata",
+    "email": "cs@ alumindo .com",
+    "phone": "(031) 853 1531"
+  },
+  "directors": [
+    {
+      "name": "Alim Markus",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Alim Mulia Sastra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alim Prakasa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wibowo Suryadinata",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Welly Muliawan, Lie",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Supranoto Dipokusumo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs.supranoto Dipokusumo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lydia Ratna Dewi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Debby Maria",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Husin Investama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 2537631978,
+      "percentage": 66.5
+    },
+    {
+      "name": "Alim Investindo, PT",
+      "type": "Lebih dari 5%",
+      "shares": 600020374,
+      "percentage": 15.72
+    },
+    {
+      "name": "Guna Investindo, PT",
+      "type": "Lebih dari 5%",
+      "shares": 330080000,
+      "percentage": 8.65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 112771000,
+      "percentage": 2.95
+    },
+    {
+      "name": "Marindo Investama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 93459476,
+      "percentage": 2.45
+    },
+    {
+      "name": "Prakindo Investama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 38438704,
+      "percentage": 1.01
+    },
+    {
+      "name": "Mulindo Investama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 36463704,
+      "percentage": 0.96
+    },
+    {
+      "name": "Maspion, PT",
+      "type": "Lebih dari 5%",
+      "shares": 35068704,
+      "percentage": 0.92
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 22088860,
+      "percentage": 0.58
+    },
+    {
+      "name": "Alim Markus",
+      "type": "Direksi",
+      "shares": 9055000,
+      "percentage": 0.24
+    },
+    {
+      "name": "Welly Muliawan, Lie",
+      "type": "Komisaris",
+      "shares": 922200,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "282.384.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:11.022Z"
+}

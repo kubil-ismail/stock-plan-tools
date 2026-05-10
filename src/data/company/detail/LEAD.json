@@ -1,0 +1,208 @@
+{
+  "company_name": "PT Logindo Samudramakmur Tbk.",
+  "ticker": "LEAD",
+  "office_address": "Graha Corner Stone Jl. Rajawali Selatan II No. 1 Jakarta Pusat – 10720",
+  "email": "corporate@logindo.com",
+  "phone": "021-6471 3088",
+  "fax": "021-6471 3220",
+  "tax_id": "01.738.690.5-054.000",
+  "website": "https://www.logindo.com",
+  "listing_date": "2013-12-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang pelayaran dengan fokus pada kapal penunjang kegiatan angkutan lepas pantai bagi industri minyak dan gas bumi.",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Denny Haryanto",
+    "email": "denny_haryanto@logindo.com",
+    "phone": "021-64713088"
+  },
+  "directors": [
+    {
+      "name": "Eddy Kurniawan Logam",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "James Pang Wei Kuan",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ragil Marzuki Sumarno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Meyrick Alda Sumantri",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mounir Klinkhamer",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Pang Yoke Min",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Merna Logam",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Adrianus Iskandar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agustinus Sugiharto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lisa Jauhari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2465752772,
+      "percentage": 42.51
+    },
+    {
+      "name": "PT Jalan Terang Samudra",
+      "type": "Lebih dari 5%",
+      "shares": 1345000000,
+      "percentage": 23.19
+    },
+    {
+      "name": "Pacific Offshore Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1313058200,
+      "percentage": 22.64
+    },
+    {
+      "name": "Manoj Pitamber Nanwani",
+      "type": "Lebih dari 5%",
+      "shares": 294835756,
+      "percentage": 5.08
+    },
+    {
+      "name": "Eddy Kurniawan Logam",
+      "type": "Direksi",
+      "shares": 285724300,
+      "percentage": 4.93
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 92000000,
+      "percentage": 1.59
+    },
+    {
+      "name": "Merna Logam",
+      "type": "Komisaris",
+      "shares": 3245100,
+      "percentage": 0.06
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ragil Marzuki Sumarno",
+      "type": "Direksi",
+      "shares": 200,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Delta Mahakam Makmur",
+      "business_type": "Reparasi Kapal",
+      "total_assets": 175493,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Logindo Nusantara Gasindo",
+      "business_type": "Penyimpanan dan Regasifikasi Terapung",
+      "total_assets": 157667,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "788.747.820.608",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "15,17",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,14",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "59,74",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "46,43",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,89",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "40,29",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:54.454Z"
+}

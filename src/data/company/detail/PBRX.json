@@ -1,0 +1,322 @@
+{
+  "company_name": "Pan Brothers Tbk",
+  "ticker": "PBRX",
+  "office_address": "Jl. Siliwangi No. 178, Alam Jaya, Jatiuwung, Tangerang 15133",
+  "email": "apbrxswk@pbrx.co.id; iswardeni@pbrx.co.id",
+  "phone": "021-5900718 (hunting)",
+  "fax": "021-5900706, 5900717",
+  "tax_id": "01.136.073.2-054.000",
+  "website": "https://0",
+  "listing_date": "1990-08-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Garment",
+    "business_summary": "Perusahaan bergerak di bidang Pakaian, Aksesoris, & Tas.",
+    "business_tags": [
+      "Pakaian, Aksesoris, & Tas"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 53,
+    "name": "Pakaian, Aksesoris, & Tas",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Satrio Boediarto",
+    "email": "apbrxswk@pbrx.co.id, corpsec@pbrx.co.id",
+    "phone": "021-5900718/5900705"
+  },
+  "directors": [
+    {
+      "name": "Fitri Ratnasari Hartono",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Jean Pierre Seveke",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ludijanto Setijo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Anne Patricia Sutanto",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Benny Soetrisno",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Supandi Widi Siswanto",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edi Prio Pambudi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Supandi Widi Siswanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bunardy Limanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Toni Setioko",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 10885924964,
+      "percentage": 50.675
+    },
+    {
+      "name": "PT. Trisetijo Manunggal Utama",
+      "type": "Lebih dari 5%",
+      "shares": 6712915282,
+      "percentage": 31.249
+    },
+    {
+      "name": "Ubs Ag Singapore S/a",
+      "type": "Lebih dari 5%",
+      "shares": 3866456000,
+      "percentage": 17.999
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 16732000,
+      "percentage": 0.077
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Pancaprima Ekabrothers dan Entitas Anak",
+      "business_type": "Garment",
+      "total_assets": 260616818,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT. Pancaprima Ekabrothers dan Entitas Anak",
+      "business_type": "Industri Garmen",
+      "total_assets": 242547529,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "Pb International B.v dan Entitas Anak",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 206145362,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Pb International B.v dan Entitas Anak",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 198261570,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Prima Sejati Sejahtera",
+      "business_type": "Industri Garmen",
+      "total_assets": 157289225,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Prima Sejati Sejahtera",
+      "business_type": "Industri Garmen",
+      "total_assets": 136356430,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Eco Smart Garment Indonesia",
+      "business_type": "Industri Garmen",
+      "total_assets": 129684852,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Eco Smart Garment Indonesia",
+      "business_type": "Industri Garmen",
+      "total_assets": 126270739,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT. Teodore Pan Garmindo",
+      "business_type": "Industri Garmen",
+      "total_assets": 36856700,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Ocean Asia Industry",
+      "business_type": "Industri Textile",
+      "total_assets": 28035466,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Ocean Asia Industry",
+      "business_type": "Industri Tekstil",
+      "total_assets": 25885398,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Continent 8, Pte. Ltd.",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 12157491,
+      "ownership_percentage": 65.43
+    },
+    {
+      "name": "PT Apparelindo Prima Sentosa dan Entitas Anak",
+      "business_type": "Usaha Eceran",
+      "total_assets": 10432747,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Apparelindo Prima Sentosa dan Entitas Anak",
+      "business_type": "Usaha Eceran",
+      "total_assets": 9518277,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Continent 8 Pte, Ltd",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 9000788,
+      "ownership_percentage": 65.43
+    },
+    {
+      "name": "PT. Victory Pan Multitex",
+      "business_type": "Industri Garmen",
+      "total_assets": 7927014,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Pb Island Pte Ltd",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 4730966,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Pb Island Pte Ltd",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 4398518,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Hollit Internationa",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 4261244,
+      "ownership_percentage": 53.57
+    },
+    {
+      "name": "PT. Hollit International",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 4019645,
+      "ownership_percentage": 53.57
+    },
+    {
+      "name": "PT. Berkah Indo Garment",
+      "business_type": "Industri Garment",
+      "total_assets": 1896271,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Berkah Indo Garment",
+      "business_type": "Industri Garmen",
+      "total_assets": 1704850,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cosmic Gear, Ltd",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 13689,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cosmic Gear, Ltd",
+      "business_type": "Pengembangan Produk",
+      "total_assets": 10877,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Teodore Pan Garmindo",
+      "business_type": "Industri Garmen",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT. Victory Pan Multitex",
+      "business_type": "Industri Garmen",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "816.317.073.348",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "20,00",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,95",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "17,95",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "39,13",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "15,79",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "15,79",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:13.128Z"
+}

@@ -1,0 +1,169 @@
+{
+  "company_name": "PT Hk Metals Utama Tbk",
+  "ticker": "HKMU",
+  "office_address": "Jl. Rose Garden 1 No 52, Rt.002/rw.017, Kel. Jaka Setia, Kec. Bekasi Selatan, Kota Bekasi, Jawa Barat - 17147",
+  "email": "info@hkmu.co.id",
+  "phone": "+62182758384",
+  "fax": "+622188871933",
+  "tax_id": "02.998.750.0-004.000",
+  "website": "https://www.hkmu.co.id",
+  "listing_date": "2018-10-09",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan, jasa, pembangunan dan industri khususnya barang metal, baja, dan holo besi",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 3,
+    "name": "Alumunium",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Jodi Pujiyono",
+    "email": "corsec@hkmu.co.id",
+    "phone": "+622130050888"
+  },
+  "directors": [
+    {
+      "name": "Muhamad Kuncoro",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pratama Girindra Wirawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jodi Pujiyono Susanto",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rudi Ramdhani Firmansyah",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fautry Hasfiandy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lukman Hardiansyah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yayang Ari Setiawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3221750000,
+      "percentage": 100
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Handal Aluminium Sukses",
+      "business_type": "Manufaktur",
+      "total_assets": 334990,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Rasa Langgeng Wira",
+      "business_type": "Manufaktur",
+      "total_assets": 87287,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Karya Bumimas Persada",
+      "business_type": "Manufaktur",
+      "total_assets": 85612,
+      "ownership_percentage": 96
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "161.087.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:43.914Z"
+}

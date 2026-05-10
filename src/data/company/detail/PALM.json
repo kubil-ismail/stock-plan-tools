@@ -1,0 +1,209 @@
+{
+  "company_name": "PT Provident Investasi Bersama Tbk",
+  "ticker": "PALM",
+  "office_address": "Gedung The Convergence Indonesia Lantai 21, Kawasan Rasuna Epicentrum, Jl. H. R. Rasuna Said, Kelurahan Karet Kuningan, Kecamatan Setiabudi, Jakarta Selatan, Provinsi Dki Jakarta 12940",
+  "email": "investor.relation@provident-investasi.com",
+  "phone": "(021) 2157 2008",
+  "fax": "(021) 2157 2009",
+  "tax_id": "02.626.313.7-054.000",
+  "website": "https://www.provident-investasi.com",
+  "listing_date": "2012-10-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Investasi.",
+    "business_tags": [
+      "Perusahaan Investasi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 77,
+    "name": "Perusahaan Investasi",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Lim Na Lie",
+    "email": "corsec@provident-agro.com",
+    "phone": "(021) 2157 2008"
+  },
+  "directors": [
+    {
+      "name": "Tri Boewono",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budianto Purwahjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ellen Kartika",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hardi Wijaya Liong",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Johnson Chan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Kumari Ak",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Kumari, Ak.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Boyke Antonius Naba, S.e.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ignatius Arrie Setiawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Provident Capital Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 9127783531,
+      "percentage": 58.017
+    },
+    {
+      "name": "Garibaldi Thohir",
+      "type": "Lebih dari 5%",
+      "shares": 3130434288,
+      "percentage": 19.897
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1345443825,
+      "percentage": 8.552
+    },
+    {
+      "name": "Winato Kartono",
+      "type": "Lebih dari 5%",
+      "shares": 1225080353,
+      "percentage": 7.787
+    },
+    {
+      "name": "Hardi Wijaya Liong",
+      "type": "Komisaris",
+      "shares": 837580961,
+      "percentage": 5.324
+    },
+    {
+      "name": "Tri Boewono",
+      "type": "Direksi",
+      "shares": 66551500,
+      "percentage": 0.423
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Suwarna Arta Mandiri (sam)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 6176964268,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Suwarna Arta Mandiri (sam) (melalui Ap)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 6176964268,
+      "ownership_percentage": 0.01
+    },
+    {
+      "name": "PT Alam Permai (ap)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 3804423198,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sarana Investasi Nusantara (sin)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 184279,
+      "ownership_percentage": 99.65
+    },
+    {
+      "name": "PT Sarana Investasi Nusantara (sin) (melalui Sam)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 184279,
+      "ownership_percentage": 0.35
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.758.232.051.628",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,66",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "4,66",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,66",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,54",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "4,17",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:06.807Z"
+}

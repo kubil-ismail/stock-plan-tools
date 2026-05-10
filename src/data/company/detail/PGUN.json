@@ -1,0 +1,255 @@
+{
+  "company_name": "PT Pradiksi Gunatama Tbk",
+  "ticker": "PGUN",
+  "office_address": "Jl. Negara Km. 44, Kecamatan Batu Engau, Kabupaten Paser, Provinsi Kalimantan Timur",
+  "email": "corsec@pradiksi.co.id",
+  "phone": "(0518) 2090000",
+  "fax": "(0518) 2090000",
+  "tax_id": "01.770.368.7-057.000",
+  "website": "https://www.pradiksi.co.id",
+  "listing_date": "2020-07-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perkebunan dan Pengolahan Kelapa Sawit Terpadu",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Muhammad Reza",
+    "email": "corsec@pradiksi.co.id",
+    "phone": "(021) 51402111"
+  },
+  "directors": [
+    {
+      "name": "Khairuddin Simatupang",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tamlikho",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Liana Saputri",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Indra Surya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Indra Surya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ai Supardini",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rismon Purba",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Araya Agro Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 2205667896,
+      "percentage": 38.44
+    },
+    {
+      "name": "PT Citra Agro Raya",
+      "type": "Lebih dari 5%",
+      "shares": 2194718786,
+      "percentage": 38.25
+    },
+    {
+      "name": "PT Baramega Cipta Mulia Persada",
+      "type": "Lebih dari 5%",
+      "shares": 900000250,
+      "percentage": 15.69
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 437461950,
+      "percentage": 7.62
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jonet Budiarto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tamlikho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Liana Saputri",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Indra Surya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "50.779.962.605.700",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,29",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,41",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "33,97",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "1.350,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,33",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,56",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:23.941Z"
+}

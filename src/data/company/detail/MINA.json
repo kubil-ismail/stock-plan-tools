@@ -1,0 +1,269 @@
+{
+  "company_name": "PT Sanurhasta Mitra Tbk.",
+  "ticker": "MINA",
+  "office_address": "Graha Iskandarsyah Lt.6, Jl. Iskandarsyah Raya No. 66c, Melawai, Kebayoran Baru, Jakarta Selatan 12160",
+  "email": "corpsec@sanurhastamitra.com",
+  "phone": "(021) 7206929",
+  "fax": "(021) 7206039",
+  "tax_id": "016537748011000",
+  "website": "https://www.sanurhastamitra.com",
+  "listing_date": "2017-04-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengembangan properti dan perhotelan",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Duddy Abdullah",
+    "email": "corpsec@sanurhastamitra.com",
+    "phone": "(021) 7206929"
+  },
+  "directors": [
+    {
+      "name": "Astini Bernawati Oudang",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gunawan Angkawibawa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Duddy Abdullah",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jose Luis Calle",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hendry Utomo",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendry Utomo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Raditia Christine S",
+      "position": "Anggota"
+    },
+    {
+      "name": "Saka M Nainggolan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4381525341,
+      "percentage": 44.51
+    },
+    {
+      "name": "PT. Tirta Orisa Yasa",
+      "type": "Lebih dari 5%",
+      "shares": 3000000000,
+      "percentage": 30.48
+    },
+    {
+      "name": "Hapsoro",
+      "type": "Lebih dari 5%",
+      "shares": 1937224659,
+      "percentage": 19.68
+    },
+    {
+      "name": "Djoni",
+      "type": "Lebih dari 5%",
+      "shares": 525000000,
+      "percentage": 5.33
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Astini Bernawati Oudang",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Angkawibawa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Duddy Abdullah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendry Utomo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jose Luis Calle Rebolledo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Minna Padi Resorts",
+      "business_type": "Perhotelan dan Vila",
+      "total_assets": 30422163385,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Sanur Hasta Griya",
+      "business_type": "Developer",
+      "total_assets": 23731906919,
+      "ownership_percentage": 33.75
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.327.187.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "11,76",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "51,33",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "87,91",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "242,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "10,47",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:54.095Z"
+}

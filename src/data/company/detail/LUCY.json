@@ -1,0 +1,211 @@
+{
+  "company_name": "PT Lima Dua Lima Tiga Tbk",
+  "ticker": "LUCY",
+  "office_address": "Dwb Tower, (oleos 2) Lantai 5, Jalan Kebagusan 1 Kav 6, Pasar Minggu -jakarta Selatan 12520",
+  "email": "corporatesecretary@lucyintheskyjakarta.com",
+  "phone": "021-29406387",
+  "fax": "0",
+  "tax_id": "03.188.071.9-077.001",
+  "website": "https://lucy-group.com",
+  "listing_date": "2021-05-05",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Perdagangan dan Jasa",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Ryad",
+    "email": "corporatesecretary@lucyintheskyjakarta.com",
+    "phone": "021-5152308"
+  },
+  "directors": [
+    {
+      "name": "Hermansyah",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ryad",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Junior John Rorimpandey",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Yan Satyananda",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Junior John Rorimpandey",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dimas Raditya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Steven",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Delta Wibawa Bersama",
+      "type": "Lebih dari 5%",
+      "shares": 900141542,
+      "percentage": 59.42
+    },
+    {
+      "name": "Dimas Wibowo",
+      "type": "Lebih dari 5%",
+      "shares": 383584486,
+      "percentage": 25.32
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 222297865,
+      "percentage": 14.68
+    },
+    {
+      "name": "Hermansyah",
+      "type": "Direksi",
+      "shares": 8749500,
+      "percentage": 0.58
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Junior John Rorimpandey",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ryad",
+      "type": "Direksi",
+      "shares": 500,
+      "percentage": 0
+    },
+    {
+      "name": "Yan Satyananda",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Graha Senopati Sentosa",
+      "business_type": "Penyediaan Makanan dan Minuman / Providing Food And Beverages",
+      "total_assets": 13554629752,
+      "ownership_percentage": 54
+    },
+    {
+      "name": "PT Kreasi Sejahtera Bahagia",
+      "business_type": "Jasa Hiburan / Entertainment",
+      "total_assets": 5919362922,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.476.655.315.055",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,13",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "28,03",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1.329,91",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "1.008,70",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "10,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "163,79",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:13.998Z"
+}

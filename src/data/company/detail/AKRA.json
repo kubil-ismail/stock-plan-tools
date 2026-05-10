@@ -1,0 +1,323 @@
+{
+  "company_name": "PT AKR Corporindo Tbk.",
+  "ticker": "AKRA",
+  "office_address": "AKR Tower Lt.26, Jl. Panjang No. 5 Kebon Jeruk, Jakarta Barat 11530",
+  "email": "corporate.secretary@akr.co.id",
+  "phone": "(021) 531 1110",
+  "fax": "(021) 531 1185",
+  "tax_id": "01.132.905.9-092.000",
+  "website": "https://www.akr.co.id",
+  "listing_date": "1994-10-03",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan dan Distribusi BBM dan Bahan Kimia Dasar",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Logistik, Konstruksi, Retail.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Retail"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Suresh Vembu",
+    "email": "suresh.vembu@akr.co.id",
+    "phone": "021-5311110 ext.28200"
+  },
+  "directors": [
+    {
+      "name": "Haryanto Adikoesoemo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jimmy Tandyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Soetiono Soedijanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mery Sofi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suresh Vembu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nery Polim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Termurti Tiban",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Soegiarto Adikoesoemo",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sofyan A. Djalil",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mohamad Fauzi Maulana Ichsan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mohamad Fauzi M. Ichsan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Handoko Tripriyono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Djisman Simandjuntak",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Arthakencana Rayatama",
+      "type": "Lebih dari 5%",
+      "shares": 12787600,
+      "percentage": 63.705
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6574921100,
+      "percentage": 32.759
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 273705000,
+      "percentage": 1.36
+    },
+    {
+      "name": "Haryanto Adikoesoemo",
+      "type": "Direksi",
+      "shares": 212604600,
+      "percentage": 1.059
+    },
+    {
+      "name": "Soegiarto Adikoesoemo",
+      "type": "Komisaris",
+      "shares": 145267000,
+      "percentage": 0.724
+    },
+    {
+      "name": "Jimmy Tandyo",
+      "type": "Direksi",
+      "shares": 46000000,
+      "percentage": 0.229
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 9397500,
+      "percentage": 0.047
+    },
+    {
+      "name": "Mery Sofi",
+      "type": "Direksi",
+      "shares": 8303000,
+      "percentage": 0.041
+    },
+    {
+      "name": "Bambang Soetiono S.",
+      "type": "Direksi",
+      "shares": 7780000,
+      "percentage": 0.039
+    },
+    {
+      "name": "Nery Polim",
+      "type": "Direksi",
+      "shares": 2965000,
+      "percentage": 0.015
+    },
+    {
+      "name": "Suresh Vembu",
+      "type": "Direksi",
+      "shares": 2812800,
+      "percentage": 0.014
+    },
+    {
+      "name": "Termurti Tiban",
+      "type": "Direksi",
+      "shares": 1650000,
+      "percentage": 0.008
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Usaha Era Pratama Nusantara",
+      "business_type": "Jasa Logistik",
+      "total_assets": 12171806,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anugerah Krida Retailindo dan Entitas Anak",
+      "business_type": "Perdagangan, Perusahaan Holding",
+      "total_assets": 2107729,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Jakarta Tank Terminal",
+      "business_type": "Terminal Tangki Penyimpanan",
+      "total_assets": 1179575,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT AKR Sea Transport",
+      "business_type": "Pelayaran Domestik",
+      "total_assets": 867263,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andahanesa Abadi dan Entitas Anak",
+      "business_type": "Jasa Logistik",
+      "total_assets": 612297,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Arjuna Utama Kimia",
+      "business_type": "Pabrikan Bahan Perekat",
+      "total_assets": 377797,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT AKR Transportasi Indonesia",
+      "business_type": "Jasa Logistik",
+      "total_assets": 255182,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Chemical Petroleum International Trading Pte Ltd",
+      "business_type": "Perdagangan",
+      "total_assets": 84000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT AKR Niaga Indonesia",
+      "business_type": "Perdagangan Kimia Dasar",
+      "total_assets": 79595,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berkah Buana Energi",
+      "business_type": "Distribusi dan Pengangkutan",
+      "total_assets": 54898,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Berkah Renewable Energi",
+      "business_type": "Pembangkitan, Pengoperasian, Konstruksi dan Instalasi Tenaga Listrik",
+      "total_assets": 30914,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Terminal Energi Primer",
+      "business_type": "Jasa Logistik",
+      "total_assets": 25083,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anugrah Karya Raya",
+      "business_type": "Perdagangan dan Pertambangan Batubara",
+      "total_assets": 756,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "31.716.089.868.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,91",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "18,11",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "20,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "20,48",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,46",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "17,19",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:06.478Z"
+}

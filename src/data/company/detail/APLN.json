@@ -1,0 +1,452 @@
+{
+  "company_name": "PT Agung Podomoro Land Tbk.",
+  "ticker": "APLN",
+  "office_address": "Podomoro City - Apl Tower, Lt. 45 Jl. Letjen. S. Parman Kav. 28 Jakarta 11470",
+  "email": "apln.sp@agungpodomoroland.com",
+  "phone": "021-29034567",
+  "fax": "021-29034556",
+  "tax_id": "02.380.812.4-054.000",
+  "website": "https://www.agungpodomoroland.com",
+  "listing_date": "2010-11-11",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pengembangan, pengelolaan dan penyewaan properti terpadu yang meliputi apartemen, perumahan, perhotelan, perkantoran, pertokoan, pusat perbelanjaan, dan pusat rekreasi, beserta fasilitasnya melalui Perseroan maupun entitas anak Perseroan.",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "F. Justini Omas",
+    "email": "justini@agungpodomoroland.com",
+    "phone": "+6221 29034567"
+  },
+  "directors": [
+    {
+      "name": "Bacelius Ruru",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Noer Indradjaja",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Cesar Manikan Dela Cruz",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Miarni Ang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Paul Christian Ariyanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Letjen. Tni (purn.) Sofian Effendi",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Indaryono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Letjen. Tni (purn) Sofian Effendi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ardhi Kusuma Putra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yassirli",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indofica",
+      "type": "Lebih dari 5%",
+      "shares": 18777785148,
+      "percentage": 82.724
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3916537631,
+      "percentage": 17.254
+    },
+    {
+      "name": "Miarni Ang",
+      "type": "Direksi",
+      "shares": 2739500,
+      "percentage": 0.012
+    },
+    {
+      "name": "Cesar M. Dela Cruz",
+      "type": "Direksi",
+      "shares": 1643500,
+      "percentage": 0.007
+    },
+    {
+      "name": "Noer Indradjaja",
+      "type": "Direksi",
+      "shares": 621000,
+      "percentage": 0.003
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bacelius Ruru",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Paul Christian Ariyanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Letjen. Tni (purn) Sofian Effendi S.e.",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Indaryono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Kencana Unggul Sukses",
+      "business_type": "Pusat Perbelanjaan dan Apatemen",
+      "total_assets": 4796102219,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "Sinar Menara Deli",
+      "business_type": "Apartemen, Perkantoran, Pusat Perbelanjaa, dan Pengelola Hotel",
+      "total_assets": 2890571055,
+      "ownership_percentage": 58
+    },
+    {
+      "name": "Central Tata Makmur",
+      "business_type": "-",
+      "total_assets": 2328598647,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Pandega Citraniaga",
+      "business_type": "Pusat Perbelanjaan dan Apartemen",
+      "total_assets": 1854855818,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Bali Perkasasukses",
+      "business_type": "Pemilik dan Pengelola Hotel",
+      "total_assets": 1097891191,
+      "ownership_percentage": 63
+    },
+    {
+      "name": "Graha Cipta Kharisma",
+      "business_type": "Perumahan dan Rumah Toko",
+      "total_assets": 949914730,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "Tritunggal Lestari Makmur",
+      "business_type": "Pemilik dan Pengelola Hotel",
+      "total_assets": 902693553,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Pesona Gerbang Karawang",
+      "business_type": "Perumahan",
+      "total_assets": 879047132,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Graha Tunas Selaras",
+      "business_type": "Apartemen dan Perumahan",
+      "total_assets": 777904020,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Buana Surya Makmur",
+      "business_type": "Apartemen, Perumahan, dan Rumah Toko",
+      "total_assets": 739909366,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "Arah Sejahtera Abadi",
+      "business_type": "Pusat Perbelanjaan, Apartemen, dan Perkantoran",
+      "total_assets": 721555672,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Karya Gemilang Perkasa",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 695396600,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Wahana Sentra Sejati",
+      "business_type": "Pusat Perdaganggan dan Apartemen",
+      "total_assets": 646502938,
+      "ownership_percentage": 69
+    },
+    {
+      "name": "Brilliant Sakti Persada",
+      "business_type": "Pusat Perbelanjaan dan Hotel",
+      "total_assets": 617640879,
+      "ownership_percentage": 58.84
+    },
+    {
+      "name": "Tiara Metropolitan Indah",
+      "business_type": "Rumah Kantor dan Perkantoran",
+      "total_assets": 421529177,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "Podomoro Batununggal Indah",
+      "business_type": "-",
+      "total_assets": 329689723,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Dimas Pratama Indah",
+      "business_type": "Apartemen, Rumah Toko, dan Perumahan",
+      "total_assets": 310129741,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Karya Pratama Propertindo",
+      "business_type": "Pemilik dan Pengelola Hotel",
+      "total_assets": 301930907,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Simprug Mahkota Indah",
+      "business_type": "Apartemen",
+      "total_assets": 238972534,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Cipta Pesona Karya",
+      "business_type": "Rumah Kantor, Perkantoran, dan Pusat Perbelanjaan",
+      "total_assets": 206028199,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Putra Adhi Prima",
+      "business_type": "Perumahan",
+      "total_assets": 193727812,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Pesona Agung Lestari",
+      "business_type": "-",
+      "total_assets": 151915661,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tunas Karya Bersama",
+      "business_type": "-",
+      "total_assets": 92179998,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Caturmas Karsaudara",
+      "business_type": "Pusat Perdaganggan",
+      "total_assets": 88141014,
+      "ownership_percentage": 50.01
+    },
+    {
+      "name": "Central Cipta Bersama",
+      "business_type": "-",
+      "total_assets": 72451579,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Central Indah Palace",
+      "business_type": "Pemilik dan Pengelola Hotel",
+      "total_assets": 67307675,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Agung Kencana Sukses",
+      "business_type": "-",
+      "total_assets": 40580405,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sentral Agung Indah",
+      "business_type": "Pemilik dan Pengelola Hotel",
+      "total_assets": 39583447,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Alam Hijau Teduh",
+      "business_type": "Apartemen",
+      "total_assets": 33495848,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Buana Makmur Indah",
+      "business_type": "-",
+      "total_assets": 28867843,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Agung Dewata Sukses",
+      "business_type": "-",
+      "total_assets": 16073715,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Griya Agung Sukses",
+      "business_type": "Jasa Pengelolaan",
+      "total_assets": 13645451,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Jks Realty",
+      "business_type": "Apartemen",
+      "total_assets": 12032400,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Apl Realty Holdings Pte. Ltd",
+      "business_type": "Konsultasi Manajemen dan Bisnis",
+      "total_assets": 7866899,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kharisma Bhakti Sejahtera",
+      "business_type": "Apartemen dan Perumahan",
+      "total_assets": 5400620,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Alam Makmur Indah",
+      "business_type": "-",
+      "total_assets": 4228727,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Intersatria Budi Karya Pratama",
+      "business_type": "Apartemen",
+      "total_assets": 3287561,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Podomoro Bangun Abadi",
+      "business_type": "-",
+      "total_assets": 2463786,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Agung Pesona Unggul",
+      "business_type": "-",
+      "total_assets": 546051,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Podomoro Central Sejahtera",
+      "business_type": "-",
+      "total_assets": 500000,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Podomoro Sukses Lestari",
+      "business_type": "-",
+      "total_assets": 500000,
+      "ownership_percentage": 99.98
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.766.858.623.590",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,91",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "38,28",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "78,79",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "90,32",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,76",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "65,42",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:27.320Z"
+}

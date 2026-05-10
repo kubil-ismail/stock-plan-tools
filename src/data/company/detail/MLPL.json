@@ -1,0 +1,290 @@
+{
+  "company_name": "Multipolar Tbk",
+  "ticker": "MLPL",
+  "office_address": "Menara Matahari Lantai 20, Jl. Bulevar Palem Raya No. 7, Lippo Karawaci 1200, Tangerang 15811",
+  "email": "corsec@mpc.id",
+  "phone": "021 - 5468888",
+  "fax": "-",
+  "tax_id": "0013 0596 3905 4000",
+  "website": "https://www.mpc.id",
+  "listing_date": "1989-11-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Computer and Services",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Retail.",
+    "business_tags": [
+      "Teknologi",
+      "Retail"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 95,
+    "name": "Supermarket",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Monica Margaretha Napitupulu",
+    "email": "corsec@mpc.id",
+    "phone": "021-5468888"
+  },
+  "directors": [
+    {
+      "name": "Adrian Suherman",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Arismunandar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fendi Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yerry Goei",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jeffrey Koes Wonsono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Alexander S. Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Benny Haryanto Djie",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bpk. Alexander S. Rusli",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ibu Christine Yanujaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ibu Marlin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6436757360,
+      "percentage": 41.04
+    },
+    {
+      "name": "Inti Anugerah Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 5038581758,
+      "percentage": 32.13
+    },
+    {
+      "name": "Ubs Ag Singapore Non-treaty Omnibus Account -2091144090",
+      "type": "Lebih dari 5%",
+      "shares": 2521546248,
+      "percentage": 16.08
+    },
+    {
+      "name": "Trijaya Anugerah Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 1552550000,
+      "percentage": 9.9
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 68962700,
+      "percentage": 0.45
+    },
+    {
+      "name": "Adrian Suherman",
+      "type": "Direksi",
+      "shares": 27949700,
+      "percentage": 0.18
+    },
+    {
+      "name": "Fendi Santoso",
+      "type": "Direksi",
+      "shares": 16702100,
+      "percentage": 0.1
+    },
+    {
+      "name": "Yerry Goei",
+      "type": "Direksi",
+      "shares": 11162900,
+      "percentage": 0.07
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5243743,
+      "percentage": 0.03
+    },
+    {
+      "name": "Agus Arimunandar",
+      "type": "Direksi",
+      "shares": 2794800,
+      "percentage": 0.02
+    },
+    {
+      "name": "Jeffrey K. Wonsono",
+      "type": "Komisaris",
+      "shares": 72678,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Reksa Puspita Karya",
+      "business_type": "Perdagangan",
+      "total_assets": 3728816,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Multipolar Technology Tbk",
+      "business_type": "Perdagangan",
+      "total_assets": 3490804,
+      "ownership_percentage": 84.95
+    },
+    {
+      "name": "PT Matahari Putra Prima Tbk",
+      "business_type": "Penjualan Eceran",
+      "total_assets": 3181680,
+      "ownership_percentage": 54.57
+    },
+    {
+      "name": "PT Prima Cakrawala Sentosa",
+      "business_type": "Jasa dan Perdagangan Umum",
+      "total_assets": 1339519,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Ecommerce Global",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 735891,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nadya Putra Investama",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 718012,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Matahari Pacific",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 442700,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Medika Ekosis Digital",
+      "business_type": "Jasa dan Perdagangan Umum",
+      "total_assets": 436795,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multi Prima Sejahtera Tbk",
+      "business_type": "Industri",
+      "total_assets": 371500,
+      "ownership_percentage": 81.71
+    },
+    {
+      "name": "PT Nuansa Multi Karya",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 206197,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Big Ecommerce Bersama",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 80292,
+      "ownership_percentage": 86.39
+    },
+    {
+      "name": "PT Surya Cipta Investama",
+      "business_type": "Jasa dan Perdagangan Umum",
+      "total_assets": 75268,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cahaya Investama",
+      "business_type": "Jasa dan Perdagangan Umum",
+      "total_assets": 74817,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.536.867.750.726",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,01",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "7,41",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,08",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "5,66",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "29,08",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:02.760Z"
+}

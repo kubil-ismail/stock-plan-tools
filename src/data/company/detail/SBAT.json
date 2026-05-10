@@ -1,0 +1,200 @@
+{
+  "company_name": "PT Sejahtera Bintang Abadi Textile Tbk.",
+  "ticker": "SBAT",
+  "office_address": "Jl. Raya Cicalengka – Majalaya Km. 5 Desa Sri Rahayu, Kecamatan Cikancung Bandung – Jawa Barat 40396, Indonesia",
+  "email": "corsec@sbatextile.com",
+  "phone": "(022) 7947 100/ 400",
+  "fax": "(022) 7947 200",
+  "tax_id": "02.176.347.9-441.000",
+  "website": "https://www.sbatextile.com",
+  "listing_date": "2020-04-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri dan Perdagangan Tekstil",
+    "business_summary": "Perusahaan bergerak di bidang Tekstil.",
+    "business_tags": [
+      "Tekstil"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Siti Sarah Syawaliyah",
+    "email": "corsec@sbatextile.com",
+    "phone": "02130056255"
+  },
+  "directors": [
+    {
+      "name": "Martha Intan Yaputra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jefri Zal",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mamay Jamaludin",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ivan Zuchly",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mamay Jamaludin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kusmiyati Epni Suprihatiningsih",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhammad Diemas Fauzie",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 2448771079,
+      "percentage": 51.521
+    },
+    {
+      "name": "Tan Heng Lok",
+      "type": "Lebih dari 5%",
+      "shares": 1638911899,
+      "percentage": 34.482
+    },
+    {
+      "name": "PT Industri Telekomunikasi Indonesia (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 665250000,
+      "percentage": 13.996
+    },
+    {
+      "name": "Martha Intan Yaputra",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sba Investama Indonesia",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 5608824386,
+      "ownership_percentage": 99.95
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.752.982.378",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:04.513Z"
+}

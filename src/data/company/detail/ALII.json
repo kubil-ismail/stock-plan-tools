@@ -1,0 +1,264 @@
+{
+  "company_name": "PT Ancara Logistics Indonesia Tbk",
+  "ticker": "ALII",
+  "office_address": "Bakrie Tower Lantai 39, Komplek Rasuna Epicentrum Jalan H.r. Rasuna Said, Desa/kelurahan Karet Kuningan, Kec. Setiabudi, Kota Adm. Jakarta Selatan, Dki Jakarta",
+  "email": "corsec@ancaralogistics.com",
+  "phone": "(021) 2994 1122",
+  "fax": "-",
+  "tax_id": "0924237571018000",
+  "website": "https://www.ancaralogistics.co.id",
+  "listing_date": "2024-02-07",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Pengangkutan Laut, Intermediate Stockpile dan Transhipment.",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Media.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Media"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Aulia",
+    "email": "corsec@ancaralogistics.com",
+    "phone": "(+62) (021) 2994 1122"
+  },
+  "directors": [
+    {
+      "name": "Faisal Mohamad Nur",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rahul Nalin Rathod",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vishal Manharlal Parekh",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Munawir",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Aulia",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nalinkant Amratlal Rathod",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Aninditha Anestya Bakrie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Suharyono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Suharyono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs. Yoyok Hadi Satriyono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Pradeep Kilpady",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bank Julius Baer Co. Ltd., Singapore S/a PT Graha Adika Niaga",
+      "type": "Lebih dari 5%",
+      "shares": 5202000000,
+      "percentage": 32.87
+    },
+    {
+      "name": "Bank Julius Baer Co. Ltd., Singapore S/a Solomed Capital Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 4998000000,
+      "percentage": 31.58
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3198354300,
+      "percentage": 20.21
+    },
+    {
+      "name": "Bank Julius Baer Co. Ltd., Singapore S/a Borneo Logistics Services Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 1744000000,
+      "percentage": 11.02
+    },
+    {
+      "name": "Nalinkant Amratlal Rathod",
+      "type": "Komisaris",
+      "shares": 353179500,
+      "percentage": 2.23
+    },
+    {
+      "name": "Aninditha Anestya Bakrie",
+      "type": "Komisaris",
+      "shares": 308612450,
+      "percentage": 1.95
+    },
+    {
+      "name": "Aulia",
+      "type": "Direksi",
+      "shares": 12200200,
+      "percentage": 0.08
+    },
+    {
+      "name": "Rahul Nalin Rathod",
+      "type": "Direksi",
+      "shares": 6000000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Munawir",
+      "type": "Direksi",
+      "shares": 2520050,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Vishal Manharlal Parekh",
+      "type": "Direksi",
+      "shares": 800000,
+      "percentage": 0
+    },
+    {
+      "name": "Faisal Mohamad Nur",
+      "type": "Direksi",
+      "shares": 133500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mahakam Coal Terminal",
+      "business_type": "Jasa Bongkar Muat Batu Bara",
+      "total_assets": 1188740146,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.509.284.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,78",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "29,50",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "50,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "85,19",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "9,55",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "31,30",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:09.243Z"
+}

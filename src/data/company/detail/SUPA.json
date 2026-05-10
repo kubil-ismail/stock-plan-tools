@@ -1,0 +1,258 @@
+{
+  "company_name": "PT Super Bank Indonesia Tbk",
+  "ticker": "SUPA",
+  "office_address": "Revenue Tower, Lantai 28-29 SCBD, Lot 13 District 8 Jl. Jenderal Sudirman Kav. 52-53 Jakarta, 12190",
+  "email": "corsec@superbank.id",
+  "phone": "+6221-50155550",
+  "fax": "",
+  "tax_id": "0015888043441000",
+  "website": "https://www.superbank.id",
+  "listing_date": "2025-12-17",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha Jasa Perbankan.",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Astrid Abina Carolin S.",
+    "email": "corsec@superbank.id",
+    "phone": "(021)50155550"
+  },
+  "directors": [
+    {
+      "name": "Tigor Marsahala Siahaan",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Melisa Hendrawati",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Amalia Pratantara",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Bhavana Balramdas Vatvani",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Sukiwan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anton Hermanto Gunawan",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Zannuba Arifah Ch. R. (yenny Wahid)",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Neneng Meity Goenadi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anton Hermanto Gunawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rustini Dewi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hamdi Hassyarbaini",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Elang Media Visitama",
+      "type": "Lebih dari 5%",
+      "shares": 9354117559,
+      "percentage": 27.596
+    },
+    {
+      "name": "Kudo Teknologi Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 5650340722,
+      "percentage": 16.669
+    },
+    {
+      "name": "A5-db Holdings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 5405594120,
+      "percentage": 15.947
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4520242569,
+      "percentage": 13.335
+    },
+    {
+      "name": "Gxs ( Gxs Bank Pte Ltd,)",
+      "type": "Lebih dari 5%",
+      "shares": 3538848642,
+      "percentage": 10.44
+    },
+    {
+      "name": "Kakaobank Corp",
+      "type": "Lebih dari 5%",
+      "shares": 2934040535,
+      "percentage": 8.656
+    },
+    {
+      "name": "Sai (singtel Alpha Investments Pte Ltd,)",
+      "type": "Lebih dari 5%",
+      "shares": 2493833503,
+      "percentage": 7.357
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anton Hermanto Gunawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Neneng Meity Goenadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dra. Zannuba Arifah Ch.r.",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marsahala Siahaan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Melisa Hendrawati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amalia Pratantara",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bhavana Balramdas Vatvani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sukiwan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "28.692.130.569.750",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,70",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "6,18",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,18",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,73",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:07.993Z"
+}

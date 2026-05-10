@@ -1,0 +1,598 @@
+{
+  "company_name": "Bukaka Teknik Utama Tbk",
+  "ticker": "BUKK",
+  "office_address": "Bukaka Industrial Estate Jl. Raya Narogong - Bekasi Km. 19,5 Limusnunggal, Cileungsi, Bogor, Jawa Barat 16820",
+  "email": "corsec@bukaka.com",
+  "phone": "021 8232323 (hunting)",
+  "fax": "021 8231150",
+  "tax_id": "01.315.811.8-054.000",
+  "website": "https://ttp://www.bukaka.com",
+  "listing_date": "2015-06-29",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Rancang bangun rekayasa dan industri barang dan jasa infrastruktur termasuk pendukungnya",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi, Otomotif.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "A. Afifuddin Suhaeli",
+    "email": "corsec@bukaka.com",
+    "phone": "021 8232323"
+  },
+  "directors": [
+    {
+      "name": "Irsal Kamarudin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "A. Afifuddin Suhaeli",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Teguh Wicaksana Sari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Didin Saepudin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Nurkholis",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Hartono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suhaeli Kalla",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Solihin Jusuf Kalla",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Erwin Kurniadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Erwin Kurniadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Iwan Satiyawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jumadi Aji Karamai",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Suhaelly Kalla",
+      "type": "Komisaris",
+      "shares": 800651790,
+      "percentage": 30.3225
+    },
+    {
+      "name": "Solihin Jusuf Kalla",
+      "type": "Komisaris",
+      "shares": 789812604,
+      "percentage": 29.912
+    },
+    {
+      "name": "Achmad Kalla",
+      "type": "Lebih dari 5%",
+      "shares": 675113762,
+      "percentage": 25.5682
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 331467194,
+      "percentage": 12.5534
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 32560750,
+      "percentage": 1.2332
+    },
+    {
+      "name": "Irsal Kamarudin",
+      "type": "Direksi",
+      "shares": 9199100,
+      "percentage": 0.3484
+    },
+    {
+      "name": "Ade Nurkholis",
+      "type": "Direksi",
+      "shares": 825000,
+      "percentage": 0.0312
+    },
+    {
+      "name": "Budi Hartono",
+      "type": "Direksi",
+      "shares": 800000,
+      "percentage": 0.0303
+    },
+    {
+      "name": "Teguh Wicaksana Sari",
+      "type": "Direksi",
+      "shares": 21800,
+      "percentage": 0.0008
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Baja Titian Utama",
+      "business_type": "Konstruksi dan Perdagangan",
+      "total_assets": 2309101795,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Baja Titian Utama",
+      "business_type": "Konstruksi dan Perdagangan",
+      "total_assets": 2309101795,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Baja Titian Utama",
+      "business_type": "Konstruksi dan Perdagangan",
+      "total_assets": 2231752605,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Baja Titian Utama",
+      "business_type": "Konstruksi dan Perdagangan",
+      "total_assets": 2216483539,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Baja Titian Utama",
+      "business_type": "Konstruksi dan Perdagangan",
+      "total_assets": 2204878952,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Baja Titian Utama",
+      "business_type": "Konstruksi dan Perdagangan",
+      "total_assets": 2204878952,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Mega Investama",
+      "business_type": "Industri Pengembangan, Perdagangan, dan Pertanian",
+      "total_assets": 1649284335,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bukaka Mega Investama",
+      "business_type": "Industri Pengembangan, Perdagangan, dan Pertanian",
+      "total_assets": 1649281892,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bukaka Mega Investama",
+      "business_type": "Industri Pengembangan, Perdagangan, dan Pertanian",
+      "total_assets": 1649281892,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bukaka Mega Investama",
+      "business_type": "Industri Pengembangan, Perdagangan, dan Pertanian",
+      "total_assets": 1347298445,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bukaka Mega Investama",
+      "business_type": "Industri Pengembangan, Perdagangan, dan Pertanian",
+      "total_assets": 1287288522,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bukaka Mega Investama",
+      "business_type": "Industri Pengembangan, Perdagangan, dan Pertanian",
+      "total_assets": 1287288522,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bukaka Mega Investama",
+      "business_type": "Industri Pengembangan, Perdagangan, dan Pertanian",
+      "total_assets": 506813511,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 129648611,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 128526109,
+      "ownership_percentage": 96.8
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 128526109,
+      "ownership_percentage": 96.8
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 119404540,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 118589341,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 118589341,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 117776001,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 117181445,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 117181445,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 115295657,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Mini Hydro",
+      "total_assets": 115295657,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Bukaka Three D Private Limited",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 106592442,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Bukaka Three D Private Limited",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 106592442,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Bukaka Three D Private Limited",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 101105846,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Bukaka Three D Private Limited",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 83908977,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Mandiri Sejahtera",
+      "business_type": "Industri Pengolahan Hasil Tambang",
+      "total_assets": 82329020,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bukaka Mandiri Sejahtera",
+      "business_type": "Industri Pengolahan Hasil Tambang",
+      "total_assets": 82329020,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bukaka Mandiri Sejahtera",
+      "business_type": "Industri Pengolahan Hasil Tambang",
+      "total_assets": 79767386,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 77905143,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 77905143,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 76029562,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 75016731,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "Bukaka Three D Private Limited",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 69545536,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Bukaka Three D Private Limited",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 69545536,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 63967345,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 63967345,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bukaka Forging Industries",
+      "business_type": "Industri Penempaan Komponen Otomotif",
+      "total_assets": 62108364,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Bukaka Mandiri Sejahtera",
+      "business_type": "Industri Pengolahan Hasil Tambang",
+      "total_assets": 27273953,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bukaka Mandiri Sejahtera",
+      "business_type": "Industri Pengolahan Hasil Tambang",
+      "total_assets": 25858908,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bukaka Mandiri Sejahtera",
+      "business_type": "Industri Pengolahan Hasil Tambang",
+      "total_assets": 25858908,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bukaka Minyu Industries",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 16213013,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Minyu Industries",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 16210464,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Minyu Industries",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 16209987,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Minyu Industries",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 16209987,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Minyu Industries",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 16209987,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Minyu Industries",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 16209457,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Minyu Industries",
+      "business_type": "Industri Perdagangan dan Perindustrian",
+      "total_assets": 16209457,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bukaka Teknik Utama Balikpapan",
+      "business_type": "Industri Perdagangan, Jasa, Perindustrian, Pembangunan, Pertanian, dan Pertambangan",
+      "total_assets": 9339498,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Teknik Utama Balikpapan",
+      "business_type": "Industri Perdagangan, Jasa, Perindustrian, Pembangunan, Pertanian, dan Pertambangan",
+      "total_assets": 3777530,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Teknik Utama Balikpapan",
+      "business_type": "Industri Perdagangan, Jasa, Perindustrian, Pembangunan, Pertanian, dan Pertambangan",
+      "total_assets": 3777304,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Teknik Utama Balikpapan",
+      "business_type": "Industri Perdagangan, Jasa, Perindustrian, Pembangunan, Pertanian, dan Pertambangan",
+      "total_assets": 3777078,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Teknik Utama Balikpapan",
+      "business_type": "Industri Perdagangan, Jasa, Perindustrian, Pembangunan, Pertanian, dan Pertambangan",
+      "total_assets": 3777078,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Teknik Utama Balikpapan",
+      "business_type": "Industri Perdagangan, Jasa, Perindustrian, Pembangunan, Pertanian, dan Pertambangan",
+      "total_assets": 3755527,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bukaka Teknik Utama Balikpapan",
+      "business_type": "Industri Perdagangan, Jasa, Perindustrian, Pembangunan, Pertanian, dan Pertambangan",
+      "total_assets": 3755527,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Bukaka International Llc",
+      "business_type": "Peralatan dan Persediaan Oil And Gas",
+      "total_assets": 3659174,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Mandiri Energi Terbarukan",
+      "business_type": "Pembangkit Listrik, Transmisi, Distribusi dan Penjualan Tenaga Listrik",
+      "total_assets": 3500000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Pembangkit Energi Terbarukan",
+      "business_type": "Pembangkit Listrik, Transmisi, Distribusi dan Penjualan Tenaga Listrik",
+      "total_assets": 3500000,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.155.340.140.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,58",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,57",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "22,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "44,38",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,41",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "34,76",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:43.440Z"
+}

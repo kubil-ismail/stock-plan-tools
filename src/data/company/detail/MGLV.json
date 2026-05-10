@@ -1,0 +1,294 @@
+{
+  "company_name": "PT Panca Anugrah Wisesa Tbk",
+  "ticker": "MGLV",
+  "office_address": "Magran Living, Jalan Kemang Raya No 17, Rt 10 Rw 05 Kel Bangka, Kec Mampang Prapatan, Jakarta Selatan, 12730",
+  "email": "corsec@pancaanugrahwisesa.com",
+  "phone": "+62 21 7180349",
+  "fax": "+62 21 7181325",
+  "tax_id": "03.244.224.6-072.000",
+  "website": "https://www.pancaanugrahwisesa.com,www.magranliving.com",
+  "listing_date": "2021-06-08",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Perdagangan besar peralatan dan perlengkapan rumah tangga",
+    "business_summary": "Perusahaan bergerak di bidang Produsen Furnitur Rumah.",
+    "business_tags": [
+      "Produsen Furnitur Rumah"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 84,
+    "name": "Produsen Furnitur Rumah",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Jecky Juhanes Salindeho",
+    "email": "corsec@pancaanugrahwisesa.com",
+    "phone": "0217180349"
+  },
+  "directors": [
+    {
+      "name": "Putra Harianto Batee",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dennis Rahardja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ma Da",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suriyanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ridwan Hasan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sugito Walujo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lely Iskandar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jenny Rohani P",
+      "position": "Anggota"
+    },
+    {
+      "name": "M. Tohir",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Nextier Datamate Center",
+      "type": "Lebih dari 5%",
+      "shares": 1500000000,
+      "percentage": 78.74
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 404883411,
+      "percentage": 21.26
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dennis Rahardja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suriyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sugito Walujo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ridwan Hasan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Putra Harianto Batee",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ma Da",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Triguna Anugrah Semesta",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 28943062731,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Triguna Anugrah Semesta",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 28943062731,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indah Kreasi Sentosa",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 13894920675,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indah Kreasi Sentosa",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 13894920675,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Wisesa Semesta Jaya",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 13743399866,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Wisesa Semesta Jaya",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 13743399866,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Triguna Alam Semesta",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 2674512888,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Triguna Alam Semesta",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 2674512888,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Triguna Alam Semesta",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 979745000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Triguna Anugrah Semesta",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 979745000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Wisesa Semesta Jaya",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 979745000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indah Kreasi Sentosa",
+      "business_type": "Perdagangan Eceran Furniture",
+      "total_assets": 249690000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Robert Sunusi Zulfa"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "16.191.508.993.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "50,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "287,32",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "870,59",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "6.607,32",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,51",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "275,00",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:47.985Z"
+}

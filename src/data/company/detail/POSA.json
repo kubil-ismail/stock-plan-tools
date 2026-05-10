@@ -1,0 +1,323 @@
+{
+  "company_name": "PT Bliss Properti Indonesia Tbk.",
+  "ticker": "POSA",
+  "office_address": "Millennium Centennial Center Lt. 1 Unit A&h Jl. Jend. Sudirman Kav. 25, Karet, Setiabudi, Jakarta Selatan 12920",
+  "email": "corporatesecretary@posagroups.com",
+  "phone": "021-39737007",
+  "fax": "0",
+  "tax_id": "0312160567013000",
+  "website": "https://www.blisspropertiindonesia.com",
+  "listing_date": "2019-05-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "bidang usaha properti pusat perbelanjaan, hotel, dan kegiatan/fasilitas lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Erica Ruth Amelia Sinurat",
+    "email": "corporatesecretary@posagroups.com",
+    "phone": "(021) 39737007"
+  },
+  "directors": [
+    {
+      "name": "Gracianus Johardy Lambert",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Basuki Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eko Heru Prasetyo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Henry Poerwantoro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendrik Hartono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendrik Hartono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Cynthia Monica",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fani Wijaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bintang Baja Hitam",
+      "type": "Lebih dari 5%",
+      "shares": 5683860000,
+      "percentage": 67.7548
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1707394206,
+      "percentage": 20.3531
+    },
+    {
+      "name": "PT Shinhan Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 997616000,
+      "percentage": 11.8921
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henry Poerwantoro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendrik Hartono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gracianus Johardy Lambert",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Basuki Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eko Heru Prasetyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tanjung Pinang Indah (tpi)",
+      "business_type": "Investasi",
+      "total_assets": 202944890216,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tanjung Pinang Sakti (tps)",
+      "business_type": "Pusat Perbelanjaan dan Fasilitas Lainnya",
+      "total_assets": 202934242981,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bliss Pembangunan Sejahtera (bps)",
+      "business_type": "Pusat Perbelanjaan dan Fasilitas Lainnya",
+      "total_assets": 197005662080,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Lahan Makmur Lndah (lmi)",
+      "business_type": "Investasi",
+      "total_assets": 174963388406,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Utama Teguh Abadi (uta)",
+      "business_type": "Pusat Perbelanjaan dan Fasilitas Lainnya",
+      "total_assets": 174957468305,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pusat Bisnis Ponorogo (pbp)",
+      "business_type": "Pusat Perbelanjaan, Hotel dan Fasilitas Lainnya",
+      "total_assets": 96098731170,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Abc Bali Laut (abl)",
+      "business_type": "Investasi",
+      "total_assets": 3000000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bst Perlautan Bali (bpb)",
+      "business_type": "Properti",
+      "total_assets": 3000000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Merdeka Agung Sempurna (mas)",
+      "business_type": "Investasi",
+      "total_assets": 164644406,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berkat Perdana Makmur (bpm)",
+      "business_type": "Perdagangan",
+      "total_assets": 155008109,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "419.443.510.300",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:50.689Z"
+}

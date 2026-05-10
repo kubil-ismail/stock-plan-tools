@@ -1,0 +1,186 @@
+{
+  "company_name": "PT Pool Advista Finance Tbk.",
+  "ticker": "POLA",
+  "office_address": "Gedung PT. Pool Advista Indonesia, Tbk. Lt. 6 Jl. Letjen Soepono Blok Cc6 No. 9-10 Arteri Permata Hijau, Jakarta Selatan 12210",
+  "email": "corsec.paf@pooladvista.com",
+  "phone": "+62 21 8062 6300",
+  "fax": "+62 21 2951 0202",
+  "tax_id": "02.042.145.9-062.000",
+  "website": "https://www.pooladvistafinance.com",
+  "listing_date": "2018-11-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembiayaan Multiguna, Pembiayaan Investasi, Pembiayaan Modal Kerja, dan Pembiayaan Syariah",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Nuryatun",
+    "email": "corsec.paf@pooladvista.com",
+    "phone": "02180626300"
+  },
+  "directors": [
+    {
+      "name": "Ferianto Ferry Junarso",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Nuryatun",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Deassy Roosiana Tresna",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Nathan Junino Jahja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ahmad Santoso",
+      "position": "Ketua"
+    },
+    {
+      "name": "Irdam Halim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yus Indra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pool Advista Indonesia Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 2558239599,
+      "percentage": 76.34
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 535722618,
+      "percentage": 15.99
+    },
+    {
+      "name": "PT Asabri",
+      "type": "Lebih dari 5%",
+      "shares": 257113382,
+      "percentage": 7.67
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Jimy Abadi"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "291.543.577.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,02",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,30",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "122,86",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "457,14",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,24",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "56,00",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:44.382Z"
+}

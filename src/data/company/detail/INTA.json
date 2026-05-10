@@ -1,0 +1,237 @@
+{
+  "company_name": "Intraco Penta Tbk",
+  "ticker": "INTA",
+  "office_address": "Jl. Raya Cakung Cilincing Km 3,5, Rt 005, Rw 010, Semper Timur, Cilincing, Jakarta Utara, Dki Jakarta Raya, 14130",
+  "email": "corpsec@intracopenta.com",
+  "phone": "021-4401408",
+  "fax": "021-4419330; 021-4413882",
+  "tax_id": "01.305.691.6-091.000",
+  "website": "https://www.intracopenta.com",
+  "listing_date": "1993-08-23",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan Alat Berat",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Otomotif.",
+    "business_tags": [
+      "Konstruksi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 47,
+    "name": "Mesin Konstruksi & Kendaraan Berat",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Calvin Pratama",
+    "email": "corpsec@intracopenta.com",
+    "phone": "021-4401408"
+  },
+  "directors": [
+    {
+      "name": "Petrus Halim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Willianto Febriansa",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Leny Halim",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jugi Prajogio",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Jugi Prajogio",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agung Rahmono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ndat Natanael Brahmana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1203052740,
+      "percentage": 35.97
+    },
+    {
+      "name": "Petrus Halim",
+      "type": "Direksi",
+      "shares": 766657928,
+      "percentage": 22.93
+    },
+    {
+      "name": "Jimmy Halim",
+      "type": "Lebih dari 5%",
+      "shares": 585126410,
+      "percentage": 17.5
+    },
+    {
+      "name": "PT Spallindo Adilong",
+      "type": "Lebih dari 5%",
+      "shares": 354745132,
+      "percentage": 10.61
+    },
+    {
+      "name": "PT Shalumindo Investama",
+      "type": "Lebih dari 5%",
+      "shares": 325318789,
+      "percentage": 9.73
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 109084023,
+      "percentage": 3.26
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Intraco Penta Wahana",
+      "business_type": "Perdagangan & Jasa",
+      "total_assets": 669495,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Intraco Penta Prima Servis",
+      "business_type": "Perdagangan & Jasa",
+      "total_assets": 594045,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inta Daya Perkasa",
+      "business_type": "Perdagangan",
+      "total_assets": 514647,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Intan Baru Prana Tbk",
+      "business_type": "Perdagangan",
+      "total_assets": 403600,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Terra Factor Indonesia",
+      "business_type": "Perdagangan & Jasa Sewa",
+      "total_assets": 380014,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Inta Sarana Infrastruktur",
+      "business_type": "Perdagangan",
+      "total_assets": 378649,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Columbia Chrome Indonesia",
+      "business_type": "Perbengkelan",
+      "total_assets": 54841,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Lestari Sumberalam",
+      "business_type": "Kontraktor Pertambangan",
+      "total_assets": 12590,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Inta Trading",
+      "business_type": "Perdagangan",
+      "total_assets": 3929,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pratama Wana Motor",
+      "business_type": "Perdagangan & Jasa",
+      "total_assets": 2710,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inta Resources",
+      "business_type": "Perdagangan",
+      "total_assets": 1815,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "257.482.996.694",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "26,67",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "11,63",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "100,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "590,91",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "33,91",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:30.064Z"
+}

@@ -1,0 +1,307 @@
+{
+  "company_name": "PT Mnc Vision Networks Tbk.",
+  "ticker": "IPTV",
+  "office_address": "Mnc Tower Lantai 27, Jl. Kebon Sirih No. 17-19, Rt/rw 015/007 Kel. Kebon Sirih, Kec. Menteng Jakarta Pusat",
+  "email": "corsec.mvn@mncgroup.com",
+  "phone": "(021) 390-9211, 390-0310",
+  "fax": "(021) 392-7859, 390-9207",
+  "tax_id": "02.614.651.4-021.000",
+  "website": "https://www.mncvisionnetworks.com",
+  "listing_date": "2019-07-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "TV berbayar, fixed broadband dan layanan konten digital",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 60,
+    "name": "Penyiaran Berbayar",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Gadis Ratnasari J. Sjahrir",
+    "email": "gadis.sjahrir@mncgroup.com, corsec.mvn@mncgroup.com",
+    "phone": "021-582 8000"
+  },
+  "directors": [
+    {
+      "name": "Endang Mayawati",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Herman Kusno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vera Tanamihardja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kevin Sanjaya Sukamuljo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gadis Ratnasari Sjahrir",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tito Sulistio",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ruby Panjaitan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Mulyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sandy Wiguna",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Syafril Nasution",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Mulyanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mohamed Idwan Ganie",
+      "position": "Anggota"
+    },
+    {
+      "name": "Andy Wisnu Triyudanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Global Mediacom Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 26687076691,
+      "percentage": 63.24
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 15480801050,
+      "percentage": 36.69
+    },
+    {
+      "name": "Ruby Panjaitan",
+      "type": "Komisaris",
+      "shares": 14996900,
+      "percentage": 0.04
+    },
+    {
+      "name": "Syafril Nasution",
+      "type": "Komisaris",
+      "shares": 3622500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Vera Tanamihardja",
+      "type": "Direksi",
+      "shares": 3671800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Kevin Sanjaya Sukamuljo",
+      "type": "Direksi",
+      "shares": 4050000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Endang Mayawati",
+      "type": "Direksi",
+      "shares": 1651000,
+      "percentage": 0
+    },
+    {
+      "name": "Herman Kusno",
+      "type": "Direksi",
+      "shares": 1020200,
+      "percentage": 0
+    },
+    {
+      "name": "Gadis Ratnasari J Sjahrir",
+      "type": "Direksi",
+      "shares": 1060700,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mnc Kabel Mediacom",
+      "business_type": "Jasa Broadband dan Iptv",
+      "total_assets": 3941895,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Sky Vision Tbk.",
+      "business_type": "Jasa Penyedia Layanan Televisi Berbayar",
+      "total_assets": 2341268,
+      "ownership_percentage": 91.89
+    },
+    {
+      "name": "PT Digital Vision Nusantara",
+      "business_type": "Jasa Penyiaran Berlangganan",
+      "total_assets": 629493,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Media Citra Indostar",
+      "business_type": "Jasa Penyiaran Konten Digital",
+      "total_assets": 501875,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Operator Lokal",
+      "business_type": "Jasa Penyiaran Berlangganan",
+      "total_assets": 155332,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusantara Vision",
+      "business_type": "Jasa Penyiaran Berlangganan",
+      "total_assets": 20843,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Amg Kundur Vision",
+      "business_type": "Jasa Penyiaran Berlangganan",
+      "total_assets": 18488,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Ansat Broadcast Sdn. Bhd.",
+      "business_type": "Jasa Penyiaran Berlangganan",
+      "total_assets": 7429,
+      "ownership_percentage": 56
+    },
+    {
+      "name": "PT. Punggawa Utama Sorong Media",
+      "business_type": "Jasa Penyedia Layanan Televisi Berbayar",
+      "total_assets": 1089,
+      "ownership_percentage": 80
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.772.313.935.322",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,50",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,44",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "7,50",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "104,76",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,27",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "18,87",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:38.133Z"
+}

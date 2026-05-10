@@ -1,0 +1,198 @@
+{
+  "company_name": "Bank Sinarmas Tbk",
+  "ticker": "BSIM",
+  "office_address": "Sinar Mas Land Plaza - Menara 1 Lantai 8 L. MH. Thamrin No. 51 Jakarta 10350",
+  "email": "retno.t.wulandari@banksinarmas.com",
+  "phone": "021-31990101",
+  "fax": "021-31990401",
+  "tax_id": "01.344.613.3-054.000",
+  "website": "https://www.banksinarmas.com",
+  "listing_date": "2010-12-13",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Retno Tri Wulandari",
+    "email": "retno.t.wulandari@banksinarmas.com",
+    "phone": "021-31990101"
+  },
+  "directors": [
+    {
+      "name": "Frenky Tirtowijoyo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Miko Andidjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ekajaya Ongny Putra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Enny Kamal",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Amandalia Johanes",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjendrawati Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sammy Kristamuljana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rusmin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sammy Kristamuljana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Robert A Simanjuntak",
+      "position": "Anggota"
+    },
+    {
+      "name": "Reynold M Batubara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7554162653,
+      "percentage": 38.31
+    },
+    {
+      "name": "Ubs Ag Singapore S/a PT Sinar Mas Multiartha Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 5913426800,
+      "percentage": 29.995
+    },
+    {
+      "name": "PT Sinar Mas Multiartha Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 5913426800,
+      "percentage": 29.995
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 335146150,
+      "percentage": 1.7
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Nano Syariah",
+      "business_type": "Perbankan Syariah",
+      "total_assets": 8861790,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bank Nano Syariah",
+      "business_type": "Perbankan Syariah",
+      "total_assets": 8318740,
+      "ownership_percentage": 15.93
+    },
+    {
+      "name": "PT Bank Nano Syariah",
+      "business_type": "Perbankan Syariah",
+      "total_assets": 8318740,
+      "ownership_percentage": 15.93
+    },
+    {
+      "name": "PT Bank Nano Syariah",
+      "business_type": "Perbankan Syariah",
+      "total_assets": 8071516,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "16.785.412.784.120",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,79",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "23,35",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "1,14",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,25",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "1,14",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:30.279Z"
+}

@@ -1,0 +1,337 @@
+{
+  "company_name": "PT Jasa Marga Tbk",
+  "ticker": "JSMR",
+  "office_address": "Plaza Tol Taman Mini Indonesia Indah Jakarta 13550",
+  "email": "investor.relations@jasamarga.co.id",
+  "phone": "021-8413630; 021-8413526",
+  "fax": "021-8413540",
+  "tax_id": "01.001.675.6-093.000",
+  "website": "https://www.jasamarga.com",
+  "listing_date": "2007-11-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pengusahaan Jasa Jalan Tol",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Logistik, Konstruksi, Otomotif.",
+    "business_tags": [
+      "Properti",
+      "Logistik",
+      "Konstruksi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 10,
+    "name": "Infrastruktur Transportasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 30,
+    "name": "Operator Infrastruktur Transportasi"
+  },
+  "sub_industry": {
+    "id": 51,
+    "name": "Operator Jalan Tol & Rel",
+    "industries_id": 30
+  },
+  "corporate_secretary": {
+    "name": "Ari Wibowo",
+    "email": "sekper@jasamarga.co.id",
+    "phone": "+6221-8413526 +6221-8413630"
+  },
+  "directors": [
+    {
+      "name": "Rivan Achmad Purwantoro",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Fitri Wiyanti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Reza Febriano",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yoga Tri Anggoro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pramitha Wulanjani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ari Respati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yaya Ruhiya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Juri Ardiantoro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Syamsul Bachri Yusuf",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Asrorun Ni-am Sholeh",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nachrowi Ramli",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rudi Antariksawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tedi Kurniawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rudi Antariksawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tedi Kurniawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Siti Purnama Rizki",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fibria Indriati Dwi Liestiawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 5029704742,
+      "percentage": 69.3
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2174944160,
+      "percentage": 29.9701
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 51805098,
+      "percentage": 0.71
+    },
+    {
+      "name": "Fitri Wiyanti",
+      "type": "Direksi",
+      "shares": 587800,
+      "percentage": 0.0081
+    },
+    {
+      "name": "Reza Febriano",
+      "type": "Direksi",
+      "shares": 560200,
+      "percentage": 0.0078
+    },
+    {
+      "name": "Pramitha Wulanjani",
+      "type": "Direksi",
+      "shares": 289200,
+      "percentage": 0.004
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jasamarga Transjawa Tol (jtt)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Transjawa",
+      "total_assets": 62400320,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Jasamarga Japek Selatan (jjs)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Jakarta-cikampek II Sisi Selatan",
+      "total_assets": 13743454,
+      "ownership_percentage": 92.33
+    },
+    {
+      "name": "PT Jasamarga Jogja Solo",
+      "business_type": "Pengusahaan Ruas Jalan Tol Solo-yogyakarta-nyia Kulonprogo",
+      "total_assets": 10554718,
+      "ownership_percentage": 52.82
+    },
+    {
+      "name": "PT Jasamarga Balikpapan Samarinda (jbs)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Balikpapan-samarinda",
+      "total_assets": 9566538,
+      "ownership_percentage": 67.39
+    },
+    {
+      "name": "PT Jasamarga Probolinggo Banyuwangi (jpb)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Probolinggo-bayuwangi",
+      "total_assets": 8560107,
+      "ownership_percentage": 98.25
+    },
+    {
+      "name": "PT Jasamarga Jogja Bawen (jjb)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Yogyakarta-bawen",
+      "total_assets": 6570010,
+      "ownership_percentage": 73.18
+    },
+    {
+      "name": "PT Jasamarga Kunciran Cengkareng (jkc)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Kunciran-cengkareng",
+      "total_assets": 5046225,
+      "ownership_percentage": 88.67
+    },
+    {
+      "name": "PT Jasamarga Manado Bitung (jmb)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Manado-bitung",
+      "total_assets": 4358966,
+      "ownership_percentage": 64.97
+    },
+    {
+      "name": "PT Jasamarga Kualanamu Tol (jmkt)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Medan-kualanamu-tebing Tinggi",
+      "total_assets": 4117367,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Marga Trans Nusantara (mtn)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Kunciran-serpong",
+      "total_assets": 3982048,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Cinere Serpong Jaya (csj)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Serpong-cinere",
+      "total_assets": 3410938,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Marga Sarana Jabar (msj)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Bogor Outer Ring Road",
+      "total_assets": 3112171,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Jasamarga Related Business (jmrb)",
+      "business_type": "Pengembangan Bisnis Properti",
+      "total_assets": 2399108,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Jasamarga Tollroad Maintenance (jmtm)",
+      "business_type": "Pengusahaan Jasa Konstruksi dan Pemeliharaan Jalan Tol, Jasa Sewa Peralatan Tol, Serta Jasa Sewa Kendaraan",
+      "total_assets": 2356536,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Jasamarga Akses Patimban (jap)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Akses Patimban",
+      "total_assets": 1906795,
+      "ownership_percentage": 66.22
+    },
+    {
+      "name": "PT Jasamarga Bali Tol (jbt)",
+      "business_type": "Pengusahaan Ruas Jalan Tol Nusa Dua-tanjung Benoa",
+      "total_assets": 1865399,
+      "ownership_percentage": 64.44
+    },
+    {
+      "name": "PT Jasamarga Tollroad Operator (jmto)",
+      "business_type": "Jasa Pengoperasian Jalan Tol",
+      "total_assets": 1626932,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Jalantol Lingkarluar Jakarta (jlj)",
+      "business_type": "Jasa Pengoperasian Jalan Tol",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "21.483.298.752.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,75",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,98",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,92",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "25,68",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,33",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "12,24",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:58.785Z"
+}

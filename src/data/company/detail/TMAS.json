@@ -1,0 +1,261 @@
+{
+  "company_name": "PT Temas Tbk.",
+  "ticker": "TMAS",
+  "office_address": "Jl. Yos Sudarso (by Pass) Kav. 33, Sunter Jaya, Jakarta 14350",
+  "email": "corp.sec@temasline.com",
+  "phone": "021-4302388",
+  "fax": "021-43938658",
+  "tax_id": "01.321.865.6-042.000",
+  "website": "https://www.temas.id",
+  "listing_date": "2003-07-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Angkutan Laut",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Santi Dewi",
+    "email": "corp.sec@temasline.com",
+    "phone": "021-4302388"
+  },
+  "directors": [
+    {
+      "name": "Ricky Effendi",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ganny Zheng",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Widy Kiswanto",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Harto Khusumo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Theo Lekatompessy",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Alfred Natsir",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Theo Lekatompessy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Alfred Natsir",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ardi Dharmono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Temas Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 47730468500,
+      "percentage": 83.66
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8875433650,
+      "percentage": 15.56
+    },
+    {
+      "name": "Ganny Zheng",
+      "type": "Direksi",
+      "shares": 228277250,
+      "percentage": 0.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 182644000,
+      "percentage": 0.32
+    },
+    {
+      "name": "Ricky Effendi",
+      "type": "Direksi",
+      "shares": 22350000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Harto Khusumo",
+      "type": "Komisaris",
+      "shares": 12326600,
+      "percentage": 0.02
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Temas Shipping D/h PT Pelayaran Tirtamas Express",
+      "business_type": "Jasa Pelayaran",
+      "total_assets": 2167733,
+      "ownership_percentage": 99.85
+    },
+    {
+      "name": "PT Temas Port D/h PT Escorindo Stevedoring",
+      "business_type": "Jasa Bongkar Muat dan Jasa Terkait",
+      "total_assets": 495286,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Temas Depot D/h PT Temas Pendulum Nusantara",
+      "business_type": "Jasa Pengelolaan Depo Peti Kemas dan Jasa Terkait",
+      "total_assets": 479777,
+      "ownership_percentage": 99.87
+    },
+    {
+      "name": "PT Lestari Nasional Gas",
+      "business_type": "Pengangutan dan Pengadaan Energi",
+      "total_assets": 300388,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mentari Mas Multimoda",
+      "business_type": "Jasa Pelayaran dan Bongkar Muat",
+      "total_assets": 208440,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Temas Bulker (tb)",
+      "business_type": "Jasa Pengangkutan dan Pergudangan",
+      "total_assets": 156650,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Pelabuhan Temas Nusantara (ptn)",
+      "business_type": "Jasa Pelayanan Kepelabuhan Laut",
+      "total_assets": 124401,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Temas Energy",
+      "business_type": "Pengangutan dan Pengadaan Energi",
+      "total_assets": 49381,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Temas Logistics",
+      "business_type": "Jasa Pengangkutan dan Pergudangan",
+      "total_assets": 11485,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Asia Marine Temas",
+      "business_type": "Manajemen Kapal",
+      "total_assets": 7148,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Depo Lautan Nusantara (dln)",
+      "business_type": "Jasa Pengelolaan Depo Peti Kemas dan Jasa Terkait",
+      "total_assets": 6493,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Anemi Maritime Co.ltd.",
+      "business_type": "Jasa Penyewaan Kapal",
+      "total_assets": 1038,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Temas Training Hub (tthub)",
+      "business_type": "Jasa Sertifikasi, Edukasi dan Pendidikan",
+      "total_assets": 46,
+      "ownership_percentage": 49
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "7.188.489.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,38",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,38",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "3,91",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "11,51",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,60",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:41.083Z"
+}

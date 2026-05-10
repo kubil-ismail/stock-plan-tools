@@ -1,0 +1,228 @@
+{
+  "company_name": "PT Fuji Finance Indonesia Tbk.",
+  "ticker": "FUJI",
+  "office_address": "Gedung Menara Sudirman Lt. 7b, Jl. Jend. Sudirman Kav.60, Jakarta Selatan, Indonesia 12190",
+  "email": "fuji.finance.indonesia@gmail.com",
+  "phone": "02138250632",
+  "fax": "-",
+  "tax_id": "0013612817021000",
+  "website": "https://www.fujifinance.com",
+  "listing_date": "2019-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Dian Ariyanti Wijaya",
+    "email": "fuji.finance.indonesia@gmail",
+    "phone": "021 5226509"
+  },
+  "directors": [
+    {
+      "name": "Anita Marta",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dian Ariyanti Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "James Leonardo Djoni",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anton Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Freddy Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Anastasia Christinawati Jaya Saputra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "John Aryananda",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anastasia Christinawati Jaya Saputra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Inggrid Feliciany Seikka",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mutiara Megadita Gea",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Indovalue Capital Asset",
+      "type": "Lebih dari 5%",
+      "shares": 715000000,
+      "percentage": 55
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 369509900,
+      "percentage": 28.42
+    },
+    {
+      "name": "Agustin Widyawati",
+      "type": "Lebih dari 5%",
+      "shares": 135942900,
+      "percentage": 10.46
+    },
+    {
+      "name": "Batara Bayu Soedarwanto",
+      "type": "Lebih dari 5%",
+      "shares": 76284200,
+      "percentage": 5.87
+    },
+    {
+      "name": "Anton Santoso",
+      "type": "Komisaris",
+      "shares": 3263000,
+      "percentage": 0.25
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Johannes Patricia Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Johannes Patricia Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "423.800.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "19,80",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "31,65",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "54,69",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,14",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,25",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "53,38",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:54.684Z"
+}

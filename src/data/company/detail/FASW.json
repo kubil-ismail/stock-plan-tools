@@ -1,0 +1,202 @@
+{
+  "company_name": "Fajar Surya Wisesa Tbk",
+  "ticker": "FASW",
+  "office_address": "Jalan Abdul Muis No. 32 Jakarta Pusat 10160",
+  "email": "legalfasw@fajarpaper.com",
+  "phone": "021 - 3441316 / HP Corsec : 081398802173 (Marco)",
+  "fax": "021 - 3457643",
+  "tax_id": "01.326.236.5-092.000",
+  "website": "https://www.fajarpaper.com",
+  "listing_date": "1994-12-19",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pulp and Paper",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Marco Hardy",
+    "email": "legalfasw@fajarpaper.com",
+    "phone": "021 3441316"
+  },
+  "directors": [
+    {
+      "name": "Yustinus Yusuf Kusumah",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wichan Charoenkitsupat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ekachai Anujorn",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arif Razif",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Cholanat Yanaranop",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Vibul Tuangsitthisombat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pakorn Matrakul",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wichan Jitpukdee",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Vilia Sulistyo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lim Chong Thian",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sudarmanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tony Tjandra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Roy Teguh",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lim Chong Thian",
+      "position": "Ketua"
+    },
+    {
+      "name": "Elizabeth Linandi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Shiery",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Siam Kraft Industry Company Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1927910241,
+      "percentage": 59.85
+    },
+    {
+      "name": "Scgp Solutions (singapore) Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1286163358,
+      "percentage": 39.93
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5499096,
+      "percentage": 0.17
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1682728,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dayasa Aria Prima",
+      "business_type": "Perindustrian",
+      "total_assets": 3120112,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "16.992.122.356.325",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "3,21",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:43.430Z"
+}

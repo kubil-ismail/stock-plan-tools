@@ -1,0 +1,183 @@
+{
+  "company_name": "PT Harta Djaya Karya Tbk",
+  "ticker": "MEJA",
+  "office_address": "Jl. Bintaro Raya No. 8a, Kebayoran Lama Utara, Kec. Kebayoran Lama, Jakarta Selatan 12240",
+  "email": "sekper@interra.co.id",
+  "phone": "021 27937979",
+  "fax": "021 27937979",
+  "tax_id": "03.277.934.0-063.000",
+  "website": "https://interra.co.id",
+  "listing_date": "2024-02-12",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Dekorasi Eksterior, Dekorasi Interior, Aktivitas Desain Peralatan Rumah Tangga dan Furnitur, Konstruksi Gedung Perkantoran, Konstruksi Gedung Hunian dan Konstruksi Gedung Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 84,
+    "name": "Produsen Furnitur Rumah",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Habibah Jannah",
+    "email": "sekper@interra.co.id",
+    "phone": "021 27937979"
+  },
+  "directors": [
+    {
+      "name": "Richie Adrian Hartanto S",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Habibah Jannah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Venantius Agung Passionoraga",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Noprian Fadli",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bimo Pradikto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mas Achmad Dairi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Inkarani D.b. Prayanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jerry Adolf Togo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ruth Patricia Nauli",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1350156942,
+      "percentage": 60.4
+    },
+    {
+      "name": "PT Triple Berkah Bersama",
+      "type": "Lebih dari 5%",
+      "shares": 878845100,
+      "percentage": 39.31
+    },
+    {
+      "name": "Richie Adrian Hartanto S",
+      "type": "Direksi",
+      "shares": 6500000,
+      "percentage": 0.29
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Kumalahadi, Sugeng Pamudji dan Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "241.434.220.536",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,41",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "22,09",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "35,19",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "43,84",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,87",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "21,64",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:41.683Z"
+}

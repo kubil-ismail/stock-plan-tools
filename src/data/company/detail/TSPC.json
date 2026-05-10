@@ -1,0 +1,480 @@
+{
+  "company_name": "Tempo Scan Pacific Tbk",
+  "ticker": "TSPC",
+  "office_address": "Gedung Tempo Scan Tower Jl. H.r. Rasuna Said Kav. 3-4 Jakarta 12950",
+  "email": "investorrelation@thetempogroup.com",
+  "phone": "2921-8888 (5438)",
+  "fax": "2920-9999",
+  "tax_id": "01.000.781.3-092.000",
+  "website": "https://-",
+  "listing_date": "1994-06-17",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Farmasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan, Logistik, Makanan & Minuman.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan",
+      "Logistik",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Shania",
+    "email": "corporate.secretary@thetempogroup.com",
+    "phone": "29218888 ext 5725"
+  },
+  "directors": [
+    {
+      "name": "Diana Wirawan",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Liza Prasodjo",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "I Made Dharma Wijaya",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Linda Lukitasari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Shania",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rorita Lim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Josep Ismanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Aviaska Diah Respati H",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ernes Beneldy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ruth Dewi Rosila Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Handojo Selamet Muljadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Kustantinah",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suparni Parto Setiono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hartaty Susanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Sutomo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bapak Suparni Parto Setiono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bapak Agus Sutomo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ibu Ratna Dewi Suryo Wibowo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bogamulia Nagadi",
+      "type": "Lebih dari 5%",
+      "shares": 4085532718,
+      "percentage": 90.59
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 415084032,
+      "percentage": 9.2
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3885750,
+      "percentage": 0.08
+    },
+    {
+      "name": "Diana Wirawan",
+      "type": "Direksi",
+      "shares": 1045500,
+      "percentage": 0.02
+    },
+    {
+      "name": "Liza Prasodjo",
+      "type": "Direksi",
+      "shares": 679000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Aviaska Diah Respati H",
+      "type": "Direksi",
+      "shares": 780000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Hartaty Susanto",
+      "type": "Komisaris",
+      "shares": 499500,
+      "percentage": 0.01
+    },
+    {
+      "name": "I Made Dharma Wijaya",
+      "type": "Direksi",
+      "shares": 454000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Shania",
+      "type": "Direksi",
+      "shares": 479000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Rorita Lim",
+      "type": "Direksi",
+      "shares": 404000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Josep Ismanto",
+      "type": "Direksi",
+      "shares": 314800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Ruth Dewi Rosila Widjaja",
+      "type": "Direksi",
+      "shares": 296000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Linda Lukitasari",
+      "type": "Direksi",
+      "shares": 410000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Perusahaan Dagang Tempo - Ptt",
+      "business_type": "Jasa Distribusi",
+      "total_assets": 3828760608706,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Barclay Products - Bcl",
+      "business_type": "Pemasaran Produk Konsumen, Kosmetik dan Pembersih Perabot Rumah Tangga",
+      "total_assets": 2194381025323,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kian Mulia Manunggal - Kmm",
+      "business_type": "Produsen Produk Susu Bubuk",
+      "total_assets": 1293989771260,
+      "ownership_percentage": 55.01
+    },
+    {
+      "name": "PT Tempo Land - Tl",
+      "business_type": "Jasa Pembangunan dan Persewaan Bangunan",
+      "total_assets": 1028995233985,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Rudy Soetadi - Rs",
+      "business_type": "Produsen Produk Konsumen dan Kosmetik",
+      "total_assets": 493806307816,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Tempo Utama Sejahtera - Tus",
+      "business_type": "Produsen Produk Konsumen dan Pembersih Perabot Rumah Tangga",
+      "total_assets": 405606295340,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tempo Natural Products - Tnp",
+      "business_type": "Produsen Produk Herbal",
+      "total_assets": 271745381524,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Supra Ferbindo Farma - Sff",
+      "business_type": "Produsen Produk Farmasi",
+      "total_assets": 248753331197,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pulau Mahoni - Pm",
+      "business_type": "Pemasaran Produk Kosmetik",
+      "total_assets": 222705423286,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pritho - Pto",
+      "business_type": "Produsen Produk Kemasan Plastik",
+      "total_assets": 198520815865,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Polari Limunusainti - Pli",
+      "business_type": "Produsen Produk Minuman",
+      "total_assets": 195806262604,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "International Beauty Products Ltd. - Ibp",
+      "business_type": "Pemasaran Produk Kosmetik",
+      "total_assets": 191512728989,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ageng Adi - Aa",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 188962745938,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Eres Revco - Er",
+      "business_type": "Pemasaran Produk Kosmetik",
+      "total_assets": 158312122043,
+      "ownership_percentage": 99.51
+    },
+    {
+      "name": "PT Supra Usadhatama - Sut",
+      "business_type": "Jasa Distribusi",
+      "total_assets": 140814976854,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Tempo Promosi - Tp",
+      "business_type": "Jasa Iklan dan Promosi",
+      "total_assets": 123636308845,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Rt Beauty Care Ltd. - Rtb",
+      "business_type": "Importir dan Distributor Produk Kosmetik",
+      "total_assets": 107551857707,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tempo Kereta Mas - Tkm",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 89661824517,
+      "ownership_percentage": 42
+    },
+    {
+      "name": "PT Tempo Logistic - Tlog",
+      "business_type": "Jasa Pergudangan",
+      "total_assets": 85645306776,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Tempo Nagadi Trading - Tnt",
+      "business_type": "Jasa Pembelian dan Perdagangan",
+      "total_assets": 67223376416,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tempo Scan Mahoni - Tsm",
+      "business_type": "Pemasaran Produk Kosmetik",
+      "total_assets": 66689048515,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tempo Data System - Tds",
+      "business_type": "Jasa Sistem Teknologi Informasi dan Jaringan Komunikasi",
+      "total_assets": 61565964503,
+      "ownership_percentage": 97.6
+    },
+    {
+      "name": "Tempo Scan Africa Ltd.- Tsal",
+      "business_type": "Jasa Distribusi dan Pemasaran",
+      "total_assets": 52256574838,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Tempo Rx Farma - Trf",
+      "business_type": "Pemasaran Produk Farmasi dan Alat Kesehatan",
+      "total_assets": 47636937096,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Tempo Nagadi - Tn",
+      "business_type": "Produsen Produk Sabun",
+      "total_assets": 35193307039,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tempo Research - Tr",
+      "business_type": "Jasa Riset dan Pengembangan",
+      "total_assets": 35148265402,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tempo Aurora Sehat - Tas",
+      "business_type": "Klinik Kesehatan dan Jasa Kecantikan",
+      "total_assets": 28797701841,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tempo Scan Pacific Philippines Inc. - Tspp",
+      "business_type": "Jasa Distribusi dan Pemasaran",
+      "total_assets": 27684405609,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tempo Scan Industry - Tsi",
+      "business_type": "Produsen Produk Farmasi",
+      "total_assets": 27173241742,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tempo Scan Pacific Malaysia Sdn, Bhd - Tspm",
+      "business_type": "Jasa Distribusi dan Pemasaran",
+      "total_assets": 17075612820,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kendaga Isi Mulia - Kim",
+      "business_type": "Jasa Penyediaan Tenaga Kerja Waktu Tertentu",
+      "total_assets": 12423025844,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Global Eramas - Gem",
+      "business_type": "Jasa Distribusi dan Pemasaran",
+      "total_assets": 7433494615,
+      "ownership_percentage": 97.6
+    },
+    {
+      "name": "PT Tri Nagaharda Satria - Tns",
+      "business_type": "Jasa Distribusi",
+      "total_assets": 93661469,
+      "ownership_percentage": 99.8
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.004.068.892.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,70",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "16,00",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "1,61",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,28",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "11,58",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:04.308Z"
+}

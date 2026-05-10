@@ -1,0 +1,710 @@
+{
+  "company_name": "PT Bundamedik Tbk",
+  "ticker": "BMHS",
+  "office_address": "Jl. Teuku Cik Ditiro No. 28, Menteng Jakarta 10350 - Indonesia",
+  "email": "corsec@bmhs.co.id",
+  "phone": "(62-21) 3192-3344",
+  "fax": "(62-21) 3190-5915",
+  "tax_id": "01.314.856.4.073.000",
+  "website": "https://www.bmhs.co.id",
+  "listing_date": "2021-07-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas rumah sakit swasta",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan, Properti.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan",
+      "Properti"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Josephine Pm Tobing",
+    "email": "corsec@bmhs.co.id",
+    "phone": "(62-21) 3192-3344"
+  },
+  "directors": [
+    {
+      "name": "Agus Heru Darjono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Cuncun Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Emilia Rouli",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ivan Rizal Sini",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Shubhasish Chattoraj",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mesha Rizal Sini",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Retno L.p. Marsudi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Arianti Anaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Arianti Anaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tiwi Setyawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Albertus Yudha Poerwadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bunda Investama Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 4935430900,
+      "percentage": 57.37
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3080785276,
+      "percentage": 35.8
+    },
+    {
+      "name": "Ivan Rizal Sini",
+      "type": "Komisaris",
+      "shares": 278600000,
+      "percentage": 3.24
+    },
+    {
+      "name": "Mesha Rizal Sini",
+      "type": "Komisaris",
+      "shares": 278600000,
+      "percentage": 3.24
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 30000000,
+      "percentage": 0.35
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Morula Indonesia (mi)",
+      "business_type": "Konsultan Manajemen Layanan Teknologi Reproduksi Berbantu",
+      "total_assets": 1367209780999,
+      "ownership_percentage": 47.25
+    },
+    {
+      "name": "PT Morula Indonesia (mi)",
+      "business_type": "Konsultan Manajemen Layanan Teknologi Reproduksi Berbantu",
+      "total_assets": 701390895538,
+      "ownership_percentage": 63
+    },
+    {
+      "name": "PT Morula Indonesia (mi)",
+      "business_type": "Konsultan Manajemen Layanan Teknologi Reproduksi Berbantu",
+      "total_assets": 689781310479,
+      "ownership_percentage": 63
+    },
+    {
+      "name": "PT Morula Indonesia (mi)",
+      "business_type": "Konsultan Manajemen Layanan Teknologi Reproduksi Berbantu",
+      "total_assets": 660151150173,
+      "ownership_percentage": 63
+    },
+    {
+      "name": "PT Morula Indonesia (mi)",
+      "business_type": "Konsultan Manajemen Layanan Teknologi Reproduksi Berbantu",
+      "total_assets": 322200396064,
+      "ownership_percentage": 63
+    },
+    {
+      "name": "PT Diagnos Laboratorium Utama Tbk (dgns)",
+      "business_type": "Pelayanan Penunjang Medik Laboratorium",
+      "total_assets": 295070937027,
+      "ownership_percentage": 41.2
+    },
+    {
+      "name": "PT Diagnos Laboratorium Utama Tbk (dgns)",
+      "business_type": "Pelayanan Penunjang Medik Laboratorium",
+      "total_assets": 288300876564,
+      "ownership_percentage": 41
+    },
+    {
+      "name": "PT Diagnos Laboratorium Utama Tbk (dgns)",
+      "business_type": "Pelayanan Penunjang Medik Laboratorium",
+      "total_assets": 288107677149,
+      "ownership_percentage": 41.2
+    },
+    {
+      "name": "PT Diagnos Laboratorium Utama Tbk (dgns)",
+      "business_type": "Pelayanan Penunjang Medik Laboratorium",
+      "total_assets": 271475135985,
+      "ownership_percentage": 41
+    },
+    {
+      "name": "PT Bunda Graha Properti (bgpp)",
+      "business_type": "Properti",
+      "total_assets": 263336793540,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Graha Properti (bgpp)",
+      "business_type": "Properti",
+      "total_assets": 262660341448,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Graha Properti (bgpp)",
+      "business_type": "Properti",
+      "total_assets": 257001289356,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Graha Properti (bgpp)",
+      "business_type": "Properti",
+      "total_assets": 256291852264,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Minang Citra (bmc)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 183408580219,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Bunda Minang Citra (bmc)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 181536416039,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Bunda Minang Citra (bmc)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 179271071515,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Bunda Minang Citra (bmc)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 177801327005,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Bunda Minang Citra (bmc)",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 120745099369,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Pintu Ilmu (pi)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 76942398906,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pintu Ilmu (pi)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 74846745306,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pintu Ilmu (pi)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 71845387490,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pintu Ilmu (pi)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 68444145776,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Citra Ananda (ca)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 66017446247,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Citra Ananda (ca)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 65921311795,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Citra Ananda (ca)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 65565169483,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Citra Ananda (ca)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 65289519117,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Bunda Global Pharma (bgp)",
+      "business_type": "Distributor Obat dan Alat Kesehatan",
+      "total_assets": 64108163695,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Bunda Medika Dewata (bmd)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 55803527877,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Global Pharma (bgp)",
+      "business_type": "Distributor Obat dan Alat Kesehatan",
+      "total_assets": 55469975055,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Bunda Medika Dewata (bmd)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 55346075451,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Dewata (bmd)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 52433326929,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Dewata (bmd)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 52204729044,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Citra Ananda (ca)",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 51100783325,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Bunda Global Pharma (bgp)",
+      "business_type": "Distributor Obat dan Alat Kesehatan",
+      "total_assets": 50467327810,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Bunda Global Pharma (bgp)",
+      "business_type": "Distributor Obat dan Alat Kesehatan",
+      "total_assets": 49576900828,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jolin Sapta Medika Bekasi (jsm)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 46426006949,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jolin Sapta Medika Bekasi (jsm)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 45505605287,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jolin Sapta Medika Bekasi (jsm)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 43490852579,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jolin Sapta Medika Bekasi (jsm)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 42151586613,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Global Pharma (bgp)",
+      "business_type": "Distributor Obat dan Alat Kesehatan",
+      "total_assets": 30562275611,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Bunda Medika Wisesa (bmw)",
+      "business_type": "Hotel, Medical Tourism dan Konsultasi Manajemen",
+      "total_assets": 22921642469,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bunda Medika Wisesa (bmw)",
+      "business_type": "Hotel, Medical Tourism dan Konsultasi Manajemen",
+      "total_assets": 21555926037,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bunda Medika Wisesa (bmw)",
+      "business_type": "Hotel, Medical Tourism dan Konsultasi Manajemen",
+      "total_assets": 20343832870,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bunda Medika Wisesa (bmw)",
+      "business_type": "Hotel, Medical Tourism dan Konsultasi Manajemen",
+      "total_assets": 19928297696,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bunda Medika Wisesa (bmw)",
+      "business_type": "Hotel, Medical Tourism dan Konsultasi Manajemen",
+      "total_assets": 18809744220,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bunda Medika Klinik",
+      "business_type": "Klinik",
+      "total_assets": 10903633598,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Klinik",
+      "business_type": "Klinik",
+      "total_assets": 10898673519,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Klinik",
+      "business_type": "Klinik",
+      "total_assets": 10852341532,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Klinik",
+      "business_type": "Klinik",
+      "total_assets": 10852341532,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Klinik",
+      "business_type": "Klinik",
+      "total_assets": 10744710529,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Emergency Response Indonesia (eri)",
+      "business_type": "Penyediaan Jasa Ambulans",
+      "total_assets": 8660571199,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Emergency Response Indonesia (eri)",
+      "business_type": "Penyediaan Jasa Ambulans",
+      "total_assets": 8332984206,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Emergency Response Indonesia (eri)",
+      "business_type": "Penyediaan Jasa Ambulans",
+      "total_assets": 8069788079,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Emergency Response Indonesia (eri)",
+      "business_type": "Penyediaan Jasa Ambulans",
+      "total_assets": 7613149613,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Emergency Response Indonesia (eri)",
+      "business_type": "Penyediaan Jasa Ambulans",
+      "total_assets": 7412125936,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Visiscan Indonesia (vi)",
+      "business_type": "Konsultan Manajemen Layanan Layanan Klinik Usg",
+      "total_assets": 4510136962,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Visiscan Indonesia (vi)",
+      "business_type": "Konsultan Manajemen Layanan Layanan Klinik Usg",
+      "total_assets": 4510068587,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Visiscan Indonesia (vi)",
+      "business_type": "Konsultan Manajemen Layanan Layanan Klinik Usg",
+      "total_assets": 4510000614,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Visiscan Indonesia (vi)",
+      "business_type": "Konsultan Manajemen Layanan Layanan Klinik Usg",
+      "total_assets": 4509932640,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Sasana Mitra Bunda (smb)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Fisioterapi",
+      "total_assets": 4157596354,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Sasana Mitra Bunda (smb)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Fisioterapi",
+      "total_assets": 3665087913,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Sasana Mitra Bunda (smb)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Fisioterapi",
+      "total_assets": 3655129647,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Sasana Mitra Bunda (smb)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Fisioterapi",
+      "total_assets": 3326046843,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Prima Dental Medika (pdm)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Gigi",
+      "total_assets": 2595676358,
+      "ownership_percentage": 86.67
+    },
+    {
+      "name": "PT Bunda Medika Bekasi (bmb)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 2517040171,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Bekasi (bmb)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 2516700148,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Bekasi (bmb)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 2516700148,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bunda Medika Bekasi (bmb)",
+      "business_type": "Rumah Sakit Swasta",
+      "total_assets": 2514700148,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Prima Dental Medika (pdm)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Gigi",
+      "total_assets": 2306363638,
+      "ownership_percentage": 86.67
+    },
+    {
+      "name": "PT Prima Dental Medika (pdm)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Gigi",
+      "total_assets": 2243839618,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Prima Dental Medika (pdm)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Gigi",
+      "total_assets": 2114985664,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Bmhs Diklat Indonesia (bdi)",
+      "business_type": "Pendidikan Kesehatan Swasta",
+      "total_assets": 1994996949,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Prima Dental Medika (pdm)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Gigi",
+      "total_assets": 1771906861,
+      "ownership_percentage": 47
+    },
+    {
+      "name": "PT Bmhs Diklat Indonesia (bdi)",
+      "business_type": "Pendidikan Kesehatan Swasta",
+      "total_assets": 1550865934,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bmhs Diklat Indonesia (bdi)",
+      "business_type": "Pendidikan Kesehatan Swasta",
+      "total_assets": 1422720975,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bmhs Diklat Indonesia (bdi)",
+      "business_type": "Pendidikan Kesehatan Swasta",
+      "total_assets": 1348640227,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Sasana Mitra Bunda (smb)",
+      "business_type": "Konsultan Manajemen Layanan Klinik Fisioterapi",
+      "total_assets": 1261991837,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Bmhs Diklat Indonesia (bdi)",
+      "business_type": "Pendidikan Kesehatan Swasta",
+      "total_assets": 474346742,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Visiscan Indonesia (vi)",
+      "business_type": "Konsultan Manajemen Layanan Usg",
+      "total_assets": 4914569,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bunda Medika Dewata (bmd)",
+      "business_type": "Aktivitas Kantor Pusat dan Konsultasi Manajemen",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata Sutanto Fahmi Bambang & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.591.631.992.560",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,86",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,19",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "26,80",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "19,83",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,86",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "1,04",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:03.409Z"
+}

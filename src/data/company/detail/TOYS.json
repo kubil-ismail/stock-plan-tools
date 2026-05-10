@@ -1,0 +1,199 @@
+{
+  "company_name": "PT Sunindo Adipersada Tbk.",
+  "ticker": "TOYS",
+  "office_address": "Komplek Industri Bostinco Jalan Raya Cileungsi – Bekasi, Kilometer 22,5 Cileungsi, Bogor, Jawa Barat, 16820",
+  "email": "info@sunindo.id",
+  "phone": "(021) 8230272",
+  "fax": "0",
+  "tax_id": "01.338.295.7-436.000",
+  "website": "https://www.sunindo.id",
+  "listing_date": "2020-08-06",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Industri Mainan Anak-Anak",
+    "business_summary": "Perusahaan bergerak di bidang Peralatan Olah Raga & Barang Hobi.",
+    "business_tags": [
+      "Peralatan Olah Raga & Barang Hobi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 6,
+    "name": "Barang Rekreasi",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 42,
+    "name": "Peralatan Olah Raga & Barang Hobi"
+  },
+  "sub_industry": {
+    "id": 65,
+    "name": "Peralatan Olah Raga & Barang Hobi",
+    "industries_id": 42
+  },
+  "corporate_secretary": {
+    "name": "Gusnaidi Hetminado",
+    "email": "info@sunindo.id",
+    "phone": "(021) 8230272"
+  },
+  "directors": [
+    {
+      "name": "Iwan Tirtha",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Teddy Gusnaidi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tati Oetojo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Reynard M. Poernawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Reynard Mandra Poernawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Teggy Lenandy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tunjung Bimo Sakti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 565912312,
+      "percentage": 39.43
+    },
+    {
+      "name": "Iwan Tirtha",
+      "type": "Direksi",
+      "shares": 414089900,
+      "percentage": 28.86
+    },
+    {
+      "name": "PT Hoekel Bangun Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 296521959,
+      "percentage": 20.66
+    },
+    {
+      "name": "Peter Indra Lembong",
+      "type": "Lebih dari 5%",
+      "shares": 75750000,
+      "percentage": 5.28
+    },
+    {
+      "name": "Goichi Mori",
+      "type": "Lebih dari 5%",
+      "shares": 75750000,
+      "percentage": 5.28
+    },
+    {
+      "name": "Tati Oetojo",
+      "type": "Komisaris",
+      "shares": 6976541,
+      "percentage": 0.49
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Ishak, Saleh, Soewondo & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Ishak, Saleh, Soewondo & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.480.005.696",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:50.046Z"
+}

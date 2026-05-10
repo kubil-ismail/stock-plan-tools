@@ -1,0 +1,189 @@
+{
+  "company_name": "PT Mds Retailing Tbk",
+  "ticker": "LPPF",
+  "office_address": "Menara Matahari 12th Floor, Jl. Bulevar Palem Raya No. 7, Lippo Village, Tangerang, 15811, Indonesia",
+  "email": "corp.comm@matahari.com",
+  "phone": "+62 21 547 5228",
+  "fax": "-",
+  "tax_id": "01.317.956.9-054.000",
+  "website": "https://www.matahari.com",
+  "listing_date": "1989-10-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan Ritel",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 8,
+    "name": "Department Store"
+  },
+  "sub_industry": {
+    "id": 15,
+    "name": "Department Store",
+    "industries_id": 8
+  },
+  "corporate_secretary": {
+    "name": "Susanto",
+    "email": "susanto@matahari.com",
+    "phone": "+62 21 547 5228"
+  },
+  "directors": [
+    {
+      "name": "Bunjamin Jonatan Mailool",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Monish Manohar Masukhani",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herni Dian Anggreani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Andy Adhiwana",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Adrian Suherman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bianca Cheo Hui Hsin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hasan Soedjono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hasan M. Soedjono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Peter Chambers",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bianca Cheo Hui Shin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1057057760,
+      "percentage": 46.81
+    },
+    {
+      "name": "Auric Digital Retail Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 960021796,
+      "percentage": 42.51
+    },
+    {
+      "name": "PT Multipolar Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 209992000,
+      "percentage": 9.3
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 31000000,
+      "percentage": 1.37
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 207724,
+      "percentage": 0.01
+    },
+    {
+      "name": "N/a",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Matahari Nusantara Logistik",
+      "business_type": "Pengangkutan Darat, Perdagangan dan Jasa",
+      "total_assets": 197086,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Matahari Semesta Indah",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 87546,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.680.995.226.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,23",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "13,68",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "5,75",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "15,03",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "6,55",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:08.606Z"
+}

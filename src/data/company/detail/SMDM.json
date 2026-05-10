@@ -1,0 +1,218 @@
+{
+  "company_name": "Suryamas Dutamakmur Tbk",
+  "ticker": "SMDM",
+  "office_address": "My Republic Plaza Lantai 3, Grand Boulevard, Bsd Green Office Park, Bsd City, Tangerang 15345",
+  "email": "corsec@rancamaya.com",
+  "phone": "(021)50368368",
+  "fax": "(021)50588278",
+  "tax_id": "0013 4849 3605 4000",
+  "website": "https://www.rancamaya.com",
+  "listing_date": "1995-10-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Sanjaya Sutarsa",
+    "email": "corsec@rancamaya.com",
+    "phone": "(021) 50368368"
+  },
+  "directors": [
+    {
+      "name": "Liauw, Herry Hendarta",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Prasetijo Tanumihardja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sanjaya Sutarsa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Siswanto Adisaputro",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Michael J. P. Widjaja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lie Jani Harjanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Susiyati B. Hirawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Susiyati B. Hirawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rusli Prakarsa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Reynold M. Batubara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bumi Serpong Damai Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 4723134988,
+      "percentage": 98.9732
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 48841374,
+      "percentage": 1.0235
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 161875,
+      "percentage": 0.0033
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Centranusa Majupermai (cnmp)",
+      "business_type": "Investasi dan Real Estat",
+      "total_assets": 1825659198906,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dwigunatama Rintisprima (drp)",
+      "business_type": "Real Estat",
+      "total_assets": 1825587259964,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Dwikarya Langgengsukses (dls)",
+      "business_type": "Real Estat",
+      "total_assets": 512821634152,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Tajur Surya Abadi (tsa)",
+      "business_type": "Real Estat",
+      "total_assets": 306868908772,
+      "ownership_percentage": 67
+    },
+    {
+      "name": "PT Kharisma Buana Mandiri (kbm)",
+      "business_type": "Jasa",
+      "total_assets": 67835126255,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Puri Surya Abadi (psa)",
+      "business_type": "Real Estat",
+      "total_assets": 29419919826,
+      "ownership_percentage": 67
+    },
+    {
+      "name": "PT Inti Sarana Papan (isp)",
+      "business_type": "Real Estat",
+      "total_assets": 18293566424,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saptakreasi Indah (ski)",
+      "business_type": "Hotel",
+      "total_assets": 9066001274,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multiraya Sinarindo (ms)",
+      "business_type": "Real Estat",
+      "total_assets": 1960680636,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.863.282.942.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,48",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,31",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "22,56",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "54,80",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,79",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "24,40",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:32.232Z"
+}

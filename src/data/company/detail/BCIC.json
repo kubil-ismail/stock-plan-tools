@@ -1,0 +1,208 @@
+{
+  "company_name": "PT Bank Jtrust Indonesia Tbk.",
+  "ticker": "BCIC",
+  "office_address": "Gedung Sahid Sudirman Center, Lantai 33, Jl. Jend.sudirman No. 86 Jakarta Pusat 10220",
+  "email": "-",
+  "phone": "02129261111",
+  "fax": "02129261492",
+  "tax_id": "0013430707054000",
+  "website": "https://www.jtrustbank.co.id",
+  "listing_date": "1997-06-25",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Bijono Waliman",
+    "email": "bijono.waliman@jtrustbank.co.id",
+    "phone": "021-29261111"
+  },
+  "directors": [
+    {
+      "name": "Ritsuo Fukadai",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Felix Istyono Hartadi Tiono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Helmi Arief Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cho Won June",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "R. Djoko Prayitno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Widjaja Hendra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Masayoshi Kobayashi",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nobiru Adachi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nobuiku Chiba",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Benny Siswanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Abdullah Firman Wibowo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Benny Siswanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "I Gde Yadnya Kusuma",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "J Trust Co., Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 12203135210,
+      "percentage": 67.38
+    },
+    {
+      "name": "J Trust Asia Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 3381207875,
+      "percentage": 18.67
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2266502308,
+      "percentage": 12.52
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 251472416,
+      "percentage": 1.39
+    },
+    {
+      "name": "Raden Djoko Prayitno",
+      "type": "Direksi",
+      "shares": 2995300,
+      "percentage": 0.01
+    },
+    {
+      "name": "Ritsuo Fukadai",
+      "type": "Direksi",
+      "shares": 142800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Felix Istyono Hartadi Tiono",
+      "type": "Direksi",
+      "shares": 1463800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Helmi Arief Hidayat",
+      "type": "Direksi",
+      "shares": 3002300,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.294.537.093.248",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,60",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "19,11",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,33",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "25,29",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "20,13",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:29.043Z"
+}

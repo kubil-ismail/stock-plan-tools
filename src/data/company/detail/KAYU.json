@@ -1,0 +1,236 @@
+{
+  "company_name": "PT Darmi Bersaudara Tbk.",
+  "ticker": "KAYU",
+  "office_address": "Jl. Nginden Intan Barat V Blok C4/10 Surabaya, Jawa Timur, 60118",
+  "email": "corporate.secretary@darbewood.com",
+  "phone": "+62 31 596 7274",
+  "fax": "+62 31 596 7274",
+  "tax_id": "03.071.048.7-606.000",
+  "website": "https://www.darbewood.com",
+  "listing_date": "2019-07-04",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan dengan produk utama produk kayu olahan",
+    "business_summary": "Perusahaan bergerak di bidang Kayu.",
+    "business_tags": [
+      "Kayu"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 36,
+    "name": "Kayu",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Shifa Safina Basalamah",
+    "email": "corporate.secretary@darbewood.com",
+    "phone": "62315967274"
+  },
+  "directors": [
+    {
+      "name": "Nanang Sumartono H, Sh",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Fajar Dhayu Purandi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Abdul Haris Nofianto",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dolvy Elvianes",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dolvy Elvianes",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs. Nurtjahjo Heri Wibowo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ongky Aries Tyanto, S.h.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Darbe Putra Makmur",
+      "type": "Lebih dari 5%",
+      "shares": 249114659,
+      "percentage": 37.46
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 221742900,
+      "percentage": 33.34
+    },
+    {
+      "name": "PT Indymike Inti Investama",
+      "type": "Lebih dari 5%",
+      "shares": 5742320,
+      "percentage": 0.86
+    },
+    {
+      "name": "Nanang Sumartono",
+      "type": "Direksi",
+      "shares": 209600,
+      "percentage": 0.03
+    },
+    {
+      "name": "Rifky Wahyudi",
+      "type": "Direksi",
+      "shares": 93000,
+      "percentage": 0.01
+    },
+    {
+      "name": "PT Cladia Karya Investama",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "PT Marinay Berjaya Investama",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Abdul Haris Nofianto",
+      "type": "Komisaris",
+      "shares": 1800,
+      "percentage": 0
+    },
+    {
+      "name": "Dolvy Elvianes",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "-",
+      "business_type": "-",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Bambang, Sutjipto Ngumar & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Bambang, Sutjipto Ngumar & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Bambang, Sutjipto Ngumar & Rekan"
+    },
+    {
+      "name": "Bambang, Sutjipto Ngumar & Rekan"
+    },
+    {
+      "name": "Bambang, Sutjipto Ngumar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.970.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:04.055Z"
+}

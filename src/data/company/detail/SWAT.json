@@ -1,0 +1,223 @@
+{
+  "company_name": "PT Sriwahana Adityakarta Tbk.",
+  "ticker": "SWAT",
+  "office_address": "Jl. Raya Solo - Yogya Km. 16, Bendosari, Sawit, Boyolali. Jawa Tengah- Indonesia",
+  "email": "info@sriwahana.id",
+  "phone": "(62-271) 7687222, 7687170, 7687180",
+  "fax": "(62-271) 7687178",
+  "tax_id": "01.490.851.1-527.000",
+  "website": "https://www.sriwahana.id",
+  "listing_date": "2018-06-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bidang usaha Pabrik Lembaran Kertas Bergelombang (Corrugated Carton Sheet), Kotak Karton Bergelombang (Corrugated Carton Box), Paper Cone dan Paper Tube yang dibuat dari kertas daur ulang",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 37,
+    "name": "Kertas",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Guntur Abdurahman",
+    "email": "abdurahmankayujati1978@gmail.com",
+    "phone": "6285247355133"
+  },
+  "directors": [
+    {
+      "name": "Shio Alim Susanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yan Ginarsatwardi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nosijanto Setyo Suheri",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sri Hetty Turinani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tety Rosa Ria Indah",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nosijanto Setyo Suheri",
+      "position": "Ketua"
+    },
+    {
+      "name": "Erna Setyawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tety Rosa Ria Indah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sumber Makmur Lumintu",
+      "type": "Lebih dari 5%",
+      "shares": 2331450000,
+      "percentage": 77.22
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 663681000,
+      "percentage": 21.98
+    },
+    {
+      "name": "Shio Alim Susanto",
+      "type": "Direksi",
+      "shares": 23550000,
+      "percentage": 0.78
+    },
+    {
+      "name": "Yan Ginarsatwardi",
+      "type": "Direksi",
+      "shares": 519000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nosijanto Setyo Suheri",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sri Hetti Turinani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tety Rosa Ria Indah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mulia Cipta Teknologi",
+      "business_type": "Industri dan Perdagangan Umum",
+      "total_assets": 315093031903,
+      "ownership_percentage": 99.8
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "48.307.200.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "36,00",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:11.712Z"
+}

@@ -1,0 +1,227 @@
+{
+  "company_name": "PT Dyandra Media International Tbk.",
+  "ticker": "DYAN",
+  "office_address": "Gedung Dyandra Jalan Johar No. 9, Kel. Gondang Dia, Kec. Menteng, Jakarta Pusat",
+  "email": "corsec@dyandramedia.com",
+  "phone": "02153673111",
+  "fax": "02131996277",
+  "tax_id": "0024926057054000",
+  "website": "https://www.dyandramedia.com",
+  "listing_date": "2013-03-25",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Perindustrian",
+    "business_summary": "Perusahaan bergerak di bidang Jasa Pendukung Bisnis.",
+    "business_tags": [
+      "Jasa Pendukung Bisnis"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 27,
+    "name": "Jasa Pendukung Bisnis",
+    "industries_id": 14
+  },
+  "corporate_secretary": {
+    "name": "Mirna Gozal",
+    "email": "corsec@dyandramedia.com mirna@dyandra.com",
+    "phone": "02131996077 ext 110"
+  },
+  "directors": [
+    {
+      "name": "Daswar Marpaung",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ery Erlangga",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Riyanthi Handayani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lilik Oetomo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lo Stefanus",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Widi Krastawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Widi Krastawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Albertus Willy Runtunuwu",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yan Dhanang Minarhadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Teletransmedia",
+      "type": "Lebih dari 5%",
+      "shares": 2199357269,
+      "percentage": 51.47
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 994946397,
+      "percentage": 23.28
+    },
+    {
+      "name": "PT Yulie Sekuritas Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 297641300,
+      "percentage": 6.97
+    },
+    {
+      "name": "PT Mondial Investama Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 225104964,
+      "percentage": 5.27
+    },
+    {
+      "name": "Rina Ra. H. Radinal Maksum",
+      "type": "Lebih dari 5%",
+      "shares": 221118774,
+      "percentage": 5.17
+    },
+    {
+      "name": "Handi Irawan Djuwadi",
+      "type": "Lebih dari 5%",
+      "shares": 217098200,
+      "percentage": 5.08
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 116152375,
+      "percentage": 2.72
+    },
+    {
+      "name": "Lilik Oetomo",
+      "type": "Komisaris",
+      "shares": 345000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Daswar Marpaung",
+      "type": "Direksi",
+      "shares": 500000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Ery Erlangga",
+      "type": "Direksi",
+      "shares": 450000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Riyanthi Handayani",
+      "type": "Direksi",
+      "shares": 250000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dyandra Promosindo",
+      "business_type": "Penyelenggara Acara/event Organizer",
+      "total_assets": 542560291087,
+      "ownership_percentage": 99.56
+    },
+    {
+      "name": "PT Nusa Dua Indonesia",
+      "business_type": "Konvensi dan Eksibisi",
+      "total_assets": 464682113462,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Multi Utama",
+      "business_type": "Hotel",
+      "total_assets": 198084990104,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Dyamall Graha Utama",
+      "business_type": "Penunjang Acara",
+      "total_assets": 41425470741,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "358.928.999.436",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,75",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,60",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "5,68",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,35",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,49",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,70",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:16.835Z"
+}

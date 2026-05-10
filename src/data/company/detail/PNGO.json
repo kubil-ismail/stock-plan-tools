@@ -1,0 +1,246 @@
+{
+  "company_name": "PT Pinago Utama Tbk",
+  "ticker": "PNGO",
+  "office_address": "Rukan Exclusive Bukit Golf Mediterania Blok I No. 9. Rt. 004, Rw.003 Pantai Indah Kapuk. Kel. Kamal Muara, Kec. Penjaringan Jakarta Utara 14470",
+  "email": "corporate.secretary@pinagoutama.com",
+  "phone": "(021) 55966133, 55965869, 55965870",
+  "fax": "(021) 55965977",
+  "tax_id": "01.117.225.1-046.000",
+  "website": "https://www.pinagoutama.com",
+  "listing_date": "2020-08-31",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "perkebunan kelapa sawit dan karet beserta industri penunjangnya",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Karet, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Karet",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "karet",
+      "rubber",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Wandy",
+    "email": "corporate.secretary@pinagoutama.com",
+    "phone": "(0711) 825999, (021) 55966133"
+  },
+  "directors": [
+    {
+      "name": "Raymon Wahab",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Zulkifli",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Wandy",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hasan Tantri",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Khaidir Amypalupy",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Khaidir Amypalupy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Syaiful Anwar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dedik Budianta",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 194389600,
+      "percentage": 24.88
+    },
+    {
+      "name": "Tn. Wilson Sutantio",
+      "type": "Lebih dari 5%",
+      "shares": 177799800,
+      "percentage": 22.76
+    },
+    {
+      "name": "Tn. Hasan Tantri, M.eng",
+      "type": "Komisaris",
+      "shares": 152172200,
+      "percentage": 19.48
+    },
+    {
+      "name": "Tn. Charles Sutantio",
+      "type": "Lebih dari 5%",
+      "shares": 137596700,
+      "percentage": 17.61
+    },
+    {
+      "name": "Tn. Peter Unggul Sutantio",
+      "type": "Lebih dari 5%",
+      "shares": 119286800,
+      "percentage": 15.27
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tn. Wandy",
+      "type": "Direksi",
+      "shares": 3400,
+      "percentage": 0
+    },
+    {
+      "name": "Tn. Zulkifli",
+      "type": "Direksi",
+      "shares": 1500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sriwijaya Nusantara Sejahtera",
+      "business_type": "Perkebunan",
+      "total_assets": 349395406842,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Musi Andalan Sumatera",
+      "business_type": "Perkebunan",
+      "total_assets": 170795485452,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Hamparan Mutiara Hijau",
+      "business_type": "Perkebunan",
+      "total_assets": 79019441829,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.734.375.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,48",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "17,15",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "17,15",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "106,27",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,46",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "16,40",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:40.717Z"
+}

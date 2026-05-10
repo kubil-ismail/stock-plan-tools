@@ -1,0 +1,301 @@
+{
+  "company_name": "Wismilak Inti Makmur Tbk",
+  "ticker": "WIIM",
+  "office_address": "Jl. Buntaran No. 9a Kel. Manukan Wetan Kec. Tandes, Surabaya 60185",
+  "email": "information@wismilak.com",
+  "phone": "(031) 295 2899",
+  "fax": "(031) 295 2800",
+  "tax_id": "01.663.957.7-054.000",
+  "website": "https://www.wismilak.com",
+  "listing_date": "2012-12-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Produsen filter rokok dan penyertaan pada Entitas Anak yang berhubungan dengan industri rokok.",
+    "business_summary": "Perusahaan bergerak di bidang Rokok.",
+    "business_tags": [
+      "Rokok"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 31,
+    "name": "Rokok",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 55,
+    "name": "Rokok"
+  },
+  "sub_industry": {
+    "id": 92,
+    "name": "Rokok",
+    "industries_id": 55
+  },
+  "corporate_secretary": {
+    "name": "Surjanto Yasaputera",
+    "email": "surjanto@wismilak.com",
+    "phone": "0312952899"
+  },
+  "directors": [
+    {
+      "name": "Ronald Walla",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Krisna Tanimihardja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sugito Winarko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lucas Firman Djajanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Surjanto Yasaputera",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Erni Lisawati",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Indahtati Widjajadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Stephen Walla",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edy Sugito",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Sutrio Darmadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Daniel Sutrio Darmadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Marco Hadisurya Candra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yap Stevanus Supriyadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 679089023,
+      "percentage": 32.34
+    },
+    {
+      "name": "Indahtati Widjajadi",
+      "type": "Komisaris",
+      "shares": 535054665,
+      "percentage": 25.48
+    },
+    {
+      "name": "Ronald Walla",
+      "type": "Direksi",
+      "shares": 319150011,
+      "percentage": 15.2
+    },
+    {
+      "name": "Stephen Walla",
+      "type": "Komisaris",
+      "shares": 318762111,
+      "percentage": 15.18
+    },
+    {
+      "name": "Sugito Winarko",
+      "type": "Direksi",
+      "shares": 153387230,
+      "percentage": 7.3
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 81460720,
+      "percentage": 3.88
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 12970000,
+      "percentage": 0.62
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 1827503929896,
+      "ownership_percentage": 99.86
+    },
+    {
+      "name": "PT Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 1802215043728,
+      "ownership_percentage": 99.86
+    },
+    {
+      "name": "PT Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 1798430730674,
+      "ownership_percentage": 99.86
+    },
+    {
+      "name": "PT Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 1757351637800,
+      "ownership_percentage": 99.86
+    },
+    {
+      "name": "PT Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 1696969313811,
+      "ownership_percentage": 99.86
+    },
+    {
+      "name": "PT Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 1696969313811,
+      "ownership_percentage": 99.86
+    },
+    {
+      "name": "PT Gawih Jaya",
+      "business_type": "Pemasaran dan Distribusi",
+      "total_assets": 577600228302,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Gawih Jaya",
+      "business_type": "Pemasaran dan Distribusi",
+      "total_assets": 553374299298,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Gawih Jaya",
+      "business_type": "Pemasaran dan Distribusi",
+      "total_assets": 507127460335,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Gawih Jaya",
+      "business_type": "Pemasaran dan Distribusi",
+      "total_assets": 507127460335,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Gawih Jaya",
+      "business_type": "Pemasaran dan Distribusi",
+      "total_assets": 491671900899,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Gawih Jaya",
+      "business_type": "Pemasaran dan Distribusi",
+      "total_assets": 472821231801,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Galan Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 7895270243,
+      "ownership_percentage": 99.74
+    },
+    {
+      "name": "PT Galan Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 7855815701,
+      "ownership_percentage": 99.74
+    },
+    {
+      "name": "PT Galan Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 7855815701,
+      "ownership_percentage": 99.74
+    },
+    {
+      "name": "PT Galan Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 7656308652,
+      "ownership_percentage": 99.74
+    },
+    {
+      "name": "PT Galan Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 7618935914,
+      "ownership_percentage": 99.74
+    },
+    {
+      "name": "PT Galan Gelora Djaja",
+      "business_type": "Industri Rokok",
+      "total_assets": 7557402043,
+      "ownership_percentage": 99.74
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.000.259.512.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,18",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,43",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "39,07",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "142,50",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,78",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "21,63",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:36.868Z"
+}

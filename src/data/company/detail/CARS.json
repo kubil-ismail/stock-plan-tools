@@ -1,0 +1,256 @@
+{
+  "company_name": "PT Industri dan Perdagangan Bintraco Dharma Tbk",
+  "ticker": "CARS",
+  "office_address": "Sunburst Cbd Lot II No. 3 Bsd City, Kota Tangerang Selatan 15321",
+  "email": "investor.relation@bintracodharma.com",
+  "phone": "(+6221) 22356800",
+  "fax": "(+6221) 22356801",
+  "tax_id": "01.144.107.8-046.000",
+  "website": "https://www.bintracodharma.com",
+  "listing_date": "2017-04-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan, Diler Resmi, Jasa-Jasatermasuk Jasa Pembiayaan yang Berhubungan dengan Kendaraan Bermotor melalui Entitas Anak danJasa Konsultasi Manajemen",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Otomotif, Keuangan.",
+    "business_tags": [
+      "Teknologi",
+      "Otomotif",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 90,
+    "name": "Ritel Otomotif",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Lina M. Ibrahim",
+    "email": "lina.marlina@bintracodharma.com",
+    "phone": "(021) 22356800"
+  },
+  "directors": [
+    {
+      "name": "Benny Redjo Setyono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hartono Dinata",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Paulus Totok Lusida",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Darmawan Widjaja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Himawan Gunadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Darmawan Widjaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Himawan Gunadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Freddy Karyadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 13837030123,
+      "percentage": 92.24
+    },
+    {
+      "name": "Trinugraha Thohir Harmoni PT",
+      "type": "Lebih dari 5%",
+      "shares": 750962700,
+      "percentage": 5.01
+    },
+    {
+      "name": "Paulus Totok Lusida",
+      "type": "Komisaris",
+      "shares": 400000000,
+      "percentage": 2.67
+    },
+    {
+      "name": "Benny Redjo Setyono",
+      "type": "Direksi",
+      "shares": 10958047,
+      "percentage": 0.07
+    },
+    {
+      "name": "Hartono Dinata",
+      "type": "Direksi",
+      "shares": 1049130,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Darmawan Widjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Himawan Gunadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT New Ratna Motor",
+      "business_type": "Otomotif/ Automotive",
+      "total_assets": 2394690,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bahtera Multi Niaga",
+      "business_type": "Otomotif/ Automotive",
+      "total_assets": 607621,
+      "ownership_percentage": 66.7
+    },
+    {
+      "name": "PT Andalan Finance Indonesia",
+      "business_type": "Keuangan/ Finance",
+      "total_assets": 476380,
+      "ownership_percentage": 97.69
+    },
+    {
+      "name": "PT Bangun Rahmat Sejahtera",
+      "business_type": "Otomotif/ Automotive",
+      "total_assets": 51896,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Meka Adipratama",
+      "business_type": "Otomotif/ Automotive",
+      "total_assets": 43396,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gema Adipradana Indah",
+      "business_type": "Otomotif/ Automotive",
+      "total_assets": 25062,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semarang Diamond Citra",
+      "business_type": "Otomotif/ Automotive",
+      "total_assets": 10050,
+      "ownership_percentage": 98.03
+    },
+    {
+      "name": "PT Carsworld Digital Indonesia",
+      "business_type": "Platfom Digital/digital Flatform",
+      "total_assets": 4116,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Aria Kanaka & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Aria Kanaka & Rekan"
+    },
+    {
+      "name": "Aria Kanaka & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.395.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,06",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,56",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "27,48",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "6,74",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,15",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "22,13",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:53.547Z"
+}

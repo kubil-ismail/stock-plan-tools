@@ -1,0 +1,401 @@
+{
+  "company_name": "PT Kencana Energi Lestari Tbk.",
+  "ticker": "KEEN",
+  "office_address": "Kencana Tower Lantai 11, Kebon Jeruk Business Park, Jl. Raya Meruya Ilir No. 88, Jakarta Barat 11620, Indonesia",
+  "email": "corporate.secretary@kencanaenergy.com",
+  "phone": "+62.21.5890.0791",
+  "fax": "+62.21.386.7686",
+  "tax_id": "02.750.932.2-086.000",
+  "website": "https://www.kencanaenergy.com",
+  "listing_date": "2019-09-02",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Menjalankan usaha jasa dan ketenagalistrikan melalui anak perusahaan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 34,
+    "name": "Utilitas",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 57,
+    "name": "Utilitas Listrik"
+  },
+  "sub_industry": {
+    "id": 100,
+    "name": "Utilitas Listrik",
+    "industries_id": 57
+  },
+  "corporate_secretary": {
+    "name": "Diana Limardi",
+    "email": "corporate.secretary@kencanaenergy.com",
+    "phone": "021 - 58900791"
+  },
+  "directors": [
+    {
+      "name": "Wilson Maknawi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rusmin Cahyadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Karel Sampe Pajung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Giat Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Takasawa Kazunori",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Albert Maknawi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sim Idrus Munandar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Freenyan Liwang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jeanny Maknawi Joe",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yamaguchi Masahiro",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "H. Budi Ruseno",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tommy Arianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sim Idrus Munandar",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Paramata Indah Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 1110920000,
+      "percentage": 30.3
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 978336724,
+      "percentage": 26.69
+    },
+    {
+      "name": "Tepco Renewable Power, Incorporated",
+      "type": "Lebih dari 5%",
+      "shares": 916578200,
+      "percentage": 25
+    },
+    {
+      "name": "Henry Maknawi",
+      "type": "Lebih dari 5%",
+      "shares": 404114413,
+      "percentage": 11.02
+    },
+    {
+      "name": "Jeanny Maknawi Joe",
+      "type": "Komisaris",
+      "shares": 183315763,
+      "percentage": 5
+    },
+    {
+      "name": "Rusmin Cahyadi",
+      "type": "Direksi",
+      "shares": 41393400,
+      "percentage": 1.13
+    },
+    {
+      "name": "Giat Widjaja",
+      "type": "Direksi",
+      "shares": 31654000,
+      "percentage": 0.86
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bangun Tirta Lestari",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 130684090,
+      "ownership_percentage": 98.4
+    },
+    {
+      "name": "PT Energy Sakti Sentosa",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 107191373,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Sumatra Energi Lestari",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 53858072,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Nagata Dinamika Hidro Madong",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 34805694,
+      "ownership_percentage": 74.42
+    },
+    {
+      "name": "PT Tiara Tirta Energi",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 10599525,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Sumber Tirta Energi",
+      "business_type": "Entitas Induk",
+      "total_assets": 6041403,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bangun Hidro Energi",
+      "business_type": "Entitas Induk",
+      "total_assets": 4426618,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Modern Kencana Makmur",
+      "business_type": "Entitas Induk",
+      "total_assets": 3836451,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Modal Khas Indonesia",
+      "business_type": "Entitas Induk",
+      "total_assets": 2940136,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Paratama Investama Jaya",
+      "business_type": "Entitas Induk",
+      "total_assets": 2568261,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Nusantara Energi Sakti",
+      "business_type": "Entitas Induk",
+      "total_assets": 1933843,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Kencana Energi Solar",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 1885157,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Kencana Energi Matahari",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 1241144,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Energi Angin Indonesia",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 602189,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Partogi Tirta Energi",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 479501,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sumber Bangun Pertiwi",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 185621,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Energi Angin Mandiri",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 181792,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Partogi Daya Tirta",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 178647,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Celebes Energi Lestari",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 136122,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Citra Energi Borneo",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 136122,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Kencana Borneo Energi",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 136122,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Nusa Energi Lestari",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 136122,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Persada Hidro Lestari",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 119458,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Tiara Tirta Sentosa",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 92810,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Alam Energi Pratama",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 18562,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Sumber Hidro Sentosa",
+      "business_type": "Pemasokan Kelistrikan",
+      "total_assets": 18562,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Kencana Energi Sejahtera",
+      "business_type": "Entitas Induk",
+      "total_assets": 4640,
+      "ownership_percentage": 99.87
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.299.681.250.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,37",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "16,02",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "16,83",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,98",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,26",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "15,61",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:19.091Z"
+}

@@ -1,0 +1,357 @@
+{
+  "company_name": "Eagle High Plantations Tbk",
+  "ticker": "BWPT",
+  "office_address": "Rajawali Place Lt. 28, Jl. Hr Rasuna Said Kav. B/4, Rt 003/rw 07, Kel. Setiabudi, Kec. Setiabudi, Jakarta Selatan 12910",
+  "email": "corsec@eaglehighplantations.com",
+  "phone": "(021) 8665 8828",
+  "fax": "-",
+  "tax_id": "01.882.908.5-054.000",
+  "website": "https://www.eaglehighplantations.com",
+  "listing_date": "2009-10-27",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Agriculture Plantation",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Rizka Dewi Sulistyorini",
+    "email": "corsec@eaglehighplantations.com",
+    "phone": "021- 8665 8828"
+  },
+  "directors": [
+    {
+      "name": "Henderi Djunaidi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Haryono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yeoh Lean Khai",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Choong Kam Loong",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Abed Nego",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Muhammad Prianto Madelar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yohanes Wahyu Saronto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ahmad Nizam Bin Hamid",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Razuwan Bin Che Rose",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Erwin Sudjono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yohanes Wahyu Saronto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Riniek Winarsih",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bastian Purnama",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Rajawali Capital Internasional",
+      "type": "Lebih dari 5%",
+      "shares": 11886121516,
+      "percentage": 37.7
+    },
+    {
+      "name": "Fic Properties Sdn Bhd",
+      "type": "Lebih dari 5%",
+      "shares": 11664357670,
+      "percentage": 37
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7559155714,
+      "percentage": 23.98
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 402922800,
+      "percentage": 1.28
+    },
+    {
+      "name": "Henderi Djunaidi",
+      "type": "Direksi",
+      "shares": 10000000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Yeoh Lean Khai",
+      "type": "Direksi",
+      "shares": 2683300,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Choong Kam Loong",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Green Eagle Holdings Pte. Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3075476,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jaya Mandiri Sukses",
+      "business_type": "Perkebunan dan Pengolahan Minyak Kelapa Sawit dan Bulking",
+      "total_assets": 2276694,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bumilanggeng Perdanatrada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1684445,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Suryabumi Tunggal Perkasa",
+      "business_type": "Perkebunan dan Pengolahan Minyak Kelapa Sawit",
+      "total_assets": 1529742,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bumihutani Lestari",
+      "business_type": "Perkebunan dan Pengolahan Minyak Kelapa Sawit dan Bulking",
+      "total_assets": 1332842,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tandan Sawita Papua",
+      "business_type": "Perkebunan dan Pengolahan Minyak Kelapa Sawit",
+      "total_assets": 1141326,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Singaland Asetama",
+      "business_type": "Perkebunan Kelapa Sawit dan Bulking",
+      "total_assets": 986837,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Pesonalintas Surasejati",
+      "business_type": "Perkebunan dan Pengolahan Minyak Kelapa Sawit",
+      "total_assets": 981171,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Adhyaksa Dharmasatya",
+      "business_type": "Perkebunan dan Pengolahan Minyak Kelapa Sawit",
+      "total_assets": 858029,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Varia Mitra Andalan",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 410900,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Satria Manunggal Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 379289,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Manunggal Adi Jaya",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 303335,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "Green Eagle Singapore Pte. Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 270852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multikarya Sawit Prima",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 245581,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Papua Sawita Raya",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 220634,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Karyapratama Agrisejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 89195,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Intaran Surya Agri",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 61310,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Hamparan Unggul Mandiri",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 41436,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Saka Kencana Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 40202,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sawita Persada Nusantara",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 30355,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Indah Permai Sawita",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 26549,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Palm Agro Katulistiwa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 17036,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sukses Hijau Mandiri",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 11379,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Seguri Serasau Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 0,
+      "ownership_percentage": 95
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.224.388.994.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,61",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "3,17",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "13,48",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "103,33",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,27",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "15,86",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:48.059Z"
+}

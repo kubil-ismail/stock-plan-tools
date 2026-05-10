@@ -9,7 +9,7 @@ import { Autocomplete } from "@/components/autocomplete";
 import { BanknoteArrowDown, BanknoteArrowUp } from "lucide-react";
 import { useRef } from "react";
 import { useFormik } from "formik";
-import companyList from "@/data/company.json";
+import companyList from "@/data/archive/company.json";
 import { ResultData } from "../kalkulator_avarage.view";
 
 const validationSchema = yup.object({

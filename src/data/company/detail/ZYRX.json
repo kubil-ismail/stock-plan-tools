@@ -1,0 +1,182 @@
+{
+  "company_name": "PT Zyrexindo Mandiri Buana Tbk",
+  "ticker": "ZYRX",
+  "office_address": "Jl. Daan Mogot No. 59 Tanjung Duren Utara, Grogol, Petamburan Jakarta Barat 11470",
+  "email": "corsec@zyrex.com",
+  "phone": "(021) 5653311",
+  "fax": "(021)5653322",
+  "tax_id": "01.771.960.0-038.000",
+  "website": "http://zyrex.com",
+  "listing_date": "2021-03-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang komputer dan jasa komputer",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 23,
+    "name": "Perangkat Keras & Peralatan Teknologi",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 43,
+    "name": "Perangkat Komputer"
+  },
+  "sub_industry": {
+    "id": 68,
+    "name": "Perangkat Komputer",
+    "industries_id": 43
+  },
+  "corporate_secretary": {
+    "name": "Evan Jordan",
+    "email": "corsec@zyrex.com",
+    "phone": "0215653311"
+  },
+  "directors": [
+    {
+      "name": "Timothy Siddik, Shu",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Antoni",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nursam",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Widya Kumala Sulistyo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Wijaya Subekti",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Wijaya Subekti",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tony",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Timothy Siddik, Shu",
+      "type": "Direksi",
+      "shares": 752076700,
+      "percentage": 56.41
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 331257856,
+      "percentage": 24.84
+    },
+    {
+      "name": "Colleen Siddik, Shu",
+      "type": "Lebih dari 5%",
+      "shares": 250000000,
+      "percentage": 18.75
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Drs. Bambang Sudaryono & Rekan"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Johannes Juara & Rekan"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "192.000.176.064",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "1,36",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "1,36",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "26,09",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,69",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "12,65",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:57.264Z"
+}

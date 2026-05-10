@@ -1,0 +1,174 @@
+{
+  "company_name": "PT Quantum Clovera Investama Tbk.",
+  "ticker": "KREN",
+  "office_address": "Tower B, 9th Floor 18 Parc Place SCBD Jl. Jend Sudirman Kav 52-53 Jakarta 12190 Indonesia",
+  "email": "corsec@quantumclovera.com",
+  "phone": "+62 21 515 2889",
+  "fax": "+62 21 515 5280",
+  "tax_id": "01.938.029.4-054.000",
+  "website": "https://www.quantumclovera.com",
+  "listing_date": "2002-06-28",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Holding Company",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Indera Hidayat",
+    "email": "corsec@kresnainvestments.com",
+    "phone": "021-515 2889"
+  },
+  "directors": [
+    {
+      "name": "Budi Santoso Asmadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Indera Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Surya Susilo",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dewi Kartini Laya",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 12365380166,
+      "percentage": 67.91
+    },
+    {
+      "name": "PT Kresna Prima Invest",
+      "type": "Lebih dari 5%",
+      "shares": 2652400334,
+      "percentage": 14.57
+    },
+    {
+      "name": "PT Asuransi Jiwa Kresna",
+      "type": "Lebih dari 5%",
+      "shares": 2506467300,
+      "percentage": 13.77
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 680000000,
+      "percentage": 3.73
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 4222300,
+      "percentage": 0.02
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Graha Kreasi Sejahtera",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 286847,
+      "ownership_percentage": 47.56
+    },
+    {
+      "name": "PT Kencana Usaha Kreatif",
+      "business_type": "Kegiatan Holding",
+      "total_assets": 94826,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kresna Sekuritas",
+      "business_type": "Perusahaan Efek",
+      "total_assets": 58368,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kresna Asset Management",
+      "business_type": "Perusahaan Manajer Investasi",
+      "total_assets": 19378,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sejahtera Cipta Primaguna",
+      "business_type": "Perdagangan",
+      "total_assets": 11165,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "327.752.461.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "15,79",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "60,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,88",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "20,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:44.496Z"
+}

@@ -1,0 +1,200 @@
+{
+  "company_name": "Duta Anggada Realty Tbk",
+  "ticker": "DART",
+  "office_address": "Chase Plaza Lt. 21, Jl. Jend. Sudirman Kav. 21, Jakarta 12920",
+  "email": "aka@dutaanggada.com",
+  "phone": "520 8000",
+  "fax": "520 8100",
+  "tax_id": "0013 6601 5405 4000",
+  "website": "https://www.dutaanggadarealty.com",
+  "listing_date": "1990-05-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Energi.",
+    "business_tags": [
+      "Properti",
+      "Energi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Aka Permata",
+    "email": "aka@dutaanggada.com",
+    "phone": "(021) 520 8000"
+  },
+  "directors": [
+    {
+      "name": "Ventje Chandraputra Suardana",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Randy Angkosubroto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Widyanto Taufiq",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hartadi Angkosubroto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Johanna Zakaria",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hadi Siswanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hadi Siswanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Franky Tanril",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ananda Surja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hartadi Angkosubroto",
+      "type": "Komisaris",
+      "shares": 1465409134,
+      "percentage": 46.65
+    },
+    {
+      "name": "PT Duta Anggada",
+      "type": "Lebih dari 5%",
+      "shares": 1411887848,
+      "percentage": 44.94
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 235605228,
+      "percentage": 7.5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 28488752,
+      "percentage": 0.91
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Premiera Anggada",
+      "business_type": "Pengembang Properti",
+      "total_assets": 85867420,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Banten Energy International",
+      "business_type": "Pengembang Properti",
+      "total_assets": 49074268,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Grahabakti Abadi",
+      "business_type": "Pengembang Properti",
+      "total_assets": 11264382,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Duta Buana Permai Development",
+      "business_type": "Pengembang Properti",
+      "total_assets": 2107909,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Duta Hotel Manajemen",
+      "business_type": "Pariwisata Perhotelan",
+      "total_assets": 731000,
+      "ownership_percentage": 99.98
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "505.763.944.882",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,80",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,85",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "4,27",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "12,14",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "17,37",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:42.692Z"
+}

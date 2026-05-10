@@ -1,0 +1,210 @@
+{
+  "company_name": "Argha Karya Prima Ind. Tbk",
+  "ticker": "AKPI",
+  "office_address": "Gedung Prosperity Tower, Lantai 51, Kawasan District 8, SCBD Lot. 28, Jl. Jend. Sudirman Kav. 52-53, Senayan, Kebayoran Baru, Jakarta Selatan",
+  "email": "theo@arghakarya.com",
+  "phone": "021-8572707",
+  "fax": "021-87902024, 8764155",
+  "tax_id": "01.000.863.9-054.000",
+  "website": "http://www.arghakarya.com",
+  "listing_date": "1992-12-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Plastics and Packaging",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Khusus.",
+    "business_tags": [
+      "Barang Kimia Khusus"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 13,
+    "name": "Barang Kimia Khusus",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Tjoe Mun Lie",
+    "email": "corporate.arghakarya@arghakarya.com",
+    "phone": "021-8752707"
+  },
+  "directors": [
+    {
+      "name": "Wilson Pribadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jeyson Pribadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jimmy Tjahjanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Elius Pribadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dendi Wiraputra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Brenna Florence Pribadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Widjojo Budiarto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Andry Pribadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Henry Liem",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Amirsyah Risjad",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Folmer Adolf Hutapea",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Folmer Adolf Hutapea",
+      "position": "Ketua"
+    },
+    {
+      "name": "Benito Sutarna",
+      "position": "Anggota"
+    },
+    {
+      "name": "Raymond Djaja Atmadja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tiara Intimahkota",
+      "type": "Lebih dari 5%",
+      "shares": 221072988,
+      "percentage": 36.11
+    },
+    {
+      "name": "PT Prismatama Nugraha",
+      "type": "Lebih dari 5%",
+      "shares": 167029008,
+      "percentage": 27.28
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 105875572,
+      "percentage": 17.29
+    },
+    {
+      "name": "PT Nawa Panduta",
+      "type": "Lebih dari 5%",
+      "shares": 92133534,
+      "percentage": 15.05
+    },
+    {
+      "name": "Henry Liem",
+      "type": "Komisaris",
+      "shares": 13835059,
+      "percentage": 2.26
+    },
+    {
+      "name": "Amirsyah Risjad",
+      "type": "Komisaris",
+      "shares": 10500062,
+      "percentage": 1.72
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1801777,
+      "percentage": 0.29
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "International Resources (h.k.) Ltd",
+      "business_type": "Perdagangan",
+      "total_assets": 253581,
+      "ownership_percentage": 98
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "330.613.920.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,88",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,93",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "6,03",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "9,17",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,83",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "6,03",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:05.585Z"
+}

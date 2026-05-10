@@ -1,0 +1,379 @@
+{
+  "company_name": "PT Sumber Tani Agung Resources Tbk",
+  "ticker": "STAA",
+  "office_address": "Jl. Pangeran Diponegoro No. 51 Medan 20152, Sumatra Utara, Indonesia",
+  "email": "corporate.secretary@sta.co.id",
+  "phone": "+62 61 415 6262",
+  "fax": "+62 61 414 8866",
+  "tax_id": "01.597.585.7-123.000",
+  "website": "http://sta.co.id",
+  "listing_date": "2022-03-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perkebunan kelapa sawit dan industri pengolahan kelapa sawit baik secara langsung dan/atau Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Juliani Chandra",
+    "email": "corporate.secretary@sta.co.id",
+    "phone": "+62614156262"
+  },
+  "directors": [
+    {
+      "name": "Mosfly Ang",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Chi Yin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Go Kok Siang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bie Jan Jusri",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nharong Somchit",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suwandi Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Riswan Wijaya",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Keng Tong",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lele Tanjung",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Robby Sumargo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rudi Ngadiman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Julian Christopher Hill",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Robby Sumargo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rudi Ngadiman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nova Fernita Samosir",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Malibu Indah Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 4000610106,
+      "percentage": 36.69
+    },
+    {
+      "name": "PT Kedaton Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 3147542660,
+      "percentage": 28.87
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3069858160,
+      "percentage": 28.16
+    },
+    {
+      "name": "PT Pelita Sukses Sejati",
+      "type": "Lebih dari 5%",
+      "shares": 681948774,
+      "percentage": 6.25
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 1943900,
+      "percentage": 0.02
+    },
+    {
+      "name": "Mosfly Ang",
+      "type": "Direksi",
+      "shares": 1200000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Go Kok Siang",
+      "type": "Direksi",
+      "shares": 269000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sumber Tani Agung Oils And Fats",
+      "business_type": "Perdagangan dan Industri Pengolahan Kelapa Sawit",
+      "total_assets": 1279717,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Tani Agung",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1240691,
+      "ownership_percentage": 72.33
+    },
+    {
+      "name": "PT Transpacific Agro Industry",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 874781,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karya Agung Sawita",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 718234,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Flora Nusa Perdana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 709711,
+      "ownership_percentage": 72.33
+    },
+    {
+      "name": "PT Karyasukses Utamaprima",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 703905,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Madina Agrolestari",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 668401,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Tantahan Panduhup Asi",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 389617,
+      "ownership_percentage": 72.61
+    },
+    {
+      "name": "PT Hanuraba Sawit Kencana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 384860,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Putra Makmur Lestari",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 337131,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumatera Candi Kencana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 288668,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Paten Alam Lestari",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 176781,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "Sta62 Trading Pte.ltd",
+      "business_type": "Perdagangan",
+      "total_assets": 158464,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dipta Agro Lestari",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 85139,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Sawit Agro Lestari",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 55821,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Agri Andalan",
+      "business_type": "Perkebunan",
+      "total_assets": 45419,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Putra Borneo Sejati",
+      "business_type": "Perkebunan",
+      "total_assets": 661,
+      "ownership_percentage": 72.36
+    },
+    {
+      "name": "PT Karya Serasi Jaya Abadi",
+      "business_type": "Pabrik Kelapa Sawit",
+      "total_assets": 549,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Sumber Andalan",
+      "business_type": "Perkebunan",
+      "total_assets": 80,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "13.411.148.298.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,82",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,07",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "12,55",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "43,64",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,25",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,23",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:01.715Z"
+}

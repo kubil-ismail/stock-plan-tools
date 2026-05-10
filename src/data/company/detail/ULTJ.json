@@ -1,0 +1,207 @@
+{
+  "company_name": "PT Ultrajaya Milk Industry & Trading Company Tbk",
+  "ticker": "ULTJ",
+  "office_address": "Jalan Raya Cimareme 131, Cimareme, Ngamprah, Kab. Bandung Barat, Jawa Barat 40552, Indonesia",
+  "email": "corsec@ultrajaya.co.id",
+  "phone": "(022) 86700700",
+  "fax": "(022) 86700777",
+  "tax_id": "0011185659054000",
+  "website": "https://www.ultrajaya.co.id",
+  "listing_date": "1990-07-02",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Makanan & Minuman",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 81,
+    "name": "Produk Susu Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Helina Widayani",
+    "email": "helina.widayani@ultrajaya.co.id",
+    "phone": "022-86700700"
+  },
+  "directors": [
+    {
+      "name": "Sabana Prawirawidjaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Samudera Prawirawidjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Jutianto Isnandar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Supiandi Prawirawidjaja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sony Devano Se Ak., M Ak.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suhendra Prawirawidjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Evita Puspitasari",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Evita Puspitasari",
+      "position": "Ketua"
+    },
+    {
+      "name": "Said Aryonindito",
+      "position": "Anggota"
+    },
+    {
+      "name": "Saskia Salmana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sabana Prawirawidjaja",
+      "type": "Direksi",
+      "shares": 5528219300,
+      "percentage": 53.17
+    },
+    {
+      "name": "PT Prawirawidjaja Prakarsa",
+      "type": "Lebih dari 5%",
+      "shares": 2472304260,
+      "percentage": 23.78
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1486273540,
+      "percentage": 14.29
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 385167740,
+      "percentage": 3.7
+    },
+    {
+      "name": "Samudera Prawirawidjaja",
+      "type": "Direksi",
+      "shares": 375000000,
+      "percentage": 3.61
+    },
+    {
+      "name": "Suhendra Prawirawidjaja",
+      "type": "Komisaris",
+      "shares": 151210360,
+      "percentage": 1.45
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Ultra Sumatera Dairy Farm",
+      "business_type": "Pertanian, Peternakan, Agroindustry, dan Perdagangan Ekspor dan Impor",
+      "total_assets": 646088,
+      "ownership_percentage": 69.36
+    },
+    {
+      "name": "Nikos Distribution Indonesia",
+      "business_type": "Perdagangan, Angkutan dan Jasa",
+      "total_assets": 236860,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Ultra Peternakan Bandung Selatan",
+      "business_type": "Pertanian dan Perdagangan",
+      "total_assets": 150327,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Tirta Talaga Jaya",
+      "business_type": "Pengelolaan Air",
+      "total_assets": 6442,
+      "ownership_percentage": 85
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "17.572.916.088.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,96",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "7,74",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "8,11",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "17,22",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,31",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "11,50",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:10.554Z"
+}

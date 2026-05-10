@@ -1,0 +1,188 @@
+{
+  "company_name": "PT Capri Nusa Satu Properti Tbk.",
+  "ticker": "CPRI",
+  "office_address": "Multipiranti Graha Building, Lantai 4 Jl. Raden Inten II No. 2, Buaran, Duren Sawit Jakarta Timur, 13440 - Indonesia",
+  "email": "corsec@caprinusa.com",
+  "phone": "(021) 8606 151",
+  "fax": "(021) 8632 822",
+  "tax_id": "03.171.557.6-008.000",
+  "website": "https://www.caprinusa.com",
+  "listing_date": "2019-04-11",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Menjalankan usaha dalam bidang properti",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Makanan & Minuman.",
+    "business_tags": [
+      "Properti",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Anyo Yusrini",
+    "email": "corsec@caprinusa.com",
+    "phone": "021-8606 151/"
+  },
+  "directors": [
+    {
+      "name": "Jansen Surbakti",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Riko Cahyo Pribadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arif Widi Widayat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Abdullah Lewis Hidayat",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hamdi Hassyarbaini",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tugas Dwi Apriyanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hamdi Hassyarbaini",
+      "position": "Ketua"
+    },
+    {
+      "name": "Andryan Esra Sembiring",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jeffry Siahaan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Rdw Global Investasi D/h PT Indigo Super Mekani",
+      "type": "Lebih dari 5%",
+      "shares": 1732500000,
+      "percentage": 71.2
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 683379958,
+      "percentage": 28.08
+    },
+    {
+      "name": "Abdullah Lewis Hidayat",
+      "type": "Komisaris",
+      "shares": 8750000,
+      "percentage": 0.36
+    },
+    {
+      "name": "Ir. Rayes Sembiring",
+      "type": "Komisaris",
+      "shares": 8750000,
+      "percentage": 0.36
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jansen Surbakti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Capri Nusa Satu Development",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa, Perdagangan Besar Makanan dan Minuman, Aktivitas Persewaan dan Sewa Guna Usaha.",
+      "total_assets": 102976316274,
+      "ownership_percentage": 99.45
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "121.668.997.900",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:26.399Z"
+}

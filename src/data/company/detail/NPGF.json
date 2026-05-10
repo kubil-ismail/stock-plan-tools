@@ -1,0 +1,209 @@
+{
+  "company_name": "PT Nusa Palapa Gemilang Tbk",
+  "ticker": "NPGF",
+  "office_address": "Jl. Raya Surabaya Mojokerto Km 39 Desa Bakung Temenggungan Kecamatan Balongbendo Sidoarjo, Jawa Timur",
+  "email": "corporatesecretary@ptnpg.com",
+  "phone": "(031)8982405",
+  "fax": "(031) 8982405",
+  "tax_id": "01.782.179.4-641.000",
+  "website": "https://www.ptnpg.com",
+  "listing_date": "2021-04-14",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Produksi, Pemasaran dan Perdagangan Pupuk Buatan Majemuk Hara Makro Primer",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Pertanian.",
+    "business_tags": [
+      "Barang Kimia Pertanian"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 14,
+    "name": "Barang Kimia Pertanian",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Hendriawan",
+    "email": "corporatesecretary@ptnpg.com",
+    "phone": "(031) 3940440"
+  },
+  "directors": [
+    {
+      "name": "Ujang Suparman",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edy Kurniawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Prim Galawira Atmaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Han Galaputra Atmaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Kurniawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Agus Susanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agus Susanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yudi Koswinarko",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tiara Dewi Fortuna",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Atmaja Makmur Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 1814722048,
+      "percentage": 56.01
+    },
+    {
+      "name": "PT Nebula Persada Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 777466592,
+      "percentage": 23.99
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 644976300,
+      "percentage": 20
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "236.537.216.320",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,14",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,17",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "22,95",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "167,86",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,00",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:49.682Z"
+}

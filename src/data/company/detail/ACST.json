@@ -1,0 +1,461 @@
+{
+  "company_name": "PT Acset Indonusa Tbk.",
+  "ticker": "ACST",
+  "office_address": "Acset Building, Jalan Majapahit No. 26, Kelurahan Petojo Selatan, Kecamatan Gambir, Jakarta 10160",
+  "email": "corporate.secretary@acset.co",
+  "phone": "(021) 3511961",
+  "fax": "(021) 3441413",
+  "tax_id": "01.709.626.4-054.000",
+  "website": "https://www.acset.co",
+  "listing_date": "2013-06-24",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi untuk bangunan komersial dan infrastruktur",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Kadek Ratih Paramita Absari",
+    "email": "corporate.secretary@acset.co",
+    "phone": "0213511961"
+  },
+  "directors": [
+    {
+      "name": "Idot Supriadi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "David Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Soeharsono Tjatur Nugroho",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjatur Haripriambodo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hasnanto Wahyudi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Vilihati Surya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Iwan Hadiantoro",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Putut Eko Bayuseno",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Buntoro Muljono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lindawati Gani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lindawati Gani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herawati Prasetyo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lianny Leo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Karya Supra Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 16115027968,
+      "percentage": 91.17
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1560132032,
+      "percentage": 8.83
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Frans Kesuma",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iwan Hadiantoro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Vilihati Surya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Putut Eko Bayuseno",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Buntoro Muljono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lindawati Gani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Idot Supriadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Soeharsono Tjatur Nugroho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjatur Haripriambodo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hasnanto Wahyudi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bintai Kindenko Engineering Indonesia",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 409267,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Bintai Kindenko Engineering Indonesia",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 409267,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Acset Pondasi Indonusa",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 366579,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Acset Pondasi Indonusa",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 352953,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Acset Pondasi Indonusa",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 352953,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Acset Pondasi Indonusa",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 345950,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Acset Pondasi Indonusa",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 345217,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintai Kindenko Engineering Indonesia",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 310118,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Acset Pondasi Indonusa",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 220393,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintai Kindenko Engineering Indonesia",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 197739,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Bintai Kindenko Engineering Indonesia",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 180262,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Bintai Kindenko Engineering Indonesia",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 169908,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Aneka Raya Konstruksi Mesindo",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 123324,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Aneka Raya Konstruksi Mesindo",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 122504,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Aneka Raya Konstruksi Mesindo",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 116524,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Aneka Raya Konstruksi Mesindo",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 116524,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Aneka Raya Konstruksi Mesindo",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 115585,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Aneka Raya Konstruksi Mesindo",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 84594,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Innotech Systems",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 66850,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Innotech Systems",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 58191,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sacindo Machinery",
+      "business_type": "Perdagangan Besar Alat Berat",
+      "total_assets": 55735,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Atmc Pump Services",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 51828,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Atmc Pump Services",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 49155,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Innotech Systems",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 47074,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Innotech Systems",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 44320,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Innotech Systems",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 43812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Innotech Systems",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 43812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sacindo Machinery",
+      "business_type": "Perdagangan Besar Alat Berat",
+      "total_assets": 42860,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Atmc Pump Services",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 42125,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sacindo Machinery",
+      "business_type": "Perdagangan Besar Alat Berat",
+      "total_assets": 41839,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Sacindo Machinery",
+      "business_type": "Perdagangan Besar Alat Berat",
+      "total_assets": 41036,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Sacindo Machinery",
+      "business_type": "Perdagangan Besar Alat Berat",
+      "total_assets": 38830,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Sacindo Machinery",
+      "business_type": "Perdagangan Besar Alat Berat",
+      "total_assets": 38830,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Atmc Pump Services",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 19819,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Atmc Pump Services",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 19819,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Atmc Pump Services",
+      "business_type": "Jasa Penunjang Konstruksi",
+      "total_assets": 19024,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.749.840.840.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,67",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "24,41",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "26,15",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,35",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "29,93",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:50.498Z"
+}

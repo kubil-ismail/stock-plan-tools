@@ -1,0 +1,218 @@
+{
+  "company_name": "PT Dana Brata Luhur Tbk.",
+  "ticker": "TEBE",
+  "office_address": "District 8 SCBD, Treasury Tower Lt. 15 H Jl. Jend. Sudirman Lot 28, Kav. 52-53 Sudirman Central Business District (SCBD)",
+  "email": "corsec@tebe.co.id",
+  "phone": "(021) 5010 6300",
+  "fax": "(021) 5010 6299",
+  "tax_id": "02.742.141.1-019.000",
+  "website": "https://www.tebe.co.id",
+  "listing_date": "2019-11-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Konsultasi manajemen lainnya, antara lainmelakukan penyertaan modal dalam proyek dan/atau perusahaan infrastruktur",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Konstruksi.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Alfon Mubarak",
+    "email": "corsec@tebe.co.id",
+    "phone": "(021) 5010 6300"
+  },
+  "directors": [
+    {
+      "name": "Gt Denny Ramdhani",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Welly Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Didik Prasetyo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Junaidi, S.h., Ll.m;",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Indra Surya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Indra Surya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ai Supardini",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rismon Purba",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dua Samudera Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 988336981,
+      "percentage": 76.91
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 296563019,
+      "percentage": 23.08
+    },
+    {
+      "name": "Gt Denny Ramdhani",
+      "type": "Direksi",
+      "shares": 100000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Talenta Bumi",
+      "business_type": "Berusaha dalam Bidang Penyediaan Jasa Pengangkutan dan Pelabuhan Batubara",
+      "total_assets": 913736204,
+      "ownership_percentage": 99.21
+    },
+    {
+      "name": "PT Pelabuhan Talenta Bumi",
+      "business_type": "Berusaha dalam Bidang Jasa Pengolahan Pelabuhan Batubara.",
+      "total_assets": 55065768,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Talenta Bumi Energi",
+      "business_type": "Berusaha dalam Bidang Perdagangan Batubara.",
+      "total_assets": 447049,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.619.100.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,41",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "3,98",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "49,79",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "79,85",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,60",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "50,41",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:27.504Z"
+}

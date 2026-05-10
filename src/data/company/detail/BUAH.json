@@ -1,0 +1,214 @@
+{
+  "company_name": "PT Segar Kumala Indonesia Tbk",
+  "ticker": "BUAH",
+  "office_address": "Jalan Cakung Cilincing Raya 188, Cakung Barat, Kecamatan Cakung, Kota Jakarta Timur, 13910",
+  "email": "corporate.secretary@sk-indonesia.com",
+  "phone": "0214603125",
+  "fax": "",
+  "tax_id": "82.412.831.8-048.000",
+  "website": "https://www.sk-indonesia.com",
+  "listing_date": "2022-08-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan besar buah-buahan dan daging unggas beku",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 86,
+    "name": "Ritel & Distributor Makanan",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Reda Siskia",
+    "email": "corporate.secretary@sk-indonesia.com",
+    "phone": "021-4603125"
+  },
+  "directors": [
+    {
+      "name": "Renny Lauren",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Vianita Januarini",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Micheal Iksan Susilo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendro Susilo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bagus Abimanyu Lulu",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bagus Abimanyu Lulu",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kho Petrus",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sony Hartono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hendro Susillo",
+      "type": "Komisaris",
+      "shares": 730000000,
+      "percentage": 36.5
+    },
+    {
+      "name": "Micheal Iksan Susilo",
+      "type": "Komisaris",
+      "shares": 480000000,
+      "percentage": 24
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 400000000,
+      "percentage": 20
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 257341000,
+      "percentage": 12.86
+    },
+    {
+      "name": "Tebar Jala Korpora, PT",
+      "type": "Lebih dari 5%",
+      "shares": 111753000,
+      "percentage": 5.59
+    },
+    {
+      "name": "Renny Lauren",
+      "type": "Direksi",
+      "shares": 20906000,
+      "percentage": 1.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.050.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,91",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "5,36",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,74",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "70,31",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,93",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "19,08",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:40.699Z"
+}

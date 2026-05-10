@@ -1,0 +1,263 @@
+{
+  "company_name": "PT Itama Ranoraya Tbk.",
+  "ticker": "IRRA",
+  "office_address": "Gedung MT. Haryono Square Lt. 1 Unit I, Jl. Otto Iskandardinata Raya No. 390 Bidara Cina, Jatinegara, Kota Adm. Jakarta Timur, Dki Jakarta 13330",
+  "email": "corsec@itama.co.id",
+  "phone": "(021) 29067207",
+  "fax": "(021) 29067208",
+  "tax_id": "01.385.934.3-007.000",
+  "website": "http://itama.co.id",
+  "listing_date": "2019-10-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Alat Laboratorium, Alat Farmasi dan Alat Kedokteran Untuk Manusia",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 39,
+    "name": "Peralatan & Perlengkapan Kesehatan"
+  },
+  "sub_industry": {
+    "id": 57,
+    "name": "Penyedia & Distribusi Perlengkapan Kesehatan",
+    "industries_id": 39
+  },
+  "corporate_secretary": {
+    "name": "Viertin Maretson Lumban Tobing",
+    "email": "corsec@itama.co.id",
+    "phone": "(021) 29067207"
+  },
+  "directors": [
+    {
+      "name": "Heru Firdausi Syarif",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Teguh Eko Purwanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Viertin Maretson Lumban Tobing",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendry Herman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Tjandra Yoga Aditama",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs H Wirdhan Denny",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Alvi Syahri Ramadhan Nasution",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alvi Syahri Ramadhan Nasution S.e., M.ak., Cfra, Ciae, Ermcp",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sudarmono, S.e. Akt. Ca. Qia. Acpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Venantius Agung Passinoraga, S.e., M.m., Ak.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Global Dinamika Kencana",
+      "type": "Lebih dari 5%",
+      "shares": 1260502200,
+      "percentage": 78.78
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 247111600,
+      "percentage": 15.45
+    },
+    {
+      "name": "PT Itama Ranoraya Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 92182600,
+      "percentage": 5.76
+    },
+    {
+      "name": "Dr. Tjandra Yoga Aditama",
+      "type": "Komisaris",
+      "shares": 203600,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Teguh Eko Purwanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Viertin Maretson Lumban Tobing",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heru Firdausi Syarif",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. H. Wirdhan Denny",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alvi Syahri Ramadhan Nasution",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendry Herman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kencana Pilar Mandiri",
+      "business_type": "Perdagangan Besar Alat Laboratorium, Alat Farmasi dan Alat Kedokteran untuk Manusia",
+      "total_assets": 1183182098,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Kencana Pilar Mandiri",
+      "business_type": "Perdagangan Besar Alat Laboratorium, Alat Farmasi dan Alat Kedokteran untuk Manusia",
+      "total_assets": 779022684,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Kencana Pilar Mandiri",
+      "business_type": "Perdagangan Besar Alat Laboratorium, Alat Farmasi dan Alat Kedokteran untuk Manusia",
+      "total_assets": 669589313,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Kencana Pilar Mandiri",
+      "business_type": "Perdagangan Besar Alat Laboratorium, Alat Farmasi dan Alat Kedokteran untuk Manusia",
+      "total_assets": 490188996,
+      "ownership_percentage": 40
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "617.600.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "29,44",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "26,24",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "13,84",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "22,01",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "31,44",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "19,16",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:39.007Z"
+}

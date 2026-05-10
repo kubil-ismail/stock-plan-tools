@@ -1,0 +1,207 @@
+{
+  "company_name": "PT Artha Mahiya Investama Tbk",
+  "ticker": "AIMS",
+  "office_address": "Jl. Cipaku 1 No. 3, Rt/rw 002/004, Kel. Petogogan Kec. Kebayoran Baru, Jakarta Selatan Dki 12170",
+  "email": "info@aimsinvestama.com",
+  "phone": "(021) 7221279",
+  "fax": "(021) 7392909",
+  "tax_id": "01.820.068.3-054.000",
+  "website": "https://www.aimsinvestama.com",
+  "listing_date": "2001-07-20",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Umum dan Distribusi",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Anton Hidayat Se",
+    "email": "aims.indoinvest@gmail.com",
+    "phone": "021 7221279"
+  },
+  "directors": [
+    {
+      "name": "Calvin Lutvi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pandu Andakara",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "M. Adil Triansyah",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mohammad Rafil Perdana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ahmad Ali Fahmi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Endru Adhikara",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ahmad Ali Fahmy,s.h",
+      "position": "Ketua"
+    },
+    {
+      "name": "Levita Elvi Yana S.tr.keu",
+      "position": "Anggota"
+    },
+    {
+      "name": "Priyandana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 71794858,
+      "percentage": 32.63
+    },
+    {
+      "name": "PT. Aims Indo Investama",
+      "type": "Lebih dari 5%",
+      "shares": 68556991,
+      "percentage": 31.16
+    },
+    {
+      "name": "PT. Delta Wibawa Bersama",
+      "type": "Lebih dari 5%",
+      "shares": 68493151,
+      "percentage": 31.13
+    },
+    {
+      "name": "Efendi Leman",
+      "type": "Lebih dari 5%",
+      "shares": 11155000,
+      "percentage": 5.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mohammad Rafil Pedana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Endru Andhikara",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Ali Fahmi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Calvin Lutvi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mohammad Adil Triansyah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mohammad Adil Triansyah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "99.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,45",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,31",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "9,50",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "50,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "14,06",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:03.048Z"
+}

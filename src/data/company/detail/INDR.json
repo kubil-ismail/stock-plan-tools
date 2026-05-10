@@ -1,0 +1,227 @@
+{
+  "company_name": "PT Indo-rama Synthetics Tbk",
+  "ticker": "INDR",
+  "office_address": "Graha Irama Lt. 17, Jl. Hr. Rasuna Said Blok X-1 Kav 1&2, Jakarta 12950",
+  "email": "vishnu.baldwa@indorama.com; arun.dalmia@indorama.com; naryono@indorama.com",
+  "phone": "+62-21-5261555",
+  "fax": "+62-21-5261508",
+  "tax_id": "01.001.680.6-054.000",
+  "website": "https://www.indorama.co.id",
+  "listing_date": "1990-08-03",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Tekstil",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "V.s. Baldwa",
+    "email": "baldwa@indorama.com",
+    "phone": "526-15-55, 526-15-52"
+  },
+  "directors": [
+    {
+      "name": "V S Baldwa",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Saurabh Mishra",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sri Prakash Lohia",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Amit Lohia",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Humphrey R. Djemat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bapak Humphrey R. Djemat, Sh, Llm",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bapak Wikanto Artadi, Se, Ak, Ca",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ibu Dian Utami Tjandra, Se, Ak, Ca, Cpa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Indorama Holdings B.v.",
+      "type": "Lebih dari 5%",
+      "shares": 440241050,
+      "percentage": 67.28
+    },
+    {
+      "name": "PT. Irama Investama",
+      "type": "Lebih dari 5%",
+      "shares": 163600000,
+      "percentage": 25
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 50047289,
+      "percentage": 7.65
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 463368,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Vishnu Swaroop Baldwa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saurabh Mishra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sri Prakash Lohia",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amit Lohia",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Humphrey R Djemat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Fe Indorama Kokand Textile Llc (ikt)",
+      "business_type": "Manufaktur Spun Yarns",
+      "total_assets": 105176012,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indorama Iplik Sanayi Ve Ticaret A.s. (itr)",
+      "business_type": "Manufaktur Spun Yarns",
+      "total_assets": 79935270,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indorama Industry Pte Ltd (iis)",
+      "business_type": "Investasi",
+      "total_assets": 34814014,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Irs Global Pte. Ltd. (irsg)",
+      "business_type": "Investasi",
+      "total_assets": 22131412,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikondang Kancana Prima (ckp)",
+      "business_type": "Pertambangan Emas",
+      "total_assets": 16788216,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Indorama Trade And Development Services (itds)",
+      "business_type": "Manajemen Gedung Kantor dan Gedung Sekolah",
+      "total_assets": 2155998,
+      "ownership_percentage": 99.97
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.760.206.091.830",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "19,06",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "21,94",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "17,41",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,11",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,98",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "13,57",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:19.946Z"
+}

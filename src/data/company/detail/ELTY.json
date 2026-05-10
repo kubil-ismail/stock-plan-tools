@@ -1,0 +1,1319 @@
+{
+  "company_name": "Bakrieland Development Tbk",
+  "ticker": "ELTY",
+  "office_address": "Wisma Bakrie I Jl. H.r. Rasuna Said Kav B-1, 6th Floor Jakarta 12920 - Indonesia",
+  "email": "info@bakrieland.com",
+  "phone": "5257835",
+  "fax": "5225063",
+  "tax_id": "01.348.182.5-054.000",
+  "website": "http://www.bakrieland.com",
+  "listing_date": "1995-10-30",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Developer and Pembangunan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Properti, Konstruksi, Makanan & Minuman.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Properti",
+      "Konstruksi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Harsya Novwan",
+    "email": "harsya.novwan@bakrieland.com",
+    "phone": "5257835"
+  },
+  "directors": [
+    {
+      "name": "Resza Adikreshna",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Melky Aliandri",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sisilia",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Irawan Hendradi",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Armansyah Yamin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kanaka Puradiredja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kanaka Puradiredja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Soenarso Soemodiwirjo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indra Safitri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 38165856370,
+      "percentage": 87.69
+    },
+    {
+      "name": "Kpd Simas Equity Fund 2",
+      "type": "Lebih dari 5%",
+      "shares": 2329095649,
+      "percentage": 5.35
+    },
+    {
+      "name": "Interventures Capital Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 2227645000,
+      "percentage": 5.12
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 799316000,
+      "percentage": 1.84
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bakrie Swasakti Utama",
+      "business_type": "Real Estat,properti,apartemen,perhotelan dan Perkantoran",
+      "total_assets": 5154436,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bakrie Swasakti Utama",
+      "business_type": "Real Estat, Konstruksi Gedung Pendidikan, Hunian, Perkantoran, Penginapan, Hiburan dan Olahraga, Perbelanjaan, Industri dan Lainnya",
+      "total_assets": 4131825,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bakrie Swasakti Utama",
+      "business_type": "Real Estat,properti,apartemen,perhotelan dan Perkantoran",
+      "total_assets": 4008091,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bakrie Swasakti Utama",
+      "business_type": "Real Estat,properti,apartemen,perhotelan dan Perkantoran",
+      "total_assets": 4008091,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bakrie Swasakti Utama",
+      "business_type": "Real Estat, Konstruksi Gedung Pendidikan, Hunian, Perkantoran, Penginapan, Hiburan dan Olahraga, Perbelanjaan, Industri dan Lainnya",
+      "total_assets": 3996114,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Bakrie Swasakti Utama",
+      "business_type": "Real Estat, Konstruksi Gedung Pendidikan, Hunian, Perkantoran, Penginapan, Hiburan dan Olahraga, Perbelanjaan, Industri dan Lainnya",
+      "total_assets": 3966787,
+      "ownership_percentage": 99.63
+    },
+    {
+      "name": "PT Graha Andrasentra Propertindo",
+      "business_type": "Real Estat, Properti, Perumahan dan Perhotelan",
+      "total_assets": 1710447,
+      "ownership_percentage": 38.76
+    },
+    {
+      "name": "PT Graha Andrasentra Propertindo",
+      "business_type": "Real Estat, Properti, Perumahan dan Perhotelan",
+      "total_assets": 1620936,
+      "ownership_percentage": 38.76
+    },
+    {
+      "name": "PT Graha Andrasentra Propertindo",
+      "business_type": "Real Estat, Properti, Perumahan dan Perhotelan",
+      "total_assets": 1620936,
+      "ownership_percentage": 38.76
+    },
+    {
+      "name": "PT Graha Andrasentra Propertindo Tbk",
+      "business_type": "Pengembangan, Perdagangan dan Jasa yang Berhubungan dengan Real Estat, Properti, dan Pengelolaan Taman Hiburan atau Rekreasi Serta Hotel",
+      "total_assets": 1597569,
+      "ownership_percentage": 38.76
+    },
+    {
+      "name": "PT Graha Andrasentra Propertindo Tbk",
+      "business_type": "Pengembangan, Perdagangan dan Jasa yang Berhubungan dengan Real Estat, Properti, dan Pengelolaan Taman Hiburan atau Rekreasi Serta Hotel",
+      "total_assets": 1566018,
+      "ownership_percentage": 38.76
+    },
+    {
+      "name": "PT Graha Andrasentra Propertindo Tbk",
+      "business_type": "Pengembangan, Perdagangan dan Jasa yang Berhubungan dengan Real Estat, Properti, dan Pengelolaan Taman Hiburan atau Rekreasi Serta Hotel",
+      "total_assets": 1552856,
+      "ownership_percentage": 38.76
+    },
+    {
+      "name": "PT Superwish Perkasa",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 1330420,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Superwish Perkasa",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 1327429,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Superwish Perkasa",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 1327185,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Superwish Perkasa",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 1325934,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Superwish Perkasa",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 1325934,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Superwish Perkasa",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 1322810,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mutiara Masyhur Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 1195151,
+      "ownership_percentage": 99.21
+    },
+    {
+      "name": "PT Mutiara Masyhur Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 1093856,
+      "ownership_percentage": 99.21
+    },
+    {
+      "name": "PT Mutiara Masyhur Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 1093856,
+      "ownership_percentage": 99.21
+    },
+    {
+      "name": "PT Mutiara Masyhur Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Gedung Lainnya, Aktifitas Telekomunikasi Tanpa Kabel",
+      "total_assets": 1087048,
+      "ownership_percentage": 99.21
+    },
+    {
+      "name": "PT Mutiara Masyhur Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Gedung Lainnya, Aktifitas Telekomunikasi Tanpa Kabel",
+      "total_assets": 1082960,
+      "ownership_percentage": 99.21
+    },
+    {
+      "name": "PT Mutiara Masyhur Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Gedung Lainnya, Aktifitas Telekomunikasi Tanpa Kabel",
+      "total_assets": 1064163,
+      "ownership_percentage": 99.21
+    },
+    {
+      "name": "PT Krakatau Lampung Tourism Development",
+      "business_type": "Konstruksi Gedung Penginapan, Hotel, Villa, Restoran, Kafe, Kawasan Pariwisata",
+      "total_assets": 1038444,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Krakatau Lampung Tourism Development",
+      "business_type": "Konstruksi Gedung Penginapan, Hotel, Villa, Restoran, Kafe, Kawasan Pariwisata",
+      "total_assets": 1038191,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Krakatau Lampung Tourism Development",
+      "business_type": "Konstruksi Gedung Penginapan, Hotel, Villa, Restoran, Kafe, Kawasan Pariwisata",
+      "total_assets": 1037902,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Krakatau Lampung Tourism Development",
+      "business_type": "Pembangunan Kawasan Wisata Krakatoa Nirwana Resort",
+      "total_assets": 1037776,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Krakatau Lampung Tourism Development",
+      "business_type": "Pembangunan Kawasan Wisata Krakatoa Nirwana Resort",
+      "total_assets": 1037776,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Krakatau Lampung Tourism Development",
+      "business_type": "Pembangunan Kawasan Wisata Krakatoa Nirwana Resort",
+      "total_assets": 1032683,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Bahana Sukmasejahtera",
+      "business_type": "Perumahan dan Real Estat",
+      "total_assets": 822089,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Daya Makmur",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 804756,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Daya Makmur",
+      "business_type": "Real Estate",
+      "total_assets": 803771,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Daya Makmur",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 803573,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Daya Makmur",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 803573,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Daya Makmur",
+      "business_type": "Real Estate",
+      "total_assets": 802712,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Daya Makmur",
+      "business_type": "Real Estate",
+      "total_assets": 802559,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bahana Sukmasejahtera",
+      "business_type": "Perumahan dan Real Estat",
+      "total_assets": 800680,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bahana Sukmasejahtera",
+      "business_type": "Perumahan dan Real Estat",
+      "total_assets": 800680,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bahana Sukmasejahtera",
+      "business_type": "Real Estate",
+      "total_assets": 792315,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bahana Sukmasejahtera",
+      "business_type": "Real Estate",
+      "total_assets": 789387,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bahana Sukmasejahtera",
+      "business_type": "Real Estate",
+      "total_assets": 781820,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Limitless World International Services-6 Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 731318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Limitless World International Services-6 Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 731318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Limitless World International Services-6 Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 731318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Limitless World International Services-6 Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 731318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Limitless World International Services-6 Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 731318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Limitless World International Services-6 Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 731318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Global Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 541349,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Global Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 521730,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Global Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 521730,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Global Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 515602,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Global Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 512130,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Global Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 508955,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Multi Insani",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 422631,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Multi Insani",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 416546,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Multi Insani",
+      "business_type": "Pembangunan dan Real Estat",
+      "total_assets": 416546,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Multi Insani",
+      "business_type": "Real Estat",
+      "total_assets": 416320,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Multi Insani",
+      "business_type": "Real Estat",
+      "total_assets": 414401,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Multi Insani",
+      "business_type": "Real Estat",
+      "total_assets": 413695,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citrasaudara Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 402009,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citrasaudara Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 401899,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citrasaudara Abadi",
+      "business_type": "Real Estat",
+      "total_assets": 401858,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citrasaudara Abadi",
+      "business_type": "Perumahan",
+      "total_assets": 401814,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citrasaudara Abadi",
+      "business_type": "Perumahan",
+      "total_assets": 401814,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citrasaudara Abadi",
+      "business_type": "Perumahan",
+      "total_assets": 401766,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Indonesia",
+      "business_type": "Kebersihan Bangungan dan Industri Lain, Keamanan Swasta, Jasa Sistem Keamanan, Penyedia Tenaga Kerja Waktu Tertentu, Kebersihan Umum dan Bangungan, Perawatan dan Pemeliharan Taman, Real Estate",
+      "total_assets": 385389,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Indonesia",
+      "business_type": "Kebersihan Bangungan dan Industri Lain, Keamanan Swasta, Jasa Sistem Keamanan, Penyedia Tenaga Kerja Waktu Tertentu, Kebersihan Umum dan Bangungan, Perawatan dan Pemeliharan Taman, Real Estate",
+      "total_assets": 355467,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Indonesia",
+      "business_type": "Kebersihan Bangungan dan Industri Lain, Keamanan Swasta, Jasa Sistem Keamanan, Penyedia Tenaga Kerja Waktu Tertentu, Kebersihan Umum dan Bangungan, Perawatan dan Pemeliharan Taman, Real Estate",
+      "total_assets": 348933,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Indonesia",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 278362,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Indonesia",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 278362,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bakrie Nirwana Realty",
+      "business_type": "Perumahan dan Real Estat",
+      "total_assets": 260923,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Nirwana Realty",
+      "business_type": "Real Estat",
+      "total_assets": 249251,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Nirwana Realty",
+      "business_type": "Real Estat",
+      "total_assets": 248530,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Nirwana Realty",
+      "business_type": "Perumahan dan Real Estat",
+      "total_assets": 247563,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Nirwana Realty",
+      "business_type": "Perumahan dan Real Estat",
+      "total_assets": 247563,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Nirwana Realty",
+      "business_type": "Real Estat",
+      "total_assets": 247407,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Provices Indonesia",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 239741,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Bld Investment Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 234154,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Investment Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 233768,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Investment Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 233768,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Investment Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 233592,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Investment Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 233510,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Investment Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 233417,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Bisnis Utama",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 160611,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Bisnis Utama",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 160200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Bisnis Utama",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 160200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Bisnis Utama",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 160200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Bisnis Utama",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 160200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Bisnis Utama",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 160200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inti Permata Sejati",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 114519,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inti Permata Sejati",
+      "business_type": "Real Estate",
+      "total_assets": 114485,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inti Permata Sejati",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 114484,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inti Permata Sejati",
+      "business_type": "Real Estate",
+      "total_assets": 114484,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inti Permata Sejati",
+      "business_type": "Real Estate",
+      "total_assets": 114484,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inti Permata Sejati",
+      "business_type": "Real Estate",
+      "total_assets": 114484,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inti Permata Sejati",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 114484,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nugraha Adhikarsa Pratama",
+      "business_type": "Real Estate dan Perdagangan",
+      "total_assets": 98698,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nugraha Adhikarsa Pratama",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 98630,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nugraha Adhikarsa Pratama",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 98554,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nugraha Adhikarsa Pratama",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 98554,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nugraha Adhikarsa Pratama",
+      "business_type": "Real Estate dan Perdagangan",
+      "total_assets": 98554,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nugraha Adhikarsa Pratama",
+      "business_type": "Real Estate dan Perdagangan",
+      "total_assets": 98554,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bakrie Pesona Rasuna",
+      "business_type": "Real Estate, Fasilitas Lapangan, Pengelola Lahan, Fasilitas Olahraga, Klub Kebugaran, Aktifitas Perparkiran, Periklanan, Fasilitas Gelanggang atau Arena",
+      "total_assets": 66458,
+      "ownership_percentage": 98.8
+    },
+    {
+      "name": "PT Rasuna Residence Development",
+      "business_type": "Pengelola Hotel Aston Residence",
+      "total_assets": 63244,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Rasuna Residence Development",
+      "business_type": "Pengelola Hotel Aston Residence",
+      "total_assets": 63244,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pesona Rasuna",
+      "business_type": "Real Estate, Fasilitas Lapangan, Pengelola Lahan, Fasilitas Olahraga, Klub Kebugaran, Aktifitas Perparkiran, Periklanan, Fasilitas Gelanggang atau Arena",
+      "total_assets": 62373,
+      "ownership_percentage": 98.8
+    },
+    {
+      "name": "PT Rasuna Residence Development",
+      "business_type": "Pengelola Hotel Aston Residence",
+      "total_assets": 60215,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pesona Rasuna",
+      "business_type": "Real Estate, Fasilitas Lapangan, Pengelola Lahan, Fasilitas Olahraga, Klub Kebugaran, Aktifitas Perparkiran, Periklanan, Fasilitas Gelanggang atau Arena",
+      "total_assets": 57747,
+      "ownership_percentage": 98.8
+    },
+    {
+      "name": "PT Rasuna Residence Development",
+      "business_type": "Hotel, Restoran, Penyedia Akomodasi Lainnya",
+      "total_assets": 57747,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pesona Rasuna",
+      "business_type": "Pengelola Pasar Festival, Klub Rasuna, Gelanggang Mahasiswa \"soemantri Brojonegoro\"",
+      "total_assets": 53193,
+      "ownership_percentage": 98.8
+    },
+    {
+      "name": "PT Bakrie Pesona Rasuna",
+      "business_type": "Pengelola Pasar Festival, Klub Rasuna, Gelanggang Mahasiswa \"soemantri Brojonegoro\"",
+      "total_assets": 53193,
+      "ownership_percentage": 98.8
+    },
+    {
+      "name": "PT Rasuna Residence Development",
+      "business_type": "Hotel, Restoran, Penyedia Akomodasi Lainnya",
+      "total_assets": 52458,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Maju Makmur Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 49546,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Maju Makmur Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 49540,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Maju Makmur Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 49540,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Maju Makmur Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 49540,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Maju Makmur Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 49540,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Maju Makmur Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 49540,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Maju Makmur Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 49540,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Rasuna Residence Development",
+      "business_type": "Hotel, Restoran, Penyedia Akomodasi Lainnya",
+      "total_assets": 49021,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pesona Rasuna",
+      "business_type": "Pengelola Pasar Festival, Klub Rasuna, Gelanggang Mahasiswa \"soemantri Brojonegoro\"",
+      "total_assets": 48305,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bakrie Pangripta Loka",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 46224,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pangripta Loka",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 45026,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pangripta Loka",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 45026,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pangripta Loka",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 44102,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pangripta Loka",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 21238,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Pangripta Loka",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 14190,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Langgeng Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 6254,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Mitra Langgeng Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 6253,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Mitra Langgeng Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 6253,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Mitra Langgeng Sejahtera",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 6253,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Mitra Langgeng Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 6253,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Mitra Langgeng Sejahtera",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 6253,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Bumi Sentra Investama",
+      "business_type": "Real Estate dan Jasa",
+      "total_assets": 5910,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Sentra Investama",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 5910,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Sentra Investama",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 5910,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Sentra Investama",
+      "business_type": "Real Estate dan Jasa",
+      "total_assets": 5910,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Sentra Investama",
+      "business_type": "Real Estate dan Jasa",
+      "total_assets": 5910,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Jasa Boga Raya",
+      "business_type": "Perdagangan, Jasa Penyediaan Makanan dan Minuman",
+      "total_assets": 5384,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Jasa Boga Raya",
+      "business_type": "Perdagangan, Jasa Penyediaan Makanan dan Minuman",
+      "total_assets": 4525,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Jasa Boga Raya",
+      "business_type": "Perdagangan, Jasa Penyediaan Makanan dan Minuman",
+      "total_assets": 4525,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Jasa Boga Raya",
+      "business_type": "Perdagangan, Jasa Penyediaan Makanan dan Minuman",
+      "total_assets": 4356,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Jasa Boga Raya",
+      "business_type": "Perdagangan, Jasa Penyediaan Makanan dan Minuman",
+      "total_assets": 4076,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Jasa Boga Raya",
+      "business_type": "Perdagangan, Jasa Penyediaan Makanan dan Minuman",
+      "total_assets": 4018,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Andrasentra Properti Services",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 3544,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andrasentra Properti Services",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 3544,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Prima Mandiri",
+      "business_type": "Penyedia Tenaga Kerja Waktu Tertentu, Penyedia Gabungan Jasa Penunjang Fasilitas, Instalasi Saluran Air, Kebersihan Bangunan dan Industri Lain, Kebersihan Umum Bangunan, Aktifitas Perparkiran",
+      "total_assets": 3536,
+      "ownership_percentage": 99.26
+    },
+    {
+      "name": "PT Andrasentra Properti Services",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 3496,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andrasentra Properti Services",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 3261,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Megah Djati Karya",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 3132,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Megah Djati Karya",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 3124,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Megah Djati Karya",
+      "business_type": "Perumahan dan Real Estate",
+      "total_assets": 3124,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Megah Djati Karya",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 3124,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Megah Djati Karya",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 3124,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Megah Djati Karya",
+      "business_type": "Real Estate, Konstruksi Gedung Tempat Tinggal dan Jalan Raya, Penyiapan Lahan dan Perdagangan",
+      "total_assets": 3124,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Provices Prima Mandiri",
+      "business_type": "Penyedia Tenaga Kerja Waktu Tertentu, Penyedia Gabungan Jasa Penunjang Fasilitas, Instalasi Saluran Air, Kebersihan Bangunan dan Industri Lain, Kebersihan Umum Bangunan, Aktifitas Perparkiran",
+      "total_assets": 3015,
+      "ownership_percentage": 99.26
+    },
+    {
+      "name": "PT Bumi Sentra Investama",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 2912,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Prima Mandiri",
+      "business_type": "Penyedia Tenaga Kerja Waktu Tertentu, Penyedia Gabungan Jasa Penunjang Fasilitas, Instalasi Saluran Air, Kebersihan Bangunan dan Industri Lain, Kebersihan Umum Bangunan, Aktifitas Perparkiran",
+      "total_assets": 2685,
+      "ownership_percentage": 99.26
+    },
+    {
+      "name": "PT Andrasentra Properti Services",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 2250,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Lintas Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1999,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Provices Lintas Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1999,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Provices Lintas Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1999,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Provices Lintas Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1999,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Provices Lintas Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1999,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Provices Lintas Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1999,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Andrasentra Properti Sevices",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 1863,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Provices Prima Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1619,
+      "ownership_percentage": 99.26
+    },
+    {
+      "name": "PT Provices Prima Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1619,
+      "ownership_percentage": 99.26
+    },
+    {
+      "name": "PT Provices Total Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1499,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Provices Total Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1499,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Provices Total Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1499,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Provices Total Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1499,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Provices Total Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1499,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Provices Total Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 1499,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Provices Prima Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 628,
+      "ownership_percentage": 99.26
+    },
+    {
+      "name": "Provicies Karya Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 125,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Provices Karya Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 125,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Provices Karya Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 125,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Provices Karya Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 125,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Provices Karya Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 125,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Provices Karya Mandiri",
+      "business_type": "Pengelola Gedung, Apartemen dan Perumahan",
+      "total_assets": 125,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "Bld Asia Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 111,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Asia Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Asia Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Asia Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Asia Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bld Asia Pte. Ltd",
+      "business_type": "Investasi dan Pendanaan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.871.442.259.817",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,50",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "95,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "290,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,14",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "20,41",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:24.094Z"
+}

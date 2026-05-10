@@ -1,0 +1,1324 @@
+{
+  "company_name": "PT Binakarya Jaya Abadi Tbk.",
+  "ticker": "BIKA",
+  "office_address": "Mall Taman Palem Lt.3 Blok D No. 9a Jl. Kamal Raya Outer Ringroad Rt 006/rw 014 Cengkareng Timur, Cengkareng Jakarta Barat 11730",
+  "email": "corpsec@binakaryagroup.co.id",
+  "phone": "021-54360381",
+  "fax": "021-54360391",
+  "tax_id": "02.706.906.1-013.000",
+  "website": "https://www.bpg.id",
+  "listing_date": "2015-07-14",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pembangunan dan pengembangan, investasi, perdagangan, perindustrian, jasa dan angkutan",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Andi Erdiana Taslim",
+    "email": "corpsec@binakaryagroup.co.id",
+    "phone": "021-54360381"
+  },
+  "directors": [
+    {
+      "name": "Budianto Halim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Leonardo Hans Halim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nathalia Setiawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Irma Martani",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Amperawati Atmodjo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hetty",
+      "position": "Anggota"
+    },
+    {
+      "name": "Inneke Octaviani Pertiwi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Liliana Setiawan",
+      "type": "Lebih dari 5%",
+      "shares": 200912700,
+      "percentage": 33.92
+    },
+    {
+      "name": "Budianto Halim Halim",
+      "type": "Direksi",
+      "shares": 189662100,
+      "percentage": 32.02
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 164632100,
+      "percentage": 27.8
+    },
+    {
+      "name": "Ali Umar",
+      "type": "Lebih dari 5%",
+      "shares": 30093100,
+      "percentage": 5.08
+    },
+    {
+      "name": "Leonardo Hans Halim Hans Halim",
+      "type": "Direksi",
+      "shares": 6880000,
+      "percentage": 1.16
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 100000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 998284353996,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 992395611934,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 979562047265,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 979562047265,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 979562047265,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 972318258030,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 660968640330,
+      "ownership_percentage": 46.9
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 659714217707,
+      "ownership_percentage": 46.9
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 644846277237,
+      "ownership_percentage": 46.9
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 644846277237,
+      "ownership_percentage": 46.9
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 644846277237,
+      "ownership_percentage": 46.9
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 644846277237,
+      "ownership_percentage": 46.9
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 644730365215,
+      "ownership_percentage": 46.9
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 517235890058,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 517163848559,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 517163848559,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 517163848559,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 517163848559,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 517163848559,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 517163848559,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 516887219659,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 512022697889,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 272117880531,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 264732432427,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 255749418541,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 255749418541,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 255749418541,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 255749418541,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 255749418541,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 255749418541,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 242213339290,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Binakarya Agung Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 182973177530,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Binakarya Agung Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 181100365182,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Binakarya Agung Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 181046742630,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Binakarya Agung Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 181046742630,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Binakarya Agung Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 179329103092,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Prasetya Agung Cipta Abadi",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Pertambangan, Percetakan, Pengangkutan, Jasa dan Perbengkelan",
+      "total_assets": 176730077816,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Prasetya Agung Cipta Abadi",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Pertambangan, Percetakan, Pengangkutan, Jasa dan Perbengkelan",
+      "total_assets": 173447480370,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Prasetya Agung Cipta Abadi",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Pertambangan, Percetakan, Pengangkutan, Jasa dan Perbengkelan",
+      "total_assets": 173447480370,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Prasetya Agung Cipta Abadi",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Pertambangan, Percetakan, Pengangkutan, Jasa dan Perbengkelan",
+      "total_assets": 171961575859,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Prasetya Agung Cipta Abadi",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Pertambangan, Percetakan, Pengangkutan, Jasa dan Perbengkelan",
+      "total_assets": 168681353661,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 167745398971,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 167580078631,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 167534546107,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 167534546107,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 167534546107,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 167534546107,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 166602885969,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 156062214944,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 155775843975,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 155689364310,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 155689364310,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 155689364310,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 155689364310,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 155634259493,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 97317278728,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 96434611362,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 96432392218,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 95561407581,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 95561407581,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 95561407581,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 95561407581,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 95561407581,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 95561407581,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 77973060484,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 76017316829,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 76017316829,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 76017316829,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 76017316829,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 76017316829,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 76017316829,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 76017316829,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 75429200919,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 74416595805,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Binakarya Graha Sentosa",
+      "business_type": "Perdagangan Umum, Pembangnan, Perindustrian Umum, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 72007790116,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Binakarya Graha Sentosa",
+      "business_type": "Perdagangan Umum, Pembangnan, Perindustrian Umum, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 72003906388,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Binakarya Graha Sentosa",
+      "business_type": "Perdagangan Umum, Pembangnan, Perindustrian Umum, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 72003906388,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Binakarya Graha Sentosa",
+      "business_type": "Perdagangan Umum, Pembangnan, Perindustrian Umum, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 72003831388,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Binakarya Graha Sentosa",
+      "business_type": "Perdagangan Umum, Pembangnan, Perindustrian Umum, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 72003751388,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54098097142,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54098073392,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094595692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094520692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094520692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094520692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094520692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094520692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094520692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094520692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54094520692,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Binakarya Mitra Selaras",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 47161698233,
+      "ownership_percentage": 54
+    },
+    {
+      "name": "PT Binakarya Mitra Selaras",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 47155293945,
+      "ownership_percentage": 54
+    },
+    {
+      "name": "PT Binakarya Mitra Selaras",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 47152267945,
+      "ownership_percentage": 54
+    },
+    {
+      "name": "PT Binakarya Mitra Selaras",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 47152192945,
+      "ownership_percentage": 54
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39246310746,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39246235746,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39246235746,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39246235746,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39246235746,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39246235746,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39246235746,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39227485746,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39014191617,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32994964520,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32991821020,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32989962386,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32987896020,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32987896020,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32987896020,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32987896020,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32987896020,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32987896020,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 11893257133,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 11887998133,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 11883598133,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 11883523133,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 11883523133,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 11883523133,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 11883523133,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9844863589,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9838075191,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9835027313,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9835027313,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9835027313,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9835027313,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9835027313,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9835027313,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 6059296235,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 6058547485,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 6055679685,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 6055409985,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 6055409985,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 6055409985,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 6055409985,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 1012412284,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 660779268,
+      "ownership_percentage": 46.9
+    },
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 621362528,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Satwika Permai Indah",
+      "business_type": "Pengangkutan, Teknik, Jasa, Industri, Perdagangan dan Pembangunan",
+      "total_assets": 621362528,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 521607630,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 297595593,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Prasetya Agung Cipta Abadi",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Pertambangan, Percetakan, Pengangkutan, Jasa dan Perbengkelan",
+      "total_assets": 280786397,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Prasetya Agung Cipta Abadi",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Pertambangan, Percetakan, Pengangkutan, Jasa dan Perbengkelan",
+      "total_assets": 269580449,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Prasetya Agung Cipta Abadi",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Pertambangan, Percetakan, Pengangkutan, Jasa dan Perbengkelan",
+      "total_assets": 269580449,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 236431566,
+      "ownership_percentage": 71.58
+    },
+    {
+      "name": "PT Binakarya Bangun Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 236431566,
+      "ownership_percentage": 71.58
+    },
+    {
+      "name": "PT Binakarya Agung Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 234174703,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Binakarya Agung Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 234174703,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 160165801,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Agung Propertindo",
+      "business_type": "Jasa, Pembangunan dan Perdagangan",
+      "total_assets": 156817344,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Mitragama Intiperkasa",
+      "business_type": "Pembangunan",
+      "total_assets": 150793866,
+      "ownership_percentage": 36
+    },
+    {
+      "name": "PT Anaamaya Selaras",
+      "business_type": "Pembangunan",
+      "total_assets": 142990569,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Anaamaya Selaras",
+      "business_type": "Pembangunan",
+      "total_assets": 142990569,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 115421884,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 115421884,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Anamaya Selaras",
+      "business_type": "Hotel",
+      "total_assets": 112855146,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 111650437,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Triputri Natatama",
+      "business_type": "Pembangunan dan Perdagangan",
+      "total_assets": 111650437,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Binakarya Citra Buana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 100452254,
+      "ownership_percentage": 85.42
+    },
+    {
+      "name": "PT Griya Mandiri Perkasa",
+      "business_type": "Perdagangan, Perindustrian, Jasa, Pembangunan, Pertanian, Percetakan, Perbengkelan, Pengangkutan Darat",
+      "total_assets": 92555308,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Griya Mandiri Perkasa",
+      "business_type": "Perdagangan, Perindustrian, Jasa, Pembangunan, Pertanian, Percetakan, Perbengkelan, Pengangkutan Darat",
+      "total_assets": 92555308,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Binakarya Graha Sentosa",
+      "business_type": "Perdagangan Umum, Pembangnan, Perindustrian Umum, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 72155074,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Binakarya Graha Sentosa",
+      "business_type": "Perdagangan Umum, Pembangnan, Perindustrian Umum, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 72155074,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Binakarya Graha Sentosa",
+      "business_type": "Perdagangan Umum, Pembangnan, Perindustrian Umum, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 72046271,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 54092660,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 51841147,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Karya Cipta Makmur Abadi",
+      "business_type": "Perdagangan, Pembangunan, Real Estate, Industri, Percetakan, Pertanian, Perbengkelan, Jasa dan Angkutan.",
+      "total_assets": 51841147,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 48822701,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 48822701,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Binakarya Mitra Selaras",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 45392310,
+      "ownership_percentage": 54
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 43850566,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Karunia Sejahtera",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 43850566,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 39308253,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 34079953,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Jaya Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, Perbengkelan dan Jasa",
+      "total_assets": 34079953,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Binakarya Sakti Perkasa",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa.",
+      "total_assets": 32989072,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Binakarya Mitra Selaras",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 14869559,
+      "ownership_percentage": 54
+    },
+    {
+      "name": "PT Binakarya Mitra Selaras",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 14869559,
+      "ownership_percentage": 54
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 13253656,
+      "ownership_percentage": 95.04
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 13253656,
+      "ownership_percentage": 95.04
+    },
+    {
+      "name": "PT Binakarya Makmur Sentosa",
+      "business_type": "Perdagangan Umum, Pembangunan, Industri, Pertanian, Jasa, Pertambangan Umum",
+      "total_assets": 11874223,
+      "ownership_percentage": 95.04
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 9087165,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 8089906,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Makmur Abadi",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 8089906,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 7276004,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 7276004,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Binakarya Anugrah Pratama",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pertanian, Jasa, Pertambangan",
+      "total_assets": 6053127,
+      "ownership_percentage": 71
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 4268943,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Griya Abadi Permai",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, dan Jasa",
+      "total_assets": 4268943,
+      "ownership_percentage": 99.52
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "32.575.400.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:43.435Z"
+}

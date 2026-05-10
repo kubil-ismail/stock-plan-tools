@@ -1,0 +1,197 @@
+{
+  "company_name": "PT Bumi Benowo Sukses Sejahtera Tbk",
+  "ticker": "BBSS",
+  "office_address": "Jl. W.r. Supratman No. 19, Surabaya",
+  "email": "corsec@bumibenowo.com",
+  "phone": "+62 31 561 2227 / 565 2277",
+  "fax": "+62 31 566 2800",
+  "tax_id": "01.441.228.2-613.000",
+  "website": "https://www.bumibenowo.com",
+  "listing_date": "2020-04-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Real Estate yang dimiliki sendiri atau disewa",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Alberta Soesanto",
+    "email": "corsec@bumibenowo.com",
+    "phone": "+62 31 561 2227 / 565 2277"
+  },
+  "directors": [
+    {
+      "name": "Felix Soesanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Alberta Soesanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muslich Ramelan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alexander",
+      "position": "Ketua"
+    },
+    {
+      "name": "Harris Manurung",
+      "position": "Anggota"
+    },
+    {
+      "name": "Harianto Wijaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Agung Alam Anugrah",
+      "type": "Lebih dari 5%",
+      "shares": 3499950000,
+      "percentage": 72.92
+    },
+    {
+      "name": "PT Agung Anugrah Investama",
+      "type": "Lebih dari 5%",
+      "shares": 796862800,
+      "percentage": 16.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 503153220,
+      "percentage": 10.48
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 50000,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. Muslich Ramelan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alexander",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Felix Soesanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alberta Soesanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "777.602.595.240",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,92",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "37,12",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "52,30",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,00",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,84",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "58,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:23.511Z"
+}

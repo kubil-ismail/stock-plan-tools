@@ -1,0 +1,223 @@
+{
+  "company_name": "PT Batavia Prosperindo Trans Tbk.",
+  "ticker": "BPTR",
+  "office_address": "Chase Plaza Lantai 12 Jl. Jend Sudirman Kav. 12 Jakarta Selatan 12920",
+  "email": "corpsec@bataviarent.com",
+  "phone": "53191717",
+  "fax": "53191918",
+  "tax_id": "0716547823011000",
+  "website": "http://www.bataviarent.com",
+  "listing_date": "2018-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang jasa transportasi",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 36,
+    "name": "Pengangkutan Darat Penumpang"
+  },
+  "sub_industry": {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  "corporate_secretary": {
+    "name": "Angelia Sundary Ongko",
+    "email": "angelia@bataviarent.com",
+    "phone": "53191717"
+  },
+  "directors": [
+    {
+      "name": "Paulus Handigdo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rima Rupita",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Williem Tanjung Oscar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Cecilia Beatrix Pangemanan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Cecilia Beatrix Pangemanan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Richard Basuki",
+      "position": "Anggota"
+    },
+    {
+      "name": "Melissa Rusli",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Batavia Prosperindo International",
+      "type": "Lebih dari 5%",
+      "shares": 2381968773,
+      "percentage": 67.4
+    },
+    {
+      "name": "PT Victoria Investama Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 370212200,
+      "percentage": 10.48
+    },
+    {
+      "name": "Oscarmas",
+      "type": "Lebih dari 5%",
+      "shares": 353400000,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 348180427,
+      "percentage": 9.85
+    },
+    {
+      "name": "Paulus Handigdo",
+      "type": "Direksi",
+      "shares": 69638600,
+      "percentage": 1.97
+    },
+    {
+      "name": "Rima Rupita",
+      "type": "Direksi",
+      "shares": 10600000,
+      "percentage": 0.3
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Batavia Prosperity Ecotrans",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 137558525,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Batavia Prosperity Ecotrans",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 137418525,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Batavia Prosperity Ecotrans",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 137418525,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Batavia Prosperity Ecotrans",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 137238525,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Batavia Prosperity Ecotrans",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 89,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "296.856.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,53",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,41",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "8,60",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "13,33",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "6,59",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:21.141Z"
+}

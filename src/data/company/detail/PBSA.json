@@ -1,0 +1,190 @@
+{
+  "company_name": "PT Paramita Bangun Sarana Tbk",
+  "ticker": "PBSA",
+  "office_address": "Jl. Kyai Haji Hasyim Ashari No. 39, Petojo Utara, Gambir, Jakarta Pusat, Dki Jakarta 10130",
+  "email": "info@paramita.co.id",
+  "phone": "021-63864358",
+  "fax": "-",
+  "tax_id": "02.141.811.6-073.000",
+  "website": "https://www.paramita.co.id",
+  "listing_date": "2016-09-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Konstruksi Bangunan, Infrastruktur, Mekanikal dan Elektrikal",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Vincentius Susanto",
+    "email": "corpsec@paramita.co.id",
+    "phone": "021 720 5466"
+  },
+  "directors": [
+    {
+      "name": "Vincentius Susanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Evelyn Tanuwidjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander Sayidiman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Halim Susanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Roesdiman Soegiarso",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Roesdiman Soegiarso",
+      "position": "Ketua"
+    },
+    {
+      "name": "Steven Rorong",
+      "position": "Anggota"
+    },
+    {
+      "name": "Angkola Ogessardo Siregar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Ascend Bangun Persada",
+      "type": "Lebih dari 5%",
+      "shares": 1384709700,
+      "percentage": 46.157
+    },
+    {
+      "name": "PT Sigma Mutiara",
+      "type": "Lebih dari 5%",
+      "shares": 1126900900,
+      "percentage": 37.563
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 473274900,
+      "percentage": 15.78
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 15113700,
+      "percentage": 0.5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alexander Sayidiman",
+      "type": "Direksi",
+      "shares": 800,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Paramita Multi Sarana",
+      "business_type": "Perdagangan",
+      "total_assets": 254293,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Paramita Andalan Struktur",
+      "business_type": "Konstruksi",
+      "total_assets": 9274,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Paramita Bangun Sarana Sdn. Bhd",
+      "business_type": "Konstruksi",
+      "total_assets": 5340,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Plaza Paramita Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 1386,
+      "ownership_percentage": 99.5
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.450.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "28,27",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "35,36",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "8,60",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "130,98",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "15,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "45,16",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:14.143Z"
+}

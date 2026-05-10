@@ -1,0 +1,271 @@
+{
+  "company_name": "Lippo Karawaci Tbk",
+  "ticker": "LPKR",
+  "office_address": "7 Boulevard Palem Raya #22-00 Menara Matahari, Lippo Karawaci Central Tangerang 15811",
+  "email": "corsec@lippokarawaci.co.id",
+  "phone": "2566 9000",
+  "fax": "2566 9099",
+  "tax_id": "01.346.574.5-054.000",
+  "website": "https://www.lippokarawaci.co.id",
+  "listing_date": "1996-06-28",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Ratih Safitri",
+    "email": "corsec@lippokarawaci.co.id",
+    "phone": "25669000"
+  },
+  "directors": [
+    {
+      "name": "Marlo Budiman",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Surya Tatang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Marshal Martinus Tissadharma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dion Leswara",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "David Iman Santosa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fendi Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Prof. Ir. Dr. Ginandjar Kartasasmita",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anangga W. Roosdiono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kin Chan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "George Raymond Zage III",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Anand Kumar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Kartini Sjahrir",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ketut Budi Wijaya",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anangga W. Roosdiono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arthur F. Kalesaran",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rajiv Krishna",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 30067613781,
+      "percentage": 42.41
+    },
+    {
+      "name": "Sierra Inc.",
+      "type": "Lebih dari 5%",
+      "shares": 11259645290,
+      "percentage": 15.88
+    },
+    {
+      "name": "Ubs Ag Sg Branch Tr Ac Cl PT Inti Anugerah Pr-2-2023904419",
+      "type": "Lebih dari 5%",
+      "shares": 11081063800,
+      "percentage": 15.63
+    },
+    {
+      "name": "PT Primantara Utama Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 7371500000,
+      "percentage": 10.4
+    },
+    {
+      "name": "PT Inti Anugerah Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 5840939058,
+      "percentage": 8.24
+    },
+    {
+      "name": "Dbs Bank Ltd Sg-pb Clients",
+      "type": "Lebih dari 5%",
+      "shares": 3624330600,
+      "percentage": 5.11
+    },
+    {
+      "name": "Ubs Ag Sg Branch Tr Ac Cl PT Inti Anugerah Pr-2023904384",
+      "type": "Lebih dari 5%",
+      "shares": 1360000000,
+      "percentage": 1.92
+    },
+    {
+      "name": "Dominique Dion Leswara",
+      "type": "Direksi",
+      "shares": 73512500,
+      "percentage": 0.1
+    },
+    {
+      "name": "Dominique Dion Leswara",
+      "type": "Direksi",
+      "shares": 3100000,
+      "percentage": 0.1
+    },
+    {
+      "name": "Fendi Santoso",
+      "type": "Direksi",
+      "shares": 53833400,
+      "percentage": 0.08
+    },
+    {
+      "name": "Surya Tatang",
+      "type": "Direksi",
+      "shares": 50703700,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 20700600,
+      "percentage": 0.03
+    },
+    {
+      "name": "Fendi Santoso",
+      "type": "Direksi",
+      "shares": 15017800,
+      "percentage": 0.02
+    },
+    {
+      "name": "Marshal Martinus Tissadharma",
+      "type": "Direksi",
+      "shares": 7743400,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 61820940,
+      "percentage": 0
+    },
+    {
+      "name": "Surya Tatang",
+      "type": "Direksi",
+      "shares": 3246700,
+      "percentage": 0
+    },
+    {
+      "name": "Surya Tatang",
+      "type": "Direksi",
+      "shares": 3246800,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.813.637.506.258",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,53",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "7,87",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "5,75",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "5,75",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,23",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "3,53",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:06.808Z"
+}

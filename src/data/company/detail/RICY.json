@@ -1,0 +1,609 @@
+{
+  "company_name": "Ricky Putra Globalindo Tbk",
+  "ticker": "RICY",
+  "office_address": "Jl. Sawah Lio II No. 29-37 Jakarta",
+  "email": "rpg@cbn.net.id",
+  "phone": "(021) 634-37-35 (Direct) 634-23-30, 632-77-70 (24 Lines)",
+  "fax": "(021) 633-8642; 6332246",
+  "tax_id": "01.319.696.9-054.000",
+  "website": "https://0",
+  "listing_date": "1998-01-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Pakaian Jadi",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 53,
+    "name": "Pakaian, Aksesoris, & Tas",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Agnes Hermien Indrayati",
+    "email": "agnes.corsec@rpg.co.id",
+    "phone": "021-6342330"
+  },
+  "directors": [
+    {
+      "name": "Paulus Gunawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tirtaheru Citra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Charlie Nawawi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Victor Richard Franziscus",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Subandi Sihman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Della Putri Gunawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Subandi Sihman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wuci Handayani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yussiarty Lie",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 296359910,
+      "percentage": 46.19
+    },
+    {
+      "name": "Spanola Holdings Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 125000000,
+      "percentage": 19.48
+    },
+    {
+      "name": "PT. Ricky Utama Raya",
+      "type": "Lebih dari 5%",
+      "shares": 99192100,
+      "percentage": 15.46
+    },
+    {
+      "name": "Denzin International Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 84095500,
+      "percentage": 13.1
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 34848000,
+      "percentage": 5.43
+    },
+    {
+      "name": "Paulus Gunawan",
+      "type": "Direksi",
+      "shares": 1622000,
+      "percentage": 0.25
+    },
+    {
+      "name": "Tirta Heru Citra",
+      "type": "Direksi",
+      "shares": 600000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Ricky Garmen Exportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 156349238740,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Ricky Garmen Exportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 147400526918,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Ricky Garmen Exportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 139926512190,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Ricky Garmen Exportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 138585808293,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Ricky Garmen Exportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 136675199231,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Ricky Tekstil Indonesia",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 83834828969,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Ricky Tekstil Indonesia",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 82882024776,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Ricky Tekstil Indonesia",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 81895577735,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Ricky Tekstil Indonesia",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 81498565300,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Ricky Tekstil Indonesia",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 78815668163,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Ricky Sportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 55695711812,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Sportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 53640041818,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Gunze",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 51502122452,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Ricky Sportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 49713768964,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Gunze",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 49560547280,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Ricky Gunze",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 49176777779,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Ricky Gunze",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 49036074404,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Ricky Sportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 49033492371,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Sportindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 47889474262,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Gunze",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 47485328777,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Ricky Kobayashi",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 41782721464,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Kobayashi",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 39568850179,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Kobayashi",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 37531563936,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Kobayashi",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 36043851161,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Kobayashi",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 33945413476,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Hansen Cemerlang",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 31452208496,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Hansen Cemerlang",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 31322298798,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Hansen Cemerlang",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 30963065992,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Hansen Cemerlang",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 28699563453,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Hansen Cemerlang",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 28455009328,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ricky Jaya Sakti",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 27664947146,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Ricky Jaya Sakti",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 26236497738,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Ricky Jaya Sakti",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 26008850685,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Ricky Jaya Sakti",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 25649341022,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Ricky Mumbul Daya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 25565213411,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Jaya Sakti",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 25522136507,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Ricky Arta Jaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 23575201662,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Ricky Arta Jaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 23075332506,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Ricky Mumbul Daya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 22920702298,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Arta Jaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 22910788901,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Ricky Mumbul Daya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 22857622254,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Musi Wijaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 22644421687,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Ricky Arta Jaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 21797713192,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Ricky Musi Wijaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 20829746355,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Ricky Mumbul Daya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 20518760016,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Musi Wijaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 20460821628,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Ricky Arta Jaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 19866581062,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Ricky Musi Wijaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 19065119276,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Jasa Ricky Abadi",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 18939504565,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Ricky Mumbul Daya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 18770249885,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ricky Musi Wijaya",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 18689324838,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Jasa Ricky Abadi",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 17898654935,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Jasa Ricky Abadi",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 17608640796,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Jasa Ricky Abadi",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 16089890034,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Jasa Ricky Abadi",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 15032069890,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Rt Mahkota Globalindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 9296885480,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Rt Mahkota Globalindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 9100805480,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Rt Mahkota Globalindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 8792340356,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Rt Mahkota Globalindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 8775667856,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Rt Mahkota Globalindo",
+      "business_type": "Industri atau Manufaktur",
+      "total_assets": 8758995356,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Ricky Citra Rasa",
+      "business_type": "Restoran",
+      "total_assets": 6657004296,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ricky Citra Rasa",
+      "business_type": "Restoran",
+      "total_assets": 5002157971,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ricky Citra Rasa",
+      "business_type": "Restoran",
+      "total_assets": 4684342260,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ricky Citra Rasa",
+      "business_type": "Restoran",
+      "total_assets": 4632995260,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ricky Citra Rasa",
+      "business_type": "Restoran",
+      "total_assets": 4254398819,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Ricky Putra Globalindo Vietnam Co., Ltd",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ricky Putra Globalindo Vietnam Co., Ltd",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ricky Putra Globalindo Vietnam Co., Ltd",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ricky Putra Globalindo Vietnam Co., Ltd",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ricky Putra Globalindo Vietnam Co., Ltd",
+      "business_type": "Perdagangan dan Distribusi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "60.963.163.450",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,70",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "21,95",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "61,29",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "150,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "6,38",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "17,65",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:45.722Z"
+}

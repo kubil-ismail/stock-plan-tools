@@ -1,0 +1,270 @@
+{
+  "company_name": "PT Bank Btpn Syariah Tbk.",
+  "ticker": "BTPS",
+  "office_address": "Menara Smbc Lantai 12, Cbd Mega Kuningan, Jl. Dr Ide Anak Agung Gde Agung Kav. 5.5-5.6, Jakarta Selatan 12950",
+  "email": "corsec@btpnsyariah.com",
+  "phone": "+62-21 300 26 400",
+  "fax": "+62-21 252 0356",
+  "tax_id": "001.551.806.1-511.000",
+  "website": "https://www.btpnsyariah.com",
+  "listing_date": "2018-05-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan Syariah",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Arief Ismail",
+    "email": "corsec@btpnsyariah.com",
+    "phone": "(021) 3002 6400"
+  },
+  "directors": [
+    {
+      "name": "Hadi Wibowo",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Arief Ismail",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Fachmy Achmad",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Dwiyono Bayu Winantio",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Dewi Nuzulianti",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mulya Effendi Siregar",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dewie Pelitawati",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ongki Wanadjati Dana",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sendiaty Sondy",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mulya Effendi Siregar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mila Anita",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ersa Tri Wahyuni",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bank Smbc Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 5392590000,
+      "percentage": 70
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2310569600,
+      "percentage": 29.993
+    },
+    {
+      "name": "Hadi Wibowo",
+      "type": "Direksi",
+      "shares": 260300,
+      "percentage": 0.003
+    },
+    {
+      "name": "Fachmy Achmad",
+      "type": "Direksi",
+      "shares": 137900,
+      "percentage": 0.002
+    },
+    {
+      "name": "Dwiyono Bayu Winantio",
+      "type": "Direksi",
+      "shares": 135100,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewie Pelitawati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ongki Wanadjati Dana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewi Nuzulianti",
+      "type": "Direksi",
+      "shares": 3000,
+      "percentage": 0
+    },
+    {
+      "name": "Mulya Effendi Siregar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arief Ismail",
+      "type": "Direksi",
+      "shares": 4100,
+      "percentage": 0
+    },
+    {
+      "name": "Sendiaty Sondy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Btpns Ventura",
+      "business_type": "Modal Ventura",
+      "total_assets": 308421,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "7.626.663.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,02",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "18,47",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "28,77",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "19,12",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,10",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "16,12",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:39.766Z"
+}

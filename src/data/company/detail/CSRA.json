@@ -1,0 +1,252 @@
+{
+  "company_name": "PT Cisadane Sawit Raya Tbk.",
+  "ticker": "CSRA",
+  "office_address": "Jl. Pluit Selatan Raya Komplek Cbd Pluit Blok R2 B-25 Jakarta Utara, 14440 – Indonesia",
+  "email": "corpsec@csr.co.id",
+  "phone": "(021) 66673312-15",
+  "fax": "(021) 66673310-11",
+  "tax_id": "01.062.121.7-038.000",
+  "website": "https://www.csr.co.id",
+  "listing_date": "2020-01-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Menjalankan usaha dalam bidang Perkebunan dan Industri Pengolahan Kelapa Sawit.",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Iqbal Prastowo",
+    "email": "iqbal@csr.co.id dan corpsec@csr.co.id",
+    "phone": "(021) 666 73312 - 15"
+  },
+  "directors": [
+    {
+      "name": "Gita Sapta Adi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Seman Sendjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vivery Jerry Denny Walukow",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Erwin Kurniawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Edityawarman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Cokro Cienturi Suhendra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Koh Bing Hock",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Koh Bing Hock",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nancy Nataleo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Raditia Christine Senjaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sapta Sawit Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 779000000,
+      "percentage": 38
+    },
+    {
+      "name": "PT Verdan Sawit Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 779000000,
+      "percentage": 38
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 396892900,
+      "percentage": 19.36
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 95107100,
+      "percentage": 4.64
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Seman Sendjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Vivery Jerry Denny Walukow",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Erwin Kurniawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cokro Cienturi Suhendra",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Koh Bing Hock",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edityawarman Sp",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gita Sapta Adi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.865.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,55",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,30",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "40,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,15",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "1,62",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:35.126Z"
+}

@@ -1,0 +1,212 @@
+{
+  "company_name": "PT Hoffmen Cleanindo Tbk",
+  "ticker": "KING",
+  "office_address": "Jl. Raya Jembatan Tiga No 8, Penjaringan, Jakarta Utara 14440",
+  "email": "corsec@hoffmen.co.id",
+  "phone": "021-6628126",
+  "fax": "021-6629030",
+  "tax_id": "0026819813041000",
+  "website": "https://www.hoffmen.co.id",
+  "listing_date": "2023-02-16",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Perseroan bergerak dalam bidang usaha Jasa Cleaning Service, Security, Washroom Hygiene, Suplai Tenaga Kerja dan Parkir melalui Entiitas anak",
+    "business_summary": "Perusahaan bergerak di bidang Jasa Personalia.",
+    "business_tags": [
+      "Jasa Personalia"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 15,
+    "name": "Jasa Profesional"
+  },
+  "sub_industry": {
+    "id": 31,
+    "name": "Jasa Personalia",
+    "industries_id": 15
+  },
+  "corporate_secretary": {
+    "name": "Meliza Laudy Oktaviani",
+    "email": "corsec@hoffmen.co.id",
+    "phone": "021-6628126"
+  },
+  "directors": [
+    {
+      "name": "Rudy Japarto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Albert Sutanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Eddy Japarto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Selamat Sodugaon Carl F",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Selamat Sodugaon Carl F",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ita Dimiyati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Riko Firmansyah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Japarto Sukses Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 2000000000,
+      "percentage": 76.84
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 379852170,
+      "percentage": 14.59
+    },
+    {
+      "name": "Cv Pohon Mangga Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 143000000,
+      "percentage": 5.49
+    },
+    {
+      "name": "Rudy Japarto",
+      "type": "Direksi",
+      "shares": 40000000,
+      "percentage": 1.54
+    },
+    {
+      "name": "Eddy Japarto",
+      "type": "Komisaris",
+      "shares": 40000000,
+      "percentage": 1.54
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Hoffmen Parkindo",
+      "business_type": "Jasa Parkir",
+      "total_assets": 2993939216,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Hoffmen Parkindo",
+      "business_type": "Jasa Parkir",
+      "total_assets": 2993939216,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Hoffmen Parkindo",
+      "business_type": "Jasa Pengelola Parkir",
+      "total_assets": 2955619400,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Hoffmen Parkindo",
+      "business_type": "Pengelolaan Jasa Perparkiran",
+      "total_assets": 2848000063,
+      "ownership_percentage": 99.02
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.134.843.546.120",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "63,91",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "120,20",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "111,65",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "113,73",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,46",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "91,23",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:24.498Z"
+}

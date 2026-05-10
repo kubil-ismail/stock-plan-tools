@@ -1,0 +1,228 @@
+{
+  "company_name": "PT Pratama Widya Tbk.",
+  "ticker": "PTPW",
+  "office_address": "Komplek Green Ville Blok Aw No. 64-65, Jakarta Barat 11510",
+  "email": "corsec@pratamawidya.com",
+  "phone": "021-557 82407/18",
+  "fax": "021-557 01567",
+  "tax_id": "01.310.052.4-039.000",
+  "website": "https://www.pratamawidya.com",
+  "listing_date": "2020-02-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa pelaksana konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Henny Farida D.s",
+    "email": "corsec@pratamawidya.com",
+    "phone": "(021) 557 82407/18"
+  },
+  "directors": [
+    {
+      "name": "Dr. Ir, Andreas Widhatama Kurniawan, St, M.sc., Ipm.",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Ir. Cyrilus Winatama Kurniawan, St, B.eng., M.eng., Ipm",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Rusmiati Wisala",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jenny Trijanti, Ss, Mec.dev",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Jenny Rijanti, Ss, Mec.dev",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hadi Cahyadi, Se",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lia Marsaulina Nainggolan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Andreas Widhatama Kurniawan",
+      "type": "Direksi",
+      "shares": 317925000,
+      "percentage": 36.2
+    },
+    {
+      "name": "Cyrilus Winatama Kurniawan",
+      "type": "Direksi",
+      "shares": 220125000,
+      "percentage": 25.07
+    },
+    {
+      "name": "PT Pratama Investama Kurnia",
+      "type": "Lebih dari 5%",
+      "shares": 91481900,
+      "percentage": 10.42
+    },
+    {
+      "name": "Bonaventura Wimatama Kurniawan",
+      "type": "Lebih dari 5%",
+      "shares": 85375000,
+      "percentage": 9.72
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 84155600,
+      "percentage": 9.58
+    },
+    {
+      "name": "Yoseph Wikatama",
+      "type": "Lebih dari 5%",
+      "shares": 79125000,
+      "percentage": 9.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pratama Beton Nusantara",
+      "business_type": "Industri Mortar atau Beton Siap Pakai",
+      "total_assets": 70914998279,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Asia Pratama Unity Concrete",
+      "business_type": "Industri Mortar atau Beton Siap Pakai",
+      "total_assets": 41621220544,
+      "ownership_percentage": 53
+    },
+    {
+      "name": "PT Harmoni Damai Development",
+      "business_type": "Real Estat",
+      "total_assets": 5353813533,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "834.278.125.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,52",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "1,05",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "6,08",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,59",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "7,69",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:18.079Z"
+}

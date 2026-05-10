@@ -1,0 +1,172 @@
+{
+  "company_name": "Wahana Pronatural Tbk",
+  "ticker": "WAPO",
+  "office_address": "Gedung Bumi Mandiri Tower Ii, Lantai 9 Ruang 907 Jl. Panglima Sudirman Nomer 66-68 Surabaya 60271",
+  "email": "iwansetiawan_se@yahoo.com wapo.sby@gmail.com",
+  "phone": "031-5352705",
+  "fax": "031-5352704",
+  "tax_id": "01.620.906.6-054.000",
+  "website": "https://www.wapo.co.id",
+  "listing_date": "2001-06-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan dan Industri",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Iwan Setiawan",
+    "email": "iwansetiawan_se@yahoo.com",
+    "phone": "031-5352705"
+  },
+  "directors": [
+    {
+      "name": "Artha Lovie A.",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Setiawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hendra Widjaya",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chenny",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendra Widjaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Anita Rosalia Gunawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sarah Cahya Prawira",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Hijau Sari",
+      "type": "Lebih dari 5%",
+      "shares": 447562500,
+      "percentage": 36.07
+    },
+    {
+      "name": "PT Mitra Niaga Sakti",
+      "type": "Lebih dari 5%",
+      "shares": 402562500,
+      "percentage": 32.44
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 290798111,
+      "percentage": 23.43
+    },
+    {
+      "name": "PT Surya Pelangi Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 100000000,
+      "percentage": 8.06
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "168.765.543.096",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,09",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "22,73",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "22,73",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "2,16",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,73",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "25,68",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:29.507Z"
+}

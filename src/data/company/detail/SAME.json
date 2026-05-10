@@ -1,0 +1,240 @@
+{
+  "company_name": "Sarana Meditama Metropolitan Tbk",
+  "ticker": "SAME",
+  "office_address": "Jl. Pulomas Barat VI No. 20 Kayu Putih, Pulo Gadung, Jakarta Timur 13210",
+  "email": "corsec@emc.id",
+  "phone": "150 789",
+  "fax": "-",
+  "tax_id": "0013 9152 3605 4000",
+  "website": "https://www.emc.id",
+  "listing_date": "2013-01-11",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas Kesehatan Manusia",
+    "business_summary": "Perusahaan bergerak di bidang Penyedia Jasa Kesehatan.",
+    "business_tags": [
+      "Penyedia Jasa Kesehatan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Rahmiyati Yahya",
+    "email": "corsec@emc.id",
+    "phone": "150 789"
+  },
+  "directors": [
+    {
+      "name": "Jusup Halimi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Juniwati Gunawan",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Meta Dewi Thedja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Drg. Nailufar, Mars",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kusmiati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Armen Antonius Djan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Robert Pakpahan",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Unggung Cahyono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Heru Kristiyana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander Tedja",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [],
+  "shareholders": [
+    {
+      "name": "PT Elang Mahkota Teknologi Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 14560826345,
+      "percentage": 84.83
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2592599700,
+      "percentage": 15.17
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jusup Halimi",
+      "type": "Direksi",
+      "shares": 3565000,
+      "percentage": 0
+    },
+    {
+      "name": "Juniwati Gunawan",
+      "type": "Direksi",
+      "shares": 1650205,
+      "percentage": 0
+    },
+    {
+      "name": "Meta Dewi Thedja",
+      "type": "Direksi",
+      "shares": 1447030,
+      "percentage": 0
+    },
+    {
+      "name": "Drg. Nailufar, Mars",
+      "type": "Direksi",
+      "shares": 1447030,
+      "percentage": 0
+    },
+    {
+      "name": "Kusmiati",
+      "type": "Direksi",
+      "shares": 1447030,
+      "percentage": 0
+    },
+    {
+      "name": "Armen Antonius Djan",
+      "type": "Direksi",
+      "shares": 1650205,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Elang Medika Corpora (emc)",
+      "business_type": "Kesehatan",
+      "total_assets": 1317884255722,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Meditama International (smi)",
+      "business_type": "Kesehatan",
+      "total_assets": 1248830662021,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kedoya Adyaraya Tbk (rsgk)",
+      "business_type": "Kesehatan",
+      "total_assets": 910559039060,
+      "ownership_percentage": 79.84
+    },
+    {
+      "name": "PT Kurnia Sejahtera Utama (ksu)",
+      "business_type": "Kesehatan",
+      "total_assets": 374129405627,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Meditama Anugerah (sma)",
+      "business_type": "Kesehatan",
+      "total_assets": 316656782481,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Meditama Nusantara (smn)",
+      "business_type": "Kesehatan",
+      "total_assets": 43079381453,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sentosa Indah Sejahtera (sis)",
+      "business_type": "Kesehatan",
+      "total_assets": 1166732238,
+      "ownership_percentage": 99.92
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.698.658.004.940",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,10",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "12,26",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "17,57",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "20,83",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,57",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "4,40",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:00.788Z"
+}

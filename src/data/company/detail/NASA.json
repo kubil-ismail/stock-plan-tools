@@ -1,0 +1,408 @@
+{
+  "company_name": "PT Andalan Perkasa Abadi Tbk",
+  "ticker": "NASA",
+  "office_address": "Jl. Raya Cendrawasih No. 88a, Kelurahan Kerobokan Kelod, Kecamatan Kuta Utara, Kabupaten Badung, Bali 80361",
+  "email": "admin@andalanperkasaabadi.co.id",
+  "phone": "(0361) 8499595",
+  "fax": "N/A",
+  "tax_id": "76.798.850.4-014.000",
+  "website": "https://www.andalanperkasaabadi.co.id",
+  "listing_date": "2017-08-07",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak di Bidang Pembangunan Properti dan Perhotelan Baik Sendiri Maupun Melalui Entitas Anak Termasuk Melakukan Penyertaan Saham",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Elariska Sihaloho",
+    "email": "admin@andalanperkasaabadi.co.id",
+    "phone": "(0361) 8499585"
+  },
+  "directors": [
+    {
+      "name": "Erwin Kusnadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Elariska Sihaloho",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Andri Bimantoro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Marsellino",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Marsellino",
+      "position": "Ketua"
+    },
+    {
+      "name": "Prasastiwi Kinanti Syamsidar Hami",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fauzi Setyo Fendhio",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6304329322,
+      "percentage": 57.29
+    },
+    {
+      "name": "PT Sinar Cemerlang Jayaraya",
+      "type": "Lebih dari 5%",
+      "shares": 4700600000,
+      "percentage": 42.71
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Ayana Properti International",
+      "business_type": "Investasi",
+      "total_assets": 975857658240,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Ayana Properti International",
+      "business_type": "Investasi",
+      "total_assets": 975346600194,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ayana Properti Internasional",
+      "business_type": "Investasi",
+      "total_assets": 974874900528,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ayana Properti International",
+      "business_type": "Investasi",
+      "total_assets": 974838729322,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ayana Properti International",
+      "business_type": "Investasi",
+      "total_assets": 974529114310,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Mandiri Berdikari Jayaraya",
+      "business_type": "Investasi",
+      "total_assets": 893462904280,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Duta Nusantara Utamaraya",
+      "business_type": "Perumahan",
+      "total_assets": 893356597796,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Mandiri Berdikari Jayaraya",
+      "business_type": "Investasi",
+      "total_assets": 893013023934,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Duta Nusantara Utamaraya",
+      "business_type": "Perumahan",
+      "total_assets": 892906717450,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Mandiri Berdikari Jayaraya",
+      "business_type": "Investasi",
+      "total_assets": 892558363277,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Duta Nusantara Utamaraya",
+      "business_type": "Perumahan",
+      "total_assets": 892452056794,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Mandiri Berdikari Jayaraya",
+      "business_type": "Investasi",
+      "total_assets": 892106889494,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Duta Nusantara Utamaraya",
+      "business_type": "Perumahan",
+      "total_assets": 892000583010,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Mandiri Berdikari Jayaraya",
+      "business_type": "Investasi",
+      "total_assets": 890782200136,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Duta Nusantara Utama Karya",
+      "business_type": "Perumahan",
+      "total_assets": 890675893652,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Ayana Hotel Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 229696055851,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ayana Hotel Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 229318379800,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ayana Hotel Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 228912872610,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Ayana Hotel Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 228500432705,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Ayana Hotel Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 227664353455,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Akasa Legian Karya",
+      "business_type": "Apartemen",
+      "total_assets": 148869015583,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Akasa Legian Karya",
+      "business_type": "Apartemen",
+      "total_assets": 148692563221,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Akasa Legian Karya",
+      "business_type": "Apartemen",
+      "total_assets": 148634835728,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Akasa Legian Karya",
+      "business_type": "Apartemen",
+      "total_assets": 148578438340,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Akasa Legian Karya",
+      "business_type": "Apartemen",
+      "total_assets": 148522041251,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Andara Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 47859196007,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Andara Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 47595138788,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Andara Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 47008073217,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andara Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 46374001227,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andara Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 46131383668,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Galuh Kencana Utamakarya",
+      "business_type": "Investasi",
+      "total_assets": 54750000,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Galuh Kencana Utamaraya",
+      "business_type": "Perumahan",
+      "total_assets": 54750000,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Galuh Kencana Utamaraya",
+      "business_type": "Perumahan",
+      "total_assets": 54750000,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Galuh Kencana Utamaraya",
+      "business_type": "Perumahan",
+      "total_assets": 54750000,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Galuh Kencana Utamaraya",
+      "business_type": "Perumahan",
+      "total_assets": 54750000,
+      "ownership_percentage": 99.97
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "418.187.314.236",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,13",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,13",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,33",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "131,25",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,63",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "7,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:34.437Z"
+}

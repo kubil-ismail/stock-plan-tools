@@ -1,0 +1,236 @@
+{
+  "company_name": "Golden Eagle Energy Tbk",
+  "ticker": "SMMT",
+  "office_address": "The Suites Tower Lt. 17, Jl. Boulevard Pantai Indah Kapuk No. 1 Kav Ofs, Jakarta Utara 14470",
+  "email": "corsec@go-eagle.co.id; contact@go-eagle.co.id",
+  "phone": "021 - 22511055",
+  "fax": "021 - 22511057",
+  "tax_id": "01.361.266.8-054.000",
+  "website": "https://www.go-eagle.co.id",
+  "listing_date": "1997-12-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Susanti Nilam",
+    "email": "corsec@go-eagle.co.id",
+    "phone": "+62 21 5760808"
+  },
+  "directors": [
+    {
+      "name": "Huang She Thong",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ng See Yong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yuliana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Budi Susanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yanto Melati",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ong Beng Chye",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ong Beng Chye",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kevin Nur Reza",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agustini",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Geo Energy Lnvestama",
+      "type": "Lebih dari 5%",
+      "shares": 2303030067,
+      "percentage": 67.24
+    },
+    {
+      "name": "PT Golden Prima Energy",
+      "type": "Lebih dari 5%",
+      "shares": 724500000,
+      "percentage": 21.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 393829933,
+      "percentage": 11.5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3640000,
+      "percentage": 0.11
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Susanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yanto Melati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ong Beng Chye",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Huang She Thong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ng See Yong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yuliana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Triaryani",
+      "business_type": "Tambang Batubara",
+      "total_assets": 56443750,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mega Raya Kusuma",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 28753438,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rajawali Resources",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 19264247,
+      "ownership_percentage": 99.64
+    },
+    {
+      "name": "PT Naga Mas Makmur Jaya",
+      "business_type": "Jasa Penunjang Pertambangan",
+      "total_assets": 13787868,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bara Enim Sejahtera",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 8154737,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "7.809.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "46,96",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "116,98",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "34,50",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "147,31",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,13",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "64,29",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:40.314Z"
+}

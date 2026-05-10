@@ -1,0 +1,734 @@
+{
+  "company_name": "PT Surya Semesta Internusa Tbk",
+  "ticker": "SSIA",
+  "office_address": "Tempo Scan Tower Lantai 20 Jl. Hr Rasuna Said Kavling 3-4 Jakarta Selatan",
+  "email": "inquiry@suryainternusa.com",
+  "phone": "(62-21) 526 2121, 527 2121",
+  "fax": "(62-21) 526 7878",
+  "tax_id": "01.302.653.9-054.000",
+  "website": "https://www.suryainternusa.com",
+  "listing_date": "1997-03-27",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pengembangan kawasan industri, properti, jasa konstruksi dan perhotelan melalui penyertaan pada entitas anak",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Properti, Energi, Konstruksi.",
+    "business_tags": [
+      "Agribisnis",
+      "Properti",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Yulean",
+    "email": "inquiry@suryainternusa.com",
+    "phone": "(62-21) 5262121, 5272121"
+  },
+  "directors": [
+    {
+      "name": "Johannes Suriadjaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "The Jok Tung",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wilson Effendy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sonny Satia Negara",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hagianto Kumala",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Crescento Hermawan",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Steen Dahl Poulsen",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "F. Bedjo Wiantono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Irawan Chandra",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hagianto Kumala",
+      "position": "Ketua"
+    },
+    {
+      "name": "Vonny Sulaimin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mamat Ma'mun",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 2498283496,
+      "percentage": 53.09
+    },
+    {
+      "name": "PT Henan Putihrai Asset Management",
+      "type": "Lebih dari 5%",
+      "shares": 536219300,
+      "percentage": 11.4
+    },
+    {
+      "name": "PT Dwimuria Investama Andalan",
+      "type": "Lebih dari 5%",
+      "shares": 482000000,
+      "percentage": 10.24
+    },
+    {
+      "name": "PT Arman Investments Utama",
+      "type": "Lebih dari 5%",
+      "shares": 400826144,
+      "percentage": 8.52
+    },
+    {
+      "name": "Gsi S/a Intrepid Investments Limited",
+      "type": "Lebih dari 5%",
+      "shares": 386015600,
+      "percentage": 8.2
+    },
+    {
+      "name": "Ddbs Bank Ltd Sg S/a PT Persada Capital Investama",
+      "type": "Lebih dari 5%",
+      "shares": 369188000,
+      "percentage": 7.85
+    },
+    {
+      "name": "Johannes Suriadjaja",
+      "type": "Direksi",
+      "shares": 16722400,
+      "percentage": 0.36
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 8140000,
+      "percentage": 0.17
+    },
+    {
+      "name": "Sonny Satia Negara",
+      "type": "Direksi",
+      "shares": 3293500,
+      "percentage": 0.07
+    },
+    {
+      "name": "Wilson Effendy",
+      "type": "Direksi",
+      "shares": 2337900,
+      "percentage": 0.05
+    },
+    {
+      "name": "The Jok Tung",
+      "type": "Direksi",
+      "shares": 2223100,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Suryacipta Swadaya (scs)",
+      "business_type": "Pembangunan dan Pengelolaan Kawasan Industri",
+      "total_assets": 5494,
+      "ownership_percentage": 63.5
+    },
+    {
+      "name": "PT Suryacipta Swadaya (scs)",
+      "business_type": "Pembangunan dan Pengelolaan Kawasan Industri",
+      "total_assets": 5494,
+      "ownership_percentage": 63.5
+    },
+    {
+      "name": "PT Nusa Raya Cipta Tbk (nrc)",
+      "business_type": "Bidang Konstruksi Bangunan",
+      "total_assets": 2766,
+      "ownership_percentage": 65.91
+    },
+    {
+      "name": "PT Nusa Raya Cipta Tbk (nrc)",
+      "business_type": "Bidang Konstruksi Bangunan",
+      "total_assets": 2766,
+      "ownership_percentage": 65.91
+    },
+    {
+      "name": "PT Jasa Semesta Utama (jsu)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 1581,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jasa Semesta Utama (jsu)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 1581,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Suryalaya Anindita International (sai)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 1310,
+      "ownership_percentage": 86.79
+    },
+    {
+      "name": "PT Suryalaya Anindita International (sai)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 1310,
+      "ownership_percentage": 86.79
+    },
+    {
+      "name": "PT Semesta Cipta Internasional (sci)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 1062,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Semesta Cipta Internasional (sci)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 1062,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Siti Indotama (sti)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 617,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Siti Indotama (sti)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 617,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Internusa Hotels (sih)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 480,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Internusa Hotels (sih)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 480,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sitiagung Makmur (sam)",
+      "business_type": "Pembangunan Properti",
+      "total_assets": 467,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sitiagung Makmur (sam)",
+      "business_type": "Pembangunan Properti",
+      "total_assets": 467,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Subang Smartpolitan (sss)",
+      "business_type": "Pembangunan, Pengembangan dan Jasa Pengelolaan Pelabuhan/",
+      "total_assets": 467,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Subang Smartpolitan (sss)",
+      "business_type": "Pembangunan, Pengembangan dan Jasa Pengelolaan Pelabuhan/",
+      "total_assets": 467,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Suryacipta Swadaya Infrastruktur (scsi)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 467,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Suryacipta Swadaya Infrastruktur (scsi)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 467,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Bumi Cipta (abc)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 462,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Bumi Cipta (abc)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 462,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tcp Internusa (tcp)",
+      "business_type": "Real Estat dan Penyewaan Gedung Perkantoran dan Pertokoan",
+      "total_assets": 422,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tcp Internusa (tcp)",
+      "business_type": "Real Estat dan Penyewaan Gedung Perkantoran dan Pertokoan",
+      "total_assets": 422,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Aman Sejahtera (bas)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 320,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Aman Sejahtera (bas)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 320,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Semesta Industri Pratama (sipa)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 319,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Semesta Industri Pratama (sipa)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 319,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ungasan Semesta Resort (usr)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 269,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ungasan Semesta Resort (usr)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 269,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Raya Sakti (brti)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 260,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumi Raya Sakti (brti)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 260,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Subang Sarana Investasi (susi)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 255,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Subang Sarana Investasi (susi)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 255,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Berjaya Agung Indonesia (bags)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 209,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Berjaya Agung Indonesia (bags)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 209,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Energi Parahita (sep)",
+      "business_type": "Kegiatan Usaha Hilir Minyak dan Gas Bumi Serta Industri Pembangkit Listrik Tenaga Gas",
+      "total_assets": 130,
+      "ownership_percentage": 79
+    },
+    {
+      "name": "PT Surya Energi Parahita (sep)",
+      "business_type": "Kegiatan Usaha Hilir Minyak dan Gas Bumi Serta Industri Pembangkit Listrik Tenaga Gas",
+      "total_assets": 130,
+      "ownership_percentage": 79
+    },
+    {
+      "name": "PT Subang Sejahtera Indonesia (ssra)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 126,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Subang Sejahtera Indonesia (ssra)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 126,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Centra Industri (suci)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 102,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Centra Industri (suci)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 102,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Internusa Lestari (sil)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Internusa Lestari (sil)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Tirta Sejahtera Investama (stsi)",
+      "business_type": "Pengelolaan Air, Real Estat, Konstruksi, Pengolahan, Perdagangan dan Jasa",
+      "total_assets": 90,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Tirta Sejahtera Investama (stsi)",
+      "business_type": "Pengelolaan Air, Real Estat, Konstruksi, Pengolahan, Perdagangan dan Jasa",
+      "total_assets": 90,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Semesta Realti (ssr)",
+      "business_type": "Real Estat, Pembangunan, Pengelolaan Gedung, Perdagangan dan Jasa",
+      "total_assets": 83,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Semesta Realti (ssr)",
+      "business_type": "Real Estat, Pembangunan, Pengelolaan Gedung, Perdagangan dan Jasa",
+      "total_assets": 83,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tirta Semesta Lestari (ttsl)",
+      "business_type": "Pengelolaan Air, Pengelolaan Air Limbah, Pengolahan Sampah, dan Konstuksi",
+      "total_assets": 67,
+      "ownership_percentage": 5.94
+    },
+    {
+      "name": "PT Tirta Semesta Lestari (ttsl)",
+      "business_type": "Pengelolaan Air, Pengelolaan Air Limbah, Pengolahan Sampah, dan Konstuksi",
+      "total_assets": 67,
+      "ownership_percentage": 5.94
+    },
+    {
+      "name": "PT Tirta Tiara Semesta (ttsa)",
+      "business_type": "Pengelolaan Air, Pengelolaan Air Limbah, Pengolahan Sampah, dan Konstuksi",
+      "total_assets": 67,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Tirta Tiara Semesta (ttsa)",
+      "business_type": "Pengelolaan Air, Pengelolaan Air Limbah, Pengolahan Sampah, dan Konstuksi",
+      "total_assets": 67,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Surya Cahaya Properti (scti)",
+      "business_type": "Real Estat, Pembangunan, Pengelolaan Gedung, Perdagangan dan Jasa/",
+      "total_assets": 45,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Cahaya Properti (scti)",
+      "business_type": "Real Estat, Pembangunan, Pengelolaan Gedung, Perdagangan dan Jasa/",
+      "total_assets": 45,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Bajo Properti (sbp)",
+      "business_type": "Perdagangan, Pembangunan, Perkebunan, Industri dan Jasa",
+      "total_assets": 38,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Bajo Properti (sbp)",
+      "business_type": "Perdagangan, Pembangunan, Perkebunan, Industri dan Jasa",
+      "total_assets": 38,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Enercon Paradhya International (epi)",
+      "business_type": "Penyertaan Saham pada Perusahaan-perusahaan Lain",
+      "total_assets": 33,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Enercon Paradhya International (epi)",
+      "business_type": "Penyertaan Saham pada Perusahaan-perusahaan Lain",
+      "total_assets": 33,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sinergi Bumi Cipta (sbc)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 30,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sinergi Bumi Cipta (sbc)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 30,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Internusa Properti (sip)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 25,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Internusa Properti (sip)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 25,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indo Indah (idah)",
+      "business_type": "Jasa Konsultasi dan Pengelolaan Properti",
+      "total_assets": 10,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indo Indah (idah)",
+      "business_type": "Jasa Konsultasi dan Pengelolaan Properti",
+      "total_assets": 10,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Citra Propertindo (scp)",
+      "business_type": "Perdagangan, Pembangunan, Perkebunan, Industri dan Jasa",
+      "total_assets": 10,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Citra Propertindo (scp)",
+      "business_type": "Perdagangan, Pembangunan, Perkebunan, Industri dan Jasa",
+      "total_assets": 10,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Batiqa Hotel Manajemen (bhm)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 4,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Batiqa Hotel Manajemen (bhm)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 4,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karsa Sedaya Sejahtera (kss)",
+      "business_type": "Perdagangan, Pembangunan, Pertanian, Pertambangan dan Jasa",
+      "total_assets": 3,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karsa Sedaya Sejahtera (kss)",
+      "business_type": "Perdagangan, Pembangunan, Pertanian, Pertambangan dan Jasa",
+      "total_assets": 3,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumbawa Raya Cipta (src)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 3,
+      "ownership_percentage": 65.91
+    },
+    {
+      "name": "PT Sumbawa Raya Cipta (src)",
+      "business_type": "Hotel dan Usaha Sejenis Lainnya",
+      "total_assets": 3,
+      "ownership_percentage": 65.91
+    },
+    {
+      "name": "PT Subang Arta Sejahtera (sas)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 2,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Subang Arta Sejahtera (sas)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 2,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Siti Pratama (ssma)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Siti Pratama (ssma)",
+      "business_type": "Pembangunan, Real Estat, Pengelolaan Kawasan Industri, Perdagangan dan Jasa",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karsa Semesta Prima (ksp)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karsa Semesta Prima (ksp)",
+      "business_type": "Pembangunan, Real Estat, Properti, Perdagangan dan Jasa",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Bajo Lestari (sbl)",
+      "business_type": "Real Estat, Pembangunan, Pengelolaan Gedung, Perdagangan dan Jasa",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Bajo Lestari (sbl)",
+      "business_type": "Real Estat, Pembangunan, Pengelolaan Gedung, Perdagangan dan Jasa",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Internusa Ticon (siti)",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pengangkutan, Pertanian dan Jasa",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Internusa Ticon (siti)",
+      "business_type": "Perdagangan, Pembangunan, Industri, Pengangkutan, Pertanian dan Jasa",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.398.870.250.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "23,76",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "31,20",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "2,05",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "112,80",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,16",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "4,80",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:59.073Z"
+}

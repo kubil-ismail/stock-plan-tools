@@ -1,0 +1,273 @@
+{
+  "company_name": "Pakuwon Jati Tbk",
+  "ticker": "PWON",
+  "office_address": "Pakuwon City Mall Lantai 5 Jl. Kejawan Putih Mutiara No. 17 Surabaya 60211",
+  "email": "corpsec@pakuwon.com",
+  "phone": "(031) 99218800",
+  "fax": "-",
+  "tax_id": "01.232.504.9-054.000",
+  "website": "https://www.pakuwonjati.com",
+  "listing_date": "1989-10-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Drs. Minarto",
+    "email": "minarto@pakuwon.com",
+    "phone": "031-5311088"
+  },
+  "directors": [
+    {
+      "name": "A. Stefanus Ridwan Suhendra",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sutandi Purnomosidi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wong Boon Siew Ivy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dra. Lauw, Syane Wahyuni Loekito",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Minarto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lusiana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alexander Tedja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Richard Adisastra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Dyah Pradnyaparamita D., Mm., Msi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Irene Tedja",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Dyah Pradnyaparamita Duarsa, Mm., Msi.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Pradhono Se.ak., Cpa., Ca., Msi.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ridwan Halim Se., Mcl.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pakuwon Arthaniaga",
+      "type": "Lebih dari 5%",
+      "shares": 33077598400,
+      "percentage": 68.68
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 14918591396,
+      "percentage": 30.999
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 132170164,
+      "percentage": 0.299
+    },
+    {
+      "name": "Alexander Tedja",
+      "type": "Komisaris",
+      "shares": 10608000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Wong Boon Siew Ivy",
+      "type": "Direksi",
+      "shares": 1000000,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Richard Adisastra",
+      "type": "Komisaris",
+      "shares": 131040,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pakuwon Permai (pp)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 8305262696,
+      "ownership_percentage": 67.13
+    },
+    {
+      "name": "PT Elite Prima Hutama (eph)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 6101895977,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Artisan Wahyu (aw)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 2976715721,
+      "ownership_percentage": 83.33
+    },
+    {
+      "name": "PT Grama Pramesi Siddhi (gps)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 2107072513,
+      "ownership_percentage": 83.73
+    },
+    {
+      "name": "PT Pakuwon Sentosa Abadi (psa)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 655487087,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Centrum Utama Prima (cup)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 618001429,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Dwijaya Manunggal (djm)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 461253167,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Permata Berlian Realty (pbr)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 320783031,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cemerlang Indo Properti",
+      "business_type": "Pengembang Properti",
+      "total_assets": 202356840,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Pakuwon Nusantara Abadi (pna)",
+      "business_type": "Pengembang Properti",
+      "total_assets": 25328284,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Prima Cipta Konstruksi (pck)",
+      "business_type": "Konstruksi",
+      "total_assets": 25043921,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pakuwon Regensi (pr)",
+      "business_type": "Tidak Aktif / Dormant",
+      "total_assets": 2052700,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.218.434.358.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,57",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "10,61",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "13,98",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,95",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,27",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "5,88",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:28.363Z"
+}

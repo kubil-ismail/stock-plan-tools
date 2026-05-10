@@ -1,0 +1,247 @@
+{
+  "company_name": "PT Cahayaputra Asa Keramik Tbk.",
+  "ticker": "CAKK",
+  "office_address": "Belleza Office Tower Lt. 21 Unit 01 - 02, Jl. Letjen. Soepeno No. 34, Kebayoran Lama, Jakarta Selatan 12210",
+  "email": "support@kaisarceramics.com",
+  "phone": "(021) 25675721",
+  "fax": "-",
+  "tax_id": "0016 8633 3402 8000",
+  "website": "https://www.kaisar-ceramics.com",
+  "listing_date": "2018-10-31",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Bahan Bangunan dari Keramik",
+    "business_summary": "Perusahaan bergerak di bidang Produk & Perlengkapan Bangunan.",
+    "business_tags": [
+      "Produk & Perlengkapan Bangunan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Cynthia Ayu Mayanda",
+    "email": "corsec@kaisarceramics.com",
+    "phone": "+62 (21) 2567 5721"
+  },
+  "directors": [
+    {
+      "name": "Johan Silitonga",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hermawan Sutantio",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sanderawati Joesoef",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Luciana Sutanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Anthony Soehartono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anthony Soehartono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Andreas Willyanto Mesach",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lianawaty",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kobin Keramik Industri",
+      "type": "Lebih dari 5%",
+      "shares": 1066636700,
+      "percentage": 88.643
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 136663519,
+      "percentage": 11.357
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sanderawati Joesoef",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Luciana Sutanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anthony Soehartono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johan Silitonga",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hermawan Sutantio",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mega Inspirasi Sumber Sejahtera",
+      "business_type": "Peradagangan Besar Genteng, Batu Bata, Ubin dan Sejenisnya dari Tanah Liat, Kapur, Semen atau Kaca",
+      "total_assets": 66,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Mega Inspirasi Sumber Sejahtera",
+      "business_type": "Peradagangan Besar Genteng, Batu Bata, Ubin dan Sejenisnya dari Tanah Liat, Kapur, Semen atau Kaca",
+      "total_assets": 64,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Mega Inspirasi Sumber Sejahtera",
+      "business_type": "Peradagangan Besar Genteng, Batu Bata, Ubin dan Sejenisnya dari Tanah Liat, Kapur, Semen atau Kaca",
+      "total_assets": 57,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mega Inspirasi Sumber Sejahtera",
+      "business_type": "Peradagangan Besar Genteng, Batu Bata, Ubin dan Sejenisnya dari Tanah Liat, Kapur, Semen atau Kaca",
+      "total_assets": 56,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Mega Inspirasi Sumber Sejahtera",
+      "business_type": "Peradagangan Besar Genteng, Batu Bata, Ubin dan Sejenisnya dari Tanah Liat, Kapur, Semen atau Kaca",
+      "total_assets": 53,
+      "ownership_percentage": 99.95
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "200.951.136.573",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,61",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "8,05",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,61",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "13,48",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,61",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,60",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:49.828Z"
+}

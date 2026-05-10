@@ -1,0 +1,565 @@
+{
+  "company_name": "Enseval Putera Megatrading Tbk",
+  "ticker": "EPMT",
+  "office_address": "Jl. Pulo Lentut No. 10 Kawasan Industri Pulo Gadung, Jakarta 13920",
+  "email": "investor.relations@enseval.com",
+  "phone": "(021) 46822422",
+  "fax": "(021) 460 9039",
+  "tax_id": "01.342.572.3-054.000",
+  "website": "https://www.enseval.com",
+  "listing_date": "1994-08-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Distributor Produk Kesehatan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan, Makanan & Minuman.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 87,
+    "name": "Ritel & Distributor Obat-obatan",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Sugianto",
+    "email": "sugianto@enseval.com",
+    "phone": "021-46822422"
+  },
+  "directors": [
+    {
+      "name": "Jos Iwan Atmadjaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Stanley Handiono Angkasa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budiyanto Bambang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Phing Phing Lieana Kusmiantoro",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ronny Hadiana",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sanadi Boenjamin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arianti Anaya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Pre Agusta Suswantoro",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Angelique Aryanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Arianti Anaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sinnatra Liputro",
+      "position": "Anggota"
+    },
+    {
+      "name": "Haryo Suparmun",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kalbe Farma Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 2491285795,
+      "percentage": 91.98
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 203536615,
+      "percentage": 7.51
+    },
+    {
+      "name": "Ronny Hadiana",
+      "type": "Komisaris",
+      "shares": 6639566,
+      "percentage": 0.25
+    },
+    {
+      "name": "Stanley Handiono Angkasa",
+      "type": "Direksi",
+      "shares": 4637868,
+      "percentage": 0.17
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2540156,
+      "percentage": 0.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sanadi Boenjamin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Angelique Aryanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arianti Anaya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pre Agusta Suswantoro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jos Iwan Atmadjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budiyanto Bambang",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Phing Phing Lieana Kusmiantoro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Global Chemindo Megatrading (gcm)",
+      "business_type": "Penjualan Bahan Baku Obat-obatan.",
+      "total_assets": 1415611,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Chemindo Megatrading",
+      "business_type": "Penjualan Bahan Baku Obat-obatan",
+      "total_assets": 1415179,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Chemindo Megatrading (gcm)",
+      "business_type": "Penjualan Bahan Baku Obat-obatan.",
+      "total_assets": 1393379,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Chemindo Megatrading (gcm)",
+      "business_type": "Penjualan Bahan Baku Obat-obatan.",
+      "total_assets": 1304752,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Chemindo Megatrading (gcm)",
+      "business_type": "Penjualan Bahan Baku Obat-obatan.",
+      "total_assets": 1193084,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Enseval Medika Prima (emp)",
+      "business_type": "Perdagangan Peralatan dan Perlengkapan Kesehatan dan Laboratorium.",
+      "total_assets": 891105,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Enseval Medika Prima (emp)",
+      "business_type": "Perdagangan Peralatan dan Perlengkapan Kesehatan dan Laboratorium.",
+      "total_assets": 883950,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Enseval Medika Prima (emp)",
+      "business_type": "Perdagangan Peralatan dan Perlengkapan Kesehatan dan Laboratorium.",
+      "total_assets": 879455,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Enseval Medika Prima (emp)",
+      "business_type": "Perdagangan Peralatan dan Perlengkapan Kesehatan dan Laboratorium.",
+      "total_assets": 861127,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Enseval Medika Prima",
+      "business_type": "Perdagangan Peralatan dan Perlengkapan Kesehatan dan Laboratorium",
+      "total_assets": 840515,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tri Sapta Jaya (tsj)",
+      "business_type": "Distribusi Produk Obat-obatan dan Peralatan Kesehatan.",
+      "total_assets": 630413,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tri Sapta Jaya (tsj)",
+      "business_type": "Distribusi Produk Obat-obatan dan Peralatan Kesehatan.",
+      "total_assets": 622447,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tri Sapta Jaya (tsj)",
+      "business_type": "Distribusi Produk Obat-obatan dan Peralatan Kesehatan.",
+      "total_assets": 597596,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tri Sapta Jaya (tsj)",
+      "business_type": "Distribusi Produk Obat-obatan dan Peralatan Kesehatan.",
+      "total_assets": 597596,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tri Sapta Jaya",
+      "business_type": "Distribusi Produk Obat-obatan dan Peralatan Kesehatan",
+      "total_assets": 595539,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Renalmed Tiara Utama (rtu)",
+      "business_type": "Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah.",
+      "total_assets": 187650,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Renalmed Tiara Utama (rtu)",
+      "business_type": "Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah.",
+      "total_assets": 183503,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Renalmed Tiara Utama (rtu)",
+      "business_type": "Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah.",
+      "total_assets": 176133,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Renalmed Tiara Utama (rtu)",
+      "business_type": "Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah.",
+      "total_assets": 165981,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Renalmed Tiara Utama",
+      "business_type": "Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah",
+      "total_assets": 161737,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Forsta Kalmedic Global (fkg)",
+      "business_type": "Industri Peralatan Kedokteran, Kedokteran Gigi, Perlengkapan Lainnya dan Jasa Kalibrasi.",
+      "total_assets": 139914,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Forsta Kalmedic Global (fkg)",
+      "business_type": "Industri Peralatan Kedokteran, Kedokteran Gigi, Perlengkapan Lainnya dan Jasa Kalibrasi.",
+      "total_assets": 122990,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Forsta Kalmedic Global (fkg)",
+      "business_type": "Industri Peralatan Kedokteran, Kedokteran Gigi, Perlengkapan Lainnya dan Jasa Kalibrasi.",
+      "total_assets": 113393,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Forsta Kalmedic Global (fkg)",
+      "business_type": "Industri Peralatan Kedokteran, Kedokteran Gigi, Perlengkapan Lainnya dan Jasa Kalibrasi.",
+      "total_assets": 108292,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mostrans Global Digilog (mgd)",
+      "business_type": "Jasa Layanan Pengangkutan dan Pergudangan dengan Menggunakan Platform Digital.",
+      "total_assets": 97167,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Mostrans Global Digilog (mgd)",
+      "business_type": "Jasa Layanan Pengangkutan dan Pergudangan dengan Menggunakan Platform Digital.",
+      "total_assets": 94491,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Forsta Kalmedic Global",
+      "business_type": "Industri Peralatan Kedokteran, Kedokteran Gigi, Perlengkapan Lainnya dan Jasa Kalibrasi",
+      "total_assets": 89269,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mostrans Global Digilog",
+      "business_type": "Jasa Layanan Pengangkutan dan Pergudangan dengan Menggunakan Platform Digital",
+      "total_assets": 84988,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Mostrans Global Digilog (mgd)",
+      "business_type": "Jasa Layanan Pengangkutan dan Pergudangan dengan Menggunakan Platform Digital.",
+      "total_assets": 80494,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Mostrans Global Digilog (mgd)",
+      "business_type": "Jasa Layanan Pengangkutan dan Pergudangan dengan Menggunakan Platform Digital.",
+      "total_assets": 72416,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Mitra Ananda Megadistrindo (mam)",
+      "business_type": "Perdagangan Besar Daging, Produk Olahan, Aktivitas Cold Storage dan Pergudangan.",
+      "total_assets": 51957,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mitra Ananda Megadistrindo (mam)",
+      "business_type": "Perdagangan Besar Daging, Produk Olahan, Aktivitas Cold Storage dan Pergudangan.",
+      "total_assets": 51234,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mitra Ananda Megadistrindo (mam)",
+      "business_type": "Perdagangan Besar Daging, Produk Olahan, Aktivitas Cold Storage dan Pergudangan.",
+      "total_assets": 50400,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mitra Ananda Megadistrindo (mam)",
+      "business_type": "Perdagangan Besar Daging, Produk Olahan, Aktivitas Cold Storage dan Pergudangan.",
+      "total_assets": 50102,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Millenia Dharma Insani (mdi)",
+      "business_type": "Apotik dan Klinik Pelayanan Kesehatan.",
+      "total_assets": 44620,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Millenia Dharma Insani (mdi)",
+      "business_type": "Apotik dan Klinik Pelayanan Kesehatan.",
+      "total_assets": 40187,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Millenia Dharma Insani (mdi)",
+      "business_type": "Apotik dan Klinik Pelayanan Kesehatan.",
+      "total_assets": 33112,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Medika Renal Citraprima (mrc)",
+      "business_type": "Klinik Cuci Darah, Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah.",
+      "total_assets": 32190,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Medika Renal Citraprima (mrc)",
+      "business_type": "Klinik Cuci Darah, Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah.",
+      "total_assets": 32190,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Millenia Dharma Insani (mdi)",
+      "business_type": "Apotik dan Klinik Pelayanan Kesehatan.",
+      "total_assets": 31520,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Medika Renal Citraprima",
+      "business_type": "Klinik Cuci Darah, Perdagangan Barang untuk Terapi Cuci Darah",
+      "total_assets": 30971,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Medika Renal Citraprima (mrc)",
+      "business_type": "Klinik Cuci Darah, Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah.",
+      "total_assets": 30943,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Medika Renal Citraprima (mrc)",
+      "business_type": "Klinik Cuci Darah, Perdagangan Barang Habis Pakai untuk Terapi Cuci Darah.",
+      "total_assets": 30893,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emos Global Digital (egd)",
+      "business_type": "Perdagangan dan Usaha, Jasa Informasi Melalui, Portal Web Dan/atau Platform Digital.",
+      "total_assets": 30520,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Emos Global Digital (egd)",
+      "business_type": "Perdagangan dan Usaha, Jasa Informasi Melalui, Portal Web Dan/atau Platform Digital.",
+      "total_assets": 28938,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Emos Global Digital (egd)",
+      "business_type": "Perdagangan dan Usaha, Jasa Informasi Melalui, Portal Web Dan/atau Platform Digital.",
+      "total_assets": 28546,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Emos Global Digital",
+      "business_type": "Perdagangan dan Usaha Jasa Informasi Melalui Portal Web Dan/atau Platform Digital",
+      "total_assets": 27613,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Milennia Dharma Insani",
+      "business_type": "Klinik Pelayanan Kesehatan",
+      "total_assets": 26646,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emos Global Digital (egd)",
+      "business_type": "Perdagangan dan Usaha, Jasa Informasi Melalui, Portal Web Dan/atau Platform Digital.",
+      "total_assets": 26084,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Global Karsa Medika (gkm)",
+      "business_type": "Perdagangan Besar Farmasi, Alat Kesehatan, Makanan dan Minuman.",
+      "total_assets": 3248,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Karsa Medika (gkm)",
+      "business_type": "Perdagangan Besar Farmasi, Alat Kesehatan, Makanan dan Minuman.",
+      "total_assets": 3234,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Karsa Medika (gkm)",
+      "business_type": "Perdagangan Besar Farmasi, Alat Kesehatan, Makanan dan Minuman.",
+      "total_assets": 3211,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Karsa Medika",
+      "business_type": "Perdagangan Besar Farmasi, Alat Kesehatan, Makanan dan Minuman",
+      "total_assets": 3207,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Karsa Medika (gkm)",
+      "business_type": "Perdagangan Besar Farmasi, Alat Kesehatan, Makanan dan Minuman.",
+      "total_assets": 3197,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.392.390.400.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,28",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,04",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "0,85",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "1,28",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,84",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "3,49",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:32.017Z"
+}

@@ -1,0 +1,283 @@
+{
+  "company_name": "Bisi International Tbk",
+  "ticker": "BISI",
+  "office_address": "Jl. Raya Surabaya - Mojokerto Km. 19, Bringinbendo, Taman, Sidoarjo, 61257",
+  "email": "investor.relations@bisi.co.id",
+  "phone": "(031) - 7882528",
+  "fax": "(031) - 7882856",
+  "tax_id": "01.060.123.5-054.000",
+  "website": "https://www.bisi.co.id",
+  "listing_date": "2007-05-28",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Agriculture Plantation",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Teknologi, Makanan & Minuman.",
+    "business_tags": [
+      "Agribisnis",
+      "Teknologi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Bapak A. Novia Edi Maharanto",
+    "email": "edi.maharanto@bisi.co.id",
+    "phone": "62317882528"
+  },
+  "directors": [
+    {
+      "name": "Agus Saputra Wijaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Putu Darsana",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Arief Tonny Kusuma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adhi Kristanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjiu Thomas Effendy",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lie Suhanto",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Burhan Hidayat",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sunardi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sunardi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ira Luciawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Iswanto Tanoyo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1060968100,
+      "percentage": 35.35
+    },
+    {
+      "name": "PT Agrindo Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 930000000,
+      "percentage": 31
+    },
+    {
+      "name": "Field Investment Holdings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 190687500,
+      "percentage": 6.36
+    },
+    {
+      "name": "Valley Investment Holdings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 190687500,
+      "percentage": 6.36
+    },
+    {
+      "name": "Vista Investment Holdings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 190687500,
+      "percentage": 6.36
+    },
+    {
+      "name": "Ubs Ag",
+      "type": "Lebih dari 5%",
+      "shares": 158977000,
+      "percentage": 5.3
+    },
+    {
+      "name": "United Overseas Bank Nominees (private) Limited",
+      "type": "Lebih dari 5%",
+      "shares": 152683500,
+      "percentage": 5.09
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 122250000,
+      "percentage": 4.08
+    },
+    {
+      "name": "Tjiu Thomas Effendy",
+      "type": "Komisaris",
+      "shares": 2748900,
+      "percentage": 0.09
+    },
+    {
+      "name": "Lie Suhanto",
+      "type": "Komisaris",
+      "shares": 310000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agus Saputra Wijaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Putu Darsana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arief Tonny Kusuma",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adhi Kristanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Burhan Hidayat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sunardi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Multi Sarana Indotani",
+      "business_type": "Memproduksi Pestisida",
+      "total_assets": 1000087,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Tanindo Intertraco",
+      "business_type": "Perdagangan Pestisida, Alat & Mesin Pertanian",
+      "total_assets": 172465,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bina Cipta Teknologi",
+      "business_type": "Perdagangan Alat & Mesin Pertanian",
+      "total_assets": 32090,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Bina Sarana Indotani",
+      "business_type": "Perdagangan Pestisida, Alat dan Mesin Pertanian",
+      "total_assets": 2002,
+      "ownership_percentage": 99.5
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.250.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,63",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "12,92",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "13,41",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "17,55",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,97",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "11,93",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:51.867Z"
+}

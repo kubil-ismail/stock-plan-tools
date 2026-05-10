@@ -17,10 +17,10 @@ import { format, addDays, subDays } from "date-fns";
 import posthog from "posthog-js";
 import { id } from "date-fns/locale";
 
-import company from "@/data/company.json";
-import notation from "@/data/information/notations/notation.json";
-import pemantauan_khusus from "@/data/information/pemantauan_khusus/pemantauan_khusus.json";
-import calendar from "@/data/information/calendar/calendar.json";
+import company from "@/data/archive/company.json";
+import notation from "@/data/archive/information/notations/notation.json";
+import pemantauan_khusus from "@/data/archive/information/pemantauan_khusus/pemantauan_khusus.json";
+import calendar from "@/data/archive/information/calendar/calendar.json";
 import Breadcrumbs from "@/components/breadcrumbs";
 import { cn } from "@/lib/utils";
 

@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
-import shareholder from "@/data/shareholders.json";
-import company from "@/data/company_list.json";
+import shareholder from "@/data/archive/shareholders.json";
+import company from "@/data/archive/company_list.json";
 import { slugify } from "@/lib/utils";
 
 const BASE_URL = "https://stockplan.id";

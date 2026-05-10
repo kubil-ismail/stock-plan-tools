@@ -1,0 +1,749 @@
+{
+  "company_name": "Metropolitan Land Tbk",
+  "ticker": "MTLA",
+  "office_address": "M Gold Tower Office Wing Suite Abcgh Lt. 12 & Suite A-h Lt. 15, Jl. Letkol. M. Moeffreni Moe'min, Pekayon Jaya, Bekasi Selatan, Kota Bekasi",
+  "email": "corpsec@metropolitanland.com",
+  "phone": "021-28087777",
+  "fax": "021-28085555",
+  "tax_id": "01.657.313.1-054.000",
+  "website": "https://www.metropolitanland.com",
+  "listing_date": "2011-06-20",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perumahan, mal/pusat perbelanjaan, perdagangan dan jasa akomodasi (hotel)",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Makanan & Minuman.",
+    "business_tags": [
+      "Properti",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Olivia Surodjo",
+    "email": "corpsec@metropolitanland.com",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Anhar Sudradjat",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Olivia Surodjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wahyu Sulistio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Junita Ciputra",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Iwan Putra Brasali",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nanda Widya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Thomas Johannes Angfendy",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Leland Gerrits Rompas",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Thomas Johannes Angfendy",
+      "position": "Ketua"
+    },
+    {
+      "name": "R. Pandu Gunandito",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sartono Ngadimin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Metropolitan Persada Internasional",
+      "type": "Lebih dari 5%",
+      "shares": 2872301303,
+      "percentage": 37.52
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1572377268,
+      "percentage": 20.54
+    },
+    {
+      "name": "Afiliasi Pengendali",
+      "type": "Lebih dari 5%",
+      "shares": 1261803500,
+      "percentage": 16.48
+    },
+    {
+      "name": "PT. Ciputra Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 1148268950,
+      "percentage": 15
+    },
+    {
+      "name": "PT. Yulie Sekuritas Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 553900961,
+      "percentage": 7.24
+    },
+    {
+      "name": "Iwan Putra Brasali",
+      "type": "Komisaris",
+      "shares": 156250000,
+      "percentage": 2.04
+    },
+    {
+      "name": "Nanda Widya",
+      "type": "Komisaris",
+      "shares": 66692130,
+      "percentage": 0.87
+    },
+    {
+      "name": "Nanda Widya",
+      "type": "Komisaris",
+      "shares": 14373214,
+      "percentage": 0.19
+    },
+    {
+      "name": "Anhar Sudradjat",
+      "type": "Direksi",
+      "shares": 6000058,
+      "percentage": 0.08
+    },
+    {
+      "name": "Olivia Surodjo",
+      "type": "Direksi",
+      "shares": 2993456,
+      "percentage": 0.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wahyu Sulistio",
+      "type": "Direksi",
+      "shares": 119900,
+      "percentage": 0
+    },
+    {
+      "name": "Santoso",
+      "type": "Direksi",
+      "shares": 45590,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Metropolitan Permata Development",
+      "business_type": "Real Estat, Pusat Perbelanjaan dan Hotel",
+      "total_assets": 2431705,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Permata Development",
+      "business_type": "Real Estat, Pusat Perbelanjaan dan Hotel",
+      "total_assets": 2416725,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Permata Development",
+      "business_type": "Real Estat, Pusat Perbelanjaan dan Hotel",
+      "total_assets": 2401165,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Permata Development",
+      "business_type": "Real Estat, Pusat Perbelanjaan dan Hotel",
+      "total_assets": 2395823,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Permata Development",
+      "business_type": "Real Estat, Pusat Perbelanjaan dan Hotel",
+      "total_assets": 2252871,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fajarputera Dinasti",
+      "business_type": "Real Estat",
+      "total_assets": 1705897,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fajarputera Dinasti",
+      "business_type": "Real Estat",
+      "total_assets": 1700555,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fajarputera Dinasti",
+      "business_type": "Real Estat",
+      "total_assets": 1681428,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fajarputera Dinasti",
+      "business_type": "Real Estat",
+      "total_assets": 1616874,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fajarputera Dinasti",
+      "business_type": "Real Estat",
+      "total_assets": 1588209,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Karyadeka Development",
+      "business_type": "Real Estat",
+      "total_assets": 1056128,
+      "ownership_percentage": 50.01
+    },
+    {
+      "name": "PT Metropolitan Karyadeka Development",
+      "business_type": "Real Estat",
+      "total_assets": 1045753,
+      "ownership_percentage": 50.01
+    },
+    {
+      "name": "PT Metropolitan Karyadeka Development",
+      "business_type": "Real Estat",
+      "total_assets": 1045051,
+      "ownership_percentage": 50.01
+    },
+    {
+      "name": "PT Metropolitan Karyadeka Development",
+      "business_type": "Real Estat",
+      "total_assets": 996703,
+      "ownership_percentage": 50.01
+    },
+    {
+      "name": "PT Kembang Griya Cahaya",
+      "business_type": "Real Estat dan Pusat Perbelanjaan",
+      "total_assets": 934180,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kembang Griya Cahaya",
+      "business_type": "Real Estat dan Pusat Perbelanjaan",
+      "total_assets": 924729,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kembang Griya Cahaya",
+      "business_type": "Real Estat dan Pusat Perbelanjaan",
+      "total_assets": 913113,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kembang Griya Cahaya",
+      "business_type": "Real Estat dan Pusat Perbelanjaan",
+      "total_assets": 899783,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kembang Griya Cahaya",
+      "business_type": "Real Estat dan Pusat Perbelanjaan",
+      "total_assets": 890948,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Karyadeka Development",
+      "business_type": "Real Estat",
+      "total_assets": 845659,
+      "ownership_percentage": 50.01
+    },
+    {
+      "name": "PT Metropolitan Kertajati Development",
+      "business_type": "Real Estat",
+      "total_assets": 623867,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Kertajati Development",
+      "business_type": "Real Estat",
+      "total_assets": 622167,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Kertajati Development",
+      "business_type": "Real Estat",
+      "total_assets": 619366,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Kertajati Development",
+      "business_type": "Real Estat",
+      "total_assets": 613255,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Kertajati Development",
+      "business_type": "Real Estat",
+      "total_assets": 612149,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agus Nusa Penida",
+      "business_type": "Real Estat",
+      "total_assets": 409357,
+      "ownership_percentage": 99.65
+    },
+    {
+      "name": "PT Agus Nusa Penida",
+      "business_type": "Real Estat",
+      "total_assets": 406462,
+      "ownership_percentage": 99.65
+    },
+    {
+      "name": "PT Agus Nusa Penida",
+      "business_type": "Real Estat",
+      "total_assets": 404621,
+      "ownership_percentage": 99.65
+    },
+    {
+      "name": "PT Agus Nusa Penida",
+      "business_type": "Real Estat",
+      "total_assets": 391044,
+      "ownership_percentage": 99.65
+    },
+    {
+      "name": "PT Sumber Tata Lestari",
+      "business_type": "Hotel",
+      "total_assets": 298519,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Tata Lestari",
+      "business_type": "Hotel",
+      "total_assets": 285520,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Tata Lestari",
+      "business_type": "Hotel",
+      "total_assets": 285220,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agus Nusa Penida",
+      "business_type": "Real Estat",
+      "total_assets": 218899,
+      "ownership_percentage": 99.65
+    },
+    {
+      "name": "PT Sumber Tata Lestari",
+      "business_type": "Hotel",
+      "total_assets": 155360,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Tata Lestari",
+      "business_type": "Hotel",
+      "total_assets": 149465,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumbersentosa Guna Lestari",
+      "business_type": "Perkantoran",
+      "total_assets": 134061,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sumbersentosa Guna Lestari",
+      "business_type": "Perkantoran",
+      "total_assets": 130875,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bangun Subang Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 129210,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumbersentosa Guna Lestari",
+      "business_type": "Perkantoran",
+      "total_assets": 127380,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sumbersentosa Guna Lestari",
+      "business_type": "Perkantoran",
+      "total_assets": 127309,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Sumbersentosa Guna Lestari",
+      "business_type": "Perkantoran",
+      "total_assets": 123131,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bangun Subang Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 96528,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bangun Subang Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 65431,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bangun Subang Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 44035,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Deta Graha",
+      "business_type": "Hotel",
+      "total_assets": 39779,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Metropolitan Deta Graha",
+      "business_type": "Hotel",
+      "total_assets": 38831,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Metropolitan Deta Graha",
+      "business_type": "Hotel",
+      "total_assets": 38564,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Metropolitan Lampung Graha",
+      "business_type": "Hotel",
+      "total_assets": 38361,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Lampung Graha",
+      "business_type": "Hotel",
+      "total_assets": 38310,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Lampung Graha",
+      "business_type": "Hotel",
+      "total_assets": 38304,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Lampung Graha",
+      "business_type": "Hotel",
+      "total_assets": 38275,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Deta Graha",
+      "business_type": "Hotel",
+      "total_assets": 38163,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Metropolitan Lampung Graha",
+      "business_type": "Hotel",
+      "total_assets": 38150,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Deta Graha",
+      "business_type": "Hotel",
+      "total_assets": 37429,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Sumber Selera Indonesia",
+      "business_type": "Real Estat, Restoran dan Industri Makanan",
+      "total_assets": 35114,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Selera Indonesia",
+      "business_type": "Real Estat, Restoran dan Industri Makanan",
+      "total_assets": 32923,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Manajemen",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 32578,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Selera Indonesia",
+      "business_type": "Real Estat, Restoran dan Industri Makanan",
+      "total_assets": 32265,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Selera Indonesia",
+      "business_type": "Real Estat, Restoran dan Industri Makanan",
+      "total_assets": 31440,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Graha Kertajati",
+      "business_type": "Real Estat",
+      "total_assets": 30784,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Manajemen",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 30698,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Graha Kertajati",
+      "business_type": "Real Estat",
+      "total_assets": 30403,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Graha Kertajati",
+      "business_type": "Real Estat",
+      "total_assets": 30389,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Graha Kertajati",
+      "business_type": "Real Estat",
+      "total_assets": 30374,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bangun Subang Sejahtera",
+      "business_type": "Real Estat",
+      "total_assets": 30111,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Graha Kertajati",
+      "business_type": "Real Estat",
+      "total_assets": 30020,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Manajemen",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 26008,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Manajemen",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 24961,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Manajemen",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 22960,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Selera Indonesia",
+      "business_type": "Real Estat, Restoran dan Industri Makanan",
+      "total_assets": 20035,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Kembang Sentosa",
+      "business_type": "Real Estat",
+      "total_assets": 18710,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Kembang Sentosa",
+      "business_type": "Real Estat",
+      "total_assets": 18688,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Kembang Sentosa",
+      "business_type": "Real Estat",
+      "total_assets": 18687,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Kembang Sentosa",
+      "business_type": "Real Estat",
+      "total_assets": 18687,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Kembang Sentosa",
+      "business_type": "Real Estat",
+      "total_assets": 18570,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Graha Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 16274,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Metropolitan Graha Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 13994,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Metropolitan Graha Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 11620,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Metropolitan Graha Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 10576,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Metropolitan Graha Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 9944,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Metropolitan Global Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 2367,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Metropolitan Global Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 2198,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Metropolitan Global Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 2096,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Metropolitan Global Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 1940,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Metropolitan Global Management",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 1666,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.865.838.796.650",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,62",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "15,83",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "12,22",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "15,83",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "19,84",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:23.561Z"
+}

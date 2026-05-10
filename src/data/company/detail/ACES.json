@@ -1,0 +1,218 @@
+{
+  "company_name": "PT Aspirasi Hidup Indonesia Tbk",
+  "ticker": "ACES",
+  "office_address": "Gedung Kawan Lama, Jl. Puri Kencana No. 1, Kembangan Selatan, Kembangan, Jakarta Barat 11610",
+  "email": "corsec@ahi.id",
+  "phone": "021 - 5828282",
+  "fax": "021 - 5824022",
+  "tax_id": "01.721.123.6-054.000",
+  "website": "https://ahi.id",
+  "listing_date": "2007-11-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Ritel Barang Rumah Tangga.",
+    "business_tags": [
+      "Ritel Barang Rumah Tangga"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 88,
+    "name": "Ritel Barang Rumah Tangga",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Billy Utama Suria",
+    "email": "corsec@ahi.id",
+    "phone": "+62215828282"
+  },
+  "directors": [
+    {
+      "name": "Prabowo Widya Krisnadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Suharno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gregory Sugyono Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Teresa Lucia Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Hartanto Djasman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Letjen Tni (purn) Tarub",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Irjen Pol (purn) Drs. Mathius Salempang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tarisa Widya Krisnadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kuncoro Wibowo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Irjen Pol (purn.) Drs. Mathius Salempang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Julianto Sidarto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr. Liany Leo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kawan Lama Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 10272189700,
+      "percentage": 60
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6846422900,
+      "percentage": 39.99
+    },
+    {
+      "name": "Teresa Lucia Wibowo",
+      "type": "Direksi",
+      "shares": 983000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suharno",
+      "type": "Direksi",
+      "shares": 600000,
+      "percentage": 0
+    },
+    {
+      "name": "Gregory Sugyono Widjaja",
+      "type": "Direksi",
+      "shares": 94100,
+      "percentage": 0
+    },
+    {
+      "name": "Kuncoro Wibowo",
+      "type": "Komisaris",
+      "shares": 100000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kawan Lama Inovasi",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 765544688484,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Toys Games Indonesia",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 363117907352,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Omni Digitama Internusa",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 109131538265,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Krisna Aspirasi Sejahtera",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 88105255482,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.129.099.512.600",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,74",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "5,94",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "17,03",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "27,62",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,15",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "7,32",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:48.761Z"
+}

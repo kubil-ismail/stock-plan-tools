@@ -1,0 +1,323 @@
+{
+  "company_name": "Petrosea Tbk",
+  "ticker": "PTRO",
+  "office_address": "Wisma Barito Pacific, Jl. Let. Jend. S. Parman Kav. 62-63, Kelurahan Slipi, Kecamatan Palmerah, Jakarta Barat, Jakarta 11410",
+  "email": "corporate.secretary@petrosea.com",
+  "phone": "021-29770999",
+  "fax": "021-29770988",
+  "tax_id": "01.001.703.6-091.000",
+  "website": "https://www.petrosea.com",
+  "listing_date": "1990-05-21",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Konstruksi.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Anto Broto",
+    "email": "corporate.secretary@petrosea.com",
+    "phone": "021-29770999"
+  },
+  "directors": [
+    {
+      "name": "Michael",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kartika Hendrawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ruddy Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Meinar Kusumastuti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iman Darus Hikhman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Osman Sitorus",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Prof. Ginandjar Kartasasmita",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djauhar Maulidi S.e., M.b.a.",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Erwin Ciputra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jend. Pol. (purn.) Drs. Sutanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Setia Untung Arimuladi S.h., M.hum",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Setia Untung Arimuladi S.h., M.hum.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sahat Pardede",
+      "position": "Anggota"
+    },
+    {
+      "name": "M. Oka Lesmana Firdauzi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Madelin A. Hardjapamekas",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kreasi Jasa Persada",
+      "type": "Lebih dari 5%",
+      "shares": 4571811700,
+      "percentage": 45.328
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2940728330,
+      "percentage": 29.1564
+    },
+    {
+      "name": "PT Caraka Reksa Optima",
+      "type": "Lebih dari 5%",
+      "shares": 2465974670,
+      "percentage": 24.449
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 91798000,
+      "percentage": 0.91
+    },
+    {
+      "name": "Erwin Ciputra",
+      "type": "Komisaris",
+      "shares": 11654000,
+      "percentage": 0.1155
+    },
+    {
+      "name": "Michael",
+      "type": "Direksi",
+      "shares": 2130500,
+      "percentage": 0.021
+    },
+    {
+      "name": "Kartika Hendrawan",
+      "type": "Direksi",
+      "shares": 1938000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Meinar Kusumastuti",
+      "type": "Direksi",
+      "shares": 14800,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. Sutanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Setia Untung Arimuladi, S.h., M.hum",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ruddy Santoso",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iman Darus Hikhman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Osman Sitorus",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Djauhar Maulidi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Prof. Ginandjar Kartasasmita",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Karya Bhumi Lestari",
+      "business_type": "Mining Support Services",
+      "total_assets": 65130,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kemilau Mulia Sakti (ptkms)",
+      "business_type": "Coal Mining",
+      "total_assets": 14473,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kuala Pelabuhan Indonesia",
+      "business_type": "Port Operation, Transportation Contracting (roads), And The Rendering Of Service",
+      "total_assets": 13019,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "Petros Solution Pty Ltd",
+      "business_type": "Solution Provider In Geology, Mining And Epc",
+      "total_assets": 2768,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Posb Infrastructure Indonesia",
+      "business_type": "Special Port Management",
+      "total_assets": 1980,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Kinarya Bangun Sesama (previously PT Petrosea Kalimantan)",
+      "business_type": "Trading And Contractor",
+      "total_assets": 964,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rekakarsa Karya Nusantara (previously PT Petrosea Rekayasa dan Konstruksi Indonesia)",
+      "business_type": "Engineering Services",
+      "total_assets": 412,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Petrosea Infrastruktur Nusantara (ptpin)",
+      "business_type": "Holding Company, Professional Activities, Scientific And Technique",
+      "total_assets": 310,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Ptp Investment Pte. Ltd",
+      "business_type": "Investment",
+      "total_assets": 3,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "50.934.552.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,05",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "11,79",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "40,94",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "74,14",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,49",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "54,91",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:19.111Z"
+}

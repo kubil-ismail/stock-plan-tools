@@ -1,0 +1,231 @@
+{
+  "company_name": "PT Vastland Indonesia Tbk",
+  "ticker": "VAST",
+  "office_address": "Jl. Tembesu No. 8a, Kel. Campang Raya, Sukabumi, Bandar Lampung, Lampung 35122",
+  "email": "corporate.secreatary@vastland.co.id",
+  "phone": "(0721) 8030075",
+  "fax": "",
+  "tax_id": "03.066.444.5-322.000",
+  "website": "https://www.vastland.co.id",
+  "listing_date": "2023-02-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Stanley V. Gunawan",
+    "email": "corporate.secreatry@vastland.co.id",
+    "phone": "(0721) 8030 075"
+  },
+  "directors": [
+    {
+      "name": "Vicky Vergilius Gunawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Stanley V. Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jonathan Jochanan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yuanita Tjoatjawinata",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Levina Junieta Gunawan",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Jonathan Jochanan",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tembesu Elang Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 2138400000,
+      "percentage": 69.98
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 658552049,
+      "percentage": 21.55
+    },
+    {
+      "name": "PT Bersatu Kita Tangguh",
+      "type": "Lebih dari 5%",
+      "shares": 237600000,
+      "percentage": 7.77
+    },
+    {
+      "name": "Stanley V. Gunawan",
+      "type": "Direksi",
+      "shares": 15245000,
+      "percentage": 0.5
+    },
+    {
+      "name": "Vicky Vergilius Gunawa",
+      "type": "Direksi",
+      "shares": 2970000,
+      "percentage": 0.1
+    },
+    {
+      "name": "Yuanita Tjoatjawinata",
+      "type": "Komisaris",
+      "shares": 2970000,
+      "percentage": 0.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Vastland Indonesia Tbk",
+      "business_type": "Real Estate",
+      "total_assets": 521460041997,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Vastland Indonesia Tbk",
+      "business_type": "Real Estate",
+      "total_assets": 521460041997,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Vastland Indonesia Tbk",
+      "business_type": "Real Estate",
+      "total_assets": 521460041997,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Vastland Indonesia Tbk",
+      "business_type": "Real Estate",
+      "total_assets": 521460041997,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Vastland Indonesia Tbk",
+      "business_type": "Real Estate",
+      "total_assets": 328764801331,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Vastland Indonesia Tbk",
+      "business_type": "Real Estate",
+      "total_assets": 328764801331,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "385.022.868.174",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,66",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "4,65",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "2,88",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "15,38",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,27",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "21,51",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:19.507Z"
+}

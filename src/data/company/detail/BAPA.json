@@ -1,0 +1,190 @@
+{
+  "company_name": "Bekasi Asri Pemula Tbk",
+  "ticker": "BAPA",
+  "office_address": "Gedung Tomang Tol Lt. 2, Jl. Arjuna No. 1, Tanjung Duren Selatan, Jakarta 11470",
+  "email": "corporatesecretary@bekasiasripemula.co.id",
+  "phone": "563 6913; 569 42191",
+  "fax": "5687232",
+  "tax_id": "01.635.426.8-054.000",
+  "website": "https://www.bekasiasripemula.co.id",
+  "listing_date": "2008-01-14",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Warinton Simanjuntak",
+    "email": "corporatesecretary@bekasiasri.co.id",
+    "phone": "021-29181028"
+  },
+  "directors": [
+    {
+      "name": "Warinton Simanjuntak, Se, Sh",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yakobus Triguno",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suryo Nugroho",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ivana Maharani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anisa Anta Puspitasari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rosmiarti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ivana Maharani",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 224613820,
+      "percentage": 33.94
+    },
+    {
+      "name": "PT Adicipta Griya Sejati",
+      "type": "Lebih dari 5%",
+      "shares": 204775000,
+      "percentage": 30.94
+    },
+    {
+      "name": "PT Papua Timber Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 120000000,
+      "percentage": 18.13
+    },
+    {
+      "name": "PT Inti Fikasa Sekuritas",
+      "type": "Lebih dari 5%",
+      "shares": 63836100,
+      "percentage": 9.65
+    },
+    {
+      "name": "Belvin Tannadi",
+      "type": "Lebih dari 5%",
+      "shares": 48554600,
+      "percentage": 7.34
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5000,
+      "percentage": 0
+    },
+    {
+      "name": "Warinton Simanjuntak",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yakobus Triguno",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suryo Nugroho",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ivana Maharani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "157.504.715.760",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "180,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "167,42",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "193,83",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "376,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "153,19",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:09.506Z"
+}

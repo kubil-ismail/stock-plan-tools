@@ -1,0 +1,183 @@
+{
+  "company_name": "PT Trimegah Sekuritas Indonesia Tbk",
+  "ticker": "TRIM",
+  "office_address": "Gedung Artha Graha Lt. 18 & 19, Jl. Jend. Sudirman Kav. 52-53 Jakarta 12190",
+  "email": "corporate.secretary@trimegah.com",
+  "phone": "+62-21 2924 9088",
+  "fax": "+62-21 2924 9150",
+  "tax_id": "0013 4176 5405 4000",
+  "website": "https://www.trimegah.com",
+  "listing_date": "2000-01-31",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Securities Company",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 12,
+    "name": "Jasa Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 13,
+    "name": "Jasa Investasi"
+  },
+  "sub_industry": {
+    "id": 10,
+    "name": "Bank Investasi & Perantara Perdagangan",
+    "industries_id": 13
+  },
+  "corporate_secretary": {
+    "name": "Nindya Kumala Dewi",
+    "email": "corporate.secretary@trimegah.com",
+    "phone": "+62-21 2924 9088"
+  },
+  "directors": [
+    {
+      "name": "Philmon Samuel Tanuri",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "David Agus",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anung Rony Hascaryo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rofikoh Rokhim",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edy Sugito",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rofikoh Rokhim",
+      "position": "Ketua"
+    },
+    {
+      "name": "Grace Citra Dewi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Widia Praptiwi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3653609300,
+      "percentage": 51.4
+    },
+    {
+      "name": "Garibaldi Thohir",
+      "type": "Lebih dari 5%",
+      "shares": 2465846700,
+      "percentage": 34.68
+    },
+    {
+      "name": "Philmon Samuel Tanuri",
+      "type": "Direksi",
+      "shares": 559044000,
+      "percentage": 7.86
+    },
+    {
+      "name": "Union Sampoerna, PT.",
+      "type": "Lebih dari 5%",
+      "shares": 413000000,
+      "percentage": 5.81
+    },
+    {
+      "name": "David Agus",
+      "type": "Direksi",
+      "shares": 17800000,
+      "percentage": 0.25
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Trimegah Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 399418982,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Trimegah Sekuritas",
+      "business_type": "Broker Dealer",
+      "total_assets": 1013972,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.052.301.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,75",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,88",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,68",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "53,01",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,61",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "13,18",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:55.583Z"
+}

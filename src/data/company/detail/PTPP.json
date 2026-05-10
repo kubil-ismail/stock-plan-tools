@@ -1,0 +1,274 @@
+{
+  "company_name": "Pp (persero) Tbk",
+  "ticker": "PTPP",
+  "office_address": "Plaza Pp Jl. Letjend. Tb Simatupang No. 57 Pasar Rebo - Jakarta 13760",
+  "email": "corsec@ptpp.co.id",
+  "phone": "021-8403883",
+  "fax": "021-8403890",
+  "tax_id": "01.001.613.7-093.000",
+  "website": "https://www.ptpp.co.id",
+  "listing_date": "2010-02-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Energi, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Joko Raharjo",
+    "email": "corsec@ptpp.co.id",
+    "phone": "021-8403883"
+  },
+  "directors": [
+    {
+      "name": "Novel Arsyad",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Purbianto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Yuyus Juarsa",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Yul Ari Pramuraharjo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "I Gede Upeksa Negara",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Tommy Wiranata Anwar",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dhony Rahajoe",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ernadhi Sudarmanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hedy Rahadian",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pundjung Setya Brata",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jaya Kesuma",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Istiono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Istiono, m.h.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dr. Aria Farah Mita, Msm, Cpa, Ca",
+      "position": "Anggota"
+    },
+    {
+      "name": "Handoko Tripriyono, Cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ir. Pundjung Setya Brata, M.m.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management",
+      "type": "Lebih dari 5%",
+      "shares": 3130328358,
+      "percentage": 50.49
+    },
+    {
+      "name": "Publik",
+      "type": "Lebih dari 5%",
+      "shares": 3022990718,
+      "percentage": 48.8
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 31619478,
+      "percentage": 0.51
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 14555900,
+      "percentage": 0.2
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Novel Arsyad",
+      "type": "Direksi",
+      "shares": 62600,
+      "percentage": 0
+    },
+    {
+      "name": "I Gede Upeksa Negara",
+      "type": "Direksi",
+      "shares": 340300,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pp Properti Tbk",
+      "business_type": "Realti & Properti",
+      "total_assets": 19693388488647,
+      "ownership_percentage": 64.96
+    },
+    {
+      "name": "PT Pp Presisi Tbk",
+      "business_type": "Jasa Sewa",
+      "total_assets": 7164990158055,
+      "ownership_percentage": 76.99
+    },
+    {
+      "name": "PT Pp Semarang Demak",
+      "business_type": "Pembangunan dan Pengusahaan Jalan Tol",
+      "total_assets": 6069245308142,
+      "ownership_percentage": 75.1
+    },
+    {
+      "name": "PT Pp Infrastruktur",
+      "business_type": "Infrastruktur",
+      "total_assets": 3024024049588,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pp Urban",
+      "business_type": "Konstruksi",
+      "total_assets": 2558244009350,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pp Energi",
+      "business_type": "Penyediaan Tenaga Listrik",
+      "total_assets": 1865421697627,
+      "ownership_percentage": 99.09
+    },
+    {
+      "name": "PT Centurion Perkasa Iman",
+      "business_type": "Realti & Properti",
+      "total_assets": 392153392824,
+      "ownership_percentage": 67.82
+    },
+    {
+      "name": "PT Pp Sinergi Banjaratma",
+      "business_type": "Realti & Properti",
+      "total_assets": 153490288361,
+      "ownership_percentage": 79.04
+    },
+    {
+      "name": "PT Sinergi Colomadu",
+      "business_type": "Realti & Properti",
+      "total_assets": 150234969353,
+      "ownership_percentage": 85.7
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.611.973.312.040",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,30",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "27,75",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "33,86",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "41,59",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,57",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "39,61",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:16.268Z"
+}

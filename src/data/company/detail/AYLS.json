@@ -1,0 +1,219 @@
+{
+  "company_name": "PT Agro Yasa Lestari Tbk",
+  "ticker": "AYLS",
+  "office_address": "Gedung Gondangdia Lama 25 Lt 3 R 1b-1c Jl. Rp Soeroso No 25 Jakarta 10330 Jakarta Pusat",
+  "email": "corpsec@agroyasalestari.com",
+  "phone": "021-3918838",
+  "fax": "021-3918838",
+  "tax_id": "02.938.577.0-071.000",
+  "website": "https://www.agroyasalestari.com",
+  "listing_date": "2020-02-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Aspal, Geosintetik dan Bungkil Kedelai (Soya Beans Meal).",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Amoreno",
+    "email": "corpsec@agroyasalestari.com",
+    "phone": "021-3918838"
+  },
+  "directors": [
+    {
+      "name": "Yang Chuan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Victor Tanamal Siwu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tony Muhammad Pahlevi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Li Jun",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Chen Fan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Daruma Daishi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Denny Jong Widjaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "William Suria Djaja Salim, Mak, Ca, Bkp.,cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Pandapotan Gabriel, Ca, Cpa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bintang Cahaya Investment, PT",
+      "type": "Lebih dari 5%",
+      "shares": 594720000,
+      "percentage": 69.69
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 258703236,
+      "percentage": 30.31
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Li Jun",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chen Fan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Daruma Daishi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yang Chuan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Victor Tanamal Siwu",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tony Muhammad Pahlevi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Junaedi, Chairul dan Rekan"
+    },
+    {
+      "name": "Junaedi, Chairul dan Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Junaedi, Chairul dan Rekan"
+    },
+    {
+      "name": "Kap Dra. Suhartati & Rekan"
+    },
+    {
+      "name": "Junaedi, Chairul dan Rekan"
+    },
+    {
+      "name": "Kap Dra. Suhartati & Rekan"
+    },
+    {
+      "name": "Junaedi, Chairul dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "168.977.800.728",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,60",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "37,67",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,20",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "121,95",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,71",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "26,02",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:00.065Z"
+}

@@ -22,6 +22,7 @@ export type StockDetail = {
   id: number;
   ticker: string;
   name: string;
+  company_name: string;
   logo: string;
   office_address: string;
   email: string;
@@ -36,7 +37,7 @@ export type StockDetail = {
     id: number;
     name: string;
   };
-  subsector: {
+  sub_sector: {
     id: number;
     name: string;
   };
@@ -44,7 +45,7 @@ export type StockDetail = {
     id: number;
     name: string;
   };
-  subindustry: {
+  sub_industry: {
     id: number;
     name: string;
   };
@@ -73,6 +74,13 @@ export type StockDetail = {
     updatedAt: string;
     deletedAt: string | null;
   }[];
+
+  business_field: {
+    raw_business: string;
+    business_summary: string;
+    business_tags: string[];
+    business_keywords: string[];
+  };
 };
 
 export type StockTechnical = {

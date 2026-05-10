@@ -1,0 +1,412 @@
+{
+  "company_name": "Metrodata Electronics Tbk",
+  "ticker": "MTDL",
+  "office_address": "Apl Tower (kawasan Central Park Office Tower), Lantai 37, Jalan Letjen S. Parman Kav. 28, Jakarta 11470",
+  "email": "investor-relations@metrodata.co.id",
+  "phone": "02129345888",
+  "fax": "02129345899",
+  "tax_id": "001.362.742.7-054.000",
+  "website": "https://www.metrodata.co.id",
+  "listing_date": "1990-04-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Computer and Services",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 23,
+    "name": "Perangkat Keras & Peralatan Teknologi",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 43,
+    "name": "Perangkat Komputer"
+  },
+  "sub_industry": {
+    "id": 68,
+    "name": "Perangkat Komputer",
+    "industries_id": 43
+  },
+  "corporate_secretary": {
+    "name": "Randy Kartadinata",
+    "email": "investor.relation@metrodata.co.id",
+    "phone": "021 - 252-4555 / 570-5998"
+  },
+  "directors": [
+    {
+      "name": "Susanto Djaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Randy Kartadinata",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander Kuntoro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sur Hang Aiwan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Candra Ciputra Mba",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ben Aristarchus Widyatmodjo",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tanan Herwandi Antonius",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ir. Tanan Herwandi Antonius, Mba, Msc, Ma",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hasan, S.e.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Merry Hartono, S.e.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4906377820,
+      "percentage": 39.964
+    },
+    {
+      "name": "PT Ciputra Corpora",
+      "type": "Lebih dari 5%",
+      "shares": 4445968890,
+      "percentage": 36.214
+    },
+    {
+      "name": "Bp2s Sg/bnp Paribas Singapore Branch Wealth Management",
+      "type": "Lebih dari 5%",
+      "shares": 2038120505,
+      "percentage": 16.601
+    },
+    {
+      "name": "Db Singapore-dcs S/a Pangolin Inv Man",
+      "type": "Lebih dari 5%",
+      "shares": 789322840,
+      "percentage": 6.429
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 61330690,
+      "percentage": 0.5
+    },
+    {
+      "name": "Candra Ciputra, Mba",
+      "type": "Komisaris",
+      "shares": 30273340,
+      "percentage": 0.247
+    },
+    {
+      "name": "Susanto Djaja, Se, MH",
+      "type": "Direksi",
+      "shares": 5250000,
+      "percentage": 0.043
+    },
+    {
+      "name": "Ben Aristarchus Widyatmodjo, Mba",
+      "type": "Komisaris",
+      "shares": 240500,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Synnex Metrodata Indonesia (\"smi\")",
+      "business_type": "Distribusi Produk Teknologi Informasi",
+      "total_assets": 7970218,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Synnex Metrodata Indonesia (\"smi\")",
+      "business_type": "Distribusi Produk Teknologi Informasi",
+      "total_assets": 6639693,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Synnex Metrodata Indonesia (\"smi\")",
+      "business_type": "Distribusi Produk Teknologi Informasi",
+      "total_assets": 5723458,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Synnex Metrodata Indonesia (\"smi\")",
+      "business_type": "Distribusi Produk Teknologi Informasi",
+      "total_assets": 5045240,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Synnex Metrodata Indonesia (\"smi\")",
+      "business_type": "Distribusi Produk Teknologi Informasi",
+      "total_assets": 4973491,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Mitra Integrasi Informatika (\"mii\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 3664472,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Integrasi Informatika (\"mii\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 3563223,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Integrasi Informatika (\"mii\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 3489673,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Integrasi Informatika (\"mii\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 3406802,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Integrasi Informatika (\"mii\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 3112903,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT My Icon Technology (\"mit\")",
+      "business_type": "Penjualan Produk-produk Personal Komputer",
+      "total_assets": 522560,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT My Icon Technology (\"mit\")",
+      "business_type": "Penjualan Produk-produk Personal Komputer",
+      "total_assets": 381282,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT My Icon Technology (\"mit\")",
+      "business_type": "Penjualan Produk-produk Personal Komputer",
+      "total_assets": 340115,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT My Icon Technology (\"mit\")",
+      "business_type": "Penjualan Produk-produk Personal Komputer",
+      "total_assets": 298669,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT My Icon Technology (\"mit\")",
+      "business_type": "Penjualan Produk-produk Personal Komputer",
+      "total_assets": 274617,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Soltius Indonesia (\"si\")",
+      "business_type": "Konsultasi Perangkat Lunak",
+      "total_assets": 226266,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Soltius Indonesia (\"si\")",
+      "business_type": "Konsultasi Perangkat Lunak",
+      "total_assets": 179517,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Soltius Indonesia (\"si\")",
+      "business_type": "Konsultasi Perangkat Lunak",
+      "total_assets": 168424,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Soltius Indonesia (\"si\")",
+      "business_type": "Konsultasi Perangkat Lunak",
+      "total_assets": 167726,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Teknologi Utama (\"atu\")",
+      "business_type": "Penjualan Produk Teknologi",
+      "total_assets": 166584,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Soltius Indonesia (\"si\")",
+      "business_type": "Konsultasi Perangkat Lunak",
+      "total_assets": 152631,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Teknologi Utama (\"atu\")",
+      "business_type": "Penjualan Produk Teknologi",
+      "total_assets": 122548,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Teknologi Utama (\"atu\")",
+      "business_type": "Penjualan Produk Teknologi",
+      "total_assets": 122154,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Teknologi Utama (\"atu\")",
+      "business_type": "Penjualan Produk Teknologi",
+      "total_assets": 107884,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sentra Modal Mandiri (\"smm\")",
+      "business_type": "Holding Pengelolaan Investasi",
+      "total_assets": 100000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Teknologi Utama (\"atu\")",
+      "business_type": "Penjualan Produk Teknologi",
+      "total_assets": 86347,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Synnex Metrodata Technology And Services (\"smts\")",
+      "business_type": "Perakitan di Bidang Komputer atau Peralatan Komunikasi Tanpa Kabel",
+      "total_assets": 46806,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Synnex Metrodata Technology And Services (\"smts\")",
+      "business_type": "Perakitan di Bidang Komputer atau Peralatan Komunikasi Tanpa Kabel",
+      "total_assets": 42088,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Synnex Metrodata Technology And Services (\"smts\")",
+      "business_type": "Perakitan di Bidang Komputer atau Peralatan Komunikasi Tanpa Kabel",
+      "total_assets": 37210,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Synnex Metrodata Technology And Services (\"smts\")",
+      "business_type": "Perakitan di Bidang Komputer atau Peralatan Komunikasi Tanpa Kabel",
+      "total_assets": 35906,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Synnex Metrodata Technology And Services (\"smts\")",
+      "business_type": "Perakitan di Bidang Komputer atau Peralatan Komunikasi Tanpa Kabel",
+      "total_assets": 31628,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Sinergi Transformasi Digital (\"std\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 31342,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sinergi Transformasi Digital (\"std\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 29739,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sinergi Transformasi Digital (\"std\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 26994,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sinergi Transformasi Digital (\"std\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 25563,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sinergi Transformasi Digital (\"std\")",
+      "business_type": "Integrasi Sistem",
+      "total_assets": 20214,
+      "ownership_percentage": 95
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.936.439.790.525",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,71",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,68",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "3,36",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "0,88",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,68",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "3,36",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:20.841Z"
+}

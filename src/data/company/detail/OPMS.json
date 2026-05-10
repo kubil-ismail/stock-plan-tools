@@ -1,0 +1,187 @@
+{
+  "company_name": "PT Optima Prima Metal Sinergi Tbk.",
+  "ticker": "OPMS",
+  "office_address": "Jl. Margomulyo Permai Blok Ac No. 10 Surabaya 60183",
+  "email": "corporate@opms.co.id",
+  "phone": "+62 31 7495673",
+  "fax": "0",
+  "tax_id": "31.632.698.2-614.000",
+  "website": "https://www.opms.co.id",
+  "listing_date": "2019-09-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Potongan Logam",
+    "business_summary": "Perusahaan bergerak di bidang Baja & Besi.",
+    "business_tags": [
+      "Baja & Besi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Reni Anggraini",
+    "email": "reni@opms.co.id",
+    "phone": "+62 31 7495673"
+  },
+  "directors": [
+    {
+      "name": "Meilyna Widjaja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sukianto Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rubbyanto Ping Hauw Handaja K",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sumardi Wijaya",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Adhiguna Abdhipradhana Herwindha",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kentarto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bambang Agus Sanjaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Samsul Anam",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Asian Perkasa Indosteel",
+      "type": "Lebih dari 5%",
+      "shares": 597900000,
+      "percentage": 59.79
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 237079500,
+      "percentage": 23.71
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 162920500,
+      "percentage": 16.29
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2100000,
+      "percentage": 0.21
+    },
+    {
+      "name": "Sumardi Wijaya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Meilyna Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sukianto Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Optima Prima Metal Sinergi Tbk",
+      "business_type": "Metals & Minerals",
+      "total_assets": 80023077233,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "131.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "20,73",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "4,00",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "22,64",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "80,56",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,78",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "6,47",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:03.172Z"
+}

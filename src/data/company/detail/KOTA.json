@@ -1,0 +1,255 @@
+{
+  "company_name": "PT Dms Propertindo Tbk.",
+  "ticker": "KOTA",
+  "office_address": "Gedung Graha Mampang, Lantai 2 Jl. Mampang Prapatan Raya No. 100 Jakarta 12760",
+  "email": "investor.relation@dmspropertindo.com",
+  "phone": "021-7940671",
+  "fax": "0",
+  "tax_id": "03.117.605.0-061.000",
+  "website": "https://www.dmspropertindo.com",
+  "listing_date": "2019-07-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang pengembangan properti, perhotelan dan jasa manajemen hotel baik secara langsung maupun tidak langsung melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Haryadi S.e",
+    "email": "corpsec@dmspropertindo.com",
+    "phone": "021 7940671"
+  },
+  "directors": [
+    {
+      "name": "Mohamad Prapanca",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Adriansyah Akbar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gema Pratama",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "David Desanan Anan W.",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yarsof Ak",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Aria Eddy Kertocahyono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Steven Tirtawidjaja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Aria Eddy Kertocahyono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Gandhi Wirawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rury Andriani Pangestu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5954539661,
+      "percentage": 56.46
+    },
+    {
+      "name": "PT Dms Investama",
+      "type": "Lebih dari 5%",
+      "shares": 4591636040,
+      "percentage": 43.54
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mohamad Prapanca",
+      "type": "Direksi",
+      "shares": 10000,
+      "percentage": 0
+    },
+    {
+      "name": "David Desanan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yarsof Ak",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aria Eddy K",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adriansyah Akbar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gema Pratama",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Steven Tirtawidjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dms Prima Sentosa",
+      "business_type": "Real Estate dan Properti",
+      "total_assets": 771767181483,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Padjadjaran Raya",
+      "business_type": "Real Estate dan Properti",
+      "total_assets": 382628273693,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Accola Hotel Indonesia",
+      "business_type": "Hotel",
+      "total_assets": 322716300843,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dms Laguna",
+      "business_type": "Real Estate dan Properti",
+      "total_assets": 116624195243,
+      "ownership_percentage": 99.52
+    },
+    {
+      "name": "PT Dms Graha",
+      "business_type": "Real Estate dan Properti",
+      "total_assets": 105325402367,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Dms Cipta Pesona",
+      "business_type": "Real Estate dan Properti",
+      "total_assets": 51373502965,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.571.381.669.449",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "131,67",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "162,26",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "297,14",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "1.290,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,21",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "127,87",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:41.946Z"
+}

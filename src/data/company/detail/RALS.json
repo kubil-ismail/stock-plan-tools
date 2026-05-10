@@ -1,0 +1,181 @@
+{
+  "company_name": "Ramayana Lestari Sentosa Tbk",
+  "ticker": "RALS",
+  "office_address": "Jl. Kh. Wahid Hasyim No. 220 A-b Jakarta 10250",
+  "email": "setyadi.surya@ramayana.co.id",
+  "phone": "3914566",
+  "fax": "-",
+  "tax_id": "01.365.481.9-092.000",
+  "website": "http://www.ramayana.co.id",
+  "listing_date": "1996-07-24",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan Umum, ritel, kafe restoran",
+    "business_summary": "Perusahaan bergerak di bidang Department Store.",
+    "business_tags": [
+      "Department Store"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 8,
+    "name": "Department Store"
+  },
+  "sub_industry": {
+    "id": 15,
+    "name": "Department Store",
+    "industries_id": 8
+  },
+  "corporate_secretary": {
+    "name": "Setyadi Surya",
+    "email": "setyadi.surya@ramayana.co.id",
+    "phone": "021-3151563 ext 581"
+  },
+  "directors": [
+    {
+      "name": "Agus Makmur",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gantang Nitipranatio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhamad Yani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Halomoan Hutabarat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andreas Lesmana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Paulus Tumewu",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mohammad Iqbal",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kismanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Selamat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Selamat",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ruddy Hermawan Wongso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Feronita Cy",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ramayana Makmursentosa, PT",
+      "type": "Lebih dari 5%",
+      "shares": 4168513800,
+      "percentage": 58.74
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1646186900,
+      "percentage": 23.2
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 961222700,
+      "percentage": 13.55
+    },
+    {
+      "name": "Paulus Tumewu",
+      "type": "Komisaris",
+      "shares": 260000000,
+      "percentage": 3.66
+    },
+    {
+      "name": "Agus Makmur",
+      "type": "Direksi",
+      "shares": 60076600,
+      "percentage": 0.85
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.136.432.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,09",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "5,42",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "3,18",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "0,44",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,79",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "5,58",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:36.181Z"
+}

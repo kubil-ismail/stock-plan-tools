@@ -1,0 +1,215 @@
+{
+  "company_name": "PT Eastparc Hotel Tbk",
+  "ticker": "EAST",
+  "office_address": "Jl. Kapas Caturtunggal No. 1 Rt 003 Rw 001, Depok, Sleman, Daerah Istimewa Yogyakarta",
+  "email": "corp.secretary@eastparchotel.com",
+  "phone": "+622744932000",
+  "fax": "+622744932222",
+  "tax_id": "31.425.190.1-542.000",
+  "website": "https://www.eastparc.co.id",
+  "listing_date": "2019-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Menjalankan usaha dalam bidang hotel bintang lima, hotel bintang empat, restoran, rumah minum dan event organizer",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Muhammad Anis",
+    "email": "corp.secretary@eastparchotel.com",
+    "phone": "(0274) 493 2000"
+  },
+  "directors": [
+    {
+      "name": "Khalid Bin Omar Abdat",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Helmi Khalid Abdat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Anis",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wahyudi Eko Sutoro",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muhammad Anwar Karim",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Fenty Yudyastuti",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Edwin Jayandaru",
+      "position": "Ketua"
+    },
+    {
+      "name": "Veri Antoni",
+      "position": "Anggota"
+    },
+    {
+      "name": "Faiz Zamzami",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2080232266,
+      "percentage": 50.41
+    },
+    {
+      "name": "Khalid Bin Omar Abdat",
+      "type": "Direksi",
+      "shares": 1804903250,
+      "percentage": 43.74
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 204024060,
+      "percentage": 4.94
+    },
+    {
+      "name": "Helmi Khalid Abdat",
+      "type": "Direksi",
+      "shares": 36969060,
+      "percentage": 0.9
+    },
+    {
+      "name": "Muhammad Anis",
+      "type": "Direksi",
+      "shares": 276700,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wahyudi Eko Sutoro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Anwar Karim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fenty Yudyastuti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Sandra Pracipta"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kumalahadi, Kuncara, Sugeng Pamudji dan Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Sandra Pracipta"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Sandra Pracipta"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Sandra Pracipta"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "383.755.696.248",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,10",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "3,23",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "3,23",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "10,00",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,23",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "16,67",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:17.838Z"
+}

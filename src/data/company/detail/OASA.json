@@ -1,0 +1,200 @@
+{
+  "company_name": "PT Maharaksa Biru Energi Tbk",
+  "ticker": "OASA",
+  "office_address": "Treasury Tower – District 8 Lantai 15 Suite A-b-m-n, SCBD, Jl. Jendral Sudirman Kav. 52-53, Kebayoran Baru, Jakarta Selatan 12190",
+  "email": "info@maharaksabiru.com",
+  "phone": "(021) 50105555",
+  "fax": "-",
+  "tax_id": "02.576.133.9-411.000",
+  "website": "https://www.maharaksabiru.com",
+  "listing_date": "2016-07-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Energi Terbarukan",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Energi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 17,
+    "name": "Jasa Telekomunikasi Nirkabel"
+  },
+  "sub_industry": {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  "corporate_secretary": {
+    "name": "Chandra Devikemalawaty",
+    "email": "corsec@maharaksabiru.com",
+    "phone": "(021) 50105555"
+  },
+  "directors": [
+    {
+      "name": "Ir. Gafur Sulistyo Umar, Mba",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chandra Devikemalawaty",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Tri Widjajanto, MT",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Noor Romawibowo Danusutedjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cendy Hadiputranto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hariyadi Budisantoso Sukamdani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "John Pieter Nazar, Sh., MH",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Djoko Rosmiatu Mijaata",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Cinta Laura Kiehl",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Carmelita Hartoto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "John Pieter Nazar, Sh, MH",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arief Budi Wicaksono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Andi Solichin Gantama",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3459785407,
+      "percentage": 54.51
+    },
+    {
+      "name": "Ir. Gafur Sulistyo Umar, Mba",
+      "type": "Direksi",
+      "shares": 2237506593,
+      "percentage": 35.25
+    },
+    {
+      "name": "PT And Indonesia Kapital",
+      "type": "Lebih dari 5%",
+      "shares": 332567000,
+      "percentage": 5.24
+    },
+    {
+      "name": "PT Maharaksa Biru Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 317361000,
+      "percentage": 5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.411.943.600.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "11,80",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,56",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "87,74",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "178,32",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,50",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "54,26",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:54.875Z"
+}

@@ -1,0 +1,361 @@
+{
+  "company_name": "PT Digital Mediatama Maxima Tbk",
+  "ticker": "DMMX",
+  "office_address": "Gedung Mangkuluhur City Tower One Lt. 18, Jl. Jend. Gatot Subroto Kav. 1-3, Desa/kelurahan Karet Semanggi, Kec. Setiabudi, Kota Adm. Jakarta Selatan, Provinsi Dki Jakarta",
+  "email": "corporate@dmmgroup.id",
+  "phone": "02127883335",
+  "fax": "(021) 30480713",
+  "tax_id": "0745353722013000",
+  "website": "https://www.dmmgroup.id",
+  "listing_date": "2019-10-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa penyedia platform media digital",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Retail, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Retail",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "retail",
+      "supermarket",
+      "consumer",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Risa Pramesti",
+    "email": "corsec@dmmgroup.id",
+    "phone": "(021) 27883335"
+  },
+  "directors": [
+    {
+      "name": "Budiasto Kusuma",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Supardi Tan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Abraham Theofilus",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Helena Lie",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suryandy Jahja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hartono Francesco",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Balakrishnan Ananda Raja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ananda Raja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aulia Nanda Trisya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ricardo Andrew Pheanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Nfc Indonesia Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 2126868400,
+      "percentage": 27.65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1533744300,
+      "percentage": 19.92
+    },
+    {
+      "name": "PT Jaya Distribusi Ritel",
+      "type": "Lebih dari 5%",
+      "shares": 1446731400,
+      "percentage": 18.81
+    },
+    {
+      "name": "Bank Of Singapore Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1068254200,
+      "percentage": 13.89
+    },
+    {
+      "name": "PT Soteria Wicaksana Investama",
+      "type": "Lebih dari 5%",
+      "shares": 788295100,
+      "percentage": 10.25
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 432872500,
+      "percentage": 5.63
+    },
+    {
+      "name": "Hartono Franscesco",
+      "type": "Komisaris",
+      "shares": 248144400,
+      "percentage": 3.23
+    },
+    {
+      "name": "Supardi Tan",
+      "type": "Direksi",
+      "shares": 31608100,
+      "percentage": 0.41
+    },
+    {
+      "name": "Suryandy Jahja",
+      "type": "Komisaris",
+      "shares": 10404300,
+      "percentage": 0.14
+    },
+    {
+      "name": "Budiasto Kusuma",
+      "type": "Direksi",
+      "shares": 5100000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Abraham Theofilus",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ananda Raja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Helena Lie",
+      "type": "Direksi",
+      "shares": 285000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Digital Consumer Engagement",
+      "business_type": "Perdagangan Peralatan Komunikasi dan Jasa Konsultasi Teknologi Informasi",
+      "total_assets": 135308056910,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Digital Maxima Indonesia",
+      "business_type": "Perdagangan Peralatan Komunikasi dan Jasa Konsultasi Teknologi Informasi",
+      "total_assets": 131963401177,
+      "ownership_percentage": 99.49
+    },
+    {
+      "name": "PT Dmmx Dektos Inti",
+      "business_type": "Perdagangan Peralatan Telekomunikasi, Telekomunikasi Lainnya, Pemrograman Komputer Lainnya, dan Teknologi Informasi dan Jasa Komputer Lainnya",
+      "total_assets": 43801652753,
+      "ownership_percentage": 46
+    },
+    {
+      "name": "PT Dmmx Distribusi Pentabenua",
+      "business_type": "E-commerce dan Platform Digital",
+      "total_assets": 42289926737,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT. Satu Buat Negeri",
+      "business_type": "Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi",
+      "total_assets": 10100264200,
+      "ownership_percentage": 33.34
+    },
+    {
+      "name": "PT Dmmx Hera Sukses",
+      "business_type": "E-commerce dan Platform Digital",
+      "total_assets": 9988145000,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Dmmx Media Maxima",
+      "business_type": "Perdagangan, E-commerce, Telekomunikasi, Platform Digital dan Periklanan",
+      "total_assets": 5632520000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dmmx Gamindo Global",
+      "business_type": "Perdagangan, Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi dan Jasa Komputer Lainnya",
+      "total_assets": 2810664284,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bumilangit Digital Mediatama",
+      "business_type": "Perdagangan, Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi dan Jasa Komputer Lainnya",
+      "total_assets": 1803609336,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Dmmx Sentral Imaji",
+      "business_type": "E-commerce",
+      "total_assets": 732125249,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dmmx Smartritel Teknologi",
+      "business_type": "Perdagangan, Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi dan Jasa Komputer Lainnya",
+      "total_assets": 507850000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dmmx Grosir Digital",
+      "business_type": "Perdagangan Peralatan Komunikasi dan Jasa Konsultasi Teknologi Informasi",
+      "total_assets": 499581973,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bldx Komik Nusantara",
+      "business_type": "Telekomunikasi, E-commerce dan Platform Digital",
+      "total_assets": 441940779,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Edukasi Atlit Internet Digital",
+      "business_type": "Mice, Promotor dan Platform Digital",
+      "total_assets": 384555730,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.692.307.694.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,86",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "25,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "43,16",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "45,73",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,82",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "42,86",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:01.058Z"
+}

@@ -1,0 +1,352 @@
+{
+  "company_name": "PT Widodo Makmur Perkasa Tbk",
+  "ticker": "WMPP",
+  "office_address": "Gedung Graha Widodo Makmur Jalan Raya Cilangkap No. 58, Cilangkap, Cipayung, Jakarta Timur, 13870",
+  "email": "widodomakmurperkasa@wmp-group.co.id",
+  "phone": "(021) 8430 6787 / 88",
+  "fax": "(021) 8430 6790 / 91",
+  "tax_id": "02.318.775.0-007.000",
+  "website": "https://widodomakmurperkasa.co.id",
+  "listing_date": "2021-12-06",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan Besar dan Peternakan Sapi, Rumah Potong Hewan, Perdagangan Besar Daging dan Olahannya, Peternakan Ayam, Perdagangan Pakan Ternak, Perdagangan Besar Bahan Makanan dan Minuman Hasil Pertanian serta Konstruksi baik secara langsung maupun tidak langsung melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Exist In Exist",
+    "email": "corporate.secretary@wmp-group.co.id",
+    "phone": "(021) 8430 6787/88"
+  },
+  "directors": [
+    {
+      "name": "Ir. Tumiyana Mba",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Giyono S.pt Mm",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Prof. Ali Agus",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mayjen Tni (purn.) Aswar Zulkarnain Siregar, M.sc,",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mayjen Tni (purn.) Aswar Zulkarnain Siregar, M.sc,",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tri Mastono Se.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bangun Hadi Setiawan Se.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Tumiyana",
+      "type": "Direksi",
+      "shares": 19694587910,
+      "percentage": 66.945
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6121895590,
+      "percentage": 20.809
+    },
+    {
+      "name": "Red Dragon Capital Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1915475100,
+      "percentage": 6.511
+    },
+    {
+      "name": "Koperasi Konsumen Karyawan Mandiri Widodo Makmur",
+      "type": "Lebih dari 5%",
+      "shares": 1687041400,
+      "percentage": 5.735
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Widodo Makmur Unggas Tbk",
+      "business_type": "Peternakan Ayam dan Perdagangan Pakan Ternak",
+      "total_assets": 2468816418317,
+      "ownership_percentage": 76.5
+    },
+    {
+      "name": "PT Widodo Makmur Unggas Tbk",
+      "business_type": "Peternakan Ayam dan Perdagangan Pakan Ternak",
+      "total_assets": 2438454330860,
+      "ownership_percentage": 76.5
+    },
+    {
+      "name": "PT Widodo Makmur Unggas Tbk",
+      "business_type": "Peternakan Ayam dan Perdagangan Pakan Ternak",
+      "total_assets": 2424538456090,
+      "ownership_percentage": 76.5
+    },
+    {
+      "name": "PT Widodo Makmur Unggas Tbk",
+      "business_type": "Peternakan Ayam dan Perdagangan Pakan Ternak",
+      "total_assets": 2424538456090,
+      "ownership_percentage": 76.5
+    },
+    {
+      "name": "PT Widodo Makmur Unggas Tbk.",
+      "business_type": "Peternakan Ayam dan Perdagangan Pakan Ternak",
+      "total_assets": 1847266134152,
+      "ownership_percentage": 76.5
+    },
+    {
+      "name": "PT Pasir Tengah",
+      "business_type": "Peternakan/ Livestock",
+      "total_assets": 1566604377577,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Pasir Tengah",
+      "business_type": "Peternakan",
+      "total_assets": 1448832467884,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Pasir Tengah",
+      "business_type": "Peternakan",
+      "total_assets": 1400681777918,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Pasir Tengah",
+      "business_type": "Peternakan",
+      "total_assets": 1375144111936,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Pasir Tengah",
+      "business_type": "Peternakan",
+      "total_assets": 1375144111936,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Cianjur Arta Makmur",
+      "business_type": "Industri Pemotongan Hewan dan Perdagangan",
+      "total_assets": 660561631162,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Cianjur Arta Makmur",
+      "business_type": "Industri Pemotongan Hewan dan Perdagangan",
+      "total_assets": 658152371524,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Cianjur Arta Makmur",
+      "business_type": "Industri Pemotongan Hewan dan Perdagangan",
+      "total_assets": 658152371524,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Cianjur Arta Makmur",
+      "business_type": "Industri Pemotongan Hewan dan Perdagangan",
+      "total_assets": 651375559267,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Cianjur Arta Makmur",
+      "business_type": "Industri Pemotongan Hewan dan Perdagangan",
+      "total_assets": 638163541288,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Langgeng Makmur Perkasa",
+      "business_type": "Konstruksi dan Energi/ Construction And Energy",
+      "total_assets": 575806091210,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Langgeng Makmur Perkasa",
+      "business_type": "Konstruksi dan Energi",
+      "total_assets": 528083405266,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Langgeng Makmur Perkasa",
+      "business_type": "Konstruksi dan Energi",
+      "total_assets": 525155105143,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Langgeng Makmur Perkasa",
+      "business_type": "Konstruksi dan Energi",
+      "total_assets": 523623472753,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Langgeng Makmur Perkasa",
+      "business_type": "Konstruksi dan Energi",
+      "total_assets": 523623472753,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Widodofood Makmur Sejahtera",
+      "business_type": "Komoditas/ Commodity",
+      "total_assets": 278182753071,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Widodofood Makmur Sejahtera",
+      "business_type": "Komoditas",
+      "total_assets": 201178342077,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Widodofood Makmur Sejahtera",
+      "business_type": "Komoditas",
+      "total_assets": 200556554063,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Widodofood Makmur Sejahtera",
+      "business_type": "Komoditas",
+      "total_assets": 194950495898,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Widodofood Makmur Sejahtera",
+      "business_type": "Komoditas",
+      "total_assets": 194950495898,
+      "ownership_percentage": 99.5
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Hertanto Grace Karunawan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.235.598.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,69",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "250,00",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "250,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "250,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,55",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "250,00",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:42.288Z"
+}

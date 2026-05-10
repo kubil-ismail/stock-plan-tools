@@ -1,0 +1,174 @@
+{
+  "company_name": "PT Griptha Putra Persada Tbk.",
+  "ticker": "GRPH",
+  "office_address": "Jl. Akbp R. Agil Kusumadya No. 100, Jati Wetan, Kecamatan Jati, Kabupaten Kudus, Jawa Tengah 59346",
+  "email": "corporate-secretary@griptha.com",
+  "phone": "0291 438449",
+  "fax": "",
+  "tax_id": "21.041.813.3-071.000",
+  "website": "https://www.griptha.com",
+  "listing_date": "2024-01-17",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Menjalankan usaha dalam Bidang Hotel Bintang, Restoran, dan MICE",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Fransiska Bella Yunita",
+    "email": "corporate-secretary@griptha.com",
+    "phone": "(0291) 438449"
+  },
+  "directors": [
+    {
+      "name": "Oei, Aqulia Jemmy Priyanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Oei, Selima Ivena Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Antanius Feliks Santoso",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Wira Tjahaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ivarianie Virgiana",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ivarianie Virgiana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rossy Ronita",
+      "position": "Anggota"
+    },
+    {
+      "name": "Feliks Kurniawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mulia Jaya Palma",
+      "type": "Lebih dari 5%",
+      "shares": 702417300,
+      "percentage": 70.24
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 297582700,
+      "percentage": 29.76
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "64.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "18,18",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "18,18",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1,56",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "30,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "9,72",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "3,17",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:17.102Z"
+}

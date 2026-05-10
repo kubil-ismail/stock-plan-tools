@@ -1,0 +1,277 @@
+{
+  "company_name": "PT Indosterling Technomedia Tbk",
+  "ticker": "TECH",
+  "office_address": "Jalan Jembatan Tiga 38 Blok B Nomor 11, Jakarta Utara, 14450",
+  "email": "corsec@indosterlingtechnomedia.com",
+  "phone": "+62 21 6638888",
+  "fax": "0",
+  "tax_id": "03.347.484.7-012.000",
+  "website": "https://www.indosterlingtechnomedia.com",
+  "listing_date": "2020-06-04",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Piranti Lunak, Aktivitas Konsultasi Komputer dan Manajemen Fasilitas Komputer Lainnya dan Aktivitas Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Maulana Ridha",
+    "email": "techindstrlng@gmail.com",
+    "phone": "+62 21 663 8888"
+  },
+  "directors": [
+    {
+      "name": "Maulana Ridha",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Benjamin Lau Keng Zi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lam Ching Ching",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Raymond Lau Yean Liang",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nunu Nugraha",
+      "position": "Ketua"
+    },
+    {
+      "name": "Melda Harianja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indah Monica",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indosterling Sarana Investa",
+      "type": "Lebih dari 5%",
+      "shares": 419680829,
+      "percentage": 33.4061
+    },
+    {
+      "name": "Carrington Mfo Vcc Charismatic Debt Equity Fund",
+      "type": "Lebih dari 5%",
+      "shares": 286958100,
+      "percentage": 22.8415
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 146069200,
+      "percentage": 12.59
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 124322981,
+      "percentage": 8.9329
+    },
+    {
+      "name": "Charismatic Capital Limited",
+      "type": "Lebih dari 5%",
+      "shares": 105200871,
+      "percentage": 8.3739
+    },
+    {
+      "name": "Ocbc Securities Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 100000000,
+      "percentage": 7.9599
+    },
+    {
+      "name": "PT Citra Cemerlang Jayaraya",
+      "type": "Lebih dari 5%",
+      "shares": 74068019,
+      "percentage": 5.8957
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Maulana Ridha",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lam Ching Ching",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Raymond Lau Yean Liang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Technomedia Sarana Semesta",
+      "business_type": "Perdagangan, Konsultasi Komputer, Teknologi Informasi",
+      "total_assets": 24468093461,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Technomedia Multi Sejahtera",
+      "business_type": "Perdagangan, Penerbitan Software",
+      "total_assets": 8082048007,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Technomedia Interkom Cemerlang",
+      "business_type": "Perdagangan, Penerbitan Software",
+      "total_assets": 6303908686,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Digimedia Andalan Nusantara",
+      "business_type": "Periklanan, Platform Digital",
+      "total_assets": 5993588388,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indosterling Lokamedia Makmur",
+      "business_type": "Perdagangan, Platform Digital, Aktivitas Pemrograman",
+      "total_assets": 4323017387,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Technomedia Andalan Jaya",
+      "business_type": "Perdagangan, Software, Teknologi Informasi",
+      "total_assets": 1769821016,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Herwin & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Herwin & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "62.815.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:28.379Z"
+}

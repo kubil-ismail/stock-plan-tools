@@ -1,0 +1,197 @@
+{
+  "company_name": "PT Multi Garam Utama Tbk.",
+  "ticker": "FOLK",
+  "office_address": "Prosperity Tower 17-f District 8, SCBD, Jalan Jenderal Sudirman Kavling 52-53, Kelurahan Senayan, Kec. Kebayoran Baru, Jakarta Selatan, Provinsi Dki Jakarta, 12190",
+  "email": "corporatesecretary@folkgroup.co",
+  "phone": "(021) 50123124",
+  "fax": "",
+  "tax_id": "91.194.412.2-085.000",
+  "website": "https://folkgroup.co",
+  "listing_date": "2023-08-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Holding Multi-sektor.",
+    "business_tags": [
+      "Perusahaan Holding Multi-sektor"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 28,
+    "name": "Perusahaan Holding Multi Sektor",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 50,
+    "name": "Perusahaan Holding Multi-sektor"
+  },
+  "sub_industry": {
+    "id": 76,
+    "name": "Perusahaan Holding Multi-sektor",
+    "industries_id": 50
+  },
+  "corporate_secretary": {
+    "name": "Ardilla Juli Kristantie",
+    "email": "corporatesecretary@folkgroup.co",
+    "phone": "(021) 50123124"
+  },
+  "directors": [
+    {
+      "name": "Danny Sutradewa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Mariana Irawati Sungkono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gusti Angga Rizky Pratama",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chandra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Kevin Cahya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Ronald Tampi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kevin Cahya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lis Rahmawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Djunaedy Kohin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Garam Ventura Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1758596542,
+      "percentage": 42.98
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1218619221,
+      "percentage": 29.79
+    },
+    {
+      "name": "PT Sumber Garam Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 903330281,
+      "percentage": 22.08
+    },
+    {
+      "name": "Djoni",
+      "type": "Lebih dari 5%",
+      "shares": 210233800,
+      "percentage": 5.14
+    },
+    {
+      "name": "Michael Ronald Tampi",
+      "type": "Komisaris",
+      "shares": 577700,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.391.061.564.960",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,03",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "39,29",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "14,86",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "580,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,56",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "22,73",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:50.231Z"
+}

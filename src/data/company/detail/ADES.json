@@ -1,0 +1,158 @@
+{
+  "company_name": "Akasha Wira International Tbk Tbk",
+  "ticker": "ADES",
+  "office_address": "Jl. Tb.simatupang Kav. 89 Rt 01 Rw 02, Kelurahan Tanjung Barat, Kecamatan Jagakarsa, Jakarta Selatan - 12530",
+  "email": "corporate.secretary@akashainternational.com",
+  "phone": "081119345000",
+  "fax": "-",
+  "tax_id": "01.371.491.0-054.000",
+  "website": "https://www.akashainternational.com",
+  "listing_date": "1994-06-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Minuman dan Makanan Ringan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 49,
+    "name": "Minuman Ringan",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Aprianti Kartika",
+    "email": "aprianti.kartika@akashainternational.com",
+    "phone": "021-27545000"
+  },
+  "directors": [
+    {
+      "name": "Wihardjo Hadiseputro",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fany Soegiarto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hanjaya Limanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nana Puspa Dewi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Julianto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hastuti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Water Partners Bottling, Sa",
+      "type": "Lebih dari 5%",
+      "shares": 538896713,
+      "percentage": 91.3544
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 50299759,
+      "percentage": 8.5269
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 688428,
+      "percentage": 0.1167
+    },
+    {
+      "name": "Fany Soegiarto",
+      "type": "Direksi",
+      "shares": 7900,
+      "percentage": 0.0013
+    },
+    {
+      "name": "Dra Nana Puspa Dewi",
+      "type": "Komisaris",
+      "shares": 4000,
+      "percentage": 0.0007
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.827.430.840.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "39,10",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "52,54",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "55,59",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "119,81",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "17,38",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "52,54",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:52.273Z"
+}

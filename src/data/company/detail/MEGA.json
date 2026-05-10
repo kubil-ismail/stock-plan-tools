@@ -1,0 +1,197 @@
+{
+  "company_name": "Bank Mega Tbk",
+  "ticker": "MEGA",
+  "office_address": "Menara Bank Mega Jl. Kapten Tendean No. 12-14a Jakarta 12970",
+  "email": "0",
+  "phone": "7917-5000",
+  "fax": "7917-5015",
+  "tax_id": "01.108.045.4-091.000",
+  "website": "https://www.bankmega.com",
+  "listing_date": "2000-04-17",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Christiana M. Damanik",
+    "email": "christiana.damanik@bankmega.com",
+    "phone": "021-79175000"
+  },
+  "directors": [
+    {
+      "name": "Kostaman Thayib",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Indivara Erni",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Madi Darmadi Lazuardi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Martin Mulawanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yb Hariantono",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Heriwan Gazali",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mariam",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Jemy Kristian Soegiarto",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chairul Tanjung",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Achjadi Ranuwisastra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lambock V Nahttands",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hizbullah",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hizbullah",
+      "position": "Ketua"
+    },
+    {
+      "name": "Purwo Junianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ivan Purnama Sanoesi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mega Corpora",
+      "type": "Lebih dari 5%",
+      "shares": 6812223614,
+      "percentage": 58.02
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4928699751,
+      "percentage": 41.98
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "25.687.967.940.050",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "30,51",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "36,92",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "37,50",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "41,60",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,38",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "37,69",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:40.805Z"
+}

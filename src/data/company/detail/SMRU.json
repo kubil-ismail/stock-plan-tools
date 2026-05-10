@@ -1,0 +1,346 @@
+{
+  "company_name": "Smr Utama Tbk",
+  "ticker": "SMRU",
+  "office_address": "Rukan Puri Mutiara A.12 & A.15, Jl. Griya Utama, Rt.2/rw.5, Sunter Agung, Kec. Tj. Priok, Jakarta – 14350",
+  "email": "info@smrutama.com",
+  "phone": "021-65310822",
+  "fax": "021-65310823",
+  "tax_id": "03.052.285.8-048.000",
+  "website": "https://www.smrutama.com",
+  "listing_date": "2011-10-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pertambangan Batu Mangan melalui anak perusahaan",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Arief Novaldi",
+    "email": "arief.novaldi@smrutama.com",
+    "phone": "021-29308835 ext. 908"
+  },
+  "directors": [
+    {
+      "name": "Gani Bustan",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendrick F. Sapulete",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wijaya Mulia",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andi Ruswandi, S.e.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Andi Ruswandi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dasep Hedianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lena",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Trada Alam Minera, Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 6537292419,
+      "percentage": 52.301
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3578462577,
+      "percentage": 28.629
+    },
+    {
+      "name": "PT Asuransi Jiwa Ifg",
+      "type": "Lebih dari 5%",
+      "shares": 1235580313,
+      "percentage": 9.885
+    },
+    {
+      "name": "PT Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 1148050473,
+      "percentage": 9.185
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 359,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Ricobana Abadi",
+      "business_type": "Kontraktor Batubara",
+      "total_assets": 1578824050650,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ricobana Abadi",
+      "business_type": "Kontraktor Batubara",
+      "total_assets": 1506713548260,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ricobana Abadi",
+      "business_type": "Kontraktor Batubara",
+      "total_assets": 1472314266554,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ricobana Abadi",
+      "business_type": "Kontraktor Batubara",
+      "total_assets": 1448324089803,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ricobana Abadi",
+      "business_type": "Kontraktor Batubara",
+      "total_assets": 1448324089803,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adibrata Cipta Pertiwi",
+      "business_type": "Investasi",
+      "total_assets": 1226033441697,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adibrata Cipta Pertiwi",
+      "business_type": "Investasi",
+      "total_assets": 1226033441697,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adibrata Cipta Pertiwi",
+      "business_type": "Investasi",
+      "total_assets": 1226033411697,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adibrata Cipta Pertiwi",
+      "business_type": "Investasi",
+      "total_assets": 1226033411697,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adibrata Cipta Pertiwi",
+      "business_type": "Investasi",
+      "total_assets": 1226032957631,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Troposfir Pancar Sejati",
+      "business_type": "Investasi",
+      "total_assets": 46442917699,
+      "ownership_percentage": 98.72
+    },
+    {
+      "name": "PT Troposfir Pancar Sejati",
+      "business_type": "Investasi",
+      "total_assets": 46442827699,
+      "ownership_percentage": 98.72
+    },
+    {
+      "name": "PT Troposfir Pancar Sejati",
+      "business_type": "Investasi",
+      "total_assets": 46442597699,
+      "ownership_percentage": 98.72
+    },
+    {
+      "name": "PT Troposfir Pancar Sejati",
+      "business_type": "Investasi",
+      "total_assets": 46442457699,
+      "ownership_percentage": 98.72
+    },
+    {
+      "name": "PT Troposfir Pancar Sejati",
+      "business_type": "Investasi",
+      "total_assets": 46442457699,
+      "ownership_percentage": 98.72
+    },
+    {
+      "name": "PT Troposfir Mega Raya",
+      "business_type": "Investasi",
+      "total_assets": 45995097288,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Troposfir Mega Raya",
+      "business_type": "Investasi",
+      "total_assets": 45994687276,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Troposfir Mega Raya",
+      "business_type": "Investasi",
+      "total_assets": 45994594966,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Troposfir Mega Raya",
+      "business_type": "Investasi",
+      "total_assets": 45994504966,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Troposfir Mega Raya",
+      "business_type": "Investasi",
+      "total_assets": 45994504966,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Delta Samudra",
+      "business_type": "Tambang",
+      "total_assets": 28105613769,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Samudra",
+      "business_type": "Tambang",
+      "total_assets": 28105263757,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Samudra",
+      "business_type": "Tambang",
+      "total_assets": 28105204392,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Samudra",
+      "business_type": "Tambang",
+      "total_assets": 28105066180,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Samudra",
+      "business_type": "Tambang",
+      "total_assets": 28105066180,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adikarsa Alam Resources",
+      "business_type": "Dagang",
+      "total_assets": 33639616,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Adikarsa Alam Resources",
+      "business_type": "Dagang",
+      "total_assets": 32349547,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Adikarsa Alam Resources",
+      "business_type": "Dagang",
+      "total_assets": 32169554,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Adikarsa Alam Resources",
+      "business_type": "Dagang",
+      "total_assets": 32029554,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Adikarsa Alam Resources",
+      "business_type": "Dagang",
+      "total_assets": 32029554,
+      "ownership_percentage": 99.91
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "624.969.289.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:42.097Z"
+}

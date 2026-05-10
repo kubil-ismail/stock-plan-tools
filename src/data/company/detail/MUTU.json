@@ -1,0 +1,261 @@
+{
+  "company_name": "PT Mutuagung Lestari Tbk",
+  "ticker": "MUTU",
+  "office_address": "Jl. Raya Bogor Km 33,5 No. 19 Cimanggis Depok, 16453",
+  "email": "corpsec_mutu@mutucertification.com",
+  "phone": "8740202",
+  "fax": "87740745",
+  "tax_id": "01.347.696.5-431.000",
+  "website": "https://www.mutucertification.com",
+  "listing_date": "2023-08-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Pengujian, Inspeksi dan Sertifikasi",
+    "business_summary": "Perusahaan bergerak di bidang Batubara.",
+    "business_tags": [
+      "Batubara"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 15,
+    "name": "Jasa Profesional"
+  },
+  "sub_industry": {
+    "id": 28,
+    "name": "Jasa Penelitian & Konsultasi",
+    "industries_id": 15
+  },
+  "corporate_secretary": {
+    "name": "Affan Nurachman",
+    "email": "corpsec_mutu@mutucertification.com",
+    "phone": "0218740202"
+  },
+  "directors": [
+    {
+      "name": "Arifin Lambaga",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sumarna",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Irham Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herliana Dewi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Firdaus",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gati Wibawaningsih",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "M. Indra Permana",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gati Wibawaningsih",
+      "position": "Ketua"
+    },
+    {
+      "name": "Beni Subena",
+      "position": "Anggota"
+    },
+    {
+      "name": "I Nyoman Widia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1042950585,
+      "percentage": 33.18
+    },
+    {
+      "name": "PT Sentra Mutu Handal",
+      "type": "Lebih dari 5%",
+      "shares": 990000000,
+      "percentage": 31.5
+    },
+    {
+      "name": "PT Baruna Bina Utama",
+      "type": "Lebih dari 5%",
+      "shares": 880000000,
+      "percentage": 28
+    },
+    {
+      "name": "PT Afda Ekselensi Lintas Dunia",
+      "type": "Lebih dari 5%",
+      "shares": 230000000,
+      "percentage": 7.32
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mohamad Indra Permana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Firdaus",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gati Wibawaningsih",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arifin Lambaga",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sumarna",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Irham Budiman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herliana Dewi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jasa Mutu Mineral Indonesia",
+      "business_type": "Pengujian Laboratorium Batu Bara Serta Superintending Batubara",
+      "total_assets": 59499930975,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "333.152.762.010",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,97",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "2,97",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "1,89",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,95",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "16,80",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:29.070Z"
+}

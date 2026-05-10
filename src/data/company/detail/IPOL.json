@@ -1,0 +1,410 @@
+{
+  "company_name": "Indopoly Swakarsa Industry Tbk",
+  "ticker": "IPOL",
+  "office_address": "Wisma Indocement, Lantai 6, Jalan Jenderal Sudirman Kav. 70-71, Jakarta Selatan 12910",
+  "email": "corpsec@indopoly.co.id",
+  "phone": "021- 2510088",
+  "fax": "021- 5224001",
+  "tax_id": "01.071.005.1-054.000",
+  "website": "https://www.ilenefilms.com",
+  "listing_date": "2010-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Plastik Lembaran dan Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Yenni Meilina Lie",
+    "email": "corpsec@indopoly.co.id",
+    "phone": "021 251 0088"
+  },
+  "directors": [
+    {
+      "name": "Henry Halim",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jeffrey Halim",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Leo Firdaus",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alexandra Bustami",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yenni Meilina Lie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Felicia Hui Xia Chong",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Felielyne Halim",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Irawan Sastrotanojo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Agnes Goretti",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Agnes Goretti",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herbert Halim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Juni Lestari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Jefflyne Golden Holdings Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1903153710,
+      "percentage": 29.54
+    },
+    {
+      "name": "PT Supernova Flexible Packaging",
+      "type": "Lebih dari 5%",
+      "shares": 1849531010,
+      "percentage": 28.7
+    },
+    {
+      "name": "Noble Ox International Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1491910560,
+      "percentage": 23.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 868077529,
+      "percentage": 13.48
+    },
+    {
+      "name": "PT Hoki Investasi Sejati",
+      "type": "Lebih dari 5%",
+      "shares": 330706700,
+      "percentage": 5.13
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henry Halim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Felicia Hui Xia Chong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jeffrey Halim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alexandra Bustami",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Leo Firdaus",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yenni Meilina Lie",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agnes Goretti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Felielyne Halim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Irawan Sastrotanojo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Suzhou Kunlene Film Industries Co. Ltd.",
+      "business_type": "Pabrikan",
+      "total_assets": 128500953,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Suzhou Kunlene Film Industries Co. Ltd.",
+      "business_type": "Pabrikan",
+      "total_assets": 128500953,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Polindo Industries Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 126128927,
+      "ownership_percentage": 89.24
+    },
+    {
+      "name": "Golden Polindo Industries Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 126128927,
+      "ownership_percentage": 89.24
+    },
+    {
+      "name": "Suzhou Kunlene Film Industries Co. Ltd.",
+      "business_type": "Pabrikan",
+      "total_assets": 118360950,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Suzhou Kunlene Film Industries Co. Ltd.",
+      "business_type": "Pabrikan",
+      "total_assets": 118360950,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Polindo Industries Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 114130160,
+      "ownership_percentage": 89.24
+    },
+    {
+      "name": "Golden Polindo Industries Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 114130160,
+      "ownership_percentage": 89.24
+    },
+    {
+      "name": "Suzhou Kunlene Film Industries Co Ltd",
+      "business_type": "Pabrikan Bopp",
+      "total_assets": 103706926,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Polindo Industries Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 100093655,
+      "ownership_percentage": 89.24
+    },
+    {
+      "name": "Suzhou Kunlene Film Industries Co Ltd",
+      "business_type": "Pabrikan Bopp",
+      "total_assets": 88889210,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Polindo Industries Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 87481841,
+      "ownership_percentage": 89.24
+    },
+    {
+      "name": "Suzhou Kunlene Film Industries Co Ltd",
+      "business_type": "Pabrikan Bopp",
+      "total_assets": 87385853,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Polindo Industries Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 85964719,
+      "ownership_percentage": 89.24
+    },
+    {
+      "name": "Yunnan Kunlene Film Industries Co. Ltd.",
+      "business_type": "Pabrikan",
+      "total_assets": 30481431,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Yunnan Kunlene Film Industries Co. Ltd.",
+      "business_type": "Pabrikan",
+      "total_assets": 30481431,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Yunnan Kunlene Film Industries Co. Ltd.",
+      "business_type": "Pabrikan",
+      "total_assets": 29105369,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Yunnan Kunlene Film Industries Co. Ltd.",
+      "business_type": "Pabrikan",
+      "total_assets": 29105369,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Yunnan Kunlene Film Industries Co Ltd",
+      "business_type": "Pabrikan Bopp",
+      "total_assets": 29065486,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Yunnan Kunlene Film Industries Co Ltd",
+      "business_type": "Pabrikan Bopp",
+      "total_assets": 28748294,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Yunnan Kunlene Film Industries Co Ltd",
+      "business_type": "Pabrikan Bopp",
+      "total_assets": 27996325,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ilene Inc.",
+      "business_type": "Perdagangan",
+      "total_assets": 5792553,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ilene Inc.",
+      "business_type": "Perdagangan",
+      "total_assets": 5792553,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ilene Inc.",
+      "business_type": "Perdagangan",
+      "total_assets": 4791874,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ilene Inc.",
+      "business_type": "Perdagangan",
+      "total_assets": 4791874,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ilene, Inc",
+      "business_type": "Perdagangan Bopp",
+      "total_assets": 4372553,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ilene, Inc",
+      "business_type": "Perdagangan Bopp",
+      "total_assets": 4315174,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ilene, Inc",
+      "business_type": "Perdagangan Bopp",
+      "total_assets": 4165748,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "850.526.095.188",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,61",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "5,26",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "8,62",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,56",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "1,61",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:36.388Z"
+}

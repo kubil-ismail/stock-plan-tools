@@ -1,0 +1,239 @@
+{
+  "company_name": "PT Dafam Property Indonesia Tbk",
+  "ticker": "DFAM",
+  "office_address": "Jl. Raung No. 15, Gajahmungkur, Semarang - 50232",
+  "email": "corporate@dafamproperty.com",
+  "phone": "+6224 8312735 , +6224 8506459",
+  "fax": "-",
+  "tax_id": "0027.6879.3851.2000",
+  "website": "https://www.dafamproperty.com",
+  "listing_date": "2018-04-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengembangan Properti, Pengelolaan Gedung, Sewa Gedung , Perhotelandan Jasa Manajemen Hotel Melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Soviadi Nor Rachman",
+    "email": "corporate@dafamproperty.com",
+    "phone": "+62 24 356 9595"
+  },
+  "directors": [
+    {
+      "name": "Billy Dahlan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wijaya Dahlan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ferdinandus Soleh Dahlan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Junaidi Dahlan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jaeni, Se,msi,ak,ca",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Jaeni, Se,msi,ak,ca",
+      "position": "Ketua"
+    },
+    {
+      "name": "Siti Sundari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Teguh Parmono Hadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dafam",
+      "type": "Lebih dari 5%",
+      "shares": 1015000000,
+      "percentage": 53.4
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 437954977,
+      "percentage": 23.1
+    },
+    {
+      "name": "Billy Dahlan",
+      "type": "Direksi",
+      "shares": 185200000,
+      "percentage": 9.7
+    },
+    {
+      "name": "Reksa Dana Narada Saham Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 134032800,
+      "percentage": 7.1
+    },
+    {
+      "name": "Edy Selamat",
+      "type": "Lebih dari 5%",
+      "shares": 127665073,
+      "percentage": 6.7
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dafam Mambo International",
+      "business_type": "Hotel",
+      "total_assets": 89680569709,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Dafam Maju Bersama",
+      "business_type": "Perumahan/residential",
+      "total_assets": 42446244599,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "201.384.402.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,22",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "30,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "108,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,89",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,57",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:50.585Z"
+}

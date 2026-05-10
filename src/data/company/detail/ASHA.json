@@ -1,0 +1,228 @@
+{
+  "company_name": "PT Cilacap Samudera Fishing Industry Tbk",
+  "ticker": "ASHA",
+  "office_address": "Jl. Muara Baru Ujung K No. 7d Rt 021 Rw 17 Penjaringan Jakarta Utara, Indonesia",
+  "email": "corpsecretary@csfi.co.id",
+  "phone": "+6221-66604850",
+  "fax": "",
+  "tax_id": "019612019522000",
+  "website": "https://www.csfi.co.id",
+  "listing_date": "2022-05-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Hasil Perikanan dan Aktivitas Cold Storage",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Erlin Sutioso",
+    "email": "corpsecretary@csfi.co.id",
+    "phone": "+6221-66604850"
+  },
+  "directors": [
+    {
+      "name": "William Sutioso",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Sutioso",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Asman",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. A. Rahim Diar, Mm",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. A. Rahim Diar, Mm",
+      "position": "Ketua"
+    },
+    {
+      "name": "H. Eko Teguh Santoso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Matthew Indrajana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2225000000,
+      "percentage": 44.5
+    },
+    {
+      "name": "PT Asha Fortuna Corpora",
+      "type": "Lebih dari 5%",
+      "shares": 1500000000,
+      "percentage": 30
+    },
+    {
+      "name": "PT Inti Sukses International",
+      "type": "Lebih dari 5%",
+      "shares": 550000000,
+      "percentage": 11
+    },
+    {
+      "name": "Ervin Sutioso",
+      "type": "Lebih dari 5%",
+      "shares": 375000000,
+      "percentage": 7.5
+    },
+    {
+      "name": "PT Mestika Arta Dirga",
+      "type": "Lebih dari 5%",
+      "shares": 350000000,
+      "percentage": 7
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jembatan Lintas Global",
+      "business_type": "Perdagangan Ikan",
+      "total_assets": 27094255846,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Jembatan Lintas Global",
+      "business_type": "Perdagangan Ikan",
+      "total_assets": 11241322088,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Jembatan Lintas Global",
+      "business_type": "Perdagangan Ikan",
+      "total_assets": 7050148747,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Jembatan Lintas Global",
+      "business_type": "Perdagangan Ikan",
+      "total_assets": 3492145905,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Jembatan Lintas Global",
+      "business_type": "Perdagangan Ikan",
+      "total_assets": 2730089989,
+      "ownership_percentage": 99.97
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "380.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,24",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,00",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "92,50",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "541,67",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "2,67",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:40.526Z"
+}

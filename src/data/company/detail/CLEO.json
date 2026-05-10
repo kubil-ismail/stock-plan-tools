@@ -1,0 +1,250 @@
+{
+  "company_name": "PT Sariguna Primatirta Tbk",
+  "ticker": "CLEO",
+  "office_address": "Jl. Raya A. Yani 41-43, Kompleks Central Square Blok C-1, Gedangan Sidoarjo - 61254",
+  "email": "corsec@tanobelfood.com",
+  "phone": "031 – 8544400",
+  "fax": "031 – 8544574",
+  "tax_id": "01.233.453.8-641.000",
+  "website": "https://www.tanobel.com",
+  "listing_date": "2017-05-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Air Minum Dalam Kemasan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 49,
+    "name": "Minuman Ringan",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Lukas Setio Wongso Wong",
+    "email": "corsec@tanobelfood.com",
+    "phone": "031 – 8544400"
+  },
+  "directors": [
+    {
+      "name": "Melisa Patricia",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Nio, Eko Susilo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lukas Setio Wongso Wong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Toto Sucartono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hermanto Tanoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ida Bagus Oka Nila",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sanderawati Joesoef",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ida Bagus Oka Nilai",
+      "position": "Ketua"
+    },
+    {
+      "name": "Erny Krisnawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Luki Andriani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tancorp Global Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 13469824800,
+      "percentage": 56.1242
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5343275900,
+      "percentage": 22.2637
+    },
+    {
+      "name": "PT Tancorp Global Sentosa",
+      "type": "Lebih dari 5%",
+      "shares": 5061400000,
+      "percentage": 21.0891
+    },
+    {
+      "name": "Melisa Patricia",
+      "type": "Direksi",
+      "shares": 124000000,
+      "percentage": 0.5167
+    },
+    {
+      "name": "Nio, Eko Susilo",
+      "type": "Direksi",
+      "shares": 750000,
+      "percentage": 0.0031
+    },
+    {
+      "name": "Lukas Setio Wongso Wong",
+      "type": "Direksi",
+      "shares": 374400,
+      "percentage": 0.0016
+    },
+    {
+      "name": "Toto Sucartono",
+      "type": "Direksi",
+      "shares": 374400,
+      "percentage": 0.0016
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sentralsari Primasentosa",
+      "business_type": "Distribusi",
+      "total_assets": 556644515244,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Stube Segarkan Indonesia",
+      "business_type": "Industri Es",
+      "total_assets": 4248720106,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "9.360.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,99",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "2,03",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "23,43",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "68,84",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,03",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "13,73",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:13.835Z"
+}

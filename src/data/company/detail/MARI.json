@@ -1,0 +1,545 @@
+{
+  "company_name": "PT Mahaka Radio Integra Tbk.",
+  "ticker": "MARI",
+  "office_address": "Menara Imperium Lt. P7 Metropolitan Kuningan Superblok Kav.no. 1,jl. H.r. Rasuna Said, Jaksel",
+  "email": "corsec@mari.co.id; corsec@mahakaradiointegra.com",
+  "phone": "(021) 8370 7171",
+  "fax": "(021) 8370 7172",
+  "tax_id": "0",
+  "website": "https://www.mari.co.idwww.mahakaradiointegra.com",
+  "listing_date": "2016-02-11",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Investasi, Jasa Konsultasi, dan Digital Media dengan Entitas Anak di bidang Radio",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 59,
+    "name": "Penyiaran",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Donny Kurniawan Chandra",
+    "email": "donnykc@mari.co.id",
+    "phone": "021-83707171"
+  },
+  "directors": [
+    {
+      "name": "Donny Kurniawan Chandra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Wahyu Setiawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Niken Sistha Sismaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hendri Mulya Syam",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Adrian Syarkawi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendri Mulya Syam",
+      "position": "Ketua"
+    },
+    {
+      "name": "Denny J. Sompie",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mery",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2273194833,
+      "percentage": 43.28
+    },
+    {
+      "name": "PT Beyond Media",
+      "type": "Lebih dari 5%",
+      "shares": 2119299600,
+      "percentage": 40.35
+    },
+    {
+      "name": "PT Mahaka Media",
+      "type": "Lebih dari 5%",
+      "shares": 860034567,
+      "percentage": 16.37
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Niken Sistha Sasmaya",
+      "type": "Direksi",
+      "shares": 115000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mahaka Digital Inovasi",
+      "business_type": "Investasi",
+      "total_assets": 283782715771,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Creative Audio Stream",
+      "business_type": "Investasi",
+      "total_assets": 283752570773,
+      "ownership_percentage": 67.6
+    },
+    {
+      "name": "Creative Audio Stream Technology Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 212320082063,
+      "ownership_percentage": 71.63
+    },
+    {
+      "name": "PT Mahaka Digital Inovasi",
+      "business_type": "Investasi",
+      "total_assets": 195886969145,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Creative Audio Stream Technology Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 195855309850,
+      "ownership_percentage": 67.6
+    },
+    {
+      "name": "PT Mahaka Digital Inovasi",
+      "business_type": "Investasi",
+      "total_assets": 179208640814,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT. Mahaka Digital Inovasi",
+      "business_type": "Investasi",
+      "total_assets": 179208640814,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Creative Audio Stream Technology Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 179177100564,
+      "ownership_percentage": 67.6
+    },
+    {
+      "name": "Creative Audio Stream Technology Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 179177100564,
+      "ownership_percentage": 67.6
+    },
+    {
+      "name": "PT Mahaka Radio Digital",
+      "business_type": "Platform Digital",
+      "total_assets": 159795062248,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Mahaka Digital Inovasi",
+      "business_type": "Investasi",
+      "total_assets": 159096410405,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Creative Audio Stream Technology Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 159065018495,
+      "ownership_percentage": 67.6
+    },
+    {
+      "name": "PT Mahaka Radio Digital",
+      "business_type": "Platform Digital",
+      "total_assets": 153940092946,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mahaka Radio Digital",
+      "business_type": "Platform Digital",
+      "total_assets": 151935964894,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Mahaka Radio Digital",
+      "business_type": "Platform Digital",
+      "total_assets": 151935964894,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Radio Attahiriyah",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 146148910388,
+      "ownership_percentage": 99.68
+    },
+    {
+      "name": "PT. Mahaka Radio Digital",
+      "business_type": "Platform Digital",
+      "total_assets": 143527445598,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Radio Attahiriyah",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 141388551154,
+      "ownership_percentage": 99.68
+    },
+    {
+      "name": "PT. Radio Attahiriyah",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 141388551154,
+      "ownership_percentage": 99.68
+    },
+    {
+      "name": "PT. Suara Irama Indah",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 139342531712,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Radio Attahiriyah",
+      "business_type": "Peyiaran Radio",
+      "total_assets": 136707000348,
+      "ownership_percentage": 99.68
+    },
+    {
+      "name": "PT Suara Irama Indah",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 135805638033,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Suara Irama Indah",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 135805638033,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Radio Attahiriyah",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 131153922308,
+      "ownership_percentage": 99.68
+    },
+    {
+      "name": "PT Suara Irama Indah",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 125887182100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mahaka Radio Digital",
+      "business_type": "Platform Digital",
+      "total_assets": 124364678148,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Suara Irama Indah",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 124022708452,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mahaka Digital Inovasi",
+      "business_type": "Investasi",
+      "total_assets": 116957176211,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Suara Irama Indah",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 101523241262,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Radio Attahiriyah",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 56112217046,
+      "ownership_percentage": 99.68
+    },
+    {
+      "name": "PT Radio Merpati Dharmawangsa",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 10468536114,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Studio Kreasi Bersama",
+      "business_type": "Jasa Konsultasi",
+      "total_assets": 10055568040,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Radio Merpati Dharmawangsa",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 9591555760,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Radio Merpati Dharmawangsa",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 9560284987,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Radio Merpati Dharmawangsa",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 9560284987,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Radio Merpati Dharmawangsa",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 9499309115,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Radio Kirana Insan Suara",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 9239624128,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Kirana Insan Suara",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 8303511196,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT. Radio Kirana Insan Suara",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 8303511196,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Kirana Insan Suara",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 6396833701,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Camar",
+      "business_type": "Peyiaran Radio",
+      "total_assets": 5666698468,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Radio Mustang Utama",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 5186189223,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT. Radio Camar",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 5105536214,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT. Radio Mustang Utama",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 5100241470,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Mustang Utama",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 5052089178,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT. Radio Mustang Utama",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 5052089178,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Camar",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 5050449516,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT. Radio Camar",
+      "business_type": "Radio Penyiaran",
+      "total_assets": 5050449516,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Radio Camar",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 4961286644,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Radio Mustang Utama",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 4577857803,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT. Radio Ramako Djaja Raya",
+      "business_type": "Radio Peyiaran",
+      "total_assets": 3589944891,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Kirana Insan Suara",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 3234986830,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Ramako Djaja Raya",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 3196356423,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT. Radio Ramako Djaja Raya",
+      "business_type": "Radio Peyiaran",
+      "total_assets": 3196356423,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Ramako Djaya Raya",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 2974254624,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Ramako Djaja Raya",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 2856790727,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Camar",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 1950343235,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Radio Ramako Djaja Raya",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 1106816791,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Mustang Utama",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 529250556,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Kirana Insan Suara",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 526829771,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Radio Merpati Dharmawangsa",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 206641354,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Studio Kreasi Bersama",
+      "business_type": "Jasa Konsultasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "152.326.676.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,45",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "11,76",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "6,25",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "40,00",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "3,23",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:22.003Z"
+}

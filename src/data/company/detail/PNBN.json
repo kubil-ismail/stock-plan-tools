@@ -1,0 +1,324 @@
+{
+  "company_name": "Bank Pan Indonesia Tbk",
+  "ticker": "PNBN",
+  "office_address": "Panin Bank Center, Jl.jend.sudirman - Senayan, Jakarta 10270",
+  "email": "panin@panin.co.id",
+  "phone": "021-5735555 / 021-2700545",
+  "fax": "021-2700340",
+  "tax_id": "01.312.166.0-091.000",
+  "website": "https://www.panin.co.id",
+  "listing_date": "1982-12-29",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Jasman Ginting",
+    "email": "jasman@panin.co.id",
+    "phone": "021-2700545"
+  },
+  "directors": [
+    {
+      "name": "Herwidayatmo",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Hendrawan Danusaputra",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lionto Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gunawan Santoso",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Edy Heryanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Januar Hadi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Antonius Ketut",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Soewito Tjokrorahardjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sugiono Sutanto Janis",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lintang Nugroho",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. H. Riyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Nelson Tampubolon",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Johnny",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Chandra Rahardja Gunawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Munadi Umar",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nelson Tampubolon",
+      "position": "Ketua"
+    },
+    {
+      "name": "Riyanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lintang Nugroho",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lukman Abdullah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bambang Setyoko",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Panin Financial Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 11089071285,
+      "percentage": 46.04
+    },
+    {
+      "name": "Votraint No. 1103 Pty Ltd-922704000",
+      "type": "Lebih dari 5%",
+      "shares": 9349793152,
+      "percentage": 38.82
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3430453786,
+      "percentage": 14.24
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 202554875,
+      "percentage": 0.84
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 15772900,
+      "percentage": 0.06
+    },
+    {
+      "name": "Nelson Tampubolon",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lintang Nugroho",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chandra Rahardja Gunawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johnny",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Munadi Umar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. H. Riyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herwidayatmo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendrawan Danusaputra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edy Heryanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Januar Hardi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Santoso",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lionto Gunawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Antonius Ketut Dwirianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suwito Tjokrorahardjo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sugiono Sutanto Janis",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Panin Dubai Syariah Tbk.",
+      "business_type": "Bergerak dalam Bidang Usaha Perbankan",
+      "total_assets": 19117611,
+      "ownership_percentage": 67.3
+    },
+    {
+      "name": "PT Clipan Finance Indonesia Tbk.",
+      "business_type": "Lembaga Pembiayaan Kosumen",
+      "total_assets": 9527016,
+      "ownership_percentage": 51.49
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "24.314.398.917.960",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,47",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,48",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "3,94",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "19,47",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,94",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "7,46",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:38.985Z"
+}

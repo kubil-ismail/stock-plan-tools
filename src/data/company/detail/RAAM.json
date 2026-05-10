@@ -1,0 +1,284 @@
+{
+  "company_name": "PT Tripar Multivision Plus Tbk.",
+  "ticker": "RAAM",
+  "office_address": "Multivision Tower, Lt. 21 - 23 Jl. Kuningan Mulia Lot 9b, Kuningan Jakarta Selatan 12980, Indonesia",
+  "email": "corporatesecretary@mvpworld.com",
+  "phone": "(+62 21) 2938 0700",
+  "fax": "(+62 21) 2938 0029",
+  "tax_id": "01.359.656.4-073.000",
+  "website": "https://www.mvpworld.com",
+  "listing_date": "2023-05-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang perfilman, khususnya aktivitas produksi film, aktivitas pascaproduksi film dan distribusi filmserta aktivitas perusahaan holding, termasuk aktivitas pemutaran film melalui anak usaha",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman, Media.",
+    "business_tags": [
+      "Makanan & Minuman",
+      "Media"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 11,
+    "name": "Hiburan & Film"
+  },
+  "sub_industry": {
+    "id": 21,
+    "name": "Hiburan & Film",
+    "industries_id": 11
+  },
+  "corporate_secretary": {
+    "name": "Audrya Luvika Siregar",
+    "email": "corporatesecretary@mvpworld.com",
+    "phone": "(+62 21) 2938 0700"
+  },
+  "directors": [
+    {
+      "name": "Ram Jethmal Punjabi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Whora Anita Raghunath",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Amrit Ram Punjabi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Amit Ramesh Jethani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vikas Chand Sharma",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Raakhee Ram Punjabi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Karishma Ram Punjabi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nengah Rama Gautama",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nengah Rama Gautama",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aria Eddy Kertocahyono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Pandapotan Gabriel, Ca, Cpa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ram Jethmal Punjabi",
+      "type": "Komisaris",
+      "shares": 4688967382,
+      "percentage": 68.818
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1505232618,
+      "percentage": 22.091
+    },
+    {
+      "name": "PT Mnc Digital Entertainment Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 619420000,
+      "percentage": 9.091
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amit Ramesh Jethani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Mnc Pictures",
+      "business_type": "Produksi Drama, Non Drama, Meliputi Film, Film Televisi, Serial Televisi,sinetron dan Lain/production Of Drama,non Drama,television Film, Sinetron,series And Etc",
+      "total_assets": 2677637241494,
+      "ownership_percentage": 10
+    },
+    {
+      "name": "PT Ciputra Multivision Nusantara",
+      "business_type": "Jasa Pembangunan Gedung & Pengelolaan Gedung /building Development & Building Management Service",
+      "total_assets": 699749136131,
+      "ownership_percentage": 33.33
+    },
+    {
+      "name": "PT. Mvp Bangun Sarana",
+      "business_type": "Real Estat Atas Dasar Balas Jasa (fee) atau Kontrak",
+      "total_assets": 153157759079,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Platinum Sinema",
+      "business_type": "Pengelola Jaringan Bioskop /cinema Network Manager",
+      "total_assets": 137924678773,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Multi Inter Media",
+      "business_type": "Jasa It",
+      "total_assets": 41612384446,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT Multi Kreasi Media",
+      "business_type": "Penerbit, Penjilidan & Penerbitan",
+      "total_assets": 20829939277,
+      "ownership_percentage": 99.75
+    },
+    {
+      "name": "PT Starville Mvp Sentul",
+      "business_type": "Penyedia Akomodasi Makanan dan Minuman/ Provider Of Food And Beverage Accommodation",
+      "total_assets": 2562006476,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Multi Platinum Screen",
+      "business_type": "Produksi & Distribusi Film/ Film Production & Distribution",
+      "total_assets": 2175364968,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Kreatif Berkah Abadi",
+      "business_type": "Platform Ott/ott Platform Produksi & Distribusi Film/ Film Production & Distribution",
+      "total_assets": 1984176994,
+      "ownership_percentage": 34.95
+    },
+    {
+      "name": "Major Platinum Cineplex Co. Ltd",
+      "business_type": "Pengelola Jaringan Bioskop /cinema Network Manager",
+      "total_assets": 1517232,
+      "ownership_percentage": 55.3
+    },
+    {
+      "name": "PT Montir Indonesia Jaya",
+      "business_type": "Perawatan Mobil/ Car Service",
+      "total_assets": 0,
+      "ownership_percentage": 17.3
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.444.487.440.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,24",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "14,96",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "25,52",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,82",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:33.452Z"
+}

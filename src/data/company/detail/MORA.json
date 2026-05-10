@@ -1,0 +1,618 @@
+{
+  "company_name": "PT Ekamas Mora Republik Tbk",
+  "ticker": "MORA",
+  "office_address": "Grha 9, Jalan Penataran Nomor 9, Kelurahan Pegangsaan, Kecamatan Menteng, Jakarta Pusat, 10320, Indonesia",
+  "email": "corsec@morarepublic.co.id",
+  "phone": "(021) 31998600",
+  "fax": "(021) 3142882",
+  "tax_id": "0019738863007000",
+  "website": "https://www.morarepublic.co.id",
+  "listing_date": "2022-08-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa dan Jaringan serta Infrastruktur Telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Konstruksi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Konstruksi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 16,
+    "name": "Jasa Telekomunikasi"
+  },
+  "sub_industry": {
+    "id": 33,
+    "name": "Jasa Telekomunikasi Kabel",
+    "industries_id": 16
+  },
+  "corporate_secretary": {
+    "name": "Henry Rizard Rumopa",
+    "email": "corsec@moratelindo.co.id",
+    "phone": "021 31998600"
+  },
+  "directors": [
+    {
+      "name": "Jimmy Kadir",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Genta Andhika Putra",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Indra Nathan Kusnadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Karim Panjaitan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kanaka Puradiredja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "M. Arsjad Rasjid P.m.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Michell Suharli",
+      "position": "Anggota"
+    },
+    {
+      "name": "Robert Pakpahan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Innovate Mas Utama",
+      "type": "Lebih dari 5%",
+      "shares": 23107224069,
+      "percentage": 48.3676
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 9020563286,
+      "percentage": 18.8816
+    },
+    {
+      "name": "PT Candrakarya Multikreasi",
+      "type": "Lebih dari 5%",
+      "shares": 8510884260,
+      "percentage": 17.8148
+    },
+    {
+      "name": "PT Gema Lintas Benua",
+      "type": "Lebih dari 5%",
+      "shares": 7135484421,
+      "percentage": 14.9359
+    },
+    {
+      "name": "Resi Yuki Bramani",
+      "type": "Direksi",
+      "shares": 28700,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "M Arsjad Rasjid P. M",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marlo Budiman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Handhianto S. Kentjono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Timotius Max Sulaiman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yopie Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendra Gunawan",
+      "type": "Direksi",
+      "shares": 8000,
+      "percentage": 0
+    },
+    {
+      "name": "Edward Sanusi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iman Syahrizal",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Melanie Dwita Maharani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edward Anwar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jimmy Kadir",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Genta Andhika Putra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michael C. Mcphail",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Palapa Timur Telematika",
+      "business_type": "Jasa Teknologi dan Telekomunikasi",
+      "total_assets": 3508506630792,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Palapa Ring Barat",
+      "business_type": "Jasa Teknologi dan Telekomunikasi",
+      "total_assets": 869265970182,
+      "ownership_percentage": 98.9
+    },
+    {
+      "name": "Moratel International Pte, Ltd.",
+      "business_type": "Jasa Teknologi dan Telekomunikasi",
+      "total_assets": 483925817856,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indo Pratama Teleglobal",
+      "business_type": "Jasa Teknologi dan Telekomunikasi",
+      "total_assets": 413026580126,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Oxygen Multimedia Indonesia",
+      "business_type": "Televisi Kabel",
+      "total_assets": 204957838878,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Oxygen Infrastruktur Indonesia",
+      "business_type": "Pembangunan Sarana dan Prasaranan Jaringan Telekomunikasi",
+      "total_assets": 98657303385,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "225.016.447.786.560",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "58,90",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "35,14",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "216,46",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "1.685,71",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "54,64",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "37,11",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:08.315Z"
+}

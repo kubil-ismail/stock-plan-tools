@@ -1,0 +1,183 @@
+{
+  "company_name": "Jembo Cable Company Tbk",
+  "ticker": "JECC",
+  "office_address": "Jl. Pajajaran Ds. Gandasari Kec. Jatiuwung Tangerang 15137",
+  "email": "antonius_benady@jembo.com",
+  "phone": "(021) 26646933",
+  "fax": "(021) 26646934",
+  "tax_id": "01.120.419.5-054.000",
+  "website": "http://www.jembo.com",
+  "listing_date": "1992-11-18",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Kabel",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 18,
+    "name": "Kelistrikan"
+  },
+  "sub_industry": {
+    "id": 38,
+    "name": "Komponen & Peralatan Kelistrikan",
+    "industries_id": 18
+  },
+  "corporate_secretary": {
+    "name": "Antonius Benady",
+    "email": "antonius_benady@jembo.com",
+    "phone": "(021) 26646933"
+  },
+  "directors": [
+    {
+      "name": "Mary Ang Santoso",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius Benady",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jimmy Wijaya Joeng",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Pramadi Pramusinto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Santoso",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tommy Wijaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Kristiyono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Agus Kristiyono, Akt., Mba",
+      "position": "Ketua"
+    },
+    {
+      "name": "Joni Pathibang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irineus Dwinanto Bimo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Monaspermata Persada",
+      "type": "Lebih dari 5%",
+      "shares": 499575000,
+      "percentage": 66.08
+    },
+    {
+      "name": "PT Indolife Pensiontama",
+      "type": "Lebih dari 5%",
+      "shares": 132891500,
+      "percentage": 17.578
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 62254300,
+      "percentage": 8.235
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 49050000,
+      "percentage": 6.489
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 12228700,
+      "percentage": 1.618
+    },
+    {
+      "name": "Bambang Pramadi Pramusinto",
+      "type": "Direksi",
+      "shares": 500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jembo Energindo",
+      "business_type": "Industri Pembangkit Tenaga Listrik, Industri Pembuatan Perakitan, Penyediaan, Pemasangan, dan Penjualan Solar Panel dan Led",
+      "total_assets": 29555867138,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "710.640.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,77",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "16,75",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "26,46",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "8,38",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "10,38",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "28,38",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:56:51.480Z"
+}

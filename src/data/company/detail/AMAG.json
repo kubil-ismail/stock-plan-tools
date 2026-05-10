@@ -1,0 +1,239 @@
+{
+  "company_name": "Asuransi Multi Artha Guna Tbk",
+  "ticker": "AMAG",
+  "office_address": "The City Center Batavia Tower One Lantai 17 Jalan Kh Mas Mansyur Kav. 126 Jakarta Pusat 10220",
+  "email": "israeni@mag.co.id",
+  "phone": "(021) 2700590",
+  "fax": "(021) 7250223",
+  "tax_id": "01.108.165.0-054.000",
+  "website": "https://www.mag.co.id",
+  "listing_date": "2005-12-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Asuransi Kerugian",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Israeni Miradani S.",
+    "email": "israeni@mag.co.id",
+    "phone": "2700590"
+  },
+  "directors": [
+    {
+      "name": "Pankaj Oberoi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arun Arjandas Arwani",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Karel Fitrijanto",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Thomas Paitimusa",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dinesh Ramu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Peggy Wystan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dedi Setiawan",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lukman Abdullah",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Athappan Gobinath Arvind",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ulian Taurin Malik",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lukman Abdullah",
+      "position": "Ketua"
+    },
+    {
+      "name": "V.d. Wenty Anggraini",
+      "position": "Anggota"
+    },
+    {
+      "name": "Theodora Nani Alamsyah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Fairfax Asia Limited",
+      "type": "Lebih dari 5%",
+      "shares": 4001242013,
+      "percentage": 80
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 556437250,
+      "percentage": 11.12
+    },
+    {
+      "name": "PT Bank Pan Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 388000000,
+      "percentage": 7.76
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 55806100,
+      "percentage": 1.12
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 67153,
+      "percentage": 0
+    },
+    {
+      "name": "Athappan Gobinath Arvind",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dedi Setiawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lukman Abdullah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pankaj Oberoi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arun Arjandas Nanwani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Karel Fitrijanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Thomas Paitimusa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dinesh Ramu",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Peggy Wystan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.160.670.686.912",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,83",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "1,90",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "8,42",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "3,29",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,21",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "4,04",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:12.745Z"
+}

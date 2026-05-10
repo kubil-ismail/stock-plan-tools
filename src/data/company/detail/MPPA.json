@@ -1,0 +1,259 @@
+{
+  "company_name": "Matahari Putra Prima Tbk",
+  "ticker": "MPPA",
+  "office_address": "Hypermart Cyberpark - Lantai Ug Jl. Sultan Falatehan, Lippo Karawaci Utara, Tangerang, Banten 15138",
+  "email": "corporate.communication@hypermart.co.id",
+  "phone": "021 5081 3000",
+  "fax": "-",
+  "tax_id": "001 394 013 5 092 000",
+  "website": "https://www.mppa.co.id",
+  "listing_date": "1992-12-21",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan Umum, ritel, kafe restoran",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 95,
+    "name": "Supermarket",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Mirtha",
+    "email": "corporate.communication@hypermart.co.id",
+    "phone": "(021) 50813000"
+  },
+  "directors": [
+    {
+      "name": "Adrian Suherman",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yerry Goei",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mirtha Sukanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendri Tadjuni",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Caesario Parlindungan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fendi Santoso",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Johan Anthony",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "John Riady",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Johan Anthony",
+      "position": "Ketua"
+    },
+    {
+      "name": "Marlin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Christine",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Multipolar, PT, Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 6500845870,
+      "percentage": 50.14
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5316000842,
+      "percentage": 40.99
+    },
+    {
+      "name": "Us Bank Na - Consilium Frontier Equity Fund Lp",
+      "type": "Lebih dari 5%",
+      "shares": 1148862825,
+      "percentage": 8.86
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 930547,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yerry Goei",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mirtha Sukanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendri Tadjuni",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fendi Santoso",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "John Riady",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johan Anthony",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adrian Suherman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Caesario Parlindungan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Matahari Super Ekonomi",
+      "business_type": "Penjualan Eceran",
+      "total_assets": 4892,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Matahari Super Ekonomi",
+      "business_type": "Penjualan Eceran",
+      "total_assets": 4871,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Matahari Super Ekonomi",
+      "business_type": "Penjualan Eceran",
+      "total_assets": 4822,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Matahari Super Ekonomi",
+      "business_type": "Penjualan Eceran",
+      "total_assets": 4822,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Matahari Super Ekonomi",
+      "business_type": "Penjualan Eceran",
+      "total_assets": 3023,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Matahari Super Ekonomi",
+      "business_type": "Penjualan Eceran",
+      "total_assets": 3018,
+      "ownership_percentage": 99.2
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "674.265.284.368",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,38",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "1,96",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,25",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "1,96",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "18,03",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:12.026Z"
+}

@@ -1,0 +1,217 @@
+{
+  "company_name": "Bank Permata Tbk",
+  "ticker": "BNLI",
+  "office_address": "Gedung World Trade Center Ii, Jl. Jend. Sudirman Kav. 29-31, Jakarta 12920",
+  "email": "-",
+  "phone": "021-5237788",
+  "fax": "-",
+  "tax_id": "01.308.464.5-091.000",
+  "website": "https://www.permatabank.co.id",
+  "listing_date": "1990-01-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Katharine Grace",
+    "email": "kgrace@permatabank.co.id",
+    "phone": "5237788, 5237899, 5237999 ext. 1788"
+  },
+  "directors": [
+    {
+      "name": "Meliza Musa Rusli",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dhien Tjahajani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dayan Sadikin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Setiatno Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rudy Basyir Ahmad",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eddie Sajoga",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Evi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ahmad Mikail Madjid",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chartsiri Sophonpanich",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Chong Toh",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Niramarn Laisathit",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Haryanto Sahari",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Yap Tjay Soen",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Goei Siauw Hong",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Chalit Tayjasanant",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Riswinandi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Goei Siauw Hong",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yap Tjay Soen",
+      "position": "Anggota"
+    },
+    {
+      "name": "Putu Rahwidhiyasa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr. Timotius, Ak., Ca",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bangkok Bank Public Company Limited",
+      "type": "Lebih dari 5%",
+      "shares": 32244827604,
+      "percentage": 89.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3572467127,
+      "percentage": 9.88
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 363618751,
+      "percentage": 1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 46738,
+      "percentage": 0
+    },
+    {
+      "name": "Meliza Musa Rusli",
+      "type": "Direksi",
+      "shares": 399300,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "107.458.637.775.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,18",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "16,59",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "35,17",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "42,50",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "18,34",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "31,94",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:12.972Z"
+}

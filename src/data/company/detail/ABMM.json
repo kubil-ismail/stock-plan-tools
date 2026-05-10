@@ -1,0 +1,395 @@
+{
+  "company_name": "Abm Investama Tbk",
+  "ticker": "ABMM",
+  "office_address": "Gedung Tmt 1 Lantai 18 Jl. Cilandak Kko No. 1 Jakarta 12560",
+  "email": "corporate.secretary@abm-investama.co.id",
+  "phone": "021-29976767",
+  "fax": "021-29976768",
+  "tax_id": "02.504.191.4-054.000",
+  "website": "https://www.abm-investama.com",
+  "listing_date": "2011-12-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas konsultasi manajemen dan lainnya serta aktivitas penyewaan dan sewa guna tanpa hak opsi mesin pertambangan dan energi serta peralatannya",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Logistik.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Boogee Garystho Priyono",
+    "email": "corporate.secretary@abm-investama.com",
+    "phone": "021-29976767"
+  },
+  "directors": [
+    {
+      "name": "Achmad Ananda Djajanegara",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Haris Mustarto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Feriwan Sinatra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hans Christian Manoe",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rachmat Mulyana Hamami",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mivida Hamami",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arief Tarunakarya Surowidjojo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Manggi Taruna Habir",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Manggi Taruna Habir",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ferry A.j. Alis",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agus Yulianto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Tiara Marga Trakindo",
+      "type": "Lebih dari 5%",
+      "shares": 1474573133,
+      "percentage": 53.5592
+    },
+    {
+      "name": "Valle Verde Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 702349867,
+      "percentage": 25.5106
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 413322100,
+      "percentage": 15.0126
+    },
+    {
+      "name": "Drs Lo Kheng Hong",
+      "type": "Lebih dari 5%",
+      "shares": 155382400,
+      "percentage": 5.6438
+    },
+    {
+      "name": "Rachmat Mulyana Hamami",
+      "type": "Komisaris",
+      "shares": 6120500,
+      "percentage": 0.2223
+    },
+    {
+      "name": "Achmad Ananda Djajanegara",
+      "type": "Direksi",
+      "shares": 1283500,
+      "percentage": 0.0466
+    },
+    {
+      "name": "Mivida Hamami",
+      "type": "Komisaris",
+      "shares": 133500,
+      "percentage": 0.0049
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arief Tarunakarya Surowidjojo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Haris Mustarto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Manggi Taruna Habir",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Feriwan Sinatra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hans Christian Manoe",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cipta Kridatama",
+      "business_type": "Kontraktor Pertambangan/mining Contractor",
+      "total_assets": 971274415,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Reswara Minergi Hartama",
+      "business_type": "Perdagangan/trading",
+      "total_assets": 834009192,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Radhika Jananta Raya",
+      "business_type": "Perdagangan/trading",
+      "total_assets": 541299959,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cipta Krida Bahari",
+      "business_type": "Jasa Logistik/logistic Services",
+      "total_assets": 159071044,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Wiguna Parama",
+      "business_type": "Jasa dan Perdagangan Umum/services And General Trading",
+      "total_assets": 94888611,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sanggar Sarana Baja",
+      "business_type": "Perencanaan Rekayasa Mesin, Pengembangan, dan Pembuatan Perlengkapan Penunjang Alat- Alat Berat dan Alat Angkut Bahan/engineering, Development And Manufacture Of Heavy Equipment Attachment And Materials Handling Products",
+      "total_assets": 75852520,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nagata Dinamika Hidro Pongko",
+      "business_type": "Industri Pembangkit Listrik Energi yang Terbarukan/renewable Energy Ipp",
+      "total_assets": 43985335,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tunas Inti Abadi",
+      "business_type": "Pengembangan dan Pertambangan Sumberdaya, Terutama Batubara/development And Mining Resources Principally Coal",
+      "total_assets": 42437172,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Baruna Dirga Dharma",
+      "business_type": "Transportasi Laut Domestik/domestic Sea Transportation",
+      "total_assets": 27030463,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pelabuhan Buana Reja",
+      "business_type": "Pelayanan Jasa Kapal/ship Operational Services",
+      "total_assets": 20817607,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agata Nugraha Nastari",
+      "business_type": "Perdagangan/trading",
+      "total_assets": 17575591,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirmala Coal Nusantara",
+      "business_type": "Pertambangan Batubara/coal Mining",
+      "total_assets": 10241606,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Alfa Trans Raya",
+      "business_type": "Transportasi Laut/sea Transportation",
+      "total_assets": 8471087,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dianta Daya Embara",
+      "business_type": "Bongkar Muat Barang dan Pelayanan Kepelabuhan Laut/stevedoring And Sea Port Services",
+      "total_assets": 8320619,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nagata Dinamika",
+      "business_type": "Industri Pembangkit Listrik Energi yang Terbarukan/renewable Energy Ipp",
+      "total_assets": 3119990,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Nagata Bio Energi",
+      "business_type": "Industri Pembangkit Listrik Energi yang Terbarukan/renewable Energy Ipp",
+      "total_assets": 2894492,
+      "ownership_percentage": 98.31
+    },
+    {
+      "name": "PT Anzara Janitra Nusantara",
+      "business_type": "Industri Pembangkit Listrik Energi Thermal/thermal Energy Ipp",
+      "total_assets": 1879651,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Borneo Berkat Makmur",
+      "business_type": "Jasa Konsultasi Manajemen/management Consultation Service",
+      "total_assets": 1208649,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Andara Candria Energi",
+      "business_type": "Industri Pembangkit Listrik Energi yang Terbarukan/renewable Energy Ipp",
+      "total_assets": 940014,
+      "ownership_percentage": 99.12
+    },
+    {
+      "name": "PT Borneo Berkat Prima",
+      "business_type": "Jasa Konsultasi Manajemen/management Consultation Service",
+      "total_assets": 571005,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Punggawa Nagata Dinamika Hidro",
+      "business_type": "Industri Pembangkit Listrik Energi yang Terbarukan/renewable Energy Ipp",
+      "total_assets": 369513,
+      "ownership_percentage": 83.58
+    },
+    {
+      "name": "PT Piranti Jaya Utama",
+      "business_type": "Pengembangan dan Pertambangan Sumberdaya, Terutama Batubara/development And Mining Resources Principally Coal",
+      "total_assets": 96503,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nagata Dinamika Hidro Buakayu Ulu",
+      "business_type": "Industri Pembangkit Listrik Energi yang Terbarukan/renewable Energy Ipp",
+      "total_assets": 29218,
+      "ownership_percentage": 98.51
+    },
+    {
+      "name": "PT Nagata Biogas Dwienergi",
+      "business_type": "Industri Pembangkit Listrik Energi yang Terbarukan/renewable Energy Ipp",
+      "total_assets": 5666,
+      "ownership_percentage": 98.31
+    },
+    {
+      "name": "PT Ananta Sarana Amara",
+      "business_type": "Jasa Konsultasi Manajemen/management Consultation Service",
+      "total_assets": 3033,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Borneo Berkat Santosa",
+      "business_type": "Jasa Konsultasi Manajemen/management Consultation Service",
+      "total_assets": 105,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.121.836.750.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,52",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "4,68",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "2,68",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "5,52",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,34",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "5,43",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:47.870Z"
+}

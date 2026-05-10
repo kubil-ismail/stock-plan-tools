@@ -1,0 +1,232 @@
+{
+  "company_name": "PT Andira Agro Tbk",
+  "ticker": "ANDI",
+  "office_address": "Meta Epsi Building Jl. Mayjen d.i. Panjaitan Kav. 2, Jakarta Timur 13350, Indonesia",
+  "email": "corpsec@andiraagro.com",
+  "phone": "0218564955",
+  "fax": "0218564956",
+  "tax_id": "01.683.553.0-072.000",
+  "website": "https://www.andiraagro.com",
+  "listing_date": "2018-08-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perkebunan, Pertanian, dan Agroindustri",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Aria Kinda Madina Hanapi",
+    "email": "corpsec@andiraagro.com",
+    "phone": "0218564955"
+  },
+  "directors": [
+    {
+      "name": "Francis Indarto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kahar Anwar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ludijanto Setijo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andre Handhika Tessaputra The",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anne Patricia Sutanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sugino Sutrisno",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wilson",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dhanny Cahyadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Central Energi Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 4650030000,
+      "percentage": 49.733
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3834412000,
+      "percentage": 41.01
+    },
+    {
+      "name": "PT Anugerah Perkasa Semesta",
+      "type": "Lebih dari 5%",
+      "shares": 699970000,
+      "percentage": 7.486
+    },
+    {
+      "name": "Francis Indarto",
+      "type": "Direksi",
+      "shares": 165588000,
+      "percentage": 1.771
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Iskandar dan Sulaeman"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Armanda & Enita"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Armanda & Enita"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Sabar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "233.750.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "17,24",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "4,35",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "84,62",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,11",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:21.023Z"
+}

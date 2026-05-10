@@ -1,0 +1,225 @@
+{
+  "company_name": "PT Sarana Mitra Luas Tbk",
+  "ticker": "SMIL",
+  "office_address": "Jl. Gemalapik Raya No. 130 - 111 Pasirsari, Cikarang Selatan Bekasi, Jawa Barat 17530",
+  "email": "corsec@sml.co.id",
+  "phone": "021 - 8990 2188 / 8911 7466",
+  "fax": "",
+  "tax_id": "02.501.099.2-413.000",
+  "website": "https://www.sml.co.id",
+  "listing_date": "2023-05-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Penyewaan forklift dan material handling equipment lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Otomotif.",
+    "business_tags": [
+      "Konstruksi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 47,
+    "name": "Mesin Konstruksi & Kendaraan Berat",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Winston Suhermin",
+    "email": "corsec@sml.co.id",
+    "phone": "081328772878"
+  },
+  "directors": [
+    {
+      "name": "Hadi Suhermin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Winston Suhermin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lucia Irawaty Lie",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "I Ketut Widiana",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "I Ketut Widiana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tjiendradjaja Yamin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tai Harry Christian",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hadi Suhermin",
+      "type": "Direksi",
+      "shares": 4112024900,
+      "percentage": 46.99
+    },
+    {
+      "name": "Lucia Irawaty Lie",
+      "type": "Komisaris",
+      "shares": 2100000000,
+      "percentage": 24
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1347643569,
+      "percentage": 15.39
+    },
+    {
+      "name": "Winston Suhermin",
+      "type": "Direksi",
+      "shares": 700000000,
+      "percentage": 8
+    },
+    {
+      "name": "PT Maybank Sekuritas",
+      "type": "Lebih dari 5%",
+      "shares": 450000000,
+      "percentage": 5.14
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 42000000,
+      "percentage": 0.48
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "I Ketut Widiana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.450.467.106.920",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "11,48",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,74",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "40,09",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "7,94",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,86",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "23,60",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:35.828Z"
+}

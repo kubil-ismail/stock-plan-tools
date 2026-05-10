@@ -1,0 +1,165 @@
+{
+  "company_name": "PT Capitol Nusantara Indonesia Tbk.",
+  "ticker": "CANI",
+  "office_address": "Perkantoran Permata Eksekutif Jl. Pos Pengumben Raya No. 1/3 Rt 8/rw 3 Srengseng, Kebon Jeruk Jakarta Barat 11550",
+  "email": "office@cani.co.id",
+  "phone": "021-5307340",
+  "fax": "",
+  "tax_id": "0023.7505.3205.4000",
+  "website": "https://www.cani.co.id",
+  "listing_date": "2014-01-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pelayaran (Pengangkutan Laut)",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Riduwan Kosasih",
+    "email": "riduwan@cnigroup.co.id; riduwan@cani.co.id; riduwankosasih@yahoo.co.id",
+    "phone": "021-29339369 ext. 111"
+  },
+  "directors": [
+    {
+      "name": "Ang Ah Nui",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yanuar Chayadi Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jansen Or Warokka",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ang Kok Tian",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sem Damaris",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Anugrah Semesta Langgeng",
+      "type": "Lebih dari 5%",
+      "shares": 325041600,
+      "percentage": 39
+    },
+    {
+      "name": "PT Cipta Nusantara Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 300038400,
+      "percentage": 36
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 136939100,
+      "percentage": 16.43
+    },
+    {
+      "name": "Ocbc Securities Pte. Ltd. - Client A/c",
+      "type": "Lebih dari 5%",
+      "shares": 67500000,
+      "percentage": 8.1
+    },
+    {
+      "name": "Richie Limson",
+      "type": "Komisaris",
+      "shares": 3917900,
+      "percentage": 0.47
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yanuar Chayadi Wijaya",
+      "type": "Direksi",
+      "shares": 3000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "117.515.040.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,32",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "25,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "240,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "337,14",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,29",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "31,90",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:51.636Z"
+}

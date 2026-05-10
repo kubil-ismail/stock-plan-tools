@@ -1,0 +1,234 @@
+{
+  "company_name": "Sugih Energy Tbk",
+  "ticker": "SUGI",
+  "office_address": "Menara Anugerah Lt. 10 Jl.dr. Ide Anak Agung Gde Lot 8.6-8.7 Kantor Taman E.3.3 Kawasan Mega Kuningan Jakarta 12950",
+  "email": "handhi.saputro@sugihenergy.com",
+  "phone": "021-57948877",
+  "fax": "021-27708802",
+  "tax_id": "01.352.188.5-043.000",
+  "website": "https://www.sugihenergy.com",
+  "listing_date": "2002-06-19",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 82,
+    "name": "Produksi & Penyulingan Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Handhi Eko Saputro",
+    "email": "handhi.saputro@sugihenergy.com",
+    "phone": "021-39838878"
+  },
+  "directors": [
+    {
+      "name": "Abhaya Bhushan Chatterjee",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dindot Soebandrio",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Ir. Fadel Muhammad",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Adrian Rusmana, Mba",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Zaenal Asikin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Eko Setijo Prabowo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dharmawandi Sutanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 16434255221,
+      "percentage": 66.23
+    },
+    {
+      "name": "Goldenhill Energy Fund",
+      "type": "Lebih dari 5%",
+      "shares": 2857994407,
+      "percentage": 11.52
+    },
+    {
+      "name": "Dana Pensiun Pertamina",
+      "type": "Lebih dari 5%",
+      "shares": 1997328440,
+      "percentage": 8.05
+    },
+    {
+      "name": "Interventures Capital Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1912283046,
+      "percentage": 7.71
+    },
+    {
+      "name": "Credit Suisse Ag Sg Trust A/c Cl Sunrise Ass Gr Ltd-20239041",
+      "type": "Lebih dari 5%",
+      "shares": 1609680300,
+      "percentage": 6.49
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fadel Muhammad",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adrian Rusmana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sany Kharisman Wisekay",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David.k.wiranata",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lawrence T.p Siburian",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Petronusa Bumi Bakti",
+      "business_type": "Energi",
+      "total_assets": 66010433,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "International Mineral Resources Ltd",
+      "business_type": "Energi",
+      "total_assets": 44945217,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Eastwin Global Investments Ltd.",
+      "business_type": "Energi",
+      "total_assets": 21262433,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sugih Ep Indonesia",
+      "business_type": "Energi",
+      "total_assets": 1025435,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Petroselat Nc Ltd",
+      "business_type": "Energi",
+      "total_assets": 477452,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "Sugih Energy International Ltd",
+      "business_type": "Energi",
+      "total_assets": 2892,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sugih Ep Indonesia Pte. Ltd",
+      "business_type": "Energi",
+      "total_assets": 2,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.240.577.070.700",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:05.244Z"
+}

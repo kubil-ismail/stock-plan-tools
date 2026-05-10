@@ -1,0 +1,192 @@
+{
+  "company_name": "PT Jantra Grupo Indonesia Tbk",
+  "ticker": "KAQI",
+  "office_address": "Jalan Raya Cirendeu No. 9, Pisangan Kecamatan Ciputat Timur Kota Tangerang Selatan, Banten 15419",
+  "email": "corsec@jantragroup.com",
+  "phone": "(021) 27598835",
+  "fax": "(021) 27598835",
+  "tax_id": "83.391.569.7-016.000",
+  "website": "https://www.jantragrupoindonesia.com",
+  "listing_date": "2025-03-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha perawatan, perbaikan, dan perdagangan suku cadang dan aksesori kaki-kaki kendaraan",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif.",
+    "business_tags": [
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 94,
+    "name": "Suku Cadang Otomotif",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Simon Arosokhi Gulo",
+    "email": "corsec@jantragroup.com",
+    "phone": "(021) 27598835"
+  },
+  "directors": [
+    {
+      "name": "Imam Sujono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dodon Tri Koeswardana M.sc",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jantra Al Rasyid",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Febby Adriyani Tiwon",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Febby Adriyani Tiwon",
+      "position": "Ketua"
+    },
+    {
+      "name": "Zain Zainuddin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ruli Citrarini",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tahtra Kertajaya Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1625792000,
+      "percentage": 78.32
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 450000000,
+      "percentage": 21.68
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Imam Sujono",
+      "type": "Direksi",
+      "shares": 4000,
+      "percentage": 0
+    },
+    {
+      "name": "Jantra Al Rasyid",
+      "type": "Komisaris",
+      "shares": 4000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Joen Lie Indonesia",
+      "business_type": "Reparasi Mobil dan Perdagangan Eceran Suku Cadang dan Aksesori Mobil",
+      "total_assets": 15010754939,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Liantra Wil Indonesia",
+      "business_type": "Reparasi Mobil dan Perdagangan Eceran Suku Cadang dan Aksesori Mobil",
+      "total_assets": 13862181498,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "232.489.600.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "22,33",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "55,56",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "75,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "152,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "13,51",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "80,00",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:02.275Z"
+}

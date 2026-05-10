@@ -1,0 +1,192 @@
+{
+  "company_name": "Delta Djakarta Tbk",
+  "ticker": "DLTA",
+  "office_address": "Jl. Inspeksi Tarum Barat, Desa Setiadharma, Kec. Tambun Bekasi Timur",
+  "email": "investor_relation@deltajkt.co.id",
+  "phone": "021- 882-25-20, 880-05-11, 916-30-85",
+  "fax": "880-0513, 881-9423, 881-9424",
+  "tax_id": "01.000.190.7-092.000",
+  "website": "https://www.deltajkt.co.id",
+  "listing_date": "1984-02-27",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri air minum dalam kemasan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 48,
+    "name": "Minuman Keras",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Ma. Joe De Castro Perucho",
+    "email": "investor_relation@deltajkt.co.id",
+    "phone": "021-8822520"
+  },
+  "directors": [
+    {
+      "name": "Webster Andres Gonzales",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ma Joe De Castro Perucho",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Brian Raymund Respicio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ronny Titiheruw",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Josemar Barretto Climaco",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Roy Tumpal Pakpahan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Carlos Antonio Mayo Berba",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Katsuhisa Nose",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Reynato Serrano Puno",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Samuel Nitisaputra",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Samuel Nitisaputra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Danilo R. Alcantara",
+      "position": "Anggota"
+    },
+    {
+      "name": "Carmelito J. Regalado",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "San Miguel Malaysia",
+      "type": "Lebih dari 5%",
+      "shares": 467061150,
+      "percentage": 58.33
+    },
+    {
+      "name": "Pemda Dki",
+      "type": "Lebih dari 5%",
+      "shares": 210200700,
+      "percentage": 26.25
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 120446150,
+      "percentage": 15.04
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2951050,
+      "percentage": 0.38
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Pt,jangkar Delta Indonesia",
+      "business_type": "Distribusi",
+      "total_assets": 9383180,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.601.318.100.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "1,01",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "4,31",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "8,26",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,50",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "0,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:59.336Z"
+}

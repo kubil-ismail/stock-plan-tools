@@ -1,0 +1,331 @@
+{
+  "company_name": "Bakrie Sumatera Plantations Tbk",
+  "ticker": "UNSP",
+  "office_address": "Komplek Rasuna Epicentrum Bakrie Tower Lantai 19 Jl. Hr. Rasuna Said Jakarta 12960",
+  "email": "fitrib@bakriesumatera.com",
+  "phone": "021-29941286-87",
+  "fax": "021-252-1252",
+  "tax_id": "01.230.918.3-054.000",
+  "website": "http://www.bakriesumatera.com",
+  "listing_date": "1990-03-06",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Agriculture Plantation",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Karet, Energi, Makanan & Minuman, Keuangan.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Karet",
+      "Energi",
+      "Makanan & Minuman",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "karet",
+      "rubber",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Bapak Aditya Indrajati",
+    "email": "aditya.indrajati@bakriesumatera.com",
+    "phone": "(021) 29941286"
+  },
+  "directors": [
+    {
+      "name": "Bayu Irianto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Adhika Andrayudha Bakrie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "B.s. Vinayak",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andi W. Setianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nalinkant A. Rathod",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Anindya N. Bakrie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nengah Rama Gautama",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nengah Rama Gautama",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aria Eddy Kertocahyono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhamad Farkhan Supriyadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1395855672,
+      "percentage": 55.83
+    },
+    {
+      "name": "PT Bakrie Capital Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 445562965,
+      "percentage": 17.82
+    },
+    {
+      "name": "Ernawati Ali",
+      "type": "Lebih dari 5%",
+      "shares": 273921631,
+      "percentage": 10.96
+    },
+    {
+      "name": "Stefanie Djajali",
+      "type": "Lebih dari 5%",
+      "shares": 230265187,
+      "percentage": 9.21
+    },
+    {
+      "name": "Paradiso Resources Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 153023232,
+      "percentage": 6.12
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1533657,
+      "percentage": 0.06
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andi W. Setianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adhika Andrayudha Bakrie",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nalinkant A. Rathod",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nengah Rama Gautama",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anindya N. Bakrie",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bayu Irianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "B.s. Vinayak",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Agri Resources B.v.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 4489543,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Grahadura Leidongprima",
+      "business_type": "Perkebunan Kelapa Sawit dan Pengolahannya",
+      "total_assets": 747960,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bakrie Pasaman Plantations",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 602323,
+      "ownership_percentage": 99.76
+    },
+    {
+      "name": "Agri International Resources Pte., Ltd.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 421457,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumbertama Nusapertiwi",
+      "business_type": "Perkebunan dan Pengolahan Kelapa Sawit",
+      "total_assets": 389666,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Agrowiyana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 257994,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Huma Indah Mekar",
+      "business_type": "Perkebunan Kelapa Sawit dan Pengolahannya",
+      "total_assets": 182828,
+      "ownership_percentage": 96.55
+    },
+    {
+      "name": "PT Bakrie Sawit Unggul",
+      "business_type": "Produksi, Pemrosesan, Distribusi dan Penjualan Benih",
+      "total_assets": 78441,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Agro Mitra Madani",
+      "business_type": "Pengolahan Minyak Kelapa Sawit",
+      "total_assets": 72071,
+      "ownership_percentage": 99.39
+    },
+    {
+      "name": "Bsp Finance B.v.",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 43902,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Rekin Bio Energy",
+      "business_type": "Bio Diesel",
+      "total_assets": 27470,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Bsp Netherland Finance B.v.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bsp Liberia B.v.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Renewable Chemicals",
+      "business_type": "Pengolahan dan Perdagangan Hasil Perkebunan Karet",
+      "total_assets": 0,
+      "ownership_percentage": 28.93
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "925.060.067.280",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,91",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "68,27",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "108,33",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "191,67",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,41",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "19,72",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:14.199Z"
+}

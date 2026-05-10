@@ -1,0 +1,228 @@
+{
+  "company_name": "Bank Bumi Arta Tbk",
+  "ticker": "BNBA",
+  "office_address": "Jl. Wahid Hasyim No. 234-236 Jakarta 10250",
+  "email": "lyvinia_sari@bankbba.co.id",
+  "phone": "2300-455",
+  "fax": "310-2632",
+  "tax_id": "01.308.466.0-054.000",
+  "website": "https://www.bankbba.co.id",
+  "listing_date": "2006-06-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Lyvinia Sari",
+    "email": "lyvinia_sari@bankbba.co.id",
+    "phone": "2300455"
+  },
+  "directors": [
+    {
+      "name": "Wikan Aryono (wikan Aryono S)",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Hendrik Atmaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Edwin Suryahusada",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "John David Nehemia Engelen",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Daniel Budi Dharma",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "R.m. Sjariffudin (mohammad Sjariffudin)",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "I Gst Agung Rai Wirajaya, Se, Mm",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Daniel Budi Dharma",
+      "position": "Ketua"
+    },
+    {
+      "name": "Keng Joe Hok, Sh",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tara Adelia Senjaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Takjub Finansial Teknologi",
+      "type": "Lebih dari 5%",
+      "shares": 1133440000,
+      "percentage": 33.45
+    },
+    {
+      "name": "PT Surya Husada Investment",
+      "type": "Lebih dari 5%",
+      "shares": 1000396641,
+      "percentage": 29.53
+    },
+    {
+      "name": "PT Dana Graha Agung",
+      "type": "Lebih dari 5%",
+      "shares": 600237984,
+      "percentage": 17.72
+    },
+    {
+      "name": "PT Budiman Kencana Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 370982305,
+      "percentage": 10.95
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 281789770,
+      "percentage": 8.32
+    },
+    {
+      "name": "I Gst Agung Rai Wirajaya",
+      "type": "Komisaris",
+      "shares": 265000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Wikan Aryono S",
+      "type": "Direksi",
+      "shares": 300000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Hendrik Atmaja",
+      "type": "Direksi",
+      "shares": 352000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "R.m. Sjariffudin (mohammad Sjariffudin)",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edwin Suryahusada",
+      "type": "Direksi",
+      "shares": 92400,
+      "percentage": 0
+    },
+    {
+      "name": "John David Nehemia Engelen",
+      "type": "Direksi",
+      "shares": 18900,
+      "percentage": 0
+    },
+    {
+      "name": "T. Hendra Jonathan*)",
+      "type": "Komisaris",
+      "shares": 125000,
+      "percentage": 0
+    },
+    {
+      "name": "Daniel Budi Dharma",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.666.525.400.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "9,72",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,07",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "28,46",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "1,86",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,28",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:09.233Z"
+}

@@ -1,0 +1,180 @@
+{
+  "company_name": "Eterindo Wahanatama Tbk",
+  "ticker": "ETWA",
+  "office_address": "Prudential Tower, 20th Floor Jl. Jenderal Sudirman Kav. 79 Jakarta 12910",
+  "email": "corsec@eterindo.com",
+  "phone": "021-252 8080",
+  "fax": "021-252 8090",
+  "tax_id": "01.585.572.9-054.000",
+  "website": "https://www.eterindo.com",
+  "listing_date": "1997-05-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Chemicals",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis.",
+    "business_tags": [
+      "Agribisnis"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Drs Eisen Wongso Wirya Surya",
+    "email": "corsec@eterindo.com",
+    "phone": "021-252 8080"
+  },
+  "directors": [
+    {
+      "name": "Drs Eisen Wongso Wirya Surya",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Edward Hardiyanto, Se",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tan Zhi yang",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tjhin Tjung Lie",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tjhin Tjung Lie",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rokhilah, Sp",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gunawan Kurniadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mordred Investama Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 3700374400,
+      "percentage": 79.26
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 729314500,
+      "percentage": 15.62
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 238982500,
+      "percentage": 5.12
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Anugerahinti Gemanusa",
+      "business_type": "Industri Biodiesel",
+      "total_assets": 840147974737,
+      "ownership_percentage": 99.59
+    },
+    {
+      "name": "PT Malindo Persada Khatulistiwa",
+      "business_type": "Perkebunan Sawit",
+      "total_assets": 338340967444,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Maiska Bhumi Semesta",
+      "business_type": "Perkebunan Sawit",
+      "total_assets": 283320368981,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "326.806.998.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:39.031Z"
+}

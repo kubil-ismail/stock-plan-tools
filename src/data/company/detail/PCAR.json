@@ -1,0 +1,210 @@
+{
+  "company_name": "PT Prima Cakrawala Abadi Tbk",
+  "ticker": "PCAR",
+  "office_address": "Jl. Krt. Wongsonegoro No. 39, Kelurahan Wonosari, Kecamatan Ngaliyan, Semarang 50186, Jawa Tengah",
+  "email": "cs@pcafoods.com",
+  "phone": "+62248661860",
+  "fax": "+62248661861",
+  "tax_id": "70.110.824.3-503.000",
+  "website": "https://www.pcafoods.com",
+  "listing_date": "2017-12-29",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pengolahan distribusi hasil perikanan (rajungan)",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 86,
+    "name": "Ritel & Distributor Makanan",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Titi Indah Susilowati",
+    "email": "cs@pcafoods.com",
+    "phone": "081519966734"
+  },
+  "directors": [
+    {
+      "name": "Raditya Wardhana",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Titi Indah Susilowati",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lim Tony",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "A. Sunu Widiatmoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ida Bagus Oka Nila",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ida Bagus Oka Nila",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs Djunggu. H. Sitorus, Akt, M.si",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hendra Wardana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 802771682,
+      "percentage": 68.809
+    },
+    {
+      "name": "PT Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 305535018,
+      "percentage": 26.189
+    },
+    {
+      "name": "PT Bahari Istana Alkausar",
+      "type": "Lebih dari 5%",
+      "shares": 58360000,
+      "percentage": 5.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Nuansa Cipta Magello",
+      "business_type": "Industri Pengolahan, Pengawetan dan Perdagangan Hasiil Perikanan.",
+      "total_assets": 40997009887,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Karya Persada Khatulistiwa",
+      "business_type": "Industri Pengolahan, Pengawetan dan Perdagangan Hasiil Perikanan.",
+      "total_assets": 34430210414,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": ""
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": "Kap Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": "Kap Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "42.000.001.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,89",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "16,67",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "30,00",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,41",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,50",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:15.005Z"
+}

@@ -1,0 +1,628 @@
+{
+  "company_name": "PT Terregra Asia Energy",
+  "ticker": "TGRA",
+  "office_address": "Jl. Haji Nawi Raya No. 45, Gandaria Selatan, Cilandak Jakarta Selatan - 12420",
+  "email": "corsec@terregra.co.id",
+  "phone": "(021) 3049 7777",
+  "fax": "(021) 3049 7778",
+  "tax_id": "01.755.393.4-904.000",
+  "website": "https://www.terregra.co.id",
+  "listing_date": "2017-05-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bidang ketenagalistrikan, perdagangan, pembangunan dan jasa yang berhubungan dengan pembakit listrik",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 34,
+    "name": "Utilitas",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 57,
+    "name": "Utilitas Listrik"
+  },
+  "sub_industry": {
+    "id": 100,
+    "name": "Utilitas Listrik",
+    "industries_id": 57
+  },
+  "corporate_secretary": {
+    "name": "Daniel Tagu Dedo",
+    "email": "daniel@terregra.co.id",
+    "phone": "0812 3004 711"
+  },
+  "directors": [
+    {
+      "name": "Djani Sutedja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Tagu Dedo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Ngurah Adnyana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Supandi Ws",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Roy Petrus Chalim",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Supandi Widi Siswanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tisanto Adi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ihot Parasian Gultom",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2169665800,
+      "percentage": 78.89
+    },
+    {
+      "name": "PT Terregra Asia Equity",
+      "type": "Lebih dari 5%",
+      "shares": 452676000,
+      "percentage": 16.46
+    },
+    {
+      "name": "Djani Sutedja",
+      "type": "Direksi",
+      "shares": 87588200,
+      "percentage": 3.19
+    },
+    {
+      "name": "Roy Petrus Chalim",
+      "type": "Komisaris",
+      "shares": 40070000,
+      "percentage": 1.46
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Terregra Hydro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 328527573017,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Terregra Hydro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 328527573017,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Terregra Hydro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 328479132147,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Terregra Hydro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 328364402905,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Terregra Hydro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 323492254358,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berkah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 122000867409,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Berkah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 121440042355,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Berkah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 121440042355,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Berkah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 121420666787,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Berkah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 121420026567,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Energi Alam Sentosa",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 86106495465,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Energi Alam Sentosa",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 85601246887,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Energi Alam Sentosa",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 85572402530,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Energi Alam Sentosa",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 85562512919,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Energi Alam Sentosa",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 85562512919,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Indah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 75086233724,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Indah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 63478059869,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Indah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 63478059869,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Indah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 63422386589,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Indah Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 63419060761,
+      "ownership_percentage": 80.25
+    },
+    {
+      "name": "PT Sumber Alam Energi Hidro",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 57487350787,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Sumber Alam Energi Hidro",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 57447271504,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Sumber Alam Energi Hidro",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 57446093535,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Sumber Alam Energi Hidro",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 57446093535,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Sumber Alam Energi Hidro",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 57420588027,
+      "ownership_percentage": 87
+    },
+    {
+      "name": "PT Myi Energi Lestari",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 27865927059,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Myi Energi Lestari",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 27865927059,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Myi Energi Lestari",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 27865927059,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Myi Energi Lestari",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 27865927059,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Myi Energi Lestari",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 27338970000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Myi Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 23701470000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Myi Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 22710591007,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Myi Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 22710591007,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Myi Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 22710591007,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Myi Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 22710591007,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Meutia Hidro Perkasa",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 22526874767,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Meutia Hidro Perkasa",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 22526761870,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Meutia Hidro Perkasa",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 22526538102,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Meutia Hidro Perkasa",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 22526538102,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Meutia Hidro Perkasa",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 22526479599,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Teunom Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 21162734875,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Teunom Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 21159423625,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Teunom Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 21158452687,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Teunom Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 21158452687,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Teunom Hidro Power",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 21158047172,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Karya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 5528324216,
+      "ownership_percentage": 80.24
+    },
+    {
+      "name": "PT Karya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 5527991716,
+      "ownership_percentage": 80.24
+    },
+    {
+      "name": "PT Karya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 5527991716,
+      "ownership_percentage": 80.24
+    },
+    {
+      "name": "PT Karya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 5527874216,
+      "ownership_percentage": 80.24
+    },
+    {
+      "name": "PT Karya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 5527341716,
+      "ownership_percentage": 80.24
+    },
+    {
+      "name": "PT Cahaya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 4906006360,
+      "ownership_percentage": 85.21
+    },
+    {
+      "name": "PT Cahaya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 4905973161,
+      "ownership_percentage": 85.21
+    },
+    {
+      "name": "PT Cahaya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 4905594160,
+      "ownership_percentage": 85.21
+    },
+    {
+      "name": "PT Cahaya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 4905594160,
+      "ownership_percentage": 85.21
+    },
+    {
+      "name": "PT Cahaya Abadi Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 4905485360,
+      "ownership_percentage": 85.21
+    },
+    {
+      "name": "PT Karya Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 3185353330,
+      "ownership_percentage": 85.05
+    },
+    {
+      "name": "PT Karya Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 3185353330,
+      "ownership_percentage": 85.05
+    },
+    {
+      "name": "PT Karya Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 3185244530,
+      "ownership_percentage": 85.05
+    },
+    {
+      "name": "PT Karya Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 3184732329,
+      "ownership_percentage": 85.05
+    },
+    {
+      "name": "PT Karya Alam Lestari Energi",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 3184576330,
+      "ownership_percentage": 85.05
+    },
+    {
+      "name": "PT Borneo Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 911500000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Borneo Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 911500000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Borneo Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 911500000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Borneo Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 911500000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Borneo Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Mini Hidro",
+      "total_assets": 911500000,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Musi Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 891085976,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Musi Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 891085976,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Musi Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 891085976,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Musi Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 891085976,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Musi Hydro Electric",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 891085976,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Irwanto, Drs."
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Irwanto Hary dan Usman"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Irwanto dan Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Irwanto dan Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "74.250.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "28,95",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:32.968Z"
+}

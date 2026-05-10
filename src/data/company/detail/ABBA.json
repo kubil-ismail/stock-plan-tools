@@ -1,0 +1,450 @@
+{
+  "company_name": "Mahaka Media Tbk",
+  "ticker": "ABBA",
+  "office_address": "Sahid Sudirman Centre Lt. 10, Jl. Jend. Sudirman No. 86, Jakarta 10220",
+  "email": "corsec@mahakax.com",
+  "phone": "(021) 573 9203",
+  "fax": "(021) 573 9210",
+  "tax_id": "01.609.052.4-054.000",
+  "website": "https://www.mahakax.com",
+  "listing_date": "2002-04-03",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Media dan Percetakan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 55,
+    "name": "Penerbitan",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "S. Pramudityo Anggoro",
+    "email": "corsec@mahakamedia.com",
+    "phone": "021-5739203"
+  },
+  "directors": [
+    {
+      "name": "Ronny Wilimas Sugiadha",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Fadri Attamimi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Martin Suharlie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Aldo Rambie",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Aldo Rambie",
+      "position": "Ketua"
+    },
+    {
+      "name": "Otto Eduard Sitorus",
+      "position": "Anggota"
+    },
+    {
+      "name": "Isenta",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Beyond Media",
+      "type": "Lebih dari 5%",
+      "shares": 1592831618,
+      "percentage": 40.47
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1342194320,
+      "percentage": 34.09
+    },
+    {
+      "name": "PT Solic Kreasi Baru",
+      "type": "Lebih dari 5%",
+      "shares": 542042122,
+      "percentage": 13.77
+    },
+    {
+      "name": "Mediahuis Ireland Limited",
+      "type": "Lebih dari 5%",
+      "shares": 282886300,
+      "percentage": 7.19
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 175350297,
+      "percentage": 4.46
+    },
+    {
+      "name": "Mahendra Agakhan T",
+      "type": "Lebih dari 5%",
+      "shares": 388200,
+      "percentage": 0.01
+    },
+    {
+      "name": "Ronny Wilimas Sugiadha",
+      "type": "Direksi",
+      "shares": 200000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Republika Media Mandiri",
+      "business_type": "Penerbitan Pers",
+      "total_assets": 43149165666,
+      "ownership_percentage": 95.64
+    },
+    {
+      "name": "PT Republika Media Mandiri",
+      "business_type": "Penerbitan Pers",
+      "total_assets": 34251437563,
+      "ownership_percentage": 95.64
+    },
+    {
+      "name": "PT Gamma Investa Lestari",
+      "business_type": "Pengelolaan Gedung",
+      "total_assets": 30826514458,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Gamma Investa Lestari",
+      "business_type": "Pengelolaan Gedung",
+      "total_assets": 30745128630,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Gamma Investa Lestari",
+      "business_type": "Pengelolaan Gedung",
+      "total_assets": 30555528993,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Gamma Investa Lestari",
+      "business_type": "Pengelolaan Gedung",
+      "total_assets": 29812414265,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Republika Media Mandiri",
+      "business_type": "Penerbitan Pers",
+      "total_assets": 29651053239,
+      "ownership_percentage": 91.91
+    },
+    {
+      "name": "PT Gamma Investa Lestari",
+      "business_type": "Pengelolaan Gedung",
+      "total_assets": 26843370836,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Kalyanamitra Adhara Mahardhika",
+      "business_type": "Event Organizer",
+      "total_assets": 24416458069,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Kalyanamitra Adhara Mahardhika",
+      "business_type": "Event Organizer",
+      "total_assets": 23001069105,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Republika Media Mandiri",
+      "business_type": "Penerbitan Pers",
+      "total_assets": 20788859063,
+      "ownership_percentage": 95.64
+    },
+    {
+      "name": "PT Kalyanamitra Adhara Mahardhika",
+      "business_type": "Event Organizer",
+      "total_assets": 20593960324,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Kalyanamitra Adhara Mahardhika",
+      "business_type": "Event Organizer",
+      "total_assets": 20341952647,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Republika Media Mandiri",
+      "business_type": "Penerbitan Pers",
+      "total_assets": 18754519589,
+      "ownership_percentage": 95.64
+    },
+    {
+      "name": "PT Kalyanamitra Adhara Mahardhika",
+      "business_type": "Event Organizer",
+      "total_assets": 10885794539,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Kreatif Intel Teknologi",
+      "business_type": "Konten Kreatif Agensi",
+      "total_assets": 8232318628,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Kreatif Intel Teknologi",
+      "business_type": "Konten Kreatif Agensi",
+      "total_assets": 7358735002,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Danapati Abinaya Investama",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 7258528419,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Danapati Abinaya Investama",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 6936588577,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Danapati Abinaya Investama",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 6671967935,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Danapati Abinaya Investama",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 6656286101,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Kreatif Intel Teknologi",
+      "business_type": "Konten Kreatif Agensi",
+      "total_assets": 6162694642,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Danapati Abinaya Investama",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 5746289504,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Kreatif Intel Teknologi",
+      "business_type": "Konten Kreatif Agensi",
+      "total_assets": 4876652278,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Kreatif Intel Teknologi",
+      "business_type": "Konten Kreatif Agensi",
+      "total_assets": 4175365304,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Archytect Teknologi Indonesia",
+      "business_type": "Pengembangan Software",
+      "total_assets": 3741808126,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Archytect Teknologi Indonesia",
+      "business_type": "Pengembangan Software",
+      "total_assets": 3038280911,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Archytect Teknologi Indonesia",
+      "business_type": "Pengembangan Software",
+      "total_assets": 2752569316,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Archytect Teknologi Indonesia",
+      "business_type": "Pengembangan Software",
+      "total_assets": 2562238144,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Archytect Teknologi Indonesia",
+      "business_type": "Pengembangan Software",
+      "total_assets": 2418959811,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Akasia Code Digital",
+      "business_type": "Pengembangan Software",
+      "total_assets": 1319265632,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Code Digital",
+      "business_type": "Pengembangan Software",
+      "total_assets": 1268959209,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Code Digital",
+      "business_type": "Pengembangan Software",
+      "total_assets": 1265959043,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Damcorp Waba",
+      "business_type": "Perdagangan Peralatan Komunikasi",
+      "total_assets": 1256972028,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Code Digital",
+      "business_type": "Pengembangan Software",
+      "total_assets": 1235619433,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Code Digital",
+      "business_type": "Pengembangan Software",
+      "total_assets": 1227516061,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Damcorp Waba",
+      "business_type": "Perdagangan Peralatan Komunikasi",
+      "total_assets": 1197875426,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Damcorp Waba",
+      "business_type": "Perdagangan Peralatan Komunikasi",
+      "total_assets": 1191210819,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Damcorp Waba",
+      "business_type": "Perdagangan Peralatan Komunikasi",
+      "total_assets": 1189794049,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Damcorp Waba",
+      "business_type": "Perdagangan Peralatan Komunikasi",
+      "total_assets": 1183732288,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Cepat Indonesia",
+      "business_type": "Pengiriman Barang",
+      "total_assets": 1000000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Cepat Indonesia",
+      "business_type": "Pengiriman Barang",
+      "total_assets": 1000000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Cepat Indonesia",
+      "business_type": "Pengiriman Barang",
+      "total_assets": 1000000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Cepat Indonesia",
+      "business_type": "Pengiriman Barang",
+      "total_assets": 1000000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Akasia Cepat Indonesia",
+      "business_type": "Pengiriman Barang",
+      "total_assets": 1000000000,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "165.307.499.994",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,55",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "16,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "27,59",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "10,53",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "28,81",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:46.108Z"
+}

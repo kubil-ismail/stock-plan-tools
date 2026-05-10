@@ -1,0 +1,202 @@
+{
+  "company_name": "PT Ingria Pratama Capitalindo Tbk",
+  "ticker": "GRIA",
+  "office_address": "Ruko Pondok Cabe Mutiara, Jalan Pondok Cabe Raya No. 27, Kecamatan Pamulang, Tangerang Selatan, Banten 15418.",
+  "email": "corsec@ingriagroup.com",
+  "phone": "02174636691",
+  "fax": "-",
+  "tax_id": "31.804.951.7-411.00",
+  "website": "https://ingriagroup.com",
+  "listing_date": "2023-08-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perseroan bergerak dalam bidang Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Eka Maolana Yusuf",
+    "email": "corsec@ingriagroup.com",
+    "phone": "02174636691"
+  },
+  "directors": [
+    {
+      "name": "Khufran Hakim Noor",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Irwansyah Hakim Noor",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hugofeber Parluhutan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Moch Dody Supriyadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Arvan Rivaldy R Siregar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Gunawan Wisaksono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gunawan Wisaksono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Grace Octavia S.e., Ak., Cpa., Ca.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Arif Wahyadi S.e., Ak., Ca., Cpa.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Khufran Hakim Noor",
+      "type": "Direksi",
+      "shares": 3486806674,
+      "percentage": 47.27
+    },
+    {
+      "name": "Arvan Rivaldy Siregar",
+      "type": "Komisaris",
+      "shares": 1756650000,
+      "percentage": 23.82
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1412714000,
+      "percentage": 19.15
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 593350000,
+      "percentage": 8.04
+    },
+    {
+      "name": "Moch Dody Supriyadi",
+      "type": "Direksi",
+      "shares": 63100000,
+      "percentage": 0.86
+    },
+    {
+      "name": "Irwansyah Hakim Noor",
+      "type": "Direksi",
+      "shares": 63100000,
+      "percentage": 0.86
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "N/a",
+      "business_type": "N/a",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "737.572.067.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "19,05",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "3,03",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "14,61",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,00",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "5,56",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:16.246Z"
+}

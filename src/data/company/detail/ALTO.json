@@ -1,0 +1,204 @@
+{
+  "company_name": "Tri Banyan Tirta Tbk",
+  "ticker": "ALTO",
+  "office_address": "Kp. Pasir Dalem Rt.002 Rw.002 Desa Babakan Pari, Kecamatan Cidahu Kabupaten Sukabumi, Jawa Barat 43158",
+  "email": "corsec@altospringswater.com",
+  "phone": "(0266) 735 813 dan (021) 5300 689",
+  "fax": "(0266) 731 319 dan (021) 5301 620",
+  "tax_id": "01.761.303.5-054.000",
+  "website": "https://www.ALTOspringswater.com",
+  "listing_date": "2012-07-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha makanan, minuman dan air mineral.",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 49,
+    "name": "Minuman Ringan",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Huda Nardono",
+    "email": "hudans@gmail.com",
+    "phone": "0215308253"
+  },
+  "directors": [
+    {
+      "name": "Huda Nardono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Abubakarsyah Boetje",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Listiani Chandra Sekar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Iman Kushardiman",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Iman Kushardiman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Imah Lastari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Marlina Susanty",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Fikasa Bintang Cemerlang",
+      "type": "Lebih dari 5%",
+      "shares": 798633308,
+      "percentage": 36.44
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 674182849,
+      "percentage": 30.75
+    },
+    {
+      "name": "PT Tirtamas Anggada",
+      "type": "Lebih dari 5%",
+      "shares": 356130919,
+      "percentage": 16.25
+    },
+    {
+      "name": "PT Trimegah Sekuritas Indonesia, Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 210832443,
+      "percentage": 9.62
+    },
+    {
+      "name": "Persero Danareksa,pt S/a Psc",
+      "type": "Lebih dari 5%",
+      "shares": 149437339,
+      "percentage": 6.82
+    },
+    {
+      "name": "Huda Nardono",
+      "type": "Direksi",
+      "shares": 2402200,
+      "percentage": 0.11
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 251500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tirtamas Abadi Berjaya",
+      "business_type": "Jasa, Pembangunan, dan Perdagangan",
+      "total_assets": 863970817011,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Tirtamas Abadi Berjaya",
+      "business_type": "Jasa, Pembangunan, dan Perdagangan",
+      "total_assets": 844218313781,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Tirtamas Abadi Berjaya",
+      "business_type": "Jasa, Pembangunan, dan Perdagangan",
+      "total_assets": 833400089172,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Tirtamas Abadi Berjaya",
+      "business_type": "Jasa, Pembangunan, dan Perdagangan",
+      "total_assets": 826418379478,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Tirtamas Abadi Berjaya",
+      "business_type": "Jasa, Pembangunan, dan Perdagangan",
+      "total_assets": 822846191054,
+      "ownership_percentage": 99.54
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "39.453.670.044",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "20,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:11.869Z"
+}

@@ -1,0 +1,355 @@
+{
+  "company_name": "PT Buma Internasional Grup Tbk",
+  "ticker": "DOID",
+  "office_address": "South Quarter Tower C, Lantai 5/ 5th Floor, Jl. R.a. Kartini Kav 8, Cilandak Barat, Jakarta Selatan 12430",
+  "email": "ir@deltadunia.com; corpsec@deltadunia.com",
+  "phone": "021 3043 2080",
+  "fax": "021 3043 2081",
+  "tax_id": "0010 6931 8209 1000",
+  "website": "https://bumainternational.com",
+  "listing_date": "2001-06-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara(Coal Mining)",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Teknologi, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Teknologi",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Olga Oktavia Patuwo",
+    "email": "ir@deltadunia.com, corpsec@deltadunia.com",
+    "phone": "02130432080"
+  },
+  "directors": [
+    {
+      "name": "Ronald Sutardja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Fuad Salim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dian Paramita",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ashish Gupta",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hamid Awaludin",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Nurdin Zainal",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dian Sofia Andyasuri",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nurdin Zainal",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tatan Achmad Taufik",
+      "position": "Anggota"
+    },
+    {
+      "name": "Willem Lucas Timmermans",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3509809432,
+      "percentage": 45.87
+    },
+    {
+      "name": "Northstar Tambang Persada Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 2924000000,
+      "percentage": 38.22
+    },
+    {
+      "name": "Six Sis Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 432100000,
+      "percentage": 5.65
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 293837700,
+      "percentage": 3.84
+    },
+    {
+      "name": "Ronald Sutardja",
+      "type": "Direksi",
+      "shares": 222760000,
+      "percentage": 2.91
+    },
+    {
+      "name": "Ashish Gupta",
+      "type": "Komisaris",
+      "shares": 200000000,
+      "percentage": 2.61
+    },
+    {
+      "name": "Dian Sofia Andyasuri",
+      "type": "Komisaris",
+      "shares": 35000000,
+      "percentage": 0.46
+    },
+    {
+      "name": "Iwan Fuad Salim",
+      "type": "Direksi",
+      "shares": 17500000,
+      "percentage": 0.23
+    },
+    {
+      "name": "Dian Paramita",
+      "type": "Direksi",
+      "shares": 15000000,
+      "percentage": 0.2
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1000000,
+      "percentage": 0.01
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bukit Makmur Mandiri Utama",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 1589449636,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Buma Australia Pty. Ltd.",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 260096319,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "American Anthracite Group, Llc",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 210397203,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "American Anthracite Holdings, Llc",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 210397203,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "American Anthracite Spv I, Llc",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 210397203,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "Atlantic Carbon Group, Inc.",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 166331239,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "PT Bukit Makmur Internasional",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 163333800,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Bukit Makmur Mandiri Utama Pte. Ltd.",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 72333174,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Wildcat Carbon Processing, Llc",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 18857441,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "PT Bukit Teknologi Digital",
+      "business_type": "Jasa Teknologi",
+      "total_assets": 8485376,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Moura Materials Bidco Pty. Ltd.",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1975209,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moura Materials Holdco Pty. Ltd.",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1975209,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moura Materials Midco Pty. Ltd.",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1975209,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moura Materials Services Pty. Ltd.",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1975209,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bisa Ruang Nuswantara",
+      "business_type": "Pendidikan Vokasi",
+      "total_assets": 1364349,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Katalis Investama Mandiri",
+      "business_type": "Jasa Konsultansi Manajemen",
+      "total_assets": 233427,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Biru Edu Praktik",
+      "business_type": "Pelatihan Vokasi",
+      "total_assets": 18038,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pulau Mutiara Persada",
+      "business_type": "Batu Bara/pertambangan",
+      "total_assets": 8084,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Banyubiru Sakti",
+      "business_type": "Batu Bara/pertambangan",
+      "total_assets": 4793,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "American Carbon Warehousing, Llc",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 0,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "Ebervale Mining Division, Llc",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 0,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "Hazleton Shaft Division, Llc",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 0,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "Newcastle Anthracite Company",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 0,
+      "ownership_percentage": 70.99
+    },
+    {
+      "name": "The Central Pennsylvania Anthracite Company, Llc",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 0,
+      "ownership_percentage": 70.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.928.053.797.264",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,81",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "20,81",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "28,48",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "51,64",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,48",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "26,25",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:04.860Z"
+}

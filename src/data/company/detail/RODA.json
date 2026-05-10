@@ -1,0 +1,286 @@
+{
+  "company_name": "Pikko Land Development Tbk",
+  "ticker": "RODA",
+  "office_address": "Sahid Sudirman Residence 3rd Floor Jl. Jend. Sudirman No. 86 Jakarta 10220",
+  "email": "kwan_silvana@yahoo.com",
+  "phone": "021-52970288",
+  "fax": "021-29022888",
+  "tax_id": "01.621.610.3-054.000",
+  "website": "https://-",
+  "listing_date": "2001-10-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Silvana",
+    "email": "kwan_silvana@yahoo.com",
+    "phone": "(021) 52970288"
+  },
+  "directors": [
+    {
+      "name": "Sicilia Alexander Setiawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Joewono Witjitro Wongsodihardjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eko Wiratmoko",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kwan Sioe Moei",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Daud Gozali",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Daud Gozali",
+      "position": "Ketua"
+    },
+    {
+      "name": "Vania",
+      "position": "Anggota"
+    },
+    {
+      "name": "Paulina Aryanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Nio Yantony",
+      "type": "Lebih dari 5%",
+      "shares": 3603968900,
+      "percentage": 26.5151
+    },
+    {
+      "name": "Kwan Sioe Moei",
+      "type": "Komisaris",
+      "shares": 3595930500,
+      "percentage": 26.456
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2440105009,
+      "percentage": 17.9524
+    },
+    {
+      "name": "Ginawan Chondro",
+      "type": "Lebih dari 5%",
+      "shares": 1438993800,
+      "percentage": 10.587
+    },
+    {
+      "name": "Caroline Dewi",
+      "type": "Lebih dari 5%",
+      "shares": 884242500,
+      "percentage": 6.5055
+    },
+    {
+      "name": "Sicilia Alexander S.",
+      "type": "Direksi",
+      "shares": 875852600,
+      "percentage": 6.4438
+    },
+    {
+      "name": "Wirawan Chondro",
+      "type": "Lebih dari 5%",
+      "shares": 753034900,
+      "percentage": 5.5402
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Multi Pratama Gemilang",
+      "business_type": "Properti",
+      "total_assets": 544226567243,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Laras Maju Sakti",
+      "business_type": "Properti",
+      "total_assets": 442895396671,
+      "ownership_percentage": 98.68
+    },
+    {
+      "name": "PT Bangun Inti Artha",
+      "business_type": "Properti",
+      "total_assets": 361391670095,
+      "ownership_percentage": 62.56
+    },
+    {
+      "name": "PT Unggul Kencana Persada",
+      "business_type": "Properti",
+      "total_assets": 355561633648,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "Kerjasama Operasi Fortuna Indonesia",
+      "business_type": "Properti",
+      "total_assets": 336338701902,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fortuna Cahaya Cemerlang",
+      "business_type": "Properti",
+      "total_assets": 300670216791,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tiara Sakti Mandiri",
+      "business_type": "Properti",
+      "total_assets": 262831232372,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bangun Megah Pratama",
+      "business_type": "Properti",
+      "total_assets": 222861417152,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permata Alam Properti",
+      "business_type": "Properti",
+      "total_assets": 175787192944,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "Kerjasama Operasi Sahid Multi Pratama Gemilang",
+      "business_type": "Properti",
+      "total_assets": 99992175231,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sentosa Buana Raya",
+      "business_type": "Properti",
+      "total_assets": 81188400570,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Megatama Karya Gemilang",
+      "business_type": "Properti",
+      "total_assets": 48729927633,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Citra Agung Pratama",
+      "business_type": "Properti",
+      "total_assets": 23371680115,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Citra Pratama Propertindo",
+      "business_type": "Properti",
+      "total_assets": 23244446881,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "Kerjasama Operasi Sahid Megatama Karya Gemilang",
+      "business_type": "Properti",
+      "total_assets": 12215259189,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Inti Sempurna",
+      "business_type": "Properti",
+      "total_assets": 10277062961,
+      "ownership_percentage": 98.15
+    },
+    {
+      "name": "PT Sentra Gaya Makmur",
+      "business_type": "Properti",
+      "total_assets": 695057281,
+      "ownership_percentage": 85.2
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.073.778.128.511",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "45,28",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "45,28",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "71,11",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "87,80",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,75",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "54,00",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:52.928Z"
+}

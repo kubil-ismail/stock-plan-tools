@@ -1,0 +1,184 @@
+{
+  "company_name": "PT Wilmar Cahaya Indonesia Tbk.",
+  "ticker": "CEKA",
+  "office_address": "Gedung Multivision Tower Lantai 16, Jalan Kuningan Mulia Lot 9b, Rt.14/rw.4, Kelurahan Guntur, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 12980",
+  "email": "dwi.iriyadi@id.wilmar-intl.com",
+  "phone": "021-29380777",
+  "fax": "021 - 8937143",
+  "tax_id": "0011105111054000",
+  "website": "https://www.wilmarcahayaindonesia.com",
+  "listing_date": "1996-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Makanan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Emmanuel Dwi Iriyadi",
+    "email": "dwi.iriyadi@id.wilmar-intl.com",
+    "phone": "021-89830003, 89830004"
+  },
+  "directors": [
+    {
+      "name": "Erry Tjuatja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tonny Muksim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Teh Kenny Suryadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Darwin Indigo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendardji Soepandji",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mayjend. (purn). Drs. Hendardji Soepandji, Sh",
+      "position": "Ketua"
+    },
+    {
+      "name": "Prof. Dr. Sukrisno Agoes, Ak.mm.cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Beny Suharsono, Se., M.m",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sentratama Niaga Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 511796700,
+      "percentage": 86.02
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 82352300,
+      "percentage": 13.84
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 851000,
+      "percentage": 0.14
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Darwin Indigo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. Hendardji. S",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Erry Tjuatja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tonny Muksim, Se. Mm",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Teh Kenny Suryadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.422.050.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,17",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "6,00",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "7,84",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,08",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "2,49",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:03.479Z"
+}

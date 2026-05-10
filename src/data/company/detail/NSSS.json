@@ -1,0 +1,306 @@
+{
+  "company_name": "PT Nusantara Sawit Sejahtera Tbk",
+  "ticker": "NSSS",
+  "office_address": "Gedung Menara Imperium Lt.30 Suite D, Jl. Hr Rasuna Said Kav 1, Guntur, Setiabudi, Kota Adm. Jakarta Selatan, Dki Jakarta, 12980",
+  "email": "corporate.secretary@nssgroup.id",
+  "phone": "(+62 21) 8354 045",
+  "fax": "(+62 21) 8317 688",
+  "tax_id": "0026.0494.5201.8000",
+  "website": "https://www.nssgroup.id",
+  "listing_date": "2023-03-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Petrus Herobe Whiskynanto",
+    "email": "corporate.secretary@nssgroup.id",
+    "phone": "021-8354045"
+  },
+  "directors": [
+    {
+      "name": "Ir. Teguh Patriawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kurniadi Patriawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Miniwati Kasmita",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ester Hartati Satyono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Robiyanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Ir. Tungkot Sipayung",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dudung Abdurachman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Djasa Pinara Gusti",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr.ir.tungkot Sipayung",
+      "position": "Ketua"
+    },
+    {
+      "name": "Budi Wijana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Erni",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Samuel Tumbuh Bersama",
+      "type": "Lebih dari 5%",
+      "shares": 8342811900,
+      "percentage": 35.052
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6207979445,
+      "percentage": 26.082
+    },
+    {
+      "name": "Ir. Teguh Patriawan",
+      "type": "Direksi",
+      "shares": 2784929500,
+      "percentage": 11.701
+    },
+    {
+      "name": "PT Samuel Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2653295100,
+      "percentage": 11.147
+    },
+    {
+      "name": "PT Nusantara Makmur Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 2264325000,
+      "percentage": 9.513
+    },
+    {
+      "name": "PT Samuel International",
+      "type": "Lebih dari 5%",
+      "shares": 1503026400,
+      "percentage": 6.315
+    },
+    {
+      "name": "Djasa Pinara Gusti",
+      "type": "Komisaris",
+      "shares": 28550100,
+      "percentage": 0.12
+    },
+    {
+      "name": "Kurniadi Patriawan",
+      "type": "Direksi",
+      "shares": 13098500,
+      "percentage": 0.055
+    },
+    {
+      "name": "Miniwati Kasmita",
+      "type": "Direksi",
+      "shares": 2052700,
+      "percentage": 0.009
+    },
+    {
+      "name": "Ester Hartati Satyono",
+      "type": "Komisaris",
+      "shares": 1500000,
+      "percentage": 0.006
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Robiyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Ir. Tungkot Sipayung",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dudung Abdurachman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Nusantara Sawit Persada",
+      "business_type": "Perkebunan Kelapa Sawit Pabrik Pengolahan Kelapa Sawit",
+      "total_assets": 1892624964104,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Borneo Sawit Perdana",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1256160005484,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Prasetya Mitra Muda",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 734050495951,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bina Sarana Sawit Utama",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 100518150192,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Hamparan Mitra Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 35998157901,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "19.279.270.602.450",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "13,38",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "61,00",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "198,15",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "12,97",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:51.403Z"
+}

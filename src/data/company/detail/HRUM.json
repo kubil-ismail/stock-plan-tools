@@ -1,0 +1,276 @@
+{
+  "company_name": "Harum Energy Tbk",
+  "ticker": "HRUM",
+  "office_address": "Gedung Deutsche Bank, Lantai 9 Jl. Imam Bonjol No. 80 Jakarta Pusat, 10310 Indonesia",
+  "email": "corsec@harumenergy.com",
+  "phone": "021-3983-1288",
+  "fax": "021-3983-1289",
+  "tax_id": "01.746.590.7-091.000",
+  "website": "https://www.harumenergy.com",
+  "listing_date": "2010-10-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Beroperasi dan berinvestasi dalam bidang pertambangan batubara, perdagangan dan jasa melalui anak perusahaan",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Renny Soependi",
+    "email": "corsec@harumenergy.com",
+    "phone": "021 - 3983 1288"
+  },
+  "directors": [
+    {
+      "name": "Ray Antonio Gunara",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kenneth Scott Andrew Thompson",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hariyadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lawrence Barki",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Yun Mulyana",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Steven Scott Barki",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dody Hasril",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Astria Wizayanti",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dody Hasril",
+      "position": "Ketua"
+    },
+    {
+      "name": "Astria Wizayanti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhamad Kuncoro",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Karunia Bara Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 10786374000,
+      "percentage": 79.792
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2322871200,
+      "percentage": 17.183
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 369543600,
+      "percentage": 2.734
+    },
+    {
+      "name": "Lawrence Barki",
+      "type": "Komisaris",
+      "shares": 12882200,
+      "percentage": 0.095
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 12500000,
+      "percentage": 0.093
+    },
+    {
+      "name": "Steven Scott Barki",
+      "type": "Komisaris",
+      "shares": 11479000,
+      "percentage": 0.085
+    },
+    {
+      "name": "Ray Antonio Gunara",
+      "type": "Direksi",
+      "shares": 2450000,
+      "percentage": 0.018
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Harum Nickel Perkasa",
+      "business_type": "Investasi",
+      "total_assets": 2891987929,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Tanito Harum Nickel",
+      "business_type": "Investasi",
+      "total_assets": 2889521069,
+      "ownership_percentage": 50.77
+    },
+    {
+      "name": "PT Blue Sparking Energy",
+      "business_type": "Pemurnian Nikel",
+      "total_assets": 1499445221,
+      "ownership_percentage": 25.89
+    },
+    {
+      "name": "PT Harum Nickel Industry",
+      "business_type": "Investasi",
+      "total_assets": 806132734,
+      "ownership_percentage": 50.77
+    },
+    {
+      "name": "PT Westrong Metal Industry",
+      "business_type": "Pemurnian Nikel",
+      "total_assets": 726022436,
+      "ownership_percentage": 40.97
+    },
+    {
+      "name": "PT Mahakam Sumber Jaya",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 217576650,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Infei Metal Industry",
+      "business_type": "Pemurnian Nikel",
+      "total_assets": 210186912,
+      "ownership_percentage": 50.77
+    },
+    {
+      "name": "Nickel International Capital Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 90326782,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Position",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 39159728,
+      "ownership_percentage": 50.88
+    },
+    {
+      "name": "PT Layar Lintas Jaya",
+      "business_type": "Pelayaran",
+      "total_assets": 31890299,
+      "ownership_percentage": 99.11
+    },
+    {
+      "name": "PT Santan Batubara",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 23187470,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Karunia Pertiwi",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 14521260,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Usaha Pertiwi",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 13232123,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "Harum Asia Capital Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 10,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "13.450.509.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,08",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,45",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "12,50",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "13,04",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,08",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "16,89",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:52.000Z"
+}

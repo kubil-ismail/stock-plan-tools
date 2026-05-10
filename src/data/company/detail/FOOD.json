@@ -1,0 +1,203 @@
+{
+  "company_name": "PT Sentra Food Indonesia Tbk.",
+  "ticker": "FOOD",
+  "office_address": "Gedung Equity Tower Lt. 29 Unit E, SCBD Lot.9 Jl. Jend. Sudirman Kav. 52-53, Rt. 5, Rw. 3 Kel. Senayan, Kec. Kebayoran Baru Jakarta Selatan",
+  "email": "secretary@sentrafood.co.id",
+  "phone": "(021) 29055295",
+  "fax": "(021) 29035297",
+  "tax_id": "02.393.318.7-012.000",
+  "website": "https://www.sentrafood.co.id",
+  "listing_date": "2019-01-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Pengolahan Makanan dan Minuman melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Karina Larasati Putri",
+    "email": "secretary@sentrafood.co.id",
+    "phone": "(021) 29035295"
+  },
+  "directors": [
+    {
+      "name": "Agustus Sani Nugroho",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ruliff Redemptus Sena Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rheza Reynald Riady Susanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Iwan Gogo Bonardo Parsaulian Panjaitan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Andreas Sugihardjo Tjendana",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Andreas Sugihardjo Tjendana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Citra Claudia Isabella",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ferry Bella Meiyani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Super Capital Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 499999000,
+      "percentage": 76.92
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 150000000,
+      "percentage": 23.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agustus Sani Nugroho",
+      "type": "Direksi",
+      "shares": 1000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "120.900.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,56",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "9,22",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "53,48",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "74,77",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,53",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "51,30",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:51.107Z"
+}

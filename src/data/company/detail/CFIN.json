@@ -1,0 +1,201 @@
+{
+  "company_name": "Clipan Finance Indonesia Tbk",
+  "ticker": "CFIN",
+  "office_address": "Wisma Slipi, Lt. 6, Jl. Let.jend. S. Parman Kav. 12 Jakarta 11480",
+  "email": "corporate_secretary@clipan.co.id",
+  "phone": "021-5308005",
+  "fax": "021-5308026",
+  "tax_id": "0013083522054000",
+  "website": "https://www.clipan.co.id",
+  "listing_date": "1990-08-27",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Jahja Anwar",
+    "email": "corporate_secretary@clipan.co.id",
+    "phone": "021-5308005"
+  },
+  "directors": [
+    {
+      "name": "Harjanto Tjitohardjojo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jahja Anwar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lie Roelly Makalis",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bhindawati Gunawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lukman Abdullah",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Murwanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lukman Abdullah",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rendy Amanda S.ak",
+      "position": "Anggota"
+    },
+    {
+      "name": "Helen Rahardjo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Bank Pan Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2051431264,
+      "percentage": 51.49
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1603746816,
+      "percentage": 40.25
+    },
+    {
+      "name": "Bbh Luxembourg S/a Fidelity Fd Sicav, Fd Fds Pac Fd",
+      "type": "Lebih dari 5%",
+      "shares": 327759425,
+      "percentage": 8.23
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1582952,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bhindawati Gunawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lukman Abdullah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Murwanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Harjanto Tjitohardjojo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jahja Anwar",
+      "type": "Direksi",
+      "shares": 60000,
+      "percentage": 0
+    },
+    {
+      "name": "Lie Roelly Makalis",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.338.798.873.552",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,57",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "8,07",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "8,75",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "8,75",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,35",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "4,82",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:05.337Z"
+}

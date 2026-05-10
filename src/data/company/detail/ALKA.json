@@ -1,0 +1,314 @@
+{
+  "company_name": "Alakasa Industrindo Tbk",
+  "ticker": "ALKA",
+  "office_address": "Jalan Pulo Gadung No. 4 Kawasan Industri Pulogadung Jakarta 13930",
+  "email": "corsec@ai.alakasa.co.id",
+  "phone": "(021)460-88-55",
+  "fax": "(021)4603574; (021)4608856",
+  "tax_id": "01.000.166.7-054.000",
+  "website": "https://0",
+  "listing_date": "1990-07-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Investment Company",
+    "business_summary": "Perusahaan bergerak di bidang Alumunium.",
+    "business_tags": [
+      "Alumunium"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 3,
+    "name": "Alumunium",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Fendra Hartanto",
+    "email": "alakasa@indosat.net.id",
+    "phone": "021 - 4608855 / 31997275"
+  },
+  "directors": [
+    {
+      "name": "Sucipto Tanro",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fendra Hartanto",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Maradona Parhorasan Manurung",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Peng Tjoan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Rahardja Burhan",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suryadi Hertanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Antonius Wahyu Djatmiko",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Antonius Wahyu Djatmiko",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Gesit Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 425393555,
+      "percentage": 83.7939
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 66732328,
+      "percentage": 13.145
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 15519172,
+      "percentage": 3.0572
+    },
+    {
+      "name": "Suryadi Hertanto",
+      "type": "Komisaris",
+      "shares": 20000,
+      "percentage": 0.0039
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Alakasa Company Limited",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 566907378,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alakasa Company Limited",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 497503058,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alakasa Company Limited",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 452370787,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alakasa Company Limited",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 366773259,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alakasa Company Limited",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 366773259,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alakasa Company Limited",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 366773259,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Alakasa Andalan Mitra Sejati",
+      "business_type": "Industri Logam",
+      "total_assets": 29208864,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Andalan Mitra Sejati",
+      "business_type": "Industri Logam",
+      "total_assets": 29208864,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Andalan Mitra Sejati",
+      "business_type": "Industri Logam",
+      "total_assets": 29208864,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Andalan Mitra Sejati",
+      "business_type": "Industri Logam",
+      "total_assets": 26714049,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Andalan Mitra Sejati",
+      "business_type": "Industri Logam",
+      "total_assets": 20359172,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Andalan Mitra Sejati",
+      "business_type": "Industri Logam",
+      "total_assets": 18366785,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Alumina Refineri",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 14792544,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Alakasa Extrusindo",
+      "business_type": "Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 13060228,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Extrusindo",
+      "business_type": "Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 13060228,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Extrusindo",
+      "business_type": "Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 13060228,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Extrusindo",
+      "business_type": "Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 12978109,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Extrusindo",
+      "business_type": "Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 12820918,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alakasa Extrusindo",
+      "business_type": "Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 12422912,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Alka Niaga Industri",
+      "business_type": "Perdagangan",
+      "total_assets": 424352,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alka Niaga Industri",
+      "business_type": "Perdagangan",
+      "total_assets": 402409,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alka Niaga Industri",
+      "business_type": "Perdagangan",
+      "total_assets": 393408,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alka Niaga Industri",
+      "business_type": "Perdagangan",
+      "total_assets": 391462,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alka Niaga Industri",
+      "business_type": "Perdagangan",
+      "total_assets": 391462,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alka Niaga Industri",
+      "business_type": "Perdagangan",
+      "total_assets": 391462,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Indonesia Alumina Refinery Ltd",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 15719,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "317.290.659.375",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,59",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "46,71",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "71,70",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "100,32",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,46",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "71,70",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:10.162Z"
+}

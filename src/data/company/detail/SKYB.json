@@ -1,0 +1,210 @@
+{
+  "company_name": "PT Northcliff Citranusa Indonesia Tbk.",
+  "ticker": "SKYB",
+  "office_address": "Graha Mampang Lantai 2 Suite Lpa Jl.mampang Prapatan Raya No. 100 Jakarta Selatan 12760-indonesia",
+  "email": "info.northcliff@ncitranusa.com",
+  "phone": "021-7975947",
+  "fax": "021-7975948",
+  "tax_id": "02.250.398.1-021.000",
+  "website": "https://www.skybee.co.id",
+  "listing_date": "2010-07-07",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Teknologi, Multimedia, dan Telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 44,
+    "name": "Perangkat Lunak"
+  },
+  "sub_industry": {
+    "id": 69,
+    "name": "Perangkat Lunak",
+    "industries_id": 44
+  },
+  "corporate_secretary": {
+    "name": "R Siti Nurhaliza",
+    "email": "corsec.nci@gmail.com",
+    "phone": "021-27820782"
+  },
+  "directors": [
+    {
+      "name": "Arief Mulyadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Steven Isaac Risakotta",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Cevi Sudarto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ratih D. Item",
+      "position": "Ketua"
+    },
+    {
+      "name": "Salomo Marpaung",
+      "position": "Anggota"
+    },
+    {
+      "name": "Marthen Fredy Akihary",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 229606900,
+      "percentage": 39.25
+    },
+    {
+      "name": "Ora Pro Nobis International Corp",
+      "type": "Lebih dari 5%",
+      "shares": 107444000,
+      "percentage": 18.37
+    },
+    {
+      "name": "Tres Maria Capital, Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 89420000,
+      "percentage": 15.29
+    },
+    {
+      "name": "Reksa Dana Narada Saham Indonesia II",
+      "type": "Lebih dari 5%",
+      "shares": 61319300,
+      "percentage": 10.48
+    },
+    {
+      "name": "Dbs Bank Ltd Sg-pb Clients",
+      "type": "Lebih dari 5%",
+      "shares": 52646100,
+      "percentage": 9
+    },
+    {
+      "name": "Erry Sulistio",
+      "type": "Lebih dari 5%",
+      "shares": 44563700,
+      "percentage": 7.61
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arief Mulyadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Steven Isaac Risakotta",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sinergitama Komindo",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 92232,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Griya Boga Selaras",
+      "business_type": "Konsultan dan Pengelola Gedung",
+      "total_assets": 4129,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Taman Suci Abadi",
+      "business_type": "Hotel",
+      "total_assets": 1678,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "29.835.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:27.689Z"
+}

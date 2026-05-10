@@ -1,0 +1,222 @@
+{
+  "company_name": "PT Lovina Beach Brewery Tbk.",
+  "ticker": "STRK",
+  "office_address": "Jl. Tukad Banyu Poh 110x, Sesetan Denpasar Selatan, 80223",
+  "email": "corsec@starkcraftbeer.com",
+  "phone": "(0361) - 255 600",
+  "fax": "(0362) - 255 599",
+  "tax_id": "313955528903000",
+  "website": "https://lovinabeachbrewery.com",
+  "listing_date": "2023-10-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "bidang Industri Distribusi Minuman Beralkohol dan Pengolahannya melalui Anak perusahaan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 48,
+    "name": "Minuman Keras",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Febriana Veronika Adam",
+    "email": "corsec@starkcraftbeer.com",
+    "phone": "0361 255 600"
+  },
+  "directors": [
+    {
+      "name": "Bona Budhisurya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Anna Vanessa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Albert",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jacob Suryanata",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yosep Solihin Yo Sh",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yosep Solihin Yo Sh",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fifi Dermawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Annavianti Listyanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Barito Mas Sukses",
+      "type": "Lebih dari 5%",
+      "shares": 6633434000,
+      "percentage": 61.87
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2376673462,
+      "percentage": 22.17
+    },
+    {
+      "name": "Phillip Securities Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1711728100,
+      "percentage": 15.96
+    },
+    {
+      "name": "Christopher Sumasto Tjia",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jacob Suryanata",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yosep Solihin Yo Sh",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bona Budhisurya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anna Vanessa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Albert",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Lovina Industri Sukses",
+      "business_type": "Industri Pengolahan",
+      "total_assets": 70710871050,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.157.958.240.696",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,04",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "37,95",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "39,41",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "106,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,50",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "49,01",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:03.465Z"
+}

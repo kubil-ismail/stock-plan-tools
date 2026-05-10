@@ -1,0 +1,229 @@
+{
+  "company_name": "PT Hassana Boga Sejahtera Tbk",
+  "ticker": "NAYZ",
+  "office_address": "Kawasan Pergudangan Multiguna Taman Tekno 2 Blok L2 No. 35 Bsd, Tangerang, Bantenselatan, Banten",
+  "email": "corsec@hassana.co.id",
+  "phone": "(021) 75681829",
+  "fax": "",
+  "tax_id": "71.362.208.2-416.000",
+  "website": "https://www.hassana.co.id",
+  "listing_date": "2023-02-06",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bergerak di bidang usaha industri dan makanan bayi",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Luthvia Nur Azizah",
+    "email": "corsec@hassana.co.id",
+    "phone": "(021) 7568 1829"
+  },
+  "directors": [
+    {
+      "name": "Arief Banang Trinovan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Setiadji",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dody Arifianto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Wijananto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bambang Wijananto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yuki Ariyawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lukman Prasetyo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Asia Intrainvesta",
+      "type": "Lebih dari 5%",
+      "shares": 1456000000,
+      "percentage": 57.1
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 763448472,
+      "percentage": 29.94
+    },
+    {
+      "name": "Irman",
+      "type": "Lebih dari 5%",
+      "shares": 330563000,
+      "percentage": 12.96
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mitra Kerja Nayz (mkn)",
+      "business_type": "Makanan, Minuman dan Alat Usaha",
+      "total_assets": 2826488020,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Mitra Kerja Nayz (mkn)",
+      "business_type": "Makanan, Minuman dan Alat Usaha",
+      "total_assets": 2697738705,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Kerja Nayz (mkn)",
+      "business_type": "Makanan, Minuman dan Alat Usaha",
+      "total_assets": 2697738705,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nutrisi Juara Asia (nja)",
+      "business_type": "Makanan dan Minuman",
+      "total_assets": 2122981098,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Nutrisi Juara Asia (nja)",
+      "business_type": "Makanan dan Minuman",
+      "total_assets": 648908661,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Nutrisi Juara Asia (nja)",
+      "business_type": "Makanan dan Minuman",
+      "total_assets": 648908661,
+      "ownership_percentage": 99.98
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "181.050.814.512",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "6,56",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "15,58",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "62,21",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "35,42",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "8,45",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "16,07",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:37.027Z"
+}

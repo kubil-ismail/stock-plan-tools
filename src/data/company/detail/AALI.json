@@ -1,0 +1,545 @@
+{
+  "company_name": "Astra Agro Lestari Tbk",
+  "ticker": "AALI",
+  "office_address": "Jl. Puloayang Raya Kawasan Industri Pulo Gadung, Or, 1, Jatinegara, Cakung, Kota Adm, Jakarta Timur, Dki Jakarta, 13930",
+  "email": "investor@astra-agro.co.id",
+  "phone": "461-65-55",
+  "fax": "461-6655, 461-6677, 461-6688",
+  "tax_id": "001.334.427.0-054.000",
+  "website": "http://www.astra-agro.co.id",
+  "listing_date": "1997-12-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Agriculture Plantation",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Karet, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Karet",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "karet",
+      "rubber",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Tingning Sukowignjo",
+    "email": "investor@astra-agro.co.id",
+    "phone": "021-4616555"
+  },
+  "directors": [
+    {
+      "name": "Djap Tet Fa",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Widayanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tingning Sukowignjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arief Catur Irawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bandung Sahari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Veronica Lusi Herdiyanti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Guruh",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Santosa",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Johannes Loman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ratna Wardhani",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Aridono Sukmanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ratna Wardhani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herawati Prasetyo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Juliani Eliza Syaftari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Astra International Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1193171513,
+      "percentage": 61.99
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 340719727,
+      "percentage": 17.7
+    },
+    {
+      "name": "PT Astra International Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 340510927,
+      "percentage": 17.69
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 50286166,
+      "percentage": 2.62
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Santosa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johannes Loman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aridono Sukmanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ratna Wardhani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Djap Tet Fa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tingning Sukowignjo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eko Prasetyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Widayanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arief Catur Irawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bandung Sahari",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Veronica Lusi Herdiyanti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tri Buana Mas",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 2670735,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tanjung Sarana Lestari",
+      "business_type": "Penyulingan Minyak",
+      "total_assets": 2590288,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karyanusa Ekadaya",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 1745912,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Eka Dura Indonesia",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 1497107,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Subur Agro Makmur",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 1461557,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tunggal Perkasa Plantations",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 1369235,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kimia Tirta Utama",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 1330473,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Agro Nusa Abadi",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 1065236,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Borneo Indah Marjaya",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 1019697,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sari Lembah Subur",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 977284,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Waru Kaltim Plantation",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 914132,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perkebunan Lembah Bhakti",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 857666,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Letawa",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 844925,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nirmala Agro Lestari",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 834601,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gunung Sejahtera Ibu Pertiwi",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 733640,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gunung Sejahtera Puti Pesona",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 686955,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sawit Jaya Abadi",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 676632,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sawit Asahan Indah",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 648813,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Suryaraya Lestari",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 632786,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pasangkayu",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 628646,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Suryaindah Nusantarapagi",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 627659,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Sari Aditya Loka",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 623698,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Gunung Sejahtera Dua Indah",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 597184,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Agro Menara Rachmat",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 596853,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sukses Tani Nusasubur",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 595571,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Tanah Subur",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 562050,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Lestari Tani Teladan",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 559956,
+      "ownership_percentage": 94.99
+    },
+    {
+      "name": "PT Sumber Kharisma Persada",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 537811,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Palma Plantasindo",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 535434,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Persada Dinamika Lestari",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 480394,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhadra Cemerlang",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 477613,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mamuang",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 413384,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Subur Abadi Plantations",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 411645,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cipta Agro Nusantara",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 395875,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gunung Sejahterayoli Makmur",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 254668,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Rimbunan Alam Sentosa",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 188631,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Persadabina Nusantaraabadi",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 173292,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Cipta Narada Lestari",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 126011,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhadra Sukses",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 120365,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tanjung Bina Lestari",
+      "business_type": "Penyulingan Minyak",
+      "total_assets": 98752,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cakradenta Agung Pertiwi",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 44840,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cakung Permata Nusa",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 41154,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gunung Sejahtera Raman Permai",
+      "business_type": "Kelapa Sawit",
+      "total_assets": 21972,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pandji Waringin",
+      "business_type": "Karet",
+      "total_assets": 16185,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Eka Dura Perdana",
+      "business_type": "Lainnya",
+      "total_assets": 13259,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Barito Gemilang",
+      "business_type": "Karet",
+      "total_assets": 7547,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.589.975.497.300",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,88",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "6,62",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "3,21",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "37,61",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,72",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "9,15",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:49:45.197Z"
+}

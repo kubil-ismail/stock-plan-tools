@@ -1,0 +1,234 @@
+{
+  "company_name": "PT Industri Jamu dan Farmasi Sido Muncul Tbk",
+  "ticker": "SIDO",
+  "office_address": "Office Sido Muncul, Lantai 1, Gedung Hotel Tentrem, Jl. Gajahmada No. 123, Kel. Pekunden, Kec. Semarang Tengah, Semarang, 50134.",
+  "email": "info@sidomuncul.co.id",
+  "phone": "(024) 7692 8811",
+  "fax": "(024) 7692 8815",
+  "tax_id": "0011 0675 3505 4000",
+  "website": "https://www.sidomuncul.co.id",
+  "listing_date": "2013-12-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha industri jamu dan farmasi",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Budiyanto",
+    "email": "corsec.sido@sidomuncul.co.id",
+    "phone": "(024) 7692 8811"
+  },
+  "directors": [
+    {
+      "name": "Irwan Hidayat",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "David Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Darmadji Sidik",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budiyanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Maria Reviani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jonatha Sofjan Hidajat",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Johan Hidayat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sigit Hartojo Hadi Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lindawati Gani",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dokter Mohammad Adib Khumaidi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Venancia Sri Indrijati Wijono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lindawati Gani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herwan, Ng",
+      "position": "Anggota"
+    },
+    {
+      "name": "Budiyanto Muliohardjo, S.e., M.m., Bkp.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Hotel Candi Baru",
+      "type": "Lebih dari 5%",
+      "shares": 23278282442,
+      "percentage": 77.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6139711145,
+      "percentage": 20.47
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 564800000,
+      "percentage": 1.88
+    },
+    {
+      "name": "David Hidayat",
+      "type": "Direksi",
+      "shares": 9645700,
+      "percentage": 0.03
+    },
+    {
+      "name": "Irwan Hidayat",
+      "type": "Direksi",
+      "shares": 4279400,
+      "percentage": 0.01
+    },
+    {
+      "name": "Johan Hidayat",
+      "type": "Komisaris",
+      "shares": 3157068,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 20152,
+      "percentage": 0
+    },
+    {
+      "name": "Venancia Sri Indrijati Wijono",
+      "type": "Komisaris",
+      "shares": 104093,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Muncul Mekar",
+      "business_type": "Perdagangan",
+      "total_assets": 1096487,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semarang Herbal Indo Plant",
+      "business_type": "Ekstraksi Herbal",
+      "total_assets": 284917,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berlico Mulia Farma",
+      "business_type": "Farmasi",
+      "total_assets": 189574,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Muncul Nigeria Limited",
+      "business_type": "Perdagangan",
+      "total_assets": 26001,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.000.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,08",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "8,95",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,40",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "9,81",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,24",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "11,48",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:19.502Z"
+}

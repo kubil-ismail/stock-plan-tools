@@ -1,0 +1,392 @@
+{
+  "company_name": "Bumi Resources Minerals Tbk",
+  "ticker": "BRMS",
+  "office_address": "Bakrie Tower Lantai 6 & 10 Komplek Rasuna Epicentrum Jl. H.r. Rasuna Said, Kuningan Jaksel 12940",
+  "email": "corporate.secretary@brm.co.id",
+  "phone": "021-57945698",
+  "fax": "021-57945687",
+  "tax_id": "02.290.376.9-091.000",
+  "website": "https://www.bumiresourcesminerals.com",
+  "listing_date": "2010-12-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas Kantor Pusat dan Aktivitas Konsultasi Manajemen Lainnya melalui Pengawasan dan Pengelolaan Entitas Anak yang Bergerak dalam Bidang Eksplorasi dan Pengembangan Pertambangan Atas Sumber Daya Mineral",
+    "business_summary": "Perusahaan bergerak di bidang Logam & Mineral Lainnya.",
+    "business_tags": [
+      "Logam & Mineral Lainnya"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Muhammad Sulthon",
+    "email": "muhammad.sulthon@brm.co.id",
+    "phone": "021-57945694"
+  },
+  "directors": [
+    {
+      "name": "Agoes Projosasmito",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Fuad Helmy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Sulthon",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herwin Wahyu Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adika Aryasthana Bakrie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adhika Andrayudha Bakrie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adrian Wicaksono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Charles Daniel Gobel",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Adika Nuraga Bakrie",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Kanaka Puradiredja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Gories Mere",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Nalinkant Amratlal Rathod",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Teguh Boentoro",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gories Mere",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kanaka Puradiredja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indra Safitri",
+      "position": "Anggota"
+    },
+    {
+      "name": "Setiyono Miharjo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 73028961274,
+      "percentage": 51.57
+    },
+    {
+      "name": "Emirates Tarian Global Ventures Spc",
+      "type": "Lebih dari 5%",
+      "shares": 35592738434,
+      "percentage": 25.1
+    },
+    {
+      "name": "Glastrust (singapore) Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 10784607811,
+      "percentage": 7.6
+    },
+    {
+      "name": "Sugiman Halim",
+      "type": "Lebih dari 5%",
+      "shares": 10568888888,
+      "percentage": 7.45
+    },
+    {
+      "name": "PT Cgs International Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 7439789942,
+      "percentage": 5.2
+    },
+    {
+      "name": "PT Bumi Resources Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 4365383689,
+      "percentage": 3.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 100,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Sulthon",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herwin Wahyu Hidayat",
+      "type": "Direksi",
+      "shares": 2320200,
+      "percentage": 0
+    },
+    {
+      "name": "Adika Aryasthana Bakrie",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adhika Andrayudha Bakrie",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adrian Wicaksono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Charles Daniel Gobel",
+      "type": "Direksi",
+      "shares": 1350000,
+      "percentage": 0
+    },
+    {
+      "name": "Adika Nuraga Bakrie",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nalinkant Amratlal Rathod",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Teguh Boentoro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kanaka Puradiredja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gories Mere",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agoes Projosasmito",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fuad Helmy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bumi Sumberdaya Semesta (d/h PT Multi Daerah Bersaing)",
+      "business_type": "Investasi",
+      "total_assets": 650331402,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "International Minerals Company Llc",
+      "business_type": "Entitas Bertujuan Khusus",
+      "total_assets": 310736448,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gorontalo Minerals",
+      "business_type": "Pertambangan Emas",
+      "total_assets": 310736448,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Citra Palu Minerals",
+      "business_type": "Pertambangan Emas",
+      "total_assets": 289259218,
+      "ownership_percentage": 96.97
+    },
+    {
+      "name": "PT Dairi Prima Mineral",
+      "business_type": "Pertambangan Timah Hitam dan Seng",
+      "total_assets": 214759556,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Andalan Anugerah Sekarbumi",
+      "business_type": "Perdagangan",
+      "total_assets": 130977625,
+      "ownership_percentage": 60.86
+    },
+    {
+      "name": "PT Linge Mineral Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 129963495,
+      "ownership_percentage": 60.99
+    },
+    {
+      "name": "Calipso Investment Pte. Ltd.",
+      "business_type": "Entitas Bertujuan Khusus",
+      "total_assets": 117752982,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Herald Resources Pty. Ltd.",
+      "business_type": "Pertambangan",
+      "total_assets": 116958272,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Gain & Win Pte. Ltd.",
+      "business_type": "Entitas Bertujuan Khusus",
+      "total_assets": 116956272,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Multi Capital",
+      "business_type": "Perdagangan",
+      "total_assets": 56972845,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Suma Heksa Sinergi",
+      "business_type": "Pertambangan",
+      "total_assets": 22840228,
+      "ownership_percentage": 10
+    },
+    {
+      "name": "PT Suma Heksa Sinergi",
+      "business_type": "Pertambangan Emas",
+      "total_assets": 22840228,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Sgq Singapore Projects Holding Company Pte. Ltd.",
+      "business_type": "Entitas Bertujuan Khusus",
+      "total_assets": 19556674,
+      "ownership_percentage": 77.78
+    },
+    {
+      "name": "PT Sarkea Prima Minerals",
+      "business_type": "Pertambangan",
+      "total_assets": 386710,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Lemington Investments Pte. Ltd.",
+      "business_type": "Entitas Bertujuan Khusus",
+      "total_assets": 1,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "114.136.152.472.090",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "11,24",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "20,63",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "21,47",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "98,41",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "36,44",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:24.719Z"
+}

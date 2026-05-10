@@ -1,0 +1,237 @@
+{
+  "company_name": "PT Dosni Roha Indonesia Tbk",
+  "ticker": "ZBRA",
+  "office_address": "Graha Dosni Roha, Jl. Budi Raya No. 9b, Kemanggisan, Palmerah Rt 01 Rw 05, Kec. Kebon Jeruk, Jakarta Barat, 11530",
+  "email": "ida.widayani@dnr.id",
+  "phone": "021-530 5600",
+  "fax": "-",
+  "tax_id": "01.451.869.0-054.000",
+  "website": "https://www.dnr.id",
+  "listing_date": "1991-08-01",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perusahaan Holding dan Angkutan Bermotor untuk Barang Umum; Perdagangan Besar Alat Laboratorium, Farmasi, dan Kedokteran; Pergudangan dan Penyimpanan Lainnya; Pelayanan Penunjang Kesehatan, melalui Entitas Anak.",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan, Energi, Logistik.",
+    "business_tags": [
+      "Kesehatan",
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 28,
+    "name": "Perusahaan Holding Multi Sektor",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 50,
+    "name": "Perusahaan Holding Multi-sektor"
+  },
+  "sub_industry": {
+    "id": 76,
+    "name": "Perusahaan Holding Multi-sektor",
+    "industries_id": 50
+  },
+  "corporate_secretary": {
+    "name": "Jepri Hamonangan Siahaan",
+    "email": "jepri.siahaan@dnr.id",
+    "phone": "021-27883900"
+  },
+  "directors": [
+    {
+      "name": "B. Rudijanto Tanoesoedibjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Salvona Tumonggor Situmeang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gary Judianto Tanoesoedibjo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dwi Priyatno",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Juliati Hadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yohanes Agus Mulyono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yohanes Agus Mulyono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Annisa Prastiwi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Supriyadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Trinity Healthcare",
+      "type": "Lebih dari 5%",
+      "shares": 1556871192,
+      "percentage": 62.01
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 566611271,
+      "percentage": 22.57
+    },
+    {
+      "name": "Mkes-client Repo",
+      "type": "Lebih dari 5%",
+      "shares": 387223800,
+      "percentage": 15.42
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dos Ni Roha",
+      "business_type": "Perdagangan Besar Farmasi",
+      "total_assets": 3287505901,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dos Ni Roha",
+      "business_type": "Perdagangan",
+      "total_assets": 3287505901,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dos Ni Roha",
+      "business_type": "Perdagangan",
+      "total_assets": 3287505901,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dos Ni Roha",
+      "business_type": "Perdagangan",
+      "total_assets": 3287505901,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dos Ni Roha",
+      "business_type": "Perdagangan Besar Farmasi",
+      "total_assets": 3077016809,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Zebra Energi",
+      "business_type": "Jasa dan Perdagangan Lainnya",
+      "total_assets": 9983896,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Surabaya Artautama Bersama",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 3293313,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Infiniti Sentra Data",
+      "business_type": "Jasa Pelayanan Hosting",
+      "total_assets": 0,
+      "ownership_percentage": 75
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "125.535.313.150",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:54.598Z"
+}

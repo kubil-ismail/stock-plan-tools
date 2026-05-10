@@ -1,0 +1,214 @@
+{
+  "company_name": "PT Indokripto Koin Semesta Tbk",
+  "ticker": "COIN",
+  "office_address": "Cfx Tower Lantai 8, Jalan Jenderal Gatot Subroto Kav. 35-36, Kuningan Timur, Setiabudi, Jakarta Selatan 12950",
+  "email": "corporate.secretary@indokriptokoinsemesta.co.id",
+  "phone": "+62-21-520-5616",
+  "fax": "",
+  "tax_id": "0632755179022000",
+  "website": "https://www.indokriptokoinsemesta.co.id",
+  "listing_date": "2025-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas perusahaan holding dan konsultasi manajemen lainnya sertaKegiatan Bursa Berjangka, Bursa Aset Kripto, dan Jasa Kustodian Aset Kripto melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Indira Indah Prameshwari",
+    "email": "corporate.secretary@indokriptokoinsemesta.co.id",
+    "phone": "+62-21-520-5616"
+  },
+  "directors": [
+    {
+      "name": "Ade Wahyu",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Abraham Ardian Nawawi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adri Prasetyo Martowardojo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "John A. Prasetio",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Silvano Winston Rumantir",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "John A. Prasetio",
+      "position": "Ketua"
+    },
+    {
+      "name": "Patricia Maria Sugondo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Anang Yudiansyah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6330882400,
+      "percentage": 43.05
+    },
+    {
+      "name": "PT Megah Perkasa Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 3527001000,
+      "percentage": 23.99
+    },
+    {
+      "name": "PT Bahana Nusantara Indojaya",
+      "type": "Lebih dari 5%",
+      "shares": 2931249000,
+      "percentage": 19.93
+    },
+    {
+      "name": "Ir.h.budi Mardiono",
+      "type": "Lebih dari 5%",
+      "shares": 1166750000,
+      "percentage": 7.93
+    },
+    {
+      "name": "PT Teknologi Anak Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 750000000,
+      "percentage": 5.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Karya Perkasa Indomitra (kpi)",
+      "business_type": "Menyelenggarakan Usaha di Bidang Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 1186412983909,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Central Finansial X (cfx)",
+      "business_type": "Bursa Berjangka dan Bursa Aset Kripto",
+      "total_assets": 1013327586146,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Kustodian Koin Indonesia (icc)",
+      "business_type": "Jasa Kustodian Aset Kripto",
+      "total_assets": 249388932757,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Delta One Limited (dol)",
+      "business_type": "Kegiatan Umum Selain Banking Business, Insurance Business, Business Providing International Corporate Services, Securities Business, Business As Mutual Fund dan Gambling Business",
+      "total_assets": 71850000,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "16.911.764.760.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "14,23",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "38,23",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "64,26",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,62",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "71,70",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:53:23.752Z"
+}

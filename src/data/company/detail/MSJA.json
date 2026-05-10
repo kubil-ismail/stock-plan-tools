@@ -1,0 +1,310 @@
+{
+  "company_name": "PT Multi Spunindo Jaya Tbk.",
+  "ticker": "MSJA",
+  "office_address": "Desa Jabaran, Kecamatan Balongbendo Krian, Sidoarjo, Jawa Timur",
+  "email": "corp.sec@spunindo.com",
+  "phone": "+62 31 897 1301",
+  "fax": "+62 31 897 6666",
+  "tax_id": "01.743.740.1-641.000",
+  "website": "https://www.spunindo.com",
+  "listing_date": "2024-01-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Menjalankan usaha di bidang Industri Nonwoven",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Kent Kurniawan Handi",
+    "email": "corp.sec@spunindo.com",
+    "phone": "+62 31 897 1301"
+  },
+  "directors": [
+    {
+      "name": "Sasongko Basuki",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Takushi Ishimoto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Roslin Octavia Basuki",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lunardi Basuki",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Herjanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pradhono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pradhono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yudianto Prawiro Silianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Felicia Elizabeth Prasetyo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Maju Selaras Jayamerta, PT",
+      "type": "Lebih dari 5%",
+      "shares": 3755554244,
+      "percentage": 63.845
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 480670156,
+      "percentage": 8.171
+    },
+    {
+      "name": "Hartono Herjanto",
+      "type": "Lebih dari 5%",
+      "shares": 374000000,
+      "percentage": 6.358
+    },
+    {
+      "name": "Harry Herjanto",
+      "type": "Komisaris",
+      "shares": 374000000,
+      "percentage": 6.358
+    },
+    {
+      "name": "Lunardi Basuki",
+      "type": "Komisaris",
+      "shares": 374000000,
+      "percentage": 6.358
+    },
+    {
+      "name": "Sasongko Basuki",
+      "type": "Direksi",
+      "shares": 374000000,
+      "percentage": 6.358
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 150128500,
+      "percentage": 2.552
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Trias Spunindo Industri",
+      "business_type": "Perindustrian dan Perdagangan",
+      "total_assets": 9298287,
+      "ownership_percentage": 500
+    },
+    {
+      "name": "PT Trias Spunindo Industri",
+      "business_type": "Perindustrian dan Perdagangan",
+      "total_assets": 9043075,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Trias Spunindo Industri",
+      "business_type": "Perindustrian dan Perdagangan",
+      "total_assets": 8809283,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Trias Spunindo Industri",
+      "business_type": "Perindustrian dan Perdagangan",
+      "total_assets": 8459432,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Trias Spunindo Industri",
+      "business_type": "Perindustrian dan Perdagangan",
+      "total_assets": 8054314,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Multi Spunindo Properti",
+      "business_type": "Real Estat",
+      "total_assets": 1384177,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Multi Spunindo Properti",
+      "business_type": "Real Estat",
+      "total_assets": 1382601,
+      "ownership_percentage": 9.998
+    },
+    {
+      "name": "PT Multi Spunindo Properti",
+      "business_type": "Real Estat",
+      "total_assets": 1382599,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Multi Spunindo Properti",
+      "business_type": "Real Estat",
+      "total_assets": 1381232,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Multi Spunindo Properti",
+      "business_type": "Real Estat",
+      "total_assets": 1377258,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Maju Selaras Jayantara",
+      "business_type": "Perindustrian",
+      "total_assets": 8461,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Maju Selaras Jayantara",
+      "business_type": "Perindustrian",
+      "total_assets": 8429,
+      "ownership_percentage": 900
+    },
+    {
+      "name": "PT Maju Selaras Jayantara",
+      "business_type": "Perindustrian",
+      "total_assets": 8306,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Maju Selaras Jayantara",
+      "business_type": "Perindustrian",
+      "total_assets": 8078,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Maju Selaras Jayantara",
+      "business_type": "Perindustrian",
+      "total_assets": 7799,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.999.999.979.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "31,91",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "79,79",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "78,57",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,94",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "54,41",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:18.098Z"
+}

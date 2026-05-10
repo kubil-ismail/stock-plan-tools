@@ -1,0 +1,215 @@
+{
+  "company_name": "PT Agro Bahari Nusantara Tbk",
+  "ticker": "UDNG",
+  "office_address": "Ruko Shibuya Unit Shc 012 - Pik 2 Jl. Marina Indah Raya No. 1 Kel. Lemo, Kec. Teluknaga Tangerang, Banten",
+  "email": "corsec@abn.farm",
+  "phone": "087881011234",
+  "fax": "",
+  "tax_id": "",
+  "website": "https://abn.farm",
+  "listing_date": "2023-10-31",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bergerak di bidang Budidaya Tambak Udang",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Roni Supriatna",
+    "email": "corsec@abn.farm",
+    "phone": "+62 878 81011234"
+  },
+  "directors": [
+    {
+      "name": "Vincent Lukito",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Christian Brandon Limbono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jose Loupiga Keliat",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Setia Budi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Denny Leonardo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Denny Leonardo Utomo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kurniawan Setya Budi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Andes Vidyanata",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 857540072,
+      "percentage": 49.01
+    },
+    {
+      "name": "Jose Loupiga Keliat",
+      "type": "Komisaris",
+      "shares": 397500000,
+      "percentage": 22.71
+    },
+    {
+      "name": "Vincent Lukito",
+      "type": "Direksi",
+      "shares": 397500000,
+      "percentage": 22.71
+    },
+    {
+      "name": "Christian Brandon Limbono",
+      "type": "Direksi",
+      "shares": 97500000,
+      "percentage": 5.57
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Marina Bahari Sentosa (mbs)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 50000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Marina Bahari Sentosa (mbs)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 50000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Marina Bahari Sentosa (mbs)",
+      "business_type": "Pertambakan Udang",
+      "total_assets": 50000000,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.601.286.665.880",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "60,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "41,46",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "69,15",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "412,82",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "19,40",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "76,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:08.762Z"
+}

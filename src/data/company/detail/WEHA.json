@@ -1,0 +1,237 @@
+{
+  "company_name": "PT Weha Transportasi Indonesia Tbk",
+  "ticker": "WEHA",
+  "office_address": "Graha Panorama Lt. 2 Jl. Tanjung Selor No. 17 Kelurahan Cideng Kecamatan Gambir Jakarta Pusat",
+  "email": "edgar@whitehorse.co.id",
+  "phone": "021-29675555",
+  "fax": "021-29675005",
+  "tax_id": "02.040.634.4-054.000",
+  "website": "https://www.whitehorse.co.id",
+  "listing_date": "2007-05-31",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Transportasi",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 36,
+    "name": "Pengangkutan Darat Penumpang"
+  },
+  "sub_industry": {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  "corporate_secretary": {
+    "name": "Edgar Surjadi",
+    "email": "edgar@whitehorse.co.id",
+    "phone": "021-29675555"
+  },
+  "directors": [
+    {
+      "name": "Andrianto Putera Tirtawisata",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tiodora Amran Bonard",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Edgar Surjadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Romy Firmangustri",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Angreta Chandra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Olip Susanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [],
+  "shareholders": [
+    {
+      "name": "PT. Panorama Sentrawisata,",
+      "type": "Lebih dari 5%",
+      "shares": 766517000,
+      "percentage": 52.48
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 457963584,
+      "percentage": 31.36
+    },
+    {
+      "name": "PT. Weha Investama",
+      "type": "Lebih dari 5%",
+      "shares": 211805686,
+      "percentage": 14.5
+    },
+    {
+      "name": "Andrianto Putera Tirtawisata",
+      "type": "Direksi",
+      "shares": 19272300,
+      "percentage": 1.32
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3961967,
+      "percentage": 0.27
+    },
+    {
+      "name": "Angreta Chandra",
+      "type": "Komisaris",
+      "shares": 466000,
+      "percentage": 0.03
+    },
+    {
+      "name": "Tiodora Amran Bonardy",
+      "type": "Direksi",
+      "shares": 274900,
+      "percentage": 0.02
+    },
+    {
+      "name": "Edgar Surjadi",
+      "type": "Direksi",
+      "shares": 253000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Romy Firmangustri",
+      "type": "Direksi",
+      "shares": 40382,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Day Trans (dts)",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 150122197395,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Panorama Mitra Sarana (pms)",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 12265889501,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT. Kencana Transport (kt)",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 10793735983,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Weha Jalan-jalan",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 5947252996,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panorama Primakencana Transindo (ppt)",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 5368539345,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT. Day Trans Express",
+      "business_type": "Jasa Pengiriman",
+      "total_assets": 610460789,
+      "ownership_percentage": 98.93
+    },
+    {
+      "name": "PT. Canary Transport (ct)",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 0,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT. Rhadana Primakencana Transindo (rpt)",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 0,
+      "ownership_percentage": 98.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "184.029.907.194",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "4,58",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "17,92",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "19,05",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,30",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "8,09",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:04:32.257Z"
+}

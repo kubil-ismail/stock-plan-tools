@@ -50,9 +50,9 @@ export default function CompanyCard(props: Props) {
 
             <p
               className="text-sm text-gray-700 line-clamp-2"
-              title={company.main_business}
+              title={company.business_field?.raw_business}
             >
-              {company.main_business}
+              {company.business_field?.raw_business}
             </p>
           </div>
 
@@ -85,9 +85,9 @@ export function IndustryHierarchy({
 }) {
   const rawItems = [
     company?.sector?.name,
-    company?.subsector?.name,
+    company?.sub_sector?.name,
     company?.industry?.name,
-    company?.subindustry?.name,
+    company?.sub_industry?.name,
   ].filter(Boolean);
 
   // remove consecutive duplicates

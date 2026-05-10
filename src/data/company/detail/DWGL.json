@@ -1,0 +1,210 @@
+{
+  "company_name": "PT Dwi Guna Laksana Tbk",
+  "ticker": "DWGL",
+  "office_address": "Sinarmas Msig Tower Lantai 9, Jl. Jendral Sudirman Kav.21",
+  "email": "corporate.secretary@dwigunalaksana.co.id",
+  "phone": "02180511142",
+  "fax": "02180511144",
+  "tax_id": "023033426731000",
+  "website": "https://www.dwigunalaksana.co.id",
+  "listing_date": "2017-12-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Batu bara dan Jasa Pelabuhan",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Sianitawati",
+    "email": "corporate.secretary@dwigunalaksana.co.id",
+    "phone": "02180511142"
+  },
+  "directors": [
+    {
+      "name": "Herman Fasikhin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hendra Winanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Robin Wahyudi Alim Utomo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tjipto Rijanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tjipto Rijanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arydhian Basril Djamin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sudimin Mina",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hawthorn-capital Investment Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 4489671120,
+      "percentage": 48.52
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2539794501,
+      "percentage": 27.45
+    },
+    {
+      "name": "PT Dian Ciptamas Agung",
+      "type": "Lebih dari 5%",
+      "shares": 899011380,
+      "percentage": 9.72
+    },
+    {
+      "name": "Siji Fixed Investa Fund",
+      "type": "Lebih dari 5%",
+      "shares": 766142966,
+      "percentage": 8.28
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 558201024,
+      "percentage": 6.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sinergi Laksana Bara Mas (slbm)",
+      "business_type": "Perdagangan Batu Bara",
+      "total_assets": 858725237,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Suharli, Sugiharto, dan Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto, dan Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto, dan Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto, dan Rekan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto, dan Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto, dan Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.553.778.593.516",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,00",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "17,65",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "18,13",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "11,11",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,94",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "13,58",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:54:15.932Z"
+}

@@ -1,0 +1,482 @@
+{
+  "company_name": "Indonesia Prima Property Tbk",
+  "ticker": "OMRE",
+  "office_address": "Jalan Jend. Sudirman Kav. 34, Rt 003, Rw 002, Kelurahan Karet Tengsin, Kecamatan Tanah Abang, Jakarta Pusat 10220",
+  "email": "corsec@ipp.co.id",
+  "phone": "(021) 50913988",
+  "fax": "-",
+  "tax_id": "01.366.527.8-054.000",
+  "website": "https://www.ipp.co.id",
+  "listing_date": "1994-08-22",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Neneng Nurdjanah",
+    "email": "ipptbk@gmail.com",
+    "phone": "(021)573-4321"
+  },
+  "directors": [
+    {
+      "name": "Marcello Theodore Taufik",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sriyanto",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Laura Rahardja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Njudarsono Yusetijo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Syamsuddin Lologau",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chandraja Harita",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Husni Ali",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Syahrul Effendi",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lutfi Dahlan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ris Sutarto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Gatot Subroto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Chiu Man Sing",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lutfi Dahlan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rudi Haryanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yeanette Widijastuti Widjaja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "First Pacific Capital Group Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1295522972,
+      "percentage": 43.988
+    },
+    {
+      "name": "PT Manning Development",
+      "type": "Lebih dari 5%",
+      "shares": 1014040019,
+      "percentage": 34.43
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 625337712,
+      "percentage": 21.232
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 10310297,
+      "percentage": 0.35
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marcello Theodore Taufik",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sriyanto Muntasram",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Laura Rahardja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Njudarsono Yusetijo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Syamsuddin Lologau",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chandraja Harita",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Husni Ali",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Syahrul Effendi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lutfi Dahlan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ris Sutarto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gatot Subroto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chiu Man Sing",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Aurora Equity Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 2345034508995,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aurora Equity Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 2340412059433,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aurora Equity Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 2333594902531,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aurora Equity Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 2327124330538,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aurora Equity Pte. Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 2322787753168,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ubud Alam Lestari",
+      "business_type": "Lain-lain",
+      "total_assets": 1087513779137,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ubud Alam Lestari",
+      "business_type": "Lain-lain",
+      "total_assets": 1087194638806,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ubud Alam Lestari",
+      "business_type": "Lain-lain",
+      "total_assets": 1085593268410,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ubud Alam Lestari",
+      "business_type": "Lain-lain",
+      "total_assets": 1085236414200,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Mitrasantosa",
+      "business_type": "Real Estate",
+      "total_assets": 255392298106,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Mitrasantosa",
+      "business_type": "Real Estate",
+      "total_assets": 254385973621,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Mitrasantosa",
+      "business_type": "Real Estate",
+      "total_assets": 252740694267,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Mitrasantosa",
+      "business_type": "Real Estate",
+      "total_assets": 251674075860,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Mitrasantosa",
+      "business_type": "Real Estate",
+      "total_assets": 251106002025,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Angkasa Interland",
+      "business_type": "Property",
+      "total_assets": 245109689683,
+      "ownership_percentage": 99.59
+    },
+    {
+      "name": "PT Angkasa Interland",
+      "business_type": "Property",
+      "total_assets": 240601891623,
+      "ownership_percentage": 99.59
+    },
+    {
+      "name": "PT Angkasa Interland",
+      "business_type": "Property",
+      "total_assets": 239745459414,
+      "ownership_percentage": 99.59
+    },
+    {
+      "name": "PT Angkasa Interland",
+      "business_type": "Property",
+      "total_assets": 239039751802,
+      "ownership_percentage": 99.59
+    },
+    {
+      "name": "PT Angkasa Interland",
+      "business_type": "Property",
+      "total_assets": 207968681979,
+      "ownership_percentage": 99.59
+    },
+    {
+      "name": "PT Langgeng Ayomlestari",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 191001282926,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Langgeng Ayomlestari",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 167990375979,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Langgeng Ayomlestari",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 167302181693,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Langgeng Ayomlestari",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 163371546842,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Langgeng Ayomlestari",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 161109735450,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ubud Alam Lestari",
+      "business_type": "Lain-lain",
+      "total_assets": 107146593842,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mahadhika Girindra",
+      "business_type": "Lain-lain",
+      "total_assets": 6025831,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Mahadhika Girindra",
+      "business_type": "Lain-lain",
+      "total_assets": 4807434,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Mahadhika Girindra",
+      "business_type": "Lain-lain",
+      "total_assets": 4727772,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Mahadhika Girindra",
+      "business_type": "Lain-lain",
+      "total_assets": 3655017,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Mahadhika Girindra",
+      "business_type": "Lain-lain",
+      "total_assets": 3581659,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Jakarta Thamrin Persada",
+      "business_type": "Lain-lain",
+      "total_assets": 3560989,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jakarta Thamrin Persada",
+      "business_type": "Lain-lain",
+      "total_assets": 3489817,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jakarta Thamrin Persada",
+      "business_type": "Lain-lain",
+      "total_assets": 1874536,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jakarta Thamrin Persada",
+      "business_type": "Lain-lain",
+      "total_assets": 1599353,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Jakarta Thamrin Persada",
+      "business_type": "Lain-lain",
+      "total_assets": 1375594,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.518.155.405.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,47",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "17,12",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "81,14",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "83,48",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "108,54",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:00:02.267Z"
+}

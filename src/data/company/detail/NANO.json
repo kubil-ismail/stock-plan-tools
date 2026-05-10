@@ -1,0 +1,270 @@
+{
+  "company_name": "PT Nanotech Indonesia Global Tbk",
+  "ticker": "NANO",
+  "office_address": "Gedung Nanoplex Jl. Puspiptek Komplek Batan Lama A12 Kota Tangerang Selatan, Provinsi Banten - 15314",
+  "email": "corsec@nig.co.id",
+  "phone": "(021) 7568 1294",
+  "fax": "(021) 7568 1294",
+  "tax_id": "91.639.271.5-411.000",
+  "website": "https://www.nig.co.id",
+  "listing_date": "2022-03-10",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Penelitian dan Pengembangan Ilmu Pengetahuan Alam dan Teknologi Rekayasa Lainnya dan Aktivitas Konsultasi Manajemen Lainnya dan Perdagangan Besar dan Eceran",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Ahmad Fathoni, Sh",
+    "email": "fathoni@nano.or.id",
+    "phone": "(021) 7568 1294"
+  },
+  "directors": [
+    {
+      "name": "Suryandaru",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Mochamad Arief Iskandar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Umar Alfaruqi Abdurrahman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nurul Taufiqu Rochman",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Fauka Noor Farid",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Cahyana Ahmad Jayadi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fauka Noor Farid",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bambang Setijawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Abdul Razak",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Nanotech Investama Sedaya",
+      "type": "Lebih dari 5%",
+      "shares": 2035727987,
+      "percentage": 47.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2010331675,
+      "percentage": 46.9144
+    },
+    {
+      "name": "PT Softbank Ventura Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 225000000,
+      "percentage": 5.25
+    },
+    {
+      "name": "Nurul Taufiqu Rochman",
+      "type": "Komisaris",
+      "shares": 6376300,
+      "percentage": 0.1488
+    },
+    {
+      "name": "Cahyana Ahmadjayadi",
+      "type": "Komisaris",
+      "shares": 5000000,
+      "percentage": 0.1167
+    },
+    {
+      "name": "Suryandaru",
+      "type": "Direksi",
+      "shares": 2645100,
+      "percentage": 0.0617
+    },
+    {
+      "name": "Mochamad Arief Iskandar",
+      "type": "Direksi",
+      "shares": 359200,
+      "percentage": 0.0084
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Umar Alfaruqi Abdurrahman",
+      "type": "Direksi",
+      "shares": 7,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Cheria Halal Wisata",
+      "business_type": "Agen dan Biro Perjalanan Wisata Serta Jasa Informasi Pariwisata dan Wisata Alam",
+      "total_assets": 22716,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Cheria Halal Wisata",
+      "business_type": "Agen dan Biro Perjalanan Wisata Serta Jasa Informasi Pariwisata dan Wisata Alam",
+      "total_assets": 13840,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nano Herbaltama Internasional",
+      "business_type": "Industri Pengolahan dan Perdagangan Besar",
+      "total_assets": 9173,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Nano Herbaltama Internasional",
+      "business_type": "Industri Pengolahan dan Perdagangan Besar",
+      "total_assets": 8027,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Nano Herbaltama Internasional",
+      "business_type": "Industri Pengolahan dan Perdagangan Besar",
+      "total_assets": 7930,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Nanotech Multitama Internasional",
+      "business_type": "Konsultasi Manajemen, Ketenagakerjaan, dan Pendidikan",
+      "total_assets": 1174,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT. Nanotech Multitama Internasional",
+      "business_type": "Konsultasi Manajemen, Ketenagakerjaan, dan Pendidikan",
+      "total_assets": 1163,
+      "ownership_percentage": 52
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Drs. Bambang Sudaryono & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Bharata, Arifin, Mumajad & Sayuti"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Bharata, Arifin, Mumajad & Sayuti"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "162.846.730.222",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,71",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "26,67",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "37,74",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "26,92",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "5,71",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "34,00",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:59:33.483Z"
+}

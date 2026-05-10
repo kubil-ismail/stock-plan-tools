@@ -1,0 +1,262 @@
+{
+  "company_name": "PT Karya Bersama Anugerah Tbk",
+  "ticker": "KBAG",
+  "office_address": "Pam Tower, Lantai 8 Balikpapan Superblock Jl. Jend. Sudirman No 47, Balikpapan Kalimantan Timur 76114",
+  "email": "corsec@kbag.co.id",
+  "phone": "(0542) 765888, 8820 388",
+  "fax": "(0542) 8820 399",
+  "tax_id": "66.933.623.2-721.000",
+  "website": "https://www.kbag.co.id",
+  "listing_date": "2020-04-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang pengembangan real estat baik secara langsung maupun tidak langsung melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Energi.",
+    "business_tags": [
+      "Properti",
+      "Energi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "A. M. Khatami Lagan",
+    "email": "corsec@kbag.co.id",
+    "phone": "(0542)8820388"
+  },
+  "directors": [
+    {
+      "name": "Nicholas Sumasto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Hariyanto Hartono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "J. Christ Dwiyanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjia Daniel Wirawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Airin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Airin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Erik Angkasa Darma",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lanny Ermawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Visi Kota Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 3965766700,
+      "percentage": 55.47
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2557502603,
+      "percentage": 35.76
+    },
+    {
+      "name": "Salim Lim",
+      "type": "Lebih dari 5%",
+      "shares": 626733300,
+      "percentage": 8.77
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjia Daniel Wirawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Airin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nicholas Sumasto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Hariyanto Hartono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "J. Christ Dwiyanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kharismatama Niagamakmur",
+      "business_type": "A Real Estat yang Dimiliki Sendiri atau Disewa; B Kawasan Pariwisata; C Kawasan Industri; D Real Estat Atas Dasar Balas Jasa (fee) atau Kontrak.",
+      "total_assets": 105809911687,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Singasari Purabuana (spb)",
+      "business_type": "A Real Estat yang Dimiliki Sendiri atau Disewa; B Kawasan Pariwisata; C Kawasan Industri; D Real Estat Atas Dasar Balas Jasa (fee) atau Kontrak.",
+      "total_assets": 46986106393,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Arthapurwa Budijaya (apb)",
+      "business_type": "A Real Estat yang Dimiliki Sendiri atau Disewa; B Kawasan Pariwisata; C Kawasan Industri; D Real Estat Atas Dasar Balas Jasa (fee) atau Kontrak.",
+      "total_assets": 26500628227,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "371.800.135.356",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "10,42",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "6,00",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "26,19",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "60,61",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,92",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "8,16",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T13:57:04.988Z"
+}

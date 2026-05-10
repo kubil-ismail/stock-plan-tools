@@ -1,0 +1,291 @@
+{
+  "company_name": "PT Transcoal Pacific Tbk.",
+  "ticker": "TCPI",
+  "office_address": "Bakrie Tower Lantai 9, Komplek Rasuna Epicentrum Jl. Hr. Rasuna Said Jakarta Selatan 12940",
+  "email": "corporate.secretary@transcoalpacific.com",
+  "phone": "+62 21 2994 1389",
+  "fax": "+62 21 2994 1886",
+  "tax_id": "02.189.507.3-062.000",
+  "website": "http://www.transcoalpacific.com",
+  "listing_date": "2018-07-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pelayaran",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Anton Ramada Saragih",
+    "email": "corporate.secretary@transcoalpacific.com",
+    "phone": "+62 21 2994 1389"
+  },
+  "directors": [
+    {
+      "name": "Denry Raymond Lelo",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bintang Septo Drestanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Budiman Kostaman",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Anton Ramada Saragih",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Sutina",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Achmad Sutjipto",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Aditya Paruliangui",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Achmad Sutjipto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dimas Prayogo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dyah Swasti, Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sari Nusantara Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 2749999994,
+      "percentage": 55
+    },
+    {
+      "name": "PT Karya Permata Insani",
+      "type": "Lebih dari 5%",
+      "shares": 1250000006,
+      "percentage": 25
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1000000000,
+      "percentage": 20
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Achmad Sutjipto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aditya Paruliangui",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Denry Raymond Lelo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bintang Septo Drestanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budiman Kostaman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anton Ramada Saragih",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ir. Sutina",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Energy Transporter Indonesia (eti)",
+      "business_type": "Pelayaran",
+      "total_assets": 1503134,
+      "ownership_percentage": 86
+    },
+    {
+      "name": "PT Sentra Makmur Lines (sml)",
+      "business_type": "Pelayaran",
+      "total_assets": 1041870,
+      "ownership_percentage": 99.64
+    },
+    {
+      "name": "PT Kanz Gemilang Utama (kgu)",
+      "business_type": "Sub-perusahaan Induk",
+      "total_assets": 907625,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Karya Samudera Insani (ksi)",
+      "business_type": "Pelayaran",
+      "total_assets": 308481,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energy Gemilang Kencana (egk)",
+      "business_type": "Belum Beroperasi",
+      "total_assets": 84436,
+      "ownership_percentage": 99.57
+    },
+    {
+      "name": "PT Bahari Maritim Energi (bme)",
+      "business_type": "Pelayaran",
+      "total_assets": 24998,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Transportasi Lautan Energi (tle)",
+      "business_type": "Pelayaran",
+      "total_assets": 24998,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Lautan Kencana (elk)",
+      "business_type": "Pelayaran",
+      "total_assets": 24958,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "57.500.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "8,85",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "8,72",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "47,20",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "102,56",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,28",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "36,60",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:25.646Z"
+}

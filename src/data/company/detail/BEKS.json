@@ -1,0 +1,219 @@
+{
+  "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
+  "ticker": "BEKS",
+  "office_address": "Jl. Veteran No. 4. Kelurahan Cipare, Kecamatan Serang, Kota Serang, Provinsi Banten",
+  "email": "corporate.secretary@bankbanten.com",
+  "phone": "0254 - 7914966",
+  "fax": "-",
+  "tax_id": "0015.8174.3005.4000",
+  "website": "https://www.bankbanten.co.id",
+  "listing_date": "2001-07-13",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Ferdy Ardian",
+    "email": "ferdy.ardian@bankbanten.co.id",
+    "phone": "0254-7914944"
+  },
+  "directors": [
+    {
+      "name": "Muhammad Busthami",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Eko Virgianto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Slamet Riyadi*)",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Purbaji Basuki*)",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Deden Riki Hayatul Firman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rina Dewiyanti",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Hoiruddin Hasibuan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Deden Apriandhi*)",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Deden Riki Hayatul Firman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hoiruddin Hasibuan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hendra Suparyadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Douval",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pemerintah Provinsi Banten",
+      "type": "Lebih dari 5%",
+      "shares": 34289755661,
+      "percentage": 66.11
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 17578935405,
+      "percentage": 33.89
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Purbaji Basuki*",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr Hoiruddin Hasibuan",
+      "type": "Komisaris",
+      "shares": 1100000,
+      "percentage": 0
+    },
+    {
+      "name": "Deden Riki Hayatul Firman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rina Dewiyanti",
+      "type": "Komisaris",
+      "shares": 647200,
+      "percentage": 0
+    },
+    {
+      "name": "Deden Apriandhi*",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Busthami",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eko Virgianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Slamet Riyadi*",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.386.496.814.841",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,14",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "16,13",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,34",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "4,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "10,34",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:51:35.258Z"
+}

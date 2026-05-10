@@ -1,0 +1,540 @@
+{
+  "company_name": "PT Merdeka Battery Materials Tbk",
+  "ticker": "MBMA",
+  "office_address": "Gedung Treasury Tower Lantai 69 District 8 SCBD Lot 28 Jl. Jend Sudirman Kav 52-53 Dki Jakarta, 12190",
+  "email": "corsec@merdekabattery.com",
+  "phone": "(021) 39525581",
+  "fax": "(021) 39525582",
+  "tax_id": "92.623.737.1-011.000",
+  "website": "https://www.merdekabattery.com",
+  "listing_date": "2023-04-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perusahaan induk atas grup usaha yang bergerak di bidang pertambangan nikel dan mineral lainnya, pengolahan dan kegiatan usaha terkait lainnya yang terintegrasi secara vertikal",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Telekomunikasi, Energi.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Telekomunikasi",
+      "Energi"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Teddy Nuryanto Oetomo",
+    "email": "corsec@merdekabattery.com",
+    "phone": "(021) 39525581"
+  },
+  "directors": [
+    {
+      "name": "Teddy Nuryanto Oetomo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Titien Supeno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anthony Kartono Tan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Winato Kartono",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Michael W.p. Soeryadjaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Didi Achjari, M.com., Ak.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Didi Achjari, M.com, Ak.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aria Kanaka",
+      "position": "Anggota"
+    },
+    {
+      "name": "Selvy Monalisa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Merdeka Energi Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 54045287677,
+      "percentage": 50.04
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 37700787810,
+      "percentage": 34.91
+    },
+    {
+      "name": "Huayong International (hong Kong) Limited",
+      "type": "Lebih dari 5%",
+      "shares": 8149060000,
+      "percentage": 7.55
+    },
+    {
+      "name": "PT Alam Permai",
+      "type": "Lebih dari 5%",
+      "shares": 5896520600,
+      "percentage": 5.46
+    },
+    {
+      "name": "Winato Kartono",
+      "type": "Komisaris",
+      "shares": 2192848313,
+      "percentage": 2.03
+    },
+    {
+      "name": "Anthony Kartono Tan",
+      "type": "Direksi",
+      "shares": 10915500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Merdeka Industri Mineral",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 1600300645,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Batutua Pelita Investama",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 1150787740,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Merdeka Tsingshan Indonesia",
+      "business_type": "Kegiatan Industri",
+      "total_assets": 1057099273,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sulawesi Cahaya Mineral",
+      "business_type": "Pertambangan Bijih Nikel",
+      "total_assets": 641614734,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Zhao Hui Nickel",
+      "business_type": "Industri Pembuatan Logam Dasar Bukan Besi",
+      "total_assets": 566240512,
+      "ownership_percentage": 50.1
+    },
+    {
+      "name": "PT Cahaya Smelter Indonesia",
+      "business_type": "Industri Pembuatan Logam Dasar Bukan Besi",
+      "total_assets": 209761217,
+      "ownership_percentage": 50.1
+    },
+    {
+      "name": "PT Bukit Smelter Indonesia",
+      "business_type": "Industri Pembuatan Logam Dasar Bukan Besi",
+      "total_assets": 208732447,
+      "ownership_percentage": 50.1
+    },
+    {
+      "name": "PT Merdeka Mega Industri",
+      "business_type": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 170478088,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Huaneng Metal Industry",
+      "business_type": "Industri Pembuatan Logam Dasar Bukan Besi",
+      "total_assets": 170460392,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Merdeka Energi Utama",
+      "business_type": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 22367469,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Merdeka Energi Industri",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 22266552,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lestari Nusa Jaya Semesta",
+      "business_type": "Pengumpulan Limbah Berbahaya",
+      "total_assets": 1555483,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cahaya Hutan Lestari",
+      "business_type": "Aktivitas Telekomunikasi Khusus untuk Keperluan Sendiri; Perdagangan Besar Hasil Kehutanan dan Perburuan",
+      "total_assets": 746046,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Anugerah Batu Putih",
+      "business_type": "Penggalian Batu Kapur/ Gamping",
+      "total_assets": 670972,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ciptawana Lestari Mandiri",
+      "business_type": "Perkebunan Buah Kelapa Sawit, Kawasan Industri",
+      "total_assets": 529854,
+      "ownership_percentage": 51.05
+    },
+    {
+      "name": "PT Indogreen Cahaya Surya",
+      "business_type": "Pembangkitan Tenaga Listrik",
+      "total_assets": 99947,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kapur Maxima Gemilang",
+      "business_type": "Industri Kapur; Penggalian Batu Kapur/gamping",
+      "total_assets": 58267,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sulawesi Makmur Indonesia",
+      "business_type": "Industri Pembuatan Logam Dasar Bukan Besi; Industri Kapur; Penggalian Batu Kapur/gamping; Aktivitas Penunjang Pertambangan dan Penggalian Lainnya",
+      "total_assets": 37012,
+      "ownership_percentage": 51.05
+    },
+    {
+      "name": "PT Indonesia Cahaya Kekal Sulawesi",
+      "business_type": "Industri Kapur; Penggalian Batu Kapur/gamping; Penggalian Kerikil/sirtu",
+      "total_assets": 11199,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sulawesi Batu Kapur",
+      "business_type": "Industri Kapur; Penggalian Batu Kapur/gamping",
+      "total_assets": 10399,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lestari Jaya Kekal",
+      "business_type": "Industri Kapur; Penggalian Batu Kapur/gamping; Penggalian Kerikil/sirtu",
+      "total_assets": 9526,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sulawesi Anugerah Kekal",
+      "business_type": "Industri Kapur; Penggalian Batu Kapur/gamping; Penggalian Kerikil/sirtu",
+      "total_assets": 9422,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cahaya Sulawesi Kekal",
+      "business_type": "Industri Kapur; Penggalian Batu Kapur/gamping; Penggalian Kerikil/sirtu",
+      "total_assets": 9006,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Konawe Cahaya Indonesia",
+      "business_type": "Pembangkit, Transmisi Distribusi dan Penjualan Tenaga Listrik dalam Satu Kesatuan Usaha",
+      "total_assets": 8444,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sulawesi Industri Parama",
+      "business_type": "Industri Pembuatan Logam Dasar Bukan Besi",
+      "total_assets": 4640,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cahaya Kapur Alfa",
+      "business_type": "Industri Kapur; Penggalian Batu Kapur/gamping",
+      "total_assets": 4153,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "72.896.908.432.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "22,15",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "5,69",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "10,08",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "70,59",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "14,07",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "6,45",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:27.474Z"
+}

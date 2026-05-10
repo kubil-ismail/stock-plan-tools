@@ -1,0 +1,214 @@
+{
+  "company_name": "Total Bangun Persada Tbk",
+  "ticker": "TOTL",
+  "office_address": "Jl. Letjen S. Parman No. 106 Jakarta 11440",
+  "email": "totalbp@totalbp.com",
+  "phone": "021-5666999",
+  "fax": "021-5680461, 5663069",
+  "tax_id": "01.305.568.6-054.000",
+  "website": "https://www.totalbp.com",
+  "listing_date": "2006-07-25",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Anggie R.v. Sanusi Sidharta, S.t.",
+    "email": "corsec@totalbp.com",
+    "phone": "021-5666999 ext 502"
+  },
+  "directors": [
+    {
+      "name": "Janti Komadjaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lio Sudarto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Moeljati Soetrisno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Saleh",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rasyid Daulay",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rusdy Daryono",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Pinarto Sutanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Liliana Komajaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wibowo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rudi Suryajaya Komajaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Joseph Vittorio Pesik",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Joseph Vittorio Pesik, S.e., C.a., C.p.a.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ertin Setiawati, S.e.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lioe Fei Ling, S.e., Ak., Cpa., Ca.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Total Inti Persada",
+      "type": "Lebih dari 5%",
+      "shares": 1926650000,
+      "percentage": 56.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1043402060,
+      "percentage": 30.59
+    },
+    {
+      "name": "Ir. Djadjang Tanuwidjaja, Msc.",
+      "type": "Lebih dari 5%",
+      "shares": 375979440,
+      "percentage": 11.03
+    },
+    {
+      "name": "Pinarto Sutanto",
+      "type": "Komisaris",
+      "shares": 62232500,
+      "percentage": 1.83
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1736000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Total Persada Development (tpd)",
+      "business_type": "Pengembang/developer",
+      "total_assets": 321876256,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Total Persada Indonesia (tpi)",
+      "business_type": "Kontraktor/contractor",
+      "total_assets": 228438912,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Total Pola Formwork (tpf)",
+      "business_type": "Jasa Instalasi/installation Services",
+      "total_assets": 28592,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.074.950.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "12,22",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "19,23",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "36,26",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "72,22",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "2,90",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "23,38",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:47.310Z"
+}

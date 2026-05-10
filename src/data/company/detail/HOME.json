@@ -1,0 +1,173 @@
+{
+  "company_name": "Hotel Mandarine Regency Tbk",
+  "ticker": "HOME",
+  "office_address": "The Bellezza - Gapura Prima Office Tower, Lt. 10 Unit 2,3,5 dan 6, Jl. Letjen Soepeno No. 34 Jakart",
+  "email": "general@goodwayhotel.com",
+  "phone": "021 30485536",
+  "fax": "021 3048 5509",
+  "tax_id": "Tdk berubah",
+  "website": "https://Tdkberubah",
+  "listing_date": "2008-07-17",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Hotel and Tourism",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Henry Chevalier",
+    "email": "chevalierhenry@yahoo.co.id",
+    "phone": "0778-426888"
+  },
+  "directors": [
+    {
+      "name": "Bayu Widia Prakoso",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ardi Syofyan, Se. M.ak. Ak.",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ikhwan Raiz Syaputra",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Iskandar Ali",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Zainuddin Effendi, Mm",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Winata",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Iskandar Ali",
+      "position": "Ketua Komite Audit"
+    },
+    {
+      "name": "Merry",
+      "position": "Anggota"
+    },
+    {
+      "name": "Drs. Zainuddin Effendi, Mm",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 14606019988,
+      "percentage": 65.76
+    },
+    {
+      "name": "Kejaksaan Agung",
+      "type": "Lebih dari 5%",
+      "shares": 5479895094,
+      "percentage": 24.67
+    },
+    {
+      "name": "PT Yuanta Securities Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2126279700,
+      "percentage": 9.57
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "0",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Warga Tri Manunggal",
+      "business_type": "Rekreasi",
+      "total_assets": 88306249240,
+      "ownership_percentage": 9.999
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.110.609.739.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "0,00",
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-10T13:55:46.520Z"
+}

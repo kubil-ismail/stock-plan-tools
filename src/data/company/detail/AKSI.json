@@ -1,0 +1,185 @@
+{
+  "company_name": "PT Mineral Sumberdaya Mandiri Tbk",
+  "ticker": "AKSI",
+  "office_address": "District 8, Treasury Tower Lantai 52 SCBD, Lot 28, Jl.jenderal Sudirman Kav 52-53, Rt 08 Rw 06, Kel.senayan, Kec.kebayoran Baru, Jakarta Selatan 12190",
+  "email": "roni@msdm.co.id",
+  "phone": "021 50105669",
+  "fax": "-",
+  "tax_id": "01.349.129.5-054.000",
+  "website": "https://www.msdm.co.id",
+  "listing_date": "2001-07-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Roni Tan",
+    "email": "roni@msdm.co.id",
+    "phone": "02150105669"
+  },
+  "directors": [
+    {
+      "name": "Doddy Hermawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Roni Tan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wisnu Wahyudin Pettalolo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Marciano Hersondrie Herman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rosmaria Parlindungan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Marciano Hersondrie Herman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arifin M.sibarani Se",
+      "position": "Anggota"
+    },
+    {
+      "name": "Teddy Budiono Mulio",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Batulicin Enam Sembilan Transportasi",
+      "type": "Lebih dari 5%",
+      "shares": 665699750,
+      "percentage": 92.46
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 54238750,
+      "percentage": 7.53
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 61500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Rezki Batulicin Transport",
+      "business_type": "Pengangkutan Darat",
+      "total_assets": 355182639112,
+      "ownership_percentage": 99.76
+    },
+    {
+      "name": "PT Rezki Batulicin Transport",
+      "business_type": "Pengangkutan Darat",
+      "total_assets": 336205454021,
+      "ownership_percentage": 99.76
+    },
+    {
+      "name": "PT Rezki Batulicin Transport",
+      "business_type": "Pengangkutan Darat",
+      "total_assets": 330226713259,
+      "ownership_percentage": 99.76
+    },
+    {
+      "name": "PT Rezki Batulicin Transport",
+      "business_type": "Pengangkutan Darat",
+      "total_assets": 322124829315,
+      "ownership_percentage": 99.76
+    },
+    {
+      "name": "PT Rezki Batulicin Transport",
+      "business_type": "Pengangkutan Darat",
+      "total_assets": 320320216784,
+      "ownership_percentage": 99.76
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "239.040.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,46",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "10,00",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "23,81",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "52,38",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,00",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "41,94",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:07.395Z"
+}

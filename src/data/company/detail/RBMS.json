@@ -1,0 +1,305 @@
+{
+  "company_name": "Ristia Bintang Mahkotasejati Tbk",
+  "ticker": "RBMS",
+  "office_address": "Gedung Ribens Autocars Jl. Fatmawati No. 188 Jakarta 12420",
+  "email": "corsec@ristiagroup.com",
+  "phone": "7511441, 7505000",
+  "fax": "7511025",
+  "tax_id": "01.375.078.1-054.000",
+  "website": "https://www.ristiagroup.com",
+  "listing_date": "1997-12-19",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Deddy Indrasetiawan",
+    "email": "corsec@ristiagroup.com",
+    "phone": "021-7505000"
+  },
+  "directors": [
+    {
+      "name": "Deddy Indrasetiawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Nur Anisa Nusuqi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hamonangan Sianipar",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Michella Ristiadewi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hamonangan Sianipar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rifly Weddyansyach",
+      "position": "Anggota"
+    },
+    {
+      "name": "Caesarika Dsp",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Richard Wiriahardja",
+      "type": "Lebih dari 5%",
+      "shares": 1378060918,
+      "percentage": 51.88
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1264102507,
+      "percentage": 47.59
+    },
+    {
+      "name": "Michella Ristiadewi",
+      "type": "Komisaris",
+      "shares": 12454901,
+      "percentage": 0.47
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1594500,
+      "percentage": 0.06
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tiara Raya Bali International (trbi)",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 297339414282,
+      "ownership_percentage": 99.66
+    },
+    {
+      "name": "PT Tiara Raya Bali International (\"trbi\")",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 289748238260,
+      "ownership_percentage": 9.966
+    },
+    {
+      "name": "PT Tiara Raya Bali International (\"trbi\")",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 283002531701,
+      "ownership_percentage": 9.966
+    },
+    {
+      "name": "PT Tiara Raya Bali International (\"trbi\")",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 279887431827,
+      "ownership_percentage": 9.966
+    },
+    {
+      "name": "PT Tiara Raya Bali International (trbi)",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 279313430376,
+      "ownership_percentage": 99.66
+    },
+    {
+      "name": "PT Alam Indah Selaras (\"ais\")",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 106660637417,
+      "ownership_percentage": 9.998
+    },
+    {
+      "name": "PT Alam Indah Selaras (ais)",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 105142918365,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Alam Indah Selaras (ais)",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 98550999794,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bhaskara Mutu Sentosa (bms)",
+      "business_type": "Pengembangan Tanah di Tangerang",
+      "total_assets": 98510905443,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Alam Indah Selaras (\"ais\")",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 89216311213,
+      "ownership_percentage": 9.998
+    },
+    {
+      "name": "PT Alam Indah Selaras (\"ais\")",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 88057371932,
+      "ownership_percentage": 9.998
+    },
+    {
+      "name": "PT Bhaskara Mutu Sentosa (\"bms\")",
+      "business_type": "Pengembangan Tanah di Tangerang",
+      "total_assets": 79656163288,
+      "ownership_percentage": 9.996
+    },
+    {
+      "name": "PT Bhaskara Mutu Sentosa (\"bms\")",
+      "business_type": "Pengembangan Tanah di Tangerang",
+      "total_assets": 76643885734,
+      "ownership_percentage": 9.996
+    },
+    {
+      "name": "PT Bhaskara Mutu Sentosa (\"bms\")",
+      "business_type": "Pengembangan Tanah di Tangerang",
+      "total_assets": 74383270248,
+      "ownership_percentage": 9.996
+    },
+    {
+      "name": "PT Bhaskara Mutu Sentosa",
+      "business_type": "Pengembangan Tanah di Tangerang",
+      "total_assets": 42913580986,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Tiara Hotel Bali International (thbi)",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 42770355389,
+      "ownership_percentage": 99.75
+    },
+    {
+      "name": "PT Tiara Hotel Bali International (\"thbi\")",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 42586869865,
+      "ownership_percentage": 9.975
+    },
+    {
+      "name": "PT Tiara Hotel Bali International (\"thbi\")",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 41953906200,
+      "ownership_percentage": 9.975
+    },
+    {
+      "name": "PT Tiara Hotel Bali International (\"thbi\")",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 41917119033,
+      "ownership_percentage": 9.975
+    },
+    {
+      "name": "PT Tiara Hotel Bali International (thbi)",
+      "business_type": "Perhotelan di Bali",
+      "total_assets": 40988746195,
+      "ownership_percentage": 99.75
+    },
+    {
+      "name": "PT Manggala Citra Abadi (mca)",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 11234729212,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Manggala Citra Abadi (\"mca\")",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 10954496944,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Manggala Citra Abadi (\"mca\")",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 10900465285,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Manggala Citra Abadi (\"mca\")",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 10840204122,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Manggala Citra Abadi (mca)",
+      "business_type": "Pengembangan Tanah di Karawang",
+      "total_assets": 10737367279,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "175.310.046.516",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "41,51",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "66,67",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "120,59",
+      "direction": "+"
+    },
+    "_52_wk_chg": {
+      "value": "200,00",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "7,14",
+      "direction": "+"
+    },
+    "ytd": {
+      "value": "82,93",
+      "direction": "+"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:39.020Z"
+}

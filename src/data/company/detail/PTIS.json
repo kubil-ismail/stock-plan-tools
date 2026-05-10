@@ -1,0 +1,195 @@
+{
+  "company_name": "Indo Straits Tbk",
+  "ticker": "PTIS",
+  "office_address": "Graha Kirana Building, Lantai 15, Jalan Yos Sudarso Kav 88, Jakarta 14350",
+  "email": "corporate.secretary@indostraits.co.id",
+  "phone": "021-65311285",
+  "fax": "021-65311265",
+  "tax_id": "01.061.528.4-054.000",
+  "website": "https://www.indostraits.co.id",
+  "listing_date": "2011-07-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa kelautan yang terintegrasi dan pelayanan dukungan logistik",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Logistik.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Hasudungan Christober Fernandes Tambunan",
+    "email": "christo.tambunan@indostraits.co.id",
+    "phone": "021-65311285"
+  },
+  "directors": [
+    {
+      "name": "Tan Kim Leng",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Mohammad Lendi Basarah",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sihol Siagian",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Basa Sidabutar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Basa Sidabutar, S.h., m.h",
+      "position": "Ketua"
+    },
+    {
+      "name": "Paul Rachmat Wullur",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fuji Malindo Silaban",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Straits Corporation Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 450165300,
+      "percentage": 81.82
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 93571000,
+      "percentage": 17.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 6429000,
+      "percentage": 1.17
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sihol Siagian",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs Basa Sidabutar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Kim Leng",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mohammad Lendi Basarah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pelayaran Straits Perdana",
+      "business_type": "Pelayaran dalam Negeri",
+      "total_assets": 24049122,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Straits Mining Services",
+      "business_type": "Jasa Kontraktor Tambang",
+      "total_assets": 12189027,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "170.551.243.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "2,52",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "15,67",
+      "direction": "+"
+    },
+    "_26_wk_chg": {
+      "value": "22,11",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "0,64",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,64",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "10,92",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:13.395Z"
+}

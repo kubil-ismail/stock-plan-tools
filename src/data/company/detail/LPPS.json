@@ -1,0 +1,174 @@
+{
+  "company_name": "PT Lenox Pasifik Investama Tbk",
+  "ticker": "LPPS",
+  "office_address": "Ruko Pinangsia, Karawaci Office Park, Lantai 3, Blok M No. 39-50 Lippo Karawaci, Tangerang 15139",
+  "email": "corporate@lenox-pasifik.co.id",
+  "phone": "021-5589810",
+  "fax": "021-5520407",
+  "tax_id": "0013 4196 2705 4000",
+  "website": "https://www.lenox-pasifik.co.id",
+  "listing_date": "1994-03-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perseroan merupakan Perusahaan yang berusaha dalam bidang jasa yang melakukan aktivitas sebagai perusahaan holding dan aktivitas konsultasi manajemen lainnya.",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Investasi.",
+    "business_tags": [
+      "Perusahaan Investasi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 77,
+    "name": "Perusahaan Investasi",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Aditya Budi Kurniawan",
+    "email": "lenoxpasifikinvestama@gmail.com",
+    "phone": "021-5516588"
+  },
+  "directors": [
+    {
+      "name": "Chrysologus Rn Sinulingga",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Merry Maryati",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fendi Santoso",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ganesh Chander Grover",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ganesh Chander Grover",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arthur Felix Kalesaran",
+      "position": "Anggota"
+    },
+    {
+      "name": "Marlin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Inti Anugerah Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 1747636749,
+      "percentage": 67.52
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 833946040,
+      "percentage": 32.22
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 6667211,
+      "percentage": 0.26
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fendi Santoso",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ganesh Chander Grover",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chrysologus Rn Sinulingga",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Merry Maryati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "227.766.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,19",
+      "direction": "+"
+    },
+    "_13_wk_chg": {
+      "value": "3,41",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "26,72",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "49,12",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,16",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "23,42",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:58:09.483Z"
+}

@@ -1,0 +1,287 @@
+{
+  "company_name": "PT Teladan Prima Agro Tbk",
+  "ticker": "TLDN",
+  "office_address": "Beltway Office Park Gedung B Lantai 7 Jl. Tb Simatupang No. 41, Kota Jakarta Selatan, 12540",
+  "email": "corsec@teladanprima.com",
+  "phone": "+6221 29600300",
+  "fax": "+6221 29600333",
+  "tax_id": "02.188.745.0-017.000",
+  "website": "https://www.teladanprima.com",
+  "listing_date": "2022-04-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktvitas perusahaan holding dan aktivitas konsultasi manajemen lainnya serta perkebunan kelapa sawit dan industri pengolahan kelapa sawit melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Arya Wibisana",
+    "email": "corsec@teladanprima.com",
+    "phone": "+622129600300"
+  },
+  "directors": [
+    {
+      "name": "Wishnu Wardhana",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Noor Falich",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Imam Syaifullah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yayan Handian Ginanjar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mahirudin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Santos Ibrahim Noor",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Indracahya Basuki",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Iwa Kartiwa Hudaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Iwa Kartiwa Hudaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Djalaludin Djaprie",
+      "position": "Anggota"
+    },
+    {
+      "name": "Iman Subekti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Teladan Resources",
+      "type": "Lebih dari 5%",
+      "shares": 7752052400,
+      "percentage": 59.877
+    },
+    {
+      "name": "Ahmad Gunung",
+      "type": "Lebih dari 5%",
+      "shares": 2100563000,
+      "percentage": 16.225
+    },
+    {
+      "name": "Wishnu Wardhana",
+      "type": "Direksi",
+      "shares": 2100563000,
+      "percentage": 16.225
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 993351800,
+      "percentage": 7.673
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Telen",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1258387,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cahaya Anugerah Plantation",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1119604,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Buyu Perkasa Plantation",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1083299,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telen Prima Sawit",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 924680,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multi Jayantara Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 792234,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gemilang Sejahtera Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 694857,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sawit Prima Nusantara",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 337082,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inti Energi Kaltim",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 294060,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Daya Lestari",
+      "business_type": "Pembangkit Listrik",
+      "total_assets": 58248,
+      "ownership_percentage": 99.92
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono,sungkoro,& Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.091.581.375.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "1,60",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "6,11",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "15,75",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "9,82",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,60",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "12,14",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:03:39.328Z"
+}

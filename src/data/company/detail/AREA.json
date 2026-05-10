@@ -1,0 +1,209 @@
+{
+  "company_name": "PT Dunia Virtual Online Tbk",
+  "ticker": "AREA",
+  "office_address": "Area31 Cimanggis Jl. Raya Tapos No. 31cimpaeun, Kec. Tapos, Kota Depok Jawa Barat 16459",
+  "email": "corsec@area31.id",
+  "phone": "021 28681231",
+  "fax": "",
+  "tax_id": "03.053.057.0-064.000",
+  "website": "https://www.area31.id",
+  "listing_date": "2024-04-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa penyewaan colocation dan aktivitas terkait lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Elny Hapsari Saragih",
+    "email": "corsec@area31.id",
+    "phone": "(021) 2868 1231"
+  },
+  "directors": [
+    {
+      "name": "Michael Kurnia Wirawan Alifen",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yoke Tangkar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sugeng Alifen",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Vonny Stephanie Budisatyo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Herman Suhardjito",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Hammam Riza",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ario Purboyo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sutiono Tunggono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dwi Tunggal Putra",
+      "type": "Lebih dari 5%",
+      "shares": 966667000,
+      "percentage": 38.06
+    },
+    {
+      "name": "Sugeng Alifen",
+      "type": "Komisaris",
+      "shares": 780534000,
+      "percentage": 30.74
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 509771300,
+      "percentage": 20.07
+    },
+    {
+      "name": "Michael Kurnia Wirawan Alifen",
+      "type": "Direksi",
+      "shares": 280800000,
+      "percentage": 11.06
+    },
+    {
+      "name": "Vonny Stephanie Budisatyo",
+      "type": "Komisaris",
+      "shares": 1600000,
+      "percentage": 0.06
+    },
+    {
+      "name": "Yoke Tangkar",
+      "type": "Direksi",
+      "shares": 228700,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "822.830.724.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "7,69",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "18,32",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "41,68",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "36,59",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,29",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "42,75",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:50:29.086Z"
+}

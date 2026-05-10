@@ -1,0 +1,290 @@
+{
+  "company_name": "PT Palma Serasih Tbk.",
+  "ticker": "PSGO",
+  "office_address": "Gedung Graha Arda Lt. 7 Zone B, Jl. H.r. Rasuna Said Kav. B-6, Setiabudi, Jakarta Selatan 12910",
+  "email": "corporate.secretary@palmaserasih.co.id",
+  "phone": "+62 21 5277 715",
+  "fax": "+62 21 5277 716",
+  "tax_id": "02.604.561.7-018.000",
+  "website": "https://www.palmaserasih.co.id",
+  "listing_date": "2019-11-25",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perkebunan dan industri pengolahan minyak kelapa sawit melalui entitas anak",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Energi, Konstruksi, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Energi",
+      "Konstruksi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Astrida Niovita Bachtiar",
+    "email": "corporate.secretary@palmaserasih.co.id",
+    "phone": "+622128546080"
+  },
+  "directors": [
+    {
+      "name": "Budiono Tanbun",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Elisabeth Priska Chairil",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Johanes Gosal",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Angelica Octavia Chairil",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Astrida Niovita Bachtiar",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Prof. Dr. Ir. Bungaran Saragih",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dikdik Sugiharto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Martusin Yapriadi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dikdik Sugiharto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kurniadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Paul Rachmat Wullur",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Jalinankasih Sesama",
+      "type": "Lebih dari 5%",
+      "shares": 8177906900,
+      "percentage": 43.38
+    },
+    {
+      "name": "PT Serasih Holdico",
+      "type": "Lebih dari 5%",
+      "shares": 6600000000,
+      "percentage": 35.01
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2472093100,
+      "percentage": 13.12
+    },
+    {
+      "name": "Budiono Tanbun",
+      "type": "Direksi",
+      "shares": 1600000000,
+      "percentage": 8.49
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Anugerah Energitama",
+      "business_type": "Perkebunan dan Perindustrian",
+      "total_assets": 1700310821148,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusaraya Agro Sawit",
+      "business_type": "Perkebunan dan Perindustrian",
+      "total_assets": 945657770316,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Palma Serasih Internasional",
+      "business_type": "Perkebunan, Perdagangan dan Perindustrian",
+      "total_assets": 362180141961,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Primatama Mandiri",
+      "business_type": "Perkebunan",
+      "total_assets": 317737190180,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anugerah Lahan Kaltim",
+      "business_type": "Perkebunan",
+      "total_assets": 131066059985,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Batu Borneo Perdana",
+      "business_type": "Konstruksi",
+      "total_assets": 35537981067,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Anugerah Kebun Mandiri",
+      "business_type": "Perkebunan",
+      "total_assets": 30288467678,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cipta Hijau Bumi Etam",
+      "business_type": "Perkebunan",
+      "total_assets": 709583814,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anugerah Kebun Kaltim",
+      "business_type": "Perkebunan",
+      "total_assets": 16271372,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.751.150.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": "3,85",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "9,09",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "9,29",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "0,00",
+      "direction": "="
+    },
+    "ytd": {
+      "value": "4,76",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:01:07.911Z"
+}

@@ -1,0 +1,222 @@
+{
+  "company_name": "PT Bangun Kosambi Sukses Tbk",
+  "ticker": "CBDK",
+  "office_address": "Jl. Inspeksi Pik 2, Terusan Jalan Perancis No. 5 Tangerang 15211, Indonesia",
+  "email": "corporate.secretary@cbdpik2.com",
+  "phone": "02150282888",
+  "fax": "02150282888",
+  "tax_id": "01.930.684.4-026.000",
+  "website": "https://www.cbdpik2.com",
+  "listing_date": "2025-01-13",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Real Estat dan Aktivitas Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Yohanes Edmond Budiman",
+    "email": "corporate.secretary@cbdpik2.com",
+    "phone": "02139734100"
+  },
+  "directors": [
+    {
+      "name": "Steven Kusumo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ipeng Widjoyo",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Linda Kusumo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Markus Kusumaputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yohanes Edmond Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arthur Salim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Christina Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Richard Halim Kusuma",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Phiong Phillipus Darma",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hardjo Subroto Lilik",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hardjo Subroto Lilik",
+      "position": "Ketua"
+    },
+    {
+      "name": "Purba Sibarani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hendry",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pantai Indah Kapuk Dua Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 4947011240,
+      "percentage": 87.27
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 710252860,
+      "percentage": 12.53
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 11680400,
+      "percentage": 0.2
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mega Andalan Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 10214365293,
+      "ownership_percentage": 55.89
+    },
+    {
+      "name": "PT Cahaya Gemilang Indah Cemerlang",
+      "business_type": "Real Estat",
+      "total_assets": 2663202702,
+      "ownership_percentage": 55.89
+    },
+    {
+      "name": "PT Cahaya Kencana Indah",
+      "business_type": "Real Estat",
+      "total_assets": 1188688942,
+      "ownership_percentage": 57
+    },
+    {
+      "name": "PT Agung Surya Gemerlap",
+      "business_type": "Real Estat",
+      "total_assets": 500000,
+      "ownership_percentage": 99.6
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "26.247.213.035.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "5,91",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "22,35",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "25,48",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "32,31",
+      "direction": "-"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "1,91",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "45,65",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T13:52:57.304Z"
+}

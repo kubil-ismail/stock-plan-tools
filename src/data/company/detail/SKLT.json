@@ -1,0 +1,235 @@
+{
+  "company_name": "Sekar Laut Tbk",
+  "ticker": "SKLT",
+  "office_address": "Jl. Raya Darmo No. 23-25, Surabaya",
+  "email": "sekarlaut@sekar.co.id",
+  "phone": "(031) 567-1371",
+  "fax": "(031) 567-2318, (031) 567-6240",
+  "tax_id": "01.140.938.0-054.000",
+  "website": "https://www.sekarlaut.com",
+  "listing_date": "1993-09-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Makanan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Jimmy Herlambang",
+    "email": "jimmy@sekarlaut.com",
+    "phone": "(031) 892-1605"
+  },
+  "directors": [
+    {
+      "name": "Welly Gunawan",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "John Canfi Gozal",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Sung Sandiono Sungkono",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Eddy Hokgiantoro",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fanni Susilo",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Oei Harry Fong Jaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Suhardi Gunawan Halim",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Oei Michele Mallotie Sunogo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hongisisilia",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Silvia Yaptono, Se",
+      "position": "Anggota"
+    },
+    {
+      "name": "Chrisyanti Hidayat, Sh",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bing Hartono P.",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Green Resources Investments Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 2964293140,
+      "percentage": 42.92
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1158875810,
+      "percentage": 16.78
+    },
+    {
+      "name": "Fj Capital Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 720454215,
+      "percentage": 10.43
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 669369300,
+      "percentage": 9.69
+    },
+    {
+      "name": "Aneka Agro Food",
+      "type": "Lebih dari 5%",
+      "shares": 451821875,
+      "percentage": 6.54
+    },
+    {
+      "name": "Visi Inti Pelangi",
+      "type": "Lebih dari 5%",
+      "shares": 451821875,
+      "percentage": 6.54
+    },
+    {
+      "name": "Eswhuang",
+      "type": "Lebih dari 5%",
+      "shares": 451821875,
+      "percentage": 6.54
+    },
+    {
+      "name": "Oei Harry Fong Jaya",
+      "type": "Komisaris",
+      "shares": 23576030,
+      "percentage": 0.34
+    },
+    {
+      "name": "Fanni Susilo",
+      "type": "Komisaris",
+      "shares": 13594880,
+      "percentage": 0.2
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1592000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Oei Michele Sunogo",
+      "type": "Komisaris",
+      "shares": 4000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pangan Lestari",
+      "business_type": "Perdagangan Umum dan Distribusi",
+      "total_assets": 711290,
+      "ownership_percentage": 77.77
+    },
+    {
+      "name": "PT Pangan Citarasa Nusantara",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 16024,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Abadi Java Food",
+      "business_type": "Restoran",
+      "total_assets": 284,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.519.629.100.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": "4,50",
+      "direction": "-"
+    },
+    "_13_wk_chg": {
+      "value": "19,70",
+      "direction": "-"
+    },
+    "_26_wk_chg": {
+      "value": "0,93",
+      "direction": "-"
+    },
+    "_52_wk_chg": {
+      "value": "12,77",
+      "direction": "+"
+    },
+    "npm": "",
+    "mtd": {
+      "value": "4,50",
+      "direction": "-"
+    },
+    "ytd": {
+      "value": "15,20",
+      "direction": "-"
+    }
+  },
+  "scraped_at": "2026-05-10T14:02:25.837Z"
+}
