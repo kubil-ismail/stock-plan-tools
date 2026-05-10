@@ -1,5 +1,5 @@
 import * as yup from "yup";
-import { brokers } from "@/data/brokers";
+import { brokers } from "../../../../../public/data/brokers";
 import { Broker } from "@/types/brokers";
 import { StockDetail, StockList } from "@/types/stocks";
 import { Button } from "@/components/ui/button";
@@ -9,7 +9,7 @@ import { Autocomplete } from "@/components/autocomplete";
 import { BanknoteArrowDown, BanknoteArrowUp } from "lucide-react";
 import { useRef } from "react";
 import { useFormik } from "formik";
-import companyList from "@/data/archive/company.json";
+import companyList from "../../../../../public/data/archive/company.json";
 import { ResultData } from "../kalkulator_avarage.view";
 
 const validationSchema = yup.object({

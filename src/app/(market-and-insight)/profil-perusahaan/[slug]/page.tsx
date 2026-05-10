@@ -13,7 +13,18 @@ export default async function Page(props: Props) {
   const { params } = props;
   const { slug } = await params;
 
-  return <Profil_perusahaan_detail_view slug={String(slug)} />;
+  const [requestDetailCompany] = await Promise.all([
+    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/AADI`).then((res) =>
+      res.json(),
+    ),
+  ]);
+
+  return (
+    <Profil_perusahaan_detail_view
+      slug={String(slug)}
+      detailCompany={requestDetailCompany}
+    />
+  );
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -26,7 +37,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const baseUrl = "https://stockplan.id";
   const ogImage = `${baseUrl}/api/og/profil-perusahaan?ticker=${ticker}&name=${name}&industry=${companySelected?.industry?.name}&sector=${companySelected?.sector?.name}`;
-
 
   return {
     title: `Profil Perusahaan ${name} (${ticker}) | Saham, Direksi, Komisaris & Kepemilikan | Stockplan`,

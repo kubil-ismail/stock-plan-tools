@@ -22,7 +22,7 @@ export type StockDetail = {
   id: number;
   ticker: string;
   name: string;
-  company_name: string;
+  company_name?: string;
   logo: string;
   office_address: string;
   email: string;
@@ -75,11 +75,48 @@ export type StockDetail = {
     deletedAt: string | null;
   }[];
 
+  business_field?: {
+    raw_business: string;
+    business_summary: string;
+    business_tags: string[];
+    business_keywords: string[];
+  };
+};
+
+
+export type StockDetailV2 = {
+  ticker: string;
+  company_name: string;
+  listed_at: string;
+  listing_board: string;
+
   business_field: {
     raw_business: string;
     business_summary: string;
     business_tags: string[];
     business_keywords: string[];
+  };
+
+  industry: {
+    id: number;
+    name: string;
+  };
+
+  sub_industry: {
+    id: number;
+    name: string;
+    industries_id: number;
+  };
+
+  sector: {
+    id: number;
+    name: string;
+  };
+
+  sub_sector: {
+    id: number;
+    name: string;
+    sector_id: number;
   };
 };
 

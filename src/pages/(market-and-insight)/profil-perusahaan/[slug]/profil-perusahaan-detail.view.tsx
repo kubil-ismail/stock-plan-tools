@@ -14,9 +14,16 @@ import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useState } from "react";
 import Kinerja_saham_view from "./tabs/kinerja-saham.view";
 
-function Company_detail_view({ slug }: { slug: string }) {
-  const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
-  const selectedCompany = _company.find((item) => item.ticker === slug)!;
+function Company_detail_view({
+  slug,
+  detailCompany,
+}: {
+  slug: string;
+  detailCompany: any;
+}) {
+  // const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
+  // const selectedCompany = _company.find((item) => item.ticker === slug)!;
+  const selectedCompany = detailCompany.data;
 
   const [tabs, setTabs] = useState("profil-perusahaan");
 
@@ -63,7 +70,7 @@ function Company_detail_view({ slug }: { slug: string }) {
               </div>
 
               <p className="text-base text-gray-700 text-[14px] md:text-[16px] font-medium text-pretty">
-                {selectedCompany?.name}
+                {selectedCompany?.company_name}
               </p>
 
               <IndustryHierarchy company={selectedCompany!} />
@@ -120,12 +127,12 @@ function Company_detail_view({ slug }: { slug: string }) {
         )}
 
         {/* Kinerja Saham */}
-        {tabs === "kinerja-saham" && (
+        {/* {tabs === "kinerja-saham" && (
           <Kinerja_saham_view selectedCompany={selectedCompany} />
-        )}
+        )} */}
 
         {/* Aksi Korporasi */}
-        {tabs === "aksi-korporasi" && <Aksi_korporasi_view slug={slug} />}
+        {/* {tabs === "aksi-korporasi" && <Aksi_korporasi_view slug={slug} />} */}
       </div>
     </div>
   );

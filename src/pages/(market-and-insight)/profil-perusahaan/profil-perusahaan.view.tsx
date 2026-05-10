@@ -2,7 +2,7 @@
 import React, { useMemo, useState } from "react";
 import company from "@/data/company/company.json";
 import CompanyCard from "@/components/companyCard";
-import { StockDetail } from "@/types/stocks";
+import { StockDetailV2 } from "@/types/stocks";
 import posthog from "posthog-js";
 import Breadcrumbs from "@/components/breadcrumbs";
 import { useRouter } from "next/navigation";
@@ -12,7 +12,7 @@ const LOAD_MORE_STEP = 120;
 
 function Profil_perusahaan_view({ search }: { search: string }) {
   const router = useRouter();
-  const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
+  const _company: StockDetailV2[] = (company as { data: StockDetailV2[] }).data;
 
   const [searchTerm, setSearchTerm] = useState(search ?? "");
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
@@ -147,7 +147,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {visibleData.map((company: StockDetail) => (
+            {visibleData.map((company: StockDetailV2) => (
               <CompanyCard key={company.ticker} company={company} />
             ))}
           </div>

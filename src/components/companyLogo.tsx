@@ -7,7 +7,7 @@ function CompanyLogo({
   company,
   disableBorder,
 }: {
-  company: { logo: string; name?: string; ticker?: string };
+  company: { logo?: string; name?: string; ticker?: string };
   disableBorder?: boolean;
 }) {
   const [loading, setLoading] = useState(false);

@@ -9,27 +9,25 @@ import { formatUrl, parseNumber, slugify, sortManagement } from "@/lib/utils";
 import { format } from "date-fns";
 
 interface Props {
-  selectedCompany: StockDetail;
+  selectedCompany: any;
 }
 
 function Profil_perusahaan_view(props: Props) {
   const { selectedCompany } = props;
 
-  const ceo = selectedCompany?.managements.find(
+  const ceo = selectedCompany?.directors.find(
     (item: StockManagement) =>
       item.position === "PRESIDEN DIREKTUR" ||
-      item.position === "DIREKTUR UTAMA"
+      item.position === "DIREKTUR UTAMA",
   );
 
-  const secretary = selectedCompany?.managements.find(
-    (item: StockManagement) => item.position === "SEKRETARIS PERUSAHAAN"
-  );
+  const secretary = selectedCompany?.corporate_secretary;
 
-  const managements = sortManagement(
-    selectedCompany?.managements?.filter(
-      (item) => item.position !== "SEKRETARIS PERUSAHAAN"
-    ) ?? []
-  );
+  const managements = sortManagement([
+    ...(selectedCompany?.directors ?? []),
+    ...(selectedCompany?.commissioners ?? []),
+    ...(selectedCompany?.audit_committee ?? []),
+  ]);
 
   const shareholders =
     selectedCompany?.shareholders
@@ -81,7 +79,7 @@ function Profil_perusahaan_view(props: Props) {
             <p className="text-[14px] text-muted-foreground leading-relaxed">
               {format(
                 selectedCompany?.listing_date ?? new Date(),
-                "d MMMM yyyy"
+                "d MMMM yyyy",
               )}
             </p>
           </div>
