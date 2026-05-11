@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { unslugify } from "@/lib/utils";
-import Kepemilikan_saham_view from "@/pages/(market-and-insight)/kepemilikan-saham/kepemilikan_saham.view";
+// import Kepemilikan_saham_view from "@/pages/(market-and-insight)/kepemilikan-saham/kepemilikan_saham.view";
 
 type Props = {
   params: {
@@ -8,15 +8,21 @@ type Props = {
   };
 };
 
-export default async function Page() {
-  const [requestShareholderCompany] = await Promise.all([
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/shareholder`).then(
-      (res) => res.json()
-    ),
-  ]);
+// export default async function Page() {
+//   const [requestShareholderCompany] = await Promise.all([
+//     fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/shareholder`).then(
+//       (res) => res.json()
+//     ),
+//   ]);
 
-  return <Kepemilikan_saham_view shareholder={requestShareholderCompany} />;
+//   return <Kepemilikan_saham_view shareholder={requestShareholderCompany} />;
+// }
+
+function Page() {
+  return <h1>Maintenance</h1>;
 }
+
+export default Page;
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const _slug = (await params).slug;

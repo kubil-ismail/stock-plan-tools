@@ -74,8 +74,6 @@ const metricRules: Record<
 export default function Kinerja_saham_view(props: Props) {
   const { selectedCompany } = props;
 
-  console.log("selectedCompany", selectedCompany);
-
   return (
     <GlassCard>
       <div className="mb-6">
