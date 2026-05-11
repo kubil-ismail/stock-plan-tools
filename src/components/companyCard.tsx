@@ -1,4 +1,5 @@
 import Link from "next/link";
+import posthog from "posthog-js";
 import CompanyLogo from "./companyLogo";
 import { ArrowRight } from "lucide-react";
 import {
@@ -18,7 +19,16 @@ export default function CompanyCard(props: Props) {
 
   return (
     <>
-      <Link href={`/profil-perusahaan/${company.ticker}`}>
+      <Link
+        href={`/profil-perusahaan/${company.ticker}`}
+        onClick={() =>
+          posthog.capture("home_feature_clicked", {
+            company_ticker: company.ticker,
+            company_link: `/profil-perusahaan/${company.ticker}`,
+            section: "profil_perusahaan_list",
+          })
+        }
+      >
         <div className="flex flex-col h-full bg-white/70 border border-gray-200 shadow-sm rounded-3xl p-6 transition hover:shadow-lg hover:-translate-y-0.5 cursor-pointer">
           {/* HEADER */}
 
