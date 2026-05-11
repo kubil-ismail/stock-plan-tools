@@ -5,6 +5,9 @@ import Link from "next/link";
 import { Analytics } from "@vercel/analytics/next";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import Searchbar from "@/components/searchbar";
+import { PostHogProvider } from "@/components/PostHogProvider";
+import { PostHogPageView } from "@/components/PostHogPageView";
+import { Suspense } from "react";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
@@ -37,6 +40,10 @@ export default function RootLayout({
     >
       <Analytics />
       <body className="min-h-full flex flex-col">
+        <PostHogProvider>
+        <Suspense fallback={null}>
+          <PostHogPageView />
+        </Suspense>
         <TooltipProvider>
           <div className="min-h-screen">
             {/* Header */}
@@ -119,6 +126,7 @@ export default function RootLayout({
             </footer>
           </div>
         </TooltipProvider>
+        </PostHogProvider>
       </body>
     </html>
   );
