@@ -1,3 +1,4 @@
+import { formatRupiah } from "@/lib/utils";
 import { Building2, User, Users, Landmark } from "lucide-react";
 
 function getShareholderIcon(type?: string) {
@@ -22,9 +23,19 @@ function getShareholderIcon(type?: string) {
 }
 
 export default function ShareholderCard(props: {
-  item: { type: string; name: string; percentage: string; total: string };
+  item: {
+    type: string;
+    name: string;
+    percentage: string | number;
+    shares: string | number;
+  };
 }) {
   const { item } = props;
+
+  const percentage =
+    typeof item?.percentage === "number"
+      ? `${item?.percentage}%`
+      : item?.percentage;
 
   return (
     <div className="bg-muted/40 rounded-xl p-4 flex items-start gap-3">
@@ -45,8 +56,8 @@ export default function ShareholderCard(props: {
         </p>
 
         <p className="text-[12px] text-muted-foreground">
-          <span className="font-medium">Jumlah:</span> {item?.total} (
-          {item?.percentage})
+          <span className="font-medium">Jumlah:</span>{" "}
+          {formatRupiah(item?.shares, { prefix: false })} ({percentage})
         </p>
       </div>
     </div>

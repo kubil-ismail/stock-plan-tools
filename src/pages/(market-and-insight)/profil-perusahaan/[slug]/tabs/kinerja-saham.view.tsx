@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { GlassCard } from "@/components/glassCard";
-import { StockDetail } from "@/types/stocks";
+import { StockDetailResponse } from "@/types/stocks";
 import React from "react";
 import {
   Tooltip,
@@ -14,11 +14,9 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
-import technical_summary from "@/data/archive/technical_summary.json";
-import { StockTechnical } from "@/types/stocks";
 
 interface Props {
-  selectedCompany: StockDetail;
+  selectedCompany: StockDetailResponse;
 }
 
 const metricDescriptions: Record<string, string> = {
@@ -76,13 +74,7 @@ const metricRules: Record<
 export default function Kinerja_saham_view(props: Props) {
   const { selectedCompany } = props;
 
-  const _technical_summary: StockTechnical[] = (
-    technical_summary as { data: StockTechnical[] }
-  ).data;
-
-  const selectedTechnicalSummary = _technical_summary.find(
-    (item) => item.Kode_Saham === selectedCompany?.ticker
-  )!;
+  console.log("selectedCompany", selectedCompany);
 
   return (
     <GlassCard>
@@ -90,7 +82,9 @@ export default function Kinerja_saham_view(props: Props) {
         <h3 className="text-xl md:text-2xl font-semibold text-foreground">
           Kinerja Saham
         </h3>
-        <p className="text-sm text-muted-foreground">{selectedCompany?.name}</p>
+        <p className="text-sm text-muted-foreground">
+          {selectedCompany?.company_name}
+        </p>
       </div>
 
       {/* FUNDAMENTAL */}
@@ -145,52 +139,52 @@ export default function Kinerja_saham_view(props: Props) {
           <Metric
             label="4W Change"
             value={formatDecimal(
-              selectedTechnicalSummary?._4_wk_chg?.value,
-              selectedTechnicalSummary?._4_wk_chg?.direction
+              selectedCompany.technical?._4_wk_chg?.value,
+              selectedCompany.technical?._4_wk_chg?.direction
             )}
             percentage
           />
           <Metric
             label="13W Change"
             value={formatDecimal(
-              selectedTechnicalSummary?._13_wk_chg?.value,
-              selectedTechnicalSummary?._13_wk_chg?.direction
+              selectedCompany.technical?._13_wk_chg?.value,
+              selectedCompany.technical?._13_wk_chg?.direction
             )}
             percentage
           />
           <Metric
             label="26W Change"
             value={formatDecimal(
-              selectedTechnicalSummary?._26_wk_chg?.value,
-              selectedTechnicalSummary?._26_wk_chg?.direction
+              selectedCompany.technical?._26_wk_chg?.value,
+              selectedCompany.technical?._26_wk_chg?.direction
             )}
             percentage
           />
           <Metric
             label="52W Change"
             value={formatDecimal(
-              selectedTechnicalSummary?._52_wk_chg?.value,
-              selectedTechnicalSummary?._52_wk_chg?.direction
+              selectedCompany.technical?._52_wk_chg?.value,
+              selectedCompany.technical?._52_wk_chg?.direction
             )}
             percentage
           />
           {/* <Metric
             label="NPM %"
-            value={formatDecimal(selectedTechnicalSummary?.npm)}
+            value={formatDecimal(selectedCompany.technical?.npm)}
           /> */}
           <Metric
             label="MTD"
             value={formatDecimal(
-              selectedTechnicalSummary?.mtd?.value,
-              selectedTechnicalSummary?.mtd?.direction
+              selectedCompany.technical?.mtd?.value,
+              selectedCompany.technical?.mtd?.direction
             )}
             percentage
           />
           <Metric
             label="YTD"
             value={formatDecimal(
-              selectedTechnicalSummary?.ytd?.value,
-              selectedTechnicalSummary?.ytd?.direction
+              selectedCompany.technical?.ytd?.value,
+              selectedCompany.technical?.ytd?.direction
             )}
             percentage
           />

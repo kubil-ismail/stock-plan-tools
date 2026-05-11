@@ -144,7 +144,7 @@
     {
       "name": "Masyarakat Non Warkat",
       "type": "Masyarakat Non Warkat",
-      "shares": 2410770642,
+      "shares": 2410170642,
       "percentage": 29.189
     },
     {
@@ -168,7 +168,7 @@
     {
       "name": "Saham Treasury",
       "type": "Saham Treasury",
-      "shares": 9338200,
+      "shares": 9938200,
       "percentage": 0.12
     },
     {
@@ -196,12 +196,6 @@
       "percentage": 0.008
     },
     {
-      "name": "Bacelius Ruru",
-      "type": "Komisaris",
-      "shares": 0,
-      "percentage": 0
-    },
-    {
       "name": "Dr. A. Fuad Rahmany",
       "type": "Komisaris",
       "shares": 0,
@@ -215,6 +209,12 @@
     },
     {
       "name": "Kang Tzu Ping (frances Kang)",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Judy Lee",
       "type": "Komisaris",
       "shares": 0,
       "percentage": 0
@@ -430,30 +430,30 @@
     "mkt_cap": "4.706.719.670.670",
     "total_rev": "",
     "_4_wk_chg": {
-      "value": "5,65",
-      "direction": "-"
+      "value": null,
+      "direction": "="
     },
     "_13_wk_chg": {
-      "value": "10,00",
-      "direction": "-"
+      "value": null,
+      "direction": "="
     },
     "_26_wk_chg": {
-      "value": "29,94",
-      "direction": "-"
+      "value": null,
+      "direction": "="
     },
     "_52_wk_chg": {
-      "value": "47,73",
-      "direction": "+"
+      "value": null,
+      "direction": "="
     },
     "npm": "",
     "mtd": {
-      "value": "3,54",
-      "direction": "+"
+      "value": null,
+      "direction": "="
     },
     "ytd": {
-      "value": "23,03",
-      "direction": "-"
+      "value": null,
+      "direction": "="
     }
   },
-  "scraped_at": "2026-05-10T14:03:43.739Z"
+  "scraped_at": "2026-05-11T06:56:41.041Z"
 }

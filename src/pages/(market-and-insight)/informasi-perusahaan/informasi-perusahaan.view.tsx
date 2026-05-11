@@ -2,27 +2,21 @@
 "use client";
 import { Button } from "@/components/ui/button";
 import { ChevronRight, ChevronLeft, Calendar } from "lucide-react";
-import {
-  Card,
-  CardContent,
-  // CardDescription,
-  // CardHeader,
-  // CardTitle,
-} from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import CompanyLogo from "@/components/companyLogo";
-import { StockDetail } from "@/types/stocks";
+import { StockListResponse } from "@/types/stocks";
 import { useMemo, useRef, useState } from "react";
 import { format, addDays, subDays } from "date-fns";
-import posthog from "posthog-js";
 import { id } from "date-fns/locale";
-
-import company from "@/data/archive/company.json";
-import notation from "@/data/archive/information/notations/notation.json";
-import pemantauan_khusus from "@/data/archive/information/pemantauan_khusus/pemantauan_khusus.json";
-import calendar from "@/data/archive/information/calendar/calendar.json";
-import Breadcrumbs from "@/components/breadcrumbs";
 import { cn } from "@/lib/utils";
+
+import posthog from "posthog-js";
+import CompanyLogo from "@/components/companyLogo";
+import Breadcrumbs from "@/components/breadcrumbs";
+
+import company from "@/data/company/company.json";
+import pemantauan_khusus from "@/data/information/special_board.json";
+import calendar from "@/data/information/calendar.json";
 
 function Informasi_perusahaan_view() {
   const inputRef = useRef<HTMLInputElement | null>(null);
@@ -40,18 +34,13 @@ function Informasi_perusahaan_view() {
   }, [date, calendar.data]);
 
   const filter_pemantauan_khusus = useMemo(() => {
-    return pemantauan_khusus.data
-      .filter(
-        (item) =>
-          item.Tanggal_Masuk ===
-          format(date, "dd MMM yyyy", {
-            locale: id,
-          })
-      )
-      .map((item) => ({
-        ...item,
-        notasi: notation?.data?.find((_item) => _item.Kode === item.Kode_Saham),
-      }));
+    return pemantauan_khusus.data.filter(
+      (item) =>
+        item.entry_date ===
+        format(date, "dd MMM yyyy", {
+          locale: id,
+        })
+    );
   }, [date, pemantauan_khusus.data]);
 
   const handlePrevDate = () => {
@@ -198,16 +187,26 @@ function Informasi_perusahaan_view() {
                 {filter_pemantauan_khusus.map((item, key) => (
                   <Notation_card
                     key={key}
-                    ticker={item.Kode_Saham}
-                    variant={String(item.notasi?.Notasi)}
-                    desc={String(item.notasi?.Keterangan_Notasi)}
+                    ticker={item.ticker}
+                    variant={String(
+                      item.notation
+                        ?.slice()
+                        ?.map((item) => item.code)
+                        .join(",")
+                    )}
+                    desc={String(
+                      item.notation
+                        ?.map((item) => `${item.code} : ${item.description}\n`)
+                        .join("")
+                    )}
+                    company_name={item.company_name}
                   />
                 ))}
 
                 {filter_calendar?.map((item, key) => (
                   <Calendar_card
                     key={key}
-                    ticker={item.kode}
+                    ticker={item.ticker}
                     variant={item.perihal}
                     desc={item.lokasi}
                   />
@@ -228,7 +227,7 @@ function Informasi_perusahaan_view() {
               filter_calendar.map((item, key) => (
                 <Calendar_card
                   key={key}
-                  ticker={item.kode}
+                  ticker={item.ticker}
                   variant={item.perihal}
                   desc={item.lokasi}
                 />
@@ -248,9 +247,19 @@ function Informasi_perusahaan_view() {
               filter_pemantauan_khusus.map((item, key) => (
                 <Notation_card
                   key={key}
-                  ticker={item.Kode_Saham}
-                  variant={String(item.notasi?.Notasi)}
-                  desc={String(item.notasi?.Keterangan_Notasi)}
+                  ticker={item.ticker}
+                  variant={String(
+                    item.notation
+                      ?.slice()
+                      ?.map((item) => item.code)
+                      .join(",")
+                  )}
+                  desc={String(
+                    item.notation
+                      ?.map((item) => `${item.code} : ${item.description}\n`)
+                      .join("")
+                  )}
+                  company_name={item.company_name}
                 />
               ))
             )}
@@ -314,7 +323,9 @@ export function Calendar_card(props: {
   date?: string;
 }) {
   const { ticker, variant, desc, simplify, date } = props;
-  const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
+  const _company: StockListResponse[] = (
+    company as { data: StockListResponse[] }
+  ).data;
   const selectedCompany = _company.find((item) => item.ticker === ticker);
 
   return (
@@ -327,7 +338,7 @@ export function Calendar_card(props: {
         >
           <CompanyLogo
             company={{
-              logo: selectedCompany?.logo ?? "",
+              ticker: ticker,
             }}
           />
         </a>
@@ -340,7 +351,7 @@ export function Calendar_card(props: {
           >
             <CompanyLogo
               company={{
-                logo: selectedCompany?.logo ?? "",
+                ticker: ticker,
               }}
             />
           </a>
@@ -361,14 +372,16 @@ export function Calendar_card(props: {
 
           {!simplify && (
             <p className="text-muted-foreground mb-4">
-              {selectedCompany?.name}
+              {selectedCompany?.company_name}
             </p>
           )}
 
-          <div className="mb-1 mt-4 md:mt-2">
-            <span className="font-medium">Tanggal:</span> <br />
-            <span className="text-neutral-600">{date}</span>
-          </div>
+          {date && (
+            <div className="mb-1 mt-4 md:mt-2">
+              <span className="font-medium">Tanggal:</span> <br />
+              <span className="text-neutral-600">{date}</span>
+            </div>
+          )}
 
           <div className="mb-1">
             <span className="font-medium">Perihal:</span> <br />
@@ -401,10 +414,9 @@ export function Notation_card(props: {
   desc: string;
   simplify?: boolean;
   date?: string;
+  company_name?: string;
 }) {
-  const { ticker, variant, desc, simplify, date } = props;
-  const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
-  const selectedCompany = _company.find((item) => item.ticker === ticker);
+  const { ticker, variant, desc, simplify, date, company_name } = props;
 
   return (
     <Card>
@@ -416,7 +428,7 @@ export function Notation_card(props: {
         >
           <CompanyLogo
             company={{
-              logo: selectedCompany?.logo ?? "",
+              ticker: ticker ?? "",
             }}
           />
         </a>
@@ -429,13 +441,13 @@ export function Notation_card(props: {
           >
             <CompanyLogo
               company={{
-                logo: selectedCompany?.logo ?? "",
+                ticker: ticker ?? "",
               }}
             />
           </a>
 
-          <div className="flex justify-between items-center">
-            {!simplify && (
+          {!simplify && (
+            <div className="flex justify-between items-center">
               <a
                 className="text-[19px] font-semibold text-foreground"
                 href={`/profil-perusahaan/${ticker}`}
@@ -443,21 +455,24 @@ export function Notation_card(props: {
               >
                 {ticker}
               </a>
-            )}
-
-            <CategoryBadge type="NOTASI_KHUSUS" />
-          </div>
-
-          {!simplify && (
-            <p className="text-muted-foreground mb-4">
-              {selectedCompany?.name}
-            </p>
+              <CategoryBadge type="NOTASI_KHUSUS" />
+            </div>
           )}
 
-          <div className="mt-4">
-            <span className="font-medium">Tanggal:</span>{" "}
-            <span className="text-neutral-600">{date}</span>
-          </div>
+          {!simplify && (
+            <p className="text-muted-foreground mb-4">{company_name}</p>
+          )}
+
+          {date && (
+            <div className="flex justify-between">
+              <div className={cn(simplify ? "" : "mt-4")}>
+                <span className="font-medium">Tanggal:</span>{" "}
+                <span className="text-neutral-600">{date}</span>
+              </div>
+
+              {simplify && <CategoryBadge type="NOTASI_KHUSUS" />}
+            </div>
+          )}
 
           <div>
             <span className="font-medium">Notasi:</span>{" "}

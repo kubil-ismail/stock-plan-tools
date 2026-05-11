@@ -1,5 +1,5 @@
 {
-  "total": 163,
+  "total": 162,
   "data": [
     {
       "ticker": "OCAP",
@@ -3589,131 +3589,6 @@
       ]
     },
     {
-      "ticker": "EURO",
-      "company_name": "PT Estee Gold Feet Tbk",
-      "entry_date": "29 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 10,
-          "description": "Suspensi perdagangan lebih dari 1 hari bursa"
-        }
-      ]
-    },
-    {
-      "ticker": "DUTI",
-      "company_name": "Duta Pertiwi Tbk",
-      "entry_date": "30 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "IFSH",
-      "company_name": "PT Ifishdeco Tbk.",
-      "entry_date": "30 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "JECC",
-      "company_name": "Jembo Cable Company Tbk",
-      "entry_date": "30 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "AKKU",
-      "company_name": "PT Anugerah Kagum Karya Utama Tbk",
-      "entry_date": "30 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 1,
-          "description": "Harga saham rendah dan likuiditas rendah"
-        },
-        {
-          "code": 2,
-          "description": "Opini disclaimer pada laporan keuangan"
-        },
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "D",
-          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
-        },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "BABY",
-      "company_name": "PT Multitrend Indo Tbk.",
-      "entry_date": "30 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "CSAP",
-      "company_name": "Catur Sentosa Adiprana Tbk",
-      "entry_date": "30 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
       "ticker": "TECH",
       "company_name": "PT Indosterling Technomedia Tbk",
       "entry_date": "30 Apr 2026",
@@ -3849,6 +3724,120 @@
     {
       "ticker": "MLIA",
       "company_name": "Mulia Industrindo Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "AKKU",
+      "company_name": "PT Anugerah Kagum Karya Utama Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BABY",
+      "company_name": "PT Multitrend Indo Tbk.",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "CSAP",
+      "company_name": "Catur Sentosa Adiprana Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "DUTI",
+      "company_name": "Duta Pertiwi Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "IFSH",
+      "company_name": "PT Ifishdeco Tbk.",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "JECC",
+      "company_name": "Jembo Cable Company Tbk",
       "entry_date": "30 Apr 2026",
       "criteria_details": [
         {

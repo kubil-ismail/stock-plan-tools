@@ -1,7 +1,6 @@
 import { Metadata } from "next";
-import company from "@/data/archive/company.json";
+import { StockDetailResponse } from "@/types/stocks";
 import Profil_perusahaan_detail_view from "@/pages/(market-and-insight)/profil-perusahaan/[slug]/profil-perusahaan-detail.view";
-import { StockDetail } from "@/types/stocks";
 
 interface Props {
   params: Promise<{
@@ -14,9 +13,11 @@ export default async function Page(props: Props) {
   const { slug } = await params;
 
   const [requestDetailCompany] = await Promise.all([
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/AADI`).then((res) =>
-      res.json(),
-    ),
+    fetch(
+      `${process.env.NEXT_PUBLIC_BASE_URL}/api/company/${String(
+        slug
+      ).toUpperCase()}`
+    ).then((res) => res.json()),
   ]);
 
   return (
@@ -29,14 +30,22 @@ export default async function Page(props: Props) {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const slug = (await params).slug;
-  const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
-  const companySelected = _company.find((item) => item.ticker === String(slug));
 
-  const name = companySelected?.name || slug;
-  const ticker = companySelected?.ticker || slug;
+  const [requestDetailCompany] = await Promise.all([
+    fetch(
+      `${process.env.NEXT_PUBLIC_BASE_URL}/api/company/${String(
+        slug
+      ).toUpperCase()}`
+    ).then((res) => res.json()),
+  ]);
+
+  const _company: StockDetailResponse = requestDetailCompany.data;
+
+  const name = _company?.company_name || slug;
+  const ticker = _company?.ticker || slug;
 
   const baseUrl = "https://stockplan.id";
-  const ogImage = `${baseUrl}/api/og/profil-perusahaan?ticker=${ticker}&name=${name}&industry=${companySelected?.industry?.name}&sector=${companySelected?.sector?.name}`;
+  const ogImage = `${baseUrl}/api/og/profil-perusahaan?ticker=${ticker}&name=${name}&industry=${_company?.industry?.name}&sector=${_company?.sector?.name}`;
 
   return {
     title: `Profil Perusahaan ${name} (${ticker}) | Saham, Direksi, Komisaris & Kepemilikan | Stockplan`,

@@ -1,19 +1,21 @@
 "use client";
 import React, { useEffect, useState } from "react";
+import { cn } from "@/lib/utils";
 import { Button } from "./ui/button";
-import { ChevronRight, Search, SearchIcon } from "lucide-react";
+import { useRouter } from "next/navigation";
+import { StockListResponse } from "@/types/stocks";
 import { Kbd, KbdGroup } from "@/components/ui/kbd";
+import { ChevronRight, Search, SearchIcon } from "lucide-react";
 import { Dialog, DialogContent, DialogTrigger } from "./ui/dialog";
 import { InputGroup, InputGroupAddon, InputGroupInput } from "./ui/input-group";
-import { cn } from "@/lib/utils";
-import company from "@/data/archive/company.json";
-import { StockDetail } from "@/types/stocks";
+import company from "@/data/company/company.json";
 import CompanyLogo from "./companyLogo";
-import { useRouter } from "next/navigation";
 
 function Searchbar() {
   const router = useRouter();
-  const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
+  const _company: StockListResponse[] = (
+    company as { data: StockListResponse[] }
+  ).data;
 
   const containerRef = React.useRef<HTMLDivElement>(null);
   const itemRefs = React.useRef<(HTMLDivElement | null)[]>([]);
@@ -25,15 +27,17 @@ function Searchbar() {
   const filtered = React.useMemo(() => {
     const q = query.toLowerCase();
 
-    return _company.filter(
-      (item) =>
-        item.name.toLowerCase().includes(q) ||
-        item.ticker.toLowerCase().includes(q)
-    );
+    return _company.filter((item) => {
+      return (
+        item.company_name.toLowerCase().includes(q) ||
+        item.ticker.toLowerCase().includes(q) ||
+        item.business_field.raw_business.toLowerCase().includes(q)
+      );
+    });
   }, [_company, query]);
 
   const handleSelect = React.useCallback(
-    (item: StockDetail) => {
+    (item: StockListResponse) => {
       setOpen(false);
 
       setTimeout(() => {
@@ -101,7 +105,6 @@ function Searchbar() {
     window.addEventListener("keydown", handleKey);
     return () => window.removeEventListener("keydown", handleKey);
   }, []);
-  
 
   return (
     <Dialog open={open} onOpenChange={setOpen}>
@@ -145,7 +148,10 @@ function Searchbar() {
           </p>
         </div>
 
-        <div ref={containerRef} className="max-h-[400px] min-h-[200px] overflow-y-auto">
+        <div
+          ref={containerRef}
+          className="max-h-[400px] min-h-[200px] overflow-y-auto"
+        >
           {filtered.map((item, index) => {
             const isActive = index === activeIndex;
 
@@ -169,7 +175,7 @@ function Searchbar() {
                 <div className="flex-1 min-w-0">
                   <p className="text-[14px] font-semibold">{item.ticker}</p>
                   <p className="text-[13px] text-muted-foreground truncate">
-                    {item.name}
+                    {item.company_name}
                   </p>
                 </div>
 

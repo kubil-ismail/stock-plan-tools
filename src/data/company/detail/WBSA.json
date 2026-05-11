@@ -95,22 +95,64 @@
   ],
   "shareholders": [
     {
-      "name": "Tiga Beruang Kalifornia Pte. Ltd.",
-      "type": "Saham Pengendali",
+      "name": "Tiga Beruang Kalifornia Pte. Ltd",
+      "type": "Lebih dari 5%",
       "shares": 6853975000,
       "percentage": 79.01
     },
     {
-      "name": "Masyarakat",
+      "name": "Masyarakat Non Warkat",
       "type": "Masyarakat Non Warkat",
       "shares": 1800000000,
       "percentage": 20.75
     },
     {
-      "name": "PT Permata Gandaria Indah",
-      "type": "Saham Non Pengendali",
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
       "shares": 21025000,
       "percentage": 0.24
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andree",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Willson Cuaca",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. M. Jusuf Wibisana, Se. Ak., M.ec",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edwin Wibowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Thomas Wenas",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendri Swabudi Setiawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
     }
   ],
   "subsidiaries": [
@@ -138,8 +180,8 @@
     "mkt_cap": "11.537.750.000.000",
     "total_rev": "",
     "_4_wk_chg": {
-      "value": "477,43",
-      "direction": "+"
+      "value": null,
+      "direction": "="
     },
     "_13_wk_chg": {
       "value": null,
@@ -155,13 +197,13 @@
     },
     "npm": "",
     "mtd": {
-      "value": "1,88",
-      "direction": "-"
+      "value": null,
+      "direction": "="
     },
     "ytd": {
       "value": null,
       "direction": "="
     }
   },
-  "scraped_at": "2026-05-10T14:04:30.365Z"
+  "scraped_at": "2026-05-11T06:57:47.424Z"
 }

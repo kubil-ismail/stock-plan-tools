@@ -1,16 +1,22 @@
 "use client";
-import shareholder from "../../../../public/data/archive/shareholders.json";
 import ShareholderGrid from "@/components/shareholderGrid";
 import { useParams } from "next/navigation";
 import { useMemo, useState } from "react";
 import { formatRupiah, unslugify } from "@/lib/utils";
 import posthog from "posthog-js";
 import Breadcrumbs from "@/components/breadcrumbs";
+import { JSONResponse, ShareholderResponse } from "@/types/stocks";
 
 const INITIAL_LOAD = 102;
 const LOAD_MORE_STEP = 102;
 
-function Kepemilikan_saham_view() {
+interface Props {
+  shareholder: JSONResponse<ShareholderResponse[]>;
+}
+
+function Kepemilikan_saham_view(props: Props) {
+  const { shareholder: _shareholder } = props;
+
   const params = useParams<{ slug: string }>();
   const slug = unslugify(params?.slug ?? "");
 
@@ -18,28 +24,42 @@ function Kepemilikan_saham_view() {
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
 
   const filteredData = useMemo(() => {
-    const keyword = search.toLowerCase().trim();
+    const normalize = (text: string) =>
+      text
+        .toLowerCase()
+        .replace(/[^\w\s]/g, "") // hapus titik, koma, dll
+        .replace(/\s+/g, " ")
+        .trim();
 
-    return shareholder.data
-      .filter((item) => {
-        if (!search) return true;
+    const keyword = normalize(search);
 
-        const matchShareholder = item.shareholder_name
-          .toLowerCase()
-          .includes(keyword);
 
-        const matchTicker = item.companies?.some((c) =>
-          c.ticker.toLowerCase().includes(keyword)
+    return _shareholder?.data
+      ?.filter((item) => {
+        if (!keyword) return true;
+
+        const matchName = normalize(item.name).includes(keyword);
+
+        const matchSlug = normalize(item.slug).includes(keyword);
+
+        const matchTicker = item.companies.some((company) =>
+          normalize(company.ticker).includes(keyword)
         );
 
-        const matchCompany = item.companies?.some((c) =>
-          c.name.toLowerCase().includes(keyword)
+        const matchCompany = item.companies.some((company) =>
+          normalize(company.name).includes(keyword)
         );
 
-        return matchShareholder || matchTicker || matchCompany;
+        const matchKeywords = item.keywords?.some((kw) =>
+          normalize(kw).includes(keyword)
+        );
+
+        return (
+          matchName || matchSlug || matchTicker || matchCompany || matchKeywords
+        );
       })
-      .sort((a, b) => Number(b.total_companies) - Number(a.total_companies));
-  }, [search]);
+      .sort((a, b) => b.total_company - a.total_company);
+  }, [search, _shareholder?.data]);
 
   const visibleData = useMemo(() => {
     return filteredData.slice(0, visibleCount);
@@ -107,7 +127,7 @@ function Kepemilikan_saham_view() {
 
         <div className="grid grid-cols-3 gap-6">
           {visibleData.map((item) => (
-            <ShareholderGrid item={item} key={item.shareholder_name} />
+            <ShareholderGrid item={item} key={item.name} />
           ))}
         </div>
 

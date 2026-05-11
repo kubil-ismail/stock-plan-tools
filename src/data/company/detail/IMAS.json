@@ -210,6 +210,18 @@
       "type": "Direksi",
       "shares": 0,
       "percentage": 0
+    },
+    {
+      "name": "Dewan Komisaris",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Direksi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
     }
   ],
   "subsidiaries": [
@@ -830,30 +842,30 @@
     "mkt_cap": "4.253.919.956.535",
     "total_rev": "",
     "_4_wk_chg": {
-      "value": "3,94",
-      "direction": "+"
+      "value": null,
+      "direction": "="
     },
     "_13_wk_chg": {
-      "value": "1,44",
-      "direction": "+"
+      "value": null,
+      "direction": "="
     },
     "_26_wk_chg": {
-      "value": "8,66",
-      "direction": "-"
+      "value": null,
+      "direction": "="
     },
     "_52_wk_chg": {
-      "value": "15,30",
-      "direction": "+"
+      "value": null,
+      "direction": "="
     },
     "npm": "",
     "mtd": {
-      "value": "2,31",
-      "direction": "-"
+      "value": null,
+      "direction": "="
     },
     "ytd": {
-      "value": "7,46",
-      "direction": "-"
+      "value": null,
+      "direction": "="
     }
   },
-  "scraped_at": "2026-05-10T13:56:11.233Z"
+  "scraped_at": "2026-05-11T06:46:19.137Z"
 }

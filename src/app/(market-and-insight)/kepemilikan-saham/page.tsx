@@ -1,8 +1,14 @@
 import type { Metadata } from "next";
 import Kepemilikan_saham_view from "@/pages/(market-and-insight)/kepemilikan-saham/kepemilikan_saham.view";
 
-export default function Page() {
-  return <Kepemilikan_saham_view />;
+export default async function Page() {
+  const [requestShareholderCompany] = await Promise.all([
+    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/shareholder`).then(
+      (res) => res.json()
+    ),
+  ]);
+
+  return <Kepemilikan_saham_view shareholder={requestShareholderCompany} />;
 }
 
 export const metadata: Metadata = {

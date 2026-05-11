@@ -52,6 +52,7 @@ export const toolsFeatures = [
     link: "watchlist",
     description:
       "Simpan dan pantau saham favorit Anda dalam satu tempat untuk memudahkan memonitor daftar saham yang ingin Anda ikuti.",
+    maintenance: true,
   },
   // {
   //   icon: TrendingDown,
@@ -134,7 +135,17 @@ function Home_View() {
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {marketFeatures.map((feature) => (
-            <Link href={feature.link} key={feature.link} onClick={() => posthog.capture("home_feature_clicked", { feature_title: feature.title, feature_link: feature.link, section: "market_insight" })}>
+            <Link
+              href={feature.link}
+              key={feature.link}
+              onClick={() =>
+                posthog.capture("home_feature_clicked", {
+                  feature_title: feature.title,
+                  feature_link: feature.link,
+                  section: "market_insight",
+                })
+              }
+            >
               <div className="bg-white shadow-md rounded-2xl p-8 border border-[#E5E7EB] hover:border-[#F97316] hover:shadow-lg transition-all cursor-pointer group">
                 <div className="w-14 h-14 bg-[rgba(249,115,22,0.1)] rounded-xl flex items-center justify-center mb-6 group-hover:bg-[#F97316] transition-colors">
                   <feature.icon className="w-7 h-7 text-[#F97316] group-hover:text-white transition-colors" />
@@ -161,25 +172,86 @@ function Home_View() {
           Tools & Simulator
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {toolsFeatures.map((feature) => (
-            <Link href={feature.link} key={feature.link} onClick={() => posthog.capture("home_feature_clicked", { feature_title: feature.title, feature_link: feature.link, section: "tools_simulator" })}>
-              <div className="bg-white shadow-md rounded-2xl p-8 border border-[#E5E7EB] hover:border-[#F97316] hover:shadow-lg transition-all cursor-pointer group">
-                <div className="w-14 h-14 bg-[rgba(249,115,22,0.1)] rounded-xl flex items-center justify-center mb-6 group-hover:bg-[#F97316] transition-colors">
-                  <feature.icon className="w-7 h-7 text-[#F97316] group-hover:text-white transition-colors" />
+          {toolsFeatures.map((feature) => {
+            const CardContent = (
+              <div
+                className={`bg-white shadow-md rounded-2xl p-8 border transition-all group relative overflow-hidden ${
+                  feature.maintenance
+                    ? "border-gray-200 opacity-75"
+                    : "border-[#E5E7EB] hover:border-[#F97316] hover:shadow-lg cursor-pointer"
+                }`}
+              >
+                {/* Maintenance Badge */}
+                {feature.maintenance && (
+                  <div className="absolute top-4 right-4">
+                    <span className="bg-gray-100 text-gray-600 border border-gray-200 text-[10px] font-semibold px-2.5 py-1 rounded-full">
+                      Maintenance
+                    </span>
+                  </div>
+                )}
+
+                <div
+                  className={`w-14 h-14 rounded-xl flex items-center justify-center mb-6 transition-colors ${
+                    feature.maintenance
+                      ? "bg-gray-100"
+                      : "bg-[rgba(249,115,22,0.1)] group-hover:bg-[#F97316]"
+                  }`}
+                >
+                  <feature.icon
+                    className={`w-7 h-7 transition-colors ${
+                      feature.maintenance
+                        ? "text-gray-500"
+                        : "text-[#F97316] group-hover:text-white"
+                    }`}
+                  />
                 </div>
+
                 <h3 className="text-[20px] font-bold text-[#2A2826] mb-3">
                   {feature.title}
                 </h3>
+
                 <p className="text-[14px] text-[#8A8682] leading-relaxed mb-4">
                   {feature.description}
                 </p>
-                <div className="flex items-center gap-2 text-[#F97316] text-[14px] font-bold group-hover:gap-3 transition-all">
-                  <span>Lihat Selengkapnya</span>
-                  <ArrowRight className="w-4 h-4" />
+
+                <div
+                  className={`flex items-center gap-2 text-[14px] font-bold transition-all ${
+                    feature.maintenance
+                      ? "text-gray-500"
+                      : "text-[#F97316] group-hover:gap-3"
+                  }`}
+                >
+                  <span>
+                    {feature.maintenance
+                      ? "Sedang Dalam Perbaikan"
+                      : "Lihat Selengkapnya"}
+                  </span>
+
+                  {!feature.maintenance && <ArrowRight className="w-4 h-4" />}
                 </div>
               </div>
-            </Link>
-          ))}
+            );
+
+            if (feature.maintenance) {
+              return <div key={feature.link}>{CardContent}</div>;
+            }
+
+            return (
+              <Link
+                href={feature.link}
+                key={feature.link}
+                onClick={() =>
+                  posthog.capture("home_feature_clicked", {
+                    feature_title: feature.title,
+                    feature_link: feature.link,
+                    section: "tools_simulator",
+                  })
+                }
+              >
+                {CardContent}
+              </Link>
+            );
+          })}
         </div>
       </section>
 

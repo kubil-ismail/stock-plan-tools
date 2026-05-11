@@ -1,10 +1,16 @@
 import Link from "next/link";
 import CompanyLogo from "./companyLogo";
 import { ArrowRight } from "lucide-react";
-import { StockDetailV2 } from "@/types/stocks";
+import {
+  StockIndustry,
+  StockListResponse,
+  StockSector,
+  StockSubIndustry,
+  StockSubSector,
+} from "@/types/stocks";
 
 interface Props {
-  company: StockDetailV2;
+  company: StockListResponse;
 }
 
 export default function CompanyCard(props: Props) {
@@ -80,7 +86,12 @@ export function IndustryHierarchy({
   company,
   disableLink,
 }: {
-  company: StockDetailV2;
+  company: {
+    sector: StockSector;
+    sub_sector: StockSubSector;
+    industry: StockIndustry;
+    sub_industry: StockSubIndustry;
+  };
   disableLink?: boolean;
 }) {
   const rawItems = [
@@ -92,8 +103,7 @@ export function IndustryHierarchy({
 
   // remove consecutive duplicates
   const items = rawItems.filter(
-    (item: string, index: number) =>
-      index === 0 || item !== rawItems[index - 1],
+    (item: string, index: number) => index === 0 || item !== rawItems[index - 1]
   );
 
   if (items.length === 0) return null;

@@ -3,22 +3,26 @@ import ManagementCard from "@/components/managementCard";
 import SecretaryCard from "@/components/secretaryCard";
 import ShareholderCard from "@/components/shareholderCard";
 import SubsidiarieCard from "@/components/subsidiarieCard";
-import { StockDetail, StockManagement } from "@/types/stocks";
+import {
+  StockDetailResponse,
+  StockManagement,
+  StockDirectors,
+} from "@/types/stocks";
 import { GlassCard } from "@/components/glassCard";
-import { formatUrl, parseNumber, slugify, sortManagement } from "@/lib/utils";
+import { formatUrl, normalizeSlug, parseNumber, slugify, sortManagement } from "@/lib/utils";
 import { format } from "date-fns";
 
 interface Props {
-  selectedCompany: any;
+  selectedCompany: StockDetailResponse;
 }
 
 function Profil_perusahaan_view(props: Props) {
   const { selectedCompany } = props;
 
   const ceo = selectedCompany?.directors.find(
-    (item: StockManagement) =>
-      item.position === "PRESIDEN DIREKTUR" ||
-      item.position === "DIREKTUR UTAMA",
+    (item: StockDirectors) =>
+      item.position.toUpperCase() === "PRESIDEN DIREKTUR" ||
+      item.position.toUpperCase() === "DIREKTUR UTAMA"
   );
 
   const secretary = selectedCompany?.corporate_secretary;
@@ -32,17 +36,17 @@ function Profil_perusahaan_view(props: Props) {
   const shareholders =
     selectedCompany?.shareholders
       .slice()
-      .sort((a, b) => parseNumber(b.total) - parseNumber(a.total)) ?? [];
+      .sort((a, b) => parseNumber(b.shares) - parseNumber(a.shares)) ?? [];
 
   const subsidiaries =
     selectedCompany?.subsidiaries
       .slice()
-      .sort((a, b) => parseNumber(b.asset) - parseNumber(a.asset)) ?? [];
+      .sort((a, b) => parseNumber(b.total_assets) - parseNumber(a.total_assets)) ?? [];
 
   return (
     <GlassCard>
       <h3 className="text-[18px] md:text-[24px] font-semibold text-foreground mb-1 flex items-center gap-2">
-        Tentang {selectedCompany?.name}
+        Tentang {selectedCompany?.company_name}
       </h3>
       <p className="text-[14px] text-muted-foreground mb-6">
         Profil dan manajemen perusahaan
@@ -79,7 +83,7 @@ function Profil_perusahaan_view(props: Props) {
             <p className="text-[14px] text-muted-foreground leading-relaxed">
               {format(
                 selectedCompany?.listing_date ?? new Date(),
-                "d MMMM yyyy",
+                "d MMMM yyyy"
               )}
             </p>
           </div>
@@ -99,7 +103,7 @@ function Profil_perusahaan_view(props: Props) {
               NPWP
             </h4>
             <p className="text-[14px] text-muted-foreground leading-relaxed mb-4">
-              {selectedCompany?.tin}
+              {selectedCompany?.tax_id}
             </p>
 
             <h4 className="text-[16px] font-semibold text-foreground mb-1 capitalize">
@@ -134,7 +138,7 @@ function Profil_perusahaan_view(props: Props) {
           Bisnis Utama
         </h4>
         <p className="text-[14px] text-muted-foreground leading-relaxed">
-          {selectedCompany?.main_business}
+          {selectedCompany?.business_field?.raw_business}
         </p>
       </section>
 
@@ -156,7 +160,10 @@ function Profil_perusahaan_view(props: Props) {
 
         <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
           {managements?.map((item, key) => (
-            <Link href={`/kepemilikan-saham/${slugify(item.name)}`} key={key}>
+            <Link
+              href={`/kepemilikan-saham/${normalizeSlug(item.name)}`}
+              key={key}
+            >
               <ManagementCard item={item} />
             </Link>
           ))}
@@ -170,7 +177,10 @@ function Profil_perusahaan_view(props: Props) {
 
         <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
           {shareholders?.map((item, key) => (
-            <Link href={`/kepemilikan-saham/${slugify(item.name)}`} key={key}>
+            <Link
+              href={`/kepemilikan-saham/${normalizeSlug(item.name)}`}
+              key={key}
+            >
               <ShareholderCard item={item} />
             </Link>
           ))}
