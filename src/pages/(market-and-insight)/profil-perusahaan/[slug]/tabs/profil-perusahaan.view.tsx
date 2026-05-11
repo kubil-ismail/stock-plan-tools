@@ -9,7 +9,13 @@ import {
   StockDirectors,
 } from "@/types/stocks";
 import { GlassCard } from "@/components/glassCard";
-import { formatUrl, normalizeSlug, parseNumber, slugify, sortManagement } from "@/lib/utils";
+import {
+  formatUrl,
+  normalizeSlug,
+  parseNumber,
+  slugify,
+  sortManagement,
+} from "@/lib/utils";
 import { format } from "date-fns";
 
 interface Props {
@@ -35,13 +41,15 @@ function Profil_perusahaan_view(props: Props) {
 
   const shareholders =
     selectedCompany?.shareholders
-      .slice()
-      .sort((a, b) => parseNumber(b.shares) - parseNumber(a.shares)) ?? [];
+      ?.slice()
+      ?.sort((a, b) => parseNumber(b.shares) - parseNumber(a.shares)) ?? [];
 
   const subsidiaries =
     selectedCompany?.subsidiaries
-      .slice()
-      .sort((a, b) => parseNumber(b.total_assets) - parseNumber(a.total_assets)) ?? [];
+      ?.slice()
+      ?.sort(
+        (a, b) => parseNumber(b.total_assets) - parseNumber(a.total_assets)
+      ) ?? [];
 
   return (
     <GlassCard>

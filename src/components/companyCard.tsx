@@ -95,10 +95,10 @@ export function IndustryHierarchy({
   disableLink?: boolean;
 }) {
   const rawItems = [
-    company.sector?.name,
-    company.sub_sector?.name,
-    company.industry?.name,
-    company.sub_industry?.name,
+    company?.sector?.name,
+    company?.sub_sector?.name,
+    company?.industry?.name,
+    company?.sub_industry?.name,
   ].filter(Boolean);
 
   // remove consecutive duplicates

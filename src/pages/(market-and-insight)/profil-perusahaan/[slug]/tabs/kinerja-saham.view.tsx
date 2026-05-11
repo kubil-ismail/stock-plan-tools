@@ -139,52 +139,52 @@ export default function Kinerja_saham_view(props: Props) {
           <Metric
             label="4W Change"
             value={formatDecimal(
-              selectedCompany.technical?._4_wk_chg?.value,
-              selectedCompany.technical?._4_wk_chg?.direction
+              selectedCompany?.technical?._4_wk_chg?.value,
+              selectedCompany?.technical?._4_wk_chg?.direction
             )}
             percentage
           />
           <Metric
             label="13W Change"
             value={formatDecimal(
-              selectedCompany.technical?._13_wk_chg?.value,
-              selectedCompany.technical?._13_wk_chg?.direction
+              selectedCompany?.technical?._13_wk_chg?.value,
+              selectedCompany?.technical?._13_wk_chg?.direction
             )}
             percentage
           />
           <Metric
             label="26W Change"
             value={formatDecimal(
-              selectedCompany.technical?._26_wk_chg?.value,
-              selectedCompany.technical?._26_wk_chg?.direction
+              selectedCompany?.technical?._26_wk_chg?.value,
+              selectedCompany?.technical?._26_wk_chg?.direction
             )}
             percentage
           />
           <Metric
             label="52W Change"
             value={formatDecimal(
-              selectedCompany.technical?._52_wk_chg?.value,
-              selectedCompany.technical?._52_wk_chg?.direction
+              selectedCompany?.technical?._52_wk_chg?.value,
+              selectedCompany?.technical?._52_wk_chg?.direction
             )}
             percentage
           />
           {/* <Metric
             label="NPM %"
-            value={formatDecimal(selectedCompany.technical?.npm)}
+            value={formatDecimal(selectedCompany?.technical?.npm)}
           /> */}
           <Metric
             label="MTD"
             value={formatDecimal(
-              selectedCompany.technical?.mtd?.value,
-              selectedCompany.technical?.mtd?.direction
+              selectedCompany?.technical?.mtd?.value,
+              selectedCompany?.technical?.mtd?.direction
             )}
             percentage
           />
           <Metric
             label="YTD"
             value={formatDecimal(
-              selectedCompany.technical?.ytd?.value,
-              selectedCompany.technical?.ytd?.direction
+              selectedCompany?.technical?.ytd?.value,
+              selectedCompany?.technical?.ytd?.direction
             )}
             percentage
           />

@@ -9,7 +9,7 @@ const BASE_URL = "https://stockplan.id";
 
 const shareholdersData = shareholder as ShareholderResponse[];
 
-const companyData = company.data as StockListResponse[];
+const companyData = company?.data as StockListResponse[];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();

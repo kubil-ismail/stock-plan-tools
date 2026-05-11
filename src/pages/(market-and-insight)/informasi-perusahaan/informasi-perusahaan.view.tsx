@@ -184,7 +184,7 @@ function Informasi_perusahaan_view() {
               </div>
             ) : (
               <>
-                {filter_pemantauan_khusus.map((item, key) => (
+                {filter_pemantauan_khusus?.map((item, key) => (
                   <Notation_card
                     key={key}
                     ticker={item.ticker}
@@ -224,7 +224,7 @@ function Informasi_perusahaan_view() {
                 Tidak ada data aksi korporasi
               </div>
             ) : (
-              filter_calendar.map((item, key) => (
+              filter_calendar?.map((item, key) => (
                 <Calendar_card
                   key={key}
                   ticker={item.ticker}
@@ -244,7 +244,7 @@ function Informasi_perusahaan_view() {
                 Tidak ada data notasi khusus
               </div>
             ) : (
-              filter_pemantauan_khusus.map((item, key) => (
+              filter_pemantauan_khusus?.map((item, key) => (
                 <Notation_card
                   key={key}
                   ticker={item.ticker}
