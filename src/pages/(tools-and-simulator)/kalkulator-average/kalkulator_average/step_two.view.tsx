@@ -1,3 +1,4 @@
+"use client";
 import { Button } from "@/components/ui/button";
 import { formatRupiah } from "@/lib/utils";
 import {
@@ -10,7 +11,7 @@ import {
 
 import { ResultData } from "../kalkulator_avarage.view";
 import { InfoButton } from "@/components/tooltip";
-
+import { useEffect } from "react";
 
 interface Props {
   result: ResultData;
@@ -22,7 +23,12 @@ function Step_two_view(props: Props) {
 
   const isAverageDown = (result?.percentChange ?? 0) < 0;
 
-  const avgDifference = Math.abs((result?.oldAvg ?? 0) - (result?.newAvg ?? 0));
+  useEffect(() => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  }, []);
 
   return (
     <>
@@ -295,4 +301,3 @@ function Step_two_view(props: Props) {
 }
 
 export default Step_two_view;
-
