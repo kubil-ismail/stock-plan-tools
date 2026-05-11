@@ -6,6 +6,7 @@ import { formatRupiah, unslugify } from "@/lib/utils";
 import posthog from "posthog-js";
 import Breadcrumbs from "@/components/breadcrumbs";
 import { JSONResponse, ShareholderResponse } from "@/types/stocks";
+import { Search } from "lucide-react";
 
 const INITIAL_LOAD = 102;
 const LOAD_MORE_STEP = 102;
@@ -118,8 +119,9 @@ function Kepemilikan_saham_view(props: Props) {
 
           <div className="flex items-center mb-6 mt-3 px-2">
             <p className="text-[14px] text-right text-gray-500">
-              Menampilkan {formatRupiah(filteredData?.length, { prefix: false })}{" "}
-              data kepemilikan
+              Menampilkan{" "}
+              {formatRupiah(filteredData?.length, { prefix: false })} data
+              kepemilikan
             </p>
           </div>
         </div>
@@ -129,6 +131,24 @@ function Kepemilikan_saham_view(props: Props) {
             <ShareholderGrid item={item} key={item.name} />
           ))}
         </div>
+
+        {Boolean(visibleData.length === 0) && (
+          <div className="col-span-full border border-dashed rounded-xl p-6 text-center text-sm text-muted-foreground">
+            <div className="py-12 text-center">
+              <div className="w-16 h-16 rounded-2xl bg-muted/30 flex items-center justify-center mx-auto mb-4">
+                <Search className="w-8 h-8 text-muted-foreground" />
+              </div>
+
+              <p className="text-[16px] font-medium text-foreground mb-1">
+                Informasi perusahaan tidak ditemukan
+              </p>
+
+              <p className="text-[14px] text-muted-foreground">
+                Coba cari menggunakan kode saham atau nama perusahaan lain
+              </p>
+            </div>
+          </div>
+        )}
 
         {hasMore && (
           <div className="flex justify-center mt-10">

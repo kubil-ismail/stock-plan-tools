@@ -196,11 +196,13 @@ function Searchbar() {
               <div className="w-16 h-16 rounded-2xl bg-muted/30 flex items-center justify-center mx-auto mb-4">
                 <Search className="w-8 h-8 text-muted-foreground" />
               </div>
+
               <p className="text-[16px] font-medium text-foreground mb-1">
-                No stocks found
+                Perusahaan tidak ditemukan
               </p>
+
               <p className="text-[14px] text-muted-foreground">
-                Try searching by stock code or company name
+                Coba cari menggunakan kode saham atau nama perusahaan
               </p>
             </div>
           )}
