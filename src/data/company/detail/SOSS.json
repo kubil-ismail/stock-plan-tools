@@ -1,0 +1,249 @@
+{
+  "company_name": "PT Shield On Service Tbk.",
+  "ticker": "SOSS",
+  "office_address": "Graha Dinamika, Lantai 3 Jl. Tanah Abang II No. 49-51 Jakarta Pusat 10160, Indonesia",
+  "email": "corporate.secretary@alsok.co.id",
+  "phone": "+62 21 350 5915",
+  "fax": "+62 21 350 5913",
+  "tax_id": "02.361.551.1-073.000",
+  "website": "https://www.alsok.co.id/id",
+  "listing_date": "2018-11-06",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Penyedia alih daya, yaitu jasa keamanan, jasa kebersihan, jasa sumber daya manusia, jasa manajemen parkir.",
+    "business_summary": "Perusahaan bergerak di bidang Jasa Personalia.",
+    "business_tags": [
+      "Jasa Personalia"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 15,
+    "name": "Jasa Profesional"
+  },
+  "sub_industry": {
+    "id": 31,
+    "name": "Jasa Personalia",
+    "industries_id": 15
+  },
+  "corporate_secretary": {
+    "name": "Putri Helliyanti",
+    "email": "corporate.secretary@sos.co.id",
+    "phone": "+6221 3983 4515"
+  },
+  "directors": [
+    {
+      "name": "Yoshinobu Nagao",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Akira Kawamura",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jun Taguchi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Djono Karjadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Motohisa Suzuki",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Maya Osaki",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Ramaputra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Azusa Mihara",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Supratman Gunawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Azusa Mihara",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fransiska Wan Wan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Achmad Andru Desember",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Alsok Co., Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 843390835,
+      "percentage": 86.54
+    },
+    {
+      "name": "PT Puragraha Dian Pertiwi",
+      "type": "Lebih dari 5%",
+      "shares": 100000000,
+      "percentage": 10.26
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 25258031,
+      "percentage": 2.6
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5876877,
+      "percentage": 0.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Human Resources Provider",
+      "business_type": "Jasa Sumber Daya Manusia",
+      "total_assets": 204169896880,
+      "ownership_percentage": 51.52
+    },
+    {
+      "name": "PT The Service Line",
+      "business_type": "Jasa Kebersihan",
+      "total_assets": 87762727114,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Professional Human Resources",
+      "business_type": "Jasa Sumber Daya Manusia",
+      "total_assets": 24310597670,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Master Parking Indonesia",
+      "business_type": "Jasa Parkir",
+      "total_assets": 20524867608,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Safe Secured Solution",
+      "business_type": "Jasa Sumber Daya Manusia",
+      "total_assets": 8609191954,
+      "ownership_percentage": 99.47
+    },
+    {
+      "name": "PT Sos Indonesia",
+      "business_type": "Jasa Manajemen Lainnya",
+      "total_assets": 6443807913,
+      "ownership_percentage": 99.97
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "784.493.223.115",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:27.161Z"
+}

@@ -1,0 +1,792 @@
+{
+  "company_name": "PT Medikaloka Hermina Tbk.",
+  "ticker": "HEAL",
+  "office_address": "Jalan Raya Jatinegara Barat No. 126 Jakarta Timur 13320",
+  "email": "corporate.secretary@herminahospitals.com",
+  "phone": "021 - 8572525",
+  "fax": "021 - 8560601",
+  "tax_id": "01.920.115.1-007.000",
+  "website": "https://www.herminahospitals.com",
+  "listing_date": "2018-05-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas Rumah Sakit Swasta",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Drg.iing Ichsan Hanafi",
+    "email": "corporate.secretary@herminahospitals.com",
+    "phone": "021 - 39702255"
+  },
+  "directors": [
+    {
+      "name": "Yulisar Khiat",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Suryanti Gunadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Susi Setyawati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heridadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adia Susanti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yustinus Immanuel Herawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hasmoro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Binsar Parasian Simorangkir",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Husen Sutakaria",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Meijani Wibowo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gidion Hasan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Amit Varma",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander Steven Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": false
+    },
+    {
+      "name": "Kumala Insiwi Suryo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Iswan Kosasih",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alexander Rusli",
+      "position": "Ketua"
+    },
+    {
+      "name": "Haryanto Sahari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Myrnie Zachraini Tamin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8093707696,
+      "percentage": 52.685
+    },
+    {
+      "name": "PT Astra Healthcare Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1990651300,
+      "percentage": 12.95
+    },
+    {
+      "name": "PT Astra International Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1110824000,
+      "percentage": 7.23
+    },
+    {
+      "name": "Yulisar Khiat",
+      "type": "Direksi",
+      "shares": 986829166,
+      "percentage": 6.42
+    },
+    {
+      "name": "Lydia Immanuel",
+      "type": "Lebih dari 5%",
+      "shares": 855082000,
+      "percentage": 5.56
+    },
+    {
+      "name": "Dr. Binsar Parasian Simorangkir",
+      "type": "Direksi",
+      "shares": 789863411,
+      "percentage": 5.14
+    },
+    {
+      "name": "Dr. Hasmoro",
+      "type": "Direksi",
+      "shares": 756718089,
+      "percentage": 4.92
+    },
+    {
+      "name": "Dr. Husen Sutakaria",
+      "type": "Komisaris",
+      "shares": 379246696,
+      "percentage": 2.47
+    },
+    {
+      "name": "Meijani Wibowo",
+      "type": "Komisaris",
+      "shares": 303181367,
+      "percentage": 1.97
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 94542100,
+      "percentage": 0.62
+    },
+    {
+      "name": "Dr. Tan Suryanti Gunadi",
+      "type": "Direksi",
+      "shares": 4604400,
+      "percentage": 0.03
+    },
+    {
+      "name": "Drg. Susi Setyawati",
+      "type": "Direksi",
+      "shares": 699775,
+      "percentage": 0.005
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Medikaloka Sejahtera (m Sejahtera)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 677171,
+      "ownership_percentage": 74.5
+    },
+    {
+      "name": "PT Medikaloka Internusa (m Internusa)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 379115,
+      "ownership_percentage": 70.5
+    },
+    {
+      "name": "PT Medikaloka Husada (m Husada)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 339739,
+      "ownership_percentage": 80.75
+    },
+    {
+      "name": "PT Medikaloka Grand Bekasi (m Grand Bekasi)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 293970,
+      "ownership_percentage": 63.75
+    },
+    {
+      "name": "PT Medikaloka Pasteur (m Pasteur)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 287561,
+      "ownership_percentage": 60.25
+    },
+    {
+      "name": "PT Medikaloka Pandanaran (m Pandanaran)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 275511,
+      "ownership_percentage": 59.62
+    },
+    {
+      "name": "PT Medikaloka Daan Mogot (m Daan Mogot)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 272471,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Medikaloka Arcamanik (m Arcamanik)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 257620,
+      "ownership_percentage": 63
+    },
+    {
+      "name": "PT Medikaloka Bogor (m Bogor)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 250476,
+      "ownership_percentage": 85.25
+    },
+    {
+      "name": "PT Medikaloka Tangerang (m Tangerang)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 214816,
+      "ownership_percentage": 22.25
+    },
+    {
+      "name": "PT Medikaloka Palembang (m Palembang)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 213765,
+      "ownership_percentage": 78.25
+    },
+    {
+      "name": "PT Medikaloka Cileungsi (m Cileungsi)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 209430,
+      "ownership_percentage": 70.75
+    },
+    {
+      "name": "PT Medika Loka Padang (m Padang)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 205849,
+      "ownership_percentage": 70.5
+    },
+    {
+      "name": "PT Medikaloka Ciputat (m Ciputat)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 201922,
+      "ownership_percentage": 28.25
+    },
+    {
+      "name": "PT Medika Loka Podomoro (m Podomoro)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 190793,
+      "ownership_percentage": 76.25
+    },
+    {
+      "name": "PT Medikaloka Malang (m Malang)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 187050,
+      "ownership_percentage": 67
+    },
+    {
+      "name": "PT Medika Loka Samarinda (m Samarinda)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 185107,
+      "ownership_percentage": 83.5
+    },
+    {
+      "name": "PT Medika Loka Ciruas (m Ciruas)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 176013,
+      "ownership_percentage": 67.7
+    },
+    {
+      "name": "PT Medikaloka Galaxy (m Galaxy)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 173517,
+      "ownership_percentage": 5
+    },
+    {
+      "name": "PT Medika Loka Soreang (m Soreang)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 173142,
+      "ownership_percentage": 79.5
+    },
+    {
+      "name": "PT Medika Loka Jakabaring (m Jakabaring)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 170184,
+      "ownership_percentage": 78
+    },
+    {
+      "name": "PT Medikaloka Serpong (m Serpong)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 169824,
+      "ownership_percentage": 60.5
+    },
+    {
+      "name": "PT Medika Loka Medan (m Medan)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 166639,
+      "ownership_percentage": 71.5
+    },
+    {
+      "name": "PT Medika Loka Medan (m Medan)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 166639,
+      "ownership_percentage": 71.5
+    },
+    {
+      "name": "PT Medika Loka Makassar (m Makassar)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 165275,
+      "ownership_percentage": 57.5
+    },
+    {
+      "name": "PT Medika Loka Karawang (m Karawang)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 162673,
+      "ownership_percentage": 77.25
+    },
+    {
+      "name": "PT Medika Loka Balikpapan (m Balikpapan)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 157029,
+      "ownership_percentage": 62
+    },
+    {
+      "name": "PT Medika Loka Ciawi (m Ciawi)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 155353,
+      "ownership_percentage": 79.79
+    },
+    {
+      "name": "PT Medika Loka Madiun (m Madiun)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 154740,
+      "ownership_percentage": 97.62
+    },
+    {
+      "name": "PT Medika Loka Cibitung (m Cibitung)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 154646,
+      "ownership_percentage": 86.75
+    },
+    {
+      "name": "PT Medika Loka Cilegon (m Cilegon)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 152931,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Medika Loka Investama (m Investama)",
+      "business_type": "Jasa & Perdagangan",
+      "total_assets": 152440,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Medikaloka Sukabumi (m Sukabumi)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 145024,
+      "ownership_percentage": 18
+    },
+    {
+      "name": "PT Medika Loka Kendari (m Kendari)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 143838,
+      "ownership_percentage": 80.5
+    },
+    {
+      "name": "PT Medikaloka Banyumanik (m Banyumanik)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 142032,
+      "ownership_percentage": 68.5
+    },
+    {
+      "name": "PT Medika Loka Lampung (m Lampung)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 139423,
+      "ownership_percentage": 66.5
+    },
+    {
+      "name": "PT Medika Loka Tasikmalaya (m Tasikmalaya)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 138085,
+      "ownership_percentage": 86.75
+    },
+    {
+      "name": "PT Medika Loka Pasuruan",
+      "business_type": "Rumah Sakit",
+      "total_assets": 136753,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medika Loka Wonogiri (m Wonogiri)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 133367,
+      "ownership_percentage": 97.25
+    },
+    {
+      "name": "PT Medika Loka Aceh (m Aceh)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 126236,
+      "ownership_percentage": 84.27
+    },
+    {
+      "name": "PT Medika Loka Purwokerto (m Purwokerto)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 123101,
+      "ownership_percentage": 66.85
+    },
+    {
+      "name": "PT Medika Loka Ciledug (m Ciledug)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 122265,
+      "ownership_percentage": 72.45
+    },
+    {
+      "name": "PT Medika Loka Kutabumi (m Kutabumi)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 120868,
+      "ownership_percentage": 89.5
+    },
+    {
+      "name": "PT Medika Loka Bitung (m Bitung)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 116453,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Medika Loka Manajemen",
+      "business_type": "Jasa Manajemen dan Konsultasi",
+      "total_assets": 112381,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medika Loka Pekanbaru (m Pekanbaru)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 112128,
+      "ownership_percentage": 79.75
+    },
+    {
+      "name": "PT Medika Loka Manado (m Manado)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 110205,
+      "ownership_percentage": 88.5
+    },
+    {
+      "name": "PT Medika Loka Pik Dua (m Pik Dua)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 107136,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medika Loka Yogya (m Yogya)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 101649,
+      "ownership_percentage": 59
+    },
+    {
+      "name": "PT Medika Loka Denpasar (m Denpasar)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 99907,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medika Loka Pekalongan (m Pekalongan)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 77051,
+      "ownership_percentage": 84.27
+    },
+    {
+      "name": "PT Medika Loka Salatiga (m Salatiga)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 75049,
+      "ownership_percentage": 94.54
+    },
+    {
+      "name": "PT Medika Loka Pendidikan Pelatihan (m Pendidikan)",
+      "business_type": "Jasa Pendidikan",
+      "total_assets": 59028,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikaloka Mitra Solo (mm Solo)",
+      "business_type": "Investasi",
+      "total_assets": 30120,
+      "ownership_percentage": 56.36
+    },
+    {
+      "name": "PT Medikaloka Mitra Cileungsi (mm Cileungsi)",
+      "business_type": "Investasi",
+      "total_assets": 29308,
+      "ownership_percentage": 61.54
+    },
+    {
+      "name": "PT Andini Rumbai (a Rumbai)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 25576,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medika Loka Ambon (m Ambon)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 25303,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikaloka Mitra Ciputat (mm Ciputat)",
+      "business_type": "Investasi",
+      "total_assets": 20496,
+      "ownership_percentage": 70.05
+    },
+    {
+      "name": "PT Medikaloka Mitra Grand Bekasi (mm Grand Bekasi)",
+      "business_type": "Investasi",
+      "total_assets": 18066,
+      "ownership_percentage": 69.02
+    },
+    {
+      "name": "PT Medika Loka Mitra Farmasi (mm Farmasi)",
+      "business_type": "Jasa & Perdagangan",
+      "total_assets": 12435,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikaloka Mitra Galaxy (mm Galaxy)",
+      "business_type": "Investasi",
+      "total_assets": 11116,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Medika Loka Kupang (m Kupang)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 989,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medika Loka Surabaya (m Surabaya)",
+      "business_type": "Rumah Sakit",
+      "total_assets": 900,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikaloka Mitra Arcamanik (mm Arcamanik)",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Medikaloka Mitra Banyumanik (mm Banyumanik)",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Medikaloka Mitra Palembang (mm Palembang)",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Medikaloka Mitra Pandanaran (mm Pandanaran)",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Medikaloka Mitra Pasteur (mm Pasteur)",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Medikaloka Mitra Serpong (mm Serpong)",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Medikaloka Mitra Sukabumi (mm Sukabumi)",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    },
+    {
+      "name": "PT Medikaloka Mitra Tangerang (mm Tangerang)",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "17.670.842.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:31.360Z"
+}

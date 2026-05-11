@@ -1,0 +1,258 @@
+{
+  "company_name": "PT Kota Satu Properti Tbk.",
+  "ticker": "SATU",
+  "office_address": "Jl. MT Haryono, Club House Amaya Home Resort Ungaran - Kabupaten Semarang 50511",
+  "email": "corsec@kotasatuproperti.com",
+  "phone": "+62 24 7690 1735; +62 24 7690 1000",
+  "fax": "+62 24 7690 1749",
+  "tax_id": "0316 0620 5850 5001",
+  "website": "https://www.kotasatuproperti.com",
+  "listing_date": "2018-11-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Properti & Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Satriyo Adi Anindito",
+    "email": "corsec.kotasatu@gmail.com",
+    "phone": "+624 8311 001"
+  },
+  "directors": [
+    {
+      "name": "Momog Irnawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Leo Agung Vito Wicaksana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Arief Sugiyo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ibnu Dody Prayitno",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ibnu Dody Prayitno",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yanita Kurniadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Alexander Eko Nugroho",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kota Satu Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 456250000,
+      "percentage": 33.18
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 250809600,
+      "percentage": 18.24
+    },
+    {
+      "name": "Raden Yohanes Kristian Hardianto",
+      "type": "Lebih dari 5%",
+      "shares": 238502400,
+      "percentage": 17.35
+    },
+    {
+      "name": "Leo Agung Vito Wicaksana",
+      "type": "Direksi",
+      "shares": 161048400,
+      "percentage": 11.71
+    },
+    {
+      "name": "Anton Stefian Dwi Kristanto",
+      "type": "Lebih dari 5%",
+      "shares": 137500000,
+      "percentage": 10
+    },
+    {
+      "name": "Nyauw Farida Ak",
+      "type": "Lebih dari 5%",
+      "shares": 129689600,
+      "percentage": 9.43
+    },
+    {
+      "name": "Arief Sugiyo",
+      "type": "Komisaris",
+      "shares": 1200000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ibnu Dody Prayitno",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Momog Irnawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kota Satu Pratama",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Agrobisnis, Percetakan, Perbengkelan, dan Jasa, Kecuali Jasa dalam Bidang Hukum dan Pajak",
+      "total_assets": 67617,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kota Satu Persada",
+      "business_type": "Penyediaan Akomodasi Berupa Hotel dan Pelayanan Penginapan yang Dilengkapi dengan Pelayanan Pariwisata Lainnya yang Digunakan untuk Tujuan Pariwisata",
+      "total_assets": 67068,
+      "ownership_percentage": 16.67
+    },
+    {
+      "name": "PT Kota Satu Manajemen",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Agrobisnis, Percetakan, Perbengkelan, Jasa, Kecuali Jasa dalam Bidang Hukum dan Pajak",
+      "total_assets": 3978,
+      "ownership_percentage": 99.68
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Arief Jauhari"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Arief Jauhari"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Arief Jauhari"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Arief Jauhari"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Arief Jauhari"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Kap Arief Jauhari"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Kap Arief Jauhari"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "365.750.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:19.310Z"
+}

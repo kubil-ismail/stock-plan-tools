@@ -1,0 +1,190 @@
+{
+  "company_name": "PT Asuransi Digital Bersama Tbk",
+  "ticker": "YOII",
+  "office_address": "Gedung Tamansari Parama Lt. 9 Jl. Wahid Hasyim Kav. 84-88 Jakarta 10340",
+  "email": "corsec@adbinsure.com",
+  "phone": "+62 21 2234 6065",
+  "fax": "+62 21 2234 6065",
+  "tax_id": "",
+  "website": "https://www.adbinsure.com",
+  "listing_date": "2025-01-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Asuransi Umum Konvensional",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Muhammad Rahmat Dwiyanto",
+    "email": "corsec@adbinsure.com",
+    "phone": "+62 21 2234 6065"
+  },
+  "directors": [
+    {
+      "name": "Adi Wibowo Adisaputro",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Randy Tandra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Sofi Suryasnia",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dwijawanti Widiatmadja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Banua P. Sianturi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Achmad Hadad Rauf",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Achmad Hadad Rauf",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ended Suryadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Drs. Gatot Widodo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Adi Wibowo Adisaputro",
+      "type": "Direksi",
+      "shares": 1448710000,
+      "percentage": 42.3
+    },
+    {
+      "name": "Djajus Adisaputro",
+      "type": "Lebih dari 5%",
+      "shares": 934110000,
+      "percentage": 27.28
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 763307300,
+      "percentage": 22.28
+    },
+    {
+      "name": "Dapen Bpd Jateng",
+      "type": "Lebih dari 5%",
+      "shares": 235870200,
+      "percentage": 6.89
+    },
+    {
+      "name": "Dwijawanti Widiatmadja",
+      "type": "Komisaris",
+      "shares": 42690000,
+      "percentage": 1.25
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "332.194.687.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:12.141Z"
+}

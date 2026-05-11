@@ -1,0 +1,222 @@
+{
+  "company_name": "PT Nippon Indosari Corpindo Tbk",
+  "ticker": "ROTI",
+  "office_address": "Kawasan Industri Mm2100, Jl. Selayar, A9, Mekarwangi, Cikarang Barat, Kab. Bekasi, Jawa Barat, 17530",
+  "email": "corporate.secretary@sariroti.com",
+  "phone": "021- 89983876, 89844953",
+  "fax": "021- 89844955",
+  "tax_id": "0010709962054000",
+  "website": "https://www.sariroti.com",
+  "listing_date": "2010-06-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Makanan dan Minuman",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Sri Mulyana",
+    "email": "corporate.secretary@sariroti.com",
+    "phone": "021-89983876"
+  },
+  "directors": [
+    {
+      "name": "Wendy Sui Cheng Yap",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arlina Sofia",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indrayana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arief Alfanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Victor Nesa Benedict",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Benny Setiawan Santoso",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jaka Prasetya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sik Wei Tjien",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rini Trisna",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anand Kumar",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rini Trisna",
+      "position": "Ketua"
+    },
+    {
+      "name": "Samsul Erni",
+      "position": "Anggota"
+    },
+    {
+      "name": "Antonius Bayu Purnama Irawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Indoritel Makmur Internasional Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1594467000,
+      "percentage": 25.77
+    },
+    {
+      "name": "Demeter Indo Investment Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 1370798546,
+      "percentage": 22.16
+    },
+    {
+      "name": "Bonlight Investment Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1285984899,
+      "percentage": 20.79
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 564213400,
+      "percentage": 9.12
+    },
+    {
+      "name": "Pasco Shikishima Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 525864777,
+      "percentage": 8.5
+    },
+    {
+      "name": "Masyarakat (publik)",
+      "type": "Lebih dari 5%",
+      "shares": 470126566,
+      "percentage": 7.6
+    },
+    {
+      "name": "Lief Holdings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 375033700,
+      "percentage": 6.06
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indosari Niaga Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 147957943331,
+      "ownership_percentage": 99.88
+    },
+    {
+      "name": "PT Javasari Mitra Prima",
+      "business_type": "Industri",
+      "total_assets": 15122306421,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.990.285.332.760",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:05.467Z"
+}

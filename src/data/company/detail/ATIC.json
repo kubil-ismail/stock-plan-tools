@@ -1,0 +1,284 @@
+{
+  "company_name": "PT Anabatic Technologies Tbk",
+  "ticker": "ATIC",
+  "office_address": "Graha Bip Lantai 7jl. Jend. Gatot Subroto Kav. 23 Jakarta",
+  "email": "corporate.secretary@anabatic.com",
+  "phone": "021-5229909",
+  "fax": "021-5229777",
+  "tax_id": "0",
+  "website": "https://www.anabatic.com",
+  "listing_date": "2015-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Sistem Integrasi Teknologi Informasi yang terdiri dari solusi sistem integrasi, layanan business process outsourcing, layanan teknologi informasi outsourcing, dan distribusi dan bisnis pendukungnya",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Properti.",
+    "business_tags": [
+      "Teknologi",
+      "Properti"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Camelia Suryana Bong",
+    "email": "corporate.secretary@anabatic.com",
+    "phone": "021-5229909"
+  },
+  "directors": [
+    {
+      "name": "Hideaki Ohashi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rieko Kawaguchi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harry Surjanto Hambali",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lie David Limina",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adriansyah Adnan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ignasius Jonan",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius Agus Susanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Josaku Yanai",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yonathan Agustine",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ignasius Jonan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Putri Timur",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Tis Inc",
+      "type": "Lebih dari 5%",
+      "shares": 863645841,
+      "percentage": 37.3007
+    },
+    {
+      "name": "PT Artha Investama Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 664387148,
+      "percentage": 28.6947
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 248377235,
+      "percentage": 10.7273
+    },
+    {
+      "name": "Handoko Anindya Tanuadji",
+      "type": "Lebih dari 5%",
+      "shares": 238741323,
+      "percentage": 10.3112
+    },
+    {
+      "name": "PT Sam Investama",
+      "type": "Lebih dari 5%",
+      "shares": 120000287,
+      "percentage": 5.1828
+    },
+    {
+      "name": "Flaminggo Mandiri PT",
+      "type": "Lebih dari 5%",
+      "shares": 55906430,
+      "percentage": 2.4146
+    },
+    {
+      "name": "Harry Surjanto Hambali",
+      "type": "Direksi",
+      "shares": 47181967,
+      "percentage": 2.0378
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 35451980,
+      "percentage": 1.5312
+    },
+    {
+      "name": "Rosy Merianti Tanuadji",
+      "type": "Lebih dari 5%",
+      "shares": 28226026,
+      "percentage": 1.2191
+    },
+    {
+      "name": "Lie David Limina",
+      "type": "Direksi",
+      "shares": 13222318,
+      "percentage": 0.5711
+    },
+    {
+      "name": "Antonius Agus Susanto",
+      "type": "Komisaris",
+      "shares": 152400,
+      "percentage": 0.0065
+    },
+    {
+      "name": "Adriansyah Adnan",
+      "type": "Direksi",
+      "shares": 68400,
+      "percentage": 0.003
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Computrade Technology Intenational (cti)",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 847941,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karyaputra Suryagemilang (kpsg)",
+      "business_type": "Jasa Alih Daya",
+      "total_assets": 337096,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Puri Amani Mulia (pam)",
+      "business_type": "Properti",
+      "total_assets": 113151,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Emporia Digital Raya (edr)",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 43239,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dunia Kerja Indonesia (dki)",
+      "business_type": "Jasa Pengelolaan Gedung",
+      "total_assets": 8123,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anabatic Digital Raya (adr)",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 4274,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.261.871.938.475",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:41:02.242Z"
+}

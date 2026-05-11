@@ -1,0 +1,514 @@
+{
+  "company_name": "PT Perusahaan Gas Negara (persero) Tbk",
+  "ticker": "PGAS",
+  "office_address": "Jl. Kh. Zainul Arifin No. 20 Jakarta 11140",
+  "email": "pgn.investorrelation@pertamina.com",
+  "phone": "021-6334838",
+  "fax": "021-6333080",
+  "tax_id": "01.000.051.1-051.000",
+  "website": "https://www.pgn.co.id",
+  "listing_date": "2003-12-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Distribusi dan Transmisi Gas Bumi",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Properti, Energi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Properti",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Fajriyah Usman",
+    "email": "fajriyah.usman@pertamina.com",
+    "phone": "021-6334838"
+  },
+  "directors": [
+    {
+      "name": "Arief Kurnia Risdianto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hery Murahmanta",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Catur Dermawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Aldiansyah Idham",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rachmat Hutama",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mirza Mahendra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eri Surya Kelana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tony Setia Boedi Hoesodo",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rambe Kamarulzaman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Conny Lolyta Rumondor",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Widjono Hardjanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Edward Omar Sharif Hiariej",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Thanon Aria Dewangga",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Conny Lolyta Rumondor",
+      "position": "Ketua"
+    },
+    {
+      "name": "Widjono Hardjanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Widya Perwitasari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Handono Ishardyatmo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Erwin Miftah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pertamina (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 13809038755,
+      "percentage": 56.964
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 10432205440,
+      "percentage": 43.035
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 131500,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rachmat Hutama",
+      "type": "Direksi",
+      "shares": 2500,
+      "percentage": 0
+    },
+    {
+      "name": "Arief Kurnia Risdianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tony Setia Boedi Hoesodo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hery Murahmanta",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mirza Mahendra",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0
+    },
+    {
+      "name": "Catur Dermawan",
+      "type": "Direksi",
+      "shares": 20000,
+      "percentage": 0
+    },
+    {
+      "name": "Aldiansyah Idham",
+      "type": "Direksi",
+      "shares": 60000,
+      "percentage": 0
+    },
+    {
+      "name": "Eri Surya Kelana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edward Omar Sharif Hiariej",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rambe Kamarulzaman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Thanon Aria Dewangga",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Conny Lolyta Rumondor",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Widjono Hardjanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pertamina Gas",
+      "business_type": "Niaga Gas Bumi",
+      "total_assets": 2428,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Pertamina Gas",
+      "business_type": "Niaga Gas Bumi",
+      "total_assets": 2389,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Pertamina Gas",
+      "business_type": "Niaga Gas Bumi",
+      "total_assets": 2387,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Pertamina Gas",
+      "business_type": "Distribusi Minyak dan Gas",
+      "total_assets": 2365,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Pertamina Gas",
+      "business_type": "Distribusi Minyak dan Gas",
+      "total_assets": 2226,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Saka Energi Indonesia",
+      "business_type": "Hulu Minyak dan Gas Bumi",
+      "total_assets": 1695,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saka Energi Indonesia",
+      "business_type": "Hulu Minyak dan Gas Bumi",
+      "total_assets": 1434,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saka Energi Indonesia",
+      "business_type": "Hulu Minyak dan Gas Bumi",
+      "total_assets": 1420,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saka Energi Indonesia",
+      "business_type": "Eksplorasi dan Produksi Minyak dan Gas Bumi",
+      "total_assets": 1247,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saka Energi Indonesia",
+      "business_type": "Eksplorasi dan Produksi Minyak dan Gas Bumi",
+      "total_assets": 1244,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pgn Lng Indonesia (pli)",
+      "business_type": "Pengolahan Minyak dan Gas Bumi",
+      "total_assets": 752,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pgn Lng Indonesia (pli)",
+      "business_type": "Pengolahan Minyak dan Gas Bumi",
+      "total_assets": 617,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pgn Lng Indonesia",
+      "business_type": "Pengolahan Liquefied Natural Gas",
+      "total_assets": 614,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pgn Lng Indonesia (pli)",
+      "business_type": "Pengolahan Minyak dan Gas Bumi",
+      "total_assets": 613,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pgn Lng Indonesia",
+      "business_type": "Pengolahan Liquefied Natural Gas",
+      "total_assets": 610,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pgas Solution",
+      "business_type": "Konstruksi",
+      "total_assets": 129,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Pgas Solution",
+      "business_type": "Konstruksi",
+      "total_assets": 129,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Pgas Solution",
+      "business_type": "Konstruksi",
+      "total_assets": 113,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Pgas Solution",
+      "business_type": "Konstruksi",
+      "total_assets": 112,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Pgas Solution",
+      "business_type": "Konstruksi",
+      "total_assets": 110,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Permata Graha Nusantara",
+      "business_type": "Properti dan Jasa",
+      "total_assets": 95,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Graha Nusantara",
+      "business_type": "Properti dan Jasa",
+      "total_assets": 93,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Graha Nusantara",
+      "business_type": "Properti dan Jasa",
+      "total_assets": 92,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gagas Energi Indonesia",
+      "business_type": "Niaga Gas Bumi",
+      "total_assets": 81,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gagas Energi Indonesia",
+      "business_type": "Hilir Minyak dan Gas Bumi",
+      "total_assets": 76,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gagas Energi Indonesia",
+      "business_type": "Hilir Minyak dan Gas Bumi",
+      "total_assets": 75,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Graha Nusantara",
+      "business_type": "Pengelolaan dan Penyewaan Gedung dan Peralatan",
+      "total_assets": 74,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gagas Energi Indonesia",
+      "business_type": "Hilir Minyak dan Gas Bumi",
+      "total_assets": 73,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gagas Energi Indonesia",
+      "business_type": "Niaga Gas Bumi",
+      "total_assets": 73,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Graha Nusantara",
+      "business_type": "Pengelolaan dan Penyewaan Gedung dan Peralatan",
+      "total_assets": 68,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pgas Telekomunikasi Nusantara",
+      "business_type": "Telekomunikasi",
+      "total_assets": 48,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Pgas Telekomunikasi Nusantara",
+      "business_type": "Telekomunikasi",
+      "total_assets": 44,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Pgas Telekomunikasi Nusantara",
+      "business_type": "Telekomunikasi",
+      "total_assets": 43,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Pgas Telekomunikasi Nusantara",
+      "business_type": "Telekomunikasi",
+      "total_assets": 41,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Pgas Telekomunikasi Nusantara",
+      "business_type": "Telekomunikasi",
+      "total_assets": 40,
+      "ownership_percentage": 99.93
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "47.028.525.900.240",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:03.962Z"
+}

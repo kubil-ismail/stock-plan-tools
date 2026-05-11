@@ -1,0 +1,204 @@
+{
+  "company_name": "PT Sari Kreasi Boga Tbk",
+  "ticker": "RAFI",
+  "office_address": "Ad Premier Lt.5 Suite 6, Jalan Tb Simatupang No. 5, Rt.005, Rw.007, Kel. Ragunan, Kec. Pasar Minggu, Jakarta Selatan 12550",
+  "email": "corporatesecretary@skbfood.id",
+  "phone": "(021) 3878 2104",
+  "fax": "(021) 7463 7390",
+  "tax_id": "83.328.015.9-016.000",
+  "website": "https://www.skbfood.id",
+  "listing_date": "2022-08-05",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan dan Jasa",
+    "business_summary": "Perusahaan bergerak di bidang Rumah Makan.",
+    "business_tags": [
+      "Rumah Makan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Rizki Rahmat R",
+    "email": "corsecskbfood@gmail.com",
+    "phone": "(021) 3878 2104"
+  },
+  "directors": [
+    {
+      "name": "Eko Pujianto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rizki Rahmat R",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dede Yati Rosmiati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Noval",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Eko Mujianto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "R. Iskandar Hidayat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "R. Iskandar Hidayat",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sri Agustina",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhammad Ainun Najib",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1895085141,
+      "percentage": 60.58
+    },
+    {
+      "name": "PT Globalasia Capital Investama",
+      "type": "Lebih dari 5%",
+      "shares": 1200000000,
+      "percentage": 38.36
+    },
+    {
+      "name": "Eko Mujianto",
+      "type": "Komisaris",
+      "shares": 24988667,
+      "percentage": 0.8
+    },
+    {
+      "name": "Eko Pujianto",
+      "type": "Direksi",
+      "shares": 8066667,
+      "percentage": 0.26
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sumber Asri Sejahtera",
+      "business_type": "Produksi Beras",
+      "total_assets": 63685604151,
+      "ownership_percentage": 54.5
+    },
+    {
+      "name": "PT Lazizaa Rahmat Semesta",
+      "business_type": "Restoran",
+      "total_assets": 37247236310,
+      "ownership_percentage": 54.02
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "112.613.057.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:32.609Z"
+}

@@ -1,0 +1,286 @@
+{
+  "company_name": "PT Soechi Lines Tbk.",
+  "ticker": "SOCI",
+  "office_address": "Sahid Sudirman Center 51st Floor, Jl. Jend. Sudirman Kav. 86, Jakarta Pusat 10220",
+  "email": "tidak berubah",
+  "phone": "+62 21-8086-1000",
+  "fax": "+62 21-8086-1001",
+  "tax_id": "02.993.491.6-018.000",
+  "website": "https://tidakberubah",
+  "listing_date": "2014-12-03",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan, jasa, pengangkutan, perindustrian, pembangunan, percetakan, pertanian dan perbengkelan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Paula Marlina",
+    "email": "corsec@soechi.com",
+    "phone": "+62 21 5793 6883"
+  },
+  "directors": [
+    {
+      "name": "Pieters Adyana Utomo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Paula Marlina",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Go Darmadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Barli Hasan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edwin Syahruzad",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Edwin Syahruzad",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ferry Yanto Widjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maria Natalina Sindhikara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Darma Pertiwi Raya",
+      "type": "Lebih dari 5%",
+      "shares": 2474261252,
+      "percentage": 35.05
+    },
+    {
+      "name": "PT Pilar Sukses Utama",
+      "type": "Lebih dari 5%",
+      "shares": 2474261252,
+      "percentage": 35.05
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1113850500,
+      "percentage": 15.78
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 996626996,
+      "percentage": 14.12
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Multi Ocean Shipyard",
+      "business_type": "Galangan Kapal",
+      "total_assets": 240283,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sukses Osean Khatulistiwa Line",
+      "business_type": "Pelayaran",
+      "total_assets": 101245,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Armada Bumi Pratiwi Lines",
+      "business_type": "Pelayaran",
+      "total_assets": 80814,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Putra Utama Line",
+      "business_type": "Pelayaran",
+      "total_assets": 62460,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Inti Energi Line",
+      "business_type": "Pelayaran",
+      "total_assets": 61842,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Sukses Maritime Line",
+      "business_type": "Pelayaran",
+      "total_assets": 51367,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Armada Maritime Offshore",
+      "business_type": "Pelayaran",
+      "total_assets": 45126,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Selaras Pratama Utama",
+      "business_type": "Pelayaran",
+      "total_assets": 40618,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Lintas Samudra Maritim",
+      "business_type": "Pelayaran",
+      "total_assets": 27942,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Global Ocean Lines Lines Ltd.",
+      "business_type": "Pelayaran",
+      "total_assets": 27096,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Success International Marine Pte. Ltd.",
+      "business_type": "Pelayaran",
+      "total_assets": 11950,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Lautan Armada Nusantara",
+      "business_type": "Pelayaran",
+      "total_assets": 797,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Merah Biru Regas",
+      "business_type": "Pelayaran",
+      "total_assets": 617,
+      "ownership_percentage": 50.95
+    },
+    {
+      "name": "Pacific Ocean Maritime Ltd.",
+      "business_type": "Pelayaran",
+      "total_assets": 501,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Glory Shipping Maritime Pte. Ltd.",
+      "business_type": "Pelayaran",
+      "total_assets": 500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Symbio Lintas Energi",
+      "business_type": "Pelayaran",
+      "total_assets": 117,
+      "ownership_percentage": 84.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.444.792.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:20.575Z"
+}

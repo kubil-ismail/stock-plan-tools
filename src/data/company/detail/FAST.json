@@ -1,0 +1,311 @@
+{
+  "company_name": "PT Fast Food Indonesia Tbk",
+  "ticker": "FAST",
+  "office_address": "Jl. Jend. Mt.haryono Kav.7, Tebet Barat Tebet",
+  "email": "jd.juwono@kfcindonesia.com",
+  "phone": "8310919, 8298390, 8309382, 8309383",
+  "fax": "298387, 8300569",
+  "tax_id": "0013067830092000",
+  "website": "http://www.kfcindonesia.com",
+  "listing_date": "1993-05-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Food and Beverages",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Yohannes Kristiarto Soeryo Legowo",
+    "email": "corsec.fast@ffi.co.id",
+    "phone": "(021) 831 3368"
+  },
+  "directors": [
+    {
+      "name": "Ricardo Gelael",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ferry Noviar Yosaputra",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Justinus Dalimin Juwono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cahyadi Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fabian Gelael",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adhi Indrawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wachjudi Martono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tony Subagio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dio May Avico",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anthoni Salim",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Noni Rosalia Gelael Barki",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Elisabeth Gelael",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Benny Setiawan Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Omar Luthfi Anwar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "P.l. Gunawan Solaiman",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Achmad Baiquni",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kanaka Puradiredja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Achmad Baiquni",
+      "position": "Ketua"
+    },
+    {
+      "name": "Endang Ruchijat",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Gelael Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 1862777717,
+      "percentage": 41.18
+    },
+    {
+      "name": "PT. Indoritel Makmur Internasional Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1696782159,
+      "percentage": 37.51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 948086694,
+      "percentage": 20.96
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 12755922,
+      "percentage": 0.28
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 3208000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Ricardo Gelael",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wachjudi Martono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferry Noviar Yosaputra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Justinus Dalimin Juwono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cahyadi Wijaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fabian Gelael",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adhi Indrawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tony Subagio",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dio May Avico",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anthony Salim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Noni Rosalia Gelael Barki",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Elisabeth Gelael",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benny Setiawan Santoso",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Omar Luthfi Anwar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Solaiman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jagonya Ayam Indonesia",
+      "business_type": "Peternakan Ayam Terpadu",
+      "total_assets": 1372368628,
+      "ownership_percentage": 55
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.329.941.484.648",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:20.843Z"
+}

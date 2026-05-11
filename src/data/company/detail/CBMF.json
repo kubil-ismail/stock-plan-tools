@@ -1,0 +1,193 @@
+{
+  "company_name": "PT Cahaya Bintang Medan Tbk",
+  "ticker": "CBMF",
+  "office_address": "Kp. Patumbak, Jl. Pertahanan No. 111",
+  "email": "corsec.cbmfurniture@gmail.com",
+  "phone": "061 7852277",
+  "fax": "061 7852266",
+  "tax_id": "3148199399125000",
+  "website": "https://www.cbm-furniture.com",
+  "listing_date": "2020-04-09",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang industri perdagangan besar dan eceran, pengolahan serta aktivitas jasa lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Produsen Furnitur Rumah.",
+    "business_tags": [
+      "Produsen Furnitur Rumah"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 84,
+    "name": "Produsen Furnitur Rumah",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Felicia Kweesly",
+    "email": "corsec@cbm-furniture.com",
+    "phone": "061 7852277"
+  },
+  "directors": [
+    {
+      "name": "Andre William",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ernawati Sitepu",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dody Triasmara",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Martinus Tjendana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Maliki",
+      "position": "Ketua"
+    },
+    {
+      "name": "Paima Sianturi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Firman Dinata",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Richiwa Sakti Indonesia",
+      "type": "Direksi",
+      "shares": 127000000000,
+      "percentage": 680
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 4500000000,
+      "percentage": 240
+    },
+    {
+      "name": "PT Sinar Makmur Rezeki",
+      "type": "Direksi",
+      "shares": 15500000000,
+      "percentage": 80
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Heru Saleh Marzuki dan Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Ribka Aretha dan Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Ribka Aretha dan Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "93.750.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:52.348Z"
+}

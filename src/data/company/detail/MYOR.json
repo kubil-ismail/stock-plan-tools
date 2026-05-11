@@ -1,0 +1,233 @@
+{
+  "company_name": "Mayora Indah Tbk",
+  "ticker": "MYOR",
+  "office_address": "Jl. Telesonik, Pasir Jaya, Jatiuwung, Kota Tangerang, Banten 15135",
+  "email": "yuni@mayora.co.id, yunimayora@yahoo.com",
+  "phone": "02180637700",
+  "fax": "0",
+  "tax_id": "01.146.631.5-054.000",
+  "website": "https://mayoraindah.co.id",
+  "listing_date": "1990-07-04",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Makanan Ringan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Andi Laurus",
+    "email": "hermawan@mayora.co.id;yuni@mayora.co.id",
+    "phone": "021-565-53-11, 565-53-20, 565-53-22, 566 30-37, 619-14-99"
+  },
+  "directors": [
+    {
+      "name": "Andre Sukendra Atmadja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hendarta Atmadja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wardhana Atmadja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendrik Polisar",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Muljono Nurlimo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ricky Afrianto Gunadi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jogi Hendra Atmadja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hermawan Lesmana",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gunawan Atmadja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Suryanto Gunawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anton Hartono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anton Hartono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Theresia",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yuyun Susanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Unita Branindo",
+      "type": "Lebih dari 5%",
+      "shares": 7363121900,
+      "percentage": 32.93
+    },
+    {
+      "name": "Mayora Dhana Utama",
+      "type": "Lebih dari 5%",
+      "shares": 5844349525,
+      "percentage": 26.14
+    },
+    {
+      "name": "Jogi Hendra Atmadja",
+      "type": "Komisaris",
+      "shares": 5643777700,
+      "percentage": 25.24
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3132318525,
+      "percentage": 14.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 323900000,
+      "percentage": 1.45
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 46490775,
+      "percentage": 0.21
+    },
+    {
+      "name": "Andre Sukendra Atmadja",
+      "type": "Direksi",
+      "shares": 4310000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Ricky Afrianto Gunadi",
+      "type": "Direksi",
+      "shares": 178300,
+      "percentage": 0
+    },
+    {
+      "name": "Hendrik Polisar",
+      "type": "Direksi",
+      "shares": 253000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Torabika Eka Semesta",
+      "business_type": "Industri Pengolahan Kopi Bubuk dan Instan",
+      "total_assets": 11146696172212,
+      "ownership_percentage": 96.23
+    },
+    {
+      "name": "PT Sinar Pangan Timur",
+      "business_type": "Industri Makanan Olahan",
+      "total_assets": 19647411693,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sinar Pangan Barat",
+      "business_type": "Industri Makanan Olahan",
+      "total_assets": 15764097192,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "38.121.583.031.125",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:56.888Z"
+}

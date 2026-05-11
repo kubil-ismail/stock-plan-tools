@@ -1,0 +1,258 @@
+{
+  "company_name": "Dharma Samudera Fishing Ind. Tbk",
+  "ticker": "DSFI",
+  "office_address": "Jl. Laks. Re Martadinata I Volker Industri No. 2 Tanjung Priok Jakarta, Kota Adm. Jakarta Utara, 14310",
+  "email": "corporate@dsfi.id",
+  "phone": "430-10-01, 437-10-10, 435-39-65 (- 6), 0816-82-12-39",
+  "fax": "4303412, 492820",
+  "tax_id": "001.002.749.8-054.000",
+  "website": "https://www.dsfi.id",
+  "listing_date": "2000-03-24",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perikanan dan pengolahan hasil Laut",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Saut Marbun",
+    "email": "corporate@dsfi.id",
+    "phone": "021-4301001"
+  },
+  "directors": [
+    {
+      "name": "Ewijaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Cynthia Handyoko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Calvin Nicholas Sulistyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ariyo Ali Saputro",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Stephen Kurniawan Sulistyo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hady Teja Laksana The",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ryan Nathaniel Sulistyo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tinawaty Wibowo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wanda Wandoko",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bapak Wanda Wandoko",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ibu Menuk Sudaryanti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ibu Cutriwati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pt.marina Berkah Investama",
+      "type": "Lebih dari 5%",
+      "shares": 1292483650,
+      "percentage": 69.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 564651850,
+      "percentage": 30.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Stephen Sulistyo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hady Teja Laksana The",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ryan Nathanael Sulistyo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tinawati Wibowo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wanda Wandoko",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ewijaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cynthia Handyoko",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Calvin Nicholas Sulistyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ario Ali Suprapto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Dharma Samudera Fishing Industries, Tbk",
+      "business_type": "Export Import",
+      "total_assets": 328714732282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dharma Samudera Fishing Industries, Tbk",
+      "business_type": "Export Import",
+      "total_assets": 328714732282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dharma Samudera Fishing Industries, Tbk",
+      "business_type": "Export Import",
+      "total_assets": 328714732282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kelola Biru Harmoni",
+      "business_type": "Perikanan",
+      "total_assets": 10836637826,
+      "ownership_percentage": 96.04
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "183.856.414.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:31.435Z"
+}

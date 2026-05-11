@@ -1,0 +1,375 @@
+{
+  "company_name": "Sumber Energi Andalan Tbk",
+  "ticker": "ITMA",
+  "office_address": "Sopo Del Office & Lifestyle Tower B, Lantai 21 Jl. Mega Kuningan Barat Iii, Lot.10 1-6, Kawasan Mega Kuningan Jakarta Selatan12950",
+  "email": "corporate.secretary@energi-andalan.co.id",
+  "phone": "+62 21 50815254",
+  "fax": "+62 21 50815253",
+  "tax_id": "01.454.030.6-054.000",
+  "website": "https://www.energi-andalan.co.id",
+  "listing_date": "1990-12-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Konsultasi, pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Jerry Hotama",
+    "email": "corporate.secretary@energi-andalan.co.id",
+    "phone": "021-5700435"
+  },
+  "directors": [
+    {
+      "name": "Rocky Oktanso Sugih",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdy Yustianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sargato",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Winston Jusuf",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Achmad Widjaja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Achmad Widjaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Deden Hendrayana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rodion Wikanto Njotowidjojo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Astrindo Nusantara Infrastruktur Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 418560000,
+      "percentage": 41.9
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 317578062,
+      "percentage": 31.79
+    },
+    {
+      "name": "PT Fersindo Nusa Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 134961900,
+      "percentage": 13.51
+    },
+    {
+      "name": "PT Trukindo Persada Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 65465600,
+      "percentage": 6.55
+    },
+    {
+      "name": "Majukarya Mandiri Indonesia, PT",
+      "type": "Lebih dari 5%",
+      "shares": 56717605,
+      "percentage": 5.68
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5770000,
+      "percentage": 0.57
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "0",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "0",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Oksigen Natural Esa",
+      "business_type": "Investasi",
+      "total_assets": 70455168,
+      "ownership_percentage": 48.44
+    },
+    {
+      "name": "PT Tegar Wahana Olah",
+      "business_type": "Investasi",
+      "total_assets": 29959705,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT Tegar Wahana Olah",
+      "business_type": "Aktivitas Konsultan Manajemen",
+      "total_assets": 27595268,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT Andalan Group Power",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 17305634,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andalan Group Power",
+      "business_type": "Aktivitas Konsultan Manajemen",
+      "total_assets": 16038456,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Para Amartha Lng",
+      "business_type": "Lng",
+      "total_assets": 15536626,
+      "ownership_percentage": 53.45
+    },
+    {
+      "name": "PT Indopower Energi Abadi",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 15371305,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Indopower Energi Abadi",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 14123429,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Andalan Group Power",
+      "business_type": "Aktivitas Konsultan Manajemen",
+      "total_assets": 11761466,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indopower Energi Abadi",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 11742823,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Indopower Energi Abadi",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 9891456,
+      "ownership_percentage": 79.99
+    },
+    {
+      "name": "PT Para Amartha Lng",
+      "business_type": "Industri Gas",
+      "total_assets": 8863962,
+      "ownership_percentage": 53.45
+    },
+    {
+      "name": "PT Indopower Energi Abadi",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 8542342,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Alpha Energi Pratama",
+      "business_type": "Investasi",
+      "total_assets": 4861419,
+      "ownership_percentage": 89.09
+    },
+    {
+      "name": "PT Alpha Energi Pratama",
+      "business_type": "Pertambangan Gas Alam dan Pengusahaan Tenaga Panas Bumi",
+      "total_assets": 4334783,
+      "ownership_percentage": 89.09
+    },
+    {
+      "name": "PT Alpha Nusa Infrastruktur",
+      "business_type": "Investasi",
+      "total_assets": 335217,
+      "ownership_percentage": 89.99
+    },
+    {
+      "name": "PT Andalan Group Power",
+      "business_type": "Aktivitas Konsultan Manajemen",
+      "total_assets": 328761,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alpha Nusa Infrastruktur",
+      "business_type": "Aktivitas Konsultan Manajemen",
+      "total_assets": 316761,
+      "ownership_percentage": 89.99
+    },
+    {
+      "name": "PT Alpha Bara Energi",
+      "business_type": "Investasi",
+      "total_assets": 165147,
+      "ownership_percentage": 89.09
+    },
+    {
+      "name": "PT Alpha Bara Energi",
+      "business_type": "Pertambangan Gas Alam dan Pengusahaan Tenaga Panas Bumi",
+      "total_assets": 152244,
+      "ownership_percentage": 89.09
+    },
+    {
+      "name": "PT Andalan Group Power",
+      "business_type": "Aktivitas Konsultan Manajemen",
+      "total_assets": 40200,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Andalan Power Teknikatama",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 16638,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sumber Power Nusantara",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 16638,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Andalan Power Teknikatama",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 16216,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sumber Power Nusantara",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 16216,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Andalan Power Teknikatama",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 15426,
+      "ownership_percentage": 79.99
+    },
+    {
+      "name": "PT Sumber Power Nusantara",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 15426,
+      "ownership_percentage": 79.99
+    },
+    {
+      "name": "PT Andalan Power Teknikatama",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 14906,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sumber Power Nusantara",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 14906,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Andalan Power Teknikatama",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 14203,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Sumber Power Nusantara",
+      "business_type": "Transmisi Tenaga Listrik, Distribusi Tenaga Listrik, dan Pembangkit Tenaga Listrik",
+      "total_assets": 14203,
+      "ownership_percentage": 80
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.978.125.270.660",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:10.663Z"
+}

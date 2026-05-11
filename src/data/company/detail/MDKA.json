@@ -1,0 +1,383 @@
+{
+  "company_name": "PT Merdeka Copper Gold Tbk.",
+  "ticker": "MDKA",
+  "office_address": "Treasury Tower Lantai 67-68, District 8 SCBD Lot. 28, Jl. Jend. Sudirman Kav. 52-53, Desa/kel. Senayan, Kec. Kebayoran Baru, Jakarta Selatan 12190, Indonesia",
+  "email": "corporate.secretary@merdekacoppergold.com",
+  "phone": "021 3952 5580",
+  "fax": "021 3952 5589",
+  "tax_id": "0032720120011000",
+  "website": "https://www.merdekacoppergold.com",
+  "listing_date": "2015-06-19",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan emas, perak, tembaga, nikel, dan mineral ikutan lainnya, industri dan kegiatan usaha terkait lainnya melalui perusahaan anak Perseroan",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Konstruksi.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Jessica J.",
+    "email": "corporate.secretary@merdekacoppergold.com",
+    "phone": "021 3952 5580"
+  },
+  "directors": [
+    {
+      "name": "Albert Saputro",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jason Laurence Greive",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gavin Arnold Caudle",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hardi Wijaya Liong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    },
+    {
+      "name": "David Thomas Fowler",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chrisanthus Supriyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Titien Supeno",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yoke Candra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tang Honghui",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edwin Soeryadjaya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Budi Bowoleksono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muhamad Munir",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Phillip Starkey",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Budi Bowoleksono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ludovicus Sensi Wondabio",
+      "position": "Anggota"
+    },
+    {
+      "name": "Atik Wijaksono Susanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 12378836732,
+      "percentage": 50.58
+    },
+    {
+      "name": "PT Saratoga Investama Sedaya Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 4739493062,
+      "percentage": 19.366
+    },
+    {
+      "name": "PT Mitra Daya Mustika",
+      "type": "Lebih dari 5%",
+      "shares": 2907302421,
+      "percentage": 11.88
+    },
+    {
+      "name": "Garibaldi Thohir",
+      "type": "Lebih dari 5%",
+      "shares": 1826062554,
+      "percentage": 7.462
+    },
+    {
+      "name": "PT Suwarna Arta Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 1337254738,
+      "percentage": 5.464
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 973251400,
+      "percentage": 3.98
+    },
+    {
+      "name": "Gavin Arnold Caudle",
+      "type": "Direksi",
+      "shares": 162837133,
+      "percentage": 0.67
+    },
+    {
+      "name": "Hardi Wijaya Liong",
+      "type": "Direksi",
+      "shares": 69596728,
+      "percentage": 0.28
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 56081700,
+      "percentage": 0.229
+    },
+    {
+      "name": "Gavin Arnold Caudle",
+      "type": "Direksi",
+      "shares": 13389703,
+      "percentage": 0.05
+    },
+    {
+      "name": "Andrew Phillip Starkey",
+      "type": "Komisaris",
+      "shares": 4131700,
+      "percentage": 0.02
+    },
+    {
+      "name": "Albert Saputro",
+      "type": "Direksi",
+      "shares": 2093800,
+      "percentage": 0.008
+    },
+    {
+      "name": "Titien Supeno",
+      "type": "Direksi",
+      "shares": 1866700,
+      "percentage": 0.008
+    },
+    {
+      "name": "Jason Laurence Greive",
+      "type": "Direksi",
+      "shares": 446200,
+      "percentage": 0.002
+    },
+    {
+      "name": "David Thomas Fowler",
+      "type": "Direksi",
+      "shares": 339200,
+      "percentage": 0.001
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Merdeka Energi Nusantara",
+      "business_type": "Perusahaan Holding dan Konsultasi Manajemen Lainnya",
+      "total_assets": 3604859592,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Suksesindo",
+      "business_type": "Pertambangan Mineral",
+      "total_assets": 742615812,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT Merdeka Gold Resources Tbk",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 712761171,
+      "ownership_percentage": 57.19
+    },
+    {
+      "name": "PT Batutua Tembaga Raya",
+      "business_type": "Industri Pembuatan Logam dan Perdagangan",
+      "total_assets": 406018280,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Merdeka Mining Servis",
+      "business_type": "Jasa Pertambangan dan Konstruksi",
+      "total_assets": 62898519,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Merdeka Indonesia Mandiri",
+      "business_type": "Real Estat yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 6114957,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Batutua Alam Persada",
+      "business_type": "Konsultasi Bisnis dan Broker Bisnis/",
+      "total_assets": 3612473,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Eastern Field Development Limited",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 522602,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Batutua Abadi Jaya",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 12264,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Merdeka Karya Tambang",
+      "business_type": "Pertambangan Mineral",
+      "total_assets": 9669,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Merdeka Tambang Jaya",
+      "business_type": "Pertambangan Mineral",
+      "total_assets": 7923,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Merdeka Energi Indonesia",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 3341,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Merdeka Kapital Indonesia",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 3106,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Merdeka Tambang Nusantara",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 1406,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Merdeka Copper Gold International Pte. Ltd",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 25,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi dan Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi dan Rekan"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "79.047.737.580.330",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:32.787Z"
+}

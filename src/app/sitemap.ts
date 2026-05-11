@@ -1,14 +1,20 @@
 import type { MetadataRoute } from "next";
-import shareholder from "@/data/shareholders.json";
-import company from "@/data/company_list.json";
-import { slugify } from "@/lib/utils";
+
+import shareholder from "@/data/company/shareholders.json";
+import company from "@/data/company/company.json";
+
+import type { ShareholderResponse, StockListResponse } from "@/types/stocks";
 
 const BASE_URL = "https://stockplan.id";
+
+const shareholdersData = shareholder as ShareholderResponse[];
+
+const companyData = company.data as StockListResponse[];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
 
-  const staticRoutes = [
+  const staticRoutes: MetadataRoute.Sitemap = [
     "",
     "/informasi-perusahaan",
     "/kepemilikan-saham",
@@ -18,33 +24,31 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ].map((path) => ({
     url: `${BASE_URL}${path}`,
     lastModified: now,
-    changeFrequency: "weekly" as const,
+    changeFrequency: "weekly",
     priority: path === "" ? 1 : 0.7,
   }));
 
-  const shareholders_sitemap = Array.from(
-    new Map(
-      shareholder.data.map((item) => [slugify(item.shareholder_name), item])
-    ).values()
+  const shareholdersSitemap: MetadataRoute.Sitemap = Array.from(
+    new Map(shareholdersData.map((item) => [item.slug, item])).values()
   )
-    .sort((a, b) => a.shareholder_name.localeCompare(b.shareholder_name))
+    .sort((a, b) => a.name.localeCompare(b.name))
     .map((item) => ({
-      url: `${BASE_URL}/kepemilikan-saham/${slugify(item.shareholder_name)}`,
+      url: `${BASE_URL}/kepemilikan-saham/${item.slug}`,
       lastModified: now,
-      changeFrequency: "weekly" as const,
+      changeFrequency: "weekly",
       priority: 0.6,
     }));
 
-  const profil_sitemap = Array.from(
-    new Map(company.data.map((item) => [item.code, item])).values()
+  const profilSitemap: MetadataRoute.Sitemap = Array.from(
+    new Map(companyData.map((item) => [item.ticker, item])).values()
   )
-    .sort((a, b) => a.code.localeCompare(b.code))
+    .sort((a, b) => a.ticker.localeCompare(b.ticker))
     .map((item) => ({
-      url: `${BASE_URL}/profil-perusahaan/${item.code}`,
+      url: `${BASE_URL}/profil-perusahaan/${item.ticker}`,
       lastModified: now,
-      changeFrequency: "weekly" as const,
+      changeFrequency: "weekly",
       priority: 0.6,
     }));
 
-  return [...staticRoutes, ...shareholders_sitemap, ...profil_sitemap];
+  return [...staticRoutes, ...shareholdersSitemap, ...profilSitemap];
 }

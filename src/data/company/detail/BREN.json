@@ -1,0 +1,407 @@
+{
+  "company_name": "PT Barito Renewables Energy Tbk.",
+  "ticker": "BREN",
+  "office_address": "Wisma Barito Pacific Ii, Lantai 23, Jl. Let. Jend. S. Parman Kav. 60, Rt 010, Rw 005, Slipi, Palmerah, Jakarta 11410, Indonesia",
+  "email": "corpsec@baritorenewables.co.id",
+  "phone": "(021) 530 6711",
+  "fax": "(021) 530 6680",
+  "tax_id": "84.492.675.8-031.000",
+  "website": "https://www.baritorenewables.co.id",
+  "listing_date": "2023-10-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas perusahaan holding",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 34,
+    "name": "Utilitas",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 57,
+    "name": "Utilitas Listrik"
+  },
+  "sub_industry": {
+    "id": 100,
+    "name": "Utilitas Listrik",
+    "industries_id": 57
+  },
+  "corporate_secretary": {
+    "name": "Randhika Oktaviana",
+    "email": "corpsec@baritorenewables.co.id",
+    "phone": "(021) 530 6711"
+  },
+  "directors": [
+    {
+      "name": "Tan Hendra Soetjipto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Sandy Widyanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kenneth Lee Riedel",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hsing Chee Chiam",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Agus Salim Pangestu",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Suan Swee",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "David Kosasih",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Ek Kia",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Cholanat Yanaranop",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Merly",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tan Ek Kia",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dikdik Sugiharto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jennywati Soewito",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Barito Pacific Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 86514146666,
+      "percentage": 64.666
+    },
+    {
+      "name": "Green Era Energy Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 30673313100,
+      "percentage": 22.927
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 16450370534,
+      "percentage": 12.296
+    },
+    {
+      "name": "Prajogo Pangestu",
+      "type": "Lebih dari 5%",
+      "shares": 141689700,
+      "percentage": 0.106
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 6700000,
+      "percentage": 0.005
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agus Salim Pangestu",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Kosasih",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Suan Swee",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Merly",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Ek Kia",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cholanat Yanaranop",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendra Soetjipto Tan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agus Sandy Widyanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kenneth Lee Riedel",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hsing Chee Chiam",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Star Energy Geothermal Salak, Ltd.",
+      "business_type": "Sumber Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 4061345,
+      "ownership_percentage": 80.91
+    },
+    {
+      "name": "Star Energy Geothermal (salak Darajat) B.v.",
+      "business_type": "Perusahaan Induk Bagi Perusahaan yang Bergerak di Bidang Sumber Daya Energi Panas Bumi dan Pembangkit Istrik",
+      "total_assets": 2375507,
+      "ownership_percentage": 80.91
+    },
+    {
+      "name": "Star Energy Geothermal Salak Pratama, Ltd.",
+      "business_type": "Pembangkit Listrik",
+      "total_assets": 2276146,
+      "ownership_percentage": 80.91
+    },
+    {
+      "name": "Star Energy Group Holdings Pte Ltd",
+      "business_type": "Perusahaan Induk Bagi Perusahaan yang Bergerak di Bidang Sumber Daya Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 1886926,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Star Energy Geothermal Holdings (salak Darajat) B.v.",
+      "business_type": "Perusahaan Induk Bagi Perusahaan yang Bergerak di Bidang Sumber Daya Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 935930,
+      "ownership_percentage": 94.9
+    },
+    {
+      "name": "Star Energy Geothermal Darajat Ii, Ltd.",
+      "business_type": "Sumber Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 925103,
+      "ownership_percentage": 80.91
+    },
+    {
+      "name": "Star Energy Geothermal (wayang Windu) Ltd",
+      "business_type": "Sumber Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 797415,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Star Energy Geothermal Pte Ltd",
+      "business_type": "Perusahaan Induk Bagi Perusahaan yang Bergerak di Bidang Sumber Daya Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 761314,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Star Energy Geothermal Darajat I, Ltd.",
+      "business_type": "Sumber Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 571219,
+      "ownership_percentage": 80.91
+    },
+    {
+      "name": "Star Energy Geothermal Netherlands B.v.",
+      "business_type": "Perusahaan Investasi untuk Perusahaan yang Bergerak di Bidang Sumber Daya Energi Panas Bumi dan Pembangkit Listrik/ Investme",
+      "total_assets": 470116,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Barito Wind Energy",
+      "business_type": "Perusahaan Induk Bagi Perusahaan yang Bergerak di Bidang Sumber Daya Energi Angin dan Pembangkit Listrik",
+      "total_assets": 149164,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Upc Sidrap Bayu Energi",
+      "business_type": "Eksplorasi Sumber Daya Energi Angin",
+      "total_assets": 133080,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Darajat Geothermal Indonesia",
+      "business_type": "Sumber Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 44930,
+      "ownership_percentage": 76.86
+    },
+    {
+      "name": "PT Star Energy Geothermal Drilling Services",
+      "business_type": "Jasa Pengeboran Energi Panas Bumi",
+      "total_assets": 25249,
+      "ownership_percentage": 85.55
+    },
+    {
+      "name": "PT Star Energy Geothermal Indonesia",
+      "business_type": "Jasa Manajemen Konsultan",
+      "total_assets": 19229,
+      "ownership_percentage": 85.5
+    },
+    {
+      "name": "PT Sidrap Bayu Energy Tahap Dua",
+      "business_type": "Eksplorasi Sumber Daya Energi Angin",
+      "total_assets": 12839,
+      "ownership_percentage": 50.99
+    },
+    {
+      "name": "PT Sukabumi Bayu Energi",
+      "business_type": "Eksplorasi Sumber Daya Energi Angin",
+      "total_assets": 7267,
+      "ownership_percentage": 50.99
+    },
+    {
+      "name": "PT Star Energy Geothermal Halmahera",
+      "business_type": "Eksplorasi Sumber Energi Panas Bumi",
+      "total_assets": 3922,
+      "ownership_percentage": 85.5
+    },
+    {
+      "name": "PT Lombok Timur Bayu Energi",
+      "business_type": "Eksplorasi Sumber Daya Energi Angin",
+      "total_assets": 2364,
+      "ownership_percentage": 50.99
+    },
+    {
+      "name": "PT Star Energy Geothermal Suoh Sekincau",
+      "business_type": "Eksplorasi Sumber Energi Panas Bumi",
+      "total_assets": 1522,
+      "ownership_percentage": 76.86
+    },
+    {
+      "name": "PT Barito Wind Operation And Maintenance Indonesia",
+      "business_type": "Eksplorasi Sumber Daya Energi Angin",
+      "total_assets": 153,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Star Energy Geothermal Philippines B.v.",
+      "business_type": "Perusahaan Investasi untuk Perusahaan yang Bergerak di Bidang Sumber Daya Energi Panas Bumi dan Pembangkit Listrik",
+      "total_assets": 22,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "596.686.541.200.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:07.623Z"
+}

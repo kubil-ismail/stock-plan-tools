@@ -1,0 +1,202 @@
+{
+  "company_name": "Paninvest Tbk",
+  "ticker": "PNIN",
+  "office_address": "Panin Bank Pusat Lantai 8. Jl. Jend. Sudirman Kav.1, Jakarta 10270",
+  "email": "panin@paninvest.co.id",
+  "phone": "5741747",
+  "fax": "-",
+  "tax_id": "0013.1228.9005.4000",
+  "website": "https://www.paninvest.co.id",
+  "listing_date": "1983-09-20",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pariwisata",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Akijat Lukito",
+    "email": "pnin@panininsurance.co.id",
+    "phone": "548-0669"
+  },
+  "directors": [
+    {
+      "name": "Paulus Indra Intan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Akijat Lukito",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Christine Dewi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sugeng Purwanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Mu'min Ali Gunawan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Richard Budi Gunawan",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sugeng Purwanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jane Pratama",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lidyawati Soesetio",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Paninkorp",
+      "type": "Lebih dari 5%",
+      "shares": 1208583000,
+      "percentage": 29.71
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1075820042,
+      "percentage": 26.45
+    },
+    {
+      "name": "PT Famlee Invesco",
+      "type": "Lebih dari 5%",
+      "shares": 743490500,
+      "percentage": 18.28
+    },
+    {
+      "name": "Crystal Chain Holdings Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 393852688,
+      "percentage": 9.68
+    },
+    {
+      "name": "Omnicourt Group Limited",
+      "type": "Lebih dari 5%",
+      "shares": 249462970,
+      "percentage": 6.13
+    },
+    {
+      "name": "Dana Pensiun Karyawan Panin Bank",
+      "type": "Lebih dari 5%",
+      "shares": 245077142,
+      "percentage": 6.02
+    },
+    {
+      "name": "Mumin Ali Gunawan",
+      "type": "Komisaris",
+      "shares": 83163188,
+      "percentage": 2.04
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 68874390,
+      "percentage": 1.69
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Panin Financial Tbk",
+      "business_type": "Jasa Konsultasi Bisnis, Manajemen dan Administrasi Umum",
+      "total_assets": 240645654,
+      "ownership_percentage": 67.86
+    },
+    {
+      "name": "PT Panin Geninholdco",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 68850,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.152.951.038.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:29.705Z"
+}

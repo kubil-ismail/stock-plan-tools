@@ -1,0 +1,228 @@
+{
+  "company_name": "Bfi Finance Indonesia Tbk",
+  "ticker": "BFIN",
+  "office_address": "Bfi Tower - Sunburst Cbd Lot 1.2, Jl. Kapt. Soebijanto Djojohadikusumo Bsd City, Tangerang Selatan,",
+  "email": "corsec@bfi.co.id",
+  "phone": "(021) 2965 0300, 2965 0500",
+  "fax": "(021) 2966 0757, 2966 58",
+  "tax_id": "0013 1611 1209 1000",
+  "website": "https://www.bfi.co.id",
+  "listing_date": "1990-05-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Keuangan.",
+    "business_tags": [
+      "Teknologi",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Budi Darwan Munthe",
+    "email": "corsec@bfi.co.id",
+    "phone": "021-2965 0300, 2965 0500"
+  },
+  "directors": [
+    {
+      "name": "Sutadi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sudjono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Goklas",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Rudy Eddywidjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Francis Lay Sioe Ho",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kusmayanto Kadiman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Saurabh N. Agarwal",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Johanes Sutrisno",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Alfonso Napitupulu",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Johanes Sutrisno",
+      "position": "Ketua"
+    },
+    {
+      "name": "Edy Sugito",
+      "position": "Anggota"
+    },
+    {
+      "name": "Friso Palilingan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Trinugraha Capital & Co Sca",
+      "type": "Lebih dari 5%",
+      "shares": 7688125938,
+      "percentage": 51.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6665818162,
+      "percentage": 44.32
+    },
+    {
+      "name": "Lay Sioe Ho",
+      "type": "Komisaris",
+      "shares": 318908180,
+      "percentage": 2.12
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 290000000,
+      "percentage": 1.93
+    },
+    {
+      "name": "Sudjono",
+      "type": "Direksi",
+      "shares": 35000000,
+      "percentage": 0.23
+    },
+    {
+      "name": "Sutadi",
+      "type": "Direksi",
+      "shares": 21000000,
+      "percentage": 0.14
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 16512840,
+      "percentage": 0.11
+    },
+    {
+      "name": "Goklas",
+      "type": "Direksi",
+      "shares": 1012500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Tan Rudy Eddywidjaja",
+      "type": "Direksi",
+      "shares": 1006000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Iwan",
+      "type": "Direksi",
+      "shares": 2000000,
+      "percentage": 0.01
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Finansial Integrasi Teknologi",
+      "business_type": "Layanan Pinjam Meminjam Uang Berbasis Teknologi",
+      "total_assets": 39960,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "12.031.506.896.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:12.680Z"
+}

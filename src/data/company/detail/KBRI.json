@@ -1,0 +1,169 @@
+{
+  "company_name": "Kertas Basuki Rachmat Indonesia Tbk",
+  "ticker": "KBRI",
+  "office_address": "Gedung Gkm Green Tower, Lantai 19 Unit 1908 Jl. Tb. Simatupang Kav 89g Rt010/02, Kebagusan",
+  "email": "corsec@kbrindonesia.com",
+  "phone": "(021) 27872466",
+  "fax": "(021) 29634987",
+  "tax_id": "01.312.917.6-054.000",
+  "website": "https://www.kbrindonesia.com",
+  "listing_date": "2008-07-11",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pulp and Paper",
+    "business_summary": "Perusahaan bergerak di bidang Kertas.",
+    "business_tags": [
+      "Kertas"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 37,
+    "name": "Kertas",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Henry Priyantoro",
+    "email": "corsec@kbri.co.id",
+    "phone": "(021) 29634985"
+  },
+  "directors": [
+    {
+      "name": "Sonie Budi Wijaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Priyono",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hadi Purnomo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Melania Halim",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Melania Halim",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arif Kristiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Suisse Charter Investment Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 2953918550,
+      "percentage": 34
+    },
+    {
+      "name": "Wyoming International Limited",
+      "type": "Lebih dari 5%",
+      "shares": 2641150728,
+      "percentage": 30.4
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 2171998933,
+      "percentage": 25
+    },
+    {
+      "name": "Quest Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 920927523,
+      "percentage": 10.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Kertas Basuki Rachmat",
+      "business_type": "Industri dan Distribusi Kertas",
+      "total_assets": 1097156639698,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Hti Basuki Rachmat",
+      "business_type": "Pengolahan Hasil Hutan",
+      "total_assets": 500000000,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "434.399.786.700",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:41.706Z"
+}

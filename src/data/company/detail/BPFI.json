@@ -1,0 +1,160 @@
+{
+  "company_name": "PT Woori Finance Indonesia Tbk",
+  "ticker": "BPFI",
+  "office_address": "Chase Plaza Lantai 16, Jl. Jendral Sudirman Kav.21 Jakarta",
+  "email": "lisa@woorifinance.co.id",
+  "phone": "021-5200434",
+  "fax": "021-5209160",
+  "tax_id": "001.710.728.5-054.000",
+  "website": "https://www.woorifinance.co.id",
+  "listing_date": "2009-06-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Pembiayaan Konsumen",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Lisa A. Subagiyo",
+    "email": "lisa@woorifinance.co.id",
+    "phone": "021-5200434"
+  },
+  "directors": [
+    {
+      "name": "Heon Joo Rhee",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jasin Hermawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yunseong Lee",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yustianus Dapot Togarasi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sadhana Priatmadja",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Desti Liliati",
+      "position": "Ketua"
+    },
+    {
+      "name": "Edy Suroso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indah Mulyawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Woori Card Co., Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 2193552006,
+      "percentage": 82.03
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 272334912,
+      "percentage": 10.19
+    },
+    {
+      "name": "Batavia Prosperindo Internasional,pt",
+      "type": "Lebih dari 5%",
+      "shares": 208108444,
+      "percentage": 7.78
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "711.282.766.292",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:03.146Z"
+}

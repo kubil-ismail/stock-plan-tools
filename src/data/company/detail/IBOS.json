@@ -1,0 +1,305 @@
+{
+  "company_name": "PT Indo Boga Sukses Tbk",
+  "ticker": "IBOS",
+  "office_address": "Jalan Raya Randugowang, Desa Sendangadi, Kecamatan Mlati Kabupaten Sleman, Yogyakarta 55285",
+  "email": "corsec@indobogasukses.com",
+  "phone": "0274 2880 288",
+  "fax": "0274 2885099",
+  "tax_id": "904165644542000",
+  "website": "https://www.indobogasukses.com",
+  "listing_date": "2022-04-25",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Perseroan bergerak dalam bidang Restoran dan Aktivitas Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Wahyuni Octarini",
+    "email": "corsec@indobogasukses.com",
+    "phone": "0274 2880 288"
+  },
+  "directors": [
+    {
+      "name": "Edi Nugroho",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Eka Ruli Afriawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chandra Adhi Pradana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nita Federika",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tunggul Guntur Pasaribu",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sihol Siagian",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sihol Siagian",
+      "position": "Ketua"
+    },
+    {
+      "name": "Asthon M. H. Siagian",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sukrisno Agoes",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Goldman Investindo Sedaya",
+      "type": "Lebih dari 5%",
+      "shares": 3435875937,
+      "percentage": 42.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3280025886,
+      "percentage": 40.66
+    },
+    {
+      "name": "PT Nuansa Kencono Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 858382224,
+      "percentage": 10.64
+    },
+    {
+      "name": "PT Alqhaisar Sukses Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 474923704,
+      "percentage": 5.89
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 16581778,
+      "percentage": 0.21
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sofia Berkah Abadi",
+      "business_type": "Hotel",
+      "total_assets": 83403,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Sofia Berkah Abadi",
+      "business_type": "Hotel",
+      "total_assets": 83403,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Sofia Berkah Abadi",
+      "business_type": "Hotel",
+      "total_assets": 83403,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Sofia Berkah Abadi",
+      "business_type": "Hotel",
+      "total_assets": 83403,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Sofia Berkah Abadi",
+      "business_type": "Hotel",
+      "total_assets": 83403,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Indo Nations Harvest",
+      "business_type": "Perdagangan Makanan dan",
+      "total_assets": 51842,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indo Nations Harvest",
+      "business_type": "Perdagangan Makanan dan",
+      "total_assets": 51842,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indo Nations Harvest",
+      "business_type": "Perdagangan Makanan dan",
+      "total_assets": 51842,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indo Nations Harvest",
+      "business_type": "Perdagangan Makanan dan",
+      "total_assets": 51842,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indo Nations Harvest",
+      "business_type": "Perdagangan Makanan dan",
+      "total_assets": 51842,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kairos Sukses Indonesia",
+      "business_type": "Makanan dan Minuman",
+      "total_assets": 38215,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Kairos Sukses Indonesia",
+      "business_type": "Makanan dan Minuman",
+      "total_assets": 38215,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Kairos Sukses Indonesia",
+      "business_type": "Makanan dan Minuman",
+      "total_assets": 38215,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Kairos Sukses Indonesia",
+      "business_type": "Makanan dan Minuman",
+      "total_assets": 38215,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Kairos Sukses Indonesia",
+      "business_type": "Makanan dan Minuman",
+      "total_assets": 38215,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Armanda & Enita"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Armanda & Enita"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Bharata, Arifin, Mumajad & Sayuti"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Bharata, Arifin, Mumajad & Sayuti"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Bharata, Arifin, Mumajad & Sayuti"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "814.644.742.429",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:58.738Z"
+}

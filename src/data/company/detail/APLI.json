@@ -1,0 +1,196 @@
+{
+  "company_name": "Asiaplast Industries Tbk",
+  "ticker": "APLI",
+  "office_address": "Jl.kh.ez.muttaqien No. 94 Rt.004/rw.002 Kelurahan Gembor Kecamatan Periuk Kota Tangerang 15133",
+  "email": "sec@asiaplast.co.id",
+  "phone": "021-5901465",
+  "fax": "021-5901464",
+  "tax_id": "0015648314054000",
+  "website": "https://www.asiaplast.co.id",
+  "listing_date": "2000-05-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Plastics and Packaging",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Khusus.",
+    "business_tags": [
+      "Barang Kimia Khusus"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 13,
+    "name": "Barang Kimia Khusus",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Hendri Yanti Panca Dewi Hastuti",
+    "email": "indri@asiaplast.co.id",
+    "phone": "021 5901465"
+  },
+  "directors": [
+    {
+      "name": "Wilson Agung Pranoto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Albert Sugianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Ali Pranata",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Giman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alexander Agung Pranoto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Susanto Tjioe",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rofie Soeandy",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Susanto Tjioe",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agustinus Virdian",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agnes Tjiandra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Maco Amangraha",
+      "type": "Lebih dari 5%",
+      "shares": 801304000,
+      "percentage": 58.8
+    },
+    {
+      "name": "Alexander Agung Pranoto",
+      "type": "Komisaris",
+      "shares": 388333748,
+      "percentage": 28.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 172932652,
+      "percentage": 12.69
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 101000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tiga Berlian Electric",
+      "business_type": "Perdagangan Besar Peralatan dan Perlengkapan Rumah Tangga",
+      "total_assets": 34781824930,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tiga Berlian Electric",
+      "business_type": "Perdagangan Besar Peralatan dan Perlengkapan Rumah Tangga",
+      "total_assets": 31823371563,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tiga Berlian Electric",
+      "business_type": "Perdagangan Besar Peralatan dan Perlengkapan Rumah Tangga",
+      "total_assets": 30174855161,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tiga Berlian Electric",
+      "business_type": "Perdagangan Besar Peralatan dan Perlengkapan Rumah Tangga",
+      "total_assets": 29168847281,
+      "ownership_percentage": 9.98
+    },
+    {
+      "name": "PT Tiga Berlian Electric",
+      "business_type": "Perdagangan Besar Peralatan dan Perlengkapan Rumah Tangga",
+      "total_assets": 27108679702,
+      "ownership_percentage": 99.8
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "316.139.764.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:56.070Z"
+}

@@ -1,0 +1,194 @@
+{
+  "company_name": "PT Wulandari Bangun Laksana Tbk",
+  "ticker": "BSBK",
+  "office_address": "Jl. Jend. Sudirman No. 47 Tower G Komplek Balikpapan Superblock Stall Kuda Kota Balikpapan, Kalimantan Timur 76114",
+  "email": "corsec.wbl@gmail.com",
+  "phone": "(0542) - 765888",
+  "fax": "(0542) - 765999",
+  "tax_id": "01.700.858.2-725.000",
+  "website": "https://www.balikpapansuperblock.com",
+  "listing_date": "2022-11-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Properti dan real estat yang dimiliki sendiri atau disewa",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Alexsandro Martin Tiga",
+    "email": "corsec.wbl@gmail.com",
+    "phone": "(0542) – 765888"
+  },
+  "directors": [
+    {
+      "name": "Christopher Sumasto Tjia",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Leonardus Sutarman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjia Daniel Wirawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nicholas Sumasto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Francisco Sumasto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Clarissa Ady Sumasto Tjia",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Veronica Pudjiati Lias",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Veronica Pudjiati Lias",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sudjadi Budiono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Handrian Saragih",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Christopher Sumasto Tjia",
+      "type": "Direksi",
+      "shares": 10000000000,
+      "percentage": 39.85
+    },
+    {
+      "name": "Clarissa Ady Sumasto Tjia",
+      "type": "Komisaris",
+      "shares": 10000000000,
+      "percentage": 39.85
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3779766237,
+      "percentage": 15.07
+    },
+    {
+      "name": "Glory Venture Capital Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1312116139,
+      "percentage": 5.23
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.530.604.824.875",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:14.583Z"
+}

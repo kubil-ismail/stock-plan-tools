@@ -1,0 +1,250 @@
+{
+  "company_name": "PT Green Power Group Tbk",
+  "ticker": "LABA",
+  "office_address": "Jl. Raya Imam Bonjol, Rt 08/rw 13, Sukadanau, Kec. Cikarang Barat, Kabupaten Bekasi, Jawa Barat, 17530",
+  "email": "info@greenpowergroup.id",
+  "phone": "02189533205",
+  "fax": "02189533205",
+  "tax_id": "01.346.018.3-048.000",
+  "website": "https://www.greenpowergroup.id",
+  "listing_date": "2021-06-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang perdagangan dan produksi baja dan produk turunan baja",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Manufaktur.",
+    "business_tags": [
+      "Energi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 46,
+    "name": "Mesin & Komponen Perindustrian",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Lu Haiying",
+    "email": "info@greenpowergroup.id",
+    "phone": "02189533205"
+  },
+  "directors": [
+    {
+      "name": "Kurnia Ngatimin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chen Xiao Xiao",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wahyu Eka Saputra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sutanty Jakidjan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hanry Darsono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Erik Jahja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Erik Jahja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Solikhin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irfan Nur Andri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 691369053,
+      "percentage": 62.66
+    },
+    {
+      "name": "PT Nev Stored Energy",
+      "type": "Lebih dari 5%",
+      "shares": 281792900,
+      "percentage": 25.54
+    },
+    {
+      "name": "PT Longping Investasi Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 130240600,
+      "percentage": 11.8
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sutanty Jakidjan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hanry Darsono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Erik Jahja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chen Xiaoxiao",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kurnia Ngatimin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wahyu Eka Saputra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sustainable Energy Development Trading",
+      "business_type": "Trading",
+      "total_assets": 15447289893,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Green Power Battrey",
+      "business_type": "Manufaktur",
+      "total_assets": 10514374816,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Herwin & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Yansen & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Tanuwijaya"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "139.028.721.678",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:24.359Z"
+}

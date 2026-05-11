@@ -1,0 +1,237 @@
+{
+  "company_name": "Lion Metal Works Tbk",
+  "ticker": "LION",
+  "office_address": "Jl. Raya Bekasi Km. 24,5 Cakung Jakarta",
+  "email": "ptlion@lionmetal.co.id",
+  "phone": "(021) 4600779, 4600784",
+  "fax": "(021) 4600785",
+  "tax_id": "0010602878054000",
+  "website": "https://www.lionmetal.co.id",
+  "listing_date": "1993-08-20",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Metal and Alied Products",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 64,
+    "name": "Peralatan Kantor",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Sukmawati Syarif",
+    "email": "ptlion@rad.net.id",
+    "phone": "(021) 4600784"
+  },
+  "directors": [
+    {
+      "name": "Cheng Yong Kim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Tai Pong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. H. Krisant Sophiaan Msc",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjoe Tjoe Peng (lawer Supendi)",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Cheng Yong Kwang",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lee Whay Keong",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jeanne Aratwenan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Jeanne Aratwenan A.r. Se.ak.cpa",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kevin Carmelo Cindy Adam Se",
+      "position": "Anggota"
+    },
+    {
+      "name": "Taruli Gultom Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Lion Holdings (pte) Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 150060000,
+      "percentage": 28.849
+    },
+    {
+      "name": "Lion Holdings Sdn Bhd",
+      "type": "Lebih dari 5%",
+      "shares": 150060000,
+      "percentage": 28.849
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 115322500,
+      "percentage": 22.17
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 103382500,
+      "percentage": 19.875
+    },
+    {
+      "name": "Lim Tai Pong",
+      "type": "Direksi",
+      "shares": 630000,
+      "percentage": 0.121
+    },
+    {
+      "name": "Cheng Yong Kim",
+      "type": "Direksi",
+      "shares": 400000,
+      "percentage": 0.077
+    },
+    {
+      "name": "Cheng Yong Kim",
+      "type": "Direksi",
+      "shares": 290000,
+      "percentage": 0.056
+    },
+    {
+      "name": "Ir. H. Krisant Sophiaan Msc",
+      "type": "Direksi",
+      "shares": 10000,
+      "percentage": 0.002
+    },
+    {
+      "name": "Tjoe Tjoe Peng/lawer S",
+      "type": "Direksi",
+      "shares": 5000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Singa Purwakarta Jaya",
+      "business_type": "Kawasan Industri",
+      "total_assets": 128937982560,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Singa Purwakarta Jaya",
+      "business_type": "Kawasan Industri",
+      "total_assets": 128937982560,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Singa Purwakarta Jaya",
+      "business_type": "Kawasan Industri / Industrial Estate",
+      "total_assets": 113067317761,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT Singa Purwakarta Jaya",
+      "business_type": "Kawasan Industri / Industrial Estate",
+      "total_assets": 112926493380,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT Singa Purwakarta Jaya",
+      "business_type": "Kawasan Industri / Industrial Estate",
+      "total_assets": 112146928447,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT Singa Purwakarta Jaya",
+      "business_type": "Kawasan Industri / Industrial Estate",
+      "total_assets": 112146928447,
+      "ownership_percentage": 9.999
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "213.265.600.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:39.178Z"
+}

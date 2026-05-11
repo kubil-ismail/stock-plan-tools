@@ -1,0 +1,273 @@
+{
+  "company_name": "Sat Nusapersada Tbk",
+  "ticker": "PTSN",
+  "office_address": "Jl. Pelita VI No. 99 Batam 29443",
+  "email": "corporate.secretary@satnusa.com",
+  "phone": "0778-5708888",
+  "fax": "-",
+  "tax_id": "01.530.807.5-054.000",
+  "website": "http://www.satnusa.com",
+  "listing_date": "2007-11-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Perakitan Elektronik",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Retail.",
+    "business_tags": [
+      "Teknologi",
+      "Retail"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 23,
+    "name": "Perangkat Keras & Peralatan Teknologi",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 41,
+    "name": "Peralatan Jaringan"
+  },
+  "sub_industry": {
+    "id": 63,
+    "name": "Peralatan Jaringan",
+    "industries_id": 41
+  },
+  "corporate_secretary": {
+    "name": "Rina Dewi",
+    "email": "rina.dewi@satnusa.com",
+    "phone": "0778-5708888"
+  },
+  "directors": [
+    {
+      "name": "Abidin Fan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bidin Yusuf",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kustina",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Smailly Andy",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Usman Fan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Herry Santoso",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Herry Santoso",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rusdiana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lily",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Abidin Fan",
+      "type": "Direksi",
+      "shares": 3532500000,
+      "percentage": 66.47
+    },
+    {
+      "name": "Inditeck Technology Hong Kong Limited",
+      "type": "Lebih dari 5%",
+      "shares": 531434400,
+      "percentage": 10
+    },
+    {
+      "name": "Asus Investment Co., Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 531434100,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 531295500,
+      "percentage": 10
+    },
+    {
+      "name": "Bidin Yusuf",
+      "type": "Direksi",
+      "shares": 187680000,
+      "percentage": 3.53
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sm Engineering",
+      "business_type": "Pengepisan Logam/metal Stamping",
+      "total_assets": 8998190,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sm Engineering",
+      "business_type": "Pengepisan Logam/metal Stamping",
+      "total_assets": 8241703,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sm Engineering",
+      "business_type": "Pengepisan Logam/metal Stamping",
+      "total_assets": 7953636,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sm Engineering",
+      "business_type": "Pengepisan Logam/metal Stamping",
+      "total_assets": 7383009,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sm Engineering",
+      "business_type": "Pengepisan Logam/metal Stamping",
+      "total_assets": 6154436,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sni Internasional",
+      "business_type": "Jasa/services",
+      "total_assets": 279006,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Sni Internasional",
+      "business_type": "Jasa/services",
+      "total_assets": 272074,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Sni Internasional",
+      "business_type": "Jasa/services",
+      "total_assets": 266526,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Sni Internasional",
+      "business_type": "Jasa/services",
+      "total_assets": 259239,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Tata Sarana Nusapersada",
+      "business_type": "Perdagangan Eceran Software/software Retail Trading",
+      "total_assets": 5785,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Tata Sarana Nusapersada",
+      "business_type": "Perdagangan Eceran Software/software Retail Trading",
+      "total_assets": 2982,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Tata Sarana Nusapersada",
+      "business_type": "Perdagangan Eceran Software/software Retail Trading",
+      "total_assets": 2861,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Tata Sarana Nusapersada",
+      "business_type": "Perdagangan Eceran Software/software Retail Trading",
+      "total_assets": 2759,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Sni Internasional",
+      "business_type": "Jasa/services",
+      "total_assets": 0,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Tata Sarana Nusapersada",
+      "business_type": "Perdagangan Eceran Software/software Retail Trading",
+      "total_assets": 0,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.626.189.264.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:14.935Z"
+}

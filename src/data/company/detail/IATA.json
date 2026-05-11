@@ -1,0 +1,253 @@
+{
+  "company_name": "PT Mnc Energy Investments Tbk",
+  "ticker": "IATA",
+  "office_address": "Mnc Tower Lantai 22 Jl. Kebon Sirih No. 17-19 Jakarta Pusat 10340 Indonesia",
+  "email": "corsec.iata@mncgroup.com",
+  "phone": "(62-21) 3912935",
+  "fax": "(62-21) 3912941",
+  "tax_id": "01.002.818.1-054.000",
+  "website": "https://www.mncenergy.com",
+  "listing_date": "2006-09-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Investment",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Konstruksi.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Andi Tenri Dala Fajar",
+    "email": "corporate.secretary@indonesia-air.com",
+    "phone": "+62-21 3912935"
+  },
+  "directors": [
+    {
+      "name": "Suryo Eko Hadianto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Suparman",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "A Wishnu Handoyono",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kahar Chua",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anthony Putra Tjiptodihardjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Leader Dermawan Soli Daeli",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andrea Frans Tambunan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hamidin",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hartono Tanoesoedibjo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Santi Paramita",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Amin Mansur",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hamidin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herman Solichin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Syelvy",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Karya Pacific Investama",
+      "type": "Lebih dari 5%",
+      "shares": 15258915800,
+      "percentage": 48.79
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 12796795677,
+      "percentage": 40.91
+    },
+    {
+      "name": "PT Mnc Asia Holding Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 3150257566,
+      "percentage": 10.07
+    },
+    {
+      "name": "Kahar Chua",
+      "type": "Direksi",
+      "shares": 52000000,
+      "percentage": 0.17
+    },
+    {
+      "name": "Henry Suparman",
+      "type": "Direksi",
+      "shares": 10315800,
+      "percentage": 0.03
+    },
+    {
+      "name": "Leader Dermawan Soli Daeli",
+      "type": "Direksi",
+      "shares": 4526200,
+      "percentage": 0.02
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1479638,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andrea Frans Tambunan",
+      "type": "Direksi",
+      "shares": 343300,
+      "percentage": 0
+    },
+    {
+      "name": "Santi Paramita",
+      "type": "Komisaris",
+      "shares": 3300,
+      "percentage": 0
+    },
+    {
+      "name": "A. Wishnu Handoyono",
+      "type": "Direksi",
+      "shares": 1192700,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bhakti Coal Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 167755781,
+      "ownership_percentage": 99.33
+    },
+    {
+      "name": "PT Mnc Infrastruktur Utama",
+      "business_type": "Jasa Pelabuhan dan Kontraktor Pertambangan",
+      "total_assets": 26977823,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhakti Migas Resources",
+      "business_type": "Investasi Gas dan Minyak",
+      "total_assets": 23851406,
+      "ownership_percentage": 80
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.564.618.058.442",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:55.734Z"
+}

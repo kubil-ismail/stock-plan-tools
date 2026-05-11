@@ -1,0 +1,227 @@
+{
+  "company_name": "PT Bukit Uluwatu Villa Tbk",
+  "ticker": "BUVA",
+  "office_address": "Gedung Graha Iskandarsyah Lantai 6, Jalan Iskandarsyah Raya No 66c, Jakarta Selatan 12160",
+  "email": "corsec@buvagroup.com",
+  "phone": "Kantor cabang :021-7209957",
+  "fax": "Kantor cabang : 021-7207523",
+  "tax_id": "02.097.827.6-054.001",
+  "website": "https://www.buvagroup.com",
+  "listing_date": "2010-07-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Akomodasi dan Perhotelan",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Rian Fachmi Tobing",
+    "email": "rian.fachmi@buvagroup.com",
+    "phone": "0217209975"
+  },
+  "directors": [
+    {
+      "name": "Satrio",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Cindy Budijono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Timothy Eugene Alamsyah",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Astini Bernawati Oudang",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Seong Hoon Park",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Diah Pikatan Orissa Putri Haprani",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Seong Hoon Park",
+      "position": "Ketua"
+    },
+    {
+      "name": "Raditia Christine Senjaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nancy Nataleo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Nusantara Utama Investama",
+      "type": "Lebih dari 5%",
+      "shares": 15034031772,
+      "percentage": 61.07
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 9556313736,
+      "percentage": 38.83
+    },
+    {
+      "name": "Satrio",
+      "type": "Direksi",
+      "shares": 13333334,
+      "percentage": 0.05
+    },
+    {
+      "name": "Cindy Budijono",
+      "type": "Direksi",
+      "shares": 5000000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Astini Bernawati Oudang",
+      "type": "Komisaris",
+      "shares": 5000000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Timothy Eugene Alamsyah",
+      "type": "Direksi",
+      "shares": 3375800,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Diah Pikatan Orissa Putri Haprani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Seong Hoon Park",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bukit Lagoi Villa",
+      "business_type": "Hotel Bintang",
+      "total_assets": 146518956,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Mandra Alila",
+      "business_type": "Hotel Bintang",
+      "total_assets": 45970720,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dialog Mitra Sukses",
+      "business_type": "Penyedia Akomodasi Lainnya",
+      "total_assets": 29061193,
+      "ownership_percentage": 99.53
+    },
+    {
+      "name": "PT Sitaro Mitra Abadi",
+      "business_type": "Hotel Bintang",
+      "total_assets": 9534796,
+      "ownership_percentage": 82.71
+    },
+    {
+      "name": "PT Culina Global Utama",
+      "business_type": "Restoran dan Bar",
+      "total_assets": 6040282,
+      "ownership_percentage": 50.24
+    },
+    {
+      "name": "PT Bukit Bali Permai",
+      "business_type": "Hotel Bintang",
+      "total_assets": 1477805,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "25.847.907.374.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:37.053Z"
+}

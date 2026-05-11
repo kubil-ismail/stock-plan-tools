@@ -1,22 +1,25 @@
 "use client";
 
-import company from "@/data/company.json";
 import CompanyLogo from "@/components/companyLogo";
-import { IndustryHierarchy } from "@/components/companyCard";
-import { StockDetail } from "@/types/stocks";
-import { GlassCard } from "@/components/glassCard";
 import Breadcrumbs from "@/components/breadcrumbs";
+import { useState } from "react";
+import { GlassCard } from "@/components/glassCard";
+import { IndustryHierarchy } from "@/components/companyCard";
+import { Building2, Calendar, LineChart } from "lucide-react";
+import { StockDetailResponse, ApilResponse } from "@/types/stocks";
+import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import Kinerja_saham_view from "./tabs/kinerja-saham.view";
 import Profil_perusahaan_view from "./tabs/profil-perusahaan.view";
 import Aksi_korporasi_view from "./tabs/aksi-korporasi.view";
 
-import { Building2, Calendar, LineChart } from "lucide-react";
-import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { useState } from "react";
-import Kinerja_saham_view from "./tabs/kinerja-saham.view";
-
-function Company_detail_view({ slug }: { slug: string }) {
-  const _company: StockDetail[] = (company as { data: StockDetail[] }).data;
-  const selectedCompany = _company.find((item) => item.ticker === slug)!;
+function Company_detail_view({
+  slug,
+  detailCompany,
+}: {
+  slug: string;
+  detailCompany: ApilResponse<StockDetailResponse>;
+}) {
+  const selectedCompany = detailCompany.data;
 
   const [tabs, setTabs] = useState("profil-perusahaan");
 
@@ -63,7 +66,7 @@ function Company_detail_view({ slug }: { slug: string }) {
               </div>
 
               <p className="text-base text-gray-700 text-[14px] md:text-[16px] font-medium text-pretty">
-                {selectedCompany?.name}
+                {selectedCompany?.company_name}
               </p>
 
               <IndustryHierarchy company={selectedCompany!} />

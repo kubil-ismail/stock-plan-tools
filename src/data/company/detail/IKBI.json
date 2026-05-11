@@ -1,0 +1,206 @@
+{
+  "company_name": "Sumi Indo Kabel Tbk",
+  "ticker": "IKBI",
+  "office_address": "Jl. Gatot Subroto Km. 7,8 Desa Pasir Jaya Jatiuwung Tangerang",
+  "email": "secretary-sik@gr.sei.co.jp",
+  "phone": "(021) 5922404",
+  "fax": "(021) 5922576",
+  "tax_id": "0011.4665.9605.4000",
+  "website": "https://www.sikabel.com",
+  "listing_date": "1991-01-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Kabel",
+    "business_summary": "Perusahaan bergerak di bidang Komponen & Peralatan Kelistrikan.",
+    "business_tags": [
+      "Komponen & Peralatan Kelistrikan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 18,
+    "name": "Kelistrikan"
+  },
+  "sub_industry": {
+    "id": 38,
+    "name": "Komponen & Peralatan Kelistrikan",
+    "industries_id": 18
+  },
+  "corporate_secretary": {
+    "name": "Anastasia Senja Impianie Putri",
+    "email": "secretary-sik@gr.sei.co.jp",
+    "phone": "021 5922404"
+  },
+  "directors": [
+    {
+      "name": "Satoshi Nishikawa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sulim Herman Limbono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Osamu Okamoto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sotaro Hidaka",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Satoshi Nishikawa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sulim Herman Limbono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Osamu Okamoto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sotaro Hidaka",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Michio Uchino",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hidekazu Ikeda",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Cahyadi Wijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Michio Uchino",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hidekazu Ikeda",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Cahyadi Wijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Cahyadi Wijaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ferdy Christianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sherren Anggundya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sumitomo Electric Industries, Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 1119486000,
+      "percentage": 91.46
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 96208560,
+      "percentage": 7.86
+    },
+    {
+      "name": "Sulim Herman Limbono",
+      "type": "Direksi",
+      "shares": 6079440,
+      "percentage": 0.5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2186000,
+      "percentage": 0.18
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Satoshi Nishikawa",
+      "type": "Direksi",
+      "shares": 40000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "679.320.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:16.753Z"
+}

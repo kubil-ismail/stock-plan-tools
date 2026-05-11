@@ -1,0 +1,204 @@
+{
+  "company_name": "PT Rimo International Lestari Tbk.",
+  "ticker": "RIMO",
+  "office_address": "Ambassade Residence Lt. 1 Jl. Denpasar Raya Kav. 5 - 7 Jakarta Selatan 12950",
+  "email": "corsec@rimointernational.co",
+  "phone": "021-2522702",
+  "fax": "021-57852639",
+  "tax_id": "01.322.971.1-054.000",
+  "website": "https://www.rimointernational.com",
+  "listing_date": "2000-11-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Retail Trade",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Retail.",
+    "business_tags": [
+      "Properti",
+      "Retail"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Ade Tutut Tunggal.r",
+    "email": "ade_tutut@yahoo.com",
+    "phone": "021-3519555"
+  },
+  "directors": [
+    {
+      "name": "Teddy Tjokrosapoetro",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Henry Poerwantoro",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Herman Susanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Siswanto",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Franky Tjokrosaputro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Iwandono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tunggul Guntur Pasaribu",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tunggul Guntur Pasaribu",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aditya Barmen Saragih, Se., Ak., M.ak., Ca., Cpa.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Riyadi, Se., Mm., Cpa., Cma.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 35299277955,
+      "percentage": 78.303
+    },
+    {
+      "name": "Nbs Clients",
+      "type": "Lebih dari 5%",
+      "shares": 4769888939,
+      "percentage": 10.581
+    },
+    {
+      "name": "Teddy Tjokrosapoetro",
+      "type": "Lebih dari 5%",
+      "shares": 2556148021,
+      "percentage": 5.67
+    },
+    {
+      "name": "Teddy Tjokrosapoetro",
+      "type": "Direksi",
+      "shares": 2556148021,
+      "percentage": 5.67
+    },
+    {
+      "name": "PT. Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 2455285085,
+      "percentage": 5.446
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Hokindo Properti Investama",
+      "business_type": "Pengembangan Real Estate",
+      "total_assets": 6125653242089,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rimonet Inti Cemerlang",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 598857817,
+      "ownership_percentage": 99.45
+    },
+    {
+      "name": "PT Rimo Nusantara Mandiri",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 118650679,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Rimo Surabaya Lestari",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 0,
+      "ownership_percentage": 95.42
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.254.030.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:52.933Z"
+}

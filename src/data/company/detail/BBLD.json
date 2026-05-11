@@ -1,0 +1,201 @@
+{
+  "company_name": "Buana Finance Tbk",
+  "ticker": "BBLD",
+  "office_address": "Office Tower @ Ciputra World 2, Lantai 38 Unit A-f Jl. Prof. Dr. Satrio Kav.11 Jakarta 12950",
+  "email": "dldivcorsec@buanafinance.co.id",
+  "phone": "021-50806969",
+  "fax": "021-50806996",
+  "tax_id": "0013636998054000",
+  "website": "https://www.buanafinance.co.id",
+  "listing_date": "1990-05-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Ahmad Khaetami",
+    "email": "ahmad.khaetami@buanafinance.co.id",
+    "phone": "021-50806969"
+  },
+  "directors": [
+    {
+      "name": "Yannuar Alin",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Herman Lesmana",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mariana Setyadi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Siang Hadi Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tjan Soen Eng",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pintaro Mulia",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pintaro Mulia",
+      "position": "Ketua"
+    },
+    {
+      "name": "Vonny Sulaimin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hari Manurung",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sari Dasa Karsa",
+      "type": "Lebih dari 5%",
+      "shares": 1112584069,
+      "percentage": 67.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 442062761,
+      "percentage": 26.86
+    },
+    {
+      "name": "Bank Of Singapore Limited",
+      "type": "Lebih dari 5%",
+      "shares": 89825200,
+      "percentage": 5.46
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1324024,
+      "percentage": 0.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Siang Hadi Widjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjan Soen Eng",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pintaro Mulia",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yannuar Alin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herman Lesmana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mariana Setyadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.094.454.375.910",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:13.068Z"
+}

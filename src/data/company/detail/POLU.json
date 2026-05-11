@@ -1,0 +1,380 @@
+{
+  "company_name": "PT Golden Flower Tbk.",
+  "ticker": "POLU",
+  "office_address": "Jl. Karimunjawa, Kelurahan Gedanganak, Kecamatan Ungaran Timur, Kabupaten Semarang 50519 Jawa Tengah",
+  "email": "corsec@pt-goldenflower.com",
+  "phone": "024 - 692 1228",
+  "fax": "024 - 692 1327",
+  "tax_id": "01.139.690.0-511.000",
+  "website": "https://www.goldenflower.co.id",
+  "listing_date": "2019-06-26",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "menjalankan usaha dalam bidang industry garmen",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 53,
+    "name": "Pakaian, Aksesoris, & Tas",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Aditya Manggala Putra",
+    "email": "corsec@pt-goldenflower.com",
+    "phone": "(024) 6921228"
+  },
+  "directors": [
+    {
+      "name": "Teny Siti Febryani",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pricilia Yeny Avianita",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Handojo Koentoro Setyadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jang Rony Yuwono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Brian Praneda",
+      "position": "Ketua"
+    },
+    {
+      "name": "Irena Lady Soemarlim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Albert Christo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Profashion Apparel",
+      "type": "Lebih dari 5%",
+      "shares": 599960000,
+      "percentage": 79.99
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 85900400,
+      "percentage": 11.45
+    },
+    {
+      "name": "PT Golden Flower Global Resources",
+      "type": "Lebih dari 5%",
+      "shares": 64099600,
+      "percentage": 8.55
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 40000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Air Berkat Cemerlang",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Air Berkat Cemerlang",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Air Berkat Cemerlang",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Air Berkat Cemerlang",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Air Berkat Cemerlang",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Air Berkat Cemerlang",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gfa Sentosa Indonesia",
+      "business_type": "Industri & Perdagangan Garmen",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gfa Sentosa Indonesia",
+      "business_type": "Industri & Perdagangan Garmen",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gfa Sentosa Indonesia",
+      "business_type": "Industri & Perdagangan Garmen",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gfa Sentosa Indonesia",
+      "business_type": "Industri & Perdagangan Garmen",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gfa Sentosa Indonesia",
+      "business_type": "Industri & Perdagangan Garmen",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gfa Sentosa Indonesia",
+      "business_type": "Industri & Perdagangan Garmen",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gunung Berkat Semesta",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gunung Berkat Semesta",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gunung Berkat Semesta",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gunung Berkat Semesta",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gunung Berkat Semesta",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gunung Berkat Semesta",
+      "business_type": "Real Estat",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Rumah Sakit Majapahit",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Rumah Sakit Majapahit",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Rumah Sakit Majapahit",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Rumah Sakit Majapahit",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Rumah Sakit Majapahit",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Rumah Sakit Majapahit",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sehat Mandiri Semesta",
+      "business_type": "Perdagangan Besar dan Eceran",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sehat Mandiri Semesta",
+      "business_type": "Perdagangan Besar dan Eceran",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sehat Mandiri Semesta",
+      "business_type": "Perdagangan Besar dan Eceran",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sehat Mandiri Semesta",
+      "business_type": "Perdagangan Besar dan Eceran",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sehat Mandiri Semesta",
+      "business_type": "Perdagangan Besar dan Eceran",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sehat Mandiri Semesta",
+      "business_type": "Perdagangan Besar dan Eceran",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kartoyo, Drs., & Rekan"
+    },
+    {
+      "name": "Kartoyo, Drs., & Rekan"
+    },
+    {
+      "name": "Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Kartoyo, Drs., & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kartoyo, Drs., & Rekan"
+    },
+    {
+      "name": "Leonard, Mulia & Richard"
+    },
+    {
+      "name": "Kartoyo, Drs., & Rekan"
+    },
+    {
+      "name": "Leonard, Mulia & Richard"
+    },
+    {
+      "name": "Kartoyo, Drs., & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kartoyo, Drs., & Rekan"
+    },
+    {
+      "name": "Kap Drs. Ferdinand & Rekan"
+    },
+    {
+      "name": "Kartoyo, Drs., & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "10.650.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:36.527Z"
+}

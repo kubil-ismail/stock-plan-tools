@@ -1,0 +1,256 @@
+{
+  "company_name": "PT Fap Agri Tbk",
+  "ticker": "FAPA",
+  "office_address": "Gedung Gold Coast, Tower Liberty Lt. 16 A - H Jl. Pantai Indah Kapuk, Rt 06 Rw 02 – Penjaringan Jakarta Utara 14470",
+  "email": "corp.secretary@fap-agri.com",
+  "phone": "(021) 50205811",
+  "fax": "0",
+  "tax_id": "01.709.688.4-725.000",
+  "website": "https://www.fap-agri.com",
+  "listing_date": "2021-01-04",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan Holding yang Melakukan Aktivitas Kantor Pusat dan Kegiatan Perkebunan dan Industri Kelapa Sawit Melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Henryzal M Panjaitan",
+    "email": "corp.secretary@fap-agri.com",
+    "phone": "021 – 29334648 / 49"
+  },
+  "directors": [
+    {
+      "name": "Ricky Tjandra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Henryzal M Panjaitan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Donny",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Muhamad Salim",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Muhamad Salim",
+      "position": "Ketua"
+    },
+    {
+      "name": "David",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ferry Perdana Putra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Prinsep Indo Hld",
+      "type": "Lebih dari 5%",
+      "shares": 2878633330,
+      "percentage": 79.31
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 353030800,
+      "percentage": 9.73
+    },
+    {
+      "name": "PT Fangionoperkasa Sejati",
+      "type": "Lebih dari 5%",
+      "shares": 253325670,
+      "percentage": 6.98
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 144422000,
+      "percentage": 3.98
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tirta Madu Sawit Jaya",
+      "business_type": "Perkebunan dan Pengolahan Kelapa Sawit",
+      "total_assets": 1688619692280,
+      "ownership_percentage": 16.93
+    },
+    {
+      "name": "PT Karangjuang Hijaulestari",
+      "business_type": "Perkebunan dan Pengolahan Kelapa Sawit",
+      "total_assets": 1658377219236,
+      "ownership_percentage": 16.62
+    },
+    {
+      "name": "PT Marsam Citra Adiperkasa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1530024146966,
+      "ownership_percentage": 15.34
+    },
+    {
+      "name": "PT Ketapang Hijau Lestari",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1229135238319,
+      "ownership_percentage": 12.32
+    },
+    {
+      "name": "PT Borneo Bhakti Sejahtera",
+      "business_type": "Perkebunan dan Pengolahan Kelapa Sawit",
+      "total_assets": 1043388026065,
+      "ownership_percentage": 10.46
+    },
+    {
+      "name": "PT Bulungan Hijau Perkasa",
+      "business_type": "Perkebunan dan Pengolahan Kelapa Sawit",
+      "total_assets": 918515673402,
+      "ownership_percentage": 9.21
+    },
+    {
+      "name": "PT Bhumi Simanggaris Indah",
+      "business_type": "Perkebunan dan Pengolahan Kelapa Sawit",
+      "total_assets": 862334114459,
+      "ownership_percentage": 8.64
+    },
+    {
+      "name": "PT Setia Agro Utama",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 619435042495,
+      "ownership_percentage": 6.21
+    },
+    {
+      "name": "PT Riau Agung Karya Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 404537841087,
+      "ownership_percentage": 4.06
+    },
+    {
+      "name": "PT Fajar Niaga Berjaya",
+      "business_type": "Perdagangan",
+      "total_assets": 21197533517,
+      "ownership_percentage": 0.21
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "25.587.353.190.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:19.640Z"
+}

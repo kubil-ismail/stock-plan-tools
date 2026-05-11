@@ -1,0 +1,227 @@
+{
+  "company_name": "Bank Victoria International Tbk",
+  "ticker": "BVIC",
+  "office_address": "Graha Bip Lantai 10, Jl. Gatot Subroto Kav. 23, Jakarta",
+  "email": "corsec@victoriabank.co.id",
+  "phone": "021-5228888",
+  "fax": "021-5228777",
+  "tax_id": "01.592.025.9-054.000",
+  "website": "https://www.victoriabank.co.id",
+  "listing_date": "1999-06-30",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Caprie Ardira Azhar",
+    "email": "corsec@victoriabank.co.id",
+    "phone": "5228888"
+  },
+  "directors": [
+    {
+      "name": "Achmad Friscantono",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rusli",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Debora Wahjutirto Tanoyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lembing",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Tamunan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Zaenal Abidin",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gunawan Tenggarahardja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sia Leng Ho",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Zaenal Abidin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Taufiq Akbar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Medi Sejati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Victoria Investama Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 11082071942,
+      "percentage": 60.17
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4214334779,
+      "percentage": 22.88
+    },
+    {
+      "name": "Chemical Asia Corporation Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1958234404,
+      "percentage": 10.63
+    },
+    {
+      "name": "Suzanna Tanojo",
+      "type": "Lebih dari 5%",
+      "shares": 1163587703,
+      "percentage": 6.32
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1190000,
+      "percentage": 0
+    },
+    {
+      "name": "Debora Wahjutirto Tanoyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tamunan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Zaenal Abidin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Tenggarahardja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sia Leng Ho",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Achmad Friscantono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rusli",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lembing",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.914.703.009.170",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:38.515Z"
+}

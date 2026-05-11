@@ -1,0 +1,263 @@
+{
+  "company_name": "PT Sawit Sumbermas Sarana Tbk.",
+  "ticker": "SSMS",
+  "office_address": "Equity Tower, 43 F Suite 43 D Jl. Jend. Sudirman Kav.52-53 SCBD Lot 9 Jakarta 12190",
+  "email": "corporate@ssms.co.id",
+  "phone": "(021) 2903 5401",
+  "fax": "(021) 2903 5405",
+  "tax_id": "01.580.402.4-054.000",
+  "website": "https://www.ssms.co.id",
+  "listing_date": "2013-12-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Menjalankan usaha dalam bidang pertanian, perdagangan dan industri",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Deni Agustinus",
+    "email": "deni@ssms.co.id",
+    "phone": "021 29035401-04"
+  },
+  "directors": [
+    {
+      "name": "Akhmad Faisyal",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jap Hartono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jahja Tanudjaja Adelai",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Roshan Chakravarthy Adelai",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henky Satrio Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bungaran Saragih",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rimbun Situmorang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hoesen",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hoesen",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arif M. Prawirawinata",
+      "position": "Anggota"
+    },
+    {
+      "name": "Arini Imamawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Citra Borneo Indah",
+      "type": "Lebih dari 5%",
+      "shares": 6270247400,
+      "percentage": 65.83
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2777814149,
+      "percentage": 29.16
+    },
+    {
+      "name": "PT Putra Borneo Agro Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 476938451,
+      "percentage": 5.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jap Hartono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Akhmad Faisyal",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jahja Tanudjaja Adelai",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Roshan Chakravarthy Vallautham",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henky Satrio Wibowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bungaran Saragih",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rimbun Situmorang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hoesen",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kalimantan Sawit Abadi",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 5790899,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Citra Borneo Utama Tbk",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 3863012,
+      "ownership_percentage": 78.2
+    },
+    {
+      "name": "PT Mitra Mendawai Sejati",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 3673874,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Ssms Plantation Holding Pte. Ltd",
+      "business_type": "Jasa Pendukung Bisnis",
+      "total_assets": 1568191,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sawit Sumbermas International Pte. Ltd",
+      "business_type": "Penjualan Produk Kelapa Sawit",
+      "total_assets": 15,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "13.144.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:41.805Z"
+}

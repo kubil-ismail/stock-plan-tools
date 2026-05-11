@@ -1,0 +1,274 @@
+{
+  "company_name": "PT Intermedia Capital Tbk.",
+  "ticker": "MDIA",
+  "office_address": "The Convergence Indonesia Lantai 27 Jl.h.r. Rasuna Said, Karet Kuningan, Setiabudi, Jakarta, 12940",
+  "email": "corsec@imc.co.id",
+  "phone": "(+6221) 29912182",
+  "fax": "(6221) 29941789",
+  "tax_id": "02.627.351.0-054.000",
+  "website": "https://www.imc.co.id",
+  "listing_date": "2014-04-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Penyedia jasa konten yang berfokus pada konten keluarga, anak-anak dan hiburan melalui Entitas Anak.",
+    "business_summary": "Perusahaan bergerak di bidang Media.",
+    "business_tags": [
+      "Media"
+    ],
+    "business_keywords": [
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 59,
+    "name": "Penyiaran",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Andrew Santoni Hutasoit",
+    "email": "corsec@imc.id",
+    "phone": "08111499139"
+  },
+  "directors": [
+    {
+      "name": "Ahmad Rahadian Widarmana",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rm. Harlin Erlianto Rahardjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yufli Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anindra Ardiansyah Bakrie",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Arief Yahya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "C.f. Carmelita Hardikusumo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Raden Mas Djoko Setiotomo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Raden Mas Djoko Setiotomo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Eris Maulana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maman Casmanan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Visi Media Asia Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 32658863400,
+      "percentage": 83.2804
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3918612000,
+      "percentage": 9.9925
+    },
+    {
+      "name": "PT Dms Investama",
+      "type": "Lebih dari 5%",
+      "shares": 2635000000,
+      "percentage": 6.7193
+    },
+    {
+      "name": "Ahmad Rahadian Widarmana",
+      "type": "Direksi",
+      "shares": 2938000,
+      "percentage": 0.0075
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 125000,
+      "percentage": 0.0003
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cakrawala Andalas Televisi (catv)",
+      "business_type": "Penyiaran Televisi Swasta Umum",
+      "total_assets": 4451829201,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Bandung dan Bengkulu",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 23501592,
+      "ownership_percentage": 99.09
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Bali dan Mataram",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 23084518,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Makassar dan Palu",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 23074518,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Banjarmasin dan Padang",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 23062558,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Palembang dan Bangka Belitung",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 21590958,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Medan dan Batam",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 21297073,
+      "ownership_percentage": 99.09
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Yogyakarta dan Ambon",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 21065199,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Pekanbaru dan Papua",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 19844638,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Manado dan Gorontalo",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 19830838,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Lampung dan Kendari",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 19820838,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Semarang dan Palangkaraya",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 16229780,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Cakrawala Andalas Televisi Surabaya dan Samarinda",
+      "business_type": "Jasa Industri Penyiaran Televisi Swasta",
+      "total_assets": 566435,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tjiendradjaja & Handoko Tomo"
+    },
+    {
+      "name": "Tjiendradjaja & Handoko Tomo"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tjiendradjaja & Handoko Tomo"
+    },
+    {
+      "name": "Tjiendradjaja & Handoko Tomo"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.098.019.992.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:30.162Z"
+}

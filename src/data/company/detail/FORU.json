@@ -1,0 +1,209 @@
+{
+  "company_name": "Fortune Indonesia Tbk",
+  "ticker": "FORU",
+  "office_address": "Menara Bca, Lantai 36, Suite 3603, Jl. MH Thamrin No 1, Menteng Jakarta Pusat",
+  "email": "corsec@foru.co.id",
+  "phone": "+62 21 23587333",
+  "fax": "+62 21 23587333",
+  "tax_id": "01.303.912.8-054.000",
+  "website": "https://www.foru.co.id",
+  "listing_date": "2002-01-17",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Media dan Percetakan",
+    "business_summary": "Perusahaan bergerak di bidang Media.",
+    "business_tags": [
+      "Media"
+    ],
+    "business_keywords": [
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 72,
+    "name": "Periklanan",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Hadi Pranggono",
+    "email": "corsec@foru.co.id",
+    "phone": "+622123587333"
+  },
+  "directors": [
+    {
+      "name": "Anirudh Misra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hadi Pranggono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "David Alfa Perdana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Carl Lennart Dillner",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Toto Setyoadi Murdiono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Toto Setyoadi Murdiono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tjandra Susanto Putra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Iwan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Imr Asia Holding Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 357342600,
+      "percentage": 76.81
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 54159400,
+      "percentage": 11.64
+    },
+    {
+      "name": "Karya Citra Prima",
+      "type": "Lebih dari 5%",
+      "shares": 53722000,
+      "percentage": 11.55
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anirudh Misra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hadi Pranggono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Alfa Perdana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Carl Lennart Dillner",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Toto Setyoadi Murdiono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Fortuna Network Indonesia (fni)",
+      "business_type": "Periklanan Terintegrasi dan Kehumasan/ Integrated Advertising And Public Relation",
+      "total_assets": 19838936515,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fortune Pramana Rancang (fpr)",
+      "business_type": "Periklanan Terintegrasi dan Kehumasan/ Integrated Advertising And Public Relation",
+      "total_assets": 9391727401,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fortune Adwicipta (fac)",
+      "business_type": "Periklanan Terintegrasi dan Kehumasan/ Integrated Advertising And Public Relation",
+      "total_assets": 775330488,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "602.465.080.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:35.775Z"
+}

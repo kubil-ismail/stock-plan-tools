@@ -1,0 +1,216 @@
+{
+  "company_name": "Suparma Tbk",
+  "ticker": "SPMA",
+  "office_address": "Jl. Mastrip No. 856, Karangpilang Surabaya",
+  "email": "corp.sec@ptsuparmatbk.com",
+  "phone": "(031) 766-666, 766-33-96, 766-24-90(-93) (Buyung : 031-705-82-380) Hendro Luhur HP : 0818-52-60-05",
+  "fax": "(031) 766 3287",
+  "tax_id": "01.122.096.9-054.000",
+  "website": "https://www.ptsuparmatbk.com",
+  "listing_date": "1994-11-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pulp and Paper",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Alberta Angela",
+    "email": "corp.sec@ptsuparmatbk.com",
+    "phone": "031-7666666"
+  },
+  "directors": [
+    {
+      "name": "Edward Sopanan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Joseph Sulaiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Barli Leoponco",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendro Luhur",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Welly",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Subiantara, Bsc",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tan, Juanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Maria Bernadette Lanniwati Wibisono",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Treeyanie",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Pacific Star Synergy (efg Bank Ag, Singapore Branch A/c Clients)",
+      "type": "Lebih dari 5%",
+      "shares": 2049446100,
+      "percentage": 49.98
+    },
+    {
+      "name": "PT. Gloriajaya Gempita",
+      "type": "Lebih dari 5%",
+      "shares": 1290847294,
+      "percentage": 31.48
+    },
+    {
+      "name": "PT. Graha Inti Harapan",
+      "type": "Lebih dari 5%",
+      "shares": 437754302,
+      "percentage": 10.68
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 312715132,
+      "percentage": 7.63
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 9554610,
+      "percentage": 0.23
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Welly",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Juanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Subiantara",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "M.b. Lanniwati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edward Sopanan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Joseph Sulaiman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Barli Leoponco",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendro Luhur",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "861.066.661.980",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:31.405Z"
+}

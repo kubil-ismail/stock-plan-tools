@@ -1,0 +1,284 @@
+{
+  "company_name": "PT Wahana Interfood Nusantara Tbk.",
+  "ticker": "COCO",
+  "office_address": "Jalan Raya Parakan Muncang, Dusun Cipacing, Rt. 017, Rw. 004, Desa Mekarbakti, Kecamatan Pamulihan, Kabupaten Sumedang, Kode Pos 45365.",
+  "email": "corsec@winco.co.id",
+  "phone": "-",
+  "fax": "-",
+  "tax_id": "02.567.517.4-428.000",
+  "website": "https://www.wahana-interfood.com",
+  "listing_date": "2019-03-20",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Menjalankan Usaha yang bergerak di bidang produksi kakao dan cokelat",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Makanan & Minuman, Retail.",
+    "business_tags": [
+      "Properti",
+      "Makanan & Minuman",
+      "Retail"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Gendra Fachrurozi",
+    "email": "gendra@wahana-interfood.com",
+    "phone": "0225411331"
+  },
+  "directors": [
+    {
+      "name": "Sugianto Soenario",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Irma Suntita",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Triyanto Sulistyono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Widjanarko Brotosaputro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Heru Winato",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Heru Winanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Syaeful Munir",
+      "position": "Anggota"
+    },
+    {
+      "name": "Anna Kania Widiatami",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mahogany Global Investment Pte.ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1826864604,
+      "percentage": 51.32
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1546076676,
+      "percentage": 43.44
+    },
+    {
+      "name": "Dbs Bank Ltd Sg-pb Client",
+      "type": "Lebih dari 5%",
+      "shares": 186514644,
+      "percentage": 5.24
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Widjanarko Brotosaputro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heru Winanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sugianto Soenario",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Triyanto Sulistyono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Irma Suntita",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wahana Distribusi Nusantara",
+      "business_type": "Perdangan Besar dan Eceran",
+      "total_assets": 19631629989,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dlanier Gaya Indonesia",
+      "business_type": "Perdagangan dan Industri",
+      "total_assets": 9136570412,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Biji Kopi Internusa",
+      "business_type": "Industri Pengolahan",
+      "total_assets": 2448628481,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Wahana Retail Nusantara",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 1252105011,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Winco Niagatama Corpora",
+      "business_type": "Real Estate",
+      "total_assets": 30641609,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.139.025.895.680",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:26.075Z"
+}

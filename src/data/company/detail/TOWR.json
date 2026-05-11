@@ -1,0 +1,1136 @@
+{
+  "company_name": "Sarana Menara Nusantara Tbk",
+  "ticker": "TOWR",
+  "office_address": "Jl. Jend. A. Yani No. 19a Kudus, Jawa Tengah",
+  "email": "monalisa.irawan@protelindo.net",
+  "phone": "(021) - 23585500",
+  "fax": "(021) - 23586446",
+  "tax_id": "02.679.902.3-506.000",
+  "website": "http://www.ptsmn.co.id",
+  "listing_date": "2010-03-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Investasi dan jasa penunjang telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Energi, Konstruksi.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 17,
+    "name": "Jasa Telekomunikasi Nirkabel"
+  },
+  "sub_industry": {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  "corporate_secretary": {
+    "name": "Monalisa Irawan",
+    "email": "corpsec@protelindo.net",
+    "phone": "(62-21) 23585500"
+  },
+  "directors": [
+    {
+      "name": "Ferdinandus Aming Santoso",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Eko Santoso Hadiprodjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indra Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anita Anwar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Kusmayanto Kadiman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ario Wibisono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "John Aristianto Prasetio",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kenny Harjo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kusmayanto Kadiman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Edy Sugito",
+      "position": "Anggota"
+    },
+    {
+      "name": "Adi Vithara Purba",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sapta Adhikari Investama",
+      "type": "Lebih dari 5%",
+      "shares": 26764246165,
+      "percentage": 45.2878
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 19253728904,
+      "percentage": 32.579
+    },
+    {
+      "name": "PT Dwimuria Investama Andalan",
+      "type": "Lebih dari 5%",
+      "shares": 11792689937,
+      "percentage": 19.9544
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 990296554,
+      "percentage": 1.676
+    },
+    {
+      "name": "Ario Wibisono",
+      "type": "Komisaris",
+      "shares": 243246800,
+      "percentage": 0.4116
+    },
+    {
+      "name": "Ferdinandus Aming Santoso",
+      "type": "Direksi",
+      "shares": 30338281,
+      "percentage": 0.0513
+    },
+    {
+      "name": "Eko Santoso Hadiprodjo",
+      "type": "Direksi",
+      "shares": 10630000,
+      "percentage": 0.018
+    },
+    {
+      "name": "Indra Gunawan",
+      "type": "Direksi",
+      "shares": 7800490,
+      "percentage": 0.0132
+    },
+    {
+      "name": "Anita Anwar",
+      "type": "Direksi",
+      "shares": 5126600,
+      "percentage": 0.0087
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Profesional Telekomunikasi Indonesia",
+      "business_type": "Jasa Penunjang Telekomunikasi",
+      "total_assets": 50665308,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Profesional Telekomunikasi Indonesia",
+      "business_type": "Jasa Penunjang Telekomunikasi",
+      "total_assets": 50527516,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Profesional Telekomunikasi Indonesia",
+      "business_type": "Jasa Penunjang Telekomunikasi",
+      "total_assets": 47614450,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Profesional Telekomunikasi Indonesia",
+      "business_type": "Jasa Penunjang Telekomunikasi",
+      "total_assets": 47614450,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Profesional Telekomunikasi Indonesia",
+      "business_type": "Jasa Penunjang Telekomunikasi",
+      "total_assets": 47614450,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Profesional Telekomunikasi Indonesia",
+      "business_type": "Jasa Penunjang Telekomunikasi",
+      "total_assets": 47614450,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Profesional Telekomunikasi Indonesia",
+      "business_type": "Jasa Penunjang Telekomunikasi",
+      "total_assets": 47180309,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "business_type": "Penyelenggara Jaringan Tetap Tertutup Berbasis Vsat dan Fiber Optik",
+      "total_assets": 19002333,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "business_type": "Penyelenggara Jaringan Tetap Tertutup Berbasis Vsat dan Fiber Optik",
+      "total_assets": 15251809,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "business_type": "Penyelenggara Jaringan Tetap Tertutup Berbasis Vsat dan Fiber Optik",
+      "total_assets": 13173512,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "business_type": "Penyelenggara Jaringan Tetap Tertutup Berbasis Vsat dan Fiber Optik",
+      "total_assets": 13173512,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "business_type": "Penyelenggara Jaringan Tetap Tertutup Berbasis Vsat dan Fiber Optik",
+      "total_assets": 13173512,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "business_type": "Penyelenggara Jaringan Tetap Tertutup Berbasis Vsat dan Fiber Optik",
+      "total_assets": 13173512,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "business_type": "Penyelenggara Jaringan Tetap Tertutup Berbasis Vsat dan Fiber Optik",
+      "total_assets": 11943832,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Tunas Pratama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 9972852,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Solusi Tunas Pratama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 9972852,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Solusi Tunas Pratama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 9972852,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Solusi Tunas Pratama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 9972852,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Solusi Tunas Pratama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 9564161,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Solusi Tunas Pratama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 9335121,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Solusi Tunas Pratama Tbk",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 9293437,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Inti Bangun Sejahtera Tbk",
+      "business_type": "- Konstruksi Sentral Telekomunikasi",
+      "total_assets": 4504739,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bit Teknologi Nusantara",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 2889554,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bit Teknologi Nusantara",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 2889554,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bit Teknologi Nusantara",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 2889554,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bit Teknologi Nusantara",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 2889554,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bit Teknologi Nusantara",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 2838308,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bit Teknologi Nusantara",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 2820845,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bit Teknologi Nusantara",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 2771130,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komet Infra Nusantara",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 1366816,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komet Infra Nusantara",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 1263239,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komet Infra Nusantara",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 1251235,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komet Infra Nusantara",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 1241793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komet Infra Nusantara",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 1241793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komet Infra Nusantara",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 1241793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komet Infra Nusantara",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 1241793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Platinum Teknologi",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 801457,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Platinum Teknologi",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 801457,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Platinum Teknologi",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 801456,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Platinum Teknologi",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 801456,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Platinum Teknologi",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 801456,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Platinum Teknologi",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 801456,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Platinum Teknologi",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 801456,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gema Dwimitra Persada",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 793853,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gema Dwimitra Persada",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 793852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gema Dwimitra Persada",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 793852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gema Dwimitra Persada",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 793852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gema Dwimitra Persada",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 793852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gema Dwimitra Persada",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 793852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gema Dwimitra Persada",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 793852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Konsorsium Iforte Hts",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 461172,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Quattro International",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 336994,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Quattro International",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 323939,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Quattro International",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 323939,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Quattro International",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 323939,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Quattro International",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 323939,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Konsorsium Iforte Hts",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 321202,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Konsorsium Iforte Hts",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 321202,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Konsorsium Iforte Hts",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 321202,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Konsorsium Iforte Hts",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 321202,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Quattro International",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 317278,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Quattro International",
+      "business_type": "Konstruksi Sentral Komunikasi",
+      "total_assets": 316362,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Telekomunikasi Prima",
+      "business_type": "Reparasi Peralatan Komunikasi",
+      "total_assets": 266669,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Telekomunikasi Prima",
+      "business_type": "Reparasi Peralatan Komunikasi",
+      "total_assets": 266669,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Telekomunikasi Prima",
+      "business_type": "Reparasi Peralatan Komunikasi",
+      "total_assets": 266669,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Telekomunikasi Prima",
+      "business_type": "Reparasi Peralatan Komunikasi",
+      "total_assets": 266669,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Telekomunikasi Prima",
+      "business_type": "Reparasi Peralatan Komunikasi",
+      "total_assets": 234536,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Telekomunikasi Prima",
+      "business_type": "Reparasi Peralatan Komunikasi",
+      "total_assets": 232416,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Konsorsium Iforte Hts",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 227611,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Konsorsium Iforte Hts",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 213609,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Iforte Global Internet",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 213109,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Global Internet",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 182976,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Global Internet",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 174381,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Global Internet",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 174381,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Global Internet",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 174381,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Global Internet",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 174381,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Global Internet",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 163042,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Payment Infrastructure",
+      "business_type": "Penyedia Jasa Pembayaran, Hosting dan Pemrograman",
+      "total_assets": 135058,
+      "ownership_percentage": 62.47
+    },
+    {
+      "name": "PT Sarana Inti Persada",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 116182,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sarana Inti Persada",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 116182,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sarana Inti Persada",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 116182,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sarana Inti Persada",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 116182,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sarana Inti Persada",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 115416,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sarana Inti Persada",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 115387,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sarana Inti Persada",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 115169,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Iforte Payment Infrastructure",
+      "business_type": "Penyedia Jasa Pembayaran, Hosting dan Pemrograman",
+      "total_assets": 113801,
+      "ownership_percentage": 62.47
+    },
+    {
+      "name": "PT Iforte Payment Infrastructure",
+      "business_type": "Penyedia Jasa Pembayaran, Hosting dan Pemrograman",
+      "total_assets": 103819,
+      "ownership_percentage": 62.47
+    },
+    {
+      "name": "PT Iforte Payment Infrastructure",
+      "business_type": "Penyedia Jasa Pembayaran, Hosting dan Pemrograman",
+      "total_assets": 103819,
+      "ownership_percentage": 62.47
+    },
+    {
+      "name": "PT Iforte Payment Infrastructure",
+      "business_type": "Penyedia Jasa Pembayaran, Hosting dan Pemrograman",
+      "total_assets": 103819,
+      "ownership_percentage": 62.47
+    },
+    {
+      "name": "PT Iforte Payment Infrastructure",
+      "business_type": "Penyedia Jasa Pembayaran, Hosting dan Pemrograman",
+      "total_assets": 103819,
+      "ownership_percentage": 62.47
+    },
+    {
+      "name": "PT Global Indonesia Komunikatama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 94813,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Indonesia Komunikatama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 92166,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Indonesia Komunikatama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 90942,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Indonesia Komunikatama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 89100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Indonesia Komunikatama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 89100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Indonesia Komunikatama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 89100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Indonesia Komunikatama",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 89100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Integra Kreasitama Solusindo",
+      "business_type": "Aktivitas Penunjang Kelistrikan",
+      "total_assets": 83135,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Integra Kreasitama Solusindo",
+      "business_type": "Aktivitas Penunjang Kelistrikan",
+      "total_assets": 66883,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Global Telekomunikasi Prima",
+      "business_type": "Reparasi Peralatan Komunikasi",
+      "total_assets": 59041,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Integra Kreasitama Solusindo",
+      "business_type": "Aktivitas Penunjang Kelistrikan",
+      "total_assets": 56610,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Istana Kohinoor",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 46622,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Istana Kohinoor",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 46603,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Istana Kohinoor",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 46603,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Istana Kohinoor",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 46603,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Istana Kohinoor",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 46603,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Istana Kohinoor",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 46299,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Iforte Energi Nusantara",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 42841,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Istana Kohinoor",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 42432,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Darmanusa Tritunggal",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 41000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Darmanusa Tritunggal",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 34257,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Varnion Technology Semesta",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 32229,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Darmanusa Tritunggal",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 31839,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Darmanusa Tritunggal",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 31839,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Darmanusa Tritunggal",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 31839,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Darmanusa Tritunggal",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 31839,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Darmanusa Tritunggal",
+      "business_type": "Penyedia Menara Telekomunikasi",
+      "total_assets": 31392,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Helios Energi Nusantara",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 25504,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Energi Nusantara",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 24469,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Energi Nusantara",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 24469,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Energi Nusantara",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 24469,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iforte Energi Nusantara",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 24469,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Varnion Technology Semesta",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 23710,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Iforte Energi Nusantara",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 21210,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Varnion Technology Semesta",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 15802,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Varnion Technology Semesta",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 15802,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Varnion Technology Semesta",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 15802,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Varnion Technology Semesta",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 15802,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Broadband Wahana Asia",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 8924,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Broadband Wahana Asia",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 8924,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Broadband Wahana Asia",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 8924,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Broadband Wahana Asia",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 8924,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Broadband Wahana Asia",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 8924,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Broadband Wahana Asia",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 8924,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Broadband Wahana Asia",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 8924,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Rekajasa Akses",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 8210,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Rekajasa Akses",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 7585,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Rekajasa Akses",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 7471,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Rekajasa Akses",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 7471,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Rekajasa Akses",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 7471,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Rekajasa Akses",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 7471,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Rekajasa Akses",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 7345,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Varnion Technology Semesta",
+      "business_type": "Perdagangan Besar Peralatan Telekomunikasi",
+      "total_assets": 7079,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Protelindo Menara Permata",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 6839,
+      "ownership_percentage": 51.01
+    },
+    {
+      "name": "PT Protelindo Menara Permata",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 6337,
+      "ownership_percentage": 51.01
+    },
+    {
+      "name": "PT Protelindo Menara Permata",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 6201,
+      "ownership_percentage": 51.01
+    },
+    {
+      "name": "PT Protelindo Menara Permata",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 6050,
+      "ownership_percentage": 51.01
+    },
+    {
+      "name": "PT Protelindo Menara Permata",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 6050,
+      "ownership_percentage": 51.01
+    },
+    {
+      "name": "PT Protelindo Menara Permata",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 6050,
+      "ownership_percentage": 51.01
+    },
+    {
+      "name": "PT Protelindo Menara Permata",
+      "business_type": "Konstruksi Sentral Telekomunikasi",
+      "total_assets": 6050,
+      "ownership_percentage": 51.01
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "28.130.697.375.956",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:50.907Z"
+}

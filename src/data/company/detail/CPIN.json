@@ -1,0 +1,311 @@
+{
+  "company_name": "Charoen Pokphand Indonesia Tbk",
+  "ticker": "CPIN",
+  "office_address": "Jl. Ancol Viii/1 Jakarta 14430",
+  "email": "hadijanto@cp.co.id",
+  "phone": "021-691 9999",
+  "fax": "021-690 7324",
+  "tax_id": "01.000.172.5-092.000",
+  "website": "https://www.cp.co.id",
+  "listing_date": "1991-03-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Animal Feed",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Bapak Hadijanto Kartika",
+    "email": "hadijanto@cp.co.id",
+    "phone": "021-6919999, 6907324"
+  },
+  "directors": [
+    {
+      "name": "Tjiu Thomas Effendy",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Peraphon Prayooravong",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ong Mei Sian",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jemmy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eddy Dharmawan Mansjoer",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdiansyah Gunawan Tjoe",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hadi Gunawan Tjoe",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rusmin Ryadi",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Suparman S.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hendri Murtany",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendri Murtany",
+      "position": "Ketua"
+    },
+    {
+      "name": "R. Widarko Hendrai",
+      "position": "Anggota"
+    },
+    {
+      "name": "Santoso Budiman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Charoen Pokphand Indonesia Group",
+      "type": "Lebih dari 5%",
+      "shares": 9106385410,
+      "percentage": 55.53
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5598832590,
+      "percentage": 34.14
+    },
+    {
+      "name": "Ubs Ag Singapore Non-treaty Omnibus Account - 2091144090",
+      "type": "Lebih dari 5%",
+      "shares": 980766200,
+      "percentage": 5.98
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 712015800,
+      "percentage": 4.35
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjiu Thomas Effendy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Prayooravong Peraphon",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ong Mei Sian",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jemmy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eddy Dharmawan Mansjoer",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferdiansyah Gunawan Tjoe",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hadi Gunawan Tjoe",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rusmin Ryadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suparman S",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendri Murtany",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Charoen Pokphand Jaya Farm",
+      "business_type": "Peternakan Unggas",
+      "total_assets": 10568390,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Sarana Farmindo Utama",
+      "business_type": "Induk Perusahaan",
+      "total_assets": 8730900,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Agrico International",
+      "business_type": "Perdagangan Bahan Baku",
+      "total_assets": 790731,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Primafood International",
+      "business_type": "Perdagangan Produk Makanan Olahan",
+      "total_assets": 536567,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "Primaved Solusi Pratama",
+      "business_type": "Perdagangan Obat-obatan",
+      "total_assets": 392353,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "Singa Mas Internasional",
+      "business_type": "Industri Air Minum dalam Kemasan",
+      "total_assets": 172465,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Poly Packaging Industry",
+      "business_type": "Produksi Kemasan Plastik",
+      "total_assets": 110673,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Feprotama Pertiwi",
+      "business_type": "Produksi dan Distribusi Bahan Baku Pakan",
+      "total_assets": 92120,
+      "ownership_percentage": 99.32
+    },
+    {
+      "name": "Cipta Satwa International",
+      "business_type": "Perdagangan Peralatan Peternakan",
+      "total_assets": 15326,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "Vista Grain",
+      "business_type": "Produksi dan Distribusi Makanan Ternak",
+      "total_assets": 9591,
+      "ownership_percentage": 99.92
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "65.755.980.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:29.664Z"
+}

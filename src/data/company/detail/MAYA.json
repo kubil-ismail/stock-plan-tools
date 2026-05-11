@@ -1,0 +1,192 @@
+{
+  "company_name": "PT Bank Mayapada Internasional Tbk",
+  "ticker": "MAYA",
+  "office_address": "Mayapada Tower Lt. 1 Jl. Jend. Sudirman Kav. 28 Jakarta",
+  "email": "corsec@bankmayapada.com",
+  "phone": "021-5212288",
+  "fax": "021-57940100",
+  "tax_id": "01.590.695.1-091.000",
+  "website": "https://www.bankmayapada.com",
+  "listing_date": "1997-08-29",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Kriss Budi Utomo",
+    "email": "kriss.utomo@bankmayapada.com",
+    "phone": "021-5212288"
+  },
+  "directors": [
+    {
+      "name": "Hariyono Tjahjarijadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rudy Mulyono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Thomas Arifin",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yohanes Suhardi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dato' Sri, Prof. Dr. Tahir, Mba",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Kumhal Djamil, S.e.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Da'i Bachtiar, S.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kumhal Djamil",
+      "position": "Ketua"
+    },
+    {
+      "name": "Benny Kastawa Yudiaatmaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Usman Gumanti Saleh",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mayapada Karunia Corporation, PT",
+      "type": "Lebih dari 5%",
+      "shares": 6323077933,
+      "percentage": 24.16
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5435339954,
+      "percentage": 20.78
+    },
+    {
+      "name": "Dato ' Sri. Prof. Dr. Tahir, Mba",
+      "type": "Komisaris",
+      "shares": 5061455771,
+      "percentage": 19.34
+    },
+    {
+      "name": "Mayapada Kasih Corporation, PT",
+      "type": "Lebih dari 5%",
+      "shares": 3219962707,
+      "percentage": 12.31
+    },
+    {
+      "name": "Gatsu Griya Megatama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 2290586666,
+      "percentage": 8.75
+    },
+    {
+      "name": "Jpmcb Na Re-cathay Life Lnsurance Co Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 2244483676,
+      "percentage": 8.58
+    },
+    {
+      "name": "Jonathan Tahir",
+      "type": "Lebih dari 5%",
+      "shares": 1542407023,
+      "percentage": 5.89
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 50544000,
+      "percentage": 0.19
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.155.329.651.248",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:21.327Z"
+}

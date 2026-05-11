@@ -1,0 +1,218 @@
+{
+  "company_name": "Prasidha Aneka Niaga Tbk",
+  "ticker": "PSDN",
+  "office_address": "Gedung Prasidha, Jl. Siantar No. 6, Kelurahan Cideng, Jakarta Pusat 10150",
+  "email": "corp_sec@prasidha.co.id; ameng@prasidha.co.id",
+  "phone": "021-35285058",
+  "fax": "021-3860809",
+  "tax_id": "01.129.568.0-054.000",
+  "website": "https://www.prasidha.co.id",
+  "listing_date": "1994-10-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri dan Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Rudi Aminuddin",
+    "email": "corp_sec@prasidha.co.id, ameng@prasidha.co.id",
+    "phone": "021 57904488, 57904478"
+  },
+  "directors": [
+    {
+      "name": "Jeffry Sanusi Soedargo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Didik Tandiono",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Moenardji Soedargo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mansjur Tandiono",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Widyono Lianto",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Robertus Sukamto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Fery Yennoto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Soegiarto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs Ferry Yennoto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kasmita Wijaya, Se",
+      "position": "Anggota"
+    },
+    {
+      "name": "Henryanto Handhoko Petrus",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Prasidha",
+      "type": "Lebih dari 5%",
+      "shares": 676830145,
+      "percentage": 47
+    },
+    {
+      "name": "Igianto Joe",
+      "type": "Lebih dari 5%",
+      "shares": 272378790,
+      "percentage": 18.92
+    },
+    {
+      "name": "PT. Aneka Bumi Prasidha",
+      "type": "Lebih dari 5%",
+      "shares": 136500000,
+      "percentage": 9.47
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 130684232,
+      "percentage": 9.08
+    },
+    {
+      "name": "PT. Aneka Agroprasidha",
+      "type": "Lebih dari 5%",
+      "shares": 114000000,
+      "percentage": 7.92
+    },
+    {
+      "name": "Agus Soegiarto",
+      "type": "Komisaris",
+      "shares": 45933333,
+      "percentage": 3.1898
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 43622500,
+      "percentage": 3.03
+    },
+    {
+      "name": "Agus Soegiarto",
+      "type": "Komisaris",
+      "shares": 20000000,
+      "percentage": 1.3889
+    },
+    {
+      "name": "Agus Soegiarto",
+      "type": "Komisaris",
+      "shares": 51000,
+      "percentage": 0.0035
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Aneka Bumi Kencana",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 7524991547,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Tirtha Harapan Bali",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 397956668,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "290.880.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:59.804Z"
+}

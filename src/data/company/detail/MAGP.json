@@ -1,0 +1,237 @@
+{
+  "company_name": "Multi Agro Gemilang Plantation Tbk",
+  "ticker": "MAGP",
+  "office_address": "Jalan Kudus No. 6, Menteng, Jakarta Pusat 10310",
+  "email": "corporate-magp@gmail.com",
+  "phone": "021-3106145 / 021-31930662",
+  "fax": "021-7251488",
+  "tax_id": "02.191.407.2-054.000",
+  "website": "https://www.mag-plantation.co.id",
+  "listing_date": "2013-01-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pengembangan dan Pengoperasian Perkebunan Kelapa Sawit, Pengolahan Kelapa Sawit dan Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Aulia Agung Wicaksono Aninditha, Sh., Cla",
+    "email": "corporate-magp@gmail.com",
+    "phone": "021-3106145 / 021-31930662"
+  },
+  "directors": [
+    {
+      "name": "Riza Musa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Suherman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Shiddiq Yanuar Robbani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "R. Muchlizar Murkan, Msi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir. Muchlizar Murkan, M.si.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Guntur Cahyo Nugroho, Se.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Adina Martha Obriella Siahaan, Sh.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Santika Griya Persada",
+      "type": "Lebih dari 5%",
+      "shares": 4500000000,
+      "percentage": 50
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2478638204,
+      "percentage": 27.54
+    },
+    {
+      "name": "PT. Yabes Plantation International",
+      "type": "Lebih dari 5%",
+      "shares": 1421361800,
+      "percentage": 15.79
+    },
+    {
+      "name": "Dana Pensiun Karyawan Panin Bank",
+      "type": "Lebih dari 5%",
+      "shares": 600000000,
+      "percentage": 6.67
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Boswa Megalopolis",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 482392046149,
+      "ownership_percentage": 93.58
+    },
+    {
+      "name": "PT Meta Epsi Agro",
+      "business_type": "Perkebunan dan Perdagangan dan Perkebunan Sawit",
+      "total_assets": 367413052839,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Brent Multidaya",
+      "business_type": "Perkebunan dan Perdagangan dan Perkebunan Sawit",
+      "total_assets": 114095717559,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Orion Sawit Subur",
+      "business_type": "Perkebunan dan Perdagangan dan Perkebunan Sawit",
+      "total_assets": 21955773526,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "450.000.000.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:06.695Z"
+}

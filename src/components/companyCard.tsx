@@ -1,10 +1,16 @@
 import Link from "next/link";
 import CompanyLogo from "./companyLogo";
 import { ArrowRight } from "lucide-react";
-import { StockDetail } from "@/types/stocks";
+import {
+  StockIndustry,
+  StockListResponse,
+  StockSector,
+  StockSubIndustry,
+  StockSubSector,
+} from "@/types/stocks";
 
 interface Props {
-  company: StockDetail;
+  company: StockListResponse;
 }
 
 export default function CompanyCard(props: Props) {
@@ -31,9 +37,9 @@ export default function CompanyCard(props: Props) {
               {/* NAME */}
               <p
                 className="text-sm text-gray-600 mt-1 line-clamp-2"
-                title={company.name}
+                title={company.company_name}
               >
-                {company.name}
+                {company.company_name}
               </p>
 
               {/* BOARD */}
@@ -50,9 +56,9 @@ export default function CompanyCard(props: Props) {
 
             <p
               className="text-sm text-gray-700 line-clamp-2"
-              title={company.main_business}
+              title={company.business_field?.raw_business}
             >
-              {company.main_business}
+              {company.business_field?.raw_business}
             </p>
           </div>
 
@@ -80,14 +86,19 @@ export function IndustryHierarchy({
   company,
   disableLink,
 }: {
-  company: StockDetail;
+  company: {
+    sector: StockSector;
+    sub_sector: StockSubSector;
+    industry: StockIndustry;
+    sub_industry: StockSubIndustry;
+  };
   disableLink?: boolean;
 }) {
   const rawItems = [
-    company?.sector?.name,
-    company?.subsector?.name,
-    company?.industry?.name,
-    company?.subindustry?.name,
+    company.sector?.name,
+    company.sub_sector?.name,
+    company.industry?.name,
+    company.sub_industry?.name,
   ].filter(Boolean);
 
   // remove consecutive duplicates

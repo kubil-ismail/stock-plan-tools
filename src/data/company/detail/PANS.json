@@ -1,0 +1,226 @@
+{
+  "company_name": "Panin Sekuritas Tbk",
+  "ticker": "PANS",
+  "office_address": "Gedung Bursa Efek Indonesia Ii, Lt.17 Ruang 1705, Jl. Jend. Sudirman Kav.52-53 Jakarta 12190",
+  "email": "corsec@pans.co.id",
+  "phone": "021-5153055",
+  "fax": "021-5153061",
+  "tax_id": "0013 4296 9105 4000",
+  "website": "https://www.pans.co.id",
+  "listing_date": "2000-05-31",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Securities Company",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 12,
+    "name": "Jasa Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 13,
+    "name": "Jasa Investasi"
+  },
+  "sub_industry": {
+    "id": 10,
+    "name": "Bank Investasi & Perantara Perdagangan",
+    "industries_id": 13
+  },
+  "corporate_secretary": {
+    "name": "Prama Nugraha",
+    "email": "corsec@paninsekuritas.com",
+    "phone": "021-5153055"
+  },
+  "directors": [
+    {
+      "name": "Indra Christanto",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Rosmini Lidarjono",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Menas K. Shahaan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Prama Nugraha",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Tjiang Jefry",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mu'min Ali Gunanwan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Aries Liman",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kun Mawira",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Peter Setiono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Mustofa S.sos",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mustofa, S.sos",
+      "position": "Ketua"
+    },
+    {
+      "name": "Steven Himawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ilvan Saputra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Publik",
+      "type": "Lebih dari 5%",
+      "shares": 286211800,
+      "percentage": 39.75
+    },
+    {
+      "name": "PT Patria Nusa Adamas",
+      "type": "Lebih dari 5%",
+      "shares": 216000000,
+      "percentage": 30
+    },
+    {
+      "name": "PT Bank Pan Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 208800000,
+      "percentage": 29
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 8571200,
+      "percentage": 1.19
+    },
+    {
+      "name": "Indra Christanto",
+      "type": "Direksi",
+      "shares": 158900,
+      "percentage": 0.03
+    },
+    {
+      "name": "Rosmini Lidarjono",
+      "type": "Direksi",
+      "shares": 100700,
+      "percentage": 0.01
+    },
+    {
+      "name": "Prama Nugraha",
+      "type": "Direksi",
+      "shares": 72200,
+      "percentage": 0.01
+    },
+    {
+      "name": "Tjiang Jefry",
+      "type": "Direksi",
+      "shares": 85200,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Panin Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 488680112000,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Patria Investama",
+      "business_type": "Perdagangan dan Jasa Manajemen",
+      "total_assets": 113656322000,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.256.400.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:49.435Z"
+}

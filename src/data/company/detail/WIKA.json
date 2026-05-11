@@ -1,0 +1,273 @@
+{
+  "company_name": "PT Wijaya Karya (persero) Tbk",
+  "ticker": "WIKA",
+  "office_address": "Jl. d.i. Panjaitan Kav. 9-10 Jakarta 13340",
+  "email": "investor.relations@wikamail.id",
+  "phone": "80679200",
+  "fax": "22893830",
+  "tax_id": "01.001.615.2-093.000",
+  "website": "https://www.wika.co.id",
+  "listing_date": "2007-10-29",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Properti, Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Batubara",
+      "Properti",
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Ngatemin",
+    "email": "ngatemin@wikamail.id",
+    "phone": "021-80679200 Ext. 50201"
+  },
+  "directors": [
+    {
+      "name": "Agung Budi Waskito",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sumadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hadjar Seti Adji",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hananto Aji",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fafan Khoirul Fanani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jarot Widyoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rusmanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Firdaus Ali",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Adityawarman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Harris Arthur Hedar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suryo Hapsoro Tri Utomo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Roy Yournalista",
+      "position": "Anggota"
+    },
+    {
+      "name": "Suryo Hapsoro Tri Utomo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Adityawarman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rita Rufaida",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management",
+      "type": "Lebih dari 5%",
+      "shares": 35928785753,
+      "percentage": 90.1076
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3936146005,
+      "percentage": 9.8722
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2968900,
+      "percentage": 0.007
+    },
+    {
+      "name": "Agung Budi Waskito",
+      "type": "Direksi",
+      "shares": 1434200,
+      "percentage": 0.0036
+    },
+    {
+      "name": "Hananto Aji",
+      "type": "Direksi",
+      "shares": 1269000,
+      "percentage": 0.0032
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 1100000,
+      "percentage": 0.003
+    },
+    {
+      "name": "Sumadi",
+      "type": "Direksi",
+      "shares": 850000,
+      "percentage": 0.0021
+    },
+    {
+      "name": "Hadjar Seti Aji",
+      "type": "Direksi",
+      "shares": 510000,
+      "percentage": 0.0013
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wijaya Karya Realty",
+      "business_type": "Real Estate",
+      "total_assets": 15755252601,
+      "ownership_percentage": 95.1
+    },
+    {
+      "name": "PT Wijaya Karya Serang-panimbang",
+      "business_type": "Toll Road",
+      "total_assets": 7214837753,
+      "ownership_percentage": 84.17
+    },
+    {
+      "name": "PT Wijaya Karya Beton Tbk",
+      "business_type": "Concrete Industry",
+      "total_assets": 6861110120,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Wijaya Karya Bangunan Gedung Tbk",
+      "business_type": "Construction & Property",
+      "total_assets": 5343123486,
+      "ownership_percentage": 69.3
+    },
+    {
+      "name": "PT Wijaya Karya Industri dan Konstruksi",
+      "business_type": "Industrial & Construction",
+      "total_assets": 2844195898,
+      "ownership_percentage": 98.57
+    },
+    {
+      "name": "PT Wijaya Karya Tirta Jaya Jatiluhur",
+      "business_type": "Water Treatment",
+      "total_assets": 1791055029,
+      "ownership_percentage": 83.78
+    },
+    {
+      "name": "PT Wijaya Karya Rekayasa Konstruksi",
+      "business_type": "Construction, Electrical & Mechanical",
+      "total_assets": 1496055775,
+      "ownership_percentage": 98.94
+    },
+    {
+      "name": "PT Wijaya Karya Bitumen",
+      "business_type": "Asphalt Mining",
+      "total_assets": 315408461,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.134.105.027.032",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:56.134Z"
+}

@@ -1,0 +1,221 @@
+{
+  "company_name": "PT Informasi Teknologi Indonesia Tbk.",
+  "ticker": "JATI",
+  "office_address": "Graha Orange Jl. Mampang Prapatan Raya No. 3 Mampang Prapatan, Jakarta Selatan 12790",
+  "email": "corporatesecretary@jatis.com",
+  "phone": "+62 (21) 7940946",
+  "fax": "",
+  "tax_id": "02.139.745.0-058.000",
+  "website": "https://www.jatismobile.com",
+  "listing_date": "2023-05-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Perdagangan Teknologi Informasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Dicky Zulkarnaen",
+    "email": "corporatesecretary@jatis.com",
+    "phone": "0217940946"
+  },
+  "directors": [
+    {
+      "name": "Erik Rivai Ridzal",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Asrul Abdillah Ali",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Adrianus Yose Hartono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yuliana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jusuf Sjariffudin",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendri Mulya Syam",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendri Mulya Syam",
+      "position": "Ketua"
+    },
+    {
+      "name": "S Kartiko Wahyu Widodo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Kartadjaja Intan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Jati Piranti Solusindo",
+      "type": "Lebih dari 5%",
+      "shares": 2088000000,
+      "percentage": 64
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 652471106,
+      "percentage": 20
+    },
+    {
+      "name": "PT Amanah Ayah Anak",
+      "type": "Lebih dari 5%",
+      "shares": 522000000,
+      "percentage": 16
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Erik Rivai Ridzal",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Asrul Abdillah Ali",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adrianus Yose Hartono",
+      "type": "Direksi",
+      "shares": 20000,
+      "percentage": 0
+    },
+    {
+      "name": "Yuliana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jusuf Sjariffudin",
+      "type": "Komisaris",
+      "shares": 29000,
+      "percentage": 0
+    },
+    {
+      "name": "Hendri Mulya Syam",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "345.827.131.236",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:15.335Z"
+}

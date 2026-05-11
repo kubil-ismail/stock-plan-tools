@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 import { cn } from "@/lib/utils";
 import { useState, memo } from "react";
@@ -6,26 +7,28 @@ function CompanyLogo({
   company,
   disableBorder,
 }: {
-  company: { logo: string; name?: string; ticker?: string };
+  company: { logo?: string; name?: string; ticker?: string };
   disableBorder?: boolean;
 }) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
+  const logo = company?.logo ? company?.logo : `/images/company/logo/${company?.ticker}.svg`;
+
   return (
     <div
       className={cn(
         "w-14 h-14 shrink-0 rounded-2xl overflow-hidden flex items-center justify-center relative",
-        disableBorder ? "" : "border border-gray-200 "
+        disableBorder ? "" : "border border-gray-200 ",
       )}
     >
       {/* Skeleton */}
       {loading && !error && <div className="absolute inset-0 bg-gray-100" />}
 
       {/* Image */}
-      {!error && company?.logo && (
+      {!error && logo && (
         <img
-          src={`${company?.logo ?? ""}`}
+          src={logo}
           alt={company?.name}
           className={`
             object-contain p-2 w-full h-full

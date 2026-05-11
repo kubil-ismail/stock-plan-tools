@@ -1,0 +1,250 @@
+{
+  "company_name": "PT Remala Abadi Tbk",
+  "ticker": "DATA",
+  "office_address": "Graha Mustika Ratu Jalan Gatot Subroto No. 74-75, Jakarta Selatan Dki Jakarta 12870",
+  "email": "corporatesecretary@remala.id",
+  "phone": "(021) 83709269",
+  "fax": "",
+  "tax_id": "01.589.718.4-432.000",
+  "website": "https://https//remala.id",
+  "listing_date": "2024-05-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Internet Service Provider, layanan konsultasi IT serta jaringan tetap berbasis kabel, jaringan tetap berbasis tanpa kabel",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Konstruksi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Konstruksi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 16,
+    "name": "Jasa Telekomunikasi"
+  },
+  "sub_industry": {
+    "id": 33,
+    "name": "Jasa Telekomunikasi Kabel",
+    "industries_id": 16
+  },
+  "corporate_secretary": {
+    "name": "Adrian Renaldy",
+    "email": "corporatesecretary@remala.id",
+    "phone": "+6221 8370 8889"
+  },
+  "directors": [
+    {
+      "name": "Agus Setiono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Adrian Renaldy",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anita Anwar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ahmad Alamsyah Saragih, S.e.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ahmad Alamsyah Saragih, S.e.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sudarmana, Se., Ak., Ca., Cpa., Cacp.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sundara Ichsan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Verah Wahyudi Singgih Wong",
+      "type": "Lebih dari 5%",
+      "shares": 551328600,
+      "percentage": 40.1
+    },
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "type": "Lebih dari 5%",
+      "shares": 550000900,
+      "percentage": 40
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 198670500,
+      "percentage": 14.45
+    },
+    {
+      "name": "Djoni",
+      "type": "Lebih dari 5%",
+      "shares": 75000000,
+      "percentage": 5.45
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Fiber Media Indonesia",
+      "business_type": "Penyedia Jasa Layanan Internet",
+      "total_assets": 108928814181,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Pc 24 Cyber Indonesia",
+      "business_type": "Telekomunikasi, Pemrograman Komputer Lainnya, Aktivitas Teknologi Informasi dan Jasa Komputer Lainnya",
+      "total_assets": 57051319958,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Fiber Kerumah Indonesia",
+      "business_type": "Perdagangan Besar Serta Bidang Informasi dan Komunikasi",
+      "total_assets": 54610276865,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mitra Integrasi Bersama",
+      "business_type": "Konstruksi Sentral Telekomunikasi dan Aktivitas Telekomunikasi dengan Kabel",
+      "total_assets": 5001017500,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Akselerasi Informasi Indonesia",
+      "business_type": "Perdagangan Besar Serta Bidang Informasi dan Komunikasi",
+      "total_assets": 2093037601,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Clara Dinamika Abadi",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 983491101,
+      "ownership_percentage": 72.5
+    },
+    {
+      "name": "PT Solusi Aplikasi Andalan Semesta",
+      "business_type": "Perdagangan Besar dan Aktivitas Perdagangan Komputer",
+      "total_assets": 339189520,
+      "ownership_percentage": 88
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.832.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:56.131Z"
+}

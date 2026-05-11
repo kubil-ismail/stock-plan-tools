@@ -1,0 +1,477 @@
+{
+  "company_name": "PT Murni Sadar Tbk",
+  "ticker": "MTMH",
+  "office_address": "Jl. Jawa No, 2, Lk Ii, Gg. Buntu, Medan Timur, Kota Medan Sumatera Utara – 20231",
+  "email": "corporate-secretary@rsmurniteguh.com",
+  "phone": "(+62) 61 8050 1888",
+  "fax": "(+62) 61 8050 1800",
+  "tax_id": "03.096.087.6-113.000",
+  "website": "https://www.rsmurniteguh.com",
+  "listing_date": "2022-04-20",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas Rumah Sakit Swasta",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan, Properti.",
+    "business_tags": [
+      "Kesehatan",
+      "Properti"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Armen Chandra",
+    "email": "corporate-secretary@rsmurniteguh.com",
+    "phone": "061 80501900"
+  },
+  "directors": [
+    {
+      "name": "Dr.dr. Mutiara, Mha, Mkt",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Jong Khai, Mars",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Clement Zichri Ang, M.sc",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Felix Vincent Ang, B.eng",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Sharon Hanmy Angel Mres, Mpm, Mars",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjin Ten Chun",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Andi Wahyuningsih Attas, Sp. An., Kic, Mars",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Andi Wahyuningsih Attas, Sp.an., Kic., Mars",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ade Ikhwan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ng Weng Seng",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sumatera Teknindo",
+      "type": "Lebih dari 5%",
+      "shares": 673458910,
+      "percentage": 32.56
+    },
+    {
+      "name": "Jacqueline Sitorus",
+      "type": "Lebih dari 5%",
+      "shares": 437500000,
+      "percentage": 21.15
+    },
+    {
+      "name": "Andy Indigo",
+      "type": "Lebih dari 5%",
+      "shares": 425000000,
+      "percentage": 20.54
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 327915250,
+      "percentage": 15.9
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 137438940,
+      "percentage": 6.6
+    },
+    {
+      "name": "Tjhin Ten Chun",
+      "type": "Komisaris",
+      "shares": 62440000,
+      "percentage": 3.02
+    },
+    {
+      "name": "Clement Zichri Ang",
+      "type": "Direksi",
+      "shares": 3312750,
+      "percentage": 0.16
+    },
+    {
+      "name": "Sharon Hanmy Angel",
+      "type": "Direksi",
+      "shares": 1361100,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Felix Vincent Ang",
+      "type": "Direksi",
+      "shares": 100000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Murni Sadar Kasih Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 380663345799,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Murni Sadar Kasih Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 380637347905,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Murni Sadar Kasih Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 373074639113,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Murni Sadar Kasih Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 371166578818,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sahid Sahirman Memorial Hospital",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 294165194759,
+      "ownership_percentage": 98.86
+    },
+    {
+      "name": "PT Murni Sadar Kasih Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 250105118532,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sahid Sahirman Memorial Hospital",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 242593914600,
+      "ownership_percentage": 98.86
+    },
+    {
+      "name": "PT Sahid Sahirman Memorial Hospital",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 238075812152,
+      "ownership_percentage": 98.86
+    },
+    {
+      "name": "PT Sahid Sahirman Memorial Hospital",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 214455423067,
+      "ownership_percentage": 98.86
+    },
+    {
+      "name": "PT Sahid Sahirman Memorial Hospital",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 214455423067,
+      "ownership_percentage": 98.86
+    },
+    {
+      "name": "PT Setia Utama Realti",
+      "business_type": "Real Estate",
+      "total_assets": 197429771628,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Setia Utama Realti",
+      "business_type": "Real Estate",
+      "total_assets": 196966669156,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Setia Utama Realti",
+      "business_type": "Real Estate",
+      "total_assets": 196117616444,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Setia Utama Realti",
+      "business_type": "Real Estate",
+      "total_assets": 195387622172,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikarya Aminah Utama",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 190842168304,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikarya Aminah Utama",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 188536677077,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikarya Aminah Utama",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 157828073921,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikarya Aminah Utama",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 157828073921,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Medikarya Aminah Utama",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 133865251518,
+      "ownership_percentage": 99.18
+    },
+    {
+      "name": "PT. Riau Sarana Medika",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 93072039166,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT. Riau Sarana Medika",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 89541511859,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT. Riau Sarana Medika",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 85280039437,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Horas Insani Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 80001057762,
+      "ownership_percentage": 78.79
+    },
+    {
+      "name": "PT Horas Insani Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 75556933192,
+      "ownership_percentage": 89.5
+    },
+    {
+      "name": "PT Horas Insani Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 65537106413,
+      "ownership_percentage": 89.5
+    },
+    {
+      "name": "PT Horas Insani Abadi",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 64850634430,
+      "ownership_percentage": 89.5
+    },
+    {
+      "name": "PT Rumah Sakit Ibu dan Anak Rosiva",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 38579952910,
+      "ownership_percentage": 79
+    },
+    {
+      "name": "PT Rumah Sakit Ibu dan Anak Rosiva",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 36145477031,
+      "ownership_percentage": 79
+    },
+    {
+      "name": "PT Rumah Sakit Ibu dan Anak Rosiva",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 33336001192,
+      "ownership_percentage": 79
+    },
+    {
+      "name": "PT Rumah Sakit Ibu dan Anak Rosiva",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 33336001192,
+      "ownership_percentage": 79
+    },
+    {
+      "name": "PT Rumah Sakit Ibu dan Anak Rosiva",
+      "business_type": "Aktivitas Rumah Sakit Swasta",
+      "total_assets": 22759366193,
+      "ownership_percentage": 79
+    },
+    {
+      "name": "PT. Gamaliel Elia Tua",
+      "business_type": "Aktivitas Dagang Alat Labotaroium, Farmasi dan Kedokteran",
+      "total_assets": 2805410846,
+      "ownership_percentage": 87.5
+    },
+    {
+      "name": "PT. Anugerah Cakrawala Farmaka",
+      "business_type": "Industri Produk Farmasi untuk Manusia",
+      "total_assets": 999350315,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Anugerah Cakrawala Farmaka",
+      "business_type": "Industri Produk Farmasi untuk Manusia",
+      "total_assets": 999275315,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Anugerah Cakrawala Farmaka",
+      "business_type": "Industri Produk Farmasi untuk Manusia",
+      "total_assets": 998951591,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Anugerah Cakrawala Farmaka",
+      "business_type": "Industri Produk Farmasi untuk Manusia",
+      "total_assets": 992652214,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kap Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Kap Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.047.841.680.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:47.451Z"
+}

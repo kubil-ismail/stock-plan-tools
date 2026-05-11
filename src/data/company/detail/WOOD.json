@@ -1,0 +1,345 @@
+{
+  "company_name": "PT Integra Indocabinet Tbk",
+  "ticker": "WOOD",
+  "office_address": "Jl. Raya Betro No. 678, Sedati – Sidoarjo 61253 Jawa Timur – Indonesia",
+  "email": "corsec.integra@iil.co.id",
+  "phone": "+6231-8910434, +6231-8910435, +6231-8910436",
+  "fax": "+6231-8911108",
+  "tax_id": "01.497.306.9-641.000",
+  "website": "https://www.integrafurniture.co.id",
+  "listing_date": "2017-06-21",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri furnitur, Industri Kayu, dan menjalankan usaha dalam bidang perdagangan, termasuk perdagangan impor ekspor",
+    "business_summary": "Perusahaan bergerak di bidang Produsen Furnitur Rumah.",
+    "business_tags": [
+      "Produsen Furnitur Rumah"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 84,
+    "name": "Produsen Furnitur Rumah",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Wang Sutrisno",
+    "email": "corsec.integra@iil.co.id, corsec.team@iil.co.id",
+    "phone": "+6231-8910436"
+  },
+  "directors": [
+    {
+      "name": "Halim Rusli",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Syany Tjandra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Widjaja Karli",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wang Sutrisno",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Stephanie Kane Ilham",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bing Hartono Poernomosidi",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bing Hartono Poernomosidi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Hari Santoso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Windhiyuananta Sari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Integra Indo Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 4573835000,
+      "percentage": 71.05
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1615121900,
+      "percentage": 25.089
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 173543100,
+      "percentage": 2.697
+    },
+    {
+      "name": "Halim Rusli",
+      "type": "Direksi",
+      "shares": 25000000,
+      "percentage": 0.388
+    },
+    {
+      "name": "Widjaja Karli",
+      "type": "Direksi",
+      "shares": 20000000,
+      "percentage": 0.311
+    },
+    {
+      "name": "Stephanie Kane Ilham",
+      "type": "Komisaris",
+      "shares": 10000000,
+      "percentage": 0.155
+    },
+    {
+      "name": "Sjany Tjandra",
+      "type": "Direksi",
+      "shares": 10000000,
+      "percentage": 0.155
+    },
+    {
+      "name": "Wang Sutrisno",
+      "type": "Direksi",
+      "shares": 10000000,
+      "percentage": 0.155
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Intertrend Utama",
+      "business_type": "Industri Mebel",
+      "total_assets": 2544090,
+      "ownership_percentage": 99.79
+    },
+    {
+      "name": "PT Interkraft",
+      "business_type": "Industri Mebel",
+      "total_assets": 1420578,
+      "ownership_percentage": 99.53
+    },
+    {
+      "name": "PT Intera Indonesia",
+      "business_type": "Industri Mebel",
+      "total_assets": 1415581,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT Belayan River Timber",
+      "business_type": "Industri Hak Pengelolaan Hutan",
+      "total_assets": 523865,
+      "ownership_percentage": 81.44
+    },
+    {
+      "name": "Carbon Resource Alliance Aps",
+      "business_type": "",
+      "total_assets": 116763,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Inter Kayu Mandiri",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 51262,
+      "ownership_percentage": 80
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.957.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:05.391Z"
+}

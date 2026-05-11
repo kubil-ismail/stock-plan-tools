@@ -1,0 +1,336 @@
+{
+  "company_name": "PT Petrindo Jaya Kreasi Tbk",
+  "ticker": "CUAN",
+  "office_address": "Gedung Wisma Barito Pacific, Lantai 3 B Jl. Let. Jend. S. Parman Kav. 62-63, Jakarta 11410",
+  "email": "corsec@petrindo.co.id",
+  "phone": "(021) 5308520",
+  "fax": "(021) 5355678",
+  "tax_id": "02.889.701.3-031.000",
+  "website": "https://www.petrindo.co.id",
+  "listing_date": "2023-03-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding, Jasa Konsultasi Manajemen, dan Pertambangan Batu Bara melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Robertus Maylando Siahaya",
+    "email": "corsec@petrindo.co.id",
+    "phone": "(021) 5308520"
+  },
+  "directors": [
+    {
+      "name": "Michael",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Jr. Lopez Laurente",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Diana Arsiyanti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kartika Hendrawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Hendra Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Erwin Ciputra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Henky Susanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Baritono Prajogo Pangestu",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Henky Susanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dikdik Sugiharto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Kurniadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Prajogo Pangestu",
+      "type": "Lebih dari 5%",
+      "shares": 92068019700,
+      "percentage": 81.8973
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 20304796700,
+      "percentage": 18.0617
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 19700600,
+      "percentage": 0.0175
+    },
+    {
+      "name": "Erwin Ciputra",
+      "type": "Komisaris",
+      "shares": 16333000,
+      "percentage": 0.0145
+    },
+    {
+      "name": "Michael",
+      "type": "Direksi",
+      "shares": 3542000,
+      "percentage": 0.0032
+    },
+    {
+      "name": "Kartika Hendrawan",
+      "type": "Direksi",
+      "shares": 3146000,
+      "percentage": 0.0028
+    },
+    {
+      "name": "Daniel Jr. Lopez Laurente",
+      "type": "Direksi",
+      "shares": 1632000,
+      "percentage": 0.0015
+    },
+    {
+      "name": "Diana Arsiyanti",
+      "type": "Direksi",
+      "shares": 1500000,
+      "percentage": 0.0013
+    },
+    {
+      "name": "Lim Hendra Gunawan",
+      "type": "Direksi",
+      "shares": 230000,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henky Susanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Baritono Prajogo Pangestu",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Multi Tambangjaya Utama",
+      "business_type": "Pertambangan Batu Bara",
+      "total_assets": 295276,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kreasi Jasa Persada",
+      "business_type": "Aktivitas Penunjang Pertambangan dan Penggalian Lainnya",
+      "total_assets": 179427,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tamtama Perkasa",
+      "business_type": "Pertambangan Batu Bara",
+      "total_assets": 124046,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Equator Sumber Energi",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 99214,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Mareta Persada",
+      "business_type": "Perdagangan Besar Bahan Bakar Padat, Cair dan Gas dan Produk Ybdi; Industri Produk dari Batu Bara",
+      "total_assets": 33791,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Armada Maritim Persada",
+      "business_type": "Aktivitas Angkutan Laut Perairan Pelabuhan dalam Negeri untuk Barang",
+      "total_assets": 16523,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Borneo Bangun Banua Bestari",
+      "business_type": "Pertambangan Batu Bara",
+      "total_assets": 9674,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Borneo Berkat Kutai",
+      "business_type": "Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 9578,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Mineral Investindo",
+      "business_type": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 2370,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Green Natural Investama",
+      "business_type": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Volta Energi Nusantara",
+      "business_type": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tigranix Ventures Pte. Ltd.",
+      "business_type": "Perdagangan Grosir Berdasarkan Imbalan atau Komisi (tidak Termasuk Marketplace Online)",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "134.902.680.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:50.456Z"
+}

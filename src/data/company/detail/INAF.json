@@ -1,0 +1,165 @@
+{
+  "company_name": "Indofarma Tbk.",
+  "ticker": "INAF",
+  "office_address": "Jl. Indofarma No. 1, Cikarang Barat, Bekasi, 17530",
+  "email": "corsec@indofarma.id dan headoffice@indofarma.id",
+  "phone": "(021) 8832 3971/75; 8590 8349/50",
+  "fax": "(021) 8832 3972/73; 857 4503",
+  "tax_id": "01.060.006.2-051.000",
+  "website": "https://www.indofarma.id",
+  "listing_date": "2001-04-17",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Farmasi dan Kesehatan",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Hilda Yani",
+    "email": "corsec@indofarma.id dan headoffice@indofarma.id",
+    "phone": "021-85908349"
+  },
+  "directors": [
+    {
+      "name": "Sahat Sihombing",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andi Prazos",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Didi Agus Mintadi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Teddy Wibisana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ferry Apriandi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bio Farma (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 2499999999,
+      "percentage": 80.664
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 371733650,
+      "percentage": 11.994
+    },
+    {
+      "name": "PT Asabri (persero) - Dapen Tni",
+      "type": "Lebih dari 5%",
+      "shares": 227533850,
+      "percentage": 7.342
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Didi Agus Mintadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sahat Sihombing",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andi Prazos",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "390.507.705.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:25.444Z"
+}

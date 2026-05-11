@@ -1,0 +1,236 @@
+{
+  "company_name": "PT Bumi Serpong Damai Tbk",
+  "ticker": "BSDE",
+  "office_address": "Sinar Mas Land Plaza Wing 3b, Bsd Green Office Park, Jl. Grand Boulevard, Bsd City Tangerang 15345",
+  "email": "corporate.secretary@sinarmasland.com",
+  "phone": "021-50368368",
+  "fax": "021-50588270",
+  "tax_id": "01.374.249.9-054.000",
+  "website": "https://www.bsdcity.com",
+  "listing_date": "2008-06-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Ricardo Arif Dharmawan",
+    "email": "corporate.secretary@sinarmasland.com",
+    "phone": "021-50368368"
+  },
+  "directors": [
+    {
+      "name": "Franciscus Xaverius Rd",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Jackson Purwanto Widjaja",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Syukur Lawigena",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Liauw Herry Hendarta",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hermawan Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lie Jani Harjanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Monik William",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Siswanto Adisaputro",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muktar Widjaja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Teky Mailoa",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yoseph Franciscus Bonang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Teddy Pawitra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Susiyati Bambang Hirawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Teddy Pawitra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rudiantara",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rizal E. Halim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Paraga Arta Mida",
+      "type": "Lebih dari 5%",
+      "shares": 10294393664,
+      "percentage": 48.62
+    },
+    {
+      "name": "PT Ekacentra Usahamaju",
+      "type": "Lebih dari 5%",
+      "shares": 5425964486,
+      "percentage": 25.63
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4653968002,
+      "percentage": 21.99
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 417635360,
+      "percentage": 1.97
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 257970700,
+      "percentage": 1.22
+    },
+    {
+      "name": "Muktar Widjaja",
+      "type": "Komisaris",
+      "shares": 106210500,
+      "percentage": 0.5
+    },
+    {
+      "name": "Michael J.p Widjaja",
+      "type": "Direksi",
+      "shares": 13123100,
+      "percentage": 0.06
+    },
+    {
+      "name": "Syukur Lawigena",
+      "type": "Direksi",
+      "shares": 1400000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Liauw, Herry Hendarta",
+      "type": "Direksi",
+      "shares": 700000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Duta Pertiwi Tbk.",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 15965865506221,
+      "ownership_percentage": 92.38
+    },
+    {
+      "name": "PT Suryamas Dutamakmur Tbk",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 3498085822248,
+      "ownership_percentage": 98.97
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "16.301.951.675.240",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:15.799Z"
+}

@@ -1,0 +1,486 @@
+{
+  "company_name": "PT Kirana Megatara Tbk.",
+  "ticker": "KMTR",
+  "office_address": "Gedung The East Lantai 21 Jl. Dr. Ide Anak Agung Gde Agung Kav. E.3.2 No. 1 Jakarta 12950",
+  "email": "corporate@kiranamegatara.com",
+  "phone": "(021) 5794 7988",
+  "fax": "(021) 5794 7999",
+  "tax_id": "01.545.234.5-063.000",
+  "website": "https://www.kiranamegatara.com",
+  "listing_date": "2017-06-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Usaha dalam bidang perindustrian, perkebunan, perdagangan, jasa dan konsultan, baik secara langsung maupun tidak langsung melalui anak perusahaan.",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Karet.",
+    "business_tags": [
+      "Agribisnis",
+      "Karet"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "karet",
+      "rubber"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 79,
+    "name": "Produk Hutan Lainnya",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Ferry Sidik",
+    "email": "corporate@kiranamegatara.com",
+    "phone": "(021) 5794 7988"
+  },
+  "directors": [
+    {
+      "name": "Martinus Subandi Sinarya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jenny Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Achmad Effendi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendy Endarwan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ho Wai Leong",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Toddy M. Sugoto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Arif Rachmat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sandana Dass",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Ir. Hermanto Siregar, M.ec",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius Joenoes Supit",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Donny F. Tomasoa",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Leow Wei Chang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sun, Heliang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fan, Xiaohong",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hermanto Siregar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Habil Lokadjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bowo Witjaksono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hsf (s) Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 5134603987,
+      "percentage": 62.5
+    },
+    {
+      "name": "PT Triputra Persada Megatara",
+      "type": "Lebih dari 5%",
+      "shares": 2464609474,
+      "percentage": 30
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 616152918,
+      "percentage": 7.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Martinus Subandi Sinarya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jenny Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Achmad Effendi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendy Endarwan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ho Wai Leong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Toddy Mizaabianto Sugoto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arif Rachmat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sandana Dass",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Leow Wei Chang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sun, Heliang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fan, Xiaohong",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Prof. Dr. Ir. Hermanto Siregar, M.ec",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Antonius Joenoes Supit",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Donny Firmansyah Tomasoa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Djambi Waras",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 1305130,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Agung Persada",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 723418,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Kirana Musi Persada",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 657239,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Permata",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 448997,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komering Jaya Perdana",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 444060,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Windu",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 380859,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Sapta",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 318730,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tirta Sari Surya",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 316767,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusira",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 305553,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Triputra Persada",
+      "business_type": "Agro Bisnis",
+      "total_assets": 305159,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pantja Surya",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 200930,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anugrah Bungo Lestari",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 161873,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT New Kalbar Procesors",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 154779,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anugerah Alam Persada",
+      "business_type": "Agro Bisnis",
+      "total_assets": 152282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Putra Katingan Pratama",
+      "business_type": "Agro Bisnis",
+      "total_assets": 121067,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karini Utama",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 120230,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Putera Karya",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 34808,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Borneo Tangkiling",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 17962,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Prima",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 17388,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Sanggam Balangan",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 16347,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tisma Perdana Mandiri",
+      "business_type": "Agro Bisnis",
+      "total_assets": 9484,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Sarolangun",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 7112,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Komering Agro Industri",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 5400,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kirana Tebo",
+      "business_type": "Pabrik Crumb Rubber",
+      "total_assets": 4396,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Subur Abadi",
+      "business_type": "Agro Bisnis",
+      "total_assets": 277,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.103.133.793.024",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:07.929Z"
+}

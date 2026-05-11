@@ -1,0 +1,268 @@
+{
+  "company_name": "Modern Internasional Tbk",
+  "ticker": "MDRN",
+  "office_address": "Jl. Sultan Hasanudin N0 72 Jakarta 12160",
+  "email": "bd_dsupport1@moderninternasional.co.id",
+  "phone": "021-27933378",
+  "fax": "021-00000000",
+  "tax_id": "01.001.822.4-054.000",
+  "website": "https://www.moderninternasional.co.id",
+  "listing_date": "1991-07-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan dan Pendistribusian Barang",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman, Retail.",
+    "business_tags": [
+      "Makanan & Minuman",
+      "Retail"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 64,
+    "name": "Peralatan Kantor",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Martino",
+    "email": "corpsec@moderninternasional.co.id",
+    "phone": "021-27937489"
+  },
+  "directors": [
+    {
+      "name": "Sungkono Honoris",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Laurentius Linggodigdo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Martino",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ign Alit Himawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anthony Chandra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Izudin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tirtonadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sungkono Honoris",
+      "type": "Direksi",
+      "shares": 2689080200,
+      "percentage": 35.23
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1829108998,
+      "percentage": 23.97
+    },
+    {
+      "name": "Bukit Hedama Permai",
+      "type": "Lebih dari 5%",
+      "shares": 1608446427,
+      "percentage": 21.07
+    },
+    {
+      "name": "Cs Ag Sg Asialink Electronics",
+      "type": "Lebih dari 5%",
+      "shares": 602931700,
+      "percentage": 7.9
+    },
+    {
+      "name": "Cimbgnt Sa Cimbpe",
+      "type": "Lebih dari 5%",
+      "shares": 473640818,
+      "percentage": 6.21
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 427239655,
+      "percentage": 5.6
+    },
+    {
+      "name": "Laurentius Linggodigo",
+      "type": "Direksi",
+      "shares": 1720000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Modern Data Solusi (dahulu Mil)",
+      "business_type": "Perdagangan dan Jasa, Khususnya Bidang Jasa Yg Meliputi Alat Fotografi, Elektronik, Mesin Fotokopi dan Suku Cadangnya",
+      "total_assets": 172541643771,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Data Solusi (dahulu Mil)",
+      "business_type": "Perdagangan dan Jasa, Khususnya Bidang Jasa Yg Meliputi Alat Fotografi, Elektronik, Mesin Fotokopi dan Suku Cadangnya",
+      "total_assets": 165917271261,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Data Solusi (dahulu Mil)",
+      "business_type": "Perdagangan dan Jasa, Khususnya Bidang Jasa Yg Meliputi Alat Fotografi, Elektronik, Mesin Fotokopi dan Suku Cadangnya",
+      "total_assets": 165917271261,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Data Solusi (dahulu Mil)",
+      "business_type": "Perdagangan dan Jasa, Khususnya Bidang Jasa Yg Meliputi Alat Fotografi, Elektronik, Mesin Fotokopi dan Suku Cadangnya",
+      "total_assets": 161628903236,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Data Solusi (dahulu Mil)",
+      "business_type": "Perdagangan dan Jasa, Khususnya Bidang Jasa Yg Meliputi Alat Fotografi, Elektronik, Mesin Fotokopi dan Suku Cadangnya",
+      "total_assets": 161628903236,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Pangan Indonesia (dahulu Mpi)",
+      "business_type": "Perdagangan Makanan dan Minuman",
+      "total_assets": 1352077985,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Pangan Indonesia (dahulu Mpi)",
+      "business_type": "Perdagangan Makanan dan Minuman",
+      "total_assets": 1352077985,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Pangan Indonesia (dahulu Mpi)",
+      "business_type": "Perdagangan Makanan dan Minuman",
+      "total_assets": 1352077984,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Pangan Indonesia (dahulu Mpi)",
+      "business_type": "Perdagangan Makanan dan Minuman",
+      "total_assets": 1352077984,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Pangan Indonesia (dahulu Mpi)",
+      "business_type": "Perdagangan Makanan dan Minuman",
+      "total_assets": 1352077984,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Sevel Indonesia (mpri)",
+      "business_type": "Perdagangan Terutama dalam Perdagangan Impor/ekspor, Toko Serba Ada, dan Supermarket,outlet 7 Eleven",
+      "total_assets": 777465038,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Sevel Indonesia (mpri)",
+      "business_type": "Perdagangan Terutama dalam Perdagangan Impor/ekspor, Toko Serba Ada, dan Supermarket,outlet 7 Eleven",
+      "total_assets": 777465038,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Sevel Indonesia (mpri)",
+      "business_type": "Perdagangan Terutama dalam Perdagangan Impor/ekspor, Toko Serba Ada, dan Supermarket,outlet 7 Eleven",
+      "total_assets": 777465038,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Sevel Indonesia (mpri",
+      "business_type": "Perdagangan Terutama dalam Perdagangan Impor/ekspor, Toko Serba Ada, dan Supermarket,outlet 7 Eleven",
+      "total_assets": 539340058,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modern Sevel Indonesia (mpri",
+      "business_type": "Perdagangan Terutama dalam Perdagangan Impor/ekspor, Toko Serba Ada, dan Supermarket,outlet 7 Eleven",
+      "total_assets": 539340058,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "412.137.061.092",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:37.781Z"
+}

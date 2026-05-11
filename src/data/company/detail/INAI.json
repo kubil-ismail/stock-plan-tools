@@ -1,0 +1,241 @@
+{
+  "company_name": "Indal Aluminium Industry Tbk",
+  "ticker": "INAI",
+  "office_address": "Desa Sawotratap Gedangan (kawasan Maspion Unit I) Sidoarjo, Surabaya",
+  "email": "info@indalcorp.com",
+  "phone": "(031) 8531531 ext. 3431",
+  "fax": "(031) 8532812",
+  "tax_id": "01.122.535.6-054.000",
+  "website": "http://www.indalcorp.com",
+  "listing_date": "1994-12-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Metal and Alied Products",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 3,
+    "name": "Alumunium",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Windy Brigitta Carp",
+    "email": "finance@indalcorp.com",
+    "phone": "(031)3531445 Ext 1621"
+  },
+  "directors": [
+    {
+      "name": "Alim Markus",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alim Mulia Sastra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alim Prakasa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wibowo Suryadinata",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Cahyadi Salim",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Welly Muliawan,lie",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Supranoto Dipokusumo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs.supranoto Dipokusumo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lydia Ratna Dewi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Debby Maria",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Husin Investama",
+      "type": "Lebih dari 5%",
+      "shares": 208990400,
+      "percentage": 32.98
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 167569300,
+      "percentage": 26.45
+    },
+    {
+      "name": "PT. Marindo Investama",
+      "type": "Lebih dari 5%",
+      "shares": 49680000,
+      "percentage": 7.84
+    },
+    {
+      "name": "PT. Maspion",
+      "type": "Lebih dari 5%",
+      "shares": 48299600,
+      "percentage": 7.63
+    },
+    {
+      "name": "PT. Guna Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 39744000,
+      "percentage": 6.27
+    },
+    {
+      "name": "PT. Mulindo Investama",
+      "type": "Lebih dari 5%",
+      "shares": 39744000,
+      "percentage": 6.27
+    },
+    {
+      "name": "PT. Prakindo Investama",
+      "type": "Lebih dari 5%",
+      "shares": 39744000,
+      "percentage": 6.27
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 32702000,
+      "percentage": 5.17
+    },
+    {
+      "name": "Alim Prakasa",
+      "type": "Direksi",
+      "shares": 5479800,
+      "percentage": 0.86
+    },
+    {
+      "name": "Welly Muliawan",
+      "type": "Komisaris",
+      "shares": 1646900,
+      "percentage": 0.26
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indal Investindo",
+      "business_type": "Investasi",
+      "total_assets": 813228860290,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indalex",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 466484082443,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indal Reiwa Auto",
+      "business_type": "Manufaktur Aluminium Extrusion",
+      "total_assets": 319294290130,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Warna Cemerlang Industri",
+      "business_type": "Manufaktur Cat",
+      "total_assets": 37741619403,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indal Servis Sentra",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 2390000,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "117.849.600.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:26.758Z"
+}

@@ -1,0 +1,292 @@
+{
+  "company_name": "PT Pollux Properties Indonesia Tbk.",
+  "ticker": "POLL",
+  "office_address": "Noble House Lantai 36 Jl. Dr. Ide Anak Agung Gde Agung Kav. E.4.2 No. 2, Mega Kuningan Jakarta Selatan, 12950, Indonesia",
+  "email": "corpsec@pollux.co.id",
+  "phone": "(021) 2918 3111",
+  "fax": "(021) 2918 3112",
+  "tax_id": "71.984.044.9-012.000",
+  "website": "https://www.pollux.com.sg/id",
+  "listing_date": "2018-07-11",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Menjalankan usaha dalam bidang properti dan real estate melalui penyertaan saham pada Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Junita",
+    "email": "corpsec@pollux.co.id",
+    "phone": "+62 (21) 29183111"
+  },
+  "directors": [
+    {
+      "name": "Handojo Koentoro Setyadi, Sh",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Aswin Desmonda Rosidi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Teny Siti Febryani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Brian Praneda",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bp. Brian Praneda, Sh",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bp. Solihin Makmur Alam",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ibu Irena Lady Soemarlim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Borneo Melawai Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 6570001000,
+      "percentage": 78.978
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1247823600,
+      "percentage": 15
+    },
+    {
+      "name": "Citibank Hong Kong S/a Pbg Cleints Sg",
+      "type": "Lebih dari 5%",
+      "shares": 500000000,
+      "percentage": 6.01
+    },
+    {
+      "name": "PT. Pollux Multi Artha",
+      "type": "Lebih dari 5%",
+      "shares": 999000,
+      "percentage": 0.012
+    },
+    {
+      "name": "Uob Kay Hian (hongkong) Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lain-lain",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Beng Sen",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aswin Desmonda Rosidi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Handojo Koentoro Setyadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Brian Praneda",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mega Kuningan Prima",
+      "business_type": "Perdagangan; Pembangunan dan Pemberian Jasa",
+      "total_assets": 1122679793228,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mega Kuningan Pinnacle",
+      "business_type": "Pembangunan Kantor dan Apartemen",
+      "total_assets": 1102030163978,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Mega Daya Prima",
+      "business_type": "Perdagangan, Industri, Pertambangan, Pengangkutan dan Jasa",
+      "total_assets": 413633200044,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pollux Mega Kuningan",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 413633200044,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bukit Mas Investama",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 200183849248,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adiperdana Sejahtera",
+      "business_type": "Konstruksi dan Real Estate",
+      "total_assets": 157495657484,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pollux Mega Karunia",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 131835399313,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Tirta Asri Hijau",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 27279368190,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pelita Bara Pratama",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 20399729250,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "931.708.243.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:35.453Z"
+}

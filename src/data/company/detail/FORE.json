@@ -1,0 +1,205 @@
+{
+  "company_name": "PT Fore Kopi Indonesia Tbk",
+  "ticker": "FORE",
+  "office_address": "Gedung Graha Ganesha, Lantai 1 Suite 120 & 130 Jl. Hayam Wuruk Nomor 28, Jakarta Pusat 10120",
+  "email": "investor.relations@fore.coffee",
+  "phone": "(021) 3506373",
+  "fax": "",
+  "tax_id": "854116852067000",
+  "website": "https://www.fore.coffee",
+  "listing_date": "2025-04-14",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam Bisnis Kedai Kopi",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 49,
+    "name": "Minuman Ringan",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Denny Ngadimin",
+    "email": "corpsecretary@fore.coffee",
+    "phone": "(021) 3506373"
+  },
+  "directors": [
+    {
+      "name": "Vico Lomar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tjhong Pie Chen",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rizky Ardian",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mohammad Fahmi Rachmattulah",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Willson Cuaca",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Roderick Purwana",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Melisa Irene",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Daniel Octavianus M.",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sugiyanto Wibawa",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "David Fernando Audy",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "David Fernando Audy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rodion Wikanto Njotowidjojo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Miranti Hadisusilo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Fore Holdings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 7038145548,
+      "percentage": 78.918
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1880000000,
+      "percentage": 21.08
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 213722,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Fore Internationa Pte. Ltd. (fi)",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 18114827004,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fore Bakery Indonesia",
+      "business_type": "Perdagangan Roti dan Kue",
+      "total_assets": 11861900640,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.338.665.917.450",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:34.492Z"
+}

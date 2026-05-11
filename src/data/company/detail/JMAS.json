@@ -1,0 +1,219 @@
+{
+  "company_name": "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk",
+  "ticker": "JMAS",
+  "office_address": "Graha Kospin Jasa Lt. 5 Jl. Jend Gatot Soebroto Kav. 1 Jakarta Selatan 12870",
+  "email": "cs.info@jmasyariah.com",
+  "phone": "82470083",
+  "fax": "82470086",
+  "tax_id": "70.954.765.7-015.000",
+  "website": "https://www.jmasyariah.com",
+  "listing_date": "2017-12-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang Asuransi Jiwa Syariah",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 5,
+    "name": "Asuransi Jiwa",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Mawar Arsiani Djunaid",
+    "email": "mawar.arsiarni@jmasyariah.com",
+    "phone": "021-82470083"
+  },
+  "directors": [
+    {
+      "name": "Basuki Agus",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Aji Darmaji",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Gus Imron Gunasendjaja",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mawar Arsiarni Djunaid",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ahmad Nugraha",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dhimas Achmad Sidharta",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Fadli Meilani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ahmad Nugraha",
+      "position": "Ketua"
+    },
+    {
+      "name": "Shakti Agustono Rahardjo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dadi Adriana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Koperasi Simpan Pinjam Jasa",
+      "type": "Lebih dari 5%",
+      "shares": 579500000,
+      "percentage": 57.95
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 337500000,
+      "percentage": 33.75
+    },
+    {
+      "name": "PT Pijar Investasi Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 83000000,
+      "percentage": 8.3
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Husni, Mucharam & Rasidi"
+    },
+    {
+      "name": "Husni, Mucharam & Rasidi"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    },
+    {
+      "name": "Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    },
+    {
+      "name": "Kap Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    },
+    {
+      "name": "Kap Syarief Wibawa dan Rekan"
+    },
+    {
+      "name": "Husni, Wibawa & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "232.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:23.805Z"
+}

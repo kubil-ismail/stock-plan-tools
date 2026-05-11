@@ -1,0 +1,202 @@
+{
+  "company_name": "PT Asri Karya Lestari Tbk.",
+  "ticker": "ASLI",
+  "office_address": "Ruko Sentra Niaga Kalimalang B2 No3 Jl. Jend. Ahmad Yani, Bekasi, Jawa Barat 17144",
+  "email": "corsec@asrikaryalestari.co.id",
+  "phone": "+62 21 88969144",
+  "fax": "",
+  "tax_id": "21.064.312.8-432.000",
+  "website": "https://www.asrikaryalestari.co.id",
+  "listing_date": "2024-01-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "General Contractor khususnya dalam pekerjaan pondasi, erection, bekisting, dan pekerjaan jalan",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Yudra Saputra",
+    "email": "corsec@asrikaryalestari.co.id",
+    "phone": "+62 21 88969144"
+  },
+  "directors": [
+    {
+      "name": "Agus Karianto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Supeno Bambang Irianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Setiadji",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yazid Fanani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Erry Firmansyah",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wilson",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ardian Asmar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Shandro Pertini",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gema Ramadhan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Wahana Konstruksi Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 3920000000,
+      "percentage": 62.72
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2327991900,
+      "percentage": 37.25
+    },
+    {
+      "name": "Yazid Fanani",
+      "type": "Direksi",
+      "shares": 2008100,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bumi Prima Konstruksi",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 155505730631,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Manyar Perkasa Mandiri",
+      "business_type": "Batching Plant",
+      "total_assets": 122454140387,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.312.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:36.520Z"
+}

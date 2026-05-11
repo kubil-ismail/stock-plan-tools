@@ -1,0 +1,185 @@
+{
+  "company_name": "PT Bank Ganesha Tbk.",
+  "ticker": "BGTG",
+  "office_address": "Wisma Hayam Wuruk Lt. 1-2, Jln. Hayam Wuruk No. 8, Jakarta Pusat 10120",
+  "email": "corpsect@bankganesha.co.id",
+  "phone": "+6221-29109900 (Hunting)",
+  "fax": "+6221-29109992",
+  "tax_id": "0015479520073000",
+  "website": "https://www.bankganesha.co.id",
+  "listing_date": "2016-05-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Robert Halim",
+    "email": "robert.halim@bankganesha.co.id",
+    "phone": "021-29109900"
+  },
+  "directors": [
+    {
+      "name": "Setiawan Kumala*",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Arif Wicaksono",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Suroso",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ibrahim",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Marcello Theodore Taufik",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lisawati",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sudarto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Trisna Chandra",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Trisna Chandra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arief Dhita Wibawa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sari Utami",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8404277103,
+      "percentage": 35.06
+    },
+    {
+      "name": "PT Equity Development Investment Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 8036410000,
+      "percentage": 33.53
+    },
+    {
+      "name": "Equity Global International Limited",
+      "type": "Lebih dari 5%",
+      "shares": 5736363400,
+      "percentage": 23.93
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1388305300,
+      "percentage": 5.79
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 396824000,
+      "percentage": 1.65
+    },
+    {
+      "name": "Ibrahim",
+      "type": "Direksi",
+      "shares": 8817300,
+      "percentage": 0.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.871.485.742.972",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:13.602Z"
+}

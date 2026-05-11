@@ -1,0 +1,208 @@
+{
+  "company_name": "Arwana Citramulia Tbk",
+  "ticker": "ARNA",
+  "office_address": "Gedung Puri Agung Sentra Niaga Puri Indah, T2, 24, Kembangan Selatan, Kembangan, Kota Adm. Jakarta Barat, Dki Jakarta, 11610",
+  "email": "corsec@arwanacitra.com",
+  "phone": "+6221 58302363",
+  "fax": "+6221 58302361",
+  "tax_id": "0016 0979 6605 4000",
+  "website": "https://www.arwanacitra.com",
+  "listing_date": "2001-07-17",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bahan Bangunan Keramik",
+    "business_summary": "Perusahaan bergerak di bidang Produk & Perlengkapan Bangunan.",
+    "business_tags": [
+      "Produk & Perlengkapan Bangunan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Rudy Sujanto",
+    "email": "rudy@arwanacitra.com",
+    "phone": "(021) 58302363"
+  },
+  "directors": [
+    {
+      "name": "Tandean Rustandy, M.b.a.",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edy Suyanto. S.e.",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "George Elnadus Supit, S.sos.",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Prof. Dr. Marsetio, S.i.p., M.m.",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Edwin Pamimpin Situmorang, S.h., m.h.",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. H. Karsanto, M.b.a.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Prof. Dr. Ir. Alex S.w. Retraubun, M.sc.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. H. Karsanto, M.ba.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lukman Sidharta, S.e., M.ba.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr. Ir. Wicaksono Sarwo Edi, M.m.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2777704876,
+      "percentage": 37.85
+    },
+    {
+      "name": "Tandean Rustandy, Mba",
+      "type": "Direksi",
+      "shares": 2739979400,
+      "percentage": 37.32
+    },
+    {
+      "name": "PT Suprakreasi Eradinamika",
+      "type": "Lebih dari 5%",
+      "shares": 1093319700,
+      "percentage": 14.89
+    },
+    {
+      "name": "Bbh Luxembourg S/a Fidelity Funds-asian Smaller Companies Pool",
+      "type": "Lebih dari 5%",
+      "shares": 402536200,
+      "percentage": 5.48
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 323248400,
+      "percentage": 4.4
+    },
+    {
+      "name": "Edwin Pamimpin Situmorang, S.h., m.h.",
+      "type": "Komisaris",
+      "shares": 3056300,
+      "percentage": 0.04
+    },
+    {
+      "name": "Edy Suyanto,se",
+      "type": "Direksi",
+      "shares": 1586100,
+      "percentage": 0.02
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sinar Karya Duta Abadi",
+      "business_type": "Industi Keramik",
+      "total_assets": 1600854178061,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Primagraha Keramindo",
+      "business_type": "Distributor Keramik",
+      "total_assets": 933186799634,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Arwana Nuansakeramik",
+      "business_type": "Industri Keramik",
+      "total_assets": 512504233117,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Arwana Anugerah Keramik",
+      "business_type": "Industri Keramik",
+      "total_assets": 511084426507,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.626.666.902.144",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:22.636Z"
+}

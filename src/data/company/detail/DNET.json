@@ -1,0 +1,205 @@
+{
+  "company_name": "PT Indoritel Makmur Internasional Tbk.",
+  "ticker": "DNET",
+  "office_address": "Wisma Indocement, Lantai 10 Jalan Jend. Sudirman Kav. 70-71 Jakarta 12910, Indonesia",
+  "email": "corsec@indoritel.co.id",
+  "phone": "021- 29410709",
+  "fax": "021-29410701",
+  "tax_id": "01.764.351.1-054.000",
+  "website": "https://www.indoritel.co.id",
+  "listing_date": "2000-12-11",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Investasi, Jasa dan Perdagangan Umum",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Investasi.",
+    "business_tags": [
+      "Perusahaan Investasi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 77,
+    "name": "Perusahaan Investasi",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Kiki Yanto Gunawan",
+    "email": "corsec@indoritel.co.id",
+    "phone": "021-29410709"
+  },
+  "directors": [
+    {
+      "name": "Haliman Kustedjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Christian Rahardi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kiki Yanto Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harjono Wreksoremboko",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Djisman Simandjuntak",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Soedarsono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ferry Noviar Yosaputra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Janimiranti Inggawati",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Pranoto Leman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Timotius",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr Timotius",
+      "position": "Ketua"
+    },
+    {
+      "name": "Denny Susilo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lukman Suparman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hannawell Group Limited",
+      "type": "Lebih dari 5%",
+      "shares": 5581931400,
+      "percentage": 39.35
+    },
+    {
+      "name": "Anthoni Salim",
+      "type": "Lebih dari 5%",
+      "shares": 3588278023,
+      "percentage": 25.3
+    },
+    {
+      "name": "PT. Megah Eraraharja",
+      "type": "Lebih dari 5%",
+      "shares": 2854633305,
+      "percentage": 20.13
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2157007272,
+      "percentage": 15.2
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2150000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Mega Akses Persada",
+      "business_type": "Serat Optik",
+      "total_assets": 5101013,
+      "ownership_percentage": 71.97
+    },
+    {
+      "name": "PT. Indoritel Persada Nusantara",
+      "business_type": "Investasi",
+      "total_assets": 29119,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Fiberstar Pte. Ltd.",
+      "business_type": "Dormant",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "134.393.400.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:23.064Z"
+}

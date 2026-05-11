@@ -1,0 +1,310 @@
+{
+  "company_name": "PT Bank Smbc Indonesia Tbk",
+  "ticker": "BTPN",
+  "office_address": "Menara Smbc, Cbd Mega Kuningan Lantai 29. Jl. Dr. Ide Anak Agung Gde Agung Kav. 5.5-5.6 Jakarta 12950",
+  "email": "corporate.secretary@smbci.com",
+  "phone": "021-300 26 200",
+  "fax": "021-300 26 309",
+  "tax_id": "01.139.797.3-091.000",
+  "website": "https://www.smbci.com",
+  "listing_date": "2008-03-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Eneng Yulie Andriani",
+    "email": "corporate.secretary@smbci.com",
+    "phone": "6221 - 300 26 200"
+  },
+  "directors": [
+    {
+      "name": "Dini Herdini",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henoch Munandar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yuki Terayama",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Merisa Darwis",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hanna Tantani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Michellina Laksmi Triwardhany",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jun Saito",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Atsushi Hino",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Emilya Tjahjadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chow Ying Hoong",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Takeshi Kimoto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kusumaningtuti Sandriharmy Soetiono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Onny Widjanarko",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Marita Alisjahbana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Linus Ekabranko Windoe",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Onny Widjanarko",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kusumaningtuti Sandriharmy Soetiono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aria Kanaka",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sumitomo Mitsui Banking Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 9692826975,
+      "percentage": 91.047
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 830691738,
+      "percentage": 7.803
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 121749195,
+      "percentage": 1.144
+    },
+    {
+      "name": "Henoch Munandar",
+      "type": "Direksi",
+      "shares": 176756,
+      "percentage": 0.002
+    },
+    {
+      "name": "Merisa Darwis",
+      "type": "Direksi",
+      "shares": 225358,
+      "percentage": 0.002
+    },
+    {
+      "name": "Dini Herdini",
+      "type": "Direksi",
+      "shares": 121572,
+      "percentage": 0.001
+    },
+    {
+      "name": "Hanna Tantani",
+      "type": "Direksi",
+      "shares": 151154,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chow Ying Hoong",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Onny Widjanarko",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kusumaningtuti Sandriharmy Soetiono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jun Saito",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michellina Laksmi Triwardhany",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Atsushi Hino",
+      "type": "Direksi",
+      "shares": 3000,
+      "percentage": 0
+    },
+    {
+      "name": "Yuki Terayama",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marita Alisjahbana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Takeshi Kimoto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Btpn Syariah Tbk",
+      "business_type": "Perbankan",
+      "total_assets": 21701384,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Oto Multiartha",
+      "business_type": "Pembiayaan",
+      "total_assets": 16045853,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Summit Oto Finance",
+      "business_type": "Pembiayaan",
+      "total_assets": 15438845,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Btpn Syariah Ventura",
+      "business_type": "Modal Ventura",
+      "total_assets": 309503,
+      "ownership_percentage": 1
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "20.598.278.213.950",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:26.553Z"
+}

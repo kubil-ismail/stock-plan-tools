@@ -1,0 +1,486 @@
+{
+  "company_name": "Japfa Comfeed Indonesia Tbk",
+  "ticker": "JPFA",
+  "office_address": "Wisma Millenia Lt. 7 Jl. MT Haryono Kav. 16 Jakarta 12810",
+  "email": "maya.pradjono@japfa.com; yakobus.sugeng@japfa.com; corsec@japfa.com",
+  "phone": "021-28545680",
+  "fax": "021-8310309",
+  "tax_id": "01.002.845.4-092.000",
+  "website": "http://www.japfacomfeed.co.id",
+  "listing_date": "1989-10-23",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Animal Feed",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Kesehatan, Energi, Logistik, Manufaktur, Makanan & Minuman, Keuangan.",
+    "business_tags": [
+      "Agribisnis",
+      "Kesehatan",
+      "Energi",
+      "Logistik",
+      "Manufaktur",
+      "Makanan & Minuman",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Maya Pradjono",
+    "email": "mayap@japfacomfeed.co.id; sugeng@japfacomfeed.co.id",
+    "phone": "(021) 2854 5680"
+  },
+  "directors": [
+    {
+      "name": "Renaldo Santosa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "-",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Leo Handoko Laksono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rachmat Indrajaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gabriella Santosa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arif Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Haji Syamsir Siregar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Budi Hendarto",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hendrick Kolonas",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ito Sumardi Djuni Sanyoto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius Harwanto Suryo Sembodo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ito Sumardi Djuni Sanyoto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Edwin Suratman, Se, Ak",
+      "position": "Anggota"
+    },
+    {
+      "name": "Karya Utama Atmadilaga, Se, Ak",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Japfa Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 6500176516,
+      "percentage": 55.43
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5074608455,
+      "percentage": 43.29
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 98905300,
+      "percentage": 0.84
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 50982630,
+      "percentage": 0.43
+    },
+    {
+      "name": "Leo Handoko Laksono",
+      "type": "Direksi",
+      "shares": 1000000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Ir. Rachmat Indrajaya",
+      "type": "Direksi",
+      "shares": 164800,
+      "percentage": 0
+    },
+    {
+      "name": "Antonius Harwanto Suryo Sembodo",
+      "type": "Komisaris",
+      "shares": 200000,
+      "percentage": 0
+    },
+    {
+      "name": "Arif Widjaja",
+      "type": "Direksi",
+      "shares": 537500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Ciomas Adisatwa",
+      "business_type": "Peternakan Ayam, Rumah Potong Ayam dan Perdagangan",
+      "total_assets": 9730602,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indojaya Agrinusa",
+      "business_type": "Produksi Pakan Ternak, Pakan Ikan dan Udang Serta Usaha Perunggasan",
+      "total_assets": 3758450,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Suri Tani Pemuka",
+      "business_type": "Produksi Pakan Ikan dan Udang, Tambak Udang, Kamar Pendingin dan Penetasan Benur Udang",
+      "total_assets": 3363023,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT So Good Food",
+      "business_type": "Produk Konsumen",
+      "total_assets": 2785765,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Japfa Indoland",
+      "business_type": "Real Estat",
+      "total_assets": 1713931,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Vaksindo Satwa Nusantara",
+      "business_type": "Produksi Vaksin",
+      "total_assets": 1533803,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agrinusa Jaya Santosa",
+      "business_type": "Industri Produk Farmasi untuk Hewan, Perdagangan Besar Farmasi, Mesin, Peralatan dan Perlengkapan Pertanian",
+      "total_assets": 1371932,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jakamitra Indonesia",
+      "business_type": "Kawasan Perindustrian",
+      "total_assets": 1310380,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Santosa Utama Lestari",
+      "business_type": "Pertanian, Perdagangan, Industri, Pengeringan Jagung",
+      "total_assets": 1060540,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT So Goof Food Manufacturing",
+      "business_type": "Manufaktur Makanan",
+      "total_assets": 718500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Santosa Agrindo",
+      "business_type": "Pembibitan Sapi, Penggemukan Sapi, Rumah Potong Sapi, Perdagangan dan Peternakan Rusa",
+      "total_assets": 702914,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Vaksindo Vietnam Co., Ltd",
+      "business_type": "Produksi dan Perdagangan Vaksin Hewan",
+      "total_assets": 486210,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multi Makanan Permai",
+      "business_type": "Perdagangan",
+      "total_assets": 462386,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Prima Logistik",
+      "business_type": "Perdagangan",
+      "total_assets": 436412,
+      "ownership_percentage": 17.5
+    },
+    {
+      "name": "PT Multi Farmindo Jaya",
+      "business_type": "Peternakan Komersial",
+      "total_assets": 422075,
+      "ownership_percentage": 88.92
+    },
+    {
+      "name": "PT Tira Cipta Logistik",
+      "business_type": "Distribusi",
+      "total_assets": 360146,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Cahaya Gunung Foods",
+      "business_type": "Industri Makanan",
+      "total_assets": 257694,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "Apachee Pte., Ltd",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 223160,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bhirawa Mitra Sentosa",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 197023,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Proteindo Cipta Pangan",
+      "business_type": "Perdaganan dan Waralaba",
+      "total_assets": 163118,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Vaksindo Animal Health Pvt Ltd",
+      "business_type": "Produsen, Penjualan dan Distribusi Produk Kesehatan Hewan",
+      "total_assets": 115370,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Intan Kenkomayo Indonesia",
+      "business_type": "Industri Mayonaise",
+      "total_assets": 110297,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Santosa Agrindo Lestari",
+      "business_type": "Pembibitan Sapi, Produksi Pakan Ternak dan Perdagangan",
+      "total_assets": 77055,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Unggas Lestari Unggul",
+      "business_type": "Peternakan Ayam Silang",
+      "total_assets": 74826,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kona Bay Indonesia",
+      "business_type": "Pembesaran Crustacea Laut dan Perdagangan Besar Hasil Ikan",
+      "total_assets": 61360,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Sentra Satwatama Indonesia",
+      "business_type": "Pertanian, Perdagangan, Industri, Pengeringan Jagung",
+      "total_assets": 52298,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Eco Partner Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 47127,
+      "ownership_percentage": 19
+    },
+    {
+      "name": "PT Griya Mitra Poultry",
+      "business_type": "Peternakan Ayam dan Perdagangan",
+      "total_assets": 27989,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Wabin Jayatama",
+      "business_type": "Perkebunan dan Peternakan",
+      "total_assets": 19930,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tira Cipta Transportasi",
+      "business_type": "Logistik",
+      "total_assets": 19754,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Agro Harmoni Bumi",
+      "business_type": "Agrowisata dan Permakultur",
+      "total_assets": 10089,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bumiasri Lestari",
+      "business_type": "Tambak Udang",
+      "total_assets": 9998,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Celebes Agro Semesta",
+      "business_type": "Pertanian, Industri, Perdagangan",
+      "total_assets": 8259,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tretes Indah Permai",
+      "business_type": "Real Estat",
+      "total_assets": 7883,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Artha Lautan Mulya",
+      "business_type": "Tambak Udang",
+      "total_assets": 5208,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintang Laut Timur",
+      "business_type": "Peternakan Komersial",
+      "total_assets": 680,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kraksaan Windu",
+      "business_type": "Tambak Udang",
+      "total_assets": 197,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Iroha Sidat Indonesia",
+      "business_type": "Tambak Sidat",
+      "total_assets": 142,
+      "ownership_percentage": 89.94
+    },
+    {
+      "name": "PT Indonesia Pelleting",
+      "business_type": "Industri Pellet",
+      "total_assets": 20,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Comfeed Finance B.v.",
+      "business_type": "Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Comfeed Trading B.v.",
+      "business_type": "Perdagangan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "29.081.906.498.480",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:25.037Z"
+}

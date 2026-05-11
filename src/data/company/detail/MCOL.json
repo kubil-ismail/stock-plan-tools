@@ -1,0 +1,272 @@
+{
+  "company_name": "PT Prima Andalan Mandiri Tbk",
+  "ticker": "MCOL",
+  "office_address": "Gedung Office 8, Lantai 28 SCBD Lot. 28, Jl. Jend. Sudirman Kav. 52 - 53, Kebayoran Baru, Jakarta 12190",
+  "email": "corporate.secretary@mandiricoal.co.id",
+  "phone": "(021) 29333189",
+  "fax": "(021) 29333191",
+  "tax_id": "02.415.462.7-036.000",
+  "website": "https://www.mandiricoal.co.id",
+  "listing_date": "2021-09-07",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara dan Jasa Pertambangan Melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Jie Jeanny Pratiwi",
+    "email": "corporate.secretary@mandiricoal.co.id",
+    "phone": "(021) 29333189"
+  },
+  "directors": [
+    {
+      "name": "Handy Glivirgo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Erita Kasih Tjia",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Liu Chen Zhi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Patta Sofyan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Eddy Sugianto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Diah Asriningpuri Sugianto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sendang Pangganjar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sendang Pangganjar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Anang Yudiansyah Setiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Kurniadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Edika Agung Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 2176000000,
+      "percentage": 61.2
+    },
+    {
+      "name": "PT Prima Andalan Utama",
+      "type": "Lebih dari 5%",
+      "shares": 992000000,
+      "percentage": 27.9
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 343283000,
+      "percentage": 9.66
+    },
+    {
+      "name": "Handy Glivirgo",
+      "type": "Direksi",
+      "shares": 32000000,
+      "percentage": 0.9
+    },
+    {
+      "name": "Diah Asriningpuri Sugianto",
+      "type": "Komisaris",
+      "shares": 3983000,
+      "percentage": 0.11
+    },
+    {
+      "name": "Eddy Sugianto",
+      "type": "Komisaris",
+      "shares": 3965000,
+      "percentage": 0.11
+    },
+    {
+      "name": "Erita Kasih Tjia",
+      "type": "Direksi",
+      "shares": 2929000,
+      "percentage": 0.08
+    },
+    {
+      "name": "Handy Glivirgo",
+      "type": "Direksi",
+      "shares": 1400000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Liu Chen Zhi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Patta Sofyan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sendang Pangganjar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mandiri Intiperkasa",
+      "business_type": "Pertambangan",
+      "total_assets": 347756829,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mandala Karya Prima",
+      "business_type": "Kontraktor Batu Bara",
+      "total_assets": 330544755,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Maritim Prima Mandiri",
+      "business_type": "Ekspedisi Muatan Kapal Laut",
+      "total_assets": 131658507,
+      "ownership_percentage": 74
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "14.186.684.400.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:27.529Z"
+}

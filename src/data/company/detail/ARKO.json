@@ -1,0 +1,407 @@
+{
+  "company_name": "PT Arkora Hydro Tbk.",
+  "ticker": "ARKO",
+  "office_address": "Treasury Tower Level 9 Unit G-h District 8 SCBD Lot 28 Jl. Jend. Sudirman Kav 52-53 Jakarta 12190, Indonesia",
+  "email": "corporate.secretary@arkora.com",
+  "phone": "+62 (021) 50333144",
+  "fax": "+62 21-29333-298",
+  "tax_id": "03.047.096.7-012.000",
+  "website": "https://www.arkora.com",
+  "listing_date": "2022-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembangkitan tenaga listrik melalui sumber energi baru dan terbarukan yang berasal dari aliran air (Pembangkit Listrik Tenaga Air)",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 34,
+    "name": "Utilitas",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 57,
+    "name": "Utilitas Listrik"
+  },
+  "sub_industry": {
+    "id": 100,
+    "name": "Utilitas Listrik",
+    "industries_id": 57
+  },
+  "corporate_secretary": {
+    "name": "Ricky Hartono",
+    "email": "corporate.secretary@arkora.com",
+    "phone": "+62 (021) 50333144"
+  },
+  "directors": [
+    {
+      "name": "Aldo Henry Artoko",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ricky Hartono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Ismu Nugroho",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Boy Gemino Kalauserang",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Arya Pradana Setiadharma",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Indarto S.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Hadiantoro",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Indarto, S.h",
+      "position": "Ketua"
+    },
+    {
+      "name": "Anindita Wijaya Putri",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dwithya Putri Citrarhasmi. S.e., Ak., Ca",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Arkora Bakti Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1138837925,
+      "percentage": 38.89
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1005623582,
+      "percentage": 34.34
+    },
+    {
+      "name": "PT Energia Prima Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 777487893,
+      "percentage": 26.55
+    },
+    {
+      "name": "Aldo Henry Artoko",
+      "type": "Direksi",
+      "shares": 4820600,
+      "percentage": 0.16
+    },
+    {
+      "name": "Arya Pradana Setiadharma",
+      "type": "Komisaris",
+      "shares": 1725000,
+      "percentage": 0.06
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Arkora Sulawesi Selatan (ass)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 375865571444,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Hydro Sulawesi (ahs)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 357962317493,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sulawesi Hidro Mandiri (shm)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 59338002583,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Energi Baru (aeb)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 39245276960,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Guna Nergi (agn)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 31485185321,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Tenaga Matahari (atm)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 19297031147,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Arkora Hydro Malili (ahm)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 5008567100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Arkora Energi Tanggamus (aet)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 5002870000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Arkora Kalimantan Energi Hijau (akeh)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 4237600465,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Arkora Hydro Kalimantan",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 2509904602,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Padalembara Terbarukan (apt)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 2505000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Arkora Hydro Pamulihan (ahp)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 2500000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Arkora Tomoni Hydro (ath)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1997817129,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Pembangkitan Hijau/pt Arkora Sulawesi Tengah (asth)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1996817129,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Hidro Pasifik (ahp)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1995634767,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Hidro Tenggara (aht)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1994209386,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Luwu Timur Mandiri (altm)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1917397510,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Tenggara Hidro (th)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1915891810,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arjuna Hidro",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1914920620,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Sulawesi Tenggara (ast)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1892023497,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Atlantik (aa)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1883531097,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nosu Hydro (nh)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1857298491,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arkora Hidronesia (ah)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1511250261,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Hydra Sulawesi (hs)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 1511250261,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Tirta Energi Lestari (tel)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 576923162,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Granif Konsultan (gk)",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 371354562,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Global Metal Raya (gmr)",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 250000000,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "28.259.976.750.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:16.130Z"
+}

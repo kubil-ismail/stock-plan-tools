@@ -1,0 +1,212 @@
+{
+  "company_name": "PT Cipta Selera Murni Tbk.",
+  "ticker": "CSMI",
+  "office_address": "Menara Imperium, Lantai Lower Ground No. 04 (lg-04) Jakarta Selatan, 12980",
+  "email": "texas@texaschicken.co.id",
+  "phone": "(021) 314 0411",
+  "fax": "(021) 314 0037",
+  "tax_id": "01.366.769.6-073.000",
+  "website": "https://www.ciptaseleramurni.co.id",
+  "listing_date": "2020-04-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Restoran dan perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Rumah Makan.",
+    "business_tags": [
+      "Rumah Makan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Muhammad Ifran Wiguna",
+    "email": "franwiguna22@gmail.com",
+    "phone": "021-3140411"
+  },
+  "directors": [
+    {
+      "name": "Radino Miharjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Siti Rahmawati",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dwi Santoso",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mahfudin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mahfudin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Indun Subekti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Annisa Wulandari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Lisa Muchtar",
+      "type": "Lebih dari 5%",
+      "shares": 458200000,
+      "percentage": 56.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 357861500,
+      "percentage": 43.85
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dwi Santoso",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mahfudin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Radino Miharjo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Siti Rahmawati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cipta Global Selera",
+      "business_type": "Restoran",
+      "total_assets": 3644954153,
+      "ownership_percentage": 88
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Robert Ricker"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "82.422.211.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:44.513Z"
+}

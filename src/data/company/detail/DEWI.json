@@ -1,0 +1,220 @@
+{
+  "company_name": "PT Dewi Shri Farmindo Tbk",
+  "ticker": "DEWI",
+  "office_address": "Kampung Cimenyan, Rt 003/ Rw 003 Desa Cintaasih, Kecamatan Gekbrong, Cianjur, Jawa Barat 43261",
+  "email": "corsec@dewishrifarmindo.com",
+  "phone": "(62-21) 5880094",
+  "fax": "",
+  "tax_id": "930350889406000",
+  "website": "https://www.dewishrifarmindo.com",
+  "listing_date": "2022-07-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di Bidang Budidaya Ayam Ras Pedaging dan Perdagangan Eceran Hewan Ternak",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Rita Juwita",
+    "email": "corsec@dewishrifarmindo.com",
+    "phone": "021 - 5880094"
+  },
+  "directors": [
+    {
+      "name": "Aditiya Fajar Junus",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ferry Saputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Saputra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Greta Dewi Halim",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Billy Sarikho",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Billy Sarikho",
+      "position": "Ketua"
+    },
+    {
+      "name": "Venny Lindasari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Michael",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Aditiya Fajar Junus",
+      "type": "Direksi",
+      "shares": 780000000,
+      "percentage": 39
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 722746800,
+      "percentage": 36.14
+    },
+    {
+      "name": "Henry Saputra",
+      "type": "Direksi",
+      "shares": 264630000,
+      "percentage": 13.23
+    },
+    {
+      "name": "Sujito Ngatiman",
+      "type": "Lebih dari 5%",
+      "shares": 118030300,
+      "percentage": 5.9
+    },
+    {
+      "name": "Ferry Saputra",
+      "type": "Komisaris",
+      "shares": 101592900,
+      "percentage": 5.08
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 13000000,
+      "percentage": 0.65
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Kap Ramdany"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Kap Ramdany"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Kap Ramdany"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Kap Ramdany"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Kap Ramdany"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "254.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:04.647Z"
+}

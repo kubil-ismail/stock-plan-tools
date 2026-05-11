@@ -1,0 +1,378 @@
+{
+  "company_name": "Astra Otoparts Tbk",
+  "ticker": "AUTO",
+  "office_address": "Jl. Raya Pegangsaan Dua Km 2.2 Kelapa Gading Jakarta 14250",
+  "email": "investor@component.astra.co.id",
+  "phone": "(021) 4603550, 4607025",
+  "fax": "(021)4603559,4603549,4607009,4607011",
+  "tax_id": "0013 4524 3805 4000",
+  "website": "http://www.component.astra.co.id",
+  "listing_date": "1998-06-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Automotive and Components",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur, Otomotif.",
+    "business_tags": [
+      "Manufaktur",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 94,
+    "name": "Suku Cadang Otomotif",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Sophie Handili",
+    "email": "investor@component.astra.co.id",
+    "phone": "(62-21) 4603550"
+  },
+  "directors": [
+    {
+      "name": "Tujuh Martogi Siahaan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ronny Kusgianta",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sophie Handili",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Abun Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Prihatanto Agung L",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yusak Kristian Solaeman",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andi Gunanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Gidion Hasan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Tjahajana Wirakusumah",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Gunawan Geniusahardja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Bambang Widjanarko E. S.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Thomas Junaidi Alim W",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sudirman Maman Rusdi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djangkep Budhi Santoso",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Djangkep Budhi Santoso",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wiwiek Dianawati Santoso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Regina Okthory Sucianto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Astra International Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 3855786337,
+      "percentage": 80
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 962704443,
+      "percentage": 20
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1242220,
+      "percentage": 0
+    },
+    {
+      "name": "Gidion Hasan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sudirman Maman Rusdi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Geniusahardja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Thomas Junaidi Alim. W",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agus Tjahajana Wirakusumah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Djangkep Budhi Santoso",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hamdani Dzulkarnaen Salim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yusak Kristian Solaeman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tujuh Martogi Siahaan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ronny Kusgianta",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sophie Handili",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Abun Gunawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Prihatanto Agung Lesmono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andi Gunanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Widjanarko E. S",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Pakoakuina (pko) dan Entitas Anak",
+      "business_type": "Memproduksi Suku Cadang Otomotif, Terutama Wheel Rim",
+      "total_assets": 2264671,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Century Batteries Indonesia (cbi)",
+      "business_type": "Memproduksi Baterai Otomotif",
+      "total_assets": 949606,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT. Astra Komponen Indonesia (aski)",
+      "business_type": "Memproduksi Suku Cadang Otomotif",
+      "total_assets": 915604,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Autoplastik Indonesia (api)",
+      "business_type": "Memproduksi Komponen Otomotif Berbahan Plastik",
+      "total_assets": 634164,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Gemala Kempa Daya (gkd)",
+      "business_type": "Memproduksi Suku Cadang Otomotif, Terutama Frame Chassis Kendaraan",
+      "total_assets": 598711,
+      "ownership_percentage": 50.67
+    },
+    {
+      "name": "PT. Fscm Manufacturing Indonesia (fscm)",
+      "business_type": "Memproduksi Rantai Otomotif dan Filter Otomotif",
+      "total_assets": 590053,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Menara Terus Makmur (mtm)",
+      "business_type": "Memproduksi Dongkrak dan Alat Perkakas untuk Industri Otomotif",
+      "total_assets": 459285,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Federal Izumi Manufacturing (fim)",
+      "business_type": "Memproduksi Piston Otomotif",
+      "total_assets": 393598,
+      "ownership_percentage": 58.06
+    },
+    {
+      "name": "PT. Ardendi Jaya Sentosa (ajs)",
+      "business_type": "Perusahaan Perdagangan Perlengkapan Otomotif dan Penyedia Jasa Penjualan",
+      "total_assets": 358663,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Velasto Indonesia (vi)",
+      "business_type": "Memproduksi Komponen Otomotif dan Peralatan Listrik",
+      "total_assets": 309088,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Daido Steel Indonesia (adasi)",
+      "business_type": "Jasa Pemotongan dan Pemanasan Baja",
+      "total_assets": 215942,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT. Senantiasa Makmur (sm)",
+      "business_type": "Perusahaan Perdagangan Suku Cadang Otomotif",
+      "total_assets": 170875,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT. Nusa Keihin Indonesia (nki)",
+      "business_type": "Memproduksi Komponen Transmisi Kendaraan",
+      "total_assets": 88123,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT. Indokarlo Perkasa (ikp)",
+      "business_type": "-",
+      "total_assets": 1990,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "12.386.713.810.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:41:04.536Z"
+}

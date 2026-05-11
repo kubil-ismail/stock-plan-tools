@@ -1,0 +1,218 @@
+{
+  "company_name": "PT Wijaya Cahaya Timber Tbk",
+  "ticker": "FWCT",
+  "office_address": "Puri Indah Financial Tower, Lantai 27, Jl. Puri Lingkar dalam Blok T8, Rt.001/rw.002, Kelurahan Kembangan Selatan, Kecamatan Kembangan, Jakarta Barat - 11610, Dki Jakarta",
+  "email": "corsec@wijayacahayatimber.com",
+  "phone": "+62 21 22585789",
+  "fax": "+62 21 22585413",
+  "tax_id": "81.540.298.7-086.000",
+  "website": "http://wijayacahayatimber.com",
+  "listing_date": "2023-02-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di Industri Kayu Lapis",
+    "business_summary": "Perusahaan bergerak di bidang Kayu.",
+    "business_tags": [
+      "Kayu"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 36,
+    "name": "Kayu",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Mareci Susi Afrisca Sembiring",
+    "email": "corsec@wijayacahayatimber.com",
+    "phone": "+62 21 22585789"
+  },
+  "directors": [
+    {
+      "name": "Budi Tjahjadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Stendy",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Erwin Kurnia Winenda",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Selviana Rumondang",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Erwin Kurnia Winenda",
+      "position": "Ketua"
+    },
+    {
+      "name": "Suwardy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Audrey Angelina",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Fortuna Anugrah Sumber Terpadu",
+      "type": "Lebih dari 5%",
+      "shares": 1140033300,
+      "percentage": 58.08
+    },
+    {
+      "name": "First Fortuna Holdings Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 467265100,
+      "percentage": 23.8
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 353905600,
+      "percentage": 18.03
+    },
+    {
+      "name": "Stendy",
+      "type": "Direksi",
+      "shares": 1796000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Erwin Kurnia Winenda",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Selviana Rumondang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Tjahjadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Maju Aman Selalu",
+      "business_type": "Perdagangan/trading",
+      "total_assets": 16102579793,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sumber Indah Pratama",
+      "business_type": "Industri dan Perdagangan/industry And Trading",
+      "total_assets": 1240465000,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "174.707.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:42.176Z"
+}

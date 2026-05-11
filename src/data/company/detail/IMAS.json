@@ -1,0 +1,871 @@
+{
+  "company_name": "Indomobil Sukses Internasional Tbk",
+  "ticker": "IMAS",
+  "office_address": "Wisma Indomobil 1 Lt. 9, Jl. MT Haryono Kav. 8, Jakarta 13330",
+  "email": "corporate.secretary@indomobil.co.id",
+  "phone": "(021) 8564850, 8564860, Ext: 5700",
+  "fax": "(021) 8564891",
+  "tax_id": "01.062.220.7-054.000",
+  "website": "https://www.indomobil.com",
+  "listing_date": "1993-11-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Automotive and Components",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Energi, Logistik, Konstruksi, Manufaktur, Otomotif, Keuangan.",
+    "business_tags": [
+      "Agribisnis",
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Manufaktur",
+      "Otomotif",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 90,
+    "name": "Ritel Otomotif",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Cr Susilowasti",
+    "email": "corporate.secretary@indomobil.co.id",
+    "phone": "(021) 8564850, 8564860, Ext 5700"
+  },
+  "directors": [
+    {
+      "name": "Jusak Kertowidjojo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Santiago Soriano Navarro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Evensius Go",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Prijono Sp",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gunawan (gunawan Effendi)",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Nasuri",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Willianto Husada",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Eugene Cho Park",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Pranata Hajadi",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hanadi Rahardja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Mohamad Jusuf Hamka",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Lian Soei",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Edwin Hidayat (edwin Hidayat Abdullah)",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tan Lian Soei",
+      "position": "Ketua"
+    },
+    {
+      "name": "Asdi Aulia",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muliawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Gallant Venture Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1976765774,
+      "percentage": 49.49
+    },
+    {
+      "name": "PT Tritunggal Intipermata",
+      "type": "Lebih dari 5%",
+      "shares": 725850161,
+      "percentage": 18.17
+    },
+    {
+      "name": "PT Trimegah Sekuritas Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 608000000,
+      "percentage": 15.23
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 479471976,
+      "percentage": 12
+    },
+    {
+      "name": "PT Sejahtera Raya Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 200562566,
+      "percentage": 5.02
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3640562,
+      "percentage": 0.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewan Komisaris",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Direksi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewan Komisaris",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Direksi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indomobil Multi Jasa Tbk",
+      "business_type": "Induk Perusahaan",
+      "total_assets": 29411,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Img Sejahtera Langgeng",
+      "business_type": "Umum",
+      "total_assets": 23857,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indomobil Finance Indonesia",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 16731,
+      "ownership_percentage": 91.98
+    },
+    {
+      "name": "PT Csm Corporatama",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 12096,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Wahana Inti Selaras",
+      "business_type": "Penyalur",
+      "total_assets": 10706,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Seino Indomobil Logistics",
+      "business_type": "Transportasi",
+      "total_assets": 5610,
+      "ownership_percentage": 68.89
+    },
+    {
+      "name": "PT Indomobil Wahana Trada",
+      "business_type": "Dealer",
+      "total_assets": 5446,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indotruck Utama",
+      "business_type": "Penyalur",
+      "total_assets": 4486,
+      "ownership_percentage": 74.99
+    },
+    {
+      "name": "PT Indomobil Trada Nasional",
+      "business_type": "Dealer",
+      "total_assets": 3805,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Unicor Prima Motor",
+      "business_type": "Dealer",
+      "total_assets": 3612,
+      "ownership_percentage": 99.03
+    },
+    {
+      "name": "PT Wahana Wirawan",
+      "business_type": "Dealer",
+      "total_assets": 3190,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT National Assemblers",
+      "business_type": "Perakitan",
+      "total_assets": 3114,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Central Sole Agency",
+      "business_type": "Dealer",
+      "total_assets": 2929,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indomobil Prima Niaga",
+      "business_type": "Dealer",
+      "total_assets": 2929,
+      "ownership_percentage": 99.37
+    },
+    {
+      "name": "PT Eka Dharma Jaya Sakti",
+      "business_type": "Perdagangan",
+      "total_assets": 2746,
+      "ownership_percentage": 59.99
+    },
+    {
+      "name": "PT Prima Sarana Gemilang",
+      "business_type": "Kontraktor Pertambangan",
+      "total_assets": 2090,
+      "ownership_percentage": 99.59
+    },
+    {
+      "name": "PT Multicentral Aryaguna",
+      "business_type": "Penyewaan dan Pengelola Gedung",
+      "total_assets": 1993,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indomobil Prima Energi",
+      "business_type": "Bahan Bakar",
+      "total_assets": 1695,
+      "ownership_percentage": 98.94
+    },
+    {
+      "name": "PT Jasa Kencana Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 1385,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Indo Traktor Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 1130,
+      "ownership_percentage": 74.99
+    },
+    {
+      "name": "PT Img Cash Management (d/h PT Wangsa Indra Permana)",
+      "business_type": "Pembiayaan",
+      "total_assets": 1119,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Penta Artha Impressi",
+      "business_type": "Bengkel",
+      "total_assets": 968,
+      "ownership_percentage": 57.79
+    },
+    {
+      "name": "PT Nissan Motor Distributor Indonesia",
+      "business_type": "Penyalur",
+      "total_assets": 910,
+      "ownership_percentage": 74.99
+    },
+    {
+      "name": "PT Indomobil Bussan Trucking",
+      "business_type": "Sewa Guna Usaha",
+      "total_assets": 909,
+      "ownership_percentage": 55.18
+    },
+    {
+      "name": "PT Indomobil National Distributor",
+      "business_type": "Penyalur",
+      "total_assets": 897,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indosentosa Trada",
+      "business_type": "Dealer",
+      "total_assets": 736,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "PT Prima Sarana Mustika",
+      "business_type": "Kontraktor Perkebunan",
+      "total_assets": 468,
+      "ownership_percentage": 59.99
+    },
+    {
+      "name": "PT Indomobil Sukses Energi",
+      "business_type": "Perdagangan",
+      "total_assets": 394,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Rodamas Makmur Motor",
+      "business_type": "Dealer",
+      "total_assets": 390,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Indomobil Manufacturing Indonesia",
+      "business_type": "Jasa Inspeksi Kendaraan Bermotor",
+      "total_assets": 344,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Indomobil Multi Trada",
+      "business_type": "Dealer",
+      "total_assets": 319,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kreta Indo Artha",
+      "business_type": "Penyalur",
+      "total_assets": 251,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Wahana Indo Trada",
+      "business_type": "Dealer",
+      "total_assets": 243,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Wirawan Riau",
+      "business_type": "Dealer",
+      "total_assets": 222,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indomatsumoto Press & Dies Industries",
+      "business_type": "Pabrikasi",
+      "total_assets": 209,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indobuana Autoraya",
+      "business_type": "Penyalur",
+      "total_assets": 199,
+      "ownership_percentage": 95.34
+    },
+    {
+      "name": "PT Indomobil Energi Baru",
+      "business_type": "Perdagangan",
+      "total_assets": 197,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sentra Trada Indostation",
+      "business_type": "Perdagangan",
+      "total_assets": 191,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Rejeki Mobilindo Cirebon",
+      "business_type": "Dealer",
+      "total_assets": 184,
+      "ownership_percentage": 94.15
+    },
+    {
+      "name": "PT United Indo Surabaya",
+      "business_type": "Dealer",
+      "total_assets": 175,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Aion Indomobil Distribution Indonesia",
+      "business_type": "Penyalur",
+      "total_assets": 155,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wahana Trans Lestari Medan",
+      "business_type": "Dealer",
+      "total_assets": 150,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "PT Wahana Wirawan Palembang",
+      "business_type": "Dealer",
+      "total_assets": 147,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sun Motor Semarang",
+      "business_type": "Dealer",
+      "total_assets": 141,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "PT Wahana Sun Hutama Bandung",
+      "business_type": "Dealer",
+      "total_assets": 122,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "PT Furukawa Indomobil Battery Sales",
+      "business_type": "Perdagangan",
+      "total_assets": 115,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wahana Megah Putra Makasar",
+      "business_type": "Dealer",
+      "total_assets": 115,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wahana Indo Trada Mobilindo",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 114,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Wahana Inti Central Mobilindo",
+      "business_type": "Dealer",
+      "total_assets": 113,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Sumber Trada Tangerang",
+      "business_type": "Dealer",
+      "total_assets": 113,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wahana Sumber Baru Yogya",
+      "business_type": "Dealer",
+      "total_assets": 109,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Garuda Mataram Motor",
+      "business_type": "Penyalur",
+      "total_assets": 99,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Data Arts Xperience",
+      "business_type": "Pengolahan Data",
+      "total_assets": 98,
+      "ownership_percentage": 64.99
+    },
+    {
+      "name": "PT Wahana Senjaya Jakarta",
+      "business_type": "Dealer",
+      "total_assets": 90,
+      "ownership_percentage": 70.6
+    },
+    {
+      "name": "PT Wahana Persada Jakarta",
+      "business_type": "Dealer",
+      "total_assets": 86,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Marvia Multi Trada",
+      "business_type": "Pabrikasi",
+      "total_assets": 76,
+      "ownership_percentage": 99.02
+    },
+    {
+      "name": "PT Indomobil Bussan Penske",
+      "business_type": "Sewa Guna Usaha",
+      "total_assets": 73,
+      "ownership_percentage": 55.18
+    },
+    {
+      "name": "PT Indomobil Sompo Japan",
+      "business_type": "Reparasi Mobil",
+      "total_assets": 66,
+      "ownership_percentage": 48.62
+    },
+    {
+      "name": "PT Indomobil Cahaya Prima",
+      "business_type": "Dealer",
+      "total_assets": 62,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "Teachcast Global Pte. Ltd.",
+      "business_type": "E-learning",
+      "total_assets": 58,
+      "ownership_percentage": 59.99
+    },
+    {
+      "name": "PT Kyokuto Indomobil Distributor Indonesia",
+      "business_type": "Penyalur",
+      "total_assets": 53,
+      "ownership_percentage": 50.99
+    },
+    {
+      "name": "PT Indomobil Emotor Internasional",
+      "business_type": "Penyalur",
+      "total_assets": 51,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indomurayama Press & Dies Industries",
+      "business_type": "Pabrikasi",
+      "total_assets": 49,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kharisma Muda",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 49,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Wahana Delta Prima Banjarmasin",
+      "business_type": "Dealer",
+      "total_assets": 49,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "PT Indomobil Ekspres Truk",
+      "business_type": "Jasa Service Truk",
+      "total_assets": 48,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Wahana Sugi Terra",
+      "business_type": "Dealer",
+      "total_assets": 46,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Indomobil Bintan Corpora",
+      "business_type": "Penyewaan Kendaraan",
+      "total_assets": 44,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Wahana Wirawan Manado",
+      "business_type": "Dealer",
+      "total_assets": 43,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Autoparts Indomobil Indonesia (d/h PT Autobacs Indomobil Indonesia)",
+      "business_type": "Perdagangan",
+      "total_assets": 40,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sumber Lestari Samarinda",
+      "business_type": "Dealer",
+      "total_assets": 40,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Indomobil Sumber Baru",
+      "business_type": "Dealer",
+      "total_assets": 35,
+      "ownership_percentage": 50.01
+    },
+    {
+      "name": "PT Wahana Niaga Lombok",
+      "business_type": "Dealer",
+      "total_assets": 33,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Indomobil Global Transportasi",
+      "business_type": "Perdagangan",
+      "total_assets": 31,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Sumber Mobil Yogya",
+      "business_type": "Dealer",
+      "total_assets": 29,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Indomobil Jasa Lintas Raya",
+      "business_type": "Perdagangan",
+      "total_assets": 23,
+      "ownership_percentage": 69.99
+    },
+    {
+      "name": "PT Wahana Investasindo Salatiga",
+      "business_type": "Dealer",
+      "total_assets": 23,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Solusi Indomobil Perkasa",
+      "business_type": "Pos Universal",
+      "total_assets": 21,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Indojaya Tatalestari",
+      "business_type": "Perdagangan",
+      "total_assets": 20,
+      "ownership_percentage": 98.99
+    },
+    {
+      "name": "PT Wahana Inti Nusa Pontianak",
+      "business_type": "Dealer",
+      "total_assets": 18,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wahana Prima Trada Tangerang",
+      "business_type": "Dealer",
+      "total_assets": 17,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Sun Solo",
+      "business_type": "Dealer",
+      "total_assets": 15,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "PT Wahana Persada Lampung",
+      "business_type": "Dealer",
+      "total_assets": 13,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "PT Mca Jasa Utama",
+      "business_type": "Konstruksi",
+      "total_assets": 12,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indomobil Edukasi Utama",
+      "business_type": "E-learning",
+      "total_assets": 11,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Fluid Service Solution (dahulu PT Indomobil Sugiron Energi)",
+      "business_type": "Bahan Bakar",
+      "total_assets": 10,
+      "ownership_percentage": 59.99
+    },
+    {
+      "name": "PT Wahana Jaya Indah Jambi",
+      "business_type": "Dealer",
+      "total_assets": 8,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Jaya Tasikmalaya",
+      "business_type": "Dealer",
+      "total_assets": 8,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wahana Lestari Balikpapan",
+      "business_type": "Dealer",
+      "total_assets": 8,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Goodcar Indo Ciptakreasi",
+      "business_type": "Perdagangan",
+      "total_assets": 7,
+      "ownership_percentage": 64.99
+    },
+    {
+      "name": "PT Indo Trada Sugiron",
+      "business_type": "Penyalur",
+      "total_assets": 7,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indomobil Vktr Transportasi",
+      "business_type": "Perdagangan",
+      "total_assets": 6,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indo Auto Care",
+      "business_type": "Perdagangan",
+      "total_assets": 5,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Ismac",
+      "business_type": "Pabrikasi",
+      "total_assets": 5,
+      "ownership_percentage": 79.99
+    },
+    {
+      "name": "PT Wahana Adidaya Kudus",
+      "business_type": "Dealer",
+      "total_assets": 5,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indomobil Energi Lestari",
+      "business_type": "Tangki dan Dispenser Bahan Bakar",
+      "total_assets": 4,
+      "ownership_percentage": 50.06
+    },
+    {
+      "name": "PT Duta Inti Jasa",
+      "business_type": "Jasa Tenaga Kerja",
+      "total_assets": 2,
+      "ownership_percentage": 91.97
+    },
+    {
+      "name": "PT Img Bina Trada",
+      "business_type": "Bengkel",
+      "total_assets": 2,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indotama Maju Sejahtera",
+      "business_type": "Induk",
+      "total_assets": 2,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Jasa Logistik Utama",
+      "business_type": "Logistik",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lippo Indorent",
+      "business_type": "Penjualan Bahan Bakar",
+      "total_assets": 0,
+      "ownership_percentage": 55.18
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.253.919.956.535",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:19.137Z"
+}

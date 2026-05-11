@@ -1,0 +1,176 @@
+{
+  "company_name": "Metro Realty Tbk",
+  "ticker": "MTSM",
+  "office_address": "Gedung Metro Pasar Baru, Jl. H Samanhudi, Jakarta 10710",
+  "email": "0",
+  "phone": "344-1222",
+  "fax": "384-7242",
+  "tax_id": "01.363.919.0-054.000",
+  "website": "https://www.metrorealty.co.id",
+  "listing_date": "1992-01-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Properti",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Sukardi",
+    "email": "metrorealty.tbk@gmail.com",
+    "phone": "0213441222"
+  },
+  "directors": [
+    {
+      "name": "Rose Merry Maruli",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sukardi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wilson Maruli",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Robert Maruli",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ramli yang Lie",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sani Juli Maruli",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ramli yang Lie",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ny. Hice Tjun Tjen",
+      "position": "Anggota"
+    },
+    {
+      "name": "Anton A. Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Yakin Wiskon",
+      "type": "Lebih dari 5%",
+      "shares": 80396044,
+      "percentage": 34.527
+    },
+    {
+      "name": "Bara Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 48131932,
+      "percentage": 20.671
+    },
+    {
+      "name": "PT. Perkasa Makmur Amara",
+      "type": "Lebih dari 5%",
+      "shares": 44674876,
+      "percentage": 19.186
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 23476268,
+      "percentage": 10.082
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 20897008,
+      "percentage": 8.975
+    },
+    {
+      "name": "PT. Suryasakti Budimarkarti",
+      "type": "Lebih dari 5%",
+      "shares": 15271872,
+      "percentage": 6.559
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "116.424.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:52.300Z"
+}

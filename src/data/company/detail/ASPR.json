@@ -1,0 +1,186 @@
+{
+  "company_name": "PT Asia Pramulia Tbk",
+  "ticker": "ASPR",
+  "office_address": "Jl. Raya Kedung Asem No. 9, Kedung Baruk, Kec. Rungkut, Surabaya, Jawa Timur 60298",
+  "email": "corsec@asiapramulia.com",
+  "phone": "0318708077",
+  "fax": "",
+  "tax_id": "01.558.782.7-631.000",
+  "website": "https://www.asiapramulia.com",
+  "listing_date": "2025-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perseroan bergerak dalam bidang industri barang dari plastik untuk pengemasan",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Arif",
+    "email": "corsec@asiapramulia.com",
+    "phone": "0318708077"
+  },
+  "directors": [
+    {
+      "name": "Ricky Winoto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Romanus Marstan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arif",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alex Yoe",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yunita Yuwono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ady Putera Setyo Pribadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ady Putera Setyo Pribadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lukas Setyawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Badiuz Zaman, St",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Alex Yoe",
+      "type": "Komisaris",
+      "shares": 1292000000,
+      "percentage": 47.64
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 812000000,
+      "percentage": 29.94
+    },
+    {
+      "name": "Susan Yoewono",
+      "type": "Lebih dari 5%",
+      "shares": 551000000,
+      "percentage": 20.32
+    },
+    {
+      "name": "Ricky Winoto",
+      "type": "Direksi",
+      "shares": 57000000,
+      "percentage": 2.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Asia Kemasan Cantik",
+      "business_type": "Perdagangan Eceran Barang Pecah Belah dan Perlengkapan Dapur dari Plastik",
+      "total_assets": 6821642136,
+      "ownership_percentage": 37.5
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "786.480.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:50.890Z"
+}

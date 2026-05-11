@@ -1,0 +1,186 @@
+{
+  "company_name": "PT Magna Investama Mandiri Tbk",
+  "ticker": "MGNA",
+  "office_address": "Jl. Biak Blok B No. 2c, Kel. Cideng, Kec. Gambir, Jakarta Pusat",
+  "email": "corpsec@magnainvestamamandiri.co.id",
+  "phone": "(021) 63870041",
+  "fax": "(021)63870042",
+  "tax_id": "01.373.278.9-054.00",
+  "website": "https://www.magnainvestamamandiri.co.id",
+  "listing_date": "2014-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "properti komersial, perhotelan dan sarana pendukung lainnya, real estate, pariwisata dan perusahaan holding",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Sri Debora Irawati",
+    "email": "corpsec@magnainvestamamandiri.co.id",
+    "phone": "021-2522535"
+  },
+  "directors": [
+    {
+      "name": "Arianto Sjarief",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andi Budhi Witjaksono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Marcia Maria Tri Martini",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Michelle Elisa Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Miming Irawan Jusup",
+      "position": "Ketua"
+    },
+    {
+      "name": "Vivien Soesanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Leonard Stephen Jonatan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bhuwanatala Indah Permai, Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 2394283423,
+      "percentage": 70.2
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 836755203,
+      "percentage": 24.52
+    },
+    {
+      "name": "Safire Capital Pte.ltd",
+      "type": "Lebih dari 5%",
+      "shares": 180000000,
+      "percentage": 5.28
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Grha Swahita",
+      "business_type": "Perhotelan",
+      "total_assets": 83187863743,
+      "ownership_percentage": 98.17
+    },
+    {
+      "name": "PT Bip Sentosa",
+      "business_type": "Penyewaan Perhotelan",
+      "total_assets": 40150666600,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "627.630.647.184",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:52.288Z"
+}

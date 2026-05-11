@@ -1,0 +1,214 @@
+{
+  "company_name": "Mandom Indonesia Tbk",
+  "ticker": "TCID",
+  "office_address": "Wisma 46 Kota Bni, Suite 7.01, 7th Floor, Jl. Jend. Sudirman Kav. 1, Jakarta 10220",
+  "email": "corporatesecretary@mandom.co.id",
+  "phone": "021-29809500",
+  "fax": "021-29809501",
+  "tax_id": "01.000.614.6-092.000",
+  "website": "https://www.mandom.co.id",
+  "listing_date": "1993-09-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Kosmetika",
+    "business_summary": "Perusahaan bergerak di bidang Produk Perawatan Tubuh.",
+    "business_tags": [
+      "Produk Perawatan Tubuh"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Alia Risyamaya Dewi",
+    "email": "corporatesecretary@mandom.co.id",
+    "phone": "(021) 6510061"
+  },
+  "directors": [
+    {
+      "name": "Koichi Watanabe",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Teiji Izawa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Toru Onishi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sanyata Adi Saputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Sudarta",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hirokazu Kagami",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hideki Nakamura",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Shinichiro Koshiba",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lie Harjono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Heri Martono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Bowo Priyatno",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tiurma Rondang Sari",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Masanori Sawada",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tiurma Rondang Sari",
+      "position": "Ketua"
+    },
+    {
+      "name": "Azwir Zamrinurdin, Ak., M.ak., Ca, Cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Baso Fakhruddin, S.h., M.kn.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mandom Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 262317382,
+      "percentage": 65.23
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 71469188,
+      "percentage": 17.77
+    },
+    {
+      "name": "PT Asia Jaya Paramita",
+      "type": "Lebih dari 5%",
+      "shares": 45716520,
+      "percentage": 11.37
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 22058460,
+      "percentage": 5.49
+    },
+    {
+      "name": "Lie Harjono",
+      "type": "Komisaris",
+      "shares": 506008,
+      "percentage": 0.13
+    },
+    {
+      "name": "Hirokazu Kagami",
+      "type": "Direksi",
+      "shares": 40000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Alliance Cosmetics",
+      "business_type": "Perdagangan Besar Kosmetik.",
+      "total_assets": 15782992471,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.154.122.668.580",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:15.027Z"
+}

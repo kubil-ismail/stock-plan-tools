@@ -1,0 +1,325 @@
+{
+  "company_name": "PT Adhi Kartiko Pratama Tbk",
+  "ticker": "NICE",
+  "office_address": "Pacific Century Place 33rd Floor SCBD Lot 10, Jl. Jenderal Sudirman Kav. 52-53, Jakarta Selatan 12190",
+  "email": "corporatesecretary@akp.co.id; admin@akp.co.id",
+  "phone": "021-50939000",
+  "fax": "021-50939000",
+  "tax_id": "0028329472811000",
+  "website": "https://www.akp.co.id",
+  "listing_date": "2024-01-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam Pertambangan Bijih Nikel",
+    "business_summary": "Perusahaan bergerak di bidang Logam & Mineral Lainnya.",
+    "business_tags": [
+      "Logam & Mineral Lainnya"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Filia Alanda",
+    "email": "corporatesecretary@akp.co.id",
+    "phone": "021 8790 0305"
+  },
+  "directors": [
+    {
+      "name": "Chang Pyo Hong",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jungchul Shin",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Choi Min",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kookhyun Chae",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Seungyeon Lee",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yeon Ho Choi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Soomin Lee",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Niwat Boonyad",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sang Moo Lee",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Pintarso Adijanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Stevano Rizki Adranacus",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pintarso Adijanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Enieke",
+      "position": "Anggota"
+    },
+    {
+      "name": "Oh Dong Gyu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Energy Battery Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 4231395615,
+      "percentage": 69.57
+    },
+    {
+      "name": "PT Sungai Mas Minerals",
+      "type": "Lebih dari 5%",
+      "shares": 634220385,
+      "percentage": 10.43
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 631404000,
+      "percentage": 10.38
+    },
+    {
+      "name": "PT Indo Tambangraya Megah Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 585000000,
+      "percentage": 9.62
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Soomin Lee",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Niwat Boonyad",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sang Moo Lee",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pintarso Adijanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Stevano Rizki Adranacus",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chang Pyo Hong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jungchul Shin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Choi Min",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kookhyun Chae",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yeon Ho Choi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Seungyeon Lee",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Terum Konawe Utara",
+      "business_type": "Aktivitas Pelayanan Kepelabuhan Laut",
+      "total_assets": 89182326,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Terum Konawe Utara",
+      "business_type": "Aktivitas Pelayanan Kepelabuhan Laut",
+      "total_assets": 89182326,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Terum Konawe Utara",
+      "business_type": "Aktivitas Pelayanan Kepelabuhan Laut",
+      "total_assets": 89101064,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Terum Konawe Utara",
+      "business_type": "Aktivitas Pelayanan Kepelabuhan Laut",
+      "total_assets": 0,
+      "ownership_percentage": 990
+    },
+    {
+      "name": "PT Terum Konawe Utara",
+      "business_type": "Aktivitas Pelayanan Kepelabuhan Laut",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Terum Konawe Utara",
+      "business_type": "Aktivitas Pelayanan Kepelabuhan Laut",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.934.082.360.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:11.050Z"
+}

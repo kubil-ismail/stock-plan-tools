@@ -1,0 +1,1352 @@
+{
+  "company_name": "Kawasan Industri Jababeka Tbk",
+  "ticker": "KIJA",
+  "office_address": "Menara Batavia Lt. 25 Jl. K.h. Mas Mansyur Kav. 126 Jakarta 10220",
+  "email": "corsec@jababeka.com",
+  "phone": "5727337",
+  "fax": "5727279",
+  "tax_id": "01.067.835.7-054.000",
+  "website": "https://www.jababeka.com",
+  "listing_date": "1995-01-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Properti, Energi, Konstruksi, Makanan & Minuman, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Properti",
+      "Energi",
+      "Konstruksi",
+      "Makanan & Minuman",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Budianto Liman",
+    "email": "secr_ckr@jababeka.com",
+    "phone": "5727337"
+  },
+  "directors": [
+    {
+      "name": "Setyono Djuandi Darmono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tedjo Budianto Liman",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tjahjadi Rahardja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hyanto Wihadhi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Drs. H. Suhardi Alius, MH",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gan Michael",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Basuri Tjahaja Purnama",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Suhardi Alius",
+      "position": "Ketua"
+    },
+    {
+      "name": "Chandra Setiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dudi Hadi Santoso",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 12334466667,
+      "percentage": 59.23
+    },
+    {
+      "name": "Mu Min Ali Gunawan",
+      "type": "Lebih dari 5%",
+      "shares": 4391370788,
+      "percentage": 21.087
+    },
+    {
+      "name": "Islamic Development Bank",
+      "type": "Lebih dari 5%",
+      "shares": 2400359372,
+      "percentage": 11.526
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1089996790,
+      "percentage": 5.234
+    },
+    {
+      "name": "Aida Garnida",
+      "type": "Lebih dari 5%",
+      "shares": 580637352,
+      "percentage": 2.788
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 28057400,
+      "percentage": 0.135
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Grahabuana Cikarang (gbc)",
+      "business_type": "Kawasan Perumahan dan Industri",
+      "total_assets": 6470488,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grahabuana Cikarang (gbc)",
+      "business_type": "Kawasan Perumahan dan Industri",
+      "total_assets": 6343074,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grahabuana Cikarang (gbc)",
+      "business_type": "Kawasan Perumahan dan Industri",
+      "total_assets": 6166695,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grahabuana Cikarang (gbc)",
+      "business_type": "Kawasan Perumahan dan Industri",
+      "total_assets": 6115678,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grahabuana Cikarang (gbc)",
+      "business_type": "Kawasan Perumahan dan Industri",
+      "total_assets": 6063182,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kawasan Industri Kendal (kik) - (kik Melalui Gbc)",
+      "business_type": "Pembangunan, Pengembangan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 2929885,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Kawasan Industri Kendal (kik) - (kik Melalui Gbc)",
+      "business_type": "Pembangunan, Pengembangan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 2896766,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Kawasan Industri Kendal (kik) - (kik Melalui Gbc)",
+      "business_type": "Pembangunan, Pengembangan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 2779527,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Kawasan Industri Kendal (kik) - (kik Melalui Gbc)",
+      "business_type": "Pembangunan, Pengembangan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 2745633,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Kawasan Industri Kendal (kik) - (kik Melalui Gbc)",
+      "business_type": "Pembangunan, Pengembangan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 2546274,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Jababeka Infrastruktur (ji)",
+      "business_type": "Industri Pengolahan, Bidang Pengadaan, Pengelolaan, Konstruksi, Perdagangan, Pengangkutan, Pergudangan, Informasi, Real Estat, Aktiivitas Profesional",
+      "total_assets": 1574882,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bekasi Power (bp) - (bp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 1559815,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bekasi Power (bp) - (bp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 1544648,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bekasi Power (bp) - (bp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 1532173,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bekasi Power (bp) - (bp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 1525721,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bekasi Power (bp) - (bp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 1512260,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Infrastruktur (ji)",
+      "business_type": "Industri Pengolahan, Bidang Pengadaan, Pengelolaan, Konstruksi, Perdagangan, Pengangkutan, Pergudangan, Informasi, Real Estat, Aktiivitas Profesional",
+      "total_assets": 1402370,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Infrastruktur (ji)",
+      "business_type": "Industri Pengolahan, Bidang Pengadaan, Pengelolaan, Konstruksi, Perdagangan, Pengangkutan, Pergudangan, Informasi, Real Estat, Aktiivitas Profesional",
+      "total_assets": 1221223,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Infrastruktur (ji)",
+      "business_type": "Industri Pengolahan, Bidang Pengadaan, Pengelolaan, Konstruksi, Perdagangan, Pengangkutan, Pergudangan, Informasi, Real Estat, Aktiivitas Profesional",
+      "total_assets": 1212680,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Infrastruktur (ji)",
+      "business_type": "Industri Pengolahan, Bidang Pengadaan, Pengelolaan, Konstruksi, Perdagangan, Pengangkutan, Pergudangan, Informasi, Real Estat, Aktiivitas Profesional",
+      "total_assets": 1184046,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gerbang Teknologi Cikarang (gtc) - (gtc Melalui Ji)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 1017304,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Banten West Java Tourism Development (bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 915546,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Banten West Java Tourism Development (bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 911597,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Banten West Java Tourism Development (bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 908342,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Banten West Java Tourism Development (bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 907514,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Banten West Java Tourism Development (bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 907324,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indocargomas Persada (ip)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 897959,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indocargomas Persada (ip)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 785701,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indocargomas Persada (ip)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 764271,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indocargomas Persada (ip)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 752284,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indocargomas Persada (ip)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 741805,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gerbang Teknologi Cikarang (gtc) - (gtc Melalui Ji)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 630929,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gerbang Teknologi Cikarang (gtc) - (gtc Melalui Ji)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 557863,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gerbang Teknologi Cikarang (gtc) - (gtc Melalui Ji)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 549664,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gerbang Teknologi Cikarang (gtc) - (gtc Melalui Ji)",
+      "business_type": "Kawasan Industri",
+      "total_assets": 544424,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Mitrafamili Residen (jmr)-(jmr Melalui Gbc)",
+      "business_type": "Perdagangan, Pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 310723,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Mitrafamili Residen (jmr)-(jmr Melalui Gbc)",
+      "business_type": "Perdagangan, Pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 292563,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Mitrafamili Residen (jmr)-(jmr Melalui Gbc)",
+      "business_type": "Perdagangan, Pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 288137,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka International B.v. (jibv)",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 277672,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Mitrafamili Residen (jmr)-(jmr Melalui Gbc)",
+      "business_type": "Perdagangan, Pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 275174,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Mitrafamili Residen (jmr)-(jmr Melalui Gbc)",
+      "business_type": "Perdagangan, Pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 271091,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Inland Port (cip) - (cip Melalui Ji)",
+      "business_type": "Jasa",
+      "total_assets": 259595,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Inland Port (cip) - (cip Melalui Ji)",
+      "business_type": "Jasa",
+      "total_assets": 256259,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Inland Port (cip) - (cip Melalui Ji)",
+      "business_type": "Jasa",
+      "total_assets": 245538,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Inland Port (cip) - (cip Melalui Ji)",
+      "business_type": "Jasa",
+      "total_assets": 230075,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Inland Port (cip) - (cip Melalui Ji)",
+      "business_type": "Jasa",
+      "total_assets": 222908,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Keihan Residence (jkr)-(jkr Melalui Gbc)-(dahulu PT Jababeka Keihan Nice)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 211068,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Jababeka Keihan Residence (jkr)-(jkr Melalui Gbc)-(dahulu PT Jababeka Keihan Nice)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 210902,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Jababeka Keihan Residence (jkr)-(jkr Melalui Gbc)-(dahulu PT Jababeka Keihan Nice)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 210901,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Jababeka Keihan Residence (jkr)-(jkr Melalui Gbc)-(dahulu PT Jababeka Keihan Nice)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 208815,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT United Power (up) - (up Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 204374,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Keihan Residence (jkr)-(jkr Melalui Gbc)-(dahulu PT Jababeka Keihan Nice)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 201511,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT United Power (up) - (up Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 168519,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Morotai (jm) - (jm Melalui Ip)",
+      "business_type": "Konstruksi, Pembangunan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 154904,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Morotai (jm) - (jm Melalui Ip)",
+      "business_type": "Konstruksi, Pembangunan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 154227,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Morotai (jm) - (jm Melalui Ip)",
+      "business_type": "Konstruksi, Pembangunan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 153597,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Morotai (jm) - (jm Melalui Ip)",
+      "business_type": "Konstruksi, Pembangunan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 152321,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Morotai (jm) - (jm Melalui Ip)",
+      "business_type": "Konstruksi, Pembangunan dan Jasa Pengelolaan Kawasan Industri",
+      "total_assets": 151510,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Likuid Nusantara Gas (lng) - (lng Melalui Ji)",
+      "business_type": "Pertambangan dan Penggalian, Industri dan Pengolahan, Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin, Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor.",
+      "total_assets": 151008,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jababeka Pp Properti (jpp)",
+      "business_type": "Perdagangan,jasa,pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 146056,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Jababeka Pp Properti (jpp)",
+      "business_type": "Perdagangan,jasa,pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 136492,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT United Power (up) - (up Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 136261,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT United Power (up) - (up Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 126597,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Pp Properti (jpp)",
+      "business_type": "Perdagangan,jasa,pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 123531,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Jababeka Pp Properti (jpp)",
+      "business_type": "Perdagangan,jasa,pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 118749,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Padang Golf Cikarang (pgc) - (pgc Melalui Gbc)",
+      "business_type": "Pengelolaan Lapangan Golf",
+      "total_assets": 118213,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Likuid Nusantara Gas (lng) - (lng Melalui Ji)",
+      "business_type": "Pertambangan dan Penggalian, Industri dan Pengolahan, Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin, Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor.",
+      "total_assets": 117700,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Padang Golf Cikarang (pgc) - (pgc Melalui Gbc)",
+      "business_type": "Pengelolaan Lapangan Golf",
+      "total_assets": 117213,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Padang Golf Cikarang (pgc) - (pgc Melalui Gbc)",
+      "business_type": "Pengelolaan Lapangan Golf",
+      "total_assets": 116415,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Padang Golf Cikarang (pgc) - (pgc Melalui Gbc)",
+      "business_type": "Pengelolaan Lapangan Golf",
+      "total_assets": 116279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Pp Properti (jpp)",
+      "business_type": "Perdagangan,jasa,pembangunan Real Estate dan Manajemen Bangunan",
+      "total_assets": 115427,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Padang Golf Cikarang (pgc) - (pgc Melalui Gbc)",
+      "business_type": "Pengelolaan Lapangan Golf",
+      "total_assets": 112980,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Creed Residence (jcr)-(jcr Melalui Gbc)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 109991,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jababeka Creed Residence (jcr)-(jcr Melalui Gbc)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 99652,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jababeka Creed Residence (jcr)-(jcr Melalui Gbc)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 98882,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jababeka Creed Residence (jcr)-(jcr Melalui Gbc)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 95796,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Likuid Nusantara Gas (lng) - (lng Melalui Ji)",
+      "business_type": "Pertambangan dan Penggalian, Industri dan Pengolahan, Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin, Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor.",
+      "total_assets": 95606,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jababeka Creed Residence (jcr)-(jcr Melalui Gbc)",
+      "business_type": "Perdagangan,jasa Pembangunan Real Estat dan Manajemen Bangunan",
+      "total_assets": 93336,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Likuid Nusantara Gas (lng) - (lng Melalui Ji)",
+      "business_type": "Pertambangan dan Penggalian, Industri dan Pengolahan, Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin, Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor.",
+      "total_assets": 74015,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Mercuagung Graha Realty (mgr)",
+      "business_type": "Kawasan Perumahan",
+      "total_assets": 69012,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT United Power (up) - (up Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 67051,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Likuid Nusantara Gas (lng) - (lng Melalui Ji)",
+      "business_type": "Pertambangan dan Penggalian, Industri dan Pengolahan, Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin, Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor.",
+      "total_assets": 66878,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jababeka Plaza Indonesia (jpi) - (jpi Melalui Gbc)",
+      "business_type": "Penbangunan, Perdagangan dan Jasa",
+      "total_assets": 52651,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Jababeka Plaza Indonesia (jpi) - (jpi Melalui Gbc)",
+      "business_type": "Penbangunan, Perdagangan dan Jasa",
+      "total_assets": 52613,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Jababeka Plaza Indonesia (jpi) - (jpi Melalui Gbc)",
+      "business_type": "Penbangunan, Perdagangan dan Jasa",
+      "total_assets": 52575,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Jababeka Plaza Indonesia (jpi) - (jpi Melalui Gbc)",
+      "business_type": "Penbangunan, Perdagangan dan Jasa",
+      "total_assets": 52538,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Jababeka Plaza Indonesia (jpi) - (jpi Melalui Gbc)",
+      "business_type": "Penbangunan, Perdagangan dan Jasa",
+      "total_assets": 52464,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Patriamanunggal Jaya (pmj) - (pmj Melalui Gbc)",
+      "business_type": "Pembangunan dan Pengelolaan Kawasan Industri",
+      "total_assets": 50374,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Patriamanunggal Jaya (pmj) - (pmj Melalui Gbc)",
+      "business_type": "Pembangunan dan Pengelolaan Kawasan Industri",
+      "total_assets": 50374,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Patriamanunggal Jaya (pmj) - (pmj Melalui Gbc)",
+      "business_type": "Pembangunan dan Pengelolaan Kawasan Industri",
+      "total_assets": 49512,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Patriamanunggal Jaya (pmj) - (pmj Melalui Gbc)",
+      "business_type": "Pembangunan dan Pengelolaan Kawasan Industri",
+      "total_assets": 49499,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mercuagung Graha Realty (mgr)",
+      "business_type": "Kawasan Perumahan",
+      "total_assets": 49227,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mercuagung Graha Realty (mgr)",
+      "business_type": "Kawasan Perumahan",
+      "total_assets": 49227,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Patriamanunggal Jaya (pmj) - (pmj Melalui Gbc)",
+      "business_type": "Pembangunan dan Pengelolaan Kawasan Industri",
+      "total_assets": 48815,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mercuagung Graha Realty (mgr)",
+      "business_type": "Kawasan Perumahan",
+      "total_assets": 48730,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mercuagung Graha Realty (mgr)",
+      "business_type": "Kawasan Perumahan",
+      "total_assets": 48689,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Leisure Industry (tlli) - (tlli Melalui Bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 45357,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Leisure Industry (tlli) - (tlli Melalui Bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 43829,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Leisure Industry (tlli) - (tlli Melalui Bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 43779,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Leisure Industry (tlli) - (tlli Melalui Bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 43778,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Cakrawala Telekomunikasi (ict) - (ict Melalui Ji)",
+      "business_type": "Jasa dan Pembangunan",
+      "total_assets": 43496,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Leisure Industry (tlli) - (tlli Melalui Bwj)",
+      "business_type": "Kawasan Wisata",
+      "total_assets": 43422,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusantara Gas Energi (nge) - (nge Melalui Ji)",
+      "business_type": "Perdagangan, Pengangkutan, Industri dan Jasa",
+      "total_assets": 39502,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nusantara Gas Energi (nge) - (nge Melalui Ji)",
+      "business_type": "Perdagangan, Pengangkutan, Industri dan Jasa",
+      "total_assets": 38599,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nusantara Gas Energi (nge) - (nge Melalui Ji)",
+      "business_type": "Perdagangan, Pengangkutan, Industri dan Jasa",
+      "total_assets": 38191,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nusantara Gas Energi (nge) - (nge Melalui Ji)",
+      "business_type": "Perdagangan, Pengangkutan, Industri dan Jasa",
+      "total_assets": 38155,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nusantara Gas Energi (nge) - (nge Melalui Ji)",
+      "business_type": "Perdagangan, Pengangkutan, Industri dan Jasa",
+      "total_assets": 37815,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Infrastruktur Cakrawala Telekomunikasi (ict) - (ict Melalui Ji)",
+      "business_type": "Jasa dan Pembangunan",
+      "total_assets": 33170,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Cakrawala Telekomunikasi (ict) - (ict Melalui Ji)",
+      "business_type": "Jasa dan Pembangunan",
+      "total_assets": 32594,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Cakrawala Telekomunikasi (ict) - (ict Melalui Ji)",
+      "business_type": "Jasa dan Pembangunan",
+      "total_assets": 31161,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Cakrawala Telekomunikasi (ict) - (ict Melalui Ji)",
+      "business_type": "Jasa dan Pembangunan",
+      "total_assets": 30722,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Gerbang Solusi (cgs) - (cgs Melalui Cip)",
+      "business_type": "Pergudangan dan Aktivitas Penunjang Angkutan",
+      "total_assets": 23928,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropark Condominium Indah (mci) - (mci Melalui Idg)",
+      "business_type": "Hunian Kondominium",
+      "total_assets": 22140,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropark Condominium Indah (mci) - (mci Melalui Idg)",
+      "business_type": "Hunian Kondominium",
+      "total_assets": 22040,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropark Condominium Indah (mci) - (mci Melalui Idg)",
+      "business_type": "Hunian Kondominium",
+      "total_assets": 21302,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropark Condominium Indah (mci) - (mci Melalui Idg)",
+      "business_type": "Hunian Kondominium",
+      "total_assets": 21060,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropark Condominium Indah (mci) - (mci Melalui Idg)",
+      "business_type": "Hunian Kondominium",
+      "total_assets": 21013,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Pengembang Kawasan (mpk)-(mpk Melalui Ip)",
+      "business_type": "Pembangunan, Perdagangan, Pertanian dan Jasa",
+      "total_assets": 16348,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Gerbang Solusi (cgs) - (cgs Melalui Cip)",
+      "business_type": "Pergudangan dan Aktivitas Penunjang Angkutan",
+      "total_assets": 16064,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Pengembang Kawasan (mpk)-(mpk Melalui Ip)",
+      "business_type": "Pembangunan, Perdagangan, Pertanian dan Jasa",
+      "total_assets": 15950,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saranapratama Pengembangan Kota (sppk)",
+      "business_type": "Jasa Perhotelan, Restoran, Ketenagakerjaan dan Usaha Terkait",
+      "total_assets": 15848,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Pengembang Kawasan (mpk)-(mpk Melalui Ip)",
+      "business_type": "Pembangunan, Perdagangan, Pertanian dan Jasa",
+      "total_assets": 15174,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saranapratama Pengembangan Kota (sppk)",
+      "business_type": "Jasa Perhotelan, Restoran, Ketenagakerjaan dan Usaha Terkait",
+      "total_assets": 14845,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saranapratama Pengembangan Kota (sppk)",
+      "business_type": "Jasa Perhotelan, Restoran, Ketenagakerjaan dan Usaha Terkait",
+      "total_assets": 14784,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saranapratama Pengembangan Kota (sppk)",
+      "business_type": "Jasa Perhotelan, Restoran, Ketenagakerjaan dan Usaha Terkait",
+      "total_assets": 14055,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saranapratama Pengembangan Kota (sppk)",
+      "business_type": "Jasa Perhotelan, Restoran, Ketenagakerjaan dan Usaha Terkait",
+      "total_assets": 13790,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Pengembang Kawasan (mpk)-(mpk Melalui Ip)",
+      "business_type": "Pembangunan, Perdagangan, Pertanian dan Jasa",
+      "total_assets": 13752,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Pengembang Kawasan (mpk)-(mpk Melalui Ip)",
+      "business_type": "Pembangunan, Perdagangan, Pertanian dan Jasa",
+      "total_assets": 13640,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Indah Permai Residen (sipr)-(sipr Melalui Pgc)",
+      "business_type": "Apartemen Hotel dan Kondominium Hotel",
+      "total_assets": 12734,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Indah Permai Residen (sipr)-(sipr Melalui Pgc)",
+      "business_type": "Apartemen Hotel dan Kondominium Hotel",
+      "total_assets": 12172,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Indah Permai Residen (sipr)-(sipr Melalui Pgc)",
+      "business_type": "Apartemen Hotel dan Kondominium Hotel",
+      "total_assets": 10653,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Indah Permai Residen (sipr)-(sipr Melalui Pgc)",
+      "business_type": "Apartemen Hotel dan Kondominium Hotel",
+      "total_assets": 10283,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarana Indah Permai Residen (sipr)-(sipr Melalui Pgc)",
+      "business_type": "Apartemen Hotel dan Kondominium Hotel",
+      "total_assets": 6374,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Gerbang Solusi (cgs) - (cgs Melalui Cip)",
+      "business_type": "Pergudangan dan Aktivitas Penunjang Angkutan",
+      "total_assets": 5990,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cikarang Gerbang Solusi (cgs) - (cgs Melalui Cip)",
+      "business_type": "Pergudangan dan Aktivitas Penunjang Angkutan",
+      "total_assets": 5857,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jamaggo Nusantara Lestari (jnl Melalui Ji)",
+      "business_type": "Treatment Air, Treatment Air Limbah, Treatment & Pemulihan, Aktivitas Remediasi, Industri Pengolahan, Perdagangan, Aktivitas Profesional, Ilmiah, Teknis, Pertanian, Kehutanan & Perikanan",
+      "total_assets": 4500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jamaggo Nusantara Lestari (jnl Melalui Ji)",
+      "business_type": "Treatment Air, Treatment Air Limbah, Treatment & Pemulihan, Aktivitas Remediasi, Industri Pengolahan, Perdagangan, Aktivitas Profesional, Ilmiah, Teknis, Pertanian, Kehutanan & Perikanan",
+      "total_assets": 4500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jamaggo Nusantara Lestari (jnl Melalui Ji)",
+      "business_type": "Treatment Air, Treatment Air Limbah, Treatment & Pemulihan, Aktivitas Remediasi, Industri Pengolahan, Perdagangan, Aktivitas Profesional, Ilmiah, Teknis, Pertanian, Kehutanan & Perikanan",
+      "total_assets": 4500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jamaggo Nusantara Lestari (jnl Melalui Ji)",
+      "business_type": "Treatment Air, Treatment Air Limbah, Treatment & Pemulihan, Aktivitas Remediasi, Industri Pengolahan, Perdagangan, Aktivitas Profesional, Ilmiah, Teknis, Pertanian, Kehutanan & Perikanan",
+      "total_assets": 4500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jamaggo Nusantara Lestari (jnl Melalui Ji)",
+      "business_type": "Treatment Air, Treatment Air Limbah, Treatment & Pemulihan, Aktivitas Remediasi, Industri Pengolahan, Perdagangan, Aktivitas Profesional, Ilmiah, Teknis, Pertanian, Kehutanan & Perikanan",
+      "total_assets": 4500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Proteksi Usaha Indonesia (pui)-(pui Memalui Cip)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 4326,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Proteksi Usaha Indonesia (pui)-(pui Memalui Cip)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 4208,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Proteksi Usaha Indonesia (pui)-(pui Memalui Cip)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 4136,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Rumah Prima Sehat (rps) - (rps Melalui Gbc)",
+      "business_type": "Aktivitas Kesehatan Manusia",
+      "total_assets": 4062,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Proteksi Usaha Indonesia (pui)-(pui Memalui Cip)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 4040,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Rumah Prima Sehat (rps) - (rps Melalui Gbc)",
+      "business_type": "Aktivitas Kesehatan Manusia",
+      "total_assets": 4012,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Rumah Prima Sehat (rps) - (rps Melalui Gbc)",
+      "business_type": "Aktivitas Kesehatan Manusia",
+      "total_assets": 4012,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Rumah Prima Sehat (rps) - (rps Melalui Gbc)",
+      "business_type": "Aktivitas Kesehatan Manusia",
+      "total_assets": 4012,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Rumah Prima Sehat (rps) - (rps Melalui Gbc)",
+      "business_type": "Aktivitas Kesehatan Manusia",
+      "total_assets": 4012,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Proteksi Usaha Indonesia (pui)-(pui Memalui Cip)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 3935,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Cikarang Gerbang Solusi (cgs) - (cgs Melalui Cip)",
+      "business_type": "Pergudangan dan Aktivitas Penunjang Angkutan",
+      "total_assets": 3180,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Sari Power (tsp) - (tsp Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 2942,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ritel Maju Sejahtera (rms) - (rms Melalui Pgc)",
+      "business_type": "Real Estat, Jasa Keuangan, Penyediaan Makanan & Minuman, Penyewaan Ruang Kanor",
+      "total_assets": 1950,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ritel Maju Sejahtera (rms) - (rms Melalui Pgc)",
+      "business_type": "Real Estat, Jasa Keuangan, Penyediaan Makanan & Minuman, Penyewaan Ruang Kanor",
+      "total_assets": 1879,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ritel Maju Sejahtera (rms) - (rms Melalui Pgc)",
+      "business_type": "Real Estat, Jasa Keuangan, Penyediaan Makanan & Minuman, Penyewaan Ruang Kanor",
+      "total_assets": 1769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ritel Maju Sejahtera (rms) - (rms Melalui Pgc)",
+      "business_type": "Real Estat, Jasa Keuangan, Penyediaan Makanan & Minuman, Penyewaan Ruang Kanor",
+      "total_assets": 1479,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ritel Maju Sejahtera (rms) - (rms Melalui Pgc)",
+      "business_type": "Real Estat, Jasa Keuangan, Penyediaan Makanan & Minuman, Penyewaan Ruang Kanor",
+      "total_assets": 1246,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Duta Bandara Banten (dbb) - (dbb Melalui Bwj)",
+      "business_type": "Pembangunan, Jasa dan Perdaganagn",
+      "total_assets": 1205,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Duta Bandara Banten (dbb) - (dbb Melalui Bwj)",
+      "business_type": "Pembangunan, Jasa dan Perdaganagn",
+      "total_assets": 1192,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Duta Bandara Banten (dbb) - (dbb Melalui Bwj)",
+      "business_type": "Pembangunan, Jasa dan Perdaganagn",
+      "total_assets": 1179,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Duta Bandara Banten (dbb) - (dbb Melalui Bwj)",
+      "business_type": "Pembangunan, Jasa dan Perdaganagn",
+      "total_assets": 1172,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Duta Bandara Banten (dbb) - (dbb Melalui Bwj)",
+      "business_type": "Pembangunan, Jasa dan Perdaganagn",
+      "total_assets": 1172,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Media Membangun Negeri (mmn)-(mmn Melalui Mpk)",
+      "business_type": "Percetakan, Media, Periklanan, Telekomunikasi, Konsultan, Hiburan dan Pendidikan",
+      "total_assets": 1056,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Media Membangun Negeri (mmn)-(mmn Melalui Mpk)",
+      "business_type": "Percetakan, Media, Periklanan, Telekomunikasi, Konsultan, Hiburan dan Pendidikan",
+      "total_assets": 1031,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Media Membangun Negeri (mmn)-(mmn Melalui Mpk)",
+      "business_type": "Percetakan, Media, Periklanan, Telekomunikasi, Konsultan, Hiburan dan Pendidikan",
+      "total_assets": 1031,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Media Membangun Negeri (mmn)-(mmn Melalui Mpk)",
+      "business_type": "Percetakan, Media, Periklanan, Telekomunikasi, Konsultan, Hiburan dan Pendidikan",
+      "total_assets": 1029,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Media Membangun Negeri (mmn)-(mmn Melalui Mpk)",
+      "business_type": "Percetakan, Media, Periklanan, Telekomunikasi, Konsultan, Hiburan dan Pendidikan",
+      "total_assets": 1026,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Tanjung Sari Power (tsp) - (tsp Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 820,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Sari Power (tsp) - (tsp Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 763,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Longlife City (jlc)-(jlc Melalui Gbc)",
+      "business_type": "Jasa Perhotelan dan Sewa Atas Real Estates Aktivitas yang Terkait",
+      "total_assets": 368,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Faunaland Tanjung Lesung (ftl)-(ftl Melalui Bwj)",
+      "business_type": "Real Estat, Hotel Aktivitas Rekreasi, Museum & Kebun Binatang dan Jasa",
+      "total_assets": 250,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Faunaland Tanjung Lesung (ftl)-(ftl Melalui Bwj)",
+      "business_type": "Real Estat, Hotel Aktivitas Rekreasi, Museum & Kebun Binatang dan Jasa",
+      "total_assets": 250,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Faunaland Tanjung Lesung (ftl)-(ftl Melalui Bwj)",
+      "business_type": "Real Estat, Hotel Aktivitas Rekreasi, Museum & Kebun Binatang dan Jasa",
+      "total_assets": 250,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Faunaland Tanjung Lesung (ftl)-(ftl Melalui Bwj)",
+      "business_type": "Real Estat, Hotel Aktivitas Rekreasi, Museum & Kebun Binatang dan Jasa",
+      "total_assets": 250,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Faunaland Tanjung Lesung (ftl)-(ftl Melalui Bwj)",
+      "business_type": "Real Estat, Hotel Aktivitas Rekreasi, Museum & Kebun Binatang dan Jasa",
+      "total_assets": 250,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Tanjung Sari Power (tsp) - (tsp Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 164,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Longlife City (jlc)-(jlc Melalui Gbc)",
+      "business_type": "Jasa Perhotelan dan Sewa Atas Real Estates Aktivitas yang Terkait",
+      "total_assets": 110,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Tanjung Lesung Power (tlp) - (tlp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Power (tlp) - (tlp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Power (tlp) - (tlp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Power (tlp) - (tlp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Lesung Power (tlp) - (tlp Melalui Ji)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tanjung Sari Power (tsp) - (tsp Melalui Bp)",
+      "business_type": "Pembangkit dan Distributor Listrik",
+      "total_assets": 100,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jababeka Longlife City (jlc)-(jlc Melalui Gbc)",
+      "business_type": "Jasa Perhotelan dan Sewa Atas Real Estates Aktivitas yang Terkait",
+      "total_assets": 97,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Jababeka Longlife City (jlc)-(jlc Melalui Gbc)",
+      "business_type": "Jasa Perhotelan dan Sewa Atas Real Estates Aktivitas yang Terkait",
+      "total_assets": 96,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Jababeka Longlife City (jlc)-(jlc Melalui Gbc)",
+      "business_type": "Jasa Perhotelan dan Sewa Atas Real Estates Aktivitas yang Terkait",
+      "total_assets": 96,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Karyamas Griya Utama (kgu) - (kgu Melalui Gbc)",
+      "business_type": "Sarana Penunjang Kawasan Perumahan",
+      "total_assets": 29,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karyamas Griya Utama (kgu) - (kgu Melalui Gbc)",
+      "business_type": "Sarana Penunjang Kawasan Perumahan",
+      "total_assets": 13,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karyamas Griya Utama (kgu) - (kgu Melalui Gbc)",
+      "business_type": "Sarana Penunjang Kawasan Perumahan",
+      "total_assets": 3,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karyamas Griya Utama (kgu) - (kgu Melalui Gbc)",
+      "business_type": "Sarana Penunjang Kawasan Perumahan",
+      "total_assets": 3,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karyamas Griya Utama (kgu) - (kgu Melalui Gbc)",
+      "business_type": "Sarana Penunjang Kawasan Perumahan",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.748.479.906.420",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:51.940Z"
+}

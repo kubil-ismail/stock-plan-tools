@@ -1,0 +1,320 @@
+{
+  "company_name": "Bintang Mitra Semestaraya Tbk",
+  "ticker": "BMSR",
+  "office_address": "Graha Bip Jl. Gatot Subroto Kav 23 Lt 2. Jakarta Selatan 12930",
+  "email": "ristia08@indonet.net.id",
+  "phone": "021-2522586",
+  "fax": "021-2522589",
+  "tax_id": "01.621.771.3-054.000",
+  "website": "https://0",
+  "listing_date": "1999-12-29",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan dan investasi",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Energi.",
+    "business_tags": [
+      "Properti",
+      "Energi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Monika Elisabeth",
+    "email": "corp.secretary@bintangmitra.com",
+    "phone": "021-2522586"
+  },
+  "directors": [
+    {
+      "name": "Hermawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tony Santosa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Francis Cia",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Welly Thomas",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hong Fang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tjendrawati",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tjendrawati",
+      "position": "Ketua"
+    },
+    {
+      "name": "Johnson Napitupulu",
+      "position": "Anggota"
+    },
+    {
+      "name": "Liliany Widjaja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Chance Stand Finance Limited",
+      "type": "Lebih dari 5%",
+      "shares": 685199832,
+      "percentage": 59.11
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 473875192,
+      "percentage": 40.88
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 125000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tony Santosa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hermawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hong Fang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Francis Cia",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjendrawati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Welly Thomas",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Corex Intek Indonesia",
+      "business_type": "Bisnis Properti",
+      "total_assets": 116671867712,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Corex Intek Indonesia",
+      "business_type": "Bisnis Properti",
+      "total_assets": 110915985677,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Corex Intek Indonesia",
+      "business_type": "Bisnis Properti",
+      "total_assets": 109165774323,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Corex Intek Indonesia",
+      "business_type": "Bisnis Properti",
+      "total_assets": 108195861962,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Hidrogen Peroxida Indonesia",
+      "business_type": "Produksi Bahan Kimia",
+      "total_assets": 32797053109,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tekonindo",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 21178814993,
+      "ownership_percentage": 56.56
+    },
+    {
+      "name": "PT Tekonindo",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 11214509828,
+      "ownership_percentage": 57
+    },
+    {
+      "name": "PT Tekonindo",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 10610098704,
+      "ownership_percentage": 57
+    },
+    {
+      "name": "PT Tekonindo",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 10477192516,
+      "ownership_percentage": 57
+    },
+    {
+      "name": "PT Tekonindo",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 9769668452,
+      "ownership_percentage": 57
+    },
+    {
+      "name": "PT Bintang Raya Anugerah Lestari",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1250000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Bintang Raya Anugerah Lestari (bral)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1250000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Bintang Raya Anugerah Lestari (bral)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1250000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Bintang Raya Anugerah Lestari (bral)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1250000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Bintang Raya Anugerah Lestari (bral)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 1250000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Binatek Reka Kruh (brk)",
+      "business_type": "Eksplorasi dan Produksi Minyak dan Gas Bumi",
+      "total_assets": 581514,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Binatek Reka Kruh (brk)",
+      "business_type": "Eksplorasi dan Produksi Minyak dan Gas Bumi",
+      "total_assets": 106514,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Binatek Reka Kruh (brk)",
+      "business_type": "Eksplorasi dan Produksi Minyak dan Gas Bumi",
+      "total_assets": 98821,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Binatek Reka Kruh (brk)",
+      "business_type": "Eksplorasi dan Produksi Minyak dan Gas Bumi",
+      "total_assets": 98821,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Binatek Reka Kruh (brk)",
+      "business_type": "Eksplorasi dan Produksi Minyak dan Gas Bumi",
+      "total_assets": 98821,
+      "ownership_percentage": 99.98
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "380.217.607.872",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:47.969Z"
+}

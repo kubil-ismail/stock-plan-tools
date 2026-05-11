@@ -1,0 +1,230 @@
+{
+  "company_name": "J Resources Asia Pasifik Tbk",
+  "ticker": "PSAB",
+  "office_address": "Equity Tower, 48th Floor, SCBD, Lot 9, Jalan Jenderal Sudirman Kav. 52-53, Jakarta Selatan 12190",
+  "email": "corpsec@jresources.com",
+  "phone": "(021) 515 3335",
+  "fax": "(021) 515 3759",
+  "tax_id": "0020.4395.8405.4000",
+  "website": "https://www.jresources.com",
+  "listing_date": "2003-04-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pertambangan Emas",
+    "business_summary": "Perusahaan bergerak di bidang Batubara.",
+    "business_tags": [
+      "Batubara"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 18,
+    "name": "Emas",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Edi Permadi",
+    "email": "corpsec@jresources.com",
+    "phone": "021-5153335"
+  },
+  "directors": [
+    {
+      "name": "Edi Permadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sanjaya J",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Maryono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jimmy Budiarto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Christian Wijayanto Aj",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Budikwanto Kuesar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [],
+  "shareholders": [
+    {
+      "name": "Jimmy Budiarto",
+      "type": "Komisaris",
+      "shares": 23814000000,
+      "percentage": 90
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1984500000,
+      "percentage": 7.5
+    },
+    {
+      "name": "Nsl-client Segregated A/c",
+      "type": "Komisaris",
+      "shares": 661500000,
+      "percentage": 2.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT J Resources Nusantara",
+      "business_type": "Perdagangan Umum/jasa",
+      "total_assets": 884236311,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT J Resources Bolaang Mongondow",
+      "business_type": "Pertambangan",
+      "total_assets": 671110731,
+      "ownership_percentage": 79.99
+    },
+    {
+      "name": "PT Arafura Surya Alam",
+      "business_type": "Pertambangan",
+      "total_assets": 210396110,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "J Resources Netherland Bv",
+      "business_type": "Perdagangan Investasi",
+      "total_assets": 101705950,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "J Resources Gold (uk) Ltd",
+      "business_type": "Pertambangan",
+      "total_assets": 100593802,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sago Prima Pratama",
+      "business_type": "Pertambangan",
+      "total_assets": 33048665,
+      "ownership_percentage": 99.79
+    },
+    {
+      "name": "PT J Resources Mining Services Indonesia",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 20654675,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "Spesific Resources Sdn Bhd",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 10665252,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sulawesi Anugerah Jaya",
+      "business_type": "Pertambangan",
+      "total_assets": 149902,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Sulawesi Bukit Anugerah",
+      "business_type": "Pertambangan",
+      "total_assets": 149902,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "J & P Resouces Gold Ohq (malaysia) Sdn Bhd",
+      "business_type": "Perusahaan Jasa",
+      "total_assets": 7495,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Bumi Persada",
+      "business_type": "Pertambangan",
+      "total_assets": 2540,
+      "ownership_percentage": 99.79
+    },
+    {
+      "name": "PT Mulia Bumi Seruyung",
+      "business_type": "Pertambangan",
+      "total_assets": 138,
+      "ownership_percentage": 99.79
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "14.156.100.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:57.046Z"
+}

@@ -1,0 +1,186 @@
+{
+  "company_name": "PT Puri Sentul Permai Tbk",
+  "ticker": "KDTN",
+  "office_address": "Jl. Surya Raya, Kav. Commercial Area 1 Olympic Cbd Sentul, Desa Sentul Kecamatan Babakan Madang, Kabupaten Bogor 16810",
+  "email": "corsec@kedaton8.com",
+  "phone": "(021) 8790 5100",
+  "fax": "(021) 8790 5200",
+  "tax_id": "0210444337403000000000",
+  "website": "https://www.purisentulpermai.com",
+  "listing_date": "2022-11-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dibidang jasa penyedia akomodasi berupa hotel dan jasa penyediaan makan minum berupa restoran",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Aan Rohanah",
+    "email": "corsec@kedaton8.com",
+    "phone": "021 87905100"
+  },
+  "directors": [
+    {
+      "name": "Xaverius Nursalim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rolf B. Pohan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Irene Nursalim",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjoea Aubintoro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Liris Suryanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Liris Suryanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tita Dwi Utari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Setiyo Bonorowanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Putrasakti Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 475500000,
+      "percentage": 38.039
+    },
+    {
+      "name": "PT Intan Perdana Sukses",
+      "type": "Lebih dari 5%",
+      "shares": 300000000,
+      "percentage": 24
+    },
+    {
+      "name": "PT Cahayasakti Investindo Sukses Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 300000000,
+      "percentage": 24
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 174523298,
+      "percentage": 13.961
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.187.522.133.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:44.539Z"
+}

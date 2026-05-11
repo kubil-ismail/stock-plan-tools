@@ -1,0 +1,207 @@
+{
+  "company_name": "Perdana Bangun Pusaka Tbk",
+  "ticker": "KONI",
+  "office_address": "Gedung Konica Lantai 6, Jl. Gunung Sahari Raya No. 78. Jakarta Pusat",
+  "email": "secretary.corp@perdanagroup.co.id",
+  "phone": "021 - 422 1888",
+  "fax": "021 - 4216502",
+  "tax_id": "01.327.073.1-054.000",
+  "website": "https://www.perdanabangunpusaka.co.id",
+  "listing_date": "1995-08-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "perdagangan umum, pembangunan, perindustrian, pertanian, pengangkutan, percetakan, multimedia melalui perangkat satelit dan perangkat telekomunikasi lainnya, jasa dan industri",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Media.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Media"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 64,
+    "name": "Peralatan Kantor",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Lenny Kartika",
+    "email": "at0809@indosat.net.id",
+    "phone": "021-422 1888; 421 6523"
+  },
+  "directors": [
+    {
+      "name": "Sugianto Kolim",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rudi Lauw",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Buntaram Gondomartono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lukman Kolim",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "L. Roswita",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tjhin Susanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tjhin Susanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Djunaedy Nauli",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hermawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Dasabina Adityasarana",
+      "type": "Lebih dari 5%",
+      "shares": 97520000,
+      "percentage": 31.25
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 65842000,
+      "percentage": 21.1
+    },
+    {
+      "name": "Lukman Kolim",
+      "type": "Komisaris",
+      "shares": 65014000,
+      "percentage": 20.84
+    },
+    {
+      "name": "L. Roswita",
+      "type": "Komisaris",
+      "shares": 20338000,
+      "percentage": 6.52
+    },
+    {
+      "name": "Sylvia Lukman",
+      "type": "Lebih dari 5%",
+      "shares": 15600000,
+      "percentage": 5
+    },
+    {
+      "name": "Evelyn",
+      "type": "Lebih dari 5%",
+      "shares": 15600000,
+      "percentage": 5
+    },
+    {
+      "name": "Susanto Kolim",
+      "type": "Lebih dari 5%",
+      "shares": 15600000,
+      "percentage": 5
+    },
+    {
+      "name": "Sugianto Kolim",
+      "type": "Direksi",
+      "shares": 15600000,
+      "percentage": 5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 886000,
+      "percentage": 0.29
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Perdana Adiloka",
+      "business_type": "Holding Company",
+      "total_assets": 17894,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "789.360.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:13.839Z"
+}

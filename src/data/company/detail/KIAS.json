@@ -1,0 +1,208 @@
+{
+  "company_name": "Keramika Indonesia Assosiasi Tbk",
+  "ticker": "KIAS",
+  "office_address": "Graha Mobisel, Lantai 3 Jl. Buncit Raya No. 139 Kalibata, Pancoran, Jakarta Selatan 12740",
+  "email": "corsec@kiaceramics.com",
+  "phone": "(021) 3506227",
+  "fax": "(021) 3862374",
+  "tax_id": "01.001.688.9-054.000",
+  "website": "https://www.kiaceramics.com",
+  "listing_date": "1994-12-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bahan Bangunan Keramik",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Verawaty Trisno Hadijanto",
+    "email": "corsec@kiaceramics.com",
+    "phone": "3862322"
+  },
+  "directors": [
+    {
+      "name": "Boonyarit Jaiya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Susalak Khiew-orn",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gunarso",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Anuvat Chalermchai",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Warit Jintanawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Krisana Eamvorasombat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Krisana Eamvorasombat",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dwi Astuti Rosmianingrum Nainggolan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr. Ancella Anitawati Hermawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Scg Decor Public Company Limited",
+      "type": "Lebih dari 5%",
+      "shares": 13741458453,
+      "percentage": 92.04
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 891064667,
+      "percentage": 5.97
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 296576880,
+      "percentage": 1.99
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anuvat Chalermchai",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Warit Jintanawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Krisana Eamvorasombat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Boonyarit Jaiya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Susalak Khiew-orn",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunarso",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kia Keramik Mas",
+      "business_type": "Manufaktur Genteng",
+      "total_assets": 539604,
+      "ownership_percentage": 99.21
+    },
+    {
+      "name": "PT Kia Serpih Mas",
+      "business_type": "Manufaktur Lantai Keramik",
+      "total_assets": 110805,
+      "ownership_percentage": 72.3
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "313.511.100.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:49.450Z"
+}

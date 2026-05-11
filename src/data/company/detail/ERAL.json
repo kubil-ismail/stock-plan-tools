@@ -1,0 +1,302 @@
+{
+  "company_name": "PT Sinar Eka Selaras Tbk",
+  "ticker": "ERAL",
+  "office_address": "Jalan Bandengan Selatan No. 19-20, Kel. Pekojan, Kec. Tambora Kota Jakarta Barat, Dki Jakarta 11240",
+  "email": "dl-corsec@ses.id",
+  "phone": "(+62) 21 6905 788",
+  "fax": "(+62) 21 6905 789",
+  "tax_id": "02.751.340.7-041.000",
+  "website": "https://www.ses.id",
+  "listing_date": "2023-08-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas perdagangan besar komputer dan perlengkapan komputer, perdagangan besar alat olahraga,perdagangan besar peralatan telekomunikasi dan perdagangan besar pakaian serta perdagangan eceran melalui Perusahaan Anak.",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Otomotif, Media.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Otomotif",
+      "Media"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 89,
+    "name": "Ritel Elektronik",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Badar Teguh Mancik Alam",
+    "email": "dl-corsec@ses.id",
+    "phone": "(+62) 813 2250 6464"
+  },
+  "directors": [
+    {
+      "name": "Djohan Sutanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andre Tanudjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suryawati",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Budiarto Halim",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Charles Gunawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hasan Aula",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Charles Gunawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bachri Ansjori Toyib",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr. Nurdin, Ak., Mba., Cfra, Qia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Erajaya Swasembada Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 4149990000,
+      "percentage": 80
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1034350000,
+      "percentage": 19.58
+    },
+    {
+      "name": "Djohan Sutanto",
+      "type": "Direksi",
+      "shares": 1580000,
+      "percentage": 0.21
+    },
+    {
+      "name": "Hasan Aula",
+      "type": "Komisaris",
+      "shares": 1230000,
+      "percentage": 0.14
+    },
+    {
+      "name": "Andre Tanudjaja",
+      "type": "Direksi",
+      "shares": 350000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mitra Internasional Indonesia (\"mii\")",
+      "business_type": "Perdagangan Telepon Selular, Aksesoris, Komputer dan Perangkat Elektronik Lainnya",
+      "total_assets": 604118658539,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Gaya Aktif (\"ega\")",
+      "business_type": "Perdagangan Eceran Perlengkapan Olahraga",
+      "total_assets": 384509542663,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Gaya Indonesia (\"egi\")",
+      "business_type": "Perdagangan Eceran Pakaian",
+      "total_assets": 208304127834,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Aktif Indonesia (\"eai\")",
+      "business_type": "Perdagangan Eceran Perlengkapan Olahraga",
+      "total_assets": 94760563370,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Jdsports Fashion Distribution (\"jdfd\")",
+      "business_type": "Perdagangan Besar Pakaian",
+      "total_assets": 94457427712,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aero Inovasi Media (\"aim\")",
+      "business_type": "Bidang Jasa Penyewaan Drone",
+      "total_assets": 35000000000,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sinar Era Aktif (\"sea\")",
+      "business_type": "Perdagangan Eceran Perlengkapan Selam",
+      "total_assets": 19262309735,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Era Industri Otomotif (\"eido\")",
+      "business_type": "Bidang Perakitan Kendaraan Bermotor Roda Empat dan Industri Baterai untuk Kendaraan Bermotor Listrik",
+      "total_assets": 10005040000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Inovasi Otomotif (\"eivo\")",
+      "business_type": "Bidang Distribusi Kendaraan Bermotor Roda Empat",
+      "total_assets": 10005040000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Aktif Distribusi (\"ead\")",
+      "business_type": "Perdagangan Besar Pakaian",
+      "total_assets": 4939681415,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Gaya Distribusi (\"egd\")",
+      "business_type": "Perdagangan Besar Pakaian",
+      "total_assets": 3473821209,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Busana Indonesia (\"ebi\")",
+      "business_type": "Perdagangan Besar Pakaian",
+      "total_assets": 100000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Era Gaya Selaras (\"egs\")",
+      "business_type": "Perdagangan Besar Pakaian",
+      "total_assets": 100000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Era Mode Indonesia (\"emi\")",
+      "business_type": "Perdagangan Besar Pakaian",
+      "total_assets": 100000000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Tanubrata Sutanto Fahmi Bambang & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.577.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:07.709Z"
+}

@@ -1,0 +1,1035 @@
+{
+  "company_name": "PT Capital Financial Indonesia Tbk",
+  "ticker": "CASA",
+  "office_address": "Gedung Menara Jamsostek Menara Utara Lt. 5 Jl. Jend. Gatot Subroto No. 38 Mampang Prapatan",
+  "email": "corporate@capitalfinancial.co.id",
+  "phone": "(62) (21) 2708 2002",
+  "fax": "(62) (21) 2708 2001",
+  "tax_id": "0029 9154 7701 2000",
+  "website": "https://www.capitalfinancial.co.id",
+  "listing_date": "2016-07-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam Bidang Jasa dan Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Teknologi, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Teknologi",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Muhamad Aidil Fathany",
+    "email": "corporate@capitalfinancial.co.id",
+    "phone": "021-27082002"
+  },
+  "directors": [
+    {
+      "name": "Maliana Herutama Malkan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Muhamad Aidil Fathany",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Harkie Kosadi",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Darwin",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harkie Kosadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ahmad Sujana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Susanto Halim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Capital Strategic Invesco",
+      "type": "Lebih dari 5%",
+      "shares": 28692354842,
+      "percentage": 52.67
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 20096282461,
+      "percentage": 36.89
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5687632500,
+      "percentage": 10.44
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Capital Sharia Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 21394287,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Sharia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 21394284,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 21387514,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bank Capital Indonesia Tbk",
+      "business_type": "Perbankan",
+      "total_assets": 21369628,
+      "ownership_percentage": 74.7
+    },
+    {
+      "name": "PT Bank Capital Indonesia Tbk",
+      "business_type": "Perbankan",
+      "total_assets": 21250597,
+      "ownership_percentage": 74.7
+    },
+    {
+      "name": "PT Bank Capital Indonesia Tbk",
+      "business_type": "Perbankan",
+      "total_assets": 20375648,
+      "ownership_percentage": 74.7
+    },
+    {
+      "name": "PT Capital Sharia Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 20208414,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Sharia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 20208411,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 20201598,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bank Capital Indonesia Tbk",
+      "business_type": "Perbankan",
+      "total_assets": 20201578,
+      "ownership_percentage": 74.7
+    },
+    {
+      "name": "PT Bank Capital Indonesia Tbk",
+      "business_type": "Perbankan",
+      "total_assets": 19855645,
+      "ownership_percentage": 74.7
+    },
+    {
+      "name": "PT Capital Global Financial",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 7228824,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Financial",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 7141875,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Syariah",
+      "business_type": "Asuransi Jiwa Syariah",
+      "total_assets": 6177827,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Inigo Global Capital",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 5836110,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Indonesia",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 5797398,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Inigo Global Capital",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 5572039,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Financial",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 5200549,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Financial",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 5145514,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Indonesia",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 4459299,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Indonesia",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 4343654,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Indonesia",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 4334647,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Indonesia",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 4293077,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Syariah",
+      "business_type": "Asuransi Jiwa Syariah",
+      "total_assets": 4120475,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Sharia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 3654380,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 3404604,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Sharia Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 3188478,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Syariah",
+      "business_type": "Asuransi Jiwa Syariah",
+      "total_assets": 3127722,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Financial",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 3035213,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Syariah",
+      "business_type": "Asuransi Jiwa Syariah",
+      "total_assets": 2935448,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Life Syariah",
+      "business_type": "Asuransi Jiwa Syariah",
+      "total_assets": 2874569,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Inigo Global Capital",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 2389704,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Inigo Global Capital",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 2260912,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Inigo Global Capital",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 2231579,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Sharia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 2104375,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1854605,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Sharia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1854375,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investments",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1646838,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Sharia Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1638460,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1604609,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investments",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1583086,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investments",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1453257,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investments",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1453253,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Investments",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1450790,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Sharia Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 1388364,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Technologies Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 623429,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Technologies Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 620361,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Technologies Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 617312,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Technologies Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 584781,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Technologies Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 528787,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 505995,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 505995,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 466108,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 456108,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 442867,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 442867,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 369658,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 369658,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 357437,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 321117,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 321117,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Investments",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 321117,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 318617,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Indo Swakarsa",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 288435,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 274256,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 273700,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Indo Swakarsa",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 228392,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Indo Swakarsa",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 228375,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Indo Swakarsa",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 228364,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Indo Swakarsa",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 228309,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 225686,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 206999,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Asset Management",
+      "business_type": "Manajer Investasi",
+      "total_assets": 194165,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Creative",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 152754,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Asia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 152754,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Creative",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 140379,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Asia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 140379,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Asia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 112061,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Asia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 111853,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Creative",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 111547,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Creative",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 110559,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Asia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 110407,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Creative",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 109840,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Technologies (d/h PT Capital Digital Strategic)",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 96552,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Technologies (d/h PT Capital Digital Strategic)",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 96549,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Net Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 85975,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Net Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 84229,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Technologies (d/h PT Capital Digital Strategic)",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 66657,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Financial Technologies (d/h PT Capital Digital Strategic)",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 65544,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Ventura",
+      "business_type": "Perusahaan Ventura",
+      "total_assets": 58274,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Ventura",
+      "business_type": "Perusahaan Ventura",
+      "total_assets": 58263,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Ventura",
+      "business_type": "Perusahaan Ventura",
+      "total_assets": 57970,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Ventura",
+      "business_type": "Perusahaan Ventura",
+      "total_assets": 57462,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Global Ventura",
+      "business_type": "Perusahaan Ventura",
+      "total_assets": 57459,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhakti Mitra Usaha",
+      "business_type": "Perdagangan",
+      "total_assets": 55251,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Bhakti Mitra Usaha",
+      "business_type": "Perdagangan",
+      "total_assets": 55248,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Bhakti Mitra Usaha",
+      "business_type": "Perdagangan",
+      "total_assets": 55199,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Capital Strategic Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 51197,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Net Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 51192,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Net Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 46071,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Strategic Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 38822,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Net Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 38819,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Haritas Abadi",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 35990,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Haritas Abadi",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 35927,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Haritas Abadi",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 33993,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Haritas Abadi",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 31214,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhakti Mitra Usaha",
+      "business_type": "Perdagangan",
+      "total_assets": 17034,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Bhakti Mitra Usaha",
+      "business_type": "Perdagangan",
+      "total_assets": 16999,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Toko Modal Mitra Usaha",
+      "business_type": "Pembiayaan",
+      "total_assets": 11269,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Capital Financial Technologies (d/h PT Capital Digital Strategic)",
+      "business_type": "Perdagangan dan Penyertaan Modal",
+      "total_assets": 9652,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Toko Modal Mitra Usaha",
+      "business_type": "Pembiayaan",
+      "total_assets": 9086,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Toko Modal Mitra Usaha",
+      "business_type": "Pembiayaan",
+      "total_assets": 9051,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Toko Modal Mitra Usaha",
+      "business_type": "Pembiayaan",
+      "total_assets": 4071,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Daya Haritas Abadi",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 3144,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Toko Modal Mitra Usaha",
+      "business_type": "Pembiayaan",
+      "total_assets": 2547,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Capital Digital Trans",
+      "business_type": "Jasa Konsultasi Piranti Lunak & Keras",
+      "total_assets": 489,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Trans",
+      "business_type": "Jasa Konsultasi Piranti Lunak & Keras",
+      "total_assets": 488,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 205,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 204,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 204,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Trans",
+      "business_type": "Jasa Konsultasi Piranti Lunak & Keras",
+      "total_assets": 163,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 158,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 158,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 157,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 105,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 105,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Abadi",
+      "business_type": "Perdagangan",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Abadi",
+      "business_type": "Perdagangan",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Abadi",
+      "business_type": "Perdagangan",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Abadi",
+      "business_type": "Perdagangan",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kasplus Sahabat Abadi",
+      "business_type": "Perdagangan",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Trans",
+      "business_type": "Jasa Konsultasi Piranti Lunak & Keras",
+      "total_assets": 41,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Digital Trans",
+      "business_type": "Jasa Konsultasi Piranti Lunak & Keras",
+      "total_assets": 41,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Trans Global",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 39,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Trans Global",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 39,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Trans Global",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 39,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Trans Global",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 39,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Capital Trans Global",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 38,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 4,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 3,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Sejahtera",
+      "business_type": "Perdagangan",
+      "total_assets": 2,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Sejahtera",
+      "business_type": "Perdagangan",
+      "total_assets": 2,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Sejahtera",
+      "business_type": "Perdagangan",
+      "total_assets": 1,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Sejahtera",
+      "business_type": "Perdagangan",
+      "total_assets": 1,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Klik Mitra Sejahtera",
+      "business_type": "Perdagangan",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "73.542.964.234.050",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:47.294Z"
+}

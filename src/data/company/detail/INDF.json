@@ -1,0 +1,371 @@
+{
+  "company_name": "Indofood Sukses Makmur Tbk",
+  "ticker": "INDF",
+  "office_address": "Sudirman Plaza, Indofood Tower, Lt. 27, Jl. Jend. Sudirman Kav. 76-78 Jakarta 12910",
+  "email": "corporate.secretary@indofood.co.id",
+  "phone": "6221 5795 8822",
+  "fax": "6221 5793 5960",
+  "tax_id": "0015 4265 8809 2000",
+  "website": "https://www.indofood.com",
+  "listing_date": "1994-07-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Food and Beverages",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Bp Victor Suhendra",
+    "email": "victor.suhendra@indofood.co.id",
+    "phone": "(021) 57958822 Ext. 1761"
+  },
+  "directors": [
+    {
+      "name": "Anthoni Salim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Franciscus Welirang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Axton Salim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjhie Tje Fie (thomas Tjhie)",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Taufik Wiraatmadja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alamsyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Moleonoto (paulus Moleonoto)",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Joedianto Soejonopoetro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendra Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Suzi Indriani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Elly (elly Betty)",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Manuel Velez Pangilinan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Benny Setiawan Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Christopher Huxley Young",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Joseph Hon Pong Ng",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "John William Ryan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hans Kartikahadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sulaiman Arif Arianto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Notariza Taher",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hans Kartikahadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Amelia Setiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Notariza Taher",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "First Pacific Investment Management Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 4396103450,
+      "percentage": 50.07
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4353256523,
+      "percentage": 49.58
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 29686507,
+      "percentage": 0.33
+    },
+    {
+      "name": "Anthoni Salim",
+      "type": "Direksi",
+      "shares": 1329770,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Franciscus Welirang",
+      "type": "Direksi",
+      "shares": 250,
+      "percentage": 0
+    },
+    {
+      "name": "Taufik Wiraatmadja",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indofood Cbp Sukses Makmur Tbk",
+      "business_type": "Produksi Mie, Bumbu Penyedap, Produk Makanan Kuliner, Biskuit, Nutrisi dan Makanan Khusus",
+      "total_assets": 132413,
+      "ownership_percentage": 80.5
+    },
+    {
+      "name": "PT Salim Ivomas Pratama Tbk",
+      "business_type": "Jasa Investasi dan Perkebunan Kelapa Sawit, Pengolahan dan Produksi Minyak Goreng dan Produk Sejenis Lainnya",
+      "total_assets": 39059,
+      "ownership_percentage": 61.6
+    },
+    {
+      "name": "PT Indomarco Adi Prima",
+      "business_type": "Distribusi",
+      "total_assets": 13110,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indofood Agri Resources Ltd.",
+      "business_type": "Investasi",
+      "total_assets": 10906,
+      "ownership_percentage": 74.3
+    },
+    {
+      "name": "Ocean 21 Pte.ltd.",
+      "business_type": "Investasi",
+      "total_assets": 4881,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Pacsari Pte. Ltd.",
+      "business_type": "Pelayaran",
+      "total_assets": 1678,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Putri Daya Usahatama",
+      "business_type": "Distribusi",
+      "total_assets": 1049,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "Indofood Singapore Holdings Pte.ltd.",
+      "business_type": "Investasi",
+      "total_assets": 385,
+      "ownership_percentage": 83.8
+    },
+    {
+      "name": "PT Inti Abadi Kemasindo",
+      "business_type": "Produksi Bahan Kemasan",
+      "total_assets": 253,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pelayaran Tahta Bahtera",
+      "business_type": "Pelayaran",
+      "total_assets": 141,
+      "ownership_percentage": 90.9
+    },
+    {
+      "name": "PT Bina Makna Indopratama",
+      "business_type": "Investasi",
+      "total_assets": 34,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Intipangan Sejati",
+      "business_type": "Jasa Investasi dan Manajemen",
+      "total_assets": 30,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Trading Internasional Mandiri",
+      "business_type": "Perdagangan, Pengangkutan dan Pergudangan, Perusahaan Holding, dan Jasa Konsultasi Manajemen",
+      "total_assets": 20,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mileva Makmur Mandiri",
+      "business_type": "Produksi Makanan dari Susu",
+      "total_assets": 12,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Argha Giri Perkasa",
+      "business_type": "Produksi Kopra dan Pengolahan Minyak Kelapa",
+      "total_assets": 7,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Arthanugraha Mandiri",
+      "business_type": "Produksi Kopi",
+      "total_assets": 4,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bogasari Flour Mills",
+      "business_type": "Penggilingan Tepung",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bogasari Sentra Flour Mills",
+      "business_type": "Penggilingan Tepung",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indobahtera Era Sejahtera",
+      "business_type": "Pelayaran",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "59.267.878.875.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:31.561Z"
+}

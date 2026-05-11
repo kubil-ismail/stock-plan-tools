@@ -1,0 +1,227 @@
+{
+  "company_name": "Cowell Development Tbk",
+  "ticker": "COWL",
+  "office_address": "Graha Atrium, Lt. 6, Jl. Senen Raya No. 135, Jakarta 10410",
+  "email": "corsec@cowelldev.com",
+  "phone": "386 7868",
+  "fax": "386 2919",
+  "tax_id": "01.307.825.8-028.000",
+  "website": "https://-",
+  "listing_date": "2007-12-19",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Pikoli Sinaga",
+    "email": "corsec@cowelldev.com",
+    "phone": "3867868"
+  },
+  "directors": [
+    {
+      "name": "Irwan Susanto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pikoli Sinaga",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Joksan Melkisedek Atamou",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Adam Mingkay",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Erwin Setiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Adam Mingkay",
+      "position": "Ketua"
+    },
+    {
+      "name": "Thomas Dwika Praditya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Gama Nusapala",
+      "type": "Lebih dari 5%",
+      "shares": 3464639204,
+      "percentage": 71.12
+    },
+    {
+      "name": "Feral Invesment Inc",
+      "type": "Lebih dari 5%",
+      "shares": 699040539,
+      "percentage": 14.35
+    },
+    {
+      "name": "Earvin Limited",
+      "type": "Lebih dari 5%",
+      "shares": 395470500,
+      "percentage": 8.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 312063778,
+      "percentage": 6.41
+    },
+    {
+      "name": "Joksan Melkisedek Atamou",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adam Mingkay",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Irwan Susanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pikoli Sinaga",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Plaza Adika Lestari",
+      "business_type": "Jasa Pembangunan dan Pengelolaan Gedung",
+      "total_assets": 736229,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Satria Pusaka Permata Perkasa",
+      "business_type": "Properti dan Pembangunan Real Estat",
+      "total_assets": 420150,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusantara Prospekindo Sukses",
+      "business_type": "Properti dan Pembangunan Real Estat",
+      "total_assets": 344072,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sandi Mitra Selaras",
+      "business_type": "Properti dan Pembangunan Real Estat",
+      "total_assets": 101685,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Koloni Kuliner Indonesia (dimiliki Melalui PT Plaza Adika Lestari)",
+      "business_type": "Jasa Pengelolaan",
+      "total_assets": 11658,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "243.560.701.050",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:28.516Z"
+}

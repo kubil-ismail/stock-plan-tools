@@ -1,0 +1,367 @@
+{
+  "company_name": "PT Dayamitra Telekomunikasi Tbk",
+  "ticker": "MTEL",
+  "office_address": "Telkom Landmark Tower Lt. 27 Jl. Gatot Subroto Kavling 52 Jakarta 12710",
+  "email": "corporate.secretary@mitratel.co.id",
+  "phone": "021 2793 3363",
+  "fax": "021 22770817",
+  "tax_id": "01.071.244.6-093.000",
+  "website": "http://www.mitratel.co.id",
+  "listing_date": "2021-11-22",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Penyedia Menara Telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 17,
+    "name": "Jasa Telekomunikasi Nirkabel"
+  },
+  "sub_industry": {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  "corporate_secretary": {
+    "name": "Hendra Purnama",
+    "email": "corporate.secretary@mitratel.co.id",
+    "phone": "021 2793 3363"
+  },
+  "directors": [
+    {
+      "name": "Theodorus Ardi Hartoko",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ian Sigit Kurniawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hastining Bagyo Astuti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Winarno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendra Purnama",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fandi Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fadli Tri Hartono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Gunawan Susanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ibnu Sulistyo Riza Pradipto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ratu Ayu Isyana Bagoes Oka",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mira Tayyiba",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Faisal Amir Masduki",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ibnu Sulistyo Pradipto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Gunawan Susanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sarimin Mietra Sardi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muchamad Noor Hidayat",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Telkom Indonesia (persero) Tbk, PT",
+      "type": "Lebih dari 5%",
+      "shares": 60021928043,
+      "percentage": 71.8312
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 11529405400,
+      "percentage": 13.7978
+    },
+    {
+      "name": "PT Maleo Investasi Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 4993349700,
+      "percentage": 5.9758
+    },
+    {
+      "name": "Government Of Singapore",
+      "type": "Lebih dari 5%",
+      "shares": 4450091300,
+      "percentage": 5.3256
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 2549045900,
+      "percentage": 3.0506
+    },
+    {
+      "name": "Theodorus Ardi Hartoko",
+      "type": "Direksi",
+      "shares": 8162700,
+      "percentage": 0.0098
+    },
+    {
+      "name": "Hendra Purnama",
+      "type": "Direksi",
+      "shares": 5130000,
+      "percentage": 0.0061
+    },
+    {
+      "name": "Ian Sigit Kurniawan",
+      "type": "Direksi",
+      "shares": 2100000,
+      "percentage": 0.0025
+    },
+    {
+      "name": "Hastining Bagyo Astuti",
+      "type": "Direksi",
+      "shares": 307100,
+      "percentage": 0.0004
+    },
+    {
+      "name": "Agus Winarno",
+      "type": "Direksi",
+      "shares": 157300,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1,
+      "percentage": 0
+    },
+    {
+      "name": "Mira Tayyiba",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gunawan Susanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fadli Tri Hartono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Faisal Amir Masduki",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ratu Isyana Bagoes Oka",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fandi Wijaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Persada Sokka Tama",
+      "business_type": "Penyediaan Sarana-prasarana Jaringan Telekomunikasi",
+      "total_assets": 887632501,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Persada Sokka Tama",
+      "business_type": "Penyediaan Sarana-prasarana Jaringan Telekomunikasi",
+      "total_assets": 1754028,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Persada Sokka Tama",
+      "business_type": "Penyediaan Sarana-prasarana Jaringan Telekomunikasi",
+      "total_assets": 1750654,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Persada Sokka Tama",
+      "business_type": "Penyediaan Sarana-prasarana Jaringan Telekomunikasi",
+      "total_assets": 1684747,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Persada Sokka Tama",
+      "business_type": "Penyediaan Sarana-prasarana Jaringan Telekomunikasi",
+      "total_assets": 1684747,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Persada Sokka Tama",
+      "business_type": "Penyediaan Sarana-prasarana Jaringan Telekomunikasi",
+      "total_assets": 1621884,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "43.033.233.883.660",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:42.963Z"
+}

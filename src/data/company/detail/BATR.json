@@ -1,0 +1,201 @@
+{
+  "company_name": "PT Benteng Api Technic Tbk",
+  "ticker": "BATR",
+  "office_address": "Jl. Kebraon II No. 103 A Surabaya Jawa Timur 60222",
+  "email": "sekretariat@bentengapi.com",
+  "phone": "+62(31)-7672269",
+  "fax": "+62(31) 7662336 / (31) 7671475",
+  "tax_id": "02.377.482.1-631.000",
+  "website": "https://www.bentengapi.com",
+  "listing_date": "2024-06-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang Manufaktur dan Perdagangan produk Refraktori (Material Tahan Api)dan Insulasi Tahan Panas beserta Jasa Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Aswin Asmantono",
+    "email": "sekretariat@bentengapi.com",
+    "phone": "031-7672269"
+  },
+  "directors": [
+    {
+      "name": "Ridwan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Aswin Asmantono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Hari Pramudianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sugeng Suryadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "M. Rusli Ananda",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "M. Rusli Ananda",
+      "position": "Ketua"
+    },
+    {
+      "name": "Eddy Tajib",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jemi Hendrik",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ridwan Sumadi",
+      "type": "Direksi",
+      "shares": 1332440000,
+      "percentage": 44.05
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 659046553,
+      "percentage": 21.79
+    },
+    {
+      "name": "Ekadana Suryadi",
+      "type": "Lebih dari 5%",
+      "shares": 426802400,
+      "percentage": 14.11
+    },
+    {
+      "name": "Bayu Haekal Suryadi",
+      "type": "Lebih dari 5%",
+      "shares": 426802400,
+      "percentage": 14.11
+    },
+    {
+      "name": "Sugeng Suryadi",
+      "type": "Komisaris",
+      "shares": 130798200,
+      "percentage": 4.32
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 49147800,
+      "percentage": 1.62
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "284.353.511.182",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:06.781Z"
+}

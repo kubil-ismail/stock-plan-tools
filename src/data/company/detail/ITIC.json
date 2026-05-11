@@ -1,0 +1,187 @@
+{
+  "company_name": "PT Indonesian Tobacco Tbk.",
+  "ticker": "ITIC",
+  "office_address": "Jalan Letjen S. Parman Nomor 92 Malang 65122, Jawa Timur - Indonesia",
+  "email": "office@indonesiantobacco.com",
+  "phone": "+62341-491017",
+  "fax": "+62341-491407",
+  "tax_id": "001.123.504.1-651.000",
+  "website": "https://www.indonesiantobacco.com",
+  "listing_date": "2019-07-04",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Pengolahan Tembakau Iris",
+    "business_summary": "Perusahaan bergerak di bidang Rokok.",
+    "business_tags": [
+      "Rokok"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 31,
+    "name": "Rokok",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 55,
+    "name": "Rokok"
+  },
+  "sub_industry": {
+    "id": 92,
+    "name": "Rokok",
+    "industries_id": 55
+  },
+  "corporate_secretary": {
+    "name": "Djonny Saksono",
+    "email": "office@indonesiantobacco.com",
+    "phone": "+62341-491017"
+  },
+  "directors": [
+    {
+      "name": "Djonny Saksono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andre Martinus",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Shirley Suwantinna",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Suprihadi, Msa., Ak., Msa.ap., Cpa., Ca., Cta",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Suprihadi, Msa., Ak., Msa.ap., Cpa., Ca., Cta",
+      "position": "Ketua"
+    },
+    {
+      "name": "Andi Sudhana, S.e., M.m., Ak., Ca., Crmp., Csrs., Csra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Prof. Dr. Erwin Saraswati., Ak., Cpma., Csra., Asca",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Djonny Saksono",
+      "type": "Direksi",
+      "shares": 644230200,
+      "percentage": 68.48
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 230489800,
+      "percentage": 24.5
+    },
+    {
+      "name": "PT Anugerah Investindo Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 66000000,
+      "percentage": 7.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "246.468.640.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:09.415Z"
+}

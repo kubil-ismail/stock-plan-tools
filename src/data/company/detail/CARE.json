@@ -1,0 +1,392 @@
+{
+  "company_name": "PT Metro Healthcare Indonesia Tbk",
+  "ticker": "CARE",
+  "office_address": "Jl. Raya Serang Km 16,8 Rt/rw 005/001, Kelurahan Sukamulya, Kecamatan Cikupa, Kabupaten Tangerang, 15710",
+  "email": "cs@metrohealthcareindonesia.co.id",
+  "phone": "+62 21 5964 7937",
+  "fax": "+62 21 5964 7871",
+  "tax_id": "80.466.308.6-011.000",
+  "website": "https://www.metrohealthcareindonesia.co.id",
+  "listing_date": "2020-03-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak Dalam Bidang Jasa Konsultasi Manajemen dan Melakukan Investasi Pada Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Dr. Dedi Tedjakusnadi, Mars",
+    "email": "cs@metrohealthcareindonesia.co.id",
+    "phone": "+62 21 5964 7937"
+  },
+  "directors": [
+    {
+      "name": "Ir. Henry Kembaren, Mm",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Dedi Tedjakusnadi, Mars",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Rico Novyanto Sp.pd",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Agustinus Widjaja, C.ht",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Rico Novyanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Retno",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dominica Dwi Putri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Metro Healthcare International",
+      "type": "Lebih dari 5%",
+      "shares": 16599999999,
+      "percentage": 49.92
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 11006686701,
+      "percentage": 33.11
+    },
+    {
+      "name": "Bank Julius Baer And Co Ltd Singapore",
+      "type": "Lebih dari 5%",
+      "shares": 5643313300,
+      "percentage": 16.97
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mitra Adika Buana",
+      "business_type": "Perdagangan, Industri, Pembangunan dan Jasa",
+      "total_assets": 1301673,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Metro Mitra Sarana",
+      "business_type": "Perdagangan, Industri, Pembangunan dan Jasa",
+      "total_assets": 1183840,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Metro Global Medika",
+      "business_type": "Aktivitas Rumah Sakit, Poliklinik Swasta, Perdagangan, Aktivitas Profesional, Ilmiah, Teknis, Aktivitas Keuangan dan Investasi",
+      "total_assets": 933971,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Karya Loka",
+      "business_type": "Real Estat dan Perdagangan",
+      "total_assets": 330128,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintang Langit",
+      "business_type": "Perdagangan, Industri, Pembangunan dan Jasa",
+      "total_assets": 310776,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Dian Cemerlang",
+      "business_type": "Perdagangan, Industri, Pembangunan dan Jasa",
+      "total_assets": 251853,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Mulia Insani Bersama",
+      "business_type": "Bergerak di Bidang Kesehatan",
+      "total_assets": 193130,
+      "ownership_percentage": 97.5
+    },
+    {
+      "name": "PT Dana Nusa Berkarya",
+      "business_type": "Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 159150,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indah Nusa Indonesia",
+      "business_type": "Usaha Perawatan Kesehatan, Pengobatan Fisik dan Perdagangan",
+      "total_assets": 143226,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Putera Utama Mulia",
+      "business_type": "Aktivitas Rumah Sakit, Poliklinik Swasta, Perdagangan dan Jasa",
+      "total_assets": 101762,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Metro Medika Abadi",
+      "business_type": "Perdagangan, Jasa, Pengangkutan, Perindustrian, Perbengkelan,kehutanan dan Pertanian",
+      "total_assets": 89497,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Taman Agung Selaras",
+      "business_type": "Perdagangan, Jasa, Pengangkutan, Perindustrian, Perbengkelan, Kehutanan dan Pertanian",
+      "total_assets": 86524,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semesta Akasa Jayaraya",
+      "business_type": "Jasa Kesehatan, Rumah Sakit, Poliklinik, Sarana Penunjang Kesehatan, Menyelenggarakan Pelayanan Kesehatan",
+      "total_assets": 86273,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Usaha Bersama",
+      "business_type": "Perdagangan, Industri, Pembangunan dan Jasa",
+      "total_assets": 81400,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Harmoni Pandu Makmur",
+      "business_type": "Usaha Aktivitas Rumah Sakit, Aktivitas Poliklinik dan Perdagangan",
+      "total_assets": 80533,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kasih Karunia Bapa",
+      "business_type": "Bergerak di Bidang Kesehatan",
+      "total_assets": 75596,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Usaha Karyaraya",
+      "business_type": "Jasa Kesehatan, Rumah Sakit, Poliklinik, Sarana Penunjang Kesehatan, Menyelenggarakan Pelayanan Kesehatan",
+      "total_assets": 71842,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Citra Bersama",
+      "business_type": "Perdagangan, Jasa, Pengangkutan, Perindustrian, Perbengkelan, Kehutanan dan Pertanian",
+      "total_assets": 57149,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cita Asa Maju",
+      "business_type": "Jasa Kesehatan, Rumah Sakit, Poliklinik, Sarana Penunjang Kesehatan, Menyelenggarakan Pelayanan Kesehatan",
+      "total_assets": 48881,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sinergi Serasi Prima",
+      "business_type": "Usaha Aktivitas Rumah Sakit Aktivitas Poliklinik dan Perdagangan",
+      "total_assets": 38310,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Garuda Tunggal Jaya",
+      "business_type": "Jasa Kesehatan, Rumah Sakit, Poliklinik, Sarana Penunjang Kesehatan, Menyelenggarakan Pelayanan Kesehatan",
+      "total_assets": 22899,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karunia Citra Indah Medika",
+      "business_type": "Jasa Kesehatan, Rumah Sakit, Poliklinik, Sarana Penunjang Kesehatan, Menyelenggarakan Pelayanan Kesehatan",
+      "total_assets": 13823,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Metro Hospitals Indonesia",
+      "business_type": "Aktivitas Rumah Sakit, Poliklinik Swasta, Perdagangan, Aktivitas Profesional, Ilmiah, Teknis",
+      "total_assets": 12753,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Metro Healthcare Technologies",
+      "business_type": "Aktivitas Rumah Sakit, Poliklinik Swasta, Perdagangan, Aktivitas Profesional, Ilmiah, Teknis, Aktivitas Keuangan dan Investasi",
+      "total_assets": 9998,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berkarya Sejahtera Gemilang",
+      "business_type": "Aktivitas Rumah Sakit, Aktivitas Poliklinik, Perdagangan dan Jasa",
+      "total_assets": 95,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sejahtera Berkah Berdikari",
+      "business_type": "Aktivitas Rumah Sakit, Aktivitas Poliklinik, Perdagangan dan Jasa",
+      "total_assets": 95,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahtera Nusa Global",
+      "business_type": "Jasa Kesehatan, Rumah Sakit, Poliklinik, Sarana Penunjang Kesehatan, Menyelenggarakan Pelayanan Kesehatan",
+      "total_assets": 83,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sumber Usaha Karyajaya",
+      "business_type": "Jasa Kesehatan, Rumah Sakit, Poliklinik, Sarana Penunjang Kesehatan, Menyelenggarakan Pelayanan Kesehatan",
+      "total_assets": 50,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "13.632.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:45.054Z"
+}

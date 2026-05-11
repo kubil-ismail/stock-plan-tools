@@ -1,0 +1,870 @@
+{
+  "company_name": "PT Agung Semesta Sejahtera Tbk",
+  "ticker": "TARA",
+  "office_address": "Soho Podomoro City, Unit 37.08, Jl. Letjend S. Parman,blok Tanjung Duren Selatan, Jakarta Barat, 11410",
+  "email": "cs@agungsemestasejahtera.com",
+  "phone": "02150127862",
+  "fax": "-",
+  "tax_id": "02.589.475.9-054.000",
+  "website": "https://www.agungsemestasejahtera.com",
+  "listing_date": "2014-07-11",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pembangunan baik langsung maupun melalui entitas anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Bitra Wijaya",
+    "email": "cs@agungsemestasejahtera.com",
+    "phone": "0215363076"
+  },
+  "directors": [
+    {
+      "name": "Dhaniel",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bitra Wijaya",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bihar Abdi Solonggahon Tobing",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yuristy Febriany Se",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Supandi Widi Siswanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Deka Watchson",
+      "position": "Anggota"
+    },
+    {
+      "name": "Immanuel Hendri Krisnanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 6906621197,
+      "percentage": 68.5885
+    },
+    {
+      "name": "PT Surya Buana Makmur",
+      "type": "Lebih dari 5%",
+      "shares": 1514019800,
+      "percentage": 15.0355
+    },
+    {
+      "name": "Glenwood Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 1097615715,
+      "percentage": 10.9002
+    },
+    {
+      "name": "PT Asabri - Dapen",
+      "type": "Lebih dari 5%",
+      "shares": 551389038,
+      "percentage": 5.4758
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Griya Cipta Berdikari",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 1085300560235,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Griya Cipta Berdikari",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 1085295440366,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Griya Cipta Berdikari",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 1085295165356,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Griya Cipta Berdikari",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 1082777547673,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Griya Cipta Berdikari",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 1039429102014,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Raffles Griya Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 818901290650,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Griya Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 818896295650,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Griya Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 818896295650,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Griya Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 817555771149,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Griya Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 791270390318,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gemilang International",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 755310607294,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gemilang International",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 755310367294,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gemilang International",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 755310127294,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gemilang International",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 753922968823,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gemilang International",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 727338428857,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Raffles Niaga Kencana",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 359612530118,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Niaga Kencana",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 359610009267,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Niaga Kencana",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 359609785854,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Niaga Kencana",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 359590395112,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Niaga Kencana",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 359515101105,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Usaha Mandiri Sukses Abadi",
+      "business_type": "Pembangunan",
+      "total_assets": 254351536424,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Usaha Mandiri Sukses Abadi",
+      "business_type": "Pembangunan",
+      "total_assets": 253456350673,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Usaha Mandiri Sukses Abadi",
+      "business_type": "Pembangunan",
+      "total_assets": 252503997235,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Usaha Mandiri Sukses Abadi",
+      "business_type": "Pembangunan",
+      "total_assets": 252455525589,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pratama Kencana Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 250349533333,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pratama Kencana Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 250349533333,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pratama Kencana Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 250349533333,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pratama Kencana Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 250346480833,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pratama Kencana Perkasa",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 250344335833,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Usaha Mandiri Sukses Abadi",
+      "business_type": "Pembangunan",
+      "total_assets": 235385744935,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Raffles Graha Persada",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 64436774304,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Graha Persada",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 64405950934,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Graha Persada",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 64403203260,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Graha Persada",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 64400455873,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Raffles Graha Persada",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 64400005931,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bina Karnada",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian",
+      "total_assets": 33522685265,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bina Karnada",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian",
+      "total_assets": 33518570065,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bina Karnada",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian",
+      "total_assets": 33518185303,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bina Karnada",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian",
+      "total_assets": 33516459192,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bina Karnada",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian",
+      "total_assets": 33506061517,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Cisadane River Park",
+      "business_type": "Pembangunan dan Jasa Konsultasi Manajemen",
+      "total_assets": 16015541904,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cisadane River Park",
+      "business_type": "Pembangunan dan Jasa Konsultasi Manajemen",
+      "total_assets": 15994340739,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cisadane River Park",
+      "business_type": "Pembangunan dan Jasa Konsultasi Manajemen",
+      "total_assets": 15993597410,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cisadane River Park",
+      "business_type": "Pembangunan dan Jasa Konsultasi Manajemen",
+      "total_assets": 15993461295,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cisadane River Park",
+      "business_type": "Pembangunan dan Jasa Konsultasi Manajemen",
+      "total_assets": 15992593826,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mentari Daya Selaras",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 11851000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Mentari Daya Selaras",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 11851000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Mentari Daya Selaras",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 11851000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Mentari Daya Selaras",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 11851000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Mentari Daya Selaras",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 11851000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bumi Tara Sinergi (d/h PT Raffles Hotel)",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 1898472000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Tara Sinergi (d/h PT Raffles Hotel)",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 1878870000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Tara Sinergi (d/h PT Raffles Hotel)",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 1867631300,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Tara Sinergi (d/h PT Raffles Hotel)",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 1864578800,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Tara Sinergi (d/h PT Raffles Hotel)",
+      "business_type": "Real Estat, Perdagangan Besar, Konsultasi Manajemen, Aktivitas Kantor Pusat Mencakup Kegiatan Pengawasan dan Pengelolaan Unit-unit Perusahaan",
+      "total_assets": 1864578800,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Tara Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perkasa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perkasa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perkasa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 600000000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 595710000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 595105000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 595105000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perkasa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 595105000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Bumi Tara Perkasa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 595105000,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Mandiri Gita Pertiwi",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 177566228,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mandiri Gita Pertiwi",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 154685708,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mandiri Gita Pertiwi",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 145487582,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mandiri Gita Pertiwi",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 145487582,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mandiri Gita Pertiwi",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 145487582,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Propertindo Line Semesta",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 118568600,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Propertindo Line Semesta",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 100893200,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Propertindo Line Semesta",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 100893200,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Propertindo Line Semesta",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 95998200,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Propertindo Line Semesta",
+      "business_type": "Pembangunan, Jasa Pengelola Gedung, Jasa Konsultasi Manajemen",
+      "total_assets": 95998200,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Raffles Griya Perkasa",
+      "business_type": "",
+      "total_assets": 497290,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Raffles Griya Perkasa",
+      "business_type": "",
+      "total_assets": 497290,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gemilang International",
+      "business_type": "",
+      "total_assets": 471678,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Gemilang International",
+      "business_type": "",
+      "total_assets": 471678,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Griya Cipta Berdikari",
+      "business_type": "",
+      "total_assets": 471615,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Griya Cipta Berdikari",
+      "business_type": "",
+      "total_assets": 471615,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Raffles Niaga Kencana",
+      "business_type": "",
+      "total_assets": 398650,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Raffles Niaga Kencana",
+      "business_type": "",
+      "total_assets": 398650,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pratama Kencana Perkasa",
+      "business_type": "",
+      "total_assets": 247015,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Pratama Kencana Perkasa",
+      "business_type": "",
+      "total_assets": 247015,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Purnama Sentosa",
+      "business_type": "",
+      "total_assets": 80766,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Purnama Sentosa",
+      "business_type": "",
+      "total_assets": 80766,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Usaha Mandiri Sukses Abadi",
+      "business_type": "",
+      "total_assets": 68502,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Usaha Mandiri Sukses Abadi",
+      "business_type": "",
+      "total_assets": 68502,
+      "ownership_percentage": 96
+    },
+    {
+      "name": "PT Cakrawala Inti Sejahtera",
+      "business_type": "Pembangunan Kios dan Ruko di Proyek City Point",
+      "total_assets": 68114,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Cakrawala Inti Sejahtera",
+      "business_type": "Pembangunan Kios dan Ruko di Proyek City Point",
+      "total_assets": 68114,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Raffles Graha Persada",
+      "business_type": "",
+      "total_assets": 59596,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Raffles Graha Persada",
+      "business_type": "",
+      "total_assets": 59596,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mutiara Sukses Abadi",
+      "business_type": "",
+      "total_assets": 38965,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Mutiara Sukses Abadi",
+      "business_type": "",
+      "total_assets": 38965,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Graha Investama Bersama",
+      "business_type": "",
+      "total_assets": 18272,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Graha Investama Bersama",
+      "business_type": "",
+      "total_assets": 18272,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bina Karnada",
+      "business_type": "Pembangunan dan Konsultasi Manajemen",
+      "total_assets": 17495,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Bina Karnada",
+      "business_type": "Pembangunan dan Konsultasi Manajemen",
+      "total_assets": 17495,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Cisadane River Park",
+      "business_type": "Pembangunan dan Jasa Konsultasi Manajemen",
+      "total_assets": 11862,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Cisadane River Park",
+      "business_type": "Pembangunan dan Jasa Konsultasi Manajemen",
+      "total_assets": 11862,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Sahabat Haritas Sejati",
+      "business_type": "",
+      "total_assets": 11800,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Sahabat Haritas Sejati",
+      "business_type": "",
+      "total_assets": 11800,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Raffles Hotel",
+      "business_type": "",
+      "total_assets": 989,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Raffles Hotel",
+      "business_type": "",
+      "total_assets": 989,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mandiri Gita Pertiwi",
+      "business_type": "",
+      "total_assets": 76,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Mandiri Gita Pertiwi",
+      "business_type": "",
+      "total_assets": 76,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Propertindo Line Semesta",
+      "business_type": "",
+      "total_assets": 56,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Propertindo Line Semesta",
+      "business_type": "",
+      "total_assets": 56,
+      "ownership_percentage": 97
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "322.228.664.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:07.363Z"
+}

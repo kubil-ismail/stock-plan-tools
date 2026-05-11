@@ -1,0 +1,228 @@
+{
+  "company_name": "PT Dci Indonesia Tbk",
+  "ticker": "DCII",
+  "office_address": "Equity Tower, Lantai 17 Unit F SCBD Lot. 9, Jl. Jend. Sudirman Kav. 52 – 53, Jakarta 12190",
+  "email": "corpsec@dci-indonesia.com",
+  "phone": "+62 21 2903 7500",
+  "fax": "+62 21 2903 7600",
+  "tax_id": "31.366.071.4-012.000",
+  "website": "https://www.dci-indonesia.com",
+  "listing_date": "2021-01-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di bidang aktivitas hosting dan aktivitas terkait lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Indri Koesindrijastoeti",
+    "email": "corpsec@dci-indonesia.com",
+    "phone": "+62 21 2903 7500"
+  },
+  "directors": [
+    {
+      "name": "Otto Toto Sugiri",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Evelyn",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indri Koesindrijastoeti Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lucas Adrian",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Marina Budiman",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Darwin Cyril Noerhadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Darwin Cyril Noerhadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Liauw Hendrik",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hartian Surya Widhanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Otto Toto Sugiri",
+      "type": "Direksi",
+      "shares": 712784905,
+      "percentage": 29.9
+    },
+    {
+      "name": "Marina Budiman",
+      "type": "Komisaris",
+      "shares": 536505149,
+      "percentage": 22.51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 442168200,
+      "percentage": 18.55
+    },
+    {
+      "name": "Han Arming Hanafia",
+      "type": "Lebih dari 5%",
+      "shares": 336352227,
+      "percentage": 14.11
+    },
+    {
+      "name": "Anthoni Salim",
+      "type": "Lebih dari 5%",
+      "shares": 265033461,
+      "percentage": 11.12
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 90901958,
+      "percentage": 3.81
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sarana Megahtama",
+      "business_type": "Penyedia Layanan Pusat Data",
+      "total_assets": 215743,
+      "ownership_percentage": 50.01
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "472.577.624.675.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:58.652Z"
+}

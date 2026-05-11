@@ -1,0 +1,280 @@
+{
+  "company_name": "PT Pyridam Farma Tbk",
+  "ticker": "PYFA",
+  "office_address": "Sinar Mas Land Plaza Sudirman, Lantai 12 Jl. Jendral Sudirman Kav. 21, Rt10/rw1, Kuningan, Karet, Kec. Setiabudi, Jakarta Selatan 12920",
+  "email": "corsec@pyfa.co.id",
+  "phone": "(+6221) 50991067",
+  "fax": "-",
+  "tax_id": "01.313.863.1-054.000",
+  "website": "https://www.pyfa.co.id",
+  "listing_date": "2001-10-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Farmasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Herdiasti Anggitya Dwisani",
+    "email": "corsec@pyfa.co.id",
+    "phone": "(021) 53690112"
+  },
+  "directors": [
+    {
+      "name": "Antes Eko Prasetio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lee Yan Gwan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yenfrino Gunadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bedjo Stefanus",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sinta Lestari Ningsih",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Robby Yulianto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Maura Linda Sitanggang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Charles D. Marpaung",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Widjanarko Brotosaputro",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Vladimir I. Pangemanan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wiriprasto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Rejuve Global Investment Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 7194080948,
+      "percentage": 64.023
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3456614609,
+      "percentage": 30.762
+    },
+    {
+      "name": "PT Asuransi Jiwa Starinvestama",
+      "type": "Lebih dari 5%",
+      "shares": 572628400,
+      "percentage": 5.096
+    },
+    {
+      "name": "Bedjo Stefanus",
+      "type": "Direksi",
+      "shares": 13310000,
+      "percentage": 0.118
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 60512,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lee Yan Gwan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yenfrino Gunadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Antes Eko Prasetio",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sinta Lestari Ningsih",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Robby Yulianto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Widjanarko Brotosaputro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Charles D. Marpaung",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Maura Linda Sitanggang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Pyfa Health Singapore Pte. Ltd.",
+      "business_type": "Penjualan Eceran Suplemen Kesehatan, Penjualan Eceran Kosmetik dan Perlengkapan Mandi (termasuk Produk Perawatan Kulit)",
+      "total_assets": 5200718936017,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Pyfa Australia Pty. Ltd.",
+      "business_type": "",
+      "total_assets": 5110998756835,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ethica Industri Farmasi",
+      "business_type": "",
+      "total_assets": 626589555033,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Holi Pharma",
+      "business_type": "Industri Kimia Dasar Organik yang Menghasilkan Bahan Kimia Khusus, Industri Sabun dan Bahan Pembersih Keperluan Rumah Tangga, Industri Kosmetik untuk Manusia, Termasuk Pasta Gigi, Industri Bahan Farmasi untuk Manusia, Industri Produk Farmasi untuk Manusia",
+      "total_assets": 373658554101,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pyfa Investama Medika",
+      "business_type": "Perdagangan Besar Atas Dasar Balas Jasa (fee ) atau Kontrak, Aktivitas Perusahaan Holding, Aktivitas Akuntansi, Pembukuan dan Pemeriksa, Aktivitas Konsultasi Manajemen Lainnya, Aktivitas Konsultasi Bisnis dan Broker Bisnis, dan Aktivitas Penyedia Gabungan Jasa Administrasi Kantor",
+      "total_assets": 28384553015,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pyfa Sehat Indonesia",
+      "business_type": "Portal Web Dan/atau Platform Digital dengan Tujuan Komersial, Perdagangan Eceran Barang dan Obat Farmasi untuk Manusia di Apotik, Perdagangan Eceran Barang dan Obat Farmasi untuk Manusia Bukan di Apotik",
+      "total_assets": 22642735073,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pyfa Aetheria Indonesia (dahulu/ Formerly PT Pyfa Medika Indonesia)",
+      "business_type": "Perdagangan Besar Atas Obat Farmasi, Obat Tradisional, Kosmetik, Alat Laboratorium, Alat Farmasi, Alat Kedokteran dan Pelatihan Kerja Industri Kreatif",
+      "total_assets": 6185841,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.393.481.791.850",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:27.221Z"
+}

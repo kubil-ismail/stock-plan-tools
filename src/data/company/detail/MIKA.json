@@ -1,0 +1,366 @@
+{
+  "company_name": "PT Mitra Keluarga Karyasehat Tbk.",
+  "ticker": "MIKA",
+  "office_address": "Jl. Raya Gading Kirana Kav.2 Jakarta Utara 14240",
+  "email": "corporate.secretary@mitrakeluarga.com",
+  "phone": "(021) 4585 2700",
+  "fax": "(021) 4585 2727",
+  "tax_id": "01.683.918.5-024.000",
+  "website": "http://www.mitrakeluarga.com",
+  "listing_date": "2015-03-24",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak dalam Bidang Jasa Konsultasi Bisnis dan Manajemen termasuk Jasa Manajemen Rumah Sakit",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan, Energi.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan",
+      "Energi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Joyce V. Handajani, Mba",
+    "email": "corporate.secretary@mitrakeluarga.com",
+    "phone": "(021) 4585 2700 / 2800"
+  },
+  "directors": [
+    {
+      "name": "Rustiyan Oen",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Joyce Vidyayanti Handajani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Christina Dian Anggraeni",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jozef Darmawan Angkasa",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nurvantina Pandina",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "I Gusti Gede Subawa",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Shinta Deviyanti Setiawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Isje Ayusari",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "I Gusti Gede Subawa",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kurniawan Suhartono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Berry Karlis",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Griyainsani Cakrasadaya",
+      "type": "Lebih dari 5%",
+      "shares": 8991740800,
+      "percentage": 64.65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4720411000,
+      "percentage": 33.94
+    },
+    {
+      "name": "Ir. Rustiyan Oen, Mba",
+      "type": "Direksi",
+      "shares": 181661600,
+      "percentage": 1.31
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 12690100,
+      "percentage": 0.09
+    },
+    {
+      "name": "Jozef Darmawan Angkasa, Mba, Msc",
+      "type": "Komisaris",
+      "shares": 978000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Shinta Deviyanti Setiawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Isje Ayusari",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "I Gusti Gede Subawa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Joyce Vidyayanti Handajani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nurvantina Pandina",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Christina Dian Anggraeni",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Proteindo Karyasehat (pks)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 1581637,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karyasukses Mandiri (ksm)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 1335522,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Alpen Agung Raya (aar)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 1201799,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ekamita Arahtegar (eat)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 1000218,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ragamsehat Multifita (rsm)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 814196,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Rumah Kasih Indonesia (rki)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 680051,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bina Husada Gemilang (bhg)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 306429,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kinarya Loka Buana (klb)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 278821,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Sumber Kasih (sk)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 131221,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Citra Mandiri Prima (cmp)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 130546,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Pratiwi Medika Utama (pmu)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 125014,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Kartika Parama Medika (kpm)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 102255,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dharma Bhakti Insani (dbi)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 99131,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Restu Purna Bhakti Husada (rpbh)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 88332,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karunia Bunda Setia (kbs)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 86310,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Bina Ilma Husada (bih)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 78628,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Pondok Karya Medika (pkm)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 69916,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sehat Digital Nusantara (sdn)",
+      "business_type": "Penyedia Platform Layanan Kesehatan",
+      "total_assets": 50927,
+      "ownership_percentage": 94.51
+    },
+    {
+      "name": "PT Kasih Abdi Dharma (kad)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 50273,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Bakti Gemilang Anak Sejahtera (bgas)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 30626,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Groovy",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 20053,
+      "ownership_percentage": 78.46
+    },
+    {
+      "name": "PT Mitra Brayan Indonesia (mbi)",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 5590,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "26.771.901.887.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:58.097Z"
+}

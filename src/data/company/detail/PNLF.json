@@ -1,0 +1,166 @@
+{
+  "company_name": "Panin Financial Tbk",
+  "ticker": "PNLF",
+  "office_address": "Gedung Panin Bank Pusat Lantai 8. Jl. Jend. Sudirman Kav.1, Jakarta 10270",
+  "email": "ptpaninfinancial@gmail.co.id",
+  "phone": "021-5711523",
+  "fax": "-",
+  "tax_id": "0013.1368.1705.4000",
+  "website": "https://www.paninfinancial.co.id",
+  "listing_date": "1983-06-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Asuransi",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 5,
+    "name": "Asuransi Jiwa",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Marwan Noor",
+    "email": "corsec@paninfinancial.co.id",
+    "phone": "(62-21) 5735555 Ext. 10510"
+  },
+  "directors": [
+    {
+      "name": "Marwan Noor",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dedi Setiawan",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Priskila Gabrielia Ciahaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mu'min Ali Gunawan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Richard Budi Gunawan",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sugeng Purwanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sugeng Purwanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lidyawati Soesetio",
+      "position": "Anggota"
+    },
+    {
+      "name": "Katty Susan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Paninvest Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 21728799460,
+      "percentage": 67.86
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 10291663085,
+      "percentage": 32.13
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1610748,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Panin Internasional (d/h PT Panin Financial Assurance)",
+      "business_type": "Konsultasi Manajemen Bisnis di Bidang Kearsipan",
+      "total_assets": 3911252,
+      "ownership_percentage": 63.16
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "7.749.341.736.906",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:30.929Z"
+}

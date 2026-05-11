@@ -1,0 +1,292 @@
+{
+  "company_name": "PT Folago Global Nusantara Tbk",
+  "ticker": "IRSX",
+  "office_address": "Pergudangan Taman Tekno 2 Blok H.8 No. 15-16 Jalan Taman, Jalan Tekno Widya Raya Bsd, Kecamatan Setu, Kota Tangerang Selatan, Banten 15314.",
+  "email": "corporate@folagocorp.com",
+  "phone": "021-75685326",
+  "fax": "-",
+  "tax_id": "-",
+  "website": "https://www.folagocorp.com",
+  "listing_date": "2023-02-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Pemrograman Komputer Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 44,
+    "name": "Perangkat Lunak"
+  },
+  "sub_industry": {
+    "id": 69,
+    "name": "Perangkat Lunak",
+    "industries_id": 44
+  },
+  "corporate_secretary": {
+    "name": "Charlie Se., M.ak",
+    "email": "corporate@folagocorp.com",
+    "phone": "021 - 75685326"
+  },
+  "directors": [
+    {
+      "name": "Subioto Jingga",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Charlie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Hizkia Halasan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gusti Ngurah Komang Panji Praman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Adhie Moelyadi Masardi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Benny",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Benny",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dwi Sari Wahyuningrum",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sabina Diva Azizah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Matra Tri Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 3961527100,
+      "percentage": 63.947
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2233520277,
+      "percentage": 36.053
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Subioto Jingga",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Charlie",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michael Hizkia Halasan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gusti Ngurah Komang Panji Pramana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adhie M Masardi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benny",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Digital Nata Karya",
+      "business_type": "Aktivitas Telekomunikasi Lainnya",
+      "total_assets": 126592786078,
+      "ownership_percentage": 99.91
+    },
+    {
+      "name": "PT Folago Karya Indonesia",
+      "business_type": "Aktivitas Konsultan Manajemen Lainnya",
+      "total_assets": 63271592877,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Folago Gaya Hidup",
+      "business_type": "Aktivitas Konsultan Manajemen",
+      "total_assets": 27073744349,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Folago Digital Media",
+      "business_type": "Aktivitas Konsultan Manajemen Lainnya dan Perdagangan Eceran Khusus Alat Permainan",
+      "total_assets": 2007243751,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Lumino Digital Kreativ",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis",
+      "total_assets": 1347362964,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Folago Artificial Intelligent Commerce",
+      "business_type": "Aktivitas Pemutaran Produksi dan Pasca- Produksi Film, Video dan Program Televisi",
+      "total_assets": 136340000,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Folago Pictures Indonesia",
+      "business_type": "Aktivitas Pemutaran Produksi dan Pasca- Produksi Film, Video dan Program Televisi",
+      "total_assets": 127340000,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Hobi Bikin Triliunan",
+      "business_type": "Aktivitas Penerbitan, Aktivitas Produksi Gambar Bergerak, Video dan Program Televisi Perekaman Suara, dan Penerbitan Musik, Aktivitas Profesional, Ilmiah dan Teknis Lainnya, Aktivitas Jasa Informasi",
+      "total_assets": 121828201,
+      "ownership_percentage": 66
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Suharli, Sugiharto & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.478.018.950.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:03.207Z"
+}

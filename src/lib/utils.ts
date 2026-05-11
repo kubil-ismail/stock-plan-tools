@@ -262,3 +262,12 @@ export const formatDecimal = (
 
   return result; // default atau "+"
 };
+
+export const normalizeSlug = (text: string) =>
+  text
+    .toLowerCase()
+    .replace(/[^\w\s]/g, "") // hapus titik, koma, dll
+    .replace(/\s+/g, " ")
+    .trim()
+    .split(" ")
+    .join("-");

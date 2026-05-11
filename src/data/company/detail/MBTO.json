@@ -1,0 +1,223 @@
+{
+  "company_name": "Martina Berto Tbk",
+  "ticker": "MBTO",
+  "office_address": "Jl. Pulo Kambing II No. 1 Kawasan Industri Pulo Gadung Jakarta 13930 Indonesia",
+  "email": "corpsecretary@martinaberto.co.id",
+  "phone": "021-460-3717",
+  "fax": "021-468-26316",
+  "tax_id": "01.308.874.5-054.000",
+  "website": "https://www.martinaberto.co.id",
+  "listing_date": "2011-01-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Perawatan Kecantikan termasuk Kosmetika dan Jamu",
+    "business_summary": "Perusahaan bergerak di bidang Produk Perawatan Tubuh.",
+    "business_tags": [
+      "Produk Perawatan Tubuh"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Muhammad Shabri Hasan",
+    "email": "mshasan@martinaberto.co.id",
+    "phone": "+6221 4603717"
+  },
+  "directors": [
+    {
+      "name": "Bryan David Emil",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kilala Tilaar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jos Irwin Hartanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Martha Tilaar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ratna Handana",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Purba Sibarani, Se",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tjan Hong Tjhiang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Philipus Neri, Ba",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Marthana Megahayu Inti, PT",
+      "type": "Lebih dari 5%",
+      "shares": 714999990,
+      "percentage": 66.82
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 354510500,
+      "percentage": 33.13
+    },
+    {
+      "name": "Bryan David Emil",
+      "type": "Direksi",
+      "shares": 422000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Kilala Tilaar",
+      "type": "Direksi",
+      "shares": 67500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 10,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cedefindo",
+      "business_type": "Pabrikasi",
+      "total_assets": 172806118835,
+      "ownership_percentage": 99.998
+    },
+    {
+      "name": "PT Cedefindo",
+      "business_type": "Pabrikasi",
+      "total_assets": 150155729565,
+      "ownership_percentage": 99.998
+    },
+    {
+      "name": "PT Cedefindo",
+      "business_type": "Pabrikasi",
+      "total_assets": 150150111685,
+      "ownership_percentage": 99.998
+    },
+    {
+      "name": "PT Cedefindo",
+      "business_type": "Pabrikasi",
+      "total_assets": 143630098059,
+      "ownership_percentage": 99.998
+    },
+    {
+      "name": "PT Cedefindo",
+      "business_type": "Pabrikasi",
+      "total_assets": 127934251834,
+      "ownership_percentage": 99.998
+    },
+    {
+      "name": "PT Tara Parama Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 17816436675,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Tara Parama Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 16788562554,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Tara Parama Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 16420072993,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Tara Parama Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 15933109302,
+      "ownership_percentage": 99.999
+    },
+    {
+      "name": "PT Tara Parama Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 14385293561,
+      "ownership_percentage": 99.999
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "130.540.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:25.455Z"
+}

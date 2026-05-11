@@ -1,0 +1,227 @@
+{
+  "company_name": "PT Astrindo Nusantara Infrastruktur Tbk.",
+  "ticker": "BIPI",
+  "office_address": "Sopo Del Tower B, Lt. 21 Jl. Mega Kuningan Barat Iii, Lot.10.1-6 Jakarta 12950",
+  "email": "corsec@astrindonusantara.com",
+  "phone": "021-5081 5252",
+  "fax": "021- 5081 5253",
+  "tax_id": "21.006.408.5-081.000",
+  "website": "https://www.astrindonusantara.com",
+  "listing_date": "2010-02-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Crude Petroleum and Natural Gas Prod.",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Kurniawati Budiman",
+    "email": "corsec@benakat.co.id",
+    "phone": "0215764661"
+  },
+  "directors": [
+    {
+      "name": "Raymond Anthony Gerungan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wong Michael",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdy Yustianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andreas Kastono Ahadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dwi Wahyu Daryoto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Achmad Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andi Ariefandra Putra Jakile",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hermawan Chandra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs. Kanaka Puradiredja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rodion Wikanto Njotowidjojo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indra Safitri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 39438181204,
+      "percentage": 61.91
+    },
+    {
+      "name": "PT Indotambang Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 12352555813,
+      "percentage": 19.39
+    },
+    {
+      "name": "Cgs-cimb Securities (singapore) Pte Ltd A-c Morgan Stanley (odd Lots)",
+      "type": "Lebih dari 5%",
+      "shares": 8095170166,
+      "percentage": 12.7
+    },
+    {
+      "name": "PT Bakrie Capital Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 3822619800,
+      "percentage": 6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michael Wong",
+      "type": "Direksi",
+      "shares": 1670000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sintesa Bara Gemilang",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 638407676,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumatera Graha Energi",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 12826273,
+      "ownership_percentage": 50.14
+    },
+    {
+      "name": "PT Mahakarya Kapital Indonesia",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 4254070,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Begawan Energi Sejati",
+      "business_type": "Jasa Angkutan",
+      "total_assets": 35971,
+      "ownership_percentage": 40.58
+    },
+    {
+      "name": "PT Paramita Bahari Andalan",
+      "business_type": "Jasa Angkutan",
+      "total_assets": 35971,
+      "ownership_percentage": 40.58
+    },
+    {
+      "name": "PT Sumatera Graha Infrastruktur",
+      "business_type": "Jasa dan Perdagangan",
+      "total_assets": 30688,
+      "ownership_percentage": 57.52
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.290.447.260.080",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:23.031Z"
+}

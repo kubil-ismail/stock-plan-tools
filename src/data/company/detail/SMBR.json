@@ -1,0 +1,212 @@
+{
+  "company_name": "PT Semen Baturaja (persero) Tbk",
+  "ticker": "SMBR",
+  "office_address": "Jl. Raya Tiga Gajah Baturaja Ogan Komering Ulu 32117",
+  "email": "corsec.smbr@sig.id",
+  "phone": "(62) 735 320344, 320366, 320368",
+  "fax": "(62) 735 320367",
+  "tax_id": "0010 0211 5205 1000",
+  "website": "https://www.semenbaturaja.co.id",
+  "listing_date": "2013-06-28",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Persemenan dan Kimia Dasar Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Hari Liandu",
+    "email": "hari.liandu@sig.id",
+    "phone": "(0711) 511261"
+  },
+  "directors": [
+    {
+      "name": "Suherman Yahya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Taufik Ibrahim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rahmat Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Inosentius Samsul",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Chowadja Sanova",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dzulfikar Ahmad",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Feryzal Adam",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Feryzal Adham",
+      "position": "Ketua"
+    },
+    {
+      "name": "M. Nur A. Birton",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ramza Aziz",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Semen Indonesia (persero) Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 7499999999,
+      "percentage": 75.51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1648433218,
+      "percentage": 16.5958
+    },
+    {
+      "name": "PT Asuransi Jiwa Ifg - Ifg Life Dana Cadangan Bunga Mengambang - Migrasi",
+      "type": "Lebih dari 5%",
+      "shares": 784084300,
+      "percentage": 7.894
+    },
+    {
+      "name": "Suherman Yahya",
+      "type": "Direksi",
+      "shares": 16098,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 101,
+      "percentage": 0
+    },
+    {
+      "name": "Taufik",
+      "type": "Direksi",
+      "shares": 620,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Baturaja Multi Usaha",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat & Jasa",
+      "total_assets": 139059293,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Baturaja Multi Usaha",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat dan Jasa/trading",
+      "total_assets": 119302091,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Baturaja Multi Usaha",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat & Jasa",
+      "total_assets": 117680208,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Baturaja Multi Usaha",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat & Jasa",
+      "total_assets": 110540717,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Baturaja Multi Usaha",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pengangkutan Darat & Jasa",
+      "total_assets": 110540717,
+      "ownership_percentage": 99.94
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.145.427.416.576",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:01.496Z"
+}

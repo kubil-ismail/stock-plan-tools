@@ -1,0 +1,286 @@
+{
+  "company_name": "PT Lautan Luas Tbk",
+  "ticker": "LTLS",
+  "office_address": "Gedung Graha Indramas Lt.6-12 Jl. AIP II Ks.tubun Raya, 77, Slipi, Pal Merah, Kota Adm. Jakarta Barat, Dki Jakarta, 11410",
+  "email": "info@lautan-luas.com",
+  "phone": "(021) 80660777",
+  "fax": "-",
+  "tax_id": "0013159009054000",
+  "website": "https://www.lautan-luas.com",
+  "listing_date": "1997-07-21",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Distribusi Bahan Kimia",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Keyne Fredella Kristanto",
+    "email": "keyne.fredella@lautan-luas.com",
+    "phone": "(021) 80660777"
+  },
+  "directors": [
+    {
+      "name": "Indrawan Masrin",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Joshua Chandraputra Asali",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Soewandhi Soekamto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Elly Mariana Tansil M",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendrik Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Subakti Setiawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Isien Fudianto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pranata Hajadi",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Diah Maulida, M.a.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Rifana Erni",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. R. Benny Wachjudi, M.b.a.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Jhonny Siahaan, S.h., m.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir. R. Benny Wachjudi, Mba",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nancy Nataleo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Diane Christina",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Caturkarsa Megatunggal",
+      "type": "Lebih dari 5%",
+      "shares": 882864000,
+      "percentage": 56.59
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 557543600,
+      "percentage": 35.74
+    },
+    {
+      "name": "PT Lautan Luas Tbk (treasury)",
+      "type": "Lebih dari 5%",
+      "shares": 95311200,
+      "percentage": 6.11
+    },
+    {
+      "name": "Pranata Hajadi",
+      "type": "Komisaris",
+      "shares": 9559000,
+      "percentage": 0.61
+    },
+    {
+      "name": "Indrawan Masrin",
+      "type": "Direksi",
+      "shares": 8991000,
+      "percentage": 0.58
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5731200,
+      "percentage": 0.37
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Lautan Natural Krimerindo",
+      "business_type": "Produsen Krimer Nabati",
+      "total_assets": 924458,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Lautan Luas Singapore Pte., Ltd.",
+      "business_type": "Distribusi",
+      "total_assets": 882603,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cipta Mapan Logistik",
+      "business_type": "Jasa",
+      "total_assets": 494061,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dunia Kimia Jaya",
+      "business_type": "Produsen Kimia",
+      "total_assets": 486772,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Liku Telaga",
+      "business_type": "Produsen Kimia",
+      "total_assets": 427995,
+      "ownership_percentage": 53.38
+    },
+    {
+      "name": "PT Lautan Air Indonesia (sebelumnya Disebut PT Pacinesia Chemical Industry)",
+      "business_type": "Produsen Kimia",
+      "total_assets": 276911,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Indonesian Acid Industry",
+      "business_type": "Produsen Kimia",
+      "total_assets": 98502,
+      "ownership_percentage": 53.38
+    },
+    {
+      "name": "PT Dunia Kimia Utama",
+      "business_type": "Produsen Kimia",
+      "total_assets": 56963,
+      "ownership_percentage": 53.38
+    },
+    {
+      "name": "PT Lautan Sweetener Indonesia",
+      "business_type": "Produsen Glukosa",
+      "total_assets": 56221,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Strategic Partner Solution",
+      "business_type": "Jasa",
+      "total_assets": 36185,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mahkota Indonesia",
+      "business_type": "Produsen Kimia",
+      "total_assets": 35739,
+      "ownership_percentage": 53.38
+    },
+    {
+      "name": "PT Lautan Solusiair Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 6650,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Lautan Jasaindo",
+      "business_type": "Jasa",
+      "total_assets": 6105,
+      "ownership_percentage": 99.06
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.216.800.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:02.325Z"
+}

@@ -1,0 +1,173 @@
+{
+  "company_name": "PT Asuransi Maximus Graha Persada Tbk.",
+  "ticker": "ASMI",
+  "office_address": "18 Parc Place, Sudirman Central Business District (SCBD), Tower B, Lantai 8 Suite A, Jalan Jenderal Sudirman Kaveling 52-53, Rt 005, Rw 003, Kelurahan Senayan, Kecamatan Kebayoran Baru, Kota Administrasi Jakarta Selatan 12190,",
+  "email": "corporate.secretary@asuransimaximus.com",
+  "phone": "(62-21) 51400388",
+  "fax": "0",
+  "tax_id": "01.371.047.0-054.000",
+  "website": "https://www.asuransimaximus.com",
+  "listing_date": "2014-01-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Asuransi Kerugian",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Norvin Osel",
+    "email": "corporate.secretary@asuransimaximus.com",
+    "phone": "021-65311150"
+  },
+  "directors": [
+    {
+      "name": "Jemmy Atmadja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Norvin Osel",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lianny",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muhamad Idrus",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Magit Les Denny Tewu",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Sudjaka",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Muhamad Idrus",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hendra Sudjaka",
+      "position": "Anggota"
+    },
+    {
+      "name": "Patrick Henry Adam",
+      "position": "Anggota"
+    },
+    {
+      "name": "Theresia Maha",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bramantyo Djohanputro",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6183956660,
+      "percentage": 69.03
+    },
+    {
+      "name": "PT Asuransi Jiwa Kresna",
+      "type": "Lebih dari 5%",
+      "shares": 2684208800,
+      "percentage": 29.96
+    },
+    {
+      "name": "PT Indomitra Prima Sejati",
+      "type": "Lebih dari 5%",
+      "shares": 90215000,
+      "percentage": 1.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "170.209.228.740",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:37.759Z"
+}

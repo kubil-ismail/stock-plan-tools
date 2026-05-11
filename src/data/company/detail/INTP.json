@@ -1,0 +1,433 @@
+{
+  "company_name": "Indocement Tunggal Prakarsa Tbk",
+  "ticker": "INTP",
+  "office_address": "Wisma Indocement Lantai 13, Jalan Jenderal Sudirman Kav. 70-71 Jakarta 12910",
+  "email": "corpsec@indocement.co.id",
+  "phone": "021-8754343 ext 3808",
+  "fax": "021-87941166",
+  "tax_id": "01.062.119.1-092.000",
+  "website": "http://www.indocement.co.id",
+  "listing_date": "1989-12-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Semen",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Dani Handajani",
+    "email": "dani.handajani@indocement.co.id",
+    "phone": "0218754343 (ext 3808)"
+  },
+  "directors": [
+    {
+      "name": "Christian Kartawijaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Benny Setiawan Santoso",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hasan Imer",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Troy Dartojo Soputro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Oey Marcos",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Holger Morch",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sunnira Ly",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Roberto Callieri",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tedy Djuhar",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Simon Subrata",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Franciscus Welirang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Juan Francisco Defalque",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rene Samir Aldach",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Suharso Monoarfa",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Simon Subrata",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ancella Anitawati Hermawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ludivicus Sensi Wondabio",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Heidelberg Materials Ag",
+      "type": "Lebih dari 5%",
+      "shares": 1877480863,
+      "percentage": 53.4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1404937211,
+      "percentage": 39.97
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 231878600,
+      "percentage": 6.59
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1306125,
+      "percentage": 0.04
+    },
+    {
+      "name": "Roberto Callieri",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tedy Djuhar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Simon Subrata",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Franciscus Welirang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Juan Francisco Defalque",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rene Samir Aldach",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suharso Monoarfa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Christian Kartawijaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benny Setiawan Santoso",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hasan Imer",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Troy Dartojo Soputro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Oey Marcos",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Holger Morch",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sunnira Ly",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Semen Grobogan",
+      "business_type": "Pabrikasi Semen",
+      "total_assets": 6063492,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dian Abadi Perkasa",
+      "business_type": "Distributor Semen",
+      "total_assets": 2887711,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Pionirbeton Industri",
+      "business_type": "Pabrikasi Beton Siap Pakai",
+      "total_assets": 892234,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mandiri Sejahtera Sentra",
+      "business_type": "Tambang Agregat",
+      "total_assets": 757534,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tarabatuh Manunggal",
+      "business_type": "Tambang Agregat",
+      "total_assets": 574459,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Indomix Perkasa",
+      "business_type": "Pabrikasi Beton Siap Pakai",
+      "total_assets": 534479,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bahana Indonor",
+      "business_type": "Pelayaran",
+      "total_assets": 365762,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cipta Armada Bersama",
+      "business_type": "Pelayaran",
+      "total_assets": 137193,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Multi Bangun Galaxy",
+      "business_type": "Pengelolaan Pelabuhan",
+      "total_assets": 97136,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Lintas Bahana Abadi",
+      "business_type": "Pelayaran",
+      "total_assets": 73984,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mineral Industri Sukabumi",
+      "business_type": "Tambang Trass",
+      "total_assets": 68435,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sahabat Muliasakti",
+      "business_type": "-",
+      "total_assets": 39655,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Semesta Perkasa Cipta",
+      "business_type": "-",
+      "total_assets": 32408,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhakti Sari Perkasa Abadi",
+      "business_type": "Jasa Penyediaan Tenaga Kerja",
+      "total_assets": 27698,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sari Bhakti Sejati",
+      "business_type": "Investasi",
+      "total_assets": 18346,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tigaroda Rumah Sejahtera",
+      "business_type": "-",
+      "total_assets": 15433,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tiro Abadi Perkasa",
+      "business_type": "-",
+      "total_assets": 7954,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Makmur Lestari Indonesia",
+      "business_type": "-",
+      "total_assets": 6943,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Makmur Lestari Abadi",
+      "business_type": "-",
+      "total_assets": 4286,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kencana Terang Sejahtera",
+      "business_type": "-",
+      "total_assets": 2581,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sinar Sakti Agung",
+      "business_type": "-",
+      "total_assets": 1783,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Makmur Lestari Sentosa",
+      "business_type": "-",
+      "total_assets": 589,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Terang Prakarsa Cipta",
+      "business_type": "Batu Kapur",
+      "total_assets": 481,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Lentera Abadi Sejahtera",
+      "business_type": "Investasi",
+      "total_assets": 91,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Makmur Abadi Perkasa Mandiri",
+      "business_type": "Investasi",
+      "total_assets": 43,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "18.281.134.554.800",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:50.253Z"
+}

@@ -1,0 +1,262 @@
+{
+  "company_name": "PT Carsurin Tbk",
+  "ticker": "CRSN",
+  "office_address": "Soho Capital, 28th Floor Jl. Letjen S. Parman Kav.28 Grogol Petamburan, Jakarta Baratsoho Capital, 28th Floor Jl. Letjen S. Parman Kav.28 Grogol Petamburan, Jakarta Barat",
+  "email": "corpsec@carsurin.com",
+  "phone": "+62 21 5022 6868",
+  "fax": "",
+  "tax_id": "01.307.141.0-073.000",
+  "website": "https://www.carsurin.com",
+  "listing_date": "2023-07-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Testing, Inspection, Certification",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 15,
+    "name": "Jasa Profesional"
+  },
+  "sub_industry": {
+    "id": 28,
+    "name": "Jasa Penelitian & Konsultasi",
+    "industries_id": 15
+  },
+  "corporate_secretary": {
+    "name": "Ary Khristiani",
+    "email": "corpsec@carsurin.com",
+    "phone": "+62 21 50226868"
+  },
+  "directors": [
+    {
+      "name": "Erwin Manurung",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Theresia Ivonne",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Debasish Mohapatra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "-",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sheila Maria Tiwan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ruth Panjaitan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Timotius Nugraha Tjahjana",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ruth Panjaitan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Evangelista Ervandy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lusiana Al Lusi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sheila Maria Tiwan",
+      "type": "Komisaris",
+      "shares": 1447139400,
+      "percentage": 50.04
+    },
+    {
+      "name": "Flora Regina Regian",
+      "type": "Lebih dari 5%",
+      "shares": 852624000,
+      "percentage": 29.48
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 592236600,
+      "percentage": 20.48
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Timotius Nugraha Tjahjana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ruth Panjaitan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Erwin Manurung",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Theresia Ivonne",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Debasish Mohapatra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Carsurin Emobility Solutions",
+      "business_type": "Jasa Pengujian Laboraturium",
+      "total_assets": 25000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Carsurin Oil & Gas Services",
+      "business_type": "Instalasi Minyak dan Gas",
+      "total_assets": 16756070716,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Carsurin Uav Solutions",
+      "business_type": "Perdagangan Besar Mesin, Peralatan dan Perlengkapan Lainnya",
+      "total_assets": 16545838766,
+      "ownership_percentage": 91.8
+    },
+    {
+      "name": "PT Carsurin Minerals Solutions",
+      "business_type": "Jasa Pengujian Laboraturium, Pertambangan dan Penggalian Lainnya, Analisis dan Uji Teknis Lainnya, Aktivitas Professional, Ilmiah dan Teknis Lainnya Ytdl, Aktivitas Konsultasi Bisnis dan Broker Bisnis, Jasa Kehutanan Bidang Perencanaan Kehutanan",
+      "total_assets": 7624278472,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Carsurin Indo Mineral",
+      "business_type": "Aktivitas Professional, Jasa Pengujian Laboraturium, Pertambangan dan Penggalian Lainnya, Analisis dan Uji Teknis Lainnya, Aktivitas Professional, Ilmiah dan Teknis Lainnya Ytdl, Aktivitas Konsultasi Bisnis dan Broker Bisnis, Jasa Kehutanan Bidang Perencanaan Kehutanan",
+      "total_assets": 250000000,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "318.120.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:34.119Z"
+}

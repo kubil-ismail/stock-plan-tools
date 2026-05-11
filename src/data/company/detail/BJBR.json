@@ -1,0 +1,270 @@
+{
+  "company_name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+  "ticker": "BJBR",
+  "office_address": "Menara Bank Bjb, Jl. Naripan No. 12-14, Bandung, Jawa Barat 40111",
+  "email": "ir@bankbjb.co.id",
+  "phone": "022-4234868",
+  "fax": "022-4206099",
+  "tax_id": "01.118.605.3-054.000",
+  "website": "https://www.bankbjb.co.id",
+  "listing_date": "2010-07-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Sani Ikhsan Maulana",
+    "email": "ir@bankbjb.co.id",
+    "phone": "(022) 423 4868"
+  },
+  "directors": [
+    {
+      "name": "Ayi Subarna",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Asep Dani Fadillah",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Hana Dartiwan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Nunung Suhartini",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mulyana",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Muhammad As'adi Budiman",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Herfinia",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Susi Pudjiastuti",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Novian Herodwijanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Eydu Oktain Panjaitan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rudie Kusmayadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tomsi Tohir",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Herman Suryatman",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Novian Herodwijanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Atty Yuniawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "M. Herianto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pemda Provinsi Jawa Barat",
+      "type": "Lebih dari 5%",
+      "shares": 4053172595,
+      "percentage": 38.52
+    },
+    {
+      "name": "Pemda Se-jawa Barat dan Banten",
+      "type": "Lebih dari 5%",
+      "shares": 3133499547,
+      "percentage": 29.78
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2572144878,
+      "percentage": 24.4534
+    },
+    {
+      "name": "Pemda Kabupaten Bandung",
+      "type": "Lebih dari 5%",
+      "shares": 761921189,
+      "percentage": 7.24
+    },
+    {
+      "name": "Hana Dartiwan",
+      "type": "Direksi",
+      "shares": 380531,
+      "percentage": 0.0036
+    },
+    {
+      "name": "Tomsi Tohir",
+      "type": "Komisaris",
+      "shares": 150714,
+      "percentage": 0.0014
+    },
+    {
+      "name": "Rudie Kusmayadi",
+      "type": "Komisaris",
+      "shares": 150714,
+      "percentage": 0.0014
+    },
+    {
+      "name": "Ayi Subarna",
+      "type": "Direksi",
+      "shares": 23500,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Asadi Budiman",
+      "type": "Direksi",
+      "shares": 18,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Jabar Banten Syariah",
+      "business_type": "Keuangan",
+      "total_assets": 16214023,
+      "ownership_percentage": 99.24
+    },
+    {
+      "name": "PT Bank Pembangunan Daerah Jambi",
+      "business_type": "Keuangan",
+      "total_assets": 15388800,
+      "ownership_percentage": 7.75
+    },
+    {
+      "name": "PT Bank Pembangunan Daerah Bengkulu",
+      "business_type": "Keuangan",
+      "total_assets": 11190793,
+      "ownership_percentage": 15.54
+    },
+    {
+      "name": "PT Bpr Intan Jabar",
+      "business_type": "Keuangan",
+      "total_assets": 457037,
+      "ownership_percentage": 10.92
+    },
+    {
+      "name": "PT Bjb Sekuritas Jawa Barat",
+      "business_type": "Keuangan",
+      "total_assets": 36234,
+      "ownership_percentage": 93.75
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "9.062.119.446.630",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:27.587Z"
+}

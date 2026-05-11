@@ -1,0 +1,457 @@
+{
+  "company_name": "PT Gts Internasional Tbk",
+  "ticker": "GTSI",
+  "office_address": "Mangkuluhur City Tower One Lantai 26 Jl. Jend. Gatot Subroto Kav. 1-3 Jakarta 12930, Indonesia",
+  "email": "corpsec@gtsi.co.id",
+  "phone": "(021) 50933163",
+  "fax": "(021) 50966343",
+  "tax_id": "03.255.267.1-063.000",
+  "website": "http://gtsi.co.id",
+  "listing_date": "2021-09-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Distribusi Gas Alam dan Buatan, Angkutan Laut Dalam Negeri untuk Barang Khusus,Angkutan Laut Luar Negeri untuk Barang Khusus, dan Aktivitas Perusahaan Holding;",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Tuti Yuliyani",
+    "email": "corpsec@gtsi.co.id",
+    "phone": "021-50933163"
+  },
+  "directors": [
+    {
+      "name": "Yon Irawan, Se",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Asty Winasty",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Rudi Satwiko, Msc",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Suharno",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Suharno",
+      "position": "Ketua"
+    },
+    {
+      "name": "J.t. Duma",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mirawati Sudjono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Humpuss Maritim Internasional",
+      "type": "Lebih dari 5%",
+      "shares": 13414263079,
+      "percentage": 84.8
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2400000000,
+      "percentage": 15.17
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 4879688,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Hikmah Sarana Bahari",
+      "business_type": "Angkutan Laut dan Aktivitas Penunjang Angkutan",
+      "total_assets": 45226486,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Hikmah Sarana Bahari",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 43506812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hikmah Sarana Bahari",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 43506812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hikmah Sarana Bahari",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 43506812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hikmah Sarana Bahari",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 42266806,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hikmah Sarana Bahari (hsb)",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 40578716,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hikmah Sarana Bahari (hsb)",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 39799790,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bhaskara Inti Samudera (bis)",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 30412937,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bhaskara Inti Samudera (bis)",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 29898849,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bhaskara Inti Samudera",
+      "business_type": "Jasa Pengakutan Laut (pelayaran) dalam Negeri",
+      "total_assets": 29794200,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Permata Khatulistiwa Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 28588499,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permata Khatulistiwa Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 28588499,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permata Khatulistiwa Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 28588499,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permata Khatulistiwa Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 27928253,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhaskara Inti Samudera",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 27230844,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bhaskara Inti Samudera",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 27230844,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bhaskara Inti Samudera",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 27230844,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Permata Khatulistiwa Regas (pkr)",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 26973449,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permata Khatulistiwa Regas (pkr)",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 26727757,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anoa Sulawesi Regas",
+      "business_type": "Angkutan Laut dan Aktivitas Penunjang Angkutan",
+      "total_assets": 25837675,
+      "ownership_percentage": 88.22
+    },
+    {
+      "name": "PT Bhaskara Inti Samudera",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 25678371,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Permata Khatulistiwa Regas",
+      "business_type": "Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 22242486,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anoa Sulawesi Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3406824,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anoa Sulawesi Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3406824,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anoa Sulawesi Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3406824,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anoa Sulawesi Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3161607,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anoa Sulawesi Regas (anoa)",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3139860,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anoa Sulawesi Regas (anoa)",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3063523,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Gaschem Perkasa",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 2643722,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Gaschem Perkasa",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 2643722,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Gaschem Perkasa",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 2643722,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Lng Perkasa",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 2643458,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Humolco Lng Indonesia",
+      "business_type": "Jasa Manajemen Kapal",
+      "total_assets": 2205858,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Humolco Lng Indonesia",
+      "business_type": "Jasa Manajemen Kapal",
+      "total_assets": 2205858,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Humolco Lng Indonesia",
+      "business_type": "Jasa Manajemen Kapal",
+      "total_assets": 2205858,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Humolco Lng Indonesia",
+      "business_type": "Jasa Manajemen Kapal",
+      "total_assets": 2164257,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Humolco Lng Indonenesia",
+      "business_type": "Jasa, Pengangkutan dan Perdagangan",
+      "total_assets": 1963883,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Humolco Lng Indonesia (hli)",
+      "business_type": "Jasa Managemen Kapal",
+      "total_assets": 1912516,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Humolco Lng Indonesia (hli)",
+      "business_type": "Jasa Managemen Kapal",
+      "total_assets": 1629097,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "Gts Energy Trading Pte. Ltd",
+      "business_type": "Perusahaan Perdagangan",
+      "total_assets": 94133,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gts Energy Trading Pte. Ltd",
+      "business_type": "Perusahaan Perdagangan",
+      "total_assets": 94133,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gts Energy Trading Pte. Ltd",
+      "business_type": "Perusahaan Perdagangan",
+      "total_assets": 94133,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gts Energy Trading Pte. Ltd",
+      "business_type": "Perusahaan Perdagangan",
+      "total_assets": 76543,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.480.211.408.740",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:16.498Z"
+}

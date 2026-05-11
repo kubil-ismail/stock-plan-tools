@@ -1,0 +1,600 @@
+{
+  "company_name": "PT Apollo Global Interactive Tbk",
+  "ticker": "BOGA",
+  "office_address": "Jl. S. Supriadi No. 19 - 22 Sukun, Malang",
+  "email": "cs@bintangotoglobal.com",
+  "phone": "0341-363499",
+  "fax": "0341-299051",
+  "tax_id": "03.185.108.2-012.000",
+  "website": "https://www.bintangotoglobal.com",
+  "listing_date": "2016-12-19",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan dan melakukan investasi pada entitas anak yang bergerak pada bidang perdagangan kendaraan, suku cadang, jasa perawatan dan perbaikan kendaraan serta penyewaan kendaraan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Otomotif.",
+    "business_tags": [
+      "Teknologi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 90,
+    "name": "Ritel Otomotif",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Albert Witono Setiawan",
+    "email": "cs@bintangotoglobal.com",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Albert Witono Setiawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Farras Pina",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Romeo Lledo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Marjorie E Wairizal, Se",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eko Nugroho Tjahjadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Devana Sugandhy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rini Ardiyanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2681389210,
+      "percentage": 70.5
+    },
+    {
+      "name": "Gx Archipelago Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1122137075,
+      "percentage": 29.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sumber Utama Niaga",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 681217387101,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sumber Utama Niaga",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 592318077323,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sumber Utama Niaga",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 569882417017,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sumber Utama Niaga",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 549001407957,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sumber Utama Niaga",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 548013793955,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sinar Usaha Nusantara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 467276661596,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sinar Usaha Nusantara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 466300726203,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sinar Usaha Nusantara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 465733974745,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sinar Usaha Nusantara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 461343457768,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sinar Usaha Nusantara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 458989379446,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Artha Guna",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 196132522769,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bintang Artha Guna",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 172842099325,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bintang Artha Guna",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 172842099325,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bintang Artha Guna",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 172842099325,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bintang Artha Guna",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 159935754512,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Surya Anugrah Gempita",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 131070203126,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Surya Anugrah Gempita",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 123057309180,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Surya Anugrah Gempita",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 121291335538,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Surya Anugrah Gempita",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 120729310074,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Surya Anugrah Gempita",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 110698875138,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bintang Perkasa Mobilindo",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 95067014802,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bintang Dewata Abadi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 81670470767,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Perkasa Mobilindo",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 75836361121,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bintang Perkasa Mobilindo",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 75836361121,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Sejahtera Bersama Motor",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 74993400940,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sejahtera Bersama Motor",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 73836361121,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintang Perkasa Mobilindo",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 73029183706,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Sejahtera Bersama Motor",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 69911050375,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sejahtera Bersama Motor",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 68177645862,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintang Artha Global",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 64361646176,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Bintang Artha Global",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 64361646176,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Bintang Perkasa Mobilindo",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 62906914522,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bintang Artha Global",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 62775312045,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Bintang Dewata Abadi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 61534854005,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Dewata Abadi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 59744734895,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Artha Global",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 58623608111,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Sejahtera Bersama Motor",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 58588240665,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintang Artha Global",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pertambangan, Pengangkutan Darat, Pertanian, Percetakan, dan Jasa Kecuali Jasa di Bidang Hukum dan Pajak",
+      "total_assets": 58192842084,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Bintang Dewata Abadi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 57589326102,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Dewata Abadi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 54932792352,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tunas Agung Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 39800000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tunas Agung Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 39800000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tunas Agung Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 39800000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tunas Agung Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 39800000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Tunas Agung Perdana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 39800000000,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Semesta Arjuna Gemilang",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 5087500000,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Semesta Arjuna Gemilang",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 5087500000,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Semesta Arjuna Gemilang",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 5087500000,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Semesta Arjuna Gemilang",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 5087500000,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Semesta Arjuna Gemilang",
+      "business_type": "Jasa, Industri dan Perdagangan",
+      "total_assets": 5087500000,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Bintang Digital Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 100001000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Digital Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 100001000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Digital Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 100001000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Digital Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 100001000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Digital Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,pertanian, dan Kehutanan",
+      "total_assets": 100001000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Mitra Dana",
+      "business_type": "Penyelenggara, Penyedia, Pengelola dan Mengoperasikan Layanan Pinjam Meminjam Uang Berbasis Teknologi Informasi",
+      "total_assets": 100000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Mitra Dana",
+      "business_type": "Penyelenggara, Penyedia, Pengelola dan Mengoperasikan Layanan Pinjam Meminjam Uang Berbasis Teknologi Informasi",
+      "total_assets": 100000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Mitra Dana",
+      "business_type": "Penyelenggara, Penyedia, Pengelola dan Mengoperasikan Layanan Pinjam Meminjam Uang Berbasis Teknologi Informasi",
+      "total_assets": 100000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Mitra Dana",
+      "business_type": "Penyelenggara, Penyedia, Pengelola dan Mengoperasikan Layanan Pinjam Meminjam Uang Berbasis Teknologi Informasi",
+      "total_assets": 100000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bintang Mitra Dana",
+      "business_type": "Penyelenggara, Penyedia, Pengelola dan Mengoperasikan Layanan Pinjam Meminjam Uang Berbasis Teknologi Informasi",
+      "total_assets": 100000000,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Achmad, Suharli & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.401.007.218.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:58.655Z"
+}

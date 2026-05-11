@@ -1,0 +1,209 @@
+{
+  "company_name": "PT Platinum Wahab Nusantara Tbk.",
+  "ticker": "TGUK",
+  "office_address": "Ruko Golden Square Blok Gs No. 2 Jl. Ciater Raya, Kel. Mekarjaya, Kec. Serpong, Tangerang Selatan, Banten 15321",
+  "email": "corporatesecretary@teguk.co.id",
+  "phone": "(021) 53160311",
+  "fax": "",
+  "tax_id": "85.112.714.2-411.000",
+  "website": "https://www.teguk.co.id",
+  "listing_date": "2023-07-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang kedai makanan dan minuman",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 81,
+    "name": "Produk Susu Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Riza Mauluddin",
+    "email": "corporatesecretary@teguk.co.id",
+    "phone": "(021) 53160311"
+  },
+  "directors": [
+    {
+      "name": "Maulana Hakim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Suhada",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Antonius Bobby Siswanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Wijanarko",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Najib Wahab Mauluddin",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Wijanarko",
+      "position": "Ketua"
+    },
+    {
+      "name": "Muhammad Ihda Ainun Najib",
+      "position": "Anggota"
+    },
+    {
+      "name": "Marcelino",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dinasti Kreatif Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2476250000,
+      "percentage": 69.33
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 714767515,
+      "percentage": 20.02
+    },
+    {
+      "name": "Antony Lesmana",
+      "type": "Lebih dari 5%",
+      "shares": 266787600,
+      "percentage": 7.47
+    },
+    {
+      "name": "Antonius Bobby",
+      "type": "Komisaris",
+      "shares": 89896700,
+      "percentage": 2.52
+    },
+    {
+      "name": "Maulana Hakim",
+      "type": "Direksi",
+      "shares": 11875000,
+      "percentage": 0.33
+    },
+    {
+      "name": "Najib Wahab Mauluddin",
+      "type": "Komisaris",
+      "shares": 11875000,
+      "percentage": 0.33
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Griselda, Wisnu & Arum"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Griselda, Wisnu & Arum"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kap Griselda, Wisnu & Arum"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "489.288.898.655",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:27.135Z"
+}

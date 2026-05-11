@@ -1,0 +1,277 @@
+{
+  "company_name": "PT Hotel Fitra International Tbk",
+  "ticker": "FITT",
+  "office_address": "Jl. Kh Abdul Halim No. 88 Rt. 005 Rw. 008 Kab. Majalengka, Kulon Majalengka Jawa Barat 45418",
+  "email": "corsec.hotelfitra@gmail.com",
+  "phone": "(0233) 8292888",
+  "fax": "(0233) 8291888",
+  "tax_id": "03.346.647.5-077.000",
+  "website": "https://www.fitratbk.co.id",
+  "listing_date": "2019-06-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan Induk dalam bidang Jasa, Pengelolaan Hotel & Pariwisata",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Nanda Cindy Larasati Prihartono",
+    "email": "corsec.hotelfitra@gmail.com",
+    "phone": "(0233) 8292888"
+  },
+  "directors": [
+    {
+      "name": "Joni Rizal",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tomi Tris",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sukino",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ida Haerani",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Siti Rahayu",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ida Haerani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Evi Rosanah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Siswati Ningsih",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Jinlong Resources Investment",
+      "type": "Lebih dari 5%",
+      "shares": 1032397500,
+      "percentage": 79.16
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 271874551,
+      "percentage": 20.84
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Siti Rahayu",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ida Haerani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Joni Rizal",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tomi Tris",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sukino",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bumi Majalengka Permai",
+      "business_type": "Penyedian Penginapan (hotel dan Transit Hotel), Jasa Pengelolaan Hotel",
+      "total_assets": 5440090333054,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Majalengka Permai",
+      "business_type": "Penyedian Penginapan (hotel dan Transit Hotel), Jasa Pengelolaan Hotel",
+      "total_assets": 5440090333054,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Majalengka Permai",
+      "business_type": "Penyedian Penginapan (hotel dan Transit Hotel), Jasa Pengelolaan Hotel",
+      "total_assets": 5440090333054,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Majalengka Permai",
+      "business_type": "Penyedian Penginapan (hotel dan Transit Hotel), Jasa Pengelolaan Hotel",
+      "total_assets": 57445940337,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Majalengka Permai",
+      "business_type": "Penyedian Penginapan (hotel dan Transit Hotel), Jasa Pengelolaan Hotel",
+      "total_assets": 55305878935,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fitra Amanah Wisata",
+      "business_type": "Jasa Perjalanan Wisata, Penyelenggaraan dan Penjualan Paket Wisata yang Dijual, Penyediaan Layanan Pramuwisata",
+      "total_assets": 1426218943,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Fitra Amanah Wisata",
+      "business_type": "Jasa Perjalanan Wisata, Penyelenggaraan dan Penjualan Paket Wisata yang Dijual, Penyediaan Layanan Pramuwisata",
+      "total_assets": 1422616492,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Fitra Amanah Wisata",
+      "business_type": "Jasa Perjalanan Wisata, Penyelenggaraan dan Penjualan Paket Wisata yang Dijual, Penyediaan Layanan Pramuwisata",
+      "total_assets": 1404180986,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Fitra Amanah Wisata",
+      "business_type": "Jasa Perjalanan Wisata, Penyelenggaraan dan Penjualan Paket Wisata yang Dijual, Penyediaan Layanan Pramuwisata",
+      "total_assets": 1404180986,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Fitra Amanah Wisata",
+      "business_type": "Jasa Perjalanan Wisata, Penyelenggaraan dan Penjualan Paket Wisata yang Dijual, Penyediaan Layanan Pramuwisata",
+      "total_assets": 1404180986,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Chaeroni, Drs., & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Chaeroni, Drs., & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Suhartati, Dra., & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Dra. Suhartati & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Liasta, Nirwan, Syafruddin & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "521.708.820.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:29.188Z"
+}

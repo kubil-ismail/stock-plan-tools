@@ -1,0 +1,216 @@
+{
+  "company_name": "PT Futura Energi Global Tbk",
+  "ticker": "FUTR",
+  "office_address": "Gedung Graha Parama No. 69 A-b Lantai 1, Jalan K.h. Achmad Dahlan Rt 10 Rw 7 Kramat Pela, Kebayoran Baru, Jakarta Selatan, Dki Jakarta",
+  "email": "corporate@futr-group.com",
+  "phone": "(021) 726 0300",
+  "fax": "-",
+  "tax_id": "0431 2413 4801 6000",
+  "website": "https://futura-energi.com",
+  "listing_date": "2023-02-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang periklanan, aktivitas desain khusus film, video, program TV, animasi dan komik, aktivitas konsultasi manajemen lainnya, aktivitas pemrograman komputer lainnya, aktivitas pemrograman dan produksi konten media imersif, aktivitas pengelolahan data",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 72,
+    "name": "Periklanan",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Assyati Amadjida Tamimi M",
+    "email": "corporate@futr-group.com",
+    "phone": "(021) 765 9229"
+  },
+  "directors": [
+    {
+      "name": "Anggara Suryawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "E Andy Chrisna, Se",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dana Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Drs. Sutanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Maryanto, Se",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harry Maryanto, Se",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mohammad Mahfudin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Re Rudy Widjanarka",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3272089759,
+      "percentage": 49.309
+    },
+    {
+      "name": "PT Aurora Dhana Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 2985998000,
+      "percentage": 45
+    },
+    {
+      "name": "Vincent Ie Kok Hui",
+      "type": "Lebih dari 5%",
+      "shares": 376290100,
+      "percentage": 5.671
+    },
+    {
+      "name": "Anggara Suryawan",
+      "type": "Direksi",
+      "shares": 1174100,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Hexa Putra Mekanikal",
+      "business_type": "Jasa Instalasi Kontruksi, Perdagangan, Bahan dan Barang Kimia",
+      "total_assets": 36421158700,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Digital Eksplorasi Indonesia",
+      "business_type": "Informasi dan Komunikasi, Aktivitas Profesional, Ilmiah dan Teknis",
+      "total_assets": 9955173545,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.499.634.742.734",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:40.970Z"
+}

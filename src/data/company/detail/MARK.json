@@ -1,0 +1,273 @@
+{
+  "company_name": "PT Mark Dynamics Indonesia Tbk.",
+  "ticker": "MARK",
+  "office_address": "Jl. Pelita Barat No. 2, Kawasan Industri Medan Star Jalan Raya Medan Lubuk Pakam Km. 19,5 Tanjung Morawa, Deli Serdang, Sumatera Utara, Indonesia",
+  "email": "mdcps@nusa.net.id",
+  "phone": "(6261) 794 0715",
+  "fax": "(6261) 794 0747",
+  "tax_id": "02.177.929.3-125.000",
+  "website": "https://www.dynamicsgroup.co.id",
+  "listing_date": "2017-07-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "bidang industri pengolahan porselin berupa examination formers, surgical formers, household formers, custom made formers, dan industrial formers.",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Manufaktur.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 46,
+    "name": "Mesin & Komponen Perindustrian",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Yuriani Trisjoyo",
+    "email": "corsec@dynamic.co.id",
+    "phone": "0617940715"
+  },
+  "directors": [
+    {
+      "name": "Ridwan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sutiyoso Bin Risman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cahaya Dewi Boru Surbakti",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Riana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chow Kun Jian",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chin Kien Ping",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dompak Pasaribu",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dompak Pasaribu",
+      "position": "Ketua"
+    },
+    {
+      "name": "Daulat Sihombing",
+      "position": "Anggota"
+    },
+    {
+      "name": "Septony B. Siahaan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Tecable (hk) Co Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1610830489,
+      "percentage": 42.39
+    },
+    {
+      "name": "PT Dyna Capital Indo",
+      "type": "Lebih dari 5%",
+      "shares": 786413062,
+      "percentage": 20.7
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 749797857,
+      "percentage": 19.73
+    },
+    {
+      "name": "PT Mark Capital Indo",
+      "type": "Lebih dari 5%",
+      "shares": 584957747,
+      "percentage": 15.39
+    },
+    {
+      "name": "Sutiyoso Bin Risman",
+      "type": "Direksi",
+      "shares": 56682555,
+      "percentage": 1.49
+    },
+    {
+      "name": "Cahaya Dewi Br Surbakti",
+      "type": "Direksi",
+      "shares": 9028700,
+      "percentage": 0.24
+    },
+    {
+      "name": "Riana",
+      "type": "Direksi",
+      "shares": 799900,
+      "percentage": 0.02
+    },
+    {
+      "name": "Ridwan",
+      "type": "Direksi",
+      "shares": 640000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Chow Kun Jian",
+      "type": "Direksi",
+      "shares": 870000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Berjaya Dynamics Indonesia",
+      "business_type": "Perdagangan Peralatan dan Perlengkapan Pertanian",
+      "total_assets": 75343203730,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Megah Raya Sumatera",
+      "business_type": "Industri Peralatan Saniter dari Porselen",
+      "total_assets": 7798855815,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "Honour Tower Sdn. Bhd.",
+      "business_type": "Perdagangan Keramik Molding",
+      "total_assets": 204674830,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.097.000.252.650",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:17.862Z"
+}

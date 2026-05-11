@@ -1,0 +1,291 @@
+{
+  "company_name": "PT Saratoga Investama Sedaya Tbk.",
+  "ticker": "SRTG",
+  "office_address": "Menara Karya Lantai 15 Jl. Hr Rasuna Said Blok X-5, Kav 1-2, Jakarta Selatan 12950, Indonesia",
+  "email": "investor.relation@saratoga-investama.com",
+  "phone": "021 57944355",
+  "fax": "021 57944781",
+  "tax_id": "01.561.960.4-073.000",
+  "website": "https://www.http://saratoga-investama.com",
+  "listing_date": "2013-06-26",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas Perusahaan Holding",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Investasi.",
+    "business_tags": [
+      "Perusahaan Investasi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 77,
+    "name": "Perusahaan Investasi",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Divisi Hukum dan Sekretariat Perusahaan Dgn Penanggung Jawab Sandi Rahaju dan Juan Akbar Indraseno",
+    "email": "corporate.secretary@saratoga-investama.com",
+    "phone": "02157944355"
+  },
+  "directors": [
+    {
+      "name": "Michael W.p. Soeryadjaya",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lany Djuwita Wong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Devin Wirawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Edwin Soeryadjaya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Joyce Soeryadjaya Kerr",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Indra Cahya Uno",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Aria Kanaka",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Stephanus Harjanto T",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Aria Kanaka",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hany Gungoro",
+      "position": "Anggota"
+    },
+    {
+      "name": "Basuki Setiogroho",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Edwin Soeryadjaya",
+      "type": "Komisaris",
+      "shares": 4867505690,
+      "percentage": 35.883
+    },
+    {
+      "name": "PT Unitras Pertama",
+      "type": "Lebih dari 5%",
+      "shares": 3369610000,
+      "percentage": 24.8411
+    },
+    {
+      "name": "Sandiaga Salahuddin Uno",
+      "type": "Lebih dari 5%",
+      "shares": 2917827145,
+      "percentage": 21.51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2375207765,
+      "percentage": 17.51
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 15002100,
+      "percentage": 0.111
+    },
+    {
+      "name": "Devin Wirawan",
+      "type": "Direksi",
+      "shares": 7937000,
+      "percentage": 0.0585
+    },
+    {
+      "name": "Lany Djuwita",
+      "type": "Direksi",
+      "shares": 6334500,
+      "percentage": 0.0466
+    },
+    {
+      "name": "Michael W.p. Soeryadjaya",
+      "type": "Direksi",
+      "shares": 5410800,
+      "percentage": 0.0398
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wahana Anugerah Sejahtera",
+      "business_type": "Jasa Investasi",
+      "total_assets": 13933679,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "Lynwood Hills Investment Solution Pte. Ltd.",
+      "business_type": "Jasa Investasi",
+      "total_assets": 10000129,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nugraha Eka Kencana",
+      "business_type": "Jasa Investasi",
+      "total_assets": 2068232,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sukses Indonesia",
+      "business_type": "Jasa Investasi",
+      "total_assets": 1062000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Alpha Omega Investments Pte. Ltd.",
+      "business_type": "Jasa Investasi",
+      "total_assets": 967954,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Baltimore Investments Ltd.",
+      "business_type": "Jasa Investasi",
+      "total_assets": 725852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Interra Indo Resources",
+      "business_type": "Jasa Investasi",
+      "total_assets": 359431,
+      "ownership_percentage": 93.73
+    },
+    {
+      "name": "PT Sarana Investasi Bersama",
+      "business_type": "Jasa Investasi",
+      "total_assets": 259923,
+      "ownership_percentage": 98.84
+    },
+    {
+      "name": "PT Bumi Hijau Asri",
+      "business_type": "Jasa Investasi",
+      "total_assets": 139405,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Saratoga Sentra Business",
+      "business_type": "Jasa Investasi",
+      "total_assets": 128693,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Nuansa Ceria",
+      "business_type": "Jasa Investasi",
+      "total_assets": 114434,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Trimitra Karya Jaya",
+      "business_type": "Jasa Investasi",
+      "total_assets": 9202,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Wana Bhakti Sukses Mineral",
+      "business_type": "Jasa Investasi",
+      "total_assets": 2843,
+      "ownership_percentage": 73.68
+    },
+    {
+      "name": "PT Sarana Asri",
+      "business_type": "Jasa Investasi",
+      "total_assets": 294,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Lintas Indonesia Sejahtera",
+      "business_type": "Jasa Investasi",
+      "total_assets": 102,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Pc Propco One Pte. Ltd.",
+      "business_type": "Jasa Investasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "24.348.878.825.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:39.218Z"
+}

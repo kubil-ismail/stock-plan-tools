@@ -1,0 +1,174 @@
+{
+  "company_name": "PT Sinar Mas Multiartha Tbk",
+  "ticker": "SMMA",
+  "office_address": "Menara Tekno Lantai 7 Jalan Fachruddin Nomor 19 Jakarta Pusat 10250",
+  "email": "multiartha@smma.co.id",
+  "phone": "(021) 3925660",
+  "fax": "(021 ) 3925788",
+  "tax_id": "0013620026054000",
+  "website": "https://www.smma.co.id",
+  "listing_date": "1995-07-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Investment Company",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Holding Keuangan.",
+    "business_tags": [
+      "Perusahaan Holding Keuangan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Felix",
+    "email": "multiartha@smma.co.id dan felix@smma.co.id",
+    "phone": "021-3925660"
+  },
+  "directors": [
+    {
+      "name": "Burhanuddin Abdullah",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Eric Buntoro",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Leman Gunawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Felix",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ir.dumoly Freddy Pardede",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Tjong Huei Wey",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lynn Ramli",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fuganto Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Robinson Simbolon",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ketut Sanjaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Robinson Simbolon",
+      "position": "Ketua"
+    },
+    {
+      "name": "Halim Alamsyah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nurhaida",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3194404036,
+      "percentage": 50.16
+    },
+    {
+      "name": "PT Sinar Mas Cakrawala",
+      "type": "Lebih dari 5%",
+      "shares": 3116153687,
+      "percentage": 48.94
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 57106994,
+      "percentage": 0.9
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "99.335.569.585.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:13.522Z"
+}

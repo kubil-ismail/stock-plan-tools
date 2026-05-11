@@ -1,0 +1,251 @@
+{
+  "company_name": "Vale Indonesia Tbk",
+  "ticker": "INCO",
+  "office_address": "Sequis Tower, 20th Floor, Unit 6&7 - Jl. Jend. Sudirman Kav. 71, Jakarta 12190, Indonesia",
+  "email": "ptvi-corpsec@vale.com",
+  "phone": "(62) 21 524-9000",
+  "fax": "(62) 21 524-9020",
+  "tax_id": "01.000.541.1-091.000",
+  "website": "http://www.vale.com/indonesia",
+  "listing_date": "1990-05-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Nickel Ore Mining",
+    "business_summary": "Perusahaan bergerak di bidang Batubara.",
+    "business_tags": [
+      "Batubara"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Ranty Astari Rachman",
+    "email": "ptvi-corpsec@vale.com",
+    "phone": "+62215249000"
+  },
+  "directors": [
+    {
+      "name": "Bernardus Irmanto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Abu Ashar",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heriyanto Agung Putra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budiawansyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rizky Andhika Putra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Asril",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "M. Slamet Sugiharto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fauzambi Syahrul Multhazar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Emily Olson",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "M. Jasman Panjaitan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Katherine Angela Oendoen",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Christopher Mccleave",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kristina Gauthier",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Shiro Imai",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rudiantara",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Retno Marsudi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Marita Alisjahbana",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Marita Alisjahbana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sahat Pardede",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rudiantara",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irhoan Tanudiredja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Beni Subena",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mineral Industri Indonesia (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 3583533690,
+      "percentage": 34
+    },
+    {
+      "name": "Vale Canada Limited",
+      "type": "Lebih dari 5%",
+      "shares": 3570993764,
+      "percentage": 33.881
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2150111457,
+      "percentage": 20.4
+    },
+    {
+      "name": "Sumitomo Metal Mining Co., Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 1210370563,
+      "percentage": 11.484
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 24726060,
+      "percentage": 0.235
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Abu Ashar",
+      "type": "Direksi",
+      "shares": 22000,
+      "percentage": 0
+    },
+    {
+      "name": "Budiawansyah",
+      "type": "Direksi",
+      "shares": 24000,
+      "percentage": 0
+    },
+    {
+      "name": "M. Slamet Sugiharto",
+      "type": "Direksi",
+      "shares": 3000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "72.197.524.057.900",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:30.077Z"
+}

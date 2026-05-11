@@ -1,0 +1,924 @@
+{
+  "company_name": "Ciputra Development Tbk",
+  "ticker": "CTRA",
+  "office_address": "Ciputra World 1 Dbs Bank Tower Lantai 39 Jl. Prof. Dr. Satrio Kav. 3-5 Jakarta 12940",
+  "email": "investor@ciputra.com",
+  "phone": "(021) 2988-5858, 2988-6868, 2988-7878",
+  "fax": "(021) 2988-8585",
+  "tax_id": "01.374.211.9-054.000",
+  "website": "https://www.ciputradevelopment.com",
+  "listing_date": "1994-03-28",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perusahaan holding dan pengembang properti",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Tulus Santoso",
+    "email": "tulus@ciputra.com",
+    "phone": "522-6868; 522-5858; 520-7333"
+  },
+  "directors": [
+    {
+      "name": "Candra Ciputra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Budiarsa Sastrawinata",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harun Hajadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cakra Ciputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agussurja Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Artadinata Djangkar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mi Meiko Handoyo L",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nanik J. Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sutoto Yakobus",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tulus Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rina Ciputra Sastrawinata",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Junita Ciputra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sandra Hendharto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kodradi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tanan Herwandi Antonius",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tanan Herwandi Antonius",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lanny Bambang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Thomas Johannes Angfendy",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sang Pelopor",
+      "type": "Lebih dari 5%",
+      "shares": 9882123998,
+      "percentage": 53.314
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8463083607,
+      "percentage": 45.658
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 174650872,
+      "percentage": 0.942
+    },
+    {
+      "name": "Harun Hajadi",
+      "type": "Direksi",
+      "shares": 14399560,
+      "percentage": 0.078
+    },
+    {
+      "name": "Nanik Joeliawati Santoso",
+      "type": "Direksi",
+      "shares": 857039,
+      "percentage": 0.005
+    },
+    {
+      "name": "Tulus Santoso",
+      "type": "Direksi",
+      "shares": 405237,
+      "percentage": 0.002
+    },
+    {
+      "name": "Sutoto Yakobus",
+      "type": "Direksi",
+      "shares": 174942,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Ciputra Nusantara dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 21941921,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Nusantara dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 21941921,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Nusantara dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 21818679,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Nusantara dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 21073237,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Nusantara dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 20305332,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Nusantara dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 19256594,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Residence dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 11123209,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Residence dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 11082623,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Residence dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 10748950,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Residence dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 10426978,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Residence dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 9865961,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Adigraha dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 4881768,
+      "ownership_percentage": 94.44
+    },
+    {
+      "name": "PT Ciputra Adigraha dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 4856390,
+      "ownership_percentage": 94.44
+    },
+    {
+      "name": "PT Ciputra Adigraha",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 4855593,
+      "ownership_percentage": 94.44
+    },
+    {
+      "name": "PT Ciputra Adigraha dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 4853103,
+      "ownership_percentage": 94.44
+    },
+    {
+      "name": "PT Ciputra Adigraha dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 4843044,
+      "ownership_percentage": 94.44
+    },
+    {
+      "name": "PT Ciputra Sentra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1992412,
+      "ownership_percentage": 72.69
+    },
+    {
+      "name": "PT Ciputra Sentra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1992412,
+      "ownership_percentage": 72.69
+    },
+    {
+      "name": "PT Ciputra Sentra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1976281,
+      "ownership_percentage": 72.69
+    },
+    {
+      "name": "PT Ciputra Sentra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1971691,
+      "ownership_percentage": 72.69
+    },
+    {
+      "name": "PT Ciputra Sentra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1970365,
+      "ownership_percentage": 72.69
+    },
+    {
+      "name": "PT Ciputra Sentra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1940062,
+      "ownership_percentage": 72.69
+    },
+    {
+      "name": "PT Ciputra Graha Mitra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1735163,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Graha Mitra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1718881,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Graha Mitra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1708902,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Graha Mitra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1706578,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Graha Mitra dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1670622,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Semarang dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1612044,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Ciputra Semarang dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1562639,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Ciputra Semarang dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1548980,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Ciputra Semarang dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1532911,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Sarananeka Indahpancar",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1502818,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Sarananeka Indahpancar",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1500496,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Sarananeka Indahpancar",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1497605,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Sarananeka Indahpancar",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1495628,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Sarananeka Indahpancar",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1491567,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Sarananeka Indahpancar",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1491567,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT Ciputra Semarang dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1453110,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Ciputra Semarang dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1453110,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Ciputra Adibuana",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1258510,
+      "ownership_percentage": 51.86
+    },
+    {
+      "name": "PT Ciputra Adibuana",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1258510,
+      "ownership_percentage": 51.86
+    },
+    {
+      "name": "PT Ciputra Adibuana",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1159119,
+      "ownership_percentage": 51.86
+    },
+    {
+      "name": "PT Ciputra Adibuana",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1131163,
+      "ownership_percentage": 51.86
+    },
+    {
+      "name": "PT Ciputra Adibuana",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1090601,
+      "ownership_percentage": 51.86
+    },
+    {
+      "name": "PT Ciputra Adibuana",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1046695,
+      "ownership_percentage": 51.86
+    },
+    {
+      "name": "PT Ciputra Nirvanadwipa dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1046311,
+      "ownership_percentage": 73.02
+    },
+    {
+      "name": "PT Ciputra Nirvanadwipa dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1046311,
+      "ownership_percentage": 73.02
+    },
+    {
+      "name": "PT Ciputra Nirvanadwipa dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1043290,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Ciputra Nirvanadwipa dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1027001,
+      "ownership_percentage": 73.02
+    },
+    {
+      "name": "PT Ciputra Nirvanadwipa dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1016130,
+      "ownership_percentage": 73.02
+    },
+    {
+      "name": "PT Ciputra Nirvanadwipa dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1009972,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Ciputra Raya Sejahtera dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 672578,
+      "ownership_percentage": 65.75
+    },
+    {
+      "name": "PT Ciputra Raya Sejahtera dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 672578,
+      "ownership_percentage": 65.75
+    },
+    {
+      "name": "PT Ciputra Raya Sejahtera dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 664890,
+      "ownership_percentage": 65.75
+    },
+    {
+      "name": "PT Ciputra Raya Sejahtera dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 658048,
+      "ownership_percentage": 65.75
+    },
+    {
+      "name": "PT Ciputra Raya Sejahtera dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 652559,
+      "ownership_percentage": 65.75
+    },
+    {
+      "name": "PT Ciputra Raya Sejahtera dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 644651,
+      "ownership_percentage": 65.75
+    },
+    {
+      "name": "PT Subursejahtera Agungabadi",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 262962,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Subursejahtera Agungabadi",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 262962,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Subursejahtera Agungabadi",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 257520,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Subursejahtera Agungabadi",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 256922,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Subursejahtera Agungabadi",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 256577,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Subursejahtera Agungabadi",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 256476,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Buanasarana Sejatiindah",
+      "business_type": "Investment Company",
+      "total_assets": 129303,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Buanasarana Sejatiindah",
+      "business_type": "Investment Company",
+      "total_assets": 129303,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Buanasarana Sejatiindah",
+      "business_type": "Investment Company",
+      "total_assets": 127597,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Buanasarana Sejatiindah",
+      "business_type": "Investment Company",
+      "total_assets": 126743,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Buanasarana Sejatiindah",
+      "business_type": "Investment Company",
+      "total_assets": 126301,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Buanasarana Sejatiindah",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 122251,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "Longfield Enterprises Limited dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 109649,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Longfield Enterprises Limited dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 109649,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Longfield Enterprises Limited dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 109649,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Longfield Enterprises Limited dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 109649,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Longfield Enterprises Limited dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 109649,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Longfield Enterprises Limited dan Entitas Anak",
+      "business_type": "Investment Company",
+      "total_assets": 109649,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citradimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 74874,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Citradimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 74874,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Kharismasaka Pratama",
+      "business_type": "Investment Company",
+      "total_assets": 74856,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Kharismasaka Pratama",
+      "business_type": "Investment Company",
+      "total_assets": 74856,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Citradimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 74423,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Kharismasaka Pratama",
+      "business_type": "Investment Company",
+      "total_assets": 74405,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Citradimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 74381,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Kharismasaka Pratama",
+      "business_type": "Investment Company",
+      "total_assets": 74363,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Citradimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 73926,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Kharismasaka Pratama",
+      "business_type": "Investment Company",
+      "total_assets": 73908,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Citradimensi Serasi",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 73493,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Kharismasaka Pratama",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 73475,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Dimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 17520,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Dimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 16996,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Dimensi Serasi",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 16996,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Dimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 16994,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Dimensi Serasi",
+      "business_type": "Investment Company",
+      "total_assets": 16994,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Penta Oktoneatama dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 15462,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Penta Oktoneatama dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 14964,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Penta Oktoneatama dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 14964,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Penta Oktoneatama dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 14864,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Penta Oktoneatama dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 14858,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Penta Oktoneatama dan Entitas Anak",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 14858,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Citraland Graha Realty",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 3150,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citraland Graha Realty",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 3150,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citraland Graha Realty",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 3149,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citraland Graha Realty",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 3149,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citraland Graha Realty",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 3149,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Citakarya Nusantara",
+      "business_type": "Dormant",
+      "total_assets": 1745,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Citakarya Nusantara",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Citakarya Nusantara",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 1000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Multi Data",
+      "business_type": "Investment Company",
+      "total_assets": 1000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Multi Data",
+      "business_type": "Investment Company",
+      "total_assets": 1000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Multi Data",
+      "business_type": "Dormant",
+      "total_assets": 1000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Multi Data",
+      "business_type": "Dormant",
+      "total_assets": 1000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ciputra Citakarya Nusantara",
+      "business_type": "Dormant",
+      "total_assets": 939,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citra Karya Kreasi Mandiri",
+      "business_type": "Dormant",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citra Karya Kreasi Mandiri",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citra Karya Kreasi Mandiri",
+      "business_type": "Dormant",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citra Karya Kreasi Mandiri",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Citra Karya Kreasi Mandiri",
+      "business_type": "Property dan Real Estate",
+      "total_assets": 100,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "12.789.629.725.950",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:48.040Z"
+}

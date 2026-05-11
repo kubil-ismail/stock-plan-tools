@@ -1,0 +1,287 @@
+{
+  "company_name": "PT Perma Plasindo Tbk",
+  "ticker": "BINO",
+  "office_address": "Jl. Raya Boulevard Barat Blok Lc VI No 23, Kelapa Gading Barat, Jakarta Utara, Indonesia 14240",
+  "email": "corporate@bantex.co.id",
+  "phone": "(021) 4507929",
+  "fax": "(021) 4516178",
+  "tax_id": "01.577.803.8-046.000",
+  "website": "https://www.permaplasindo.co.id",
+  "listing_date": "2021-11-25",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "holding company",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 64,
+    "name": "Peralatan Kantor",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Lie Fonda",
+    "email": "corporate@bantex.co.id",
+    "phone": "(021) 4507929"
+  },
+  "directors": [
+    {
+      "name": "Hong Zhishan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Arman Dharma Laksana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lie Fonda",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wang Zhongming",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Willianto Ismadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hengky Taner",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Chris Harijanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hengky Taher",
+      "position": "Ketua"
+    },
+    {
+      "name": "Annatasia",
+      "position": "Anggota"
+    },
+    {
+      "name": "Zulpan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ruhong Holding Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1949465800,
+      "percentage": 85.68
+    },
+    {
+      "name": "PT Intan Pariwara",
+      "type": "Lebih dari 5%",
+      "shares": 174000000,
+      "percentage": 7.65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 149674411,
+      "percentage": 6.57
+    },
+    {
+      "name": "Chris Harijanto",
+      "type": "Komisaris",
+      "shares": 2175900,
+      "percentage": 0.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hong Zhishan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arman Dharma Laksana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lie Fonda",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Willianto Ismadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hengky Taner",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wang Zhongming",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Batara Indah",
+      "business_type": "Industri Alat Tulis",
+      "total_assets": 154353801651,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bino Mitra Sejati",
+      "business_type": "Perdagangan Alat Tulis",
+      "total_assets": 117797332868,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Batara Indah Mulia",
+      "business_type": "Industri Alat Tulis",
+      "total_assets": 7072941446,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Anugraha Karsa Solusi Industria",
+      "business_type": "Industri Alat Tulis",
+      "total_assets": 1245934465,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Apli Stationery",
+      "business_type": "Industri Alat Tulis",
+      "total_assets": 1181321698,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "Bino Digital Solution Pte Ltd",
+      "business_type": "Hybrid E-filling",
+      "total_assets": 853866757,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Bino Digital Solusi",
+      "business_type": "Perdagangan Komputer & Perlengkapan Komputer",
+      "total_assets": 759929846,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "277.588.565.542",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:21.746Z"
+}

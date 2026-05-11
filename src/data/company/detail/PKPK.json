@@ -1,0 +1,188 @@
+{
+  "company_name": "Paragon Karya Perkasa Tbk",
+  "ticker": "PKPK",
+  "office_address": "The Bellezza Permata Hijau, Office Tower Lantai 15, 15 Of-1, Jl. Letnan Jendral Soepeno No. 34, Arteri Permata Hijau, Rt.005 Rw.002, Grogol Utara, Kebayoran Lama, Jakarta Selatan, 12210, Indonesia",
+  "email": "corsec@pkpk-tbk.co.id",
+  "phone": "021-29181077",
+  "fax": "-",
+  "tax_id": "0012 1747 3605 4000",
+  "website": "https://www.pkpk-tbk.co.id",
+  "listing_date": "2007-07-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Fransiska Setiawan",
+    "email": "corsec@pkpk-tbk.co.id",
+    "phone": "021-29181077"
+  },
+  "directors": [
+    {
+      "name": "Haryanto Sofian",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Subagio Wiyono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Satria Utara",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suki",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lee Yaw Loong Francis",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sammy Tony Saul Lalamentik",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sammy Tony Saul Lalamentik",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ferianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ari Binsar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Deli Putra Bangsa",
+      "type": "Lebih dari 5%",
+      "shares": 900000000,
+      "percentage": 75
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 294701800,
+      "percentage": 24.56
+    },
+    {
+      "name": "Bambang Subagio Wiyono",
+      "type": "Direksi",
+      "shares": 2499300,
+      "percentage": 0.21
+    },
+    {
+      "name": "Haryanto Sofian",
+      "type": "Direksi",
+      "shares": 2298900,
+      "percentage": 0.19
+    },
+    {
+      "name": "Agus Satria Utara",
+      "type": "Direksi",
+      "shares": 500000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bhakti Harapan Sejahtera",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 518489880,
+      "ownership_percentage": 99.94
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.672.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:18.406Z"
+}

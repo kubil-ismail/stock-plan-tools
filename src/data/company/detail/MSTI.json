@@ -1,0 +1,242 @@
+{
+  "company_name": "PT Mastersystem Infotama Tbk.",
+  "ticker": "MSTI",
+  "office_address": "Gedung Sudirman 7.8 Tower I Lt.25 Jl. Jend. Sudirman Kav. 7-8 Jakarta Pusat 10220",
+  "email": "corporate.secretary@mastersystem.co.id",
+  "phone": "021-39731111",
+  "fax": "021-39731212",
+  "tax_id": "01.692.131.4-073.000",
+  "website": "https://www.mastersystem.co.id",
+  "listing_date": "2023-11-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Solusi, integrasi dan pemeliharaan sistem teknologi informasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 23,
+    "name": "Perangkat Keras & Peralatan Teknologi",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 41,
+    "name": "Peralatan Jaringan"
+  },
+  "sub_industry": {
+    "id": 63,
+    "name": "Peralatan Jaringan",
+    "industries_id": 41
+  },
+  "corporate_secretary": {
+    "name": "Jeo Halim",
+    "email": "corporate.secretary@mastersystem.co.id",
+    "phone": "02139731111"
+  },
+  "directors": [
+    {
+      "name": "Eddy Anthony",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Joko Gunawan",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jeo Halim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Thio Eng Hok",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Moch. Lintar Wahyu Wardana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Raymon Budi Citra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jupri Wijaya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ronald Waas",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tang Budi Santoso Sutanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tang Budi Santoso Sutanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ratna Wardhani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Julis",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Eddy Anthony",
+      "type": "Direksi",
+      "shares": 902673334,
+      "percentage": 28.7529
+    },
+    {
+      "name": "Jupri Wijaya",
+      "type": "Komisaris",
+      "shares": 902673334,
+      "percentage": 28.7529
+    },
+    {
+      "name": "Joko Gunawan",
+      "type": "Direksi",
+      "shares": 862653332,
+      "percentage": 27.4781
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 470809200,
+      "percentage": 14.9968
+    },
+    {
+      "name": "Jeo Halim",
+      "type": "Direksi",
+      "shares": 205000,
+      "percentage": 0.0065
+    },
+    {
+      "name": "Raymon Budi Citra",
+      "type": "Direksi",
+      "shares": 205000,
+      "percentage": 0.0065
+    },
+    {
+      "name": "Moch. Lintar Wahyu Wardana",
+      "type": "Direksi",
+      "shares": 135000,
+      "percentage": 0.0043
+    },
+    {
+      "name": "Thio Eng Hok",
+      "type": "Direksi",
+      "shares": 62000,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.238.211.870.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:40.530Z"
+}

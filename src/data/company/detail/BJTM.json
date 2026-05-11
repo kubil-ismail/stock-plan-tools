@@ -1,0 +1,363 @@
+{
+  "company_name": "Bank Pembangunan Daerah Jawa Timur Tbk",
+  "ticker": "BJTM",
+  "office_address": "Jl. Basuki Rachmad 98-104 Surabaya",
+  "email": "iru@bankjatim.co.id",
+  "phone": "(031) 5310090-99 ext.463",
+  "fax": "(031) 5310838",
+  "tax_id": "01.110.116.9-054.000",
+  "website": "https://www.bankjatim.co.id",
+  "listing_date": "2012-07-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Fenty Rischana",
+    "email": "corsec@bankjatim.co.id",
+    "phone": "031-5310090"
+  },
+  "directors": [
+    {
+      "name": "Winardi Legowo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "R.arief Wicaksono",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tonny Prasetyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Umi Rodiyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rm Wahyukusumo Wisnubroto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arif Suhirman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wiweko Probojakti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andry Wicaksono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Winardi Legowo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "R.arief Wicaksono",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tonny Prasetyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Umi Rodiyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rm Wahyukusumo Wisnubroto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arif Suhirman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wiweko Probojakti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andry Wicaksono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muhammad Mas'ud",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adhy Karyono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dadang Setiabudi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Sulistyowati",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Asri Agung Putra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Moh. Nasih",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Mas'ud",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adhy Karyono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dadang Setiabudi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Sulistyowati",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Asri Agung Putra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Moh. Nasih",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Asri Agung Putra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Adi Sulistyowati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhammad Mas'ud",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dadang Setiabudi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Kusnadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhammad Arifin",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pemda Tingkat I Provinsi Jawa Timur",
+      "type": "Lebih dari 5%",
+      "shares": 7676913648,
+      "percentage": 51.1266
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 4257234334,
+      "percentage": 28.3523
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3074453700,
+      "percentage": 20.4752
+    },
+    {
+      "name": "Arif Suhirman",
+      "type": "Direksi",
+      "shares": 3647500,
+      "percentage": 0.0243
+    },
+    {
+      "name": "R. Arief Wicaksono",
+      "type": "Direksi",
+      "shares": 1858600,
+      "percentage": 0.0124
+    },
+    {
+      "name": "Umi Rodiyah",
+      "type": "Direksi",
+      "shares": 1138300,
+      "percentage": 0.0076
+    },
+    {
+      "name": "Adhy Karyono",
+      "type": "Komisaris",
+      "shares": 249200,
+      "percentage": 0.0016
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mas'ud Said",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dadang Setiabudi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adi Sulistyowati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Asri Agung Putra",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nurul Ghufron",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Winardi Legowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rm Wahyukusumo Wisnubroto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tonny Prasetyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wiweko Probojakti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wioga Adhiarma Aji",
+      "type": "Direksi",
+      "shares": 2800,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.621.898.998.580",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:28.778Z"
+}

@@ -1,0 +1,186 @@
+{
+  "company_name": "Tanah Laut Tbk",
+  "ticker": "INDX",
+  "office_address": "Grh@ Hrh Jl. Lebak Bulus Raya No. 20, Lebak Bulus, Cilandak, Jakarta Selatan, 12440",
+  "email": "corsec@tanahlaut.co.id",
+  "phone": "021 - 2781 2154 / 56 - 57",
+  "fax": "021 - 2782 0991",
+  "tax_id": "01.554.630.2-054.000",
+  "website": "https://www.tanahlaut.co.id",
+  "listing_date": "2001-05-17",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktifitas Kantor Pusat",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Energi, Logistik.",
+    "business_tags": [
+      "Agribisnis",
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 15,
+    "name": "Jasa Profesional"
+  },
+  "sub_industry": {
+    "id": 28,
+    "name": "Jasa Penelitian & Konsultasi",
+    "industries_id": 15
+  },
+  "corporate_secretary": {
+    "name": "Dera Fresky S.h. m.h.",
+    "email": "dera@tanahlaut.co.id",
+    "phone": "02127812154"
+  },
+  "directors": [
+    {
+      "name": "Harun Bin Halim Rasip",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dewi Retno Andriani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chng Chin Hon",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Mohd Sofian Jaafar",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Chng Chin Hon",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rahan Nara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 176708658,
+      "percentage": 40.35
+    },
+    {
+      "name": "Equatorex Sdn Bhd",
+      "type": "Lebih dari 5%",
+      "shares": 155582241,
+      "percentage": 35.53
+    },
+    {
+      "name": "Heyday Investment Limited",
+      "type": "Lebih dari 5%",
+      "shares": 101720239,
+      "percentage": 23.23
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3319950,
+      "percentage": 0.76
+    },
+    {
+      "name": "Dewi Retno Andriani",
+      "type": "Direksi",
+      "shares": 582500,
+      "percentage": 0.13
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Iona Laut Logistik",
+      "business_type": "Perdagangan Barang, Jasa, Pembangunan, Perindustrian, Pengangkutan Darat, Perbengkelan, Percetakan dan Pertanian.",
+      "total_assets": 4407566223,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pelabuhan Laut Sriwijaya",
+      "business_type": "Pengelolaan Terminal dan Fasilitas Pelabuhan Lainnya",
+      "total_assets": 902813860,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Surya Energi Abadi",
+      "business_type": "Perkebunan Buah Kelapa, Industri Kopra, Pengolahan Minyak Kelapa, Industry, Industri Minyak Goreng, Industri Pelet Kelapa, Industri Produk Masak Kelapa (santan)",
+      "total_assets": 250000000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "45.543.013.152",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:36.392Z"
+}

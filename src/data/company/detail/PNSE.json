@@ -1,0 +1,185 @@
+{
+  "company_name": "Pudjiadi & Sons Tbk",
+  "ticker": "PNSE",
+  "office_address": "Hotel Jayakarta Jakarta Lt. 21 Jl. Hayam Wuruk 126 Jakarta 11180",
+  "email": "pnse@cbn.net.id",
+  "phone": "021 - 6593626",
+  "fax": "021 - 6399573",
+  "tax_id": "01.003.181.3-054.000",
+  "website": "https://0",
+  "listing_date": "1990-05-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Hotel and Tourism",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Dadang Suwarsa",
+    "email": "pnse@cbn.net.id",
+    "phone": "021 - 6593626"
+  },
+  "directors": [
+    {
+      "name": "Kristian Pudjiadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ariyo Tejo",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lukman Pudjiadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Marianti Pudjiadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Budhi Liman",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Budhi Liman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Iwan Sugiono,se, Ak, Cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yudi Prayudi Setiawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Istana Kuta Ratu Prestige",
+      "type": "Lebih dari 5%",
+      "shares": 444396400,
+      "percentage": 55.7
+    },
+    {
+      "name": "PT. Jayakarta Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 199707551,
+      "percentage": 25.03
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 62917376,
+      "percentage": 7.9
+    },
+    {
+      "name": "Lenawati Setiadi P",
+      "type": "Lebih dari 5%",
+      "shares": 52733475,
+      "percentage": 6.61
+    },
+    {
+      "name": "Marianti Pudjiadi",
+      "type": "Komisaris",
+      "shares": 10634539,
+      "percentage": 1.33
+    },
+    {
+      "name": "Lukman Pudjiadi",
+      "type": "Komisaris",
+      "shares": 10539138,
+      "percentage": 1.32
+    },
+    {
+      "name": "Kristian Pudjiadi",
+      "type": "Direksi",
+      "shares": 10464061,
+      "percentage": 1.31
+    },
+    {
+      "name": "Ariyo Tejo",
+      "type": "Direksi",
+      "shares": 3352960,
+      "percentage": 0.42
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3067996,
+      "percentage": 0.38
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "490.655.300.040",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:31.946Z"
+}

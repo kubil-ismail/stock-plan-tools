@@ -1,0 +1,250 @@
+{
+  "company_name": "PT Maxindo Karya Anugerah Tbk",
+  "ticker": "MAXI",
+  "office_address": "Kawasan Industri Sentul Jl. Cahaya Raya Kav H5 Leuwinutug, Citeureup. Bogor, Jawa Barat 16180",
+  "email": "corsec@maxisnacks.com",
+  "phone": "021 8790 0305",
+  "fax": "021 8790 4683",
+  "tax_id": "01.810.874.6-403.000",
+  "website": "https://www.maxisnacks.com",
+  "listing_date": "2023-06-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Makanan Ringan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Carolina Renata Djaja",
+    "email": "carolina.djaja@gmail.com",
+    "phone": "+62 816953283"
+  },
+  "directors": [
+    {
+      "name": "Sarkoro Handajani",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Carolina Renata Djaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Garrett Suryowijoyo Kartono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Wong Budi Setiawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Candra Gunawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Latip Wiyono Ak",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Latip Wiyono Ak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Budi Kustiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Shiery",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bintang Mulia Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 2964750000,
+      "percentage": 30.85
+    },
+    {
+      "name": "PT Karya Nusa Perdana",
+      "type": "Lebih dari 5%",
+      "shares": 2682885700,
+      "percentage": 27.917
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2298645967,
+      "percentage": 23.92
+    },
+    {
+      "name": "PT Akasia Mas Investama",
+      "type": "Lebih dari 5%",
+      "shares": 921555420,
+      "percentage": 9.589
+    },
+    {
+      "name": "PT Esta Prima Investama",
+      "type": "Lebih dari 5%",
+      "shares": 637343000,
+      "percentage": 6.632
+    },
+    {
+      "name": "Candra Gunawan",
+      "type": "Komisaris",
+      "shares": 81160000,
+      "percentage": 0.845
+    },
+    {
+      "name": "Sarkoro Handajani",
+      "type": "Direksi",
+      "shares": 13486451,
+      "percentage": 0.14
+    },
+    {
+      "name": "Carolina Renata Djaja",
+      "type": "Direksi",
+      "shares": 10004743,
+      "percentage": 0.104
+    },
+    {
+      "name": "Garrett Suryowijoyo Kartono",
+      "type": "Direksi",
+      "shares": 268700,
+      "percentage": 0.003
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ir Wong Budi Setiawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs Latip Wiyono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "490.115.099.031",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:20.144Z"
+}

@@ -1,0 +1,319 @@
+{
+  "company_name": "PT Bhakti Multi Artha Tbk.",
+  "ticker": "BHAT",
+  "office_address": "Tifa Building Lt. 8 Jl. Kuningan Barat 26, Jakarta Selatan, 12710",
+  "email": "cs@bhaktimultiartha.co.id",
+  "phone": "(+6221) 27097677",
+  "fax": "(+6221) 27098077",
+  "tax_id": "82.348.028.0-012.000",
+  "website": "https://www.bhaktimultiartha.co.id",
+  "listing_date": "2020-04-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak Dalam Bidang Konsultasi Manajemen dan Perusahaan Holding Bidang Keuangan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 5,
+    "name": "Asuransi Jiwa",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Chadafy Maraden Sibarani",
+    "email": "cs@bhaktimultiartha.co.id",
+    "phone": "+6221 27097677"
+  },
+  "directors": [
+    {
+      "name": "Dimas Teguh Mulyanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chadafy Maraden Sibarani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Paul Rachmat Wullur",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ang Hendra Setiawan Angkaw",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Paul Rachmat Wullur",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ferry Laksmana",
+      "position": "Anggota"
+    },
+    {
+      "name": "David Christian Elisa Dengah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 3445150625,
+      "percentage": 68.9
+    },
+    {
+      "name": "PT Bhakti Artha Global (d/h PT Nasional Niaga Abadi)",
+      "type": "Lebih dari 5%",
+      "shares": 1254849375,
+      "percentage": 25.1
+    },
+    {
+      "name": "PT Surya Duta Mas",
+      "type": "Lebih dari 5%",
+      "shares": 300000000,
+      "percentage": 6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Nasional Investindo Perkasa",
+      "business_type": "Jasa Konsultasi Manajemen dan Aktivitas Perusahaan Holding",
+      "total_assets": 703660362684,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nasional Investindo Perkasa",
+      "business_type": "Jasa Konsultasi Manajemen dan Aktivitas Perusahaan Holding",
+      "total_assets": 692173703721,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nasional Investindo Perkasa",
+      "business_type": "Jasa Konsultasi Manajemen dan Aktivitas Perusahaan Holding",
+      "total_assets": 663254517698,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nasional Investindo Perkasa",
+      "business_type": "Jasa Konsultasi Manajemen dan Aktivitas Perusahaan Holding",
+      "total_assets": 661247023037,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Nasional Investindo Perkasa",
+      "business_type": "Jasa Konsultasi Manajemen dan Aktivitas Perusahaan Holding",
+      "total_assets": 588444413133,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Asuransi Jiwa Nasional",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 532587665667,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Asuransi Jiwa Nasional",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 523244933355,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Asuransi Jiwa Nasional",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 507766003246,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Asuransi Jiwa Nasional",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 493344229464,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bhakti Fintek Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 466420729396,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhakti Fintek Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 464717765888,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhakti Fintek Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 462987620682,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhakti Fintek Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 461293711733,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bhakti Fintek Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 457832277774,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Asuransi Jiwa Nasional",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 433259687665,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bhakti Cahaya Utama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 12027339,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bhakti Cahaya Utama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 11717872,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bhakti Cahaya Utama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 11600078,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bhakti Cahaya Utama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 11457060,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bhakti Cahaya Utama",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 11314376,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Kap Clara Sunarsi & Rekan"
+    },
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "7.000.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:14.663Z"
+}

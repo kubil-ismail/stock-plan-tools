@@ -1,0 +1,218 @@
+{
+  "company_name": "PT Cipta Perdana Lancar Tbk",
+  "ticker": "PART",
+  "office_address": "Jl. Prabu Siliwangi Km 0,5 Keroncong, Kec. Jatiuwung, Kota Tangerang Banten 15134",
+  "email": "corsec@pt-cpl.id",
+  "phone": "021-38962016",
+  "fax": "021-38962016",
+  "tax_id": "02.988.032.5-402.000",
+  "website": "https://www.ciptaperdanalancar.com",
+  "listing_date": "2024-07-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perseroan bergerak di bidang Manufaktur Komponen Suku Cadang Otomotif, Elektronik dan Sanitasi",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur, Otomotif.",
+    "business_tags": [
+      "Manufaktur",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 94,
+    "name": "Suku Cadang Otomotif",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Andy Santoso",
+    "email": "corsec@pt-cpl.id",
+    "phone": "021-38962016"
+  },
+  "directors": [
+    {
+      "name": "Hamim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tjoeng Rino Saputra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Syamsiah",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nenden Widiastuti",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Basa Sidabutar, S,h. m,h.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Reyniel Fero Walandouw",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Basa Sidabutar S.h.. m.h.",
+      "position": "Ketua"
+    },
+    {
+      "name": "M. Farid Pardy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Annisa Zulhijah S.ak",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Cipta Investama Lancar",
+      "type": "Lebih dari 5%",
+      "shares": 1496000000,
+      "percentage": 53.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 774463561,
+      "percentage": 27.52
+    },
+    {
+      "name": "Hamim",
+      "type": "Direksi",
+      "shares": 272000000,
+      "percentage": 9.67
+    },
+    {
+      "name": "Nenden Widiastuti",
+      "type": "Komisaris",
+      "shares": 217600000,
+      "percentage": 7.73
+    },
+    {
+      "name": "Syamsiah",
+      "type": "Komisaris",
+      "shares": 54400000,
+      "percentage": 1.93
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Gideon Adi dan Rekan"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Gideon, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "340.548.618.069",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:50.807Z"
+}

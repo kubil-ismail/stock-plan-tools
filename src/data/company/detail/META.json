@@ -1,0 +1,462 @@
+{
+  "company_name": "Nusantara Infrastructure Tbk",
+  "ticker": "META",
+  "office_address": "Equity Tower Lantai 38, SCBD Lot 9 Jl. Jend. Sudirman Kav. 52 - 53 Jakarta 12190. Indonesia Tel : +6221 – 515 0100 Fax : +6221 – 515 1221",
+  "email": "corsec@nusantarainfrastructure.com",
+  "phone": "+6221 - 515 0100",
+  "fax": "+6221 - 515 1221",
+  "tax_id": "01.689.543.5-054.000",
+  "website": "https://www.nusantarainfrastructure.com",
+  "listing_date": "2001-07-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang usaha Infrastruktur",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik, Konstruksi, Media.",
+    "business_tags": [
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Media"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 10,
+    "name": "Infrastruktur Transportasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 30,
+    "name": "Operator Infrastruktur Transportasi"
+  },
+  "sub_industry": {
+    "id": 51,
+    "name": "Operator Jalan Tol & Rel",
+    "industries_id": 30
+  },
+  "corporate_secretary": {
+    "name": "Dahlia Evawani",
+    "email": "corsec@nusantarainfrastructure.com",
+    "phone": "+62-21 5150100"
+  },
+  "directors": [
+    {
+      "name": "M. Ramdani Basri",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Omar Danni Hasan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ridwan Abdul Chalif Irawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Benny Setiawan Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Denn Charly Gonzales Espanola",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Francis Emmanuel Dalupan Rojas",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Satria Surjati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Marisa Valencia Conde",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Manuel Velez Pangilinan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jose Ma Kamantigue Lim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Johny Josephus Lumintang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Farid Harianto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Letjend. Tni (purn) Johny L. Lumintang",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tavip Santoso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tufrida Murniati Hasyim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Metro Pacific Tollways Indonesia Services, PT",
+      "type": "Lebih dari 5%",
+      "shares": 17204056874,
+      "percentage": 97.14
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 385455000,
+      "percentage": 2.18
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 120995098,
+      "percentage": 0.68
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Francis Emmanuel Dalupan Rojas",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Satria Surjati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marisa Valencia Conde",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Manuel Velez Pangilinan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johny J. Lumintang",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Farid Harianto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jose Ma Kamantigue Lim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "M. Ramdani Basri",
+      "type": "Direksi",
+      "shares": 201222,
+      "percentage": 0
+    },
+    {
+      "name": "Omar Danni Hasan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benny Setiawan Santoso",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ridwan Abdul Chalif Irawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Denn Charly Gonzales Espanola",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Margautama Nusantara",
+      "business_type": "Pembangunan, Perdagangan, Jasa, dan Sub-holding untuk Jalan Tol",
+      "total_assets": 9554082,
+      "ownership_percentage": 76.51
+    },
+    {
+      "name": "PT Energi Infranusantara",
+      "business_type": "Pembangunan, Perdagangan, Jasa,, dan Sub-holding untuk Energi",
+      "total_assets": 707270,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Infranusantara",
+      "business_type": "Pembangunan, Perdagangan, Jasa,, dan Sub-holding untuk Energi",
+      "total_assets": 691524,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Infranusantara",
+      "business_type": "Pembangunan, Perdagangan, Jasa,, dan Sub-holding untuk Energi",
+      "total_assets": 690091,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Infranusantara",
+      "business_type": "Pembangunan, Perdagangan, Jasa,, dan Sub-holding untuk Energi",
+      "total_assets": 675661,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Infranusantara",
+      "business_type": "Pembangunan, Perdagangan, Jasa,, dan Sub-holding untuk Energi",
+      "total_assets": 675510,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Potum Mundi Infranusantara",
+      "business_type": "Jasa Pengelolaan Air Bersih dan Limbah",
+      "total_assets": 552926,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Potum Mundi Infranusantara",
+      "business_type": "Jasa Pengelolaan Air Bersih dan Limbah",
+      "total_assets": 536843,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Potum Mundi Infranusantara",
+      "business_type": "Jasa Pengelolaan Air Bersih dan Limbah",
+      "total_assets": 533625,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Potum Mundi Infranusantara",
+      "business_type": "Jasa Pengelolaan Air Bersih dan Limbah",
+      "total_assets": 532897,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Potum Mundi Infranusantara",
+      "business_type": "Jasa Pengelolaan Air Bersih dan Limbah",
+      "total_assets": 420427,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Marga Metro Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 132831,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Portco Infranusantara",
+      "business_type": "Manajemen Pelabuhan",
+      "total_assets": 123608,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Portco Infranusantara",
+      "business_type": "Manajemen Pelabuhan",
+      "total_assets": 123394,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Portco Infranusantara",
+      "business_type": "Manajemen Pelabuhan",
+      "total_assets": 122469,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Marga Metro Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 103382,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Marga Metro Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 99761,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Marga Metro Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 98426,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Marga Metro Nusantara",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 72224,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Meta Media Infranusantara",
+      "business_type": "Perdagangan, Perlengkapan dan Telkomunikasi Lain",
+      "total_assets": 11677,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Meta Media Infranusantara",
+      "business_type": "Perdagangan, Perlengkapan dan Telkomunikasi Lain",
+      "total_assets": 11600,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Meta Media Infranusantara",
+      "business_type": "Perdagangan, Perlengkapan dan Telkomunikasi Lain",
+      "total_assets": 11357,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metro Tekno Media Infranusantara",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Jasa dan Konsultasi",
+      "total_assets": 10275,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Meta Media Infranusantara",
+      "business_type": "Perdagangan, Perlengkapan dan Telkomunikasi Lain",
+      "total_assets": 8844,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metro Tekno Media Infranusantara",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Jasa dan Konsultasi",
+      "total_assets": 7379,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Meta Media Infranusantara",
+      "business_type": "Perdagangan, Perlengkapan dan Telkomunikasi Lain",
+      "total_assets": 4589,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Portco Infranusantara",
+      "business_type": "Manajemen Pelabuhan",
+      "total_assets": 2860,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Portco Infranusantara",
+      "business_type": "Manajemen Pelabuhan",
+      "total_assets": 2698,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Metro Tekno Media Infranusantara",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Jasa dan Konsultasi",
+      "total_assets": 60,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metro Tekno Media Infranusantara",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Jasa dan Konsultasi",
+      "total_assets": 60,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metro Tekno Media Infranusantara",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Jasa dan Konsultasi",
+      "total_assets": 60,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.215.148.550.172",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:46.990Z"
+}

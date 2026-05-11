@@ -1,0 +1,999 @@
+{
+  "company_name": "PT Blue Bird Tbk",
+  "ticker": "BIRD",
+  "office_address": "Jl. Bojong Indah Raya No. 6, Kelurahan Rawabuaya, Kecamatan Cengkareng, Jakarta Barat 11740",
+  "email": "corsec@bluebirdgroup.com",
+  "phone": "021-54394000",
+  "fax": "021-54394802",
+  "tax_id": "02.066.324.1-038.000",
+  "website": "https://www.bluebirdgroup.com",
+  "listing_date": "2014-11-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bidang Transportasi Penumpang dan Jasa Pengangkutan Darat",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Otomotif.",
+    "business_tags": [
+      "Logistik",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 36,
+    "name": "Pengangkutan Darat Penumpang"
+  },
+  "sub_industry": {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  "corporate_secretary": {
+    "name": "Yusuf Salman",
+    "email": "corsec@bluebirdgroup.com",
+    "phone": "021-7989000"
+  },
+  "directors": [
+    {
+      "name": "Adrianto Djokosoetono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sigit Priawan Djokosoetono",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Irawaty Salim",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bayu Priawan Djokosoetono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Noni Sri Ayati Purnomo",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sri Adriyani Lestari",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kresna Priawan Djokosoetono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gunawan Surjo Wibowo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rinaldi Firmansyah",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Setiyadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Setyo Wasisto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Alamanda Shantika",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Setyo Wasisto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agung Nugroho Soedibyo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Pradana Ramadhian Gandasubrata",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pusaka Citra Djokosoetono",
+      "type": "Lebih dari 5%",
+      "shares": 709857979,
+      "percentage": 28.4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 709798735,
+      "percentage": 28.4
+    },
+    {
+      "name": "Purnomo Prawiro",
+      "type": "Lebih dari 5%",
+      "shares": 302294300,
+      "percentage": 12.1
+    },
+    {
+      "name": "Kresna Priawan Djokosoetono",
+      "type": "Komisaris",
+      "shares": 155055000,
+      "percentage": 6.2
+    },
+    {
+      "name": "Sigit Priawan Djokosoetono",
+      "type": "Direksi",
+      "shares": 153451300,
+      "percentage": 6.1
+    },
+    {
+      "name": "Indra Priawan Djokosoetono",
+      "type": "Lebih dari 5%",
+      "shares": 149176688,
+      "percentage": 5.9
+    },
+    {
+      "name": "Adrianto Djokosoetono",
+      "type": "Direksi",
+      "shares": 132715816,
+      "percentage": 5.3
+    },
+    {
+      "name": "Noni Sri Ayati Purnomo",
+      "type": "Komisaris",
+      "shares": 120810000,
+      "percentage": 4.8
+    },
+    {
+      "name": "Sri Adriyani Lestari",
+      "type": "Komisaris",
+      "shares": 62560000,
+      "percentage": 2.5
+    },
+    {
+      "name": "Bayu Priawan Djokosoetono",
+      "type": "Komisaris",
+      "shares": 6380182,
+      "percentage": 0.3
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pusaka Prima Transport",
+      "business_type": "Penyewaan Mobil",
+      "total_assets": 1266504,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Prima Transport",
+      "business_type": "Penyewaan Mobil",
+      "total_assets": 1261929,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Prima Transport",
+      "business_type": "Penyewaan Mobil",
+      "total_assets": 1255908,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Prima Transport",
+      "business_type": "Penyewaan Mobil",
+      "total_assets": 1226707,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Prima Transport",
+      "business_type": "Penyewaan Mobil",
+      "total_assets": 1144321,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Prima Transport",
+      "business_type": "Penyewaan Mobil",
+      "total_assets": 791633,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Prima Transport",
+      "business_type": "Penyewaan Mobil",
+      "total_assets": 791633,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Central Naga Europindo",
+      "business_type": "Taksi",
+      "total_assets": 783501,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Central Naga Europindo",
+      "business_type": "Taksi",
+      "total_assets": 735043,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Central Naga Europindo",
+      "business_type": "Taksi",
+      "total_assets": 735043,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Central Naga Europindo",
+      "business_type": "Taksi",
+      "total_assets": 729631,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Central Naga Europindo",
+      "business_type": "Taksi",
+      "total_assets": 704062,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Central Naga Europindo",
+      "business_type": "Taksi",
+      "total_assets": 675541,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Central Naga Europindo",
+      "business_type": "Taksi",
+      "total_assets": 641718,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Big Bird Pusaka",
+      "business_type": "Bis",
+      "total_assets": 601963,
+      "ownership_percentage": 99.12
+    },
+    {
+      "name": "PT Big Bird Pusaka",
+      "business_type": "Bis",
+      "total_assets": 598311,
+      "ownership_percentage": 99.12
+    },
+    {
+      "name": "PT Big Bird Pusaka",
+      "business_type": "Bis",
+      "total_assets": 589362,
+      "ownership_percentage": 99.12
+    },
+    {
+      "name": "PT Big Bird Pusaka",
+      "business_type": "Bis",
+      "total_assets": 552926,
+      "ownership_percentage": 99.12
+    },
+    {
+      "name": "PT Silver Bird",
+      "business_type": "Taksi",
+      "total_assets": 519554,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Silver Bird",
+      "business_type": "Taksi",
+      "total_assets": 519418,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Silver Bird",
+      "business_type": "Taksi",
+      "total_assets": 502566,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Silver Bird",
+      "business_type": "Taksi",
+      "total_assets": 499390,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Silver Bird",
+      "business_type": "Taksi",
+      "total_assets": 498857,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Lintas Buana Taksi",
+      "business_type": "Taksi",
+      "total_assets": 475935,
+      "ownership_percentage": 99.42
+    },
+    {
+      "name": "PT Lintas Buana Taksi",
+      "business_type": "Taksi",
+      "total_assets": 470341,
+      "ownership_percentage": 99.42
+    },
+    {
+      "name": "PT Lintas Buana Taksi",
+      "business_type": "Taksi",
+      "total_assets": 454104,
+      "ownership_percentage": 99.42
+    },
+    {
+      "name": "PT Lintas Buana Taksi",
+      "business_type": "Taksi",
+      "total_assets": 446840,
+      "ownership_percentage": 99.42
+    },
+    {
+      "name": "PT Lintas Buana Taksi",
+      "business_type": "Taksi",
+      "total_assets": 440983,
+      "ownership_percentage": 99.42
+    },
+    {
+      "name": "PT Big Bird Pusaka",
+      "business_type": "Bis",
+      "total_assets": 439352,
+      "ownership_percentage": 99.12
+    },
+    {
+      "name": "PT Silver Bird",
+      "business_type": "Taksi",
+      "total_assets": 420863,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Silver Bird",
+      "business_type": "Taksi",
+      "total_assets": 420863,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Morante Jaya",
+      "business_type": "Taksi",
+      "total_assets": 370985,
+      "ownership_percentage": 99.27
+    },
+    {
+      "name": "PT Cendrawasih Pertiwijaya",
+      "business_type": "Taksi",
+      "total_assets": 370918,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Cendrawasih Pertiwijaya",
+      "business_type": "Taksi",
+      "total_assets": 361206,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Cendrawasih Pertiwijaya",
+      "business_type": "Taksi",
+      "total_assets": 361206,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Morante Jaya",
+      "business_type": "Taksi",
+      "total_assets": 354571,
+      "ownership_percentage": 99.27
+    },
+    {
+      "name": "PT Blue Bird Pusaka",
+      "business_type": "Taksi",
+      "total_assets": 341722,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Morante Jaya",
+      "business_type": "Taksi",
+      "total_assets": 336888,
+      "ownership_percentage": 99.27
+    },
+    {
+      "name": "PT Morante Jaya",
+      "business_type": "Taksi",
+      "total_assets": 334422,
+      "ownership_percentage": 99.27
+    },
+    {
+      "name": "PT Trans Antar Nusabird",
+      "business_type": "Angkutan Antar Jemput",
+      "total_assets": 327931,
+      "ownership_percentage": 91.57
+    },
+    {
+      "name": "PT Morante Jaya",
+      "business_type": "Taksi",
+      "total_assets": 327183,
+      "ownership_percentage": 99.27
+    },
+    {
+      "name": "PT Prima Sarijati Agung",
+      "business_type": "Taksi",
+      "total_assets": 322375,
+      "ownership_percentage": 99.03
+    },
+    {
+      "name": "PT Prima Sarijati Agung",
+      "business_type": "Taksi",
+      "total_assets": 322375,
+      "ownership_percentage": 99.03
+    },
+    {
+      "name": "PT Cendrawasih Pertiwijaya",
+      "business_type": "Taksi",
+      "total_assets": 309280,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Cendrawasih Pertiwijaya",
+      "business_type": "Taksi",
+      "total_assets": 306824,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Blue Bird Pusaka",
+      "business_type": "Taksi",
+      "total_assets": 306508,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Cendrawasih Pertiwijaya",
+      "business_type": "Taksi",
+      "total_assets": 305021,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Blue Bird Pusaka",
+      "business_type": "Taksi",
+      "total_assets": 303954,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Cendrawasih Pertiwijaya",
+      "business_type": "Taksi",
+      "total_assets": 303946,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Blue Bird Pusaka",
+      "business_type": "Taksi",
+      "total_assets": 303412,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Blue Bird Pusaka",
+      "business_type": "Taksi",
+      "total_assets": 299212,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Lintas Buana Taksi",
+      "business_type": "Taksi",
+      "total_assets": 295469,
+      "ownership_percentage": 99.42
+    },
+    {
+      "name": "PT Lintas Buana Taksi",
+      "business_type": "Taksi",
+      "total_assets": 295469,
+      "ownership_percentage": 99.42
+    },
+    {
+      "name": "PT Luhur Satria Sejati Kencana",
+      "business_type": "Taksi",
+      "total_assets": 281816,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Luhur Satria Sejati Kencana",
+      "business_type": "Taksi",
+      "total_assets": 281816,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Trans Antar Nusabird",
+      "business_type": "Angkutan Antar Jemput",
+      "total_assets": 278077,
+      "ownership_percentage": 91.57
+    },
+    {
+      "name": "PT Trans Antar Nusabird",
+      "business_type": "Angkutan Antar Jemput",
+      "total_assets": 275629,
+      "ownership_percentage": 91.57
+    },
+    {
+      "name": "PT Prima Sarijati Agung",
+      "business_type": "Taksi",
+      "total_assets": 275480,
+      "ownership_percentage": 99.03
+    },
+    {
+      "name": "PT Morante Jaya",
+      "business_type": "Taksi",
+      "total_assets": 275180,
+      "ownership_percentage": 99.27
+    },
+    {
+      "name": "PT Morante Jaya",
+      "business_type": "Taksi",
+      "total_assets": 275180,
+      "ownership_percentage": 99.27
+    },
+    {
+      "name": "PT Trans Antar Nusabird",
+      "business_type": "Angkutan Antar Jemput",
+      "total_assets": 272847,
+      "ownership_percentage": 91.57
+    },
+    {
+      "name": "PT Luhur Satria Sejati Kencana",
+      "business_type": "Taksi",
+      "total_assets": 257994,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Luhur Satria Sejati Kencana",
+      "business_type": "Taksi",
+      "total_assets": 256627,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Luhur Satria Sejati Kencana",
+      "business_type": "Taksi",
+      "total_assets": 256445,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Luhur Satria Sejati Kencana",
+      "business_type": "Taksi",
+      "total_assets": 254333,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Luhur Satria Sejati Kencana",
+      "business_type": "Taksi",
+      "total_assets": 251083,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Blue Bird Pusaka",
+      "business_type": "Taksi",
+      "total_assets": 249423,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Blue Bird Pusaka",
+      "business_type": "Taksi",
+      "total_assets": 249423,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Big Bird Pusaka",
+      "business_type": "Bis",
+      "total_assets": 247059,
+      "ownership_percentage": 99.12
+    },
+    {
+      "name": "PT Big Bird Pusaka",
+      "business_type": "Bis",
+      "total_assets": 247059,
+      "ownership_percentage": 99.12
+    },
+    {
+      "name": "PT Pusaka Nuri Utama",
+      "business_type": "Taksi",
+      "total_assets": 245232,
+      "ownership_percentage": 97.77
+    },
+    {
+      "name": "PT Pusaka Nuri Utama",
+      "business_type": "Taksi",
+      "total_assets": 245232,
+      "ownership_percentage": 97.77
+    },
+    {
+      "name": "PT Prima Sarijati Agung",
+      "business_type": "Taksi",
+      "total_assets": 223626,
+      "ownership_percentage": 99.03
+    },
+    {
+      "name": "PT Prima Sarijati Agung",
+      "business_type": "Taksi",
+      "total_assets": 221595,
+      "ownership_percentage": 99.03
+    },
+    {
+      "name": "PT Prima Sarijati Agung",
+      "business_type": "Taksi",
+      "total_assets": 218308,
+      "ownership_percentage": 99.03
+    },
+    {
+      "name": "PT Prima Sarijati Agung",
+      "business_type": "Taksi",
+      "total_assets": 216633,
+      "ownership_percentage": 99.03
+    },
+    {
+      "name": "PT Praja Bali Transportasi",
+      "business_type": "Taksi",
+      "total_assets": 212521,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Satria Utama",
+      "business_type": "Taksi",
+      "total_assets": 209276,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Pusaka Satria Utama",
+      "business_type": "Taksi",
+      "total_assets": 209276,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Praja Bali Transportasi",
+      "business_type": "Taksi",
+      "total_assets": 208924,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Nuri Utama",
+      "business_type": "Taksi",
+      "total_assets": 208229,
+      "ownership_percentage": 97.77
+    },
+    {
+      "name": "PT Praja Bali Transportasi",
+      "business_type": "Taksi",
+      "total_assets": 203752,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Praja Bali Transportasi",
+      "business_type": "Taksi",
+      "total_assets": 199927,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Praja Bali Transportasi",
+      "business_type": "Taksi",
+      "total_assets": 195273,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Nuri Utama",
+      "business_type": "Taksi",
+      "total_assets": 186905,
+      "ownership_percentage": 97.77
+    },
+    {
+      "name": "PT Pusaka Nuri Utama",
+      "business_type": "Taksi",
+      "total_assets": 186795,
+      "ownership_percentage": 97.77
+    },
+    {
+      "name": "PT Pusaka Nuri Utama",
+      "business_type": "Taksi",
+      "total_assets": 176269,
+      "ownership_percentage": 97.77
+    },
+    {
+      "name": "PT Pusaka Nuri Utama",
+      "business_type": "Taksi",
+      "total_assets": 175080,
+      "ownership_percentage": 97.77
+    },
+    {
+      "name": "PT Trans Antar Nusabird",
+      "business_type": "Angkutan Antar Jemput",
+      "total_assets": 150951,
+      "ownership_percentage": 91.57
+    },
+    {
+      "name": "PT Preja Bali Transportasi",
+      "business_type": "Taksi",
+      "total_assets": 146971,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Preja Bali Transportasi",
+      "business_type": "Taksi",
+      "total_assets": 146971,
+      "ownership_percentage": 99.67
+    },
+    {
+      "name": "PT Pusaka Satria Utama",
+      "business_type": "Taksi",
+      "total_assets": 79080,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Balai Lelang Caready",
+      "business_type": "Lelang",
+      "total_assets": 71240,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Irdawan Multitrans",
+      "business_type": "Taksi",
+      "total_assets": 70234,
+      "ownership_percentage": 99.06
+    },
+    {
+      "name": "PT Irdawan Multitrans",
+      "business_type": "Taksi",
+      "total_assets": 69542,
+      "ownership_percentage": 99.06
+    },
+    {
+      "name": "PT Irdawan Multitrans",
+      "business_type": "Taksi",
+      "total_assets": 69542,
+      "ownership_percentage": 99.06
+    },
+    {
+      "name": "PT Pusaka Satria Utama",
+      "business_type": "Taksi",
+      "total_assets": 68812,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Irdawan Multitrans",
+      "business_type": "Taksi",
+      "total_assets": 68623,
+      "ownership_percentage": 99.06
+    },
+    {
+      "name": "PT Irdawan Multitrans",
+      "business_type": "Taksi",
+      "total_assets": 68438,
+      "ownership_percentage": 99.06
+    },
+    {
+      "name": "PT Pusaka Satria Utama",
+      "business_type": "Taksi",
+      "total_assets": 68437,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Pusaka Satria Utama",
+      "business_type": "Taksi",
+      "total_assets": 68173,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Irdawan Multitrans",
+      "business_type": "Taksi",
+      "total_assets": 67648,
+      "ownership_percentage": 99.06
+    },
+    {
+      "name": "PT Pusaka Satria Utama",
+      "business_type": "Taksi",
+      "total_assets": 66673,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Irdawan Multitrans",
+      "business_type": "Taksi",
+      "total_assets": 64698,
+      "ownership_percentage": 99.06
+    },
+    {
+      "name": "PT Lombok Taksi Utama",
+      "business_type": "Taksi",
+      "total_assets": 61037,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Lombok Taksi Utama",
+      "business_type": "Taksi",
+      "total_assets": 59163,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Lombok Taksi Utama",
+      "business_type": "Taksi",
+      "total_assets": 59059,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Lombok Taksi Utama",
+      "business_type": "Taksi",
+      "total_assets": 58633,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Lombok Taksi Utama",
+      "business_type": "Taksi",
+      "total_assets": 58633,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Lombok Taksi Utama",
+      "business_type": "Taksi",
+      "total_assets": 58477,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Lombok Taksi Utama",
+      "business_type": "Taksi",
+      "total_assets": 58071,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Balai Lelang Caready",
+      "business_type": "Lelang",
+      "total_assets": 58047,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Balai Lelang Caready",
+      "business_type": "Lelang",
+      "total_assets": 54138,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Balai Lelang Caready",
+      "business_type": "Lelang",
+      "total_assets": 48150,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Balai Lelang Caready",
+      "business_type": "Lelang",
+      "total_assets": 35339,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Pusaka Mitra Mobilindo",
+      "business_type": "Otomotif",
+      "total_assets": 30437,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pusaka Mitra Mobilindo",
+      "business_type": "Otomotif",
+      "total_assets": 29612,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pusaka Mitra Mobilindo",
+      "business_type": "Otomotif",
+      "total_assets": 28786,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pusaka Mitra Mobilindo",
+      "business_type": "Otomotif",
+      "total_assets": 27990,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Layanan Pusaka Prima",
+      "business_type": "Ketenagakerjaan",
+      "total_assets": 25584,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Layanan Pusaka Prima",
+      "business_type": "Ketenagakerjaan",
+      "total_assets": 22725,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Layanan Pusaka Prima",
+      "business_type": "Ketenagakerjaan",
+      "total_assets": 21332,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Layanan Pusaka Prima",
+      "business_type": "Ketenagakerjaan",
+      "total_assets": 17364,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.865.744.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:25.250Z"
+}

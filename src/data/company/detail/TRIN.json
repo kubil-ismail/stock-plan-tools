@@ -1,0 +1,319 @@
+{
+  "company_name": "PT Perintis Triniti Properti Tbk",
+  "ticker": "TRIN",
+  "office_address": "Brooklyn Premium Office Jl. Sutera Boulevard Kav 22-26 Alam Sutera, Tangerang Selatan, Indonesia 15320",
+  "email": "corsec.trin@trinitiland.com",
+  "phone": "021 30066688",
+  "fax": "021 80821403",
+  "tax_id": "02.751.343.1-415.000",
+  "website": "https://www.trinitiland.com",
+  "listing_date": "2020-01-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Real Estat",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Citra Chandrika Gita Putri",
+    "email": "corsec.trin@trinitiland.com",
+    "phone": "021-8082-1403"
+  },
+  "directors": [
+    {
+      "name": "Ishak Chandra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chandra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Johanes L Andayaprana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gregorius Seloko Uyanto Ak., Mba., Cma., Ca",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rahayu Saraswati Djojohadikusumo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Septian Starlin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Ir. Matius Jusuf Mm, Mba",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Henry Susanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Henry Susanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yohanes Eddy Christianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Richard Yovann",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kunci Daud Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1628738000,
+      "percentage": 35.78
+    },
+    {
+      "name": "PT Intan Investama Internasional",
+      "type": "Lebih dari 5%",
+      "shares": 1241574500,
+      "percentage": 27.28
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1034349368,
+      "percentage": 22.83
+    },
+    {
+      "name": "PT Panca Muara Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 264859000,
+      "percentage": 5.82
+    },
+    {
+      "name": "Rahayu Saraswati Djojohadikusumo",
+      "type": "Komisaris",
+      "shares": 178597672,
+      "percentage": 3.92
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 96268889,
+      "percentage": 2.11
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 57549100,
+      "percentage": 1.22
+    },
+    {
+      "name": "Ishak Chandra",
+      "type": "Direksi",
+      "shares": 46211235,
+      "percentage": 1.02
+    },
+    {
+      "name": "Johanes L. Andayaprana",
+      "type": "Direksi",
+      "shares": 780900,
+      "percentage": 0.02
+    },
+    {
+      "name": "Septian Starlin",
+      "type": "Komisaris",
+      "shares": 25,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Ir. Matius Jusuf, Mm. Mba",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chandra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henry Susanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gregorius Seloko Uyanto, Ak., Mba., Cma., Ca",
+      "type": "Direksi",
+      "shares": 30600,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Triniti Menara Serpong",
+      "business_type": "Mixed Use",
+      "total_assets": 1065831744,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Puri Triniti Batam",
+      "business_type": "Mixed Use",
+      "total_assets": 186675587,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Sirius Terang Cemerlang",
+      "business_type": "Pengembang",
+      "total_assets": 141666604,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Triniti Menara Gading",
+      "business_type": "Mixed Use",
+      "total_assets": 103315332,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Triniti Pilar Gemilang",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 71840075,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Tanamori Makmur Indonesia",
+      "business_type": "Mixed Use",
+      "total_assets": 18526030,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Triniti Garam Properti",
+      "business_type": "Landed House",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.094.991.296.520",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:06.566Z"
+}

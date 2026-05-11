@@ -1,0 +1,334 @@
+{
+  "company_name": "Garuda Indonesia (persero) Tbk",
+  "ticker": "GIAA",
+  "office_address": "Jalan Kebon Sirih No. 46a, Jakarta 10110",
+  "email": "corporate.secretary@garuda-indonesia.com",
+  "phone": "021-2560 1935",
+  "fax": "-",
+  "tax_id": "01.001.634.3-093.000",
+  "website": "https://www.garuda-indonesia.com",
+  "listing_date": "2011-02-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa angkutan udara niaga",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Logistik.",
+    "business_tags": [
+      "Teknologi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 24,
+    "name": "Maskapai Penerbangan"
+  },
+  "sub_industry": {
+    "id": 44,
+    "name": "Maskapai Penerbangan",
+    "industries_id": 24
+  },
+  "corporate_secretary": {
+    "name": "Andreas Tumpal H. Hutapea",
+    "email": "andreas.hutapea@garuda-indonesia.com",
+    "phone": "021-25601935"
+  },
+  "directors": [
+    {
+      "name": "Glenny H. Kairupan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Thomas Sugiarto Oentoro",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Balagopal Kunduvara",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Reza Aulia Hakim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dani Haikal Iriawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mukhtaris",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eksitarino Irianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Neil Raymond Mills",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fajar Prasetyo",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chairal Tanjung",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Frans Dicky Tamara",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mawardi Yahya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fadjar Prasetyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Frans Dicky Tamara",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mawardi Yahya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Chairal Tanjung",
+      "position": "Anggota"
+    },
+    {
+      "name": "M.z. Abidin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dawny Rachella Tahar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fadjar Prasetyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Frans Dicky Tamara",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mawardi Yahya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Chairal Tanjung",
+      "position": "Anggota"
+    },
+    {
+      "name": "M.z. Abidin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dawny Rachella Tahar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 370902553959,
+      "percentage": 91.11
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 32276632488,
+      "percentage": 7.929
+    },
+    {
+      "name": "Negara Republik Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 3746490444,
+      "percentage": 0.92
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 158174614,
+      "percentage": 0.039
+    },
+    {
+      "name": "Chairal Tanjung",
+      "type": "Komisaris",
+      "shares": 6424259,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Frans Dicky Tamara",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Glenny Kairupan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Thomas Oentoro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Balagopal Kunduvara",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Reza Aulia Hakim",
+      "type": "Direksi",
+      "shares": 16841,
+      "percentage": 0
+    },
+    {
+      "name": "Dani Haikal Iriawan",
+      "type": "Direksi",
+      "shares": 19706,
+      "percentage": 0
+    },
+    {
+      "name": "Mukhtaris",
+      "type": "Direksi",
+      "shares": 25459,
+      "percentage": 0
+    },
+    {
+      "name": "Eksitarino Irianto",
+      "type": "Direksi",
+      "shares": 1366067,
+      "percentage": 0
+    },
+    {
+      "name": "Neil Raymond Mills",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Garuda Indonesia Holiday France S.a.s",
+      "business_type": "Biro Perjalanan Wisata, Penjualan Tiket dan Jasa Penyewaan Pesawat",
+      "total_assets": 2147240900,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citilink Indonesia",
+      "business_type": "Jasa Angkutan Udara",
+      "total_assets": 2106427081,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "business_type": "Perbaikan dan Pemeliharaan Pesawat Terbang",
+      "total_assets": 510721845,
+      "ownership_percentage": 91.17
+    },
+    {
+      "name": "PT Aero Wisata dan Anak Perusahaan",
+      "business_type": "Hotel, Jasa Boga dan Penjualan Tiket",
+      "total_assets": 139271680,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sabre Travel Network Indonesia",
+      "business_type": "Penyedia Jasa Sistem Komputerisasi Reservasi",
+      "total_assets": 10374850,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Aero Systems Indonesia",
+      "business_type": "Penyedia Teknologi Informasi",
+      "total_assets": 5099027,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "27.682.235.860.916",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:54.254Z"
+}

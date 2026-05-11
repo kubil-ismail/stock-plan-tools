@@ -1,0 +1,216 @@
+{
+  "company_name": "PT Satria Mega Kencana Tbk.",
+  "ticker": "SOTS",
+  "office_address": "Jl. Panglima Polim Raya No. 28, Pulo, Kebayoran Baru, Jakarta Selatan",
+  "email": "corsec@satriamegakencana.com",
+  "phone": "021-72781782",
+  "fax": "0",
+  "tax_id": "02.415.097.1-019.000",
+  "website": "https://www.satriamegakencana.com",
+  "listing_date": "2018-12-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang real estate, kawasan pariwisata, dan aktivitas perusahaan holding",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Margaretha Rw Tanaji, Sh",
+    "email": "corsec@satriamegakencana.com",
+    "phone": "021-72781782"
+  },
+  "directors": [
+    {
+      "name": "Floreta Tane",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sorta Delima Rosida Elisabeth Cesilia Purba",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Stevano Rizki Adranacus",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Husni Heron",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Husni Heron",
+      "position": "Ketua"
+    },
+    {
+      "name": "Maskanah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aryo Kusumo Wibowo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Herman Herry Adranacus",
+      "type": "Lebih dari 5%",
+      "shares": 260000000,
+      "percentage": 26
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 251140679,
+      "percentage": 25.11
+    },
+    {
+      "name": "Stevano Rizki Adranacus",
+      "type": "Komisaris",
+      "shares": 247967600,
+      "percentage": 24.8
+    },
+    {
+      "name": "Indjun",
+      "type": "Lebih dari 5%",
+      "shares": 141895700,
+      "percentage": 14.19
+    },
+    {
+      "name": "Vonny Kristiani",
+      "type": "Lebih dari 5%",
+      "shares": 99000000,
+      "percentage": 9.9
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tanjung Karoso Permai",
+      "business_type": "Belum Beroperasi",
+      "total_assets": 136671311144,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Dwimukti Mitra Wisata",
+      "business_type": "Perhotelan",
+      "total_assets": 15964088666,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.040.004.138.160",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:28.934Z"
+}

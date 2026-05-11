@@ -1,0 +1,179 @@
+{
+  "company_name": "PT Adira Dinamika Multi Finance Tbk",
+  "ticker": "MFIN",
+  "office_address": "Gedung Millenium Centennial Center Lt. 53-61 Jl. Jend. Sudirman Kav. 25",
+  "email": "af.corsec@adira.com",
+  "phone": "021-39733322",
+  "fax": "021-39734949",
+  "tax_id": "0013 4649 4609 1000",
+  "website": "https://www.adira.co.id",
+  "listing_date": "2005-09-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Andreas Dwi Kurniawan",
+    "email": "andreasdwi.kurniawan@mandalafinance.com",
+    "phone": "021-29259955"
+  },
+  "directors": [
+    {
+      "name": "Swandajani Gunadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ricky Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Niko Kurniawan Bonggowarsito",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sylvanus Gani Kukuh Mendrofa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "I Dewa Made Susila",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sigit Hendra Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Denny Riza Farib",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harry Latif",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Daisuke Ejima",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Krisna Wijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Manggi Taruna Habir",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Congsin Congcar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Honggo Widjojo Kangmasto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rizal Bambang Prasetijo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Selvy Monalisa",
+      "position": "Anggota"
+    },
+    {
+      "name": "I Nyoman Widia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mufg Bank Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 4462989914,
+      "percentage": 89.26
+    },
+    {
+      "name": "PT Adira Dinamika Multi Finance Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 500026548,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 36983538,
+      "percentage": 0.74
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {},
+  "scraped_at": "2026-05-11T06:49:49.004Z"
+}

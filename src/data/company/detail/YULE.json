@@ -1,0 +1,193 @@
+{
+  "company_name": "Yulie Sekuritas Indonesia Tbk",
+  "ticker": "YULE",
+  "office_address": "Plaza Mutiara Lt. 7 Jl. Dr. Ide Anak Agung Gde Agung Kav. E 1.2 No. 1&2 Jakarta 12950",
+  "email": "corsec@yuliesekuritas.com",
+  "phone": "021-20392025",
+  "fax": "021-25981619",
+  "tax_id": "01.331.959.5-054.000",
+  "website": "https://www.yuliesekuritas.com",
+  "listing_date": "2004-12-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Securities Company",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Properti.",
+    "business_tags": [
+      "Perbankan",
+      "Properti"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 12,
+    "name": "Jasa Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 13,
+    "name": "Jasa Investasi"
+  },
+  "sub_industry": {
+    "id": 10,
+    "name": "Bank Investasi & Perantara Perdagangan",
+    "industries_id": 13
+  },
+  "corporate_secretary": {
+    "name": "Agustinus Sumandar",
+    "email": "corsec@yuliesekurindo.com",
+    "phone": "021-20392025"
+  },
+  "directors": [
+    {
+      "name": "Vera Marlinata Widjaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Agustinus Sumandar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Husin Chandra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ignatius Budiman",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lusy Miranda",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lusy Miranda",
+      "position": "Ketua"
+    },
+    {
+      "name": "Melissa Jane Halim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Reinhard Simanungkalit",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1409072496,
+      "percentage": 78.94
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 197713200,
+      "percentage": 11.08
+    },
+    {
+      "name": "PT Gema Buana Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 178214304,
+      "percentage": 9.98
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ignatius Budiman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lusy Miranda",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Vera Marlinata Widjaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Husin Chandra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agustinus Sumandar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tanjung Lesung Resort",
+      "business_type": "Real Estate",
+      "total_assets": 52370467474,
+      "ownership_percentage": 98.09
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.015.450.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:14.184Z"
+}

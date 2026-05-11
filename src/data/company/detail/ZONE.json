@@ -1,0 +1,293 @@
+{
+  "company_name": "PT Mega Perintis Tbk.",
+  "ticker": "ZONE",
+  "office_address": "Jalan Karet Pedurenan No. 240, Karet Kuningan, Setiabudi, Jakarta Selatan, 12940",
+  "email": "corpsec@megaperintis.co.id",
+  "phone": "(021) 5733 888; (021) 5290 4379",
+  "fax": "(021) 5290 5103",
+  "tax_id": "02.433.917.8-011.000",
+  "website": "https://www.megaperintis.co.id",
+  "listing_date": "2018-12-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan retail",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 91,
+    "name": "Ritel Pakaian & Tekstil",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Luki Rusli",
+    "email": "corpsec@megaperintis.co.id, luki.rusli@megaperintis.co.id, aga.arwanto@megaperintis.co.id",
+    "phone": "021-5733 888"
+  },
+  "directors": [
+    {
+      "name": "Franxiscus Afat Adinata Nursalim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Luki Rusli",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Vanda Gunawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Anthony Soehartono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Verosito Gunawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anthony Soehartono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Shinta Rahayu",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agustina",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Verosito Gunawan",
+      "type": "Komisaris",
+      "shares": 312530000,
+      "percentage": 35.92
+    },
+    {
+      "name": "PT Tancorp Investama Mulia",
+      "type": "Lebih dari 5%",
+      "shares": 205797000,
+      "percentage": 23.65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 132531078,
+      "percentage": 15.23
+    },
+    {
+      "name": "Vanda Gunawan",
+      "type": "Komisaris",
+      "shares": 106225000,
+      "percentage": 12.21
+    },
+    {
+      "name": "Ganesh Subash",
+      "type": "Lebih dari 5%",
+      "shares": 74595900,
+      "percentage": 8.57
+    },
+    {
+      "name": "Franxiscus Afat Adinata Nursalim",
+      "type": "Direksi",
+      "shares": 38492500,
+      "percentage": 4.42
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mega Putra Garment",
+      "business_type": "Produsen Pakaian Jadi",
+      "total_assets": 212426387750,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitrelindo Global",
+      "business_type": "Perdagangan",
+      "total_assets": 126567983923,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rudal Maju Sejahtera",
+      "business_type": "Perdagangan",
+      "total_assets": 1626530522,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Mrry Terang Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 993660000,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "295.858.302.520",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:19.552Z"
+}

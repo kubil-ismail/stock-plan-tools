@@ -1,0 +1,257 @@
+{
+  "company_name": "PT Saraswanti Indoland Development Tbk",
+  "ticker": "SWID",
+  "office_address": "Jalan Palagan Tentara Pelajar Km. 7, Sariharjo, Ngaglik, Kab. Sleman, Daerah Istimewa Yogyakarta",
+  "email": "corsec.swid@saraswanti.com",
+  "phone": "0274 883866",
+  "fax": "",
+  "tax_id": "31.221.080.0-542.000",
+  "website": "https://www.saraswantiproperty.com",
+  "listing_date": "2022-07-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Properti & Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Maria Evarisma Wulandari",
+    "email": "corsec.swid@saraswanti.com",
+    "phone": "(0274) 883866"
+  },
+  "directors": [
+    {
+      "name": "Bogat Agus Riyono",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Gentina Ratna Octanti",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Samsul Hadi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Muhammad Alfian Ramadhan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "",
+      "position": "",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Roossusetyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bambang Takri Subarkah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ade Irma Hidayah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Saraswanti Utama",
+      "type": "Lebih dari 5%",
+      "shares": 3420338983,
+      "percentage": 63.52
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1104632772,
+      "percentage": 20.51
+    },
+    {
+      "name": "Bogat Agus Riyono",
+      "type": "Direksi",
+      "shares": 860047446,
+      "percentage": 15.97
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Noegroho Hari Hardono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ir. Yahya Taufik",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Roossusetyo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gentina Ratna Octanti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Samsul Hadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Alfian Ramadhan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Saraswanti Indoland Development Tbk",
+      "business_type": "Properti & Real Estate",
+      "total_assets": 439731569218,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saraswanti Indoland Development Tbk",
+      "business_type": "Properti & Real Estate",
+      "total_assets": 391496048357,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saraswanti Indoland Development Tbk",
+      "business_type": "Properti & Real Estate",
+      "total_assets": 361866279173,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saraswanti Indoland Development Tbk",
+      "business_type": "Properti & Real Estate",
+      "total_assets": 361866279173,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Saraswanti Indoland Development Tbk",
+      "business_type": "Properti & Real Estate",
+      "total_assets": 323041781187,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "581.582.073.708",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:01.568Z"
+}

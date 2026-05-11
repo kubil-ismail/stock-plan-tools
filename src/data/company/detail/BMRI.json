@@ -1,0 +1,403 @@
+{
+  "company_name": "PT Bank Mandiri (persero) Tbk",
+  "ticker": "BMRI",
+  "office_address": "Menara Mandiri 1, Jl. Jend. Sudirman Kav. 54-55, Jakarta 12190",
+  "email": "cma@bankmandiri.co.id",
+  "phone": "5265045; 5265095 (Hunting)",
+  "fax": "5274477; 5275577",
+  "tax_id": "01.061.173.9-093.000",
+  "website": "https://www.bankmandiri.co.id",
+  "listing_date": "2003-07-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Keuangan - Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Adhika Vista",
+    "email": "corporate.secretary@bankmandiri.co.id",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Riduan",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Henry Panjaitan",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Timothy Utama",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Eka Fitria",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Danis Subyantoro",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Totok Priyambodo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mochamad Rizaldi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Saptari",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ari Rizaldi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Novita Widya Anggraini",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Jan Winston Tambunan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Sunarto",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Zulkifli Zaini",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "M. Rudy Salahuddin Ramto",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Luky Alfirman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yuliot",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mia Amiati",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "B. Bintoro Kunto Pardewo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Zulkifli Zaini*",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mia Amiati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bintoro K. Pardewo",
+      "position": "Anggota"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rasyid Darajat",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rubi Pertama",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 48048000001,
+      "percentage": 51.48
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 37672287849,
+      "percentage": 40.363
+    },
+    {
+      "name": "Indonesia Investment Authority",
+      "type": "Lebih dari 5%",
+      "shares": 7466666666,
+      "percentage": 8
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 91750000,
+      "percentage": 0.0985
+    },
+    {
+      "name": "Zulkifli Zaini",
+      "type": "Komisaris",
+      "shares": 22850900,
+      "percentage": 0.0245
+    },
+    {
+      "name": "Riduan",
+      "type": "Direksi",
+      "shares": 14547800,
+      "percentage": 0.0156
+    },
+    {
+      "name": "Timothy Utama",
+      "type": "Direksi",
+      "shares": 10489300,
+      "percentage": 0.0112
+    },
+    {
+      "name": "Eka Fitria",
+      "type": "Direksi",
+      "shares": 4293600,
+      "percentage": 0.0046
+    },
+    {
+      "name": "Sunarto",
+      "type": "Direksi",
+      "shares": 549600,
+      "percentage": 0.0006
+    },
+    {
+      "name": "Danis Subyantoro",
+      "type": "Direksi",
+      "shares": 348584,
+      "percentage": 0.0004
+    },
+    {
+      "name": "Totok Priyambodo",
+      "type": "Direksi",
+      "shares": 370000,
+      "percentage": 0.0004
+    },
+    {
+      "name": "Mochamad Rizaldi",
+      "type": "Direksi",
+      "shares": 403400,
+      "percentage": 0.0004
+    },
+    {
+      "name": "Ari Rizaldi",
+      "type": "Direksi",
+      "shares": 183168,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Henry Panjaitan",
+      "type": "Direksi",
+      "shares": 163000,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Novita Widya Anggraeni",
+      "type": "Direksi",
+      "shares": 222000,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Saptari",
+      "type": "Direksi",
+      "shares": 121064,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Jan Winston Tambunan",
+      "type": "Direksi",
+      "shares": 86400,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "M. Rudy Salahuddin Ramto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "B. Bintoro Kunto Pardewo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Luky Alfirman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yuliot",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mia Amiati Iskandar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Syariah Indonesia Tbk.",
+      "business_type": "Perbankan Syariah",
+      "total_assets": 416568238,
+      "ownership_percentage": 51.47
+    },
+    {
+      "name": "PT Bank Mandiri Taspen",
+      "business_type": "Perbankan",
+      "total_assets": 69794531,
+      "ownership_percentage": 51.1
+    },
+    {
+      "name": "PT Axa Mandiri Financial Services",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 43829435,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mandiri Tunas Finance",
+      "business_type": "Pembiayaan Konsumen",
+      "total_assets": 28808018,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mandiri Utama Finance",
+      "business_type": "Pembiayaan Konsumen",
+      "total_assets": 17112250,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mandiri Sekuritas",
+      "business_type": "Sekuritas",
+      "total_assets": 7364793,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mandiri Capital Indonesia",
+      "business_type": "Modal Ventura",
+      "total_assets": 6302495,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Bank Mandiri (europe) Limited",
+      "business_type": "Perbankan",
+      "total_assets": 4811009,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mandiri International Remittance Sendirian Berhad",
+      "business_type": "Layanan Remittance",
+      "total_assets": 36805,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "405.635.999.982.440",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:46.694Z"
+}

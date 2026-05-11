@@ -1,0 +1,336 @@
+{
+  "company_name": "PT Hensel Davest Indonesia Tbk",
+  "ticker": "HDIT",
+  "office_address": "Bussiness Park A5/05 Centre Point Of Indonesia, Makassar, Sulawesi Selatan, (90121).",
+  "email": "corsec@hdi.co.id",
+  "phone": "(0411) 6000808",
+  "fax": "0",
+  "tax_id": "03.275.285.9-805.000",
+  "website": "https://www.hdi.co.id",
+  "listing_date": "2019-07-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "pengembangan aplikasi perdagangan melalui internet (e-commerce) dan pendistribusian produk digital",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Keuangan.",
+    "business_tags": [
+      "Teknologi",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Riska Handayani",
+    "email": "corsec@hdi.co.id",
+    "phone": "(0411) 6000 808"
+  },
+  "directors": [
+    {
+      "name": "Kresnal Pangaroan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Santih",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Edwin Hosan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Noviana Leonard",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [],
+  "shareholders": [
+    {
+      "name": "PT. Davest Investama Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 796679400,
+      "percentage": 52.25
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 727990600,
+      "percentage": 47.75
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edwin Hosan",
+      "type": "Komisaris",
+      "shares": 10000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Biropay Indoteknologi Global",
+      "business_type": "Information, Communication, Finance Consulting And Insurance, Trading And Consulting.",
+      "total_assets": 291417710119,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Biropay Indoteknologi Global",
+      "business_type": "Information, Communication, Finance Consulting And Insurance, Trading And Consulting.",
+      "total_assets": 158649646359,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Biropay Indoteknologi Global",
+      "business_type": "Information, Communication, Finance Consulting And Insurance, Trading And Consulting.",
+      "total_assets": 149971082873,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Biropay Indoteknologi Global",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 149330950643,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Biropay Indoteknologi Global",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 148696836026,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Emposh Sinergi Asia",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa",
+      "total_assets": 57341107959,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Emposh Sinergi Asia",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa",
+      "total_assets": 57294385459,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Emposh Sinergi Asia",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 57294385459,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Emposh Sinergi Asia",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 57294385459,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Emposh Sinergi Asia",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa",
+      "total_assets": 57294385458,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Motransfer Otoritas Internasional",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa",
+      "total_assets": 15922581250,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Motransfer Otoritas Internasional",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 15867581250,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Motransfer Otoritas Internasional",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa",
+      "total_assets": 15867581250,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Motransfer Otoritas Internasional",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 15867581250,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Motransfer Otoritas Internasional",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa",
+      "total_assets": 15867581250,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Doeku Peduli Indonesia",
+      "business_type": "Information, Communication, Finance Consulting And Insurance, Trading And Consulting.",
+      "total_assets": 14994650660,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Starlink Solusi",
+      "business_type": "Trading",
+      "total_assets": 13384305373,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Starlink Solusi",
+      "business_type": "Trading",
+      "total_assets": 13221553610,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Starlink Solusi",
+      "business_type": "Trading",
+      "total_assets": 13221440041,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Starlink Solusi Internasional",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 13211142658,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Starlink Solusi Internasional",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 13211079150,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Doeku Peduli Indonesia",
+      "business_type": "Information, Communication, Finance Consulting And Insurance, Trading And Consulting.",
+      "total_assets": 10901487799,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Doeku Peduli Indonesia",
+      "business_type": "Information, Communication, Finance Consulting And Insurance, Trading And Consulting.",
+      "total_assets": 10448461359,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Doeku Peduli Indonesia",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 10049567916,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Doeku Peduli Indonesia",
+      "business_type": "Informasi, Komunikasi, Jasa Keuangan dan Asuransi, Perdagangan dan Jasa/ Information, Communication, Finance Consulting And Insurance, Trading And Consulting",
+      "total_assets": 9629696470,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Arthawan Edward"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Arthawan Edward"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Arthawan Edward"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "96.054.840.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:30.264Z"
+}

@@ -1,0 +1,223 @@
+{
+  "company_name": "PT Medco Energi Internasional Tbk",
+  "ticker": "MEDC",
+  "office_address": "Gedung The Energy, Lantai 52 SCBD Lot, 11a, Jl. Jend. Sudirman Kav. 52-53, Senayan, Kebayoran Baru, Jakarta Selatan",
+  "email": "corporate.secretary@medcoenergi.com",
+  "phone": "(021) 2995-3000",
+  "fax": "(021) 2995-3001",
+  "tax_id": "01.002.095.6-081.000",
+  "website": "https://www.medcoenergi.com",
+  "listing_date": "1994-10-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Crude Petroleum and Natural Gas Prod.",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 82,
+    "name": "Produksi & Penyulingan Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Siendy K. Wisandana",
+    "email": "siendyk.wisandana@medcoenergi.com",
+    "phone": "021 29953000"
+  },
+  "directors": [
+    {
+      "name": "Hilmi Panigoro",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Roberto Lorato",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ronald Gunawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Anthony R. Mathias",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Amri Siahaan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yani Yuhani Panigoro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yaser Raimi A. Panigoro",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Marsillam Simandjuntak",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bambang Subianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hendry",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ferry Sanjaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Medco Daya Abadi Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 12944140124,
+      "percentage": 51.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6108157294,
+      "percentage": 24.2
+    },
+    {
+      "name": "Diamond Bridge Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 5395205771,
+      "percentage": 21.46
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 455609908,
+      "percentage": 1.81
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 84103000,
+      "percentage": 0.33
+    },
+    {
+      "name": "Ronald Gunawan",
+      "type": "Direksi",
+      "shares": 56201072,
+      "percentage": 0.26
+    },
+    {
+      "name": "Amri Siahaan",
+      "type": "Direksi",
+      "shares": 33219619,
+      "percentage": 0.17
+    },
+    {
+      "name": "Hilmi Panigoro",
+      "type": "Direksi",
+      "shares": 26528083,
+      "percentage": 0.11
+    },
+    {
+      "name": "Roberto Lorato",
+      "type": "Direksi",
+      "shares": 13915680,
+      "percentage": 0.06
+    },
+    {
+      "name": "Yani Y. Panigoro",
+      "type": "Komisaris",
+      "shares": 11195706,
+      "percentage": 0.05
+    },
+    {
+      "name": "Anthony R. Mathias",
+      "type": "Direksi",
+      "shares": 4426182,
+      "percentage": 0.04
+    },
+    {
+      "name": "Yaser Raimi A.panigoro",
+      "type": "Komisaris",
+      "shares": 3528813,
+      "percentage": 0.01
+    },
+    {
+      "name": "Marsillam Simandjuntak",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "43.988.404.691.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:38.862Z"
+}

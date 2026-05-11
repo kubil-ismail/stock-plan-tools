@@ -1,0 +1,310 @@
+{
+  "company_name": "PT Bali Bintang Sejahtera Tbk.",
+  "ticker": "BOLA",
+  "office_address": "Jl. Pararaton No. 2, Legian, Kec. Kuta, Kab. Badung, Bali 80361",
+  "email": "corporate.secretary@baliutd.com",
+  "phone": "0361-3700019",
+  "fax": "0",
+  "tax_id": "71.814.115.3-901.000",
+  "website": "https://www.baliutd.com",
+  "listing_date": "2019-06-17",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Menjalankan usaha klub sepak bola dan usaha perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 20,
+    "name": "Fasilitas Rekreasi & Olah Raga",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Yohanes Ade Bunian Moniaga",
+    "email": "corporate.secretary@baliutd.com",
+    "phone": "0361-3700019"
+  },
+  "directors": [
+    {
+      "name": "Yabes Tanuri",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yohanes Ade Bunian Moniaga",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Katharine Wianna",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Putri Paramita Sudali",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jemi Wiyono Prihadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Edy Soehartono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Andy Flores Noya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "M. Iman Usman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ahmad Sofyan",
+      "position": "Anggota"
+    },
+    {
+      "name": "J. Hasan Anwar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 2680142280,
+      "percentage": 44.68
+    },
+    {
+      "name": "Pieter Tanuri",
+      "type": "Lebih dari 5%",
+      "shares": 2295830720,
+      "percentage": 38.26
+    },
+    {
+      "name": "PT Asuransi Central Asia",
+      "type": "Lebih dari 5%",
+      "shares": 533000000,
+      "percentage": 8.88
+    },
+    {
+      "name": "Ayu Patricia Rachmat",
+      "type": "Lebih dari 5%",
+      "shares": 304627000,
+      "percentage": 5.08
+    },
+    {
+      "name": "Yabes Tanuri",
+      "type": "Direksi",
+      "shares": 150000000,
+      "percentage": 2.5
+    },
+    {
+      "name": "Putri Paramita Sudali",
+      "type": "Direksi",
+      "shares": 32550000,
+      "percentage": 0.54
+    },
+    {
+      "name": "Katharine Wianna",
+      "type": "Direksi",
+      "shares": 2500000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Jemi Wiyono Prihadi",
+      "type": "Komisaris",
+      "shares": 1350000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kreasi Karya Bangsa",
+      "business_type": "Sport Agency dan Live Video Streaming",
+      "total_assets": 216677149615,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Ekonomi Baru Investasi Teknologi",
+      "business_type": "Aktivitas Holding",
+      "total_assets": 136169707972,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Pedagang Aset Kripto",
+      "business_type": "Pengelolaan Portal Web dan Platform Digital",
+      "total_assets": 103976565233,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Rahasia Gadis Nusantara",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 11717501498,
+      "ownership_percentage": 23
+    },
+    {
+      "name": "PT Manusia Masa Depan",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 7881835238,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Iog Indonesia Sejahtera",
+      "business_type": "Aktivitas Olahraga dan Rekreasi Lainnya",
+      "total_assets": 4188067658,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Bali Boga Sejahtera",
+      "business_type": "Restoran dan Kafe",
+      "total_assets": 1111173390,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Radio Swara Bukit Bali Indah",
+      "business_type": "Penyiaran Radio",
+      "total_assets": 471846474,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.020.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:59.764Z"
+}

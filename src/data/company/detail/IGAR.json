@@ -1,0 +1,231 @@
+{
+  "company_name": "Champion Pacific Indonesia Tbk",
+  "ticker": "IGAR",
+  "office_address": "Jl. Sultan Agung Km. 28,5 Bekasi 17133",
+  "email": "corporate@champion.co.id, bogi.dhina@champion.co.id",
+  "phone": "021-8840040, 021-8841088",
+  "fax": "-",
+  "tax_id": "0010006427054000",
+  "website": "https://www.champion.co.id",
+  "listing_date": "1990-11-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Konsultasi Manajemen Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Wadah & Kemasan.",
+    "business_tags": [
+      "Wadah & Kemasan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Bogi Dhina Aryanti",
+    "email": "corporate@champion.co.id",
+    "phone": "0218840040"
+  },
+  "directors": [
+    {
+      "name": "Antonius Muhartoyo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Masanobu Ojima",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yo Kubota",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vera Sutidjan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Mika Fukuda",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Budi Dharma Wreksoatmodjo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Akinori Kuwauchi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dyah Sulistyandhari",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dyah Sulistyandhari",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yudi Wijaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Stefani Eka Pramita",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kingsford Holdings",
+      "type": "Lebih dari 5%",
+      "shares": 772122420,
+      "percentage": 83.22
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 99289800,
+      "percentage": 10.7
+    },
+    {
+      "name": "PT Kalbe Farma Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 52500000,
+      "percentage": 5.66
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3868380,
+      "percentage": 0.42
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Dharma Wkersoatmodjo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Akinori Kuwauchi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dyah Listyandhari",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Antonius Muhartoyo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masanobu Ojima",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yo Kubota",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mika Fukuda",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Vera Sutidjan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Avesta Continental Pack",
+      "business_type": "Kemasan",
+      "total_assets": 962131391,
+      "ownership_percentage": 76.47
+    },
+    {
+      "name": "PT Indogravure",
+      "business_type": "Kemasan",
+      "total_assets": 354487282,
+      "ownership_percentage": 61.49
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "447.190.249.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:12.179Z"
+}

@@ -1,0 +1,230 @@
+{
+  "company_name": "PT Esta Multi Usaha Tbk.",
+  "ticker": "ESTA",
+  "office_address": "Gedung Wisma D Esta Komplek Komersil Sekt II Blok Ah 2 No. 7a Bsd Rawabuntu Serpong Kota Tangerang Selatan Banten 15318",
+  "email": "corpsec@estamultiusaha.co.id",
+  "phone": "+62 21 6083 4569",
+  "fax": "+ 62 21 6083 4568",
+  "tax_id": "31.422.706.7.411.000",
+  "website": "https://www.estamultiusaha.co.id",
+  "listing_date": "2020-03-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perhotelan Bintang 2, Penyewaan Ruko, Penyewaan Mobil Penumpangdan Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Andaru Surya Gautama",
+    "email": "corpsec@estamultiusaha.co.id",
+    "phone": "021 8063 4568"
+  },
+  "directors": [
+    {
+      "name": "Melvin Wangkar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Andaru Surya Gautama",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Joga Arjanto Adhimuljono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Alkie Samuel Sutandra",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Alkie Samuel Sutandra",
+      "position": "Ketua"
+    },
+    {
+      "name": "Joga Arjanto Adhimuljono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sandi Komaruddin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Esta Utama Corpora",
+      "type": "Lebih dari 5%",
+      "shares": 1518470799,
+      "percentage": 62.61
+    },
+    {
+      "name": "Jpmcb Na Re-jpmcb Singapore Branch",
+      "type": "Lebih dari 5%",
+      "shares": 489150659,
+      "percentage": 20.17
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 228970671,
+      "percentage": 9.44
+    },
+    {
+      "name": "PT Esta Dana Ventura",
+      "type": "Lebih dari 5%",
+      "shares": 188762050,
+      "percentage": 7.78
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rony Harianto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alkie Samuel Sutandra",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Melvin Wangkar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andaru Surya Gautama",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Esta Prima Investama",
+      "business_type": "Perhotelan",
+      "total_assets": 289097909196,
+      "ownership_percentage": 99.98
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "538.428.627.738",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:12.262Z"
+}

@@ -1,0 +1,754 @@
+{
+  "company_name": "PT Telkom Indonesia (persero) Tbk",
+  "ticker": "TLKM",
+  "office_address": "Telkom Landmark Tower, Lantai 51",
+  "email": "investor@telkom.co.id",
+  "phone": "(021) 5215109",
+  "fax": "(021) 5215109",
+  "tax_id": "01.000.013.1-093.000",
+  "website": "https://www.telkom.co.id",
+  "listing_date": "1995-11-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Penyelenggara Jaringan dan Jasa Telekom",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Konstruksi, Media.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Konstruksi",
+      "Media"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 16,
+    "name": "Jasa Telekomunikasi"
+  },
+  "sub_industry": {
+    "id": 35,
+    "name": "Jasa Telekomunikasi Terintegrasi",
+    "industries_id": 16
+  },
+  "corporate_secretary": {
+    "name": "Jati Widagdo",
+    "email": "investor@telkom.co.id",
+    "phone": "(021)5215109"
+  },
+  "directors": [
+    {
+      "name": "Dian Siswarini",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Satria Dharma Purba",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Willy Saelan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arthur Angelo Syailendra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Veranita Yosephine",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nanang Hendarno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Faizal Rochmad Djoemadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Seno Soemadji",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andy Kelana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Angga Raka Prabowo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rofikoh Rokhim",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Deswandhy Agusman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rizal Malarangeng",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Silmy Karim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ossy Dermawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ira Noviarti",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rionald Silaban",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Deswandhy Agusman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rofikoh Rokhim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ira Noviarti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irhoan Tanudiredja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Achmad Taufik",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management",
+      "type": "Lebih dari 5%",
+      "shares": 51086330024,
+      "percentage": 51.5699
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 41168070280,
+      "percentage": 41.5579
+    },
+    {
+      "name": "The Bank Of New York Mellon Dr",
+      "type": "Lebih dari 5%",
+      "shares": 5884164980,
+      "percentage": 5.9399
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 566728816,
+      "percentage": 0.5723
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 351764200,
+      "percentage": 0.3555
+    },
+    {
+      "name": "Rizal Mallarangeng",
+      "type": "Komisaris",
+      "shares": 3240600,
+      "percentage": 0.003
+    },
+    {
+      "name": "Silmy Karim",
+      "type": "Komisaris",
+      "shares": 1344700,
+      "percentage": 0.001
+    },
+    {
+      "name": "Dian Siswarini",
+      "type": "Direksi",
+      "shares": 202000,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Faizal Rochmad Djoemadi",
+      "type": "Direksi",
+      "shares": 248500,
+      "percentage": 0.0002
+    },
+    {
+      "name": "Veranita Yosephine",
+      "type": "Direksi",
+      "shares": 90000,
+      "percentage": 0.0001
+    },
+    {
+      "name": "Angga Raka Prabowo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yohanes Surya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ira Noviarti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ossy Dermawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Deswandhy Agusman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rionald Silaban",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andy Kelana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nanang Hendarno",
+      "type": "Direksi",
+      "shares": 32500,
+      "percentage": 0
+    },
+    {
+      "name": "Seno Soemadji",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Willy Saelan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Satria Dharma Purba",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Arthur Angelo Syailendra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Telekomunikasi Selular",
+      "business_type": "Jasa Jaringan dan Layanan Telekomunikasi Seluler",
+      "total_assets": 112966,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Telekomunikasi Selular",
+      "business_type": "Jasa Jaringan dan Layanan Telekomunikasi Seluler",
+      "total_assets": 111519,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Telekomunikasi Selular",
+      "business_type": "Jasa Jaringan dan Layanan Telekomunikasi Seluler",
+      "total_assets": 109811,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Telekomunikasi Selular",
+      "business_type": "Jasa Jaringan dan Layanan Telekomunikasi Seluler",
+      "total_assets": 108250,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Telekomunikasi Selular",
+      "business_type": "Jasa Jaringan dan Layanan Telekomunikasi Seluler",
+      "total_assets": 100991,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Dayamitra Telekomunikasi Tbk.",
+      "business_type": "Penyewaan Menara Telekomunikasi dan Jasa Telekomunikasi Lainnya",
+      "total_assets": 57611,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Dayamitra Telekomunikasi Tbk.",
+      "business_type": "Penyewaan Menara Telekomunikasi dan Jasa Telekomunikasi Lainnya",
+      "total_assets": 57309,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Dayamitra Telekomunikasi Tbk.",
+      "business_type": "Penyewaan Menara Telekomunikasi dan Jasa Telekomunikasi Lainnya",
+      "total_assets": 57010,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Dayamitra Telekomunikasi Tbk.",
+      "business_type": "Penyewaan Menara Telekomunikasi dan Jasa Telekomunikasi Lainnya",
+      "total_assets": 56977,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Dayamitra Telekomunikasi Tbk.",
+      "business_type": "Penyewaan Menara Telekomunikasi dan Jasa Telekomunikasi Lainnya",
+      "total_assets": 56790,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Multimedia Nusantara",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Multimedia",
+      "total_assets": 19099,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multimedia Nusantara",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Multimedia",
+      "total_assets": 18457,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multimedia Nusantara",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Multimedia",
+      "total_assets": 18025,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multimedia Nusantara",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Multimedia",
+      "total_assets": 17992,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multimedia Nusantara",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Multimedia",
+      "total_assets": 17981,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telekomunikasi Indonesia International",
+      "business_type": "Jasa Telekomunikasi dan Informasi Internasional",
+      "total_assets": 17981,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telekomunikasi Indonesia International",
+      "business_type": "Jasa Telekomunikasi dan Informasi Internasional",
+      "total_assets": 17929,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telekomunikasi Indonesia International",
+      "business_type": "Jasa Telekomunikasi dan Informasi Internasional",
+      "total_assets": 17634,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telekomunikasi Indonesia International",
+      "business_type": "Jasa Telekomunikasi dan Informasi Internasional",
+      "total_assets": 15175,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telekomunikasi Indonesia International",
+      "business_type": "Jasa Telekomunikasi dan Informasi Internasional",
+      "total_assets": 13794,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Data Ekosistem",
+      "business_type": "Data Center",
+      "total_assets": 9136,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Data Ekosistem",
+      "business_type": "Data Center",
+      "total_assets": 9075,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Satelit Indonesia",
+      "business_type": "Telekomunikasi - Menyediakan Sistem Komunikasi Satelit, Jasa dan Sarana Terkait",
+      "total_assets": 8502,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Satelit Indonesia",
+      "business_type": "Telekomunikasi - Menyediakan Sistem Komunikasi Satelit, Jasa dan Sarana Terkait",
+      "total_assets": 8319,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Satelit Indonesia",
+      "business_type": "Telekomunikasi - Menyediakan Sistem Komunikasi Satelit, Jasa dan Sarana Terkait",
+      "total_assets": 7938,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sigma Cipta Caraka",
+      "business_type": "Jasa Konsultasi Piranti Keras, Piranti Lunak Komputer, dan Pusat Penyimpanan Data",
+      "total_assets": 7935,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Satelit Indonesia",
+      "business_type": "Telekomunikasi - Menyediakan Sistem Komunikasi Satelit, Jasa dan Sarana Terkait",
+      "total_assets": 7901,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sigma Cipta Caraka",
+      "business_type": "Jasa Konsultasi Piranti Keras, Piranti Lunak Komputer, dan Pusat Penyimpanan Data",
+      "total_assets": 7616,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Data Ekosistem",
+      "business_type": "Data Center",
+      "total_assets": 7260,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Satelit Indonesia",
+      "business_type": "Telekomunikasi - Menyediakan Sistem Komunikasi Satelit, Jasa dan Sarana Terkait",
+      "total_assets": 6896,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sigma Cipta Caraka",
+      "business_type": "Jasa Konsultasi Piranti Keras, Piranti Lunak Komputer, dan Pusat Penyimpanan Data",
+      "total_assets": 6720,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sigma Cipta Caraka",
+      "business_type": "Jasa Konsultasi Piranti Keras, Piranti Lunak Komputer, dan Pusat Penyimpanan Data",
+      "total_assets": 6666,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sigma Cipta Caraka",
+      "business_type": "Jasa Konsultasi Piranti Keras, Piranti Lunak Komputer, dan Pusat Penyimpanan Data",
+      "total_assets": 6080,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Sarana Duta",
+      "business_type": "Pembangunan, Perdagangan, Jasa, dan Pengangkutan Darat",
+      "total_assets": 5997,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Sarana Duta",
+      "business_type": "Pembangunan, Perdagangan, Jasa, dan Pengangkutan Darat",
+      "total_assets": 5942,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Sarana Duta",
+      "business_type": "Pembangunan, Perdagangan, Jasa, dan Pengangkutan Darat",
+      "total_assets": 5918,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Sarana Duta",
+      "business_type": "Pembangunan, Perdagangan, Jasa, dan Pengangkutan Darat",
+      "total_assets": 5618,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Sarana Duta",
+      "business_type": "Pembangunan, Perdagangan, Jasa, dan Pengangkutan Darat",
+      "total_assets": 5614,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Akses",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 4777,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Akses",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 4601,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Akses",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 4475,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Akses",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 4220,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Data Ekosistem",
+      "business_type": "Data Center",
+      "total_assets": 4059,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Akses",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 4052,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Data Ekosistem",
+      "business_type": "Data Center",
+      "total_assets": 3400,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Infrastruktur Indonesia",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Informasi",
+      "total_assets": 2562,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metra-net",
+      "business_type": "Jasa Portal Multimedia",
+      "total_assets": 2423,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metra-net",
+      "business_type": "Jasa Portal Multimedia",
+      "total_assets": 2360,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metra-net",
+      "business_type": "Jasa Portal Multimedia",
+      "total_assets": 2051,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Infrastruktur Indonesia",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Informasi",
+      "total_assets": 1925,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metra-net",
+      "business_type": "Jasa Portal Multimedia",
+      "total_assets": 1714,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metra-net",
+      "business_type": "Jasa Portal Multimedia",
+      "total_assets": 1654,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Telekomunikasi Indonesia",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 1495,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Telekomunikasi Indonesia",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 1278,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Telekomunikasi Indonesia",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 1265,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Telekomunikasi Indonesia",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 1261,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Telekomunikasi Indonesia",
+      "business_type": "Pembangunan, Jasa dan Perdagangan Bidang Telekomunikasi",
+      "total_assets": 1240,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pins Indonesia",
+      "business_type": "Jasa dan Pembangunan Telekomunikasi",
+      "total_assets": 814,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pins Indonesia",
+      "business_type": "Jasa dan Pembangunan Telekomunikasi",
+      "total_assets": 775,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pins Indonesia",
+      "business_type": "Jasa dan Pembangunan Telekomunikasi",
+      "total_assets": 753,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pins Indonesia",
+      "business_type": "Jasa dan Pembangunan Telekomunikasi",
+      "total_assets": 715,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pins Indonesia",
+      "business_type": "Jasa dan Pembangunan Telekomunikasi",
+      "total_assets": 705,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Napsindo Primatel Internasional",
+      "business_type": "Telekomunikasi - Menyediakan Network, Access Point (nap), Voice Over Data (vod) dan Jasa Terkait Lainnya",
+      "total_assets": 5,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Napsindo Primatel Internasional",
+      "business_type": "Telekomunikasi - Menyediakan Network, Access Point (nap), Voice Over Data (vod) dan Jasa Terkait Lainnya",
+      "total_assets": 5,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Napsindo Primatel Internasional",
+      "business_type": "Telekomunikasi - Menyediakan Network, Access Point (nap), Voice Over Data (vod) dan Jasa Terkait Lainnya",
+      "total_assets": 5,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Napsindo Primatel Internasional",
+      "business_type": "Telekomunikasi - Menyediakan Network, Access Point (nap), Voice Over Data (vod) dan Jasa Terkait Lainnya",
+      "total_assets": 5,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Napsindo Primatel Internasional",
+      "business_type": "Telekomunikasi - Menyediakan Network, Access Point (nap), Voice Over Data (vod) dan Jasa Terkait Lainnya",
+      "total_assets": 5,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Telkom Infrastruktur Indonesia",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Informasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Telkom Infrastruktur Indonesia",
+      "business_type": "Jasa Jaringan Telekomunikasi dan Informasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "278.364.828.646.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:35.397Z"
+}

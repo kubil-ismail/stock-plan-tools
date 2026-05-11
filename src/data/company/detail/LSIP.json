@@ -1,0 +1,280 @@
+{
+  "company_name": "Pp London Sumatra Indonesia Tbk",
+  "ticker": "LSIP",
+  "office_address": "Ariobimo Sentral 12th Floor Jln. Hr. Rasuna Said Blok X-2 Kav. 5 Jakarta 12950",
+  "email": "corporate.secretary@londonsumatra.com",
+  "phone": "021-80657388",
+  "fax": "021-80657399",
+  "tax_id": "0010 0175 2309 2000",
+  "website": "https://www.londonsumatra.com",
+  "listing_date": "1996-07-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Agriculture Plantation",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Teknologi, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Teknologi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Fajar Triadi",
+    "email": "corporate.secretary@londonsumatra.com",
+    "phone": "021-57958822"
+  },
+  "directors": [
+    {
+      "name": "Tan Agustinus Dermawan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tio Eddy Hariyanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Joefly Joesoef Bahroeny",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "In She",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Peter Kradolfer",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdi Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harrijanto Kusumo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herlina Sugiarto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rogers Hadikusuma Wirawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Moleonoto (paulus Moleonoto)",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Axton Salim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Widjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Benny (benny Tjoeng)",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edy Sugito",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Amelia Setiawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Amelia Setiawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Timotius",
+      "position": "Anggota"
+    },
+    {
+      "name": "Notariza Taher",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Salim Ivomas Pratama Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 4058425010,
+      "percentage": 59.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2760104910,
+      "percentage": 40.48
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1222045,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferdi Gunawan",
+      "type": "Direksi",
+      "shares": 212000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tani Andalas Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 136739000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wushan Hijau Lestari",
+      "business_type": "Investasi di Bidang Pertanian, Kehutanan, Perikanan dan Perdagangan",
+      "total_assets": 73533000000,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Tani Musi Persada",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 57539000000,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Sumatra Agri Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 31519000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perusahaan Perkebunan, Perindustrian dan Perdagangan Umum Pasir Luhur",
+      "business_type": "Perdagangan, Pertanian, Perindustrian, dan Keagenan/perwakilan",
+      "total_assets": 25872000000,
+      "ownership_percentage": 64.98
+    },
+    {
+      "name": "PT Bayu Tirta Perkasa",
+      "business_type": "Perkebunan, Perdagangan, Jasa, Fotografi, Angkutan Udara Khusus Pemotretan dan Pemetaan",
+      "total_assets": 1894000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Lonsum Singapore Pte., Ltd.",
+      "business_type": "Perdagangan dan Pemasaran",
+      "total_assets": 958000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Agri Investments Pte., Ltd.",
+      "business_type": "Investasi di Bidang Usaha Teknologi Pertanian dan Budidaya Tanaman",
+      "total_assets": 683000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sumatra Bioscience Pte., Ltd.",
+      "business_type": "Perdagangan, Pemasaran dan Penelitian",
+      "total_assets": 10000,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.764.437.839.625",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:01.027Z"
+}

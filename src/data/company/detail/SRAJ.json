@@ -1,0 +1,276 @@
+{
+  "company_name": "Sejahteraraya Anugrahjaya Tbk",
+  "ticker": "SRAJ",
+  "office_address": "Jl. Honoris Raya Kav.6 Kota Modern (modernland). Kota Tangerang 15117",
+  "email": "corporate.secretary@mayapadahospital.com",
+  "phone": "021-55781888",
+  "fax": "021-5529036/5529420",
+  "tax_id": "0015621394054000",
+  "website": "https://www.mayapadahospital.com",
+  "listing_date": "2011-04-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Penyelenggaraan Rumah Sakit",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Arie Farisandi",
+    "email": "arie.farisandi@mayapadahospital.com dan corporate.secretary@mayapadahospital,com",
+    "phone": "021-55781888"
+  },
+  "directors": [
+    {
+      "name": "Navin Sonthalia",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Dini Handayani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jon Lie Sarpin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Navin Chandra Nathani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jonathan Tahir",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Grace Dewi Riady",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Drg. Melanie Hendriaty Sadono Djamil. M.biomed, Fisid, Ph.d",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Marsekal Tni (purn) Hadi Tjahjanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "H.r. Agung Laksono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Anupam Behura",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Jeffrey Holman Staples, Md, Mba",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Drg. Melanie Hendriaty, S.ms",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lo Fi Ling",
+      "position": "Anggota"
+    },
+    {
+      "name": "Liannah Sunarto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Surya Cipta Inti Cemerlang",
+      "type": "Lebih dari 5%",
+      "shares": 6152378489,
+      "percentage": 50.269
+    },
+    {
+      "name": "High Pro Investments Limited",
+      "type": "Lebih dari 5%",
+      "shares": 2179993002,
+      "percentage": 17.812
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2056507691,
+      "percentage": 16.803
+    },
+    {
+      "name": "Bnym Re Bnymtcna Re Bcss Boron A I, Lp",
+      "type": "Lebih dari 5%",
+      "shares": 1046836254,
+      "percentage": 8.553
+    },
+    {
+      "name": "Wing Harvest Limited",
+      "type": "Lebih dari 5%",
+      "shares": 675665754,
+      "percentage": 5.521
+    },
+    {
+      "name": "Jonathan Tahir",
+      "type": "Komisaris",
+      "shares": 75078800,
+      "percentage": 0.613
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 52500000,
+      "percentage": 0.429
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Nirmala Kencana Mas",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 1585205053456,
+      "ownership_percentage": 99.81
+    },
+    {
+      "name": "PT Nusa Sejahtera Kharisma",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 879759867116,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sejahtera Abadi Solusi",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 831426048390,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sejahtera Inti Sentosa",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 659210103588,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Anugrah Inti Karya",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 214622712517,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Kharisma Sentosa",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 176700621005,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fajar Kharisma Nusantara",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 40126155130,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Anugrahsukses Utama Sejahtera",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 4570357098,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mayapada Surabaya Pratama",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 1487544832,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Anugrah Inti Bahagia",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 251395000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sejahtera Karunia Semesta",
+      "business_type": "Penyelenggara Rumah Sakit",
+      "total_assets": 11150000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "184.196.347.849.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:35.842Z"
+}

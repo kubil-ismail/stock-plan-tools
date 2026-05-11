@@ -1,0 +1,255 @@
+{
+  "company_name": "Malindo Feedmill Tbk",
+  "ticker": "MAIN",
+  "office_address": "Jl. R.s. Fatmawati No. 39 Komplek Duta Mas Fatmawati Blok A1 No. 30-31-32",
+  "email": "bibitindo@malindofeedmill.co.id;leongjkt@cbn.net.id",
+  "phone": "722-83-83",
+  "fax": "7237778",
+  "tax_id": "01.824.326.1-057.000",
+  "website": "https://-",
+  "listing_date": "2006-02-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Peternakan dan Penjualan Pakan Ternak",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Andre Andreas Hendjan",
+    "email": "andre@malindofeedmill.co.id",
+    "phone": "7661727"
+  },
+  "directors": [
+    {
+      "name": "Tan Sri Lau Tuang Nguang",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lau Joo Kiang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rewin Hanrahan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lau Joo Keat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lau Joo Hwa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rudy Hartono Husin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dato Abdul Azim Bin Mohamad Zabidi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lau Chia Nguang",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Lai Kai",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yongkie Handaya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Brian Michael O Connor",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Koh Bock Swi (raymond Koh)",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yongkie Handaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Koh Bock Swi (raymond Koh)",
+      "position": "Anggota"
+    },
+    {
+      "name": "Charles Setia Oetomo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Dragon Amity Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1282143142,
+      "percentage": 57.27
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 827319758,
+      "percentage": 36.95
+    },
+    {
+      "name": "PT. Corin Investa Copora",
+      "type": "Lebih dari 5%",
+      "shares": 112970000,
+      "percentage": 5.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 8252500,
+      "percentage": 0.36
+    },
+    {
+      "name": "Lau Joo Hwa",
+      "type": "Direksi",
+      "shares": 6767600,
+      "percentage": 0.31
+    },
+    {
+      "name": "Rudy Hartono",
+      "type": "Direksi",
+      "shares": 1097000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Tan Lai Kai",
+      "type": "Komisaris",
+      "shares": 200000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Pt.leong Ayamsatu Primadona",
+      "business_type": "Peternakan Anak Ayam Usia Sehari dan Ayam Ras Pedaging/",
+      "total_assets": 691,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Prima Fajar",
+      "business_type": "Peternakan Ayam Ras Pedaging",
+      "total_assets": 349,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Bibit Indonesia",
+      "business_type": "Peternakan Anak Ayam Pembibit Induk",
+      "total_assets": 162,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT. Malindo Food Delight",
+      "business_type": "Pengolahan, Pengawetan Daging dan Penyediaan Makanan dan Minuman",
+      "total_assets": 134,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Bebek Persada",
+      "business_type": "Peternakan Itik dan Rumah Potong Serta Pengepakan Daging Unggas",
+      "total_assets": 55,
+      "ownership_percentage": 99.84
+    },
+    {
+      "name": "PT. Quality Indonesia",
+      "business_type": "Peternakan Itik",
+      "total_assets": 2,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.914.131.250.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:09.471Z"
+}

@@ -1,0 +1,311 @@
+{
+  "company_name": "PT Grand House Mulia Tbk",
+  "ticker": "HOMI",
+  "office_address": "Jalan Pengasinan No. 99 Gunung Sindur, Bogor, Jawa Barat",
+  "email": "corsec@granddevelopment.id",
+  "phone": "(62-21) 7587 1688",
+  "fax": "0",
+  "tax_id": "02.576.069.5-411.000",
+  "website": "https://www.granddevelopment.id",
+  "listing_date": "2020-09-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Mendirikan dan Menjalankan Usaha Real Estat Yang Dimiliki Sendiri",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Cecep Miptahudin",
+    "email": "corsec@granddevelopment.id",
+    "phone": "(62-21) 7587 1688"
+  },
+  "directors": [
+    {
+      "name": "Velliana Tanaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Suryadi",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Rio Handono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tan Ping",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hizkia Wehantouw",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hizkia Wehantouw",
+      "position": "Ketua"
+    },
+    {
+      "name": "Putri Laksmi Basyir",
+      "position": "Anggota"
+    },
+    {
+      "name": "Niken Pangestuti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Graha Mulia Indotama",
+      "type": "Lebih dari 5%",
+      "shares": 819000000,
+      "percentage": 52
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 315000000,
+      "percentage": 20
+    },
+    {
+      "name": "Tan Ping",
+      "type": "Komisaris",
+      "shares": 189000000,
+      "percentage": 12
+    },
+    {
+      "name": "Suryadi",
+      "type": "Direksi",
+      "shares": 126000000,
+      "percentage": 8
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 63000000,
+      "percentage": 4
+    },
+    {
+      "name": "Velliana Tanaya",
+      "type": "Direksi",
+      "shares": 63000000,
+      "percentage": 4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hizkia Wehantouw",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rio Handono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Berkat Indokarya Gemilang",
+      "business_type": "Properti",
+      "total_assets": 34889000000,
+      "ownership_percentage": 14.56
+    },
+    {
+      "name": "PT Berkat Indokarya Gemilang",
+      "business_type": "Properti",
+      "total_assets": 34889000000,
+      "ownership_percentage": 15.69
+    },
+    {
+      "name": "PT Berkat Indokarya Gemilang",
+      "business_type": "Properti",
+      "total_assets": 34889000000,
+      "ownership_percentage": 15.69
+    },
+    {
+      "name": "PT Berkat Indokarya Gemilang",
+      "business_type": "Properti",
+      "total_assets": 34889000000,
+      "ownership_percentage": 15.69
+    },
+    {
+      "name": "PT Berkat Indokarya Gemilang",
+      "business_type": "Properti",
+      "total_assets": 34889000000,
+      "ownership_percentage": 15.69
+    },
+    {
+      "name": "PT Winner Indokarya Nusantara",
+      "business_type": "Properti",
+      "total_assets": 27260082005,
+      "ownership_percentage": 12.26
+    },
+    {
+      "name": "PT Winner Indokarya Nusantara",
+      "business_type": "Properti",
+      "total_assets": 27260041796,
+      "ownership_percentage": 12.26
+    },
+    {
+      "name": "PT Winner Indokarya Nusantara",
+      "business_type": "Properti",
+      "total_assets": 27260041796,
+      "ownership_percentage": 12.26
+    },
+    {
+      "name": "PT Winner Indokarya Nusantara",
+      "business_type": "Properti",
+      "total_assets": 27260041796,
+      "ownership_percentage": 12.26
+    },
+    {
+      "name": "PT Winner Indokarya Nusantara",
+      "business_type": "Properti",
+      "total_assets": 24946608209,
+      "ownership_percentage": 10.41
+    },
+    {
+      "name": "PT Viva Indojaya Perkasa",
+      "business_type": "Properti",
+      "total_assets": 5002757633,
+      "ownership_percentage": 2.25
+    },
+    {
+      "name": "PT Viva Indojaya Perkasa",
+      "business_type": "Properti",
+      "total_assets": 5002600074,
+      "ownership_percentage": 2.25
+    },
+    {
+      "name": "PT Viva Indojaya Perkasa",
+      "business_type": "Properti",
+      "total_assets": 5002600074,
+      "ownership_percentage": 2.25
+    },
+    {
+      "name": "PT Viva Indojaya Perkasa",
+      "business_type": "Properti",
+      "total_assets": 5002600074,
+      "ownership_percentage": 2.25
+    },
+    {
+      "name": "PT Viva Indojaya Perkasa",
+      "business_type": "Properti",
+      "total_assets": 5000629605,
+      "ownership_percentage": 2.09
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Leonard, Mulia & Richard"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Leonard, Mulia & Richard"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "337.050.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:45.937Z"
+}

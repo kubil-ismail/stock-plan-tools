@@ -1,0 +1,258 @@
+{
+  "company_name": "Tempo Inti Media Tbk",
+  "ticker": "TMPO",
+  "office_address": "Gedung Tempo, Lantai 5 Jl. Palmerah Barat No. 8 Jakarta 12210",
+  "email": "corsec@tempo.co.id",
+  "phone": "021-536-3790/530 6392",
+  "fax": "(021) 536 - 2025/7206995",
+  "tax_id": "01.785.138.7-054.000",
+  "website": "https://tempo.id",
+  "listing_date": "2001-01-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Media dan Percetakan",
+    "business_summary": "Perusahaan bergerak di bidang Media.",
+    "business_tags": [
+      "Media"
+    ],
+    "business_keywords": [
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 55,
+    "name": "Penerbitan",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Jajang Jamaludin",
+    "email": "jajangjamal@gmail.com, jajang@tempo.co.id",
+    "phone": "021-7255625"
+  },
+  "directors": [
+    {
+      "name": "Arif Zulkfili",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Anak Agung Gde Wahyu Dhyatmika",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sebastain Kinaatmaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Setyarso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Liesnasari",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Goenawan Mohamad",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ir Leonardi Kusen Mba",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Harymurti",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Kristianto Indrawan Mm",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "C Paul Tehusijarana",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "C Paul Tehusijarana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ir.leonardi Kusen, Mba",
+      "position": "Anggota"
+    },
+    {
+      "name": "Herry Hernawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 264805281,
+      "percentage": 25.03
+    },
+    {
+      "name": "PT Grafiti Pers",
+      "type": "Lebih dari 5%",
+      "shares": 256960003,
+      "percentage": 24.28
+    },
+    {
+      "name": "Yayasan Tempo 21 Juni 1994",
+      "type": "Lebih dari 5%",
+      "shares": 181322500,
+      "percentage": 17.13
+    },
+    {
+      "name": "PT Jaya Raya Utama",
+      "type": "Lebih dari 5%",
+      "shares": 172329205,
+      "percentage": 16.28
+    },
+    {
+      "name": "Yayasan Pembangunan Jaya Raya",
+      "type": "Lebih dari 5%",
+      "shares": 90429394,
+      "percentage": 8.54
+    },
+    {
+      "name": "Yayasan Karyawan Tempo",
+      "type": "Lebih dari 5%",
+      "shares": 87627267,
+      "percentage": 8.28
+    },
+    {
+      "name": "Bambang Harymurti",
+      "type": "Komisaris",
+      "shares": 2745000,
+      "percentage": 0.26
+    },
+    {
+      "name": "Sebastian Kinaatmaja",
+      "type": "Direksi",
+      "shares": 1314600,
+      "percentage": 0.12
+    },
+    {
+      "name": "Goenawan S Mohamad",
+      "type": "Komisaris",
+      "shares": 800000,
+      "percentage": 0.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Temprint",
+      "business_type": "Percetakan",
+      "total_assets": 263467770,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Temprint",
+      "business_type": "Percetakan",
+      "total_assets": 260204242,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Temprint",
+      "business_type": "Jasa Percetakan",
+      "total_assets": 250390556,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Tempo Inti Media Harian",
+      "business_type": "Penerbitan Pers",
+      "total_assets": 118962722,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tempo Inti Media Harian",
+      "business_type": "Penerbitan Pers",
+      "total_assets": 118577184,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tempo Inti Media Harian",
+      "business_type": "Penerbitan Pers",
+      "total_assets": 116971326,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "135.466.656.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:38.273Z"
+}

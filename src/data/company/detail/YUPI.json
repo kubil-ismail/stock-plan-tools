@@ -1,0 +1,298 @@
+{
+  "company_name": "PT Yupi Indo Jelly Gum Tbk",
+  "ticker": "YUPI",
+  "office_address": "Jl. Pancasila Iv, Desa Cicadas, Kecamatan Gunung Putri, Kabupaten Bogor, 16964, Jawa Barat, Indonesia",
+  "email": "investor.relation@yupi.co.id",
+  "phone": "(021) 8672450",
+  "fax": "(021) 8672455",
+  "tax_id": "0017036013431000",
+  "website": "https://www.yupi.co.id",
+  "listing_date": "2025-03-25",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri Kembang Gula",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Imanuel A. F. Rumondor",
+    "email": "investor.relation@yupi.co.id",
+    "phone": "(021) 8672450"
+  },
+  "directors": [
+    {
+      "name": "Yohanes Teja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Maret Yudianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rusman Apandi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Juliwati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alef Theria",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dwi Pudjiati/intisari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Reynold Pandapotan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yunni Damayanti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Benny Lim Jew Fong",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Aston Zheng Long",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Louisa Chiam Bao Ying",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sovia Wirjoprawiro",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dipa Setiabudi Komala",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sovia Wirjoprawiro",
+      "position": "Ketua"
+    },
+    {
+      "name": "Christine Pan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Kartini Soeharta",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Confectionery Consumer Products Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 7690039800,
+      "percentage": 90
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 854448900,
+      "percentage": 10
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yohanes Teja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alef Theria",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dwi Pudjiati/intisari",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Maret Yudianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Juliwati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Reynold Pandapotan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rusman Apandi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yunni Damayanti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benny Lim Jew Fong",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aston Zheng Long",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Louisa Chiam Bao Ying",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sovia Wirjoprawiro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dipa Setiabudi Komala",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Yupi Trading International",
+      "business_type": "Perdagangan dan Pengepakan",
+      "total_assets": 18073021643,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "13.414.847.259.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:15.269Z"
+}

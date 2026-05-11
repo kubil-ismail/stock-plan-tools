@@ -1,0 +1,262 @@
+{
+  "company_name": "PT Bank Ibk Indonesia Tbk.",
+  "ticker": "AGRS",
+  "office_address": "Wisma Gkbi Suite Ug-01 Jl. Jend. Sudirman No. 28 Jakarta 10210 Indonesia",
+  "email": "corsec@ibk.co.id",
+  "phone": "+62 21 5790 8888",
+  "fax": "+62 21 5790 6888",
+  "tax_id": "01.311.830.2-073.000",
+  "website": "https://www.ibk.co.id",
+  "listing_date": "2014-12-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Sri Suhartin",
+    "email": "corsec@ibk.co.id",
+    "phone": "+62 21 5790 8888"
+  },
+  "directors": [
+    {
+      "name": "Alexander Frans Rori",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Edwin Rudianto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Oh In Taek",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Park Jin Je",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Andreas Mikhael Sumual *",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Taufik Hakim",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Damal Bayu Utama",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Joni Swastanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ko Dae Jin",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Damal Bayu Utama",
+      "position": "Ketua"
+    },
+    {
+      "name": "Gaguk Hartadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dharmansyah Djalins",
+      "position": "Anggota"
+    },
+    {
+      "name": "Joni Swastanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Industrial Bank Of Korea",
+      "type": "Lebih dari 5%",
+      "shares": 43792362385,
+      "percentage": 91.49
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3574564624,
+      "percentage": 7.47
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 497327000,
+      "percentage": 1.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Taufik Hakim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alexander Frans Rori",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Damal Bayu Utama",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Joni Swastanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edwin Rudianto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Oh In Taek",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ko Dae Jin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Park Jin Je",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andreas Mikhael Sumual",
+      "type": "Direksi",
+      "shares": 130865,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Ibk Indonesia",
+      "business_type": "Perbankan",
+      "total_assets": 22509984,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.315.694.051.180",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:13.073Z"
+}

@@ -1,0 +1,245 @@
+{
+  "company_name": "PT Siantar Top Tbk",
+  "ticker": "STTP",
+  "office_address": "Jl. Tambak Sawah No. 21-23 Waru Sidoarjo 61256",
+  "email": "corp_sec@siantartop.co.id",
+  "phone": "(031) 866-73-82, 868-41-01, 868-11-15, 866-64-80",
+  "fax": "(031) 866-7380, 867-3832",
+  "tax_id": "01.480.208.6-054.000",
+  "website": "https://www.siantartop.co.id",
+  "listing_date": "1996-12-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Makanan Ringan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Armin dan Cipto Junaidi",
+    "email": "corp_secretarysttptbk@hotmail.com",
+    "phone": "(031) 031-866-73-82, 868-41-01, 868-11-15, 866-64-80"
+  },
+  "directors": [
+    {
+      "name": "Armin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Suwanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heng Hok Soei/shindo Sumidomo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Juwita Wijaya",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Osbert Kosasih",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Farius",
+      "position": "Ketua"
+    },
+    {
+      "name": "Gabi Widjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Moh. Anshari Rahmat",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Shindo Tiara Tunggal",
+      "type": "Lebih dari 5%",
+      "shares": 743600500,
+      "percentage": 56.763
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 258650400,
+      "percentage": 19.745
+    },
+    {
+      "name": "Robin Sindo",
+      "type": "Lebih dari 5%",
+      "shares": 94103900,
+      "percentage": 7.184
+    },
+    {
+      "name": "Amelia Sintari",
+      "type": "Lebih dari 5%",
+      "shares": 87143100,
+      "percentage": 6.652
+    },
+    {
+      "name": "Mariati",
+      "type": "Lebih dari 5%",
+      "shares": 84072300,
+      "percentage": 6.417
+    },
+    {
+      "name": "Shindo Sumidomo",
+      "type": "Direksi",
+      "shares": 40605000,
+      "percentage": 3.0996
+    },
+    {
+      "name": "Juwita Wijaya",
+      "type": "Komisaris",
+      "shares": 1145800,
+      "percentage": 0.0874
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 679000,
+      "percentage": 0.052
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Siantar Megah Jaya",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Percetakan, Pengangkutan, Pertanian, Perbengkelan, dan Jasa",
+      "total_assets": 757976875403,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Siantar Megah Jaya",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Percetakan, Pengangkutan, Pertanian, Perbengkelan, dan Jasa",
+      "total_assets": 747490902335,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Siantar Megah Jaya",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Percetakan, Pengangkutan, Pertanian, Perbengkelan, dan Jasa",
+      "total_assets": 747411140657,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Siantar Megah Jaya",
+      "business_type": "Perdagangan",
+      "total_assets": 600915608969,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Siantar Megah Jaya",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Percetakan, Pengangkutan, Pertanian, Perbengkelan, dan Jasa",
+      "total_assets": 577757755171,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Siantar International Holding",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 196473482692,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "Siantar International Holding",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 196473482692,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "Siantar International Holding",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 151700336359,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "Siantar International Holding Co.,ltd",
+      "business_type": "",
+      "total_assets": 151700336359,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "Siantar International Holding",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 144344083304,
+      "ownership_percentage": 98
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "12.641.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:50.779Z"
+}

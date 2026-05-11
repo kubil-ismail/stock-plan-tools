@@ -1,0 +1,287 @@
+{
+  "company_name": "PT Asuransi Tugu Pratama Indonesia Tbk",
+  "ticker": "TUGU",
+  "office_address": "Wisma Tugu I Jl. H.r. Rasuna Said Kav. C 8-9 Kuningan, Jakarta Selatan 12920",
+  "email": "enquiry@tugu.com",
+  "phone": "021 - 52961777",
+  "fax": "021 - 52961555, 52962555",
+  "tax_id": "01.302.218.1-062.000",
+  "website": "https://www.tugu.com",
+  "listing_date": "2018-05-28",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Asuransi Umum",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Keuangan.",
+    "business_tags": [
+      "Properti",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Dudi Subekti",
+    "email": "dsubekti@tugu.com",
+    "phone": "021 - 52961777"
+  },
+  "directors": [
+    {
+      "name": "Adi Pramana",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fitri Azwar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ery Widiatmoko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fadlil Iswahyudi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Edi Yoga Prasetyo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Abdul Ghofar",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Clifford Patrick Wuisan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ony Suprihartono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Poerwo Tjahjono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bambang Suprihanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ari Marsudi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mei Sugiharso",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pertamina",
+      "type": "Lebih dari 5%",
+      "shares": 2080000000,
+      "percentage": 58.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 722747100,
+      "percentage": 20.3267
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 563200000,
+      "percentage": 15.84
+    },
+    {
+      "name": "Samsung Fire And Marine Insurance Co., Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 188234000,
+      "percentage": 5.294
+    },
+    {
+      "name": "Ery Widiatmoko",
+      "type": "Direksi",
+      "shares": 956700,
+      "percentage": 0.027
+    },
+    {
+      "name": "Edi Yoga Prasetyo",
+      "type": "Direksi",
+      "shares": 413400,
+      "percentage": 0.0116
+    },
+    {
+      "name": "Fadlil Iswahyudi",
+      "type": "Direksi",
+      "shares": 24400,
+      "percentage": 0.0007
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Abdul Ghofar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Clifford Patrick Wuisan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ony Suprihartono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fitri Azwar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adi Pramana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tugu Reasuransi Indonesia (tri)",
+      "business_type": "Reasuransi",
+      "total_assets": 5942450745,
+      "ownership_percentage": 50.74
+    },
+    {
+      "name": "PT Pratama Mitra Sejati (pms)",
+      "business_type": "Real Estate, Persewaan, Pengembangan dan Jasa Servis Real Estate, Perdagangan",
+      "total_assets": 2764174694,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Tugu Insurance Company Limited (tic)",
+      "business_type": "Asuransi Kerugian",
+      "total_assets": 2606009997,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tugu Pratama Interindo (tpint)",
+      "business_type": "Investasi Saham",
+      "total_assets": 1127546818,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Reksadana Terproteksi Insight Terproteksi 2",
+      "business_type": "Investasi",
+      "total_assets": 90233107,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Synergy Risk Management Consultants",
+      "business_type": "Manajemen Risiko, Surveyor dan Penilai",
+      "total_assets": 53761521,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "Reksadana Gap Dana Kombinasi",
+      "business_type": "Investasi",
+      "total_assets": 53145874,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.497.803.134.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:17.095Z"
+}

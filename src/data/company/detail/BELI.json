@@ -1,0 +1,689 @@
+{
+  "company_name": "PT Global Digital Niaga Tbk",
+  "ticker": "BELI",
+  "office_address": "Jl. Jendral Ahmad Yani No. 34 Kel. Panjunan, Kec. Kota Kudus Kab. Kudus 59317, Jawa Tengah",
+  "email": "corp.sec@gdn-commerce.com",
+  "phone": "(0291) 431695",
+  "fax": "",
+  "tax_id": "03.000.644.9-506.000",
+  "website": "https://about.blibli.com/id",
+  "listing_date": "2022-11-08",
+  "listing_board": "Ekonomi Baru",
+  "business_field": {
+    "raw_business": "Perdagangan eceran melalui media, pengembangan aplikasi perdagangan melalui internet (e-commerce), portal web dan/atau platform digital dengan tujuan komersial.",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Logistik, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Logistik",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Eric Alamsjah Winarta",
+    "email": "corp.sec@gdn-commerce.com",
+    "phone": "(021) 50881370"
+  },
+  "directors": [
+    {
+      "name": "Kusumo Martanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hendry",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lisa Widodo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eric Alamsjah Winarta",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andy Untono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ronald Winardi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Martin Basuki Hartono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Imron Hendrata",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Ir. Kusmayanto Kadiman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suryadi Sasmita",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kusmayanto Kadiman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Junarto Tjahjadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Herwan Ng",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Global Investama Andalan",
+      "type": "Lebih dari 5%",
+      "shares": 104009002820,
+      "percentage": 75.798
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 32666278678,
+      "percentage": 23.806
+    },
+    {
+      "name": "Imron Hendrata",
+      "type": "Komisaris",
+      "shares": 223110820,
+      "percentage": 0.163
+    },
+    {
+      "name": "Kusumo Martanto",
+      "type": "Direksi",
+      "shares": 183122661,
+      "percentage": 0.133
+    },
+    {
+      "name": "Ronald Winardi",
+      "type": "Direksi",
+      "shares": 46638100,
+      "percentage": 0.0339
+    },
+    {
+      "name": "Hendry",
+      "type": "Direksi",
+      "shares": 42543391,
+      "percentage": 0.031
+    },
+    {
+      "name": "Lisa Widodo",
+      "type": "Direksi",
+      "shares": 39626991,
+      "percentage": 0.0288
+    },
+    {
+      "name": "Andy Untono",
+      "type": "Direksi",
+      "shares": 5078614,
+      "percentage": 0.0037
+    },
+    {
+      "name": "Eric Alamsjah Winarta",
+      "type": "Direksi",
+      "shares": 3537214,
+      "percentage": 0.0026
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 46400,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Global Tiket Network",
+      "business_type": "Platform Digital dengan Tujuan, Komersial, Agen Perjalanan Wisata dan Jasa Reservasi Lainnya",
+      "total_assets": 2067600,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Tiket Network",
+      "business_type": "Platform Digital dengan Tujuan, Komersial, Agen Perjalanan Wisata dan Jasa Reservasi Lainnya",
+      "total_assets": 1875361,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Tiket Network",
+      "business_type": "Platform Digital dengan Tujuan, Komersial, Agen Perjalanan Wisata dan Jasa Reservasi Lainnya",
+      "total_assets": 1774862,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Tiket Network",
+      "business_type": "Platform Digital dengan Tujuan, Komersial, Agen Perjalanan Wisata dan Jasa Reservasi Lainnya",
+      "total_assets": 1658403,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Tiket Network",
+      "business_type": "Platform Digital dengan Tujuan, Komersial, Agen Perjalanan Wisata dan Jasa Reservasi Lainnya",
+      "total_assets": 1622949,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Supra Boga Lestari Tbk",
+      "business_type": "Perdagangan dan Mengusahakan Pasar Swalayan",
+      "total_assets": 1517958,
+      "ownership_percentage": 70.56
+    },
+    {
+      "name": "Global Distribution Niaga Pte. Ltd",
+      "business_type": "Entitas Induk Penyedia Logistik",
+      "total_assets": 1455853,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Global Distribution Niaga Pte. Ltd",
+      "business_type": "Entitas Induk Penyedia Logistik",
+      "total_assets": 1455780,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Global Distribution Niaga Pte. Ltd",
+      "business_type": "Entitas Induk Penyedia Logistik",
+      "total_assets": 1455758,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Global Distribution Niaga Pte. Ltd",
+      "business_type": "Entitas Induk Penyedia Logistik",
+      "total_assets": 1455659,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Supra Boga Lestari Tbk",
+      "business_type": "Perdagangan dan Mengusahakan Pasar Swalayan",
+      "total_assets": 1326495,
+      "ownership_percentage": 70.56
+    },
+    {
+      "name": "PT Supra Boga Lestari Tbk",
+      "business_type": "Perdagangan dan Mengusahakan Pasar Swalayan",
+      "total_assets": 1266292,
+      "ownership_percentage": 70.56
+    },
+    {
+      "name": "PT Supra Boga Lestari Tbk",
+      "business_type": "Perdagangan dan Mengusahakan Pasar Swalayan",
+      "total_assets": 1247188,
+      "ownership_percentage": 70.56
+    },
+    {
+      "name": "PT Global Danapati Niaga",
+      "business_type": "Perdagangan Besar Piranti Lunak, Peralatan Telekomunikasi, Komputer dan Perlengkapan Komputer",
+      "total_assets": 1230614,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Danapati Niaga",
+      "business_type": "Perdagangan Besar Piranti Lunak, Peralatan Telekomunikasi, Komputer dan Perlengkapan Komputer",
+      "total_assets": 1215024,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Danapati Niaga",
+      "business_type": "Perdagangan Besar Piranti Lunak, Peralatan Telekomunikasi, Komputer dan Perlengkapan Komputer",
+      "total_assets": 1181432,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Supra Boga Lestari Tbk",
+      "business_type": "Perdagangan dan Mengusahakan Pasar Swalayan",
+      "total_assets": 1161923,
+      "ownership_percentage": 70.56
+    },
+    {
+      "name": "PT Global Teknologi Niaga",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 854227,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Teknologi Niaga",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 850930,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Pusaka",
+      "business_type": "Jasa Manajemen, Jasa Handling, Pergudangan",
+      "total_assets": 828719,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Teknologi Niaga",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 810106,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Pusaka",
+      "business_type": "Jasa Manajemen, Jasa Handling, Pergudangan",
+      "total_assets": 794166,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Danapati Niaga",
+      "business_type": "Perdagangan Besar Piranti Lunak, Peralatan Telekomunikasi, Komputer dan Perlengkapan Komputer",
+      "total_assets": 750098,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Pusaka",
+      "business_type": "Jasa Manajemen, Jasa Handling, Pergudangan",
+      "total_assets": 737177,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Pusaka",
+      "business_type": "Jasa Manajemen, Jasa Handling, Pergudangan",
+      "total_assets": 732886,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Global Distribution Niaga Pte. Ltd",
+      "business_type": "Entitas Induk Penyedia Logistik",
+      "total_assets": 729755,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Teknologi Niaga",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 647007,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Pusaka",
+      "business_type": "Jasa Manajemen, Jasa Handling, Pergudangan",
+      "total_assets": 610224,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dekoruma Inovasi Lestari",
+      "business_type": "Jasa Periklanan, Jasa Portal Web dan/ Platform Digital sebagai Media Penjualan untuk Perabotan Rumah, Tempat Tinggal, dan Desain Interior",
+      "total_assets": 415373,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Global Distribusi Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 391401,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dekoruma Inovasi Lestari",
+      "business_type": "Jasa Periklanan, Jasa Portal Web dan/ Platform Digital sebagai Media Penjualan untuk Perabotan Rumah, Tempat Tinggal, dan Desain Interior",
+      "total_assets": 371777,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Global Distribusi Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 346452,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 298771,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 220820,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Astha Niaga",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 196183,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Astha Niaga",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 175509,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Teknologi Niaga",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 142877,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Astha Niaga",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 142004,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 127998,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Astha Niaga",
+      "business_type": "Perdagangan Eceran Alat Telekomunikasi",
+      "total_assets": 125866,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rajawali Inti Selular",
+      "business_type": "Perdagangan Eceran Telekomunikasi",
+      "total_assets": 119584,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Global Kassa Sejahtera",
+      "business_type": "Jasa Sarana Online Transaksi Finansial",
+      "total_assets": 110975,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Kassa Sejahtera",
+      "business_type": "Jasa Sarana Online Transaksi Finansial",
+      "total_assets": 92805,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Kassa Sejahtera",
+      "business_type": "Jasa Sarana Online Transaksi Finansial",
+      "total_assets": 92180,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Kassa Sejahtera",
+      "business_type": "Jasa Sarana Online Transaksi Finansial",
+      "total_assets": 91601,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Kassa Sejahtera",
+      "business_type": "Jasa Sarana Online Transaksi Finansial",
+      "total_assets": 80059,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Promoland Indowisata",
+      "business_type": "Informasi, Komunikasi, dan Agen Perjalanan",
+      "total_assets": 49398,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Promoland Indowisata",
+      "business_type": "Informasi, Komunikasi, dan Agen Perjalanan",
+      "total_assets": 46146,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Promoland Indowisata",
+      "business_type": "Informasi, Komunikasi, dan Agen Perjalanan",
+      "total_assets": 45527,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Promoland Indowisata",
+      "business_type": "Informasi, Komunikasi, dan Agen Perjalanan",
+      "total_assets": 44922,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rajawali Inti Selular",
+      "business_type": "Perdagangan Eceran Telekomunikasi",
+      "total_assets": 37004,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Global Distribusi Paket",
+      "business_type": "Pengangkutan, Pergudangan, Informasi dan Komunikasi",
+      "total_assets": 35271,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Global Harapan Nawasena",
+      "business_type": "Perdagangan Eceran Komputer dan Perlengkapannya",
+      "total_assets": 33576,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Rajawali Inti Selular",
+      "business_type": "Perdagangan Eceran Telekomunikasi",
+      "total_assets": 32964,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Rajawali Inti Selular",
+      "business_type": "Perdagangan Eceran Telekomunikasi",
+      "total_assets": 32712,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Rajawali Inti Selular",
+      "business_type": "Perdagangan Eceran Telekomunikasi",
+      "total_assets": 31723,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Global Distribusi Paket",
+      "business_type": "Pengangkutan, Pergudangan, Informasi dan Komunikasi",
+      "total_assets": 23265,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Paket",
+      "business_type": "Pengangkutan, Pergudangan, Informasi dan Komunikasi",
+      "total_assets": 22217,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Paket",
+      "business_type": "Pengangkutan, Pergudangan, Informasi dan Komunikasi",
+      "total_assets": 21884,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Distribusi Paket",
+      "business_type": "Pengangkutan, Pergudangan, Informasi dan Komunikasi",
+      "total_assets": 19786,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Promoland Indowisata",
+      "business_type": "Informasi, Komunikasi, dan Agen Perjalanan",
+      "total_assets": 14262,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Global Fortuna Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 4156,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Global Fortuna Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 3971,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Global Fortuna Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 3966,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Global Fortuna Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 3893,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Global Harapan Nawasena",
+      "business_type": "Perdagangan Eceran Komputer dan Perlengkapannya",
+      "total_assets": 660,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Global Harapan Nawasena",
+      "business_type": "Perdagangan Eceran Komputer dan Perlengkapannya",
+      "total_assets": 445,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Global Harapan Nawasena",
+      "business_type": "Perdagangan Eceran Komputer dan Perlengkapannya",
+      "total_assets": 393,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Global Fortuna Nusantara",
+      "business_type": "Perdagangan Barang",
+      "total_assets": 69,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Citra Komunikasi Utama",
+      "business_type": "Aktivitas Jasa Telekomunikasi Lainnya",
+      "total_assets": 0,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "51.045.462.676.308",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:02.651Z"
+}

@@ -1,0 +1,244 @@
+{
+  "company_name": "PT Bhakti Agung Propertindo Tbk.",
+  "ticker": "BAPI",
+  "office_address": "Jalan Raden Fatah No. 62 Ciledug – Tangerang 15151",
+  "email": "corsec@bhaktiagung.com",
+  "phone": "021 22797778",
+  "fax": "0",
+  "tax_id": "03.220.609.6-652.000",
+  "website": "https://www.bhaktiagung.com",
+  "listing_date": "2019-09-16",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Properti (Real Estate Property)",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Chandra Putra Wijaya",
+    "email": "corsec@bhaktiagung.com",
+    "phone": "021 22797778"
+  },
+  "directors": [
+    {
+      "name": "Hidayat Ratman",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ahmad Surahman",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Susan Hadiyani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chaerul Iqbal Nugraha",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Imam Nirwansyah",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Imam Nirwansyah",
+      "position": "Ketua"
+    },
+    {
+      "name": "Iim Dina Suryana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Samsi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Grha Agung Propertindo",
+      "type": "Lebih dari 5%",
+      "shares": 2250675350,
+      "percentage": 40.25
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1788993103,
+      "percentage": 31.99
+    },
+    {
+      "name": "PT. Nugraha Prima Griyatama",
+      "type": "Lebih dari 5%",
+      "shares": 964,
+      "percentage": 17.23
+    },
+    {
+      "name": "Himawan Sutanto",
+      "type": "Lebih dari 5%",
+      "shares": 588769000,
+      "percentage": 10.53
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chaerul Iqbal Nugraha",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Imam Nirwansyah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ir.ahmad Surahman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hidayat Ratman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Susan Hadiyani",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Umaryadi, Ak., Cpa"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Maksum, Suyamto, Hirdjan & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Maksum, Suyamto, Hirdjan & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Dra. Suhartati & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Dra. Suhartati & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "162.167.422.987",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:04.878Z"
+}

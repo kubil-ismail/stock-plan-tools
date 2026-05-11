@@ -1,0 +1,269 @@
+{
+  "company_name": "Wijaya Karya Beton",
+  "ticker": "WTON",
+  "office_address": "Tamansari Hive Office Lt. 3-5, Jl. d.i. Panjaitan Kav. 2, Jakarta Timur 13340",
+  "email": "sekper@wika-beton.co.id",
+  "phone": "0218192802",
+  "fax": "02185903872",
+  "tax_id": "01.061.154.9-093.000",
+  "website": "https://www.wikabeton.co.id",
+  "listing_date": "2014-04-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan dan industri beton, jasa konstruksi dan bidang usaha lain yang terkait.",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Ignatius Harry Sumartono",
+    "email": "ignatiusharry@wtonmail.id",
+    "phone": "0218192802"
+  },
+  "directors": [
+    {
+      "name": "Kuntjara",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Syailendra Ogan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rija Judaswara",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Verly Widiantoro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Pramono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dwi Gawan Islandhi H.b.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tjia Marwan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wilan Oktavian",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dwi Gawan Islandhi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ashuri",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gunarto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Wijaya Karya (persero) Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 5229279960,
+      "percentage": 60
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3382588100,
+      "percentage": 38.8113
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 86043040,
+      "percentage": 0.9873
+    },
+    {
+      "name": "Kuntjara",
+      "type": "Direksi",
+      "shares": 9577300,
+      "percentage": 0.1099
+    },
+    {
+      "name": "Agus Pramono",
+      "type": "Direksi",
+      "shares": 3529500,
+      "percentage": 0.0405
+    },
+    {
+      "name": "Rija Judaswara",
+      "type": "Direksi",
+      "shares": 2339700,
+      "percentage": 0.0268
+    },
+    {
+      "name": "Verly Widiantoro",
+      "type": "Direksi",
+      "shares": 2000000,
+      "percentage": 0.0229
+    },
+    {
+      "name": "Syailendra Ogan",
+      "type": "Direksi",
+      "shares": 109000,
+      "percentage": 0.0013
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wilan Oktavian",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjia Marwan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dwi Gawan Islandhi H.b.",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Citra Lautan Teduh",
+      "business_type": "Perindustrian dan Perdagangan Beton Pracetak",
+      "total_assets": 464275768713,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Wijaya Karya Pracetak Gedung",
+      "business_type": "Perindustrian dan Perdagangan Beton Pracetak",
+      "total_assets": 323531335597,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wijaya Karya Komponen Beton",
+      "business_type": "Perindustrian dan Perdagangan Beton Pracetak",
+      "total_assets": 181579053801,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wijaya Karya Krakatau Beton",
+      "business_type": "Perindustrian dan Perdagangan Beton Pracetak",
+      "total_assets": 136142845331,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "784.391.994.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:09.723Z"
+}

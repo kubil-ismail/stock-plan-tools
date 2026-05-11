@@ -1,0 +1,219 @@
+{
+  "company_name": "PT King Tire Indonesia Tbk.",
+  "ticker": "TYRE",
+  "office_address": "Jalan Raya Serang Km. 68, Desa Nambo Ilir, Kecamatan Kibin, Kabupaten Serang, Banten 42185",
+  "email": "corsec@kingland.co.id",
+  "phone": "62-254 402675",
+  "fax": "62-254 400268",
+  "tax_id": "31.229.435.8-401.000",
+  "website": "https://www.kingland.co.id",
+  "listing_date": "2023-05-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Ban Luar Dan Ban Dalam",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif.",
+    "business_tags": [
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 8,
+    "name": "Ban",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Diego Armando",
+    "email": "corsec@kingland.co.id",
+    "phone": "62-254402675"
+  },
+  "directors": [
+    {
+      "name": "Harris Muliawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ferry Chandra Kusuma",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Aneka Warna",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Habibullah",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Indra Muliawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hardi Muliawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Danny Setiawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Danny Setiawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lindah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Christina Wati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Harris Muliawan",
+      "type": "Direksi",
+      "shares": 1185556600,
+      "percentage": 34.06
+    },
+    {
+      "name": "PT Kingland Investindo Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 1100000000,
+      "percentage": 31.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 638185127,
+      "percentage": 18.34
+    },
+    {
+      "name": "Indra Muliawan",
+      "type": "Komisaris",
+      "shares": 554340000,
+      "percentage": 15.93
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2500000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT United Kingland",
+      "business_type": "Industri Ban dalam",
+      "total_assets": 148983875,
+      "ownership_percentage": 82.69
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "417.669.807.240",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:18.020Z"
+}

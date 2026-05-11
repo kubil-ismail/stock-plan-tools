@@ -1,0 +1,287 @@
+{
+  "company_name": "PT Damai Sejahtera Abadi Tbk",
+  "ticker": "UFOE",
+  "office_address": "Jl. Kertajaya 149, Kel. Airlangga, Kec. Gubeng, Kota Surabaya, Jawa Timur 60286",
+  "email": "corporatesecretary@ufoelektronika.com",
+  "phone": "(031) 5037745",
+  "fax": "(031) 5037705",
+  "tax_id": "02.355.031.2-631.000",
+  "website": "http://corp.ufoelektronika.com",
+  "listing_date": "2021-02-01",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Ritel Produk Elektronik dan Furnitur Rumah Tangga",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 89,
+    "name": "Ritel Elektronik",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Tedy Suronoto, S.h.",
+    "email": "corporatesecretary@ufoelektronika.com",
+    "phone": "(031) 5037745"
+  },
+  "directors": [
+    {
+      "name": "Poedji Harixon",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dra. Soeliana Tanumihardjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Budiono, S.e",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Pudji Harianto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ng Andi Gotama Chandra, S.e., m.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ng Andi Gotama Chandra, S.e., m.h",
+      "position": "Ketua"
+    },
+    {
+      "name": "Markus Edwin Soegianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jimy Khuana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Damai Sejahtera Lestari Investama",
+      "type": "Lebih dari 5%",
+      "shares": 2086749000,
+      "percentage": 72
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 422658764,
+      "percentage": 14.59
+    },
+    {
+      "name": "Ir. Pudji Harianto",
+      "type": "Komisaris",
+      "shares": 209547457,
+      "percentage": 7.23
+    },
+    {
+      "name": "Poedji Harixon",
+      "type": "Direksi",
+      "shares": 152393400,
+      "percentage": 5.26
+    },
+    {
+      "name": "Henry Budiono, S.e.",
+      "type": "Direksi",
+      "shares": 25646072,
+      "percentage": 0.88
+    },
+    {
+      "name": "Dra. Soeliana Tanumihardjo",
+      "type": "Direksi",
+      "shares": 1267000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Universal Joyo Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 161258673972,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Universal Joyo Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 158673848057,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Universal Joyo Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 151158605753,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Universal Joyo Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 128353293373,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Universal Joyo Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 127660990270,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Jogja Duta Cahaya Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 126512539281,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT. Jogja Duta Cahaya Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 126080881600,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT. Jogja Duta Cahaya Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 120831860149,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT. Jogja Duta Cahaya Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 119797737355,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT. Jogja Duta Cahaya Lestari",
+      "business_type": "Retail Elektronik",
+      "total_assets": 112346095160,
+      "ownership_percentage": 25
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kap Rama Wendra"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kap Rama Wendra"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kap Rama Wendra"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kap Rama Wendra"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "449.230.562.415",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:22.465Z"
+}

@@ -1,0 +1,270 @@
+{
+  "company_name": "PT Kian Santang Muliatama Tbk.",
+  "ticker": "RGAS",
+  "office_address": "Jl. Wibawa Mukti II Perum Telkom Satwika Permai Blok A5 No. 8, Rt 009/rw 009 Kel. Jatiluhur, Kec. Jatiasih Bekasi 17425",
+  "email": "corsec@kianmulia.com",
+  "phone": "021-82748249",
+  "fax": "",
+  "tax_id": "86.731.963.4-447.000",
+  "website": "https://www.kianmulia.com",
+  "listing_date": "2023-11-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Mesin Peralatan dan Perlengkapan Lainnya, Instalasi Mekanikal, Instalasi Minyak dan Gas.",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Aditya Rizky Putra",
+    "email": "corsec@kianmulia.com",
+    "phone": "021-82748249"
+  },
+  "directors": [
+    {
+      "name": "Edy Nurhamid Amin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sutarno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fadjar Tri Ananda",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Irvan Surya Dewantara",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Richard Leonardus A.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Richard Leonardus A.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ratih Kumala",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sugito",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 334234110,
+      "percentage": 22.9
+    },
+    {
+      "name": "Agus Salim",
+      "type": "Lebih dari 5%",
+      "shares": 253125000,
+      "percentage": 17.34
+    },
+    {
+      "name": "Taufik Dwicahyono",
+      "type": "Lebih dari 5%",
+      "shares": 210937500,
+      "percentage": 14.46
+    },
+    {
+      "name": "Edy Nurhamid Amin",
+      "type": "Direksi",
+      "shares": 210937500,
+      "percentage": 14.46
+    },
+    {
+      "name": "Fadjar Tri Ananda",
+      "type": "Direksi",
+      "shares": 168750000,
+      "percentage": 11.56
+    },
+    {
+      "name": "PT Kian Megah Investama",
+      "type": "Lebih dari 5%",
+      "shares": 140625000,
+      "percentage": 9.64
+    },
+    {
+      "name": "PT Platinum Berkah Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 140625000,
+      "percentage": 9.64
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kian Santang",
+      "business_type": "Perdagangan Besar Mesin Peralatan dan Perlengkapan Lainnya, Jasa Sertifikasi, Jasa Pengujian Laboratorium, Jasa Inspeksi, Jasa Kalibrasi, Jasa Commissioning, Jasa Analisis dan Uji Teknis Lainnya",
+      "total_assets": 7898311918,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kian Santang",
+      "business_type": "Perdagangan Besar Mesin Peralatan dan Perlengkapan Lainnya, Jasa Sertifikasi, Jasa Pengujian Laboratorium, Jasa Inspeksi, Jasa Kalibrasi, Jasa Commissioning, Jasa Analisis dan Uji Teknis Lainnya",
+      "total_assets": 7776106569,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kian Santang",
+      "business_type": "Perdagangan Besar Mesin Peralatan dan Perlengkapan Lainnya, Jasa Sertifikasi, Jasa Pengujian Laboratorium, Jasa Inspeksi, Jasa Kalibrasi, Jasa Commissioning, Jasa Analisis dan Uji Teknis Lainnya",
+      "total_assets": 7191764083,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kian Santang",
+      "business_type": "Perdagangan Besar Mesin Peralatan dan Perlengkapan Lainnya, Jasa Sertifikasi, Jasa Pengujian Laboratorium, Jasa Inspeksi, Jasa Kalibrasi, Jasa Commissioning, Jasa Analisis dan Uji Teknis Lainnya",
+      "total_assets": 6895495143,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ergas Fusion Indonesia",
+      "business_type": "Industri Pipa Plastik dan Perlengkapannya, Perdagangan Besar Mesin Kantor dan Industri Pengolahan Suku Cadang dan Perlengkapannya",
+      "total_assets": 6618182895,
+      "ownership_percentage": 15
+    },
+    {
+      "name": "PT Karya Instrumindo Simpati",
+      "business_type": "Industri Alat Uji dalam Proses Industri dan Industri Alat Ukur dan Alat Uji Manual",
+      "total_assets": 4191200044,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Instrumindo Simpati",
+      "business_type": "Industri Alat Uji dalam Proses Industri dan Industri Alat Ukur dan Alat Uji Manual",
+      "total_assets": 3861211971,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Instrumindo Simpati",
+      "business_type": "Industri Alat Uji dalam Proses Industri dan Industri Alat Ukur dan Alat Uji Manual",
+      "total_assets": 3632632755,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Instrumindo Simpati",
+      "business_type": "Industri Alat Uji dalam Proses Industri dan Industri Alat Ukur dan Alat Uji Manual",
+      "total_assets": 3333472204,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ergas Fusion Indonesia",
+      "business_type": "Industri Pipa Plastik dan Perlengkapannya, Perdagangan Besar Mesin Kantor dan Industri Pengolahan Suku Cadang dan Perlengkapannya",
+      "total_assets": 1712048229,
+      "ownership_percentage": 15
+    },
+    {
+      "name": "PT Ergas Fusion Indonesia",
+      "business_type": "Industri Pipa Plastik dan Perlengkapannya, Perdagangan Besar Mesin Kantor dan Industri Pengolahan Suku Cadang dan Perlengkapannya",
+      "total_assets": 1711779762,
+      "ownership_percentage": 15
+    },
+    {
+      "name": "PT Ergas Fusion Indonesia",
+      "business_type": "Industri Pipa Plastik dan Perlengkapannya, Perdagangan Besar Mesin Kantor dan Industri Pengolahan Suku Cadang dan Perlengkapannya",
+      "total_assets": 1709055696,
+      "ownership_percentage": 15
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    },
+    {
+      "name": "Kap Mennix & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "131.331.069.900",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:49.565Z"
+}

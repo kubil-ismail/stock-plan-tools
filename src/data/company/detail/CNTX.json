@@ -1,0 +1,193 @@
+{
+  "company_name": "PT Century Textile Industry Tbk",
+  "ticker": "CNTX",
+  "office_address": "Jl. Raya Bogor Km27, Ciracas, Jakarta Timur 13740",
+  "email": "dipa.ayukristianti.c2@mail.toray, muji.prasetyo.x3@mail.toray",
+  "phone": "(021) 8711907, 8710724, 8710725",
+  "fax": "(021) 8711401",
+  "tax_id": "001.000.165.9-054.000",
+  "website": "https://htpp://www.toray.co.id/centex",
+  "listing_date": "1979-05-22",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri Tekstil",
+    "business_summary": "Perusahaan bergerak di bidang Tekstil.",
+    "business_tags": [
+      "Tekstil"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Ibu Dipa Ayu Kristianti, Se",
+    "email": "dipa.ayukristianti.c2@mail.toray",
+    "phone": "021-87711907, 8710724, 8710725"
+  },
+  "directors": [
+    {
+      "name": "Masamitsu Kamada",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yuniasari",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tomoaki Nakajima",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ryo Takahashi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hideki Okada",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Katsuya Okajima",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suhardi Budiman",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Zenzia Sianica Ihza",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hideo Umeki",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Zenzia Sianica Ihza",
+      "position": "Ketua"
+    },
+    {
+      "name": "Charles Christian, Se, Ak, Cpa, Bkp",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irwan Setia, Msi, Cpa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Penfabric Sdn Berhad",
+      "type": "Lebih dari 5%",
+      "shares": 74162054,
+      "percentage": 37
+    },
+    {
+      "name": "Toray Industries, Inc",
+      "type": "Lebih dari 5%",
+      "shares": 47480000,
+      "percentage": 24
+    },
+    {
+      "name": "PT. Prospect Motor",
+      "type": "Lebih dari 5%",
+      "shares": 24191000,
+      "percentage": 12
+    },
+    {
+      "name": "PT. Budiman Kencana Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 23310000,
+      "percentage": 12
+    },
+    {
+      "name": "PT. Easterntex",
+      "type": "Lebih dari 5%",
+      "shares": 20298000,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 7833000,
+      "percentage": 4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2725946,
+      "percentage": 1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "9.940.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:23.690Z"
+}

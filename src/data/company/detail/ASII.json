@@ -1,0 +1,515 @@
+{
+  "company_name": "Astra International Tbk",
+  "ticker": "ASII",
+  "office_address": "Menara Astra Lt 58-63, Jl. Jendral Sudirman Kav 5-6, Jakarta, 10220",
+  "email": "corporate.secretary@ai.astra.co.id",
+  "phone": "(021) 508 43 888",
+  "fax": "(021) 6530-4957",
+  "tax_id": "01.302.584.6-092.000",
+  "website": "https://www.astra.co.id",
+  "listing_date": "1990-04-04",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan Umum",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan, Properti, Energi, Logistik, Konstruksi, Otomotif, Keuangan.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan",
+      "Properti",
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Otomotif",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 28,
+    "name": "Perusahaan Holding Multi Sektor",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 50,
+    "name": "Perusahaan Holding Multi-sektor"
+  },
+  "sub_industry": {
+    "id": 76,
+    "name": "Perusahaan Holding Multi-sektor",
+    "industries_id": 50
+  },
+  "corporate_secretary": {
+    "name": "Gita Tiffany Boer",
+    "email": "gita.tiffanyboer@ai.astra.co.id",
+    "phone": "6531 0377"
+  },
+  "directors": [
+    {
+      "name": "Rudy",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gidion Hasan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Santosa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gita Tiffani Boer",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fxl Kesuma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Thomas Junaidi Alim. W",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hsu Hai Yeh",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Siswadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Djap Tet Fa",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Prijono Sugiarto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sri Indrastuti Hadiputranto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muliaman Darmansyah Hadad",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muhamad Chatib Basri",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Pariya Tangtongpairoth",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anthony John Liddell Nightingale",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Benjamin William Keswick",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Stephen Patrick Gore",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lincoln Lin Feng Pan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lee Liang Whye",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Muhamad Chatib Basri",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jusuf Halim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irhoan Tanudiredja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lee Liang Whye",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Jardine Cycle & Carriage Limited",
+      "type": "Lebih dari 5%",
+      "shares": 20288255040,
+      "percentage": 50.11
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 17779626760,
+      "percentage": 43.92
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1951233840,
+      "percentage": 4.82
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 419736900,
+      "percentage": 1.04
+    },
+    {
+      "name": "Djony Bunarto Tjondro",
+      "type": "Direksi",
+      "shares": 9530000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Gidion Hasan",
+      "type": "Direksi",
+      "shares": 6765000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Santosa",
+      "type": "Direksi",
+      "shares": 7825400,
+      "percentage": 0.02
+    },
+    {
+      "name": "Prijono Sugiarto",
+      "type": "Komisaris",
+      "shares": 4123300,
+      "percentage": 0.01
+    },
+    {
+      "name": "Henry Tanoto",
+      "type": "Direksi",
+      "shares": 4503000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Gita Tiffani Boer",
+      "type": "Direksi",
+      "shares": 3339100,
+      "percentage": 0.01
+    },
+    {
+      "name": "Fxl Kesuma",
+      "type": "Direksi",
+      "shares": 3800000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Hamdani Dzulkarnaen Salim",
+      "type": "Direksi",
+      "shares": 2207000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Rudy",
+      "type": "Direksi",
+      "shares": 1200000,
+      "percentage": 0
+    },
+    {
+      "name": "Thomas Junaidi Alim. W",
+      "type": "Direksi",
+      "shares": 1407800,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT United Tractors Tbk",
+      "business_type": "Alat Berat, Pertambangan, Konstruksi dan Energi",
+      "total_assets": 178710,
+      "ownership_percentage": 59.5
+    },
+    {
+      "name": "PT Federal International Finance",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 50379,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sedaya Multi Investama",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 46825,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Sedaya Finance",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 43114,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Agro Lestari Tbk",
+      "business_type": "Agribisnis",
+      "total_assets": 27963,
+      "ownership_percentage": 79.68
+    },
+    {
+      "name": "PT Menara Astra",
+      "business_type": "Properti",
+      "total_assets": 26222,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Tol Nusantara",
+      "business_type": "Infrastruktur",
+      "total_assets": 24374,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Otoparts Tbk",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 23020,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Serasi Autoraya",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 7903,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Digital Internasional",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 7210,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Healthcare Indonesia",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 5440,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Garda Era Sedaya",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 4186,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Graphia Tbk",
+      "business_type": "Teknologi Informasi",
+      "total_assets": 2940,
+      "ownership_percentage": 76.87
+    },
+    {
+      "name": "PT Arya Kharisma",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 2094,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tjahja Sakti Motor",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 1396,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Samadista Karya",
+      "business_type": "Properti",
+      "total_assets": 1376,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inti Pantja Press Industri",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 1352,
+      "ownership_percentage": 89.36
+    },
+    {
+      "name": "PT Swadharma Bhakti Sedaya Finance",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 1324,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sedaya Pratama",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 960,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Multi Finance",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 865,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pulogadung Pawitra Laksana",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 851,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Brahmayasa Bahtera",
+      "business_type": "Properti",
+      "total_assets": 728,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Matra Graha Sarana",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 631,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fuji Technica Indonesia",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 583,
+      "ownership_percentage": 59.63
+    },
+    {
+      "name": "PT Gaya Motor",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 525,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Nusa Perdana",
+      "business_type": "Infrastruktur",
+      "total_assets": 474,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Auto Trust",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Transportasi Indonesia",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 310,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cipta Sedaya Digital Indonesia",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 224,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sharia Multifinance Astra",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 217,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astra Mitra Ventura",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 188,
+      "ownership_percentage": 99.85
+    },
+    {
+      "name": "PT Astra Autoprima",
+      "business_type": "Otomotif dan Mobilitas",
+      "total_assets": 60,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "241.889.230.011.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:33.406Z"
+}

@@ -1,0 +1,854 @@
+{
+  "company_name": "Dian Swastatika Sentosa Tbk",
+  "ticker": "DSSA",
+  "office_address": "Gedung Sinar Mas Land Plaza, Menara 2, Lantai 24, Jl. m.h. Thamrin No. 51, Gondangdia, Menteng, Kota Adm. Jakarta Pusat, Dki Jakarta,10350",
+  "email": "corsec@dss.co.id",
+  "phone": "021-31990258",
+  "fax": "021-31990259",
+  "tax_id": "01.785.257.5-054.000",
+  "website": "https://www.dssa.co.id",
+  "listing_date": "2009-12-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Energi & Infrastruktur",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Teknologi, Energi, Logistik, Konstruksi, Media.",
+    "business_tags": [
+      "Batubara",
+      "Teknologi",
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Media"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Susan Chandra",
+    "email": "susan.chandra@dss.co.id, corsec@dss.co.id",
+    "phone": "62-21-31990258"
+  },
+  "directors": [
+    {
+      "name": "Lay Krisnan Cahya",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lokita Prasetya",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hermawan Tarjono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Cahya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alex Sutanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "David Fernando Audy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mona Angelique Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Timotius Max Sulaiman, Se",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Franky Oesman Widjaja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr.-ing. Evita Herawati Legowo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Robert Arthur Simanjuntak",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. F.x. Sutijastoto, M.a.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Hendrikus Passagi, S.sos, S.h., m.h., M.sc.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Handhianto Suryo Kentjono, Ph.d.",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Hendrikus Passagi, S.sos., S.h., m.h., M.sc.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ir. F.x. Sutijastoto, M.a.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Michell Suharli, M.si., Cpa, Ca",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sinar Mas Tunggal",
+      "type": "Lebih dari 5%",
+      "shares": 4615523200,
+      "percentage": 59.9
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1573761730,
+      "percentage": 20.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 1516238270,
+      "percentage": 19.7
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dsst Mas Gemilang",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 1783853996,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Golden Energy Mines Tbk",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 1124853967,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Innovate Mas Utama",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 974861344,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Eka Mas Republik",
+      "business_type": "Penyedia Jasa Internet",
+      "total_assets": 974400250,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Borneo Indobara",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 683573656,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Roundhill Capital Indonesia",
+      "business_type": "Penyertaan Saham dan Perdagangan Besar",
+      "total_assets": 682947735,
+      "ownership_percentage": 51.48
+    },
+    {
+      "name": "PT Sinarmas Sukses Sejahtera",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 256249780,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dian Utama Investasi Teknologi",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 255556475,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dsst Dana Gemilang",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 248083896,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Smplus Digital Investama",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 162363735,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Smplus Sentra Data",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 159910910,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Duta Sarana Internusa",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 130037724,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Barasentosa Lestari",
+      "business_type": "Pertambangan Batubara dan Pengembangan Pembangkit Listrik Mulut Tambang",
+      "total_assets": 129900929,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Dwikarya Sejati Utama",
+      "business_type": "Modal Ventura dan Manajemen Konsultasi",
+      "total_assets": 129737461,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Dssa Mas Infrastruktur",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 120790670,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kuningan Mas Gemilang",
+      "business_type": "Aktivitas Hosting",
+      "total_assets": 111135229,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Dsse Energi Mas Utama",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 106606478,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kuansing Inti Makmur",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 92222681,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Daya Sentosa Sakti Renewables",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 65780776,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Buana Bumi Energi",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 53631020,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dssr Daya Mas Sakti",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 52915216,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Innovate Mas Indonesia",
+      "business_type": "Tv Berbayar",
+      "total_assets": 49604294,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andalan Mas Sejahtera",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 48122675,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Smplus Sentra Data Persada",
+      "business_type": "Aktivitas Hosting",
+      "total_assets": 46009348,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bungo Bara Utama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 45800291,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Rolimex Kimia Nusamas",
+      "business_type": "Perdagangan",
+      "total_assets": 42505205,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Dian Semesta Sentosa",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 39299918,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Kalimantan Sejati",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 37762157,
+      "ownership_percentage": 99.3
+    },
+    {
+      "name": "PT Andalan Satria Lestari",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 37636370,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Kencana Eka Sejahtera",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 33881890,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Mas Cisolok Energi",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 32652251,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Mas Cisolok Geothermal",
+      "business_type": "Pengusahaan Tenaga Panas Bumi",
+      "total_assets": 32651338,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Golden Multimedia Holdings Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 26425805,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dsst Video Gemilang",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 23966210,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Manggala Alam Lestari",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 23538716,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tanjung Belit Bara Utama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 23198934,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Karya Mining Solutions",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 20608492,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Berkat Nusantara Permai",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 20242307,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bungo Bara Makmur",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 19709067,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sf Digital Terdepan",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 16858094,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Buana Bara Ekapratama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 15775576,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Sukses Makmur Selaras",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 10371453,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dian Semesta Investasi",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 10306123,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Mas Nage Energi",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 10256183,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Mas Nage Geothermal",
+      "business_type": "Pengusahaan Tenaga Panas Bumi",
+      "total_assets": 10031076,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Mas Geopatra Energi",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 9987109,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Buana Mas Sejahtera",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 8381051,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Hillmas Coal Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 7534437,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Dalligent Solutions Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 7362394,
+      "ownership_percentage": 56.71
+    },
+    {
+      "name": "PT Daya Mas Geopatra Pangrango",
+      "business_type": "Pengusahaan Tenaga Panas Bumi",
+      "total_assets": 7196518,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Cemerlang Persada",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 7116844,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Citra Alam Indah",
+      "business_type": "Aktivitas Penyewaan Alat Transportasi Darat",
+      "total_assets": 6232420,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dian Niaga Makmur",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 5285378,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Gems Trading Resources Pte. Ltd",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 5240714,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Eka Nusantara Gemilang",
+      "business_type": "Teknologi",
+      "total_assets": 4486888,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Trisula Kencana Sakti",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 3455489,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Gws Era Medika",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 3168753,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Smplus Solusi Sejahtera",
+      "business_type": "Jasa Teknologi dan Kegiatan Terkait Lainnya",
+      "total_assets": 2649449,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Mas Anugerah Semesta",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 2224231,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Surya Mas Makmur",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 2210542,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Mas Agra Sejahtera",
+      "business_type": "Jasa Penunjang Tenaga Listrik untuk Plts",
+      "total_assets": 2199301,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Asix Indonesia Cerdas",
+      "business_type": "Jasa Manajemen Konsultasi Teknologi dan Transformasi Digital Berbasis Ai",
+      "total_assets": 2196331,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Persada Makmur Sejahtera",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 2094368,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Celesta Prime Technology Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 1748770,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Sunshine Network Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 1743207,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gws Medika Prima",
+      "business_type": "Medis",
+      "total_assets": 1537712,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bara Harmonis Batang Asam",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 1451020,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nusa Indah Permai",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 1318144,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Daya Surya Gemilang",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 1225480,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Era Mitra Selaras",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 930456,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Buana Inti Citraprima",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 923677,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gws Prima Sentosa",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 856625,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Andalan Satria Abadi",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 856550,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Rimba Lestari",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 763953,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Cahaya Nusa Pratama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 715709,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Beijing Shuzhifang Technology Co Ltd",
+      "business_type": "Peneliti Ilmiah dan Jasa Teknologi",
+      "total_assets": 706230,
+      "ownership_percentage": 56.71
+    },
+    {
+      "name": "PT Dssp Power Sentosa",
+      "business_type": "Jasa Penunjang Tenaga Listrik",
+      "total_assets": 641276,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rimba Subur Lestari",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 630120,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Duta Alam Ekapratama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 629206,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Kalteng Investment Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 555884,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dalligent Solusi Indonesia",
+      "business_type": "Informasi dan Komunikasi",
+      "total_assets": 501130,
+      "ownership_percentage": 56.71
+    },
+    {
+      "name": "PT Duta Alam Jaya",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 500462,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sinarmas Rewired Xcellence",
+      "business_type": "Jasa Manajemen Konsultasi Teknologi dan Transformasi Digital",
+      "total_assets": 463041,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Kalimantan Sejati Dua",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 462748,
+      "ownership_percentage": 99.64
+    },
+    {
+      "name": "PT Citra Alam Cahaya",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 455096,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kuansing Inti Sejahtera",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 343263,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Persada Makmur Selaras Dua",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 279068,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Shining Energy Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 241646,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Bara Pratama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 193151,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berkat Satria Abadi",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 165690,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Gems Energy Indonesia",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 121938,
+      "ownership_percentage": 51.01
+    },
+    {
+      "name": "Golden Prime Power Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 120962,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Alpha Prime Services Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 96352,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Unsoco",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 71353,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sarana Piranti Informatika",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 56739,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sintesa Sinergi Nusantara",
+      "business_type": "Penyedia Jasa Internet",
+      "total_assets": 48563,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Cahaya Amanah Sentosa",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 46858,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Golden Lumina International Pte. Ltd",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 38770,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gws Medika Sejahtera",
+      "business_type": "Medis",
+      "total_assets": 12951,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Alam Lestari",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 2565,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusantara Indah Lestari",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 2096,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Shaanxi North West Power Corporation (singapore) Pte. Ltd.",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 930,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sf Digital Commerce",
+      "business_type": "Penyertaan Saham",
+      "total_assets": 149,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rolimex Suburin Hutani Persada",
+      "business_type": "Perdagangan Pupuk",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "311.110.499.200.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:37.804Z"
+}

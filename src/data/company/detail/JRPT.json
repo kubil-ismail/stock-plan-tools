@@ -1,0 +1,253 @@
+{
+  "company_name": "Jaya Real Property Tbk",
+  "ticker": "JRPT",
+  "office_address": "Cbd Emerald Blok Ce/a No. 01, Boulevard Bintaro Jaya, Tangerang 15227",
+  "email": "corporate@jayareal.co.id",
+  "phone": "021 - 745 8888",
+  "fax": "021 - 745 3333",
+  "tax_id": "01.001.076.7-054.000",
+  "website": "https://www.jayaproperty.com",
+  "listing_date": "1994-06-29",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Audi Lazaro",
+    "email": "audi.lazaro@jayarealproperty.com",
+    "phone": "021-7458888"
+  },
+  "directors": [
+    {
+      "name": "Trisna Muliadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yohannes Henky Wijaya",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Sutopo Kristanto, Mm",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Wijaya, Se",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dra. Swandayani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Candra Ciputra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Vivian Setjakusuma",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Okky Dharmosetio",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Okky Dharmosetio",
+      "position": "Ketua"
+    },
+    {
+      "name": "Macy Gunawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lien-lien Anggrahini",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pembangunan Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 8744075000,
+      "percentage": 67.73
+    },
+    {
+      "name": "Bp2s Sg/bnp Paribas Singapore Branch Wealth Management",
+      "type": "Lebih dari 5%",
+      "shares": 2135209800,
+      "percentage": 16.54
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1946131500,
+      "percentage": 15.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 84018000,
+      "percentage": 0.65
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1284800,
+      "percentage": 0.01
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jaya Gardenpolis dan Entitas Anak",
+      "business_type": "Real Estat",
+      "total_assets": 1999619752,
+      "ownership_percentage": 84
+    },
+    {
+      "name": "PT Primainti Permata",
+      "business_type": "Pembangunan dan Jasa",
+      "total_assets": 390744474,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jaya Properti Hotel",
+      "business_type": "Perhotelan/hotel",
+      "total_assets": 202654687,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Jaya Letris Properti",
+      "business_type": "Pembangunan dan Jasa",
+      "total_assets": 92814455,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jaya Properti Simatupang",
+      "business_type": "Pembangunan dan Jasa",
+      "total_assets": 76600766,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jaya Properti Fatmawati",
+      "business_type": "Pembangunan dan Jasa",
+      "total_assets": 64806601,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jaya Citra Hotel",
+      "business_type": "Perhotelan/hotel",
+      "total_assets": 53395640,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Jaya Mitra Sarana",
+      "business_type": "Pembangunan dan Jasa",
+      "total_assets": 29167473,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Sarana Biru Lestari",
+      "business_type": "Pengelolaan Air dan Limbah",
+      "total_assets": 15001995,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jejaring Optik Bintaro Jaya",
+      "business_type": "Penyedia Layanan Jaringan",
+      "total_assets": 10369460,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jaya Sarana Pratama",
+      "business_type": "Pembangunan dan Jasa",
+      "total_assets": 4027375,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "14.137.237.414.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:26.123Z"
+}

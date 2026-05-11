@@ -1,0 +1,183 @@
+{
+  "company_name": "Unilever Indonesia Tbk",
+  "ticker": "UNVR",
+  "office_address": "Grha Unilever Bsd Green Office Park Kav. 3 Jln Bsd Boulevard Barat, Bsd City Tangerang 15345",
+  "email": "unvr.indonesia@unilever.com",
+  "phone": "021- 80827000",
+  "fax": "021- 80827002",
+  "tax_id": "01.001.701.0-092.000",
+  "website": "http://www.unilever.com",
+  "listing_date": "1982-01-11",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Fast Moving Consumer Goods",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Mario Abdi Amrillah",
+    "email": "unvr.indonesia@unilever.com",
+    "phone": "021-80827000"
+  },
+  "directors": [
+    {
+      "name": "Alejandro Meinardo Santos Concha",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Benjie Go Yap",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Neeraj Lal",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendri Widiarta",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nurdiana Darus",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alexander Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Debora Herawati Sadrach",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ignasius Jonan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Fauzi Ichsan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Alissa Wahid",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sanjiv Mehta",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alexander Rusli",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nita Skolastika Ruslim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aria Farah Mita",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Unilever Indonesia Holding B.v.",
+      "type": "Lebih dari 5%",
+      "shares": 32424387500,
+      "percentage": 84.99
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5363242895,
+      "percentage": 14.06
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 193602905,
+      "percentage": 0.51
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 168766700,
+      "percentage": 0.44
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "58.560.250.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:30.627Z"
+}

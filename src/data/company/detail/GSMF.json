@@ -1,0 +1,306 @@
+{
+  "company_name": "Equity Development Investment Tbk",
+  "ticker": "GSMF",
+  "office_address": "Wisma Hayam Wuruk Lt. 3 Jl. Hayam Wuruk No. 8 Jakarta Pusat 10120",
+  "email": "secretary@theequityone.com",
+  "phone": "021-80632550",
+  "fax": "021-2313285",
+  "tax_id": "0013712948054000",
+  "website": "https://www.theequityone.com",
+  "listing_date": "1989-10-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Investment Company",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Bustomi Usman",
+    "email": "secretary@theequityone.com",
+    "phone": "021-80632550"
+  },
+  "directors": [
+    {
+      "name": "Hendra Godjali",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tetty Lanawati Gozali",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bustomi Usman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indrawana Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Imelda Siahaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sujitno Siswowidagdo",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kamardy Arief",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muhamad Zulkifli Abusuki",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Marcello Theodore Taufik",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sean Gustav Standish Hughes",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kamardy Arief",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sonja Anggawinata",
+      "position": "Anggota"
+    },
+    {
+      "name": "Angreni Puspitasari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Equity Global Int. Limited",
+      "type": "Lebih dari 5%",
+      "shares": 9716942731,
+      "percentage": 68.28
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4294541392,
+      "percentage": 30.18
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 218915582,
+      "percentage": 1.54
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sujitno Siswowidagdo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kamardy Arief",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhamad Zulkifli Abusuki",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marcello Theodore Taufik",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sean Gustav Standish Hughes",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendra Godjali",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tetty Lanawati Gozali",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bustomi Usman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Indrawana Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Imelda Siahaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Equity Life Indonesia",
+      "business_type": "Asuransi Jiwa, Asuransi Kesehatan dan Dana Pensiun",
+      "total_assets": 2345193,
+      "ownership_percentage": 94.78
+    },
+    {
+      "name": "PT Asuransi Dayin Mitra Tbk",
+      "business_type": "Asuransi Kerugian",
+      "total_assets": 1079870,
+      "ownership_percentage": 73.33
+    },
+    {
+      "name": "PT Equity Finance Indonesia",
+      "business_type": "Sewa Pembiayaan, Pembiayaan Konsumen dan Anjak Piutang",
+      "total_assets": 560995,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ventura Investasi Utama",
+      "business_type": "Modal Ventura",
+      "total_assets": 450778,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ventura Investasi Prima",
+      "business_type": "Modal Ventura",
+      "total_assets": 207666,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Datindo Entrycom",
+      "business_type": "Jasa Administrasi Efek",
+      "total_assets": 148221,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Equity Sekuritas Indonesia",
+      "business_type": "Penjamin Emisi Efek, Perantara Pedagang Efek, Manajer Investasi dan Penasehat Investasi",
+      "total_assets": 65821,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Equity Aset Manajemen",
+      "business_type": "Manajer Investasi",
+      "total_assets": 25002,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lintas Dunia Travelindo",
+      "business_type": "Jasa Perjalanan",
+      "total_assets": 24439,
+      "ownership_percentage": 68.58
+    },
+    {
+      "name": "PT Lumbung Sari",
+      "business_type": "Pialang Asuransi",
+      "total_assets": 19538,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Medicom Prima",
+      "business_type": "Jasa Kesehatan",
+      "total_assets": 3277,
+      "ownership_percentage": 97.07
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.423.039.970.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:12.159Z"
+}

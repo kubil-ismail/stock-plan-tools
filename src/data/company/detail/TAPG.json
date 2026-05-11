@@ -1,0 +1,291 @@
+{
+  "company_name": "PT Triputra Agro Persada Tbk.",
+  "ticker": "TAPG",
+  "office_address": "The East Building, Lantai 23 Jl. Dr Ide Anak Agung Gde Agung, Kav. E.3-2, No. 1 Jakarta 12950 - Indonesia",
+  "email": "tap.corsec@tap-agri.com",
+  "phone": "(62-21) 5794-4737",
+  "fax": "Fax (62-21) 5794-4745",
+  "tax_id": "02.433.226.4-062.000",
+  "website": "https://www.tap-agri.com",
+  "listing_date": "2021-04-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perkebunan kelapa sawit dan industri pengolahan kelapa sawit",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Joni Tjeng",
+    "email": "tap.corsec@tap-agri.com",
+    "phone": "(62-21) 5794-4737"
+  },
+  "directors": [
+    {
+      "name": "Erida",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "George Oetomo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budiarto Abadi",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Arif Rachmat",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Arini Saraswaty Subianto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Toddy Mizaabianto Sugoto",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Danny Rachmat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Aridono Sukmanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Maruli Gultom",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Stanley Setia Atmadja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tjandra Karya Hermanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir. Maruli Gultom",
+      "position": "Ketua"
+    },
+    {
+      "name": "Habil Lokadjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Harry Arief Supardi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Persada Capital Investama",
+      "type": "Lebih dari 5%",
+      "shares": 6565109373,
+      "percentage": 33.0694
+    },
+    {
+      "name": "PT Triputra Investindo Arya",
+      "type": "Lebih dari 5%",
+      "shares": 4785958455,
+      "percentage": 24.108
+    },
+    {
+      "name": "PT Daya Adicipta Mustika",
+      "type": "Lebih dari 5%",
+      "shares": 3958643004,
+      "percentage": 19.9402
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3365991868,
+      "percentage": 16.9545
+    },
+    {
+      "name": "T. Permadi Rachmat. Ir",
+      "type": "Lebih dari 5%",
+      "shares": 1010175200,
+      "percentage": 5.0884
+    },
+    {
+      "name": "George Oetomo",
+      "type": "Direksi",
+      "shares": 55056100,
+      "percentage": 0.2773
+    },
+    {
+      "name": "Tjandra Karya Hermanto",
+      "type": "Komisaris",
+      "shares": 49500000,
+      "percentage": 0.2493
+    },
+    {
+      "name": "Budiarto Abadi",
+      "type": "Direksi",
+      "shares": 39449800,
+      "percentage": 0.1987
+    },
+    {
+      "name": "Erida",
+      "type": "Direksi",
+      "shares": 19210000,
+      "percentage": 0.0968
+    },
+    {
+      "name": "Arif Rachmat",
+      "type": "Komisaris",
+      "shares": 2796200,
+      "percentage": 0.0141
+    },
+    {
+      "name": "Arini Saraswaty Subianto",
+      "type": "Komisaris",
+      "shares": 650000,
+      "percentage": 0.0033
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Agro Multi Persada (amp)",
+      "business_type": "Perusahaan Induk",
+      "total_assets": 8772245,
+      "ownership_percentage": 94.93
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "41.690.334.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:06.246Z"
+}

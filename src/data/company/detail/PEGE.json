@@ -1,0 +1,199 @@
+{
+  "company_name": "PT Panca Global Kapital Tbk.",
+  "ticker": "PEGE",
+  "office_address": "Gedung Bei Tower I Lt. 17 Jl. Jend. Sudirman Kav 52-53, Senayan, Kebayoran Baru, Kota Adm. Jakarta Selatan, Dki Jakarta, 12190",
+  "email": "pgkapital@pancaglobal.co.id",
+  "phone": "021-5150196",
+  "fax": "021-5155461",
+  "tax_id": "001.884.939.8-054.000",
+  "website": "https://www.pancaglobal.co.id",
+  "listing_date": "2005-06-24",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang Investasi",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Holding Keuangan.",
+    "business_tags": [
+      "Perusahaan Holding Keuangan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Arif Thenu",
+    "email": "pgkapital@pancaglobal.co.id",
+    "phone": "021-5150196"
+  },
+  "directors": [
+    {
+      "name": "Arif Thenu",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Trisno Limanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chengwy Karlam",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Padma Dewi Liman",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Chengwy Karlam",
+      "position": "Ketua"
+    },
+    {
+      "name": "Isabella Chandrawati Thamrin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Kezia Natalie",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Rr Capital Group Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1201726600,
+      "percentage": 42.41
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 838131936,
+      "percentage": 29.56
+    },
+    {
+      "name": "Trisno Limanto",
+      "type": "Direksi",
+      "shares": 536725020,
+      "percentage": 18.94
+    },
+    {
+      "name": "PT Mandiri Terang Harapan",
+      "type": "Lebih dari 5%",
+      "shares": 256833500,
+      "percentage": 9.06
+    },
+    {
+      "name": "Arif Thenu",
+      "type": "Direksi",
+      "shares": 909700,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Panca Global Sekuritas",
+      "business_type": "Perusahaan Efek",
+      "total_assets": 228259377680,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Panca Global Sekuritas",
+      "business_type": "Perantara Pedagang Efek dan Penjamin Emisi Efek Brokerage And Underwriting",
+      "total_assets": 196428866816,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Panca Global Sekuritas",
+      "business_type": "Perantara Pedagang Efek dan Penjamin Emisi Efek",
+      "total_assets": 156941965145,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Panca Global Sekuritas",
+      "business_type": "Perantara Pedagang Efek dan Penjamin Emisi Efek",
+      "total_assets": 156941965145,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Panca Global Sekuritas",
+      "business_type": "Perantara Pedagang Efek dan Penjamin Emisi Efek",
+      "total_assets": 156941965145,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Panca Global Sekuritas",
+      "business_type": "Perantara Pedagang Efek dan Penjamin Emisi Efek",
+      "total_assets": 156941965145,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "419.345.724.288",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:59.103Z"
+}

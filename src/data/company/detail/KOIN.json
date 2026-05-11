@@ -1,0 +1,241 @@
+{
+  "company_name": "Kokoh Inti Arebama Tbk",
+  "ticker": "KOIN",
+  "office_address": "Graha Mobisel, Lt.3. Jl. Buncit Raya No. 139, Kalibata, Pancoran. Jakarta Selatan - 12740",
+  "email": "corsec@pt-kokoh.com",
+  "phone": "7971190",
+  "fax": "7971090",
+  "tax_id": "02.091.402.4-054.000",
+  "website": "https://www.pt-kokoh.com",
+  "listing_date": "2008-04-09",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bahan Bangunan Keramik",
+    "business_summary": "Perusahaan bergerak di bidang Produk & Perlengkapan Bangunan.",
+    "business_tags": [
+      "Produk & Perlengkapan Bangunan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Ng Novalia",
+    "email": "corsec@pt-kokoh.com",
+    "phone": "021-3506227"
+  },
+  "directors": [
+    {
+      "name": "Thichet Srisuriyon",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pavaret Lila",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Surawit Rattanawaree",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Saran Kaitiwong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kittikun Thongdejsri",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pattaraphon Charttongkum",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Y Agung Kuncoro Hadi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wiroat Rattanachaisit",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Warit Jintanawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Noppadol Gaewthabthim",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Noppadol Gaewthabthim",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dwi Astuti Rosmianingrum Nainggolan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ancella Anitawati Hermawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Scg Distribution Company Limited",
+      "type": "Lebih dari 5%",
+      "shares": 888836488,
+      "percentage": 90.62
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 92007244,
+      "percentage": 9.38
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wiroat Rattanachaisit",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Warit Jintanawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Noppadol Gaewthabthim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Thichet Srisuriyon",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pavaret Lila",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Surawit Rattanawaree",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saran Kaitiwong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kittikun Thongdejsri",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pattaraphon Charttongkum",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Y. Agung Kuncoro Hadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Karya Makmur Kreasi Prima",
+      "business_type": "Jasa Pergudangan",
+      "total_assets": 10704,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "82.390.873.488",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:11.635Z"
+}

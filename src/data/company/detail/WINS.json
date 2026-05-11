@@ -1,0 +1,326 @@
+{
+  "company_name": "Wintermar Offshore Marine Tbk",
+  "ticker": "WINS",
+  "office_address": "Jl. Kebayoran Lama No. 155 Jakarta 11560",
+  "email": "investor_relations@wintermar.com",
+  "phone": "5305201, 5305202",
+  "fax": "5305203",
+  "tax_id": "01.071.346.9-035.000",
+  "website": "https://www.wintermar.com",
+  "listing_date": "2010-11-29",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bidang pelayaran dengan fokus pada kapal penunjang kegiatan angkutan lepas pantai bagi industri minyak dan gas bumi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Energi, Logistik.",
+    "business_tags": [
+      "Teknologi",
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Nely Layanto",
+    "email": "nely.layanto@wintermar.com",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Sugiman Layanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Nely Layanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhamad Shanie Mubarak",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Janto Lili",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jonathan Jochanan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sim Idrus Munandar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "John Stuart Anderson Slack",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Jonathan Jochanan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Antonius Karamoy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Alex Wreksoremboko",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1658052117,
+      "percentage": 37.16
+    },
+    {
+      "name": "PT Wintermarjaya Lestari",
+      "type": "Lebih dari 5%",
+      "shares": 1517207252,
+      "percentage": 34.01
+    },
+    {
+      "name": "Sugiman Layanto",
+      "type": "Direksi",
+      "shares": 351190093,
+      "percentage": 7.872
+    },
+    {
+      "name": "Johnson Williang Sutjipto",
+      "type": "Lebih dari 5%",
+      "shares": 323194840,
+      "percentage": 7.245
+    },
+    {
+      "name": "Manoj Pitamber Nanwani",
+      "type": "Lebih dari 5%",
+      "shares": 263393339,
+      "percentage": 5.904
+    },
+    {
+      "name": "Pinky Nk",
+      "type": "Lebih dari 5%",
+      "shares": 246405469,
+      "percentage": 5.524
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 53283500,
+      "percentage": 1.194
+    },
+    {
+      "name": "Nely Layanto",
+      "type": "Direksi",
+      "shares": 40049101,
+      "percentage": 0.9
+    },
+    {
+      "name": "Janto Lili",
+      "type": "Direksi",
+      "shares": 5147334,
+      "percentage": 0.12
+    },
+    {
+      "name": "Muhamad Shanie Mubarak",
+      "type": "Direksi",
+      "shares": 3065217,
+      "percentage": 0.071
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wintermar",
+      "business_type": "Pelayaran",
+      "total_assets": 89367196,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Psv Indonesia",
+      "business_type": "Pelayaran",
+      "total_assets": 40427128,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wm Offshore",
+      "business_type": "Pelayaran",
+      "total_assets": 23718264,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sentosasegara Mulia Shipping",
+      "business_type": "Pelayaran & Perdagangan",
+      "total_assets": 17292875,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Fast Offshore Indonesia",
+      "business_type": "Pelayaran",
+      "total_assets": 16465175,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Win Offshore",
+      "business_type": "Pelayaran",
+      "total_assets": 11093875,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Winpan Offshore",
+      "business_type": "Pelayaran",
+      "total_assets": 10852623,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Wintermar Rajawali Asia",
+      "business_type": "Pelayaran",
+      "total_assets": 8849982,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Win Maritim",
+      "business_type": "Pelayaran",
+      "total_assets": 5787907,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Wintermar (b) Sdn Bhd",
+      "business_type": "Pelayaran",
+      "total_assets": 4677418,
+      "ownership_percentage": 99.44
+    },
+    {
+      "name": "PT Hammar Marine Offshore",
+      "business_type": "Pelayaran",
+      "total_assets": 1541735,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Arial Niaga Nusantara",
+      "business_type": "Pelayaran",
+      "total_assets": 1363852,
+      "ownership_percentage": 99.51
+    },
+    {
+      "name": "PT Nusa Maritim Jaya",
+      "business_type": "Pelayaran",
+      "total_assets": 569249,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Marine Solusindo Teknik",
+      "business_type": "Reparasi Kapal",
+      "total_assets": 234481,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wintermar Geo Offshore",
+      "business_type": "Pelayaran",
+      "total_assets": 185581,
+      "ownership_percentage": 98
+    },
+    {
+      "name": "PT Alto Nautika Teknologi",
+      "business_type": "Platform Digital",
+      "total_assets": 156466,
+      "ownership_percentage": 99.85
+    },
+    {
+      "name": "Nila Utama Pte Ltd",
+      "business_type": "Pelayaran",
+      "total_assets": 106111,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Azureus Simulator Asia",
+      "business_type": "Pelatihan",
+      "total_assets": 41409,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.542.763.309.340",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:59.978Z"
+}

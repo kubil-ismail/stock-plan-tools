@@ -1,0 +1,192 @@
+{
+  "company_name": "PT Mitra Tirta Buwana Tbk",
+  "ticker": "SOUL",
+  "office_address": "Jl. Waru No. 74 Sambilegi Baru Rt.001 Rw.003 Maguwoharjo, Depok, Sleman Yogyakarta - Indonesia, 55282",
+  "email": "mitratirtabuwana_jogja@yahoo.com",
+  "phone": "(0274) 2802707",
+  "fax": "(0274) 488811",
+  "tax_id": "21.099.696.3-542.000",
+  "website": "http://hexsoul.co.id",
+  "listing_date": "2023-01-06",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Air Minum Dalam Kemasan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 49,
+    "name": "Minuman Ringan",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Andri Yunan Nugroho",
+    "email": "andriyunugroho13@gmail.com",
+    "phone": "08156875036"
+  },
+  "directors": [
+    {
+      "name": "Kasmin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hery Kusworo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Andika Fazri",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Michael Ruly Atmadja, S.e.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Sulaiman",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arif Atmaji",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rudi Dwi Harsanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Makna Prakarsa Utama, PT",
+      "type": "Lebih dari 5%",
+      "shares": 792488900,
+      "percentage": 73.21
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 290037323,
+      "percentage": 26.79
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kasmin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hery Kusworo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andika Fazri",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michael Ruly Atmadja, S.e.",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Tambun Hutabarat, Drs."
+    },
+    {
+      "name": "Tambun Hutabarat, Drs."
+    },
+    {
+      "name": "Kap Slamet Riyanto, Aryanto & Rekan"
+    },
+    {
+      "name": "Tambun Hutabarat, Drs."
+    },
+    {
+      "name": "Kap Slamet Riyanto, Aryanto & Rekan"
+    },
+    {
+      "name": "Tambun Hutabarat, Drs."
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "56.291.363.596",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:30.110Z"
+}

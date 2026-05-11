@@ -1,0 +1,237 @@
+{
+  "company_name": "Cita Mineral Investindo Tbk",
+  "ticker": "CITA",
+  "office_address": "Gedung Bank Panin Lantai 2 Jln Jend Sudirman Senayan Gelora Tanah Abang Jakarta Pusat 10270",
+  "email": "corsec@citamineral.com",
+  "phone": "021-7251344",
+  "fax": "021-72789885",
+  "tax_id": "0016 7078 6109 1000",
+  "website": "https://citamineral.com",
+  "listing_date": "2002-03-20",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Alumunium.",
+    "business_tags": [
+      "Alumunium"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 3,
+    "name": "Alumunium",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Yusak Lumba Pardede",
+    "email": "yusak@citamineral.com",
+    "phone": "7251344"
+  },
+  "directors": [
+    {
+      "name": "Harry Kesuma Tanoto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ferry Kadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Robby Irfan Rafianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yusak Lumba Pardede",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lim Gunawan Hariyanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andi Ibrahim Saleh",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Darjoto Setyawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Pascal Steven Jean",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Parwoto Kartiko Sunu",
+      "position": "Ketua"
+    },
+    {
+      "name": "Toni Setioko",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tsun Tien Wen Lie, Se, Sh, Mm",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Harita Jayaraya",
+      "type": "Lebih dari 5%",
+      "shares": 2394245958,
+      "percentage": 60.455
+    },
+    {
+      "name": "Glencore International Investments Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1251999084,
+      "percentage": 31.613
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 305491228,
+      "percentage": 7.712
+    },
+    {
+      "name": "Lim Gunawan Hariyanto",
+      "type": "Komisaris",
+      "shares": 8624980,
+      "percentage": 0.22
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Harita Prima Abadi Mineral",
+      "business_type": "Pertambangan",
+      "total_assets": 316878684654,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Harita Prima Abadi Mineral",
+      "business_type": "Pertambangan Bauksit",
+      "total_assets": 227193944643,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Harita Prima Abadi Mineral",
+      "business_type": "Pertambangan Bauksit",
+      "total_assets": 227193944643,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Harita Prima Abadi Mineral",
+      "business_type": "Pertambangan",
+      "total_assets": 224163141615,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Harita Prima Abadi Mineral",
+      "business_type": "Pertambangan Bauksit",
+      "total_assets": 221592517435,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Karya Utama Tambangjaya",
+      "business_type": "Pertambangan",
+      "total_assets": 30252472787,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Utama Tambangjaya",
+      "business_type": "Pertambangan Bauksit",
+      "total_assets": 25702670856,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Utama Tambangjaya",
+      "business_type": "Pertambangan Bauksit",
+      "total_assets": 25702670856,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Karya Utama Tambangjaya",
+      "business_type": "Pertambangan",
+      "total_assets": 18778971426,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Utama Tambangjaya",
+      "business_type": "Pertambangan Bauksit",
+      "total_assets": 18506000845,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "14.811.751.075.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:10.361Z"
+}

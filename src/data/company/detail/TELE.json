@@ -1,0 +1,412 @@
+{
+  "company_name": "PT Omni Inovasi Indonesia Tbk",
+  "ticker": "TELE",
+  "office_address": "Jl. Sukarjo Wiryopranoto No. 3b-c 5a, Kecamatan Taman Sari, Jakarta Barat 11140",
+  "email": "corsec@omniinovasiindonesia.co.id",
+  "phone": "021-38269097, 021-38269098",
+  "fax": "021-38269096",
+  "tax_id": "02.566.874.0-074.000",
+  "website": "https://www.omniinovasiindonesia.co.id",
+  "listing_date": "2012-01-12",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perdagangan Umum",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Media.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Media"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 9,
+    "name": "Distributor Barang Konsumen"
+  },
+  "sub_industry": {
+    "id": 17,
+    "name": "Distributor Barang Konsumen",
+    "industries_id": 9
+  },
+  "corporate_secretary": {
+    "name": "Semuel Kurniawan",
+    "email": "corporate.secretary@gmail.com",
+    "phone": "02129999999"
+  },
+  "directors": [
+    {
+      "name": "Meijaty Jawidjaja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Marshel Setiawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Christianto Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Christiadi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [],
+  "shareholders": [
+    {
+      "name": "PT Upaya Cipta Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 2728700000,
+      "percentage": 37.32
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 2219962242,
+      "percentage": 30.36
+    },
+    {
+      "name": "PT. Pins Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1754641247,
+      "percentage": 24
+    },
+    {
+      "name": "Haiyanto",
+      "type": "Lebih dari 5%",
+      "shares": 607625900,
+      "percentage": 8.31
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Telesindo Shop",
+      "business_type": "Perdagangan",
+      "total_assets": 226296,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Telesindo Shop",
+      "business_type": "Perdagangan",
+      "total_assets": 215148,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Telesindo Shop",
+      "business_type": "Perdagangan",
+      "total_assets": 207926,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Telesindo Shop",
+      "business_type": "Perdagangan",
+      "total_assets": 203395,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Telesindo Shop",
+      "business_type": "Perdagangan",
+      "total_assets": 197024,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT. Simpatindo Multi Media",
+      "business_type": "Perdagangan",
+      "total_assets": 173376,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Simpatindo Multi Media",
+      "business_type": "Perdagangan",
+      "total_assets": 171958,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Simpatindo Multi Media",
+      "business_type": "Perdagangan",
+      "total_assets": 171302,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Simpatindo Multi Media",
+      "business_type": "Perdagangan",
+      "total_assets": 171298,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Simpatindo Multi Media",
+      "business_type": "Perdagangan",
+      "total_assets": 171213,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Perdana Mulia Makmur",
+      "business_type": "Perdagangan",
+      "total_assets": 37771,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perdana Mulia Makmur",
+      "business_type": "Perdagangan",
+      "total_assets": 37420,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Tele Utama Nusantara ( Dahulu PT Eui )",
+      "business_type": "Perdagangan",
+      "total_assets": 37343,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Perdana Mulia Makmur",
+      "business_type": "Perdagangan",
+      "total_assets": 37294,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perdana Mulia Makmur",
+      "business_type": "Perdagangan",
+      "total_assets": 37172,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perdana Mulia Makmur",
+      "business_type": "Perdagangan",
+      "total_assets": 37058,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tele Utama Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 36806,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Tele Utama Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 36571,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Tele Utama Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 35750,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Tele Utama Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 35683,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Poin Multi Media Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 29168,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Poin Multi Media",
+      "business_type": "Perdagangan",
+      "total_assets": 29141,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Poin Multi Media",
+      "business_type": "Perdagangan",
+      "total_assets": 29140,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Poin Multi Media Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 25852,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Poin Multi Media Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 25852,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Telekomunikasi Selular",
+      "business_type": "Perdagangan",
+      "total_assets": 7488,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Telekomunikasi Selular",
+      "business_type": "Perdagangan",
+      "total_assets": 4300,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Setia Utama Media Aplikasi",
+      "business_type": "Jasa Konten",
+      "total_assets": 2627,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Setia Utama Media Aplikasi",
+      "business_type": "Content Provider",
+      "total_assets": 2494,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Setia Utama Media Aplikasi",
+      "business_type": "Jasa Konten",
+      "total_assets": 1810,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mitra Telekomunikasi Selular",
+      "business_type": "Perdagangan",
+      "total_assets": 1728,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Telekomunikasi Selular",
+      "business_type": "Perdagangan",
+      "total_assets": 1723,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Setia Utama Media Aplikasi",
+      "business_type": "Jasa Konten",
+      "total_assets": 1723,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mitra Telekomunikasi Selular",
+      "business_type": "Perdagangan",
+      "total_assets": 1719,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Setia Utama Services",
+      "business_type": "Service Center",
+      "total_assets": 247,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Setia Utama Services",
+      "business_type": "Jasa Service",
+      "total_assets": 236,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Setia Utama Services",
+      "business_type": "Jasa Service",
+      "total_assets": 235,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Setia Utama Services",
+      "business_type": "Jasa Service",
+      "total_assets": 234,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Setia Utama Services",
+      "business_type": "Jasa Service",
+      "total_assets": 231,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Setia Utama Media Aplikasi",
+      "business_type": "Jasa Konten",
+      "total_assets": 158,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "65.798.364.501",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:20.753Z"
+}

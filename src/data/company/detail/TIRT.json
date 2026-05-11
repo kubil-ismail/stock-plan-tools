@@ -1,0 +1,174 @@
+{
+  "company_name": "Tirta Mahakam Resources Tbk",
+  "ticker": "TIRT",
+  "office_address": "Gedung Prima Office Tower (the Bellezza) 20th Floor. Jl. Let.jend. Soepeno No. 34. Jakarta Selatan",
+  "email": "corpsecretary@tirtamahakam.com;",
+  "phone": "021-25675717",
+  "fax": "021-25675714, 021-25675715, 021-25675716",
+  "tax_id": "01.001.792.9-054.000",
+  "website": "http://www.tirtamahakam.com",
+  "listing_date": "1999-12-13",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Angkutan Laut",
+    "business_summary": "Perusahaan bergerak di bidang Kayu.",
+    "business_tags": [
+      "Kayu"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 48,
+    "name": "Perhutanan & Kertas"
+  },
+  "sub_industry": {
+    "id": 36,
+    "name": "Kayu",
+    "industries_id": 48
+  },
+  "corporate_secretary": {
+    "name": "Jackson Indrawan",
+    "email": "corpsecretary@tirtamahakam.com",
+    "phone": "021-25675717"
+  },
+  "directors": [
+    {
+      "name": "Tham Arvin Setyanto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pohan Wijaya Po",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lim Gunardi Hariyanto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Surya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendra Surya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aliyanto Latip",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fugiandy Andershen",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Harita Jayaraya",
+      "type": "Lebih dari 5%",
+      "shares": 719672310,
+      "percentage": 71.13
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 212493596,
+      "percentage": 21.01
+    },
+    {
+      "name": "Heryanto Salim",
+      "type": "Lebih dari 5%",
+      "shares": 77335500,
+      "percentage": 7.64
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2273344,
+      "percentage": 0.22
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lim Gunardi Hariyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendra Surya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tham Arvin Setyanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pohan Wijaya Po",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "551.417.238.750",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:31.270Z"
+}

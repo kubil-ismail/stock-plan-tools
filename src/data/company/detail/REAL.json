@@ -1,0 +1,237 @@
+{
+  "company_name": "PT Repower Asia Indonesia Tbk.",
+  "ticker": "REAL",
+  "office_address": "Gedung Graha Repower Asia Jl. Warung Buncit Raya No. 65 Jakarta Selatan 12740",
+  "email": "corporate.secretary@repowerasiaindonesia.com",
+  "phone": "(021) 2503 3198",
+  "fax": "(021) 2503 3399",
+  "tax_id": "0706768231412000",
+  "website": "http://repowerasiaindonesia.co.id",
+  "listing_date": "2019-12-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Real Estat yang dimiliki sendiri atau disewa",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Sjafardamsah",
+    "email": "corporate.secretary@repowerasiaindonesia.com",
+    "phone": "(021) 2503 3198"
+  },
+  "directors": [
+    {
+      "name": "Aulia Firdaus",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sjafardamsah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yahya Attamimi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Drs. Ichsan Thalib",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "H. Ikhwan Abidin, Ma",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Komjen Pol. (purn) Drs. Arif Wachjunadi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ikhwan Abidin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Absar Jannatin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Saladin Talib",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Enam Berlian Sinergi",
+      "type": "Lebih dari 5%",
+      "shares": 3099480000,
+      "percentage": 46.72
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2500970151,
+      "percentage": 37.7
+    },
+    {
+      "name": "PT Harmoni Harum Propertindo",
+      "type": "Lebih dari 5%",
+      "shares": 1033160000,
+      "percentage": 15.58
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yahya Attamimi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. Ichsan Thalib",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. Arif Wachjunadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "H. Ikhwan Abidin, Ma",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aulia Firdaus",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sjafardamsah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "371.482.168.456",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:45.581Z"
+}

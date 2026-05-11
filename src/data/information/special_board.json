@@ -1,0 +1,4035 @@
+{
+  "total": 162,
+  "data": [
+    {
+      "ticker": "OCAP",
+      "company_name": "Onix Capital Tbk",
+      "entry_date": "19 Jul 2021",
+      "criteria_details": [
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TAXI",
+      "company_name": "Express Transindo Utama Tbk",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ANDI",
+      "company_name": "PT Andira Agro Tbk",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BLTA",
+      "company_name": "Berlian Laju Tanker Tbk",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BSWD",
+      "company_name": "Bank Of India Indonesia Tbk",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BTEK",
+      "company_name": "Bumi Teknokultura Unggul Tbk",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "CMPP",
+      "company_name": "PT Airasia Indonesia Tbk",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ELTY",
+      "company_name": "Bakrieland Development Tbk",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "IKAI",
+      "company_name": "Intikeramik Alamasri Industri Tbk",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "JGLE",
+      "company_name": "PT Graha Andrasentra Propertindo Tbk.",
+      "entry_date": "31 Mei 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BAUT",
+      "company_name": "PT Mitra Angkasa Sejahtera Tbk",
+      "entry_date": "30 Nov 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ARKA",
+      "company_name": "PT Arkha Jayanti Persada Tbk.",
+      "entry_date": "30 Nov 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BEKS",
+      "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
+      "entry_date": "30 Nov 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PPRO",
+      "company_name": "PT Pp Properti Tbk.",
+      "entry_date": "30 Nov 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PURA",
+      "company_name": "PT Putra Rajawali Kencana Tbk.",
+      "entry_date": "30 Nov 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KBAG",
+      "company_name": "PT Karya Bersama Anugerah Tbk",
+      "entry_date": "30 Nov 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KREN",
+      "company_name": "PT Kresna Graha Investama Tbk.",
+      "entry_date": "30 Nov 2022",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "RBMS",
+      "company_name": "Ristia Bintang Mahkotasejati Tbk",
+      "entry_date": "31 Mei 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "IBST",
+      "company_name": "Inti Bangun Sejahtera Tbk",
+      "entry_date": "31 Mei 2023",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "HRME",
+      "company_name": "PT Menteng Heritage Realty Tbk.",
+      "entry_date": "31 Mei 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "WINR",
+      "company_name": "PT Winner Nusantara Jaya Tbk",
+      "entry_date": "31 Mei 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TGRA",
+      "company_name": "PT Terregra Asia Energy",
+      "entry_date": "03 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TAMU",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk.",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TARA",
+      "company_name": "PT Agung Semesta Sejahtera Tbk",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PBRX",
+      "company_name": "Pan Brothers Tbk",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MIRA",
+      "company_name": "Mitra International Resources Tbk",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KIAS",
+      "company_name": "Keramika Indonesia Assosiasi Tbk",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "NASA",
+      "company_name": "PT Andalan Perkasa Abadi Tbk",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "EPAC",
+      "company_name": "PT Megalestari Epack Sentosaraya Tbk.",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "HADE",
+      "company_name": "PT Himalaya Energi Perkasa Tbk",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ASMI",
+      "company_name": "PT Asuransi Maximus Graha Persada Tbk.",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "WSBP",
+      "company_name": "PT Waskita Beton Precast Tbk.",
+      "entry_date": "30 Nov 2023",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TRIO",
+      "company_name": "Trikomsel Oke Tbk",
+      "entry_date": "31 Jan 2024",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "DUCK",
+      "company_name": "PT Jaya Bersama Indo Tbk.",
+      "entry_date": "31 Jan 2024",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2020 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "LCGP",
+      "company_name": "PT Eureka Prima Jakarta Tbk.",
+      "entry_date": "31 Jan 2024",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2021 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "LMSH",
+      "company_name": "Lionmesh Prima Tbk",
+      "entry_date": "31 Jan 2024",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SKYB",
+      "company_name": "PT Northcliff Citranusa Indonesia Tbk.",
+      "entry_date": "31 Jan 2024",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2022 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SMCB",
+      "company_name": "PT Solusi Bangun Indonesia Tbk",
+      "entry_date": "31 Jan 2024",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SUPR",
+      "company_name": "Solusi Tunas Pratama Tbk",
+      "entry_date": "30 Apr 2024",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SWAT",
+      "company_name": "PT Sriwahana Adityakarta Tbk.",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "RAFI",
+      "company_name": "PT Sari Kreasi Boga Tbk",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SAGE",
+      "company_name": "PT Saptausaha Gemilangindah Tbk",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KKES",
+      "company_name": "PT Kusuma Kemindo Sentosa Tbk",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "OMRE",
+      "company_name": "Indonesia Prima Property Tbk",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "DIGI",
+      "company_name": "PT Arkadia Digital Media Tbk",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "IPTV",
+      "company_name": "PT Mnc Vision Networks Tbk.",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BHIT",
+      "company_name": "PT Mnc Asia Holding Tbk",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BEBS",
+      "company_name": "PT Berkah Beton Sadaya Tbk",
+      "entry_date": "31 Mei 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BTEL",
+      "company_name": "Bakrie Telecom Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "CBMF",
+      "company_name": "PT Cahaya Bintang Medan Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "COWL",
+      "company_name": "Cowell Development Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2019 Tahunan"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Tahunan"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BAPI",
+      "company_name": "PT Bhakti Agung Propertindo Tbk.",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ARMY",
+      "company_name": "PT Armidian Karyatama Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2021 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "IIKP",
+      "company_name": "Inti Agri Resources Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "HOME",
+      "company_name": "Hotel Mandarine Regency Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "A",
+          "description": "Adanya Opini Tidak Wajar (Adverse) dari Akuntan Publik berdasarkan laporan keuangan 2020 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2020 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "GAMA",
+      "company_name": "Aksara Global Development Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2022 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "NUSA",
+      "company_name": "PT Sinergi Megah Internusa Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PLAS",
+      "company_name": "Polaris Investama Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2020 Kuartal II"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MFMI",
+      "company_name": "Multifiling Mitra Indonesia Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MTFN",
+      "company_name": "Capitalinc Investment Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KBRI",
+      "company_name": "Kertas Basuki Rachmat Indonesia Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MABA",
+      "company_name": "PT Marga Abhinaya Abadi Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Tahunan"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "LMAS",
+      "company_name": "Limas Indonesia Makmur Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2021 Kuartal III"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2021 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SIMA",
+      "company_name": "Siwani Makmur Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "RIMO",
+      "company_name": "PT Rimo International Lestari Tbk.",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "POOL",
+      "company_name": "Pool Advista Indonesia Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2022 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "POSA",
+      "company_name": "PT Bliss Properti Indonesia Tbk.",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SUGI",
+      "company_name": "Sugih Energy Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2018 Tahunan"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "WSKT",
+      "company_name": "PT Waskita Karya (persero) Tbk",
+      "entry_date": "26 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TOYS",
+      "company_name": "PT Sunindo Adipersada Tbk.",
+      "entry_date": "02 Jul 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Tahunan"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TRIL",
+      "company_name": "Triwira Insanlestari Tbk",
+      "entry_date": "31 Jul 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2021 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KARW",
+      "company_name": "Meratus Jasa Prima Tbk",
+      "entry_date": "08 Agt 2024",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ENVY",
+      "company_name": "PT Envy Technologies Indonesia Tbk",
+      "entry_date": "08 Agt 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SBAT",
+      "company_name": "PT Sejahtera Bintang Abadi Textile Tbk.",
+      "entry_date": "20 Agt 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Kuartal III"
+        },
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2023 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MYTX",
+      "company_name": "PT Asia Pacific Investama Tbk.",
+      "entry_date": "30 Agt 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BKDP",
+      "company_name": "Bukit Darmo Property Tbk",
+      "entry_date": "30 Agt 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BLTZ",
+      "company_name": "PT Graha Layar Prima Tbk.",
+      "entry_date": "30 Agt 2024",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BOSS",
+      "company_name": "PT Borneo Olah Sarana Sukses Tbk.",
+      "entry_date": "30 Agt 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 9,
+          "description": "Anak perusahaan material mengalami PKPU/pailit"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2023 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ARTI",
+      "company_name": "Ratu Prabu Energi Tbk",
+      "entry_date": "25 Sep 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MAGP",
+      "company_name": "Multi Agro Gemilang Plantation Tbk",
+      "entry_date": "31 Okt 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2022 Kuartal I"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SCPI",
+      "company_name": "PT Organon Pharma Indonesia Tbk",
+      "entry_date": "29 Nov 2024",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BIKA",
+      "company_name": "PT Binakarya Jaya Abadi Tbk.",
+      "entry_date": "29 Nov 2024",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "WICO",
+      "company_name": "Wicaksana Overseas International Tbk",
+      "entry_date": "04 Des 2024",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "UNIT",
+      "company_name": "Nusantara Inti Corpora Tbk",
+      "entry_date": "31 Jan 2025",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2020 Kuartal II"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "JSKY",
+      "company_name": "PT Sky Energy Indonesia Tbk.",
+      "entry_date": "13 Mar 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2022 Tahunan"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2022 Tahunan"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BIMA",
+      "company_name": "Primarindo Asia Infrastructure Tbk",
+      "entry_date": "09 Apr 2025",
+      "criteria_details": [
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        }
+      ],
+      "notation": [
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "POLY",
+      "company_name": "Asia Pacific Fibers Tbk",
+      "entry_date": "09 Apr 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "M",
+          "description": "Adanya permohonan Penundaan Kewajiban Pembayaran Utang (PKPU)"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2026 Kuartal I"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KAYU",
+      "company_name": "PT Darmi Bersaudara Tbk.",
+      "entry_date": "09 Apr 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Tahunan"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TDPM",
+      "company_name": "PT Tianrong Chemicals Industry Tbk",
+      "entry_date": "30 Apr 2025",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "IPPE",
+      "company_name": "PT Indo Pureco Pratama Tbk",
+      "entry_date": "30 Apr 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SRIL",
+      "company_name": "PT Sri Rejeki Isman Tbk",
+      "entry_date": "26 Mei 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PCAR",
+      "company_name": "PT Prima Cakrawala Abadi Tbk",
+      "entry_date": "28 Mei 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MTSM",
+      "company_name": "Metro Realty Tbk",
+      "entry_date": "28 Mei 2025",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "FASW",
+      "company_name": "Fajar Surya Wisesa Tbk",
+      "entry_date": "28 Mei 2025",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "CNTX",
+      "company_name": "PT Century Textile Industry Tbk",
+      "entry_date": "04 Jun 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PLIN",
+      "company_name": "Plaza Indonesia Realty Tbk",
+      "entry_date": "11 Jun 2025",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MARI",
+      "company_name": "PT Mahaka Radio Integra Tbk.",
+      "entry_date": "23 Jun 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BATA",
+      "company_name": "Sepatu Bata Tbk",
+      "entry_date": "23 Jun 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TFCO",
+      "company_name": "Tifico Fiber Indonesia Tbk",
+      "entry_date": "24 Jun 2025",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MTRA",
+      "company_name": "PT Mitra Pemuda Tbk.",
+      "entry_date": "16 Jul 2025",
+      "criteria_details": [
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2022 Kuartal III"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2022 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SMRU",
+      "company_name": "Smr Utama Tbk",
+      "entry_date": "04 Agt 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "VIVA",
+      "company_name": "PT Visi Media Asia Tbk",
+      "entry_date": "13 Agt 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "GOLL",
+      "company_name": "PT Golden Plantation Tbk",
+      "entry_date": "14 Agt 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 9,
+          "description": "Anak perusahaan material mengalami PKPU/pailit"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2021 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "HITS",
+      "company_name": "Humpuss Intermoda Transportasi Tbk",
+      "entry_date": "29 Agt 2025",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "CPRI",
+      "company_name": "PT Capri Nusa Satu Properti Tbk.",
+      "entry_date": "15 Sep 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2022 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "WMPP",
+      "company_name": "PT Widodo Makmur Perkasa Tbk",
+      "entry_date": "03 Okt 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SOSS",
+      "company_name": "PT Shield On Service Tbk.",
+      "entry_date": "31 Okt 2025",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TELE",
+      "company_name": "PT Omni Inovasi Indonesia Tbk",
+      "entry_date": "31 Okt 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal II"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal II"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ALMI",
+      "company_name": "Alumindo Light Metal Industry Tbk",
+      "entry_date": "03 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ETWA",
+      "company_name": "Eterindo Wahanatama Tbk",
+      "entry_date": "07 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "M",
+          "description": "Adanya permohonan Penundaan Kewajiban Pembayaran Utang (PKPU)"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2023 Kuartal II"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Kuartal II"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "DEAL",
+      "company_name": "PT Dewata Freightinternational Tbk.",
+      "entry_date": "25 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        }
+      ],
+      "notation": [
+        {
+          "code": "M",
+          "description": "Adanya permohonan Penundaan Kewajiban Pembayaran Utang (PKPU)"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2023 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "CNKO",
+      "company_name": "Exploitasi Energi Indonesia Tbk",
+      "entry_date": "28 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ABBA",
+      "company_name": "Mahaka Media Tbk",
+      "entry_date": "28 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "FIMP",
+      "company_name": "PT Fimperkasa Utama Tbk",
+      "entry_date": "28 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2026 Kuartal I"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PTMR",
+      "company_name": "PT Master Print Tbk",
+      "entry_date": "28 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MTPS",
+      "company_name": "PT Meta Epsi Tbk.",
+      "entry_date": "28 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        }
+      ],
+      "notation": [
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KOIN",
+      "company_name": "Kokoh Inti Arebama Tbk",
+      "entry_date": "28 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "WIKA",
+      "company_name": "PT Wijaya Karya (persero) Tbk",
+      "entry_date": "28 Nov 2025",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "FOOD",
+      "company_name": "PT Sentra Food Indonesia Tbk.",
+      "entry_date": "01 Des 2025",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ALTO",
+      "company_name": "Tri Banyan Tirta Tbk",
+      "entry_date": "07 Jan 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "M",
+          "description": "Adanya permohonan Penundaan Kewajiban Pembayaran Utang (PKPU)"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "INAF",
+      "company_name": "Indofarma Tbk.",
+      "entry_date": "19 Jan 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "INPS",
+      "company_name": "PT Indah Prakasa Sentosa Tbk.",
+      "entry_date": "21 Jan 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "UNSP",
+      "company_name": "Bakrie Sumatera Plantations Tbk",
+      "entry_date": "21 Jan 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TOPS",
+      "company_name": "PT Totalindo Eka Persada Tbk.",
+      "entry_date": "30 Jan 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "C",
+          "description": "Kejadian perkara hukum terhadap Perusahaan Tercatat, Anak Perusahaan Tercatat dan/atau anggota Direksi dan anggota Dewan Komisaris Perusahaan Tercatat yang berdampak Material"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TRAM",
+      "company_name": "Trada Alam Minera Tbk.",
+      "entry_date": "30 Jan 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2020 Tahunan"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "HOTL",
+      "company_name": "Saraswati Griya Lestari Tbk",
+      "entry_date": "30 Jan 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 8,
+          "description": "PKPU, pailit, atau pembatalan perdamaian"
+        },
+        {
+          "code": 9,
+          "description": "Anak perusahaan material mengalami PKPU/pailit"
+        }
+      ],
+      "notation": [
+        {
+          "code": "M",
+          "description": "Adanya permohonan Penundaan Kewajiban Pembayaran Utang (PKPU)"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PMMP",
+      "company_name": "PT Panca Mitra Multiperdana Tbk.",
+      "entry_date": "11 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SINI",
+      "company_name": "PT Singaraja Putra Tbk.",
+      "entry_date": "12 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SQMI",
+      "company_name": "Wilton Makmur Indonesia Tbk",
+      "entry_date": "19 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MPPA",
+      "company_name": "Matahari Putra Prima Tbk",
+      "entry_date": "19 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "HILL",
+      "company_name": "PT Hillcon Tbk",
+      "entry_date": "24 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 9,
+          "description": "Anak perusahaan material mengalami PKPU/pailit"
+        }
+      ],
+      "notation": [
+        {
+          "code": "M",
+          "description": "Adanya permohonan Penundaan Kewajiban Pembayaran Utang (PKPU)"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "GLOB",
+      "company_name": "PT Globe Kita Terang Tbk",
+      "entry_date": "27 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "IBFN",
+      "company_name": "PT Intan Baru Prana Tbk",
+      "entry_date": "27 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "INTA",
+      "company_name": "Intraco Penta Tbk",
+      "entry_date": "27 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "CANI",
+      "company_name": "PT Capitol Nusantara Indonesia Tbk.",
+      "entry_date": "27 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal II"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MDRN",
+      "company_name": "Modern Internasional Tbk",
+      "entry_date": "27 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TGUK",
+      "company_name": "PT Platinum Wahab Nusantara Tbk.",
+      "entry_date": "27 Feb 2026",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        },
+        {
+          "code": 11,
+          "description": "Kondisi lain berdasarkan keputusan Bursa/OJK"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "HKMU",
+      "company_name": "PT Hk Metals Utama Tbk",
+      "entry_date": "03 Mar 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "M",
+          "description": "Adanya permohonan Penundaan Kewajiban Pembayaran Utang (PKPU)"
+        },
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2023 Kuartal I"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Kuartal I"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "RSGK",
+      "company_name": "PT Kedoya Adyaraya Tbk",
+      "entry_date": "25 Mar 2026",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PGJO",
+      "company_name": "PT Bahtera Bumi Raya Tbk",
+      "entry_date": "02 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ACST",
+      "company_name": "PT Acset Indonusa Tbk.",
+      "entry_date": "02 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TIRT",
+      "company_name": "Tirta Mahakam Resources Tbk",
+      "entry_date": "06 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TAMA",
+      "company_name": "PT Lancartama Sejati Tbk.",
+      "entry_date": "06 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "TECH",
+      "company_name": "PT Indosterling Technomedia Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2023 Kuartal I"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PTDU",
+      "company_name": "PT Djasa Ubersakti Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PURE",
+      "company_name": "PT Trinitan Metals And Minerals Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "A",
+          "description": "Adanya Opini Tidak Wajar (Adverse) dari Akuntan Publik berdasarkan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MENN",
+      "company_name": "PT Menn Teknologi Indonesia Tbk.",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal II"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "KOPI",
+      "company_name": "PT Mitra Energi Persada Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MLIA",
+      "company_name": "Mulia Industrindo Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "AKKU",
+      "company_name": "PT Anugerah Kagum Karya Utama Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BABY",
+      "company_name": "PT Multitrend Indo Tbk.",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "CSAP",
+      "company_name": "Catur Sentosa Adiprana Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "DUTI",
+      "company_name": "Duta Pertiwi Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "IFSH",
+      "company_name": "PT Ifishdeco Tbk.",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "JECC",
+      "company_name": "Jembo Cable Company Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "URBN",
+      "company_name": "PT Urban Jakarta Propertindo Tbk.",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ZBRA",
+      "company_name": "PT Dosni Roha Indonesia Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 9,
+          "description": "Anak perusahaan material mengalami PKPU/pailit"
+        }
+      ],
+      "notation": [
+        {
+          "code": "B",
+          "description": "Adanya permohonan Pernyataan Pailit, permohonan pembatalan perdamaian, atau dalam kondisi pailit"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "POLL",
+      "company_name": "PT Pollux Properties Indonesia Tbk.",
+      "entry_date": "04 Mei 2026",
+      "criteria_details": [
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "WBSA",
+      "company_name": "PT Bsa Logistics Indonesia Tbk",
+      "entry_date": "05 Mei 2026",
+      "criteria_details": [
+        {
+          "code": 10,
+          "description": "Suspensi perdagangan lebih dari 1 hari bursa"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "MKNT",
+      "company_name": "PT Mitra Komunikasi Nusantara Tbk.",
+      "entry_date": "06 Mei 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "BAIK",
+      "company_name": "PT Bersama Mencapai Puncak Tbk.",
+      "entry_date": "06 Mei 2026",
+      "criteria_details": [
+        {
+          "code": 10,
+          "description": "Suspensi perdagangan lebih dari 1 hari bursa"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "ZINC",
+      "company_name": "PT Kapuas Prima Coal Tbk",
+      "entry_date": "08 Mei 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        }
+      ],
+      "notation": [
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    }
+  ]
+}

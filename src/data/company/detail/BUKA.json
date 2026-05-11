@@ -1,0 +1,572 @@
+{
+  "company_name": "PT Bukalapak.com Tbk",
+  "ticker": "BUKA",
+  "office_address": "Treasury Tower Lantai 65, District 8 SCBD, Jl. Jendral Sudirman Kav. 52 - 53, Jakarta Selatan, Dki Jakarta 12190",
+  "email": "corsec@bukalapak.com",
+  "phone": "02150982008",
+  "fax": "",
+  "tax_id": "03.118.364.3-014.000",
+  "website": "https://www.bukalapak.com",
+  "listing_date": "2021-08-06",
+  "listing_board": "Ekonomi Baru",
+  "business_field": {
+    "raw_business": "E-Commerce, Teknologi, Platform Online & Offline",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Properti, Energi, Logistik, Makanan & Minuman, Media, Keuangan.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Properti",
+      "Energi",
+      "Logistik",
+      "Makanan & Minuman",
+      "Media",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Cut Fika Lutfi",
+    "email": "corsec@bukalapak.com",
+    "phone": "02150982008"
+  },
+  "directors": [
+    {
+      "name": "Willix Halim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Natalia Firmansyah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Victor Putra Lesmana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rd Adi Wardhana Sariaatmadja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jay Geoofrey Wacher",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dra Zannuba Arifah Ch.r",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dra. Zannuba Arifah Ch.r",
+      "position": "Ketua"
+    },
+    {
+      "name": "Prof. Sidharta Utama Phd Ca Cfa.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Iwan Setiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aribowo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kreatif Media Karya",
+      "type": "Lebih dari 5%",
+      "shares": 46321746385,
+      "percentage": 44.9
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 32397647138,
+      "percentage": 31.404
+    },
+    {
+      "name": "PT Bukalapak.com Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 11285937507,
+      "percentage": 10.939
+    },
+    {
+      "name": "PT. Elang Mahkota Teknologi, Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 10821706040,
+      "percentage": 10.489
+    },
+    {
+      "name": "Willix Halim",
+      "type": "Direksi",
+      "shares": 1438287844,
+      "percentage": 1.3941
+    },
+    {
+      "name": "Rd Adi Wardhana Sariaatmadja",
+      "type": "Komisaris",
+      "shares": 772585501,
+      "percentage": 0.7489
+    },
+    {
+      "name": "Jay Geoffrey Wacher",
+      "type": "Komisaris",
+      "shares": 76760511,
+      "percentage": 0.0744
+    },
+    {
+      "name": "Natalia Firmansyah",
+      "type": "Direksi",
+      "shares": 31239223,
+      "percentage": 0.0303
+    },
+    {
+      "name": "Victor Putra Lesmana",
+      "type": "Direksi",
+      "shares": 16805130,
+      "percentage": 0.0163
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 4375488,
+      "percentage": 0.004
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dra Zannuba Arifah Ch.r",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Buka Pengadaan Indonesia",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 861284,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buka Mitra Indonesia",
+      "business_type": "Informasi, Komunikasi dan Platform Digital Bidang Perdagangan dan Jasa, Aktivitas Perusahaan Holding",
+      "total_assets": 819019,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bina Unggul Kencana",
+      "business_type": "Aktivitas Perusahaan Holding, Perdagangan Besar Pakaian, Perdagangan Besar Suku Cadang Sepeda Motor dan Aksesorinya",
+      "total_assets": 798468,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buka Usaha Indonesia",
+      "business_type": "Jasa Pengurusan Transportasi",
+      "total_assets": 739611,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kolaborasi Kreasi Investa",
+      "business_type": "Aktivitas Perusahaan Holding dan Periklanan",
+      "total_assets": 349710,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moca Ministry Of Collection Of Awesome Companies Pte Ltd",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 329218,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Game Multi Realms Pte Ltd",
+      "business_type": "Perusahaan Holding Lainnya dan Jasa Konsultasi Manajemen",
+      "total_assets": 281264,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Game Multi Realms",
+      "business_type": "Aktivitas Perusahaan Holding, Penerbitan Piranti Lunak",
+      "total_assets": 280974,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buka Investasi Digital",
+      "business_type": "Portal Web/platform Digital dengan Tujuan Komersial dan Aktivitas Perusahaan Holding",
+      "total_assets": 267102,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Nusantara Finance Cakrawala",
+      "business_type": "Perusahaan Pembiayaan Konvensional",
+      "total_assets": 263099,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mofa Alpha Ltd",
+      "business_type": "Segala Usaha atau Kegiatan, Termasuk Namun Tidak Terbatas pada Investasi pada Obligasi",
+      "total_assets": 259732,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Digital Indokreasi",
+      "business_type": "Perdagangan Eceran Bukan Mobil dan Motor dan Jasa Informasi",
+      "total_assets": 202933,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kolaborasi Sukses Berkarya",
+      "business_type": "Aktivitas Perusahaan Holding, Kantor Pusat dan Konsultasi Manajemen",
+      "total_assets": 159040,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bina Nusa Indonesia",
+      "business_type": "Perdagangan Eceran Bukan Mobil dan Motor, Jasa Informasi, Telekomunikasi dan Penyediaan Makanan dan Minuman dan Pergudangan dan Aktivitas Penunjang Angkutan",
+      "total_assets": 153473,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Visi Jaya Indonesia",
+      "business_type": "Penyedia Jasa Pembayaran",
+      "total_assets": 115349,
+      "ownership_percentage": 51.56
+    },
+    {
+      "name": "PT Tumbuh Teknologi Maju",
+      "business_type": "Perdagangan Besar, Bukan Mobil dan Motor",
+      "total_assets": 99468,
+      "ownership_percentage": 51.02
+    },
+    {
+      "name": "PT Five Jack",
+      "business_type": "Aktivitas Jasa Informasi, Perdagangan Eceran, Bukan Mobil dan Motor",
+      "total_assets": 93468,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gerakan Digitalisasi Indonesia",
+      "business_type": "Aktivitas Telekomunikasi Lainnya",
+      "total_assets": 56911,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gaya Kasual Indonesia",
+      "business_type": "Perdagangan Eceran, Bukan Mobil dan Motor",
+      "total_assets": 41063,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Buka Australia Pty Ltd",
+      "business_type": "Ritel Non Toko",
+      "total_assets": 28409,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buka Investasi Bersama",
+      "business_type": "Perantara Perdagangan Efek Reksa Dana",
+      "total_assets": 17732,
+      "ownership_percentage": 96.74
+    },
+    {
+      "name": "PT Buka Bangunan Indonesia",
+      "business_type": "Perdagangan Eceran Bahan Konstruks",
+      "total_assets": 17444,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kokatto Teknologi Global",
+      "business_type": "Aktivitas Teknologi Informasi dan Jasa Komputer Lainnya",
+      "total_assets": 15880,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Hari Bahagia",
+      "business_type": "Jasa Penyelenggara Event Khusus",
+      "total_assets": 12748,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karya Kreasi Maju",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 12260,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Bukalapak Pte Ltd",
+      "business_type": "Konsultan Teknologi Informasi (kecuali Cybersecurity)",
+      "total_assets": 11760,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tumbuh Selaras Gunajaya",
+      "business_type": "Perdagangan Eceran, Bukan Mobil dan Motor",
+      "total_assets": 10735,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Buka Korea Co., Ltd",
+      "business_type": "Bisnis E-commerce, Bisnis Ilmu Pengetahuan dan Teknologi, Operasi Perusahaan Holding, Aktivitas Konsultasi Manajemen",
+      "total_assets": 10510,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Smart Sari Inc.",
+      "business_type": "Platform E-commerce",
+      "total_assets": 5933,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dunia Kreasi Maju",
+      "business_type": "Perdagangan Eceran, Bukan Mobil dan Motor",
+      "total_assets": 5796,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ayo Techno Idea",
+      "business_type": "Informasi dan Komunikasi dan Perdagangan Besar Bukan Mobil dan Sepeda Motor",
+      "total_assets": 5030,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anugerah Bisnis Cakrabuana",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 3129,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Belajar Tumbuh Berbagi",
+      "business_type": "Aktivitas Pemrograman Komputer, Portal Web Dan/atau Platform Digital, Aktivitas Konsultasi Manajemen, Periklanan, Pelatihan Kerja Swasta, Jasa Penyelenggaraan Mice dan Event Khusus dan Pendidikan Lainnya",
+      "total_assets": 2982,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moon Media Pte Ltd.",
+      "business_type": "Perusahaan Holding Lainnya dan Jasa Konsultasi Manajemen",
+      "total_assets": 2638,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ree Derma International",
+      "business_type": "Perdagangan Eceran, Bukan Mobil dan Motor",
+      "total_assets": 2016,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sukses Mekar Sentosa",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 1584,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Abadi Sentosa Makmur Perkasa",
+      "business_type": "Industri Pakaian Jadi, Perdagangan Eceran, Bukan Mobil dan Motor dan Aktivitas Jasa Informasi dan Komunikasi",
+      "total_assets": 1557,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buka Investasi Nusantara",
+      "business_type": "Perdagangan Besar Atas Dasar Balas Jasa atau Kontrak",
+      "total_assets": 821,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Onstock Solusi Indonesia",
+      "business_type": "Perdagangan Eceran Piranti Lunak, Perdagangan Eceran Melalui Media untuk Berbagai Macam Barang Lainnya, dan Portal Web dengan Tujuan Komersial",
+      "total_assets": 726,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multi Solusi Finansial",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 504,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buka Mitra Properti",
+      "business_type": "Informasi dan Komunikasi, Portal Web Dan/atau Platform Digital dengan Tujuan Komersial",
+      "total_assets": 367,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Kreasi Maju",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 366,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Berkat Valas Indonesia",
+      "business_type": "Penukaran Valuta Uang Asing",
+      "total_assets": 317,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Maju Karya Bangsa",
+      "business_type": "Perdagangan Eceran, Bukan Mobil dan Motor",
+      "total_assets": 14,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Untung Sentosa",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 13,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cellar Technology Venture Pte. Ltd.",
+      "business_type": "Perusahaan Holding Lainnya",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Midas Labs Technology Ltd.",
+      "business_type": "Platform Terkait dengan Virtual atau Aset Digital",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sierra Ranger Pte Ltd",
+      "business_type": "Perusahaan Holding Lainnya dan Jasa Konsultasi Manajemen",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.371.896.524.283",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:32.126Z"
+}

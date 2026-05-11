@@ -1,0 +1,167 @@
+{
+  "company_name": "Betonjaya Manunggal Tbk",
+  "ticker": "BTON",
+  "office_address": "Jl. Raya Krikilan No. 434 Km. 28 Driyorejo Gresik",
+  "email": "secretary@bjm.co.id",
+  "phone": "031-749-05-98",
+  "fax": "031- 7490581-750 7302",
+  "tax_id": "01.568.644.7-054.000",
+  "website": "https://0",
+  "listing_date": "2001-07-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Besi dan Baja",
+    "business_summary": "Perusahaan bergerak di bidang Baja & Besi.",
+    "business_tags": [
+      "Baja & Besi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Novi Tjahjaning Rahayu",
+    "email": "accounting@bjm.co.id, novi_tjahja@yahoo.co.id",
+    "phone": "031-7507791; 7507303"
+  },
+  "directors": [
+    {
+      "name": "Gwie Gunadi Gunawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Andy Soesanto Mba.mm",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Jenny Tanujaya Mba.",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Gwie Gunato Gunawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Bambang Hariadi Mec. Ak",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Bambang Hariadi Mec., Ak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Saiful Fuad Se.",
+      "position": "Anggota"
+    },
+    {
+      "name": "M. Alif Amrulloh Se.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Gwie Gunadi Gunawan",
+      "type": "Direksi",
+      "shares": 258750000,
+      "percentage": 35.94
+    },
+    {
+      "name": "Gwie Gunato Gunawan",
+      "type": "Komisaris",
+      "shares": 258750000,
+      "percentage": 35.94
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 130900000,
+      "percentage": 18.18
+    },
+    {
+      "name": "Eddo Chandra",
+      "type": "Lebih dari 5%",
+      "shares": 37100000,
+      "percentage": 5.15
+    },
+    {
+      "name": "Jenny Tanujaya Mba.",
+      "type": "Direksi",
+      "shares": 34500000,
+      "percentage": 4.79
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "264.960.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:25.382Z"
+}

@@ -1,0 +1,182 @@
+{
+  "company_name": "PT Logisticsplus International Tbk",
+  "ticker": "LOPI",
+  "office_address": "Sav Building Jl. Kavling Polri No. 20 Jagakarsa, Jakarta Selatan 12620, Indonesia",
+  "email": "corsec@logisticsplus.co.id",
+  "phone": "(021) 78833279",
+  "fax": "",
+  "tax_id": "003.342.339.3-017.000",
+  "website": "https://www.logisticsplus.co.id",
+  "listing_date": "2023-10-11",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bergerak di Bidang Jasa Pengurusan Transportasi (Freight Forwarding)",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Julia Kartini Subarno",
+    "email": "corsec@logisticsplus.co.id",
+    "phone": "(021) 7820485"
+  },
+  "directors": [
+    {
+      "name": "Wahyu Dwi Jatmiko",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Mulyana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Arfindi A. Batubara",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ferianto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ferianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Muhammad Mulia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sentra Amanah Ventura",
+      "type": "Direksi",
+      "shares": 738449600,
+      "percentage": 67.13
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 361561629,
+      "percentage": 32.87
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wahyu Dwi Jatmiko",
+      "type": "Direksi",
+      "shares": 60,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "130.901.343.391",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:46.292Z"
+}

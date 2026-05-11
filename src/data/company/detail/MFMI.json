@@ -1,0 +1,154 @@
+{
+  "company_name": "Multifiling Mitra Indonesia Tbk",
+  "ticker": "MFMI",
+  "office_address": "Delta Silicon Industrial Park, Jalan Akasia II Blok A7-4a, Lippo Cikarang, Bekasi 17550",
+  "email": "mmi.corsec@ironmountain.com",
+  "phone": "021-8990 7636",
+  "fax": "021-897 2527",
+  "tax_id": "01.585.910.1-054.000",
+  "website": "https://www.mmi.co.id",
+  "listing_date": "2010-12-29",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa Konsultan Manajemen dan Kearsipan",
+    "business_summary": "Perusahaan bergerak di bidang Jasa Pendukung Bisnis.",
+    "business_tags": [
+      "Jasa Pendukung Bisnis"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 27,
+    "name": "Jasa Pendukung Bisnis",
+    "industries_id": 14
+  },
+  "corporate_secretary": {
+    "name": "Senjaya Bidjaksana",
+    "email": "senjaya.bidjaksana@mmi.co.id",
+    "phone": "021 89907636"
+  },
+  "directors": [
+    {
+      "name": "Rony Sugiarto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Senjaya Bidjaksana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tonny Hartono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yow Sook Ming",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Siva Kumar K Indran",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Patricia Marina Sugondo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Patricia Marina Sugondo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Purnama Setiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Emmanuel Bambang Suyitno",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Iron Mountain Hong Kong Limited",
+      "type": "Lebih dari 5%",
+      "shares": 752632700,
+      "percentage": 99.35
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4948300,
+      "percentage": 0.65
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "984.855.300.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:50.049Z"
+}

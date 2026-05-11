@@ -1,0 +1,239 @@
+{
+  "company_name": "PT Sumber Alfaria Trijaya Tbk.",
+  "ticker": "AMRT",
+  "office_address": "Jl. Jalur Sutera Barat Kav. 9, Alam Sutera, Kota Tangerang, Prov. Banten",
+  "email": "corsec@sat.co.id / investor_relations@sat.co.id",
+  "phone": "021-80821555",
+  "fax": "021-80821556",
+  "tax_id": "0013 3623 8905 4000",
+  "website": "https://www.alfamart.co.id",
+  "listing_date": "2009-01-15",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Retail Trade",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 95,
+    "name": "Supermarket",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Tomin Widian",
+    "email": "tomin.widian@sat.co.id",
+    "phone": "(62-21) 557-55966"
+  },
+  "directors": [
+    {
+      "name": "Anggara Hans Prawira",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Setyawan Djojo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tomin Widian",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harryanto Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Solihin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Soeng Peter Suryadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Feny Djoko Susanto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Budiyanto Djoko Susanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Komjen. Pol.(purn) Drs. Setyo Wasisto, S.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Budi Setiyadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Setyo Wasisto,sh.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Juninho Widjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Edwin Sutanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 18557379041,
+      "percentage": 44.69
+    },
+    {
+      "name": "PT Sigmantara Alfindo",
+      "type": "Lebih dari 5%",
+      "shares": 18269532859,
+      "percentage": 44
+    },
+    {
+      "name": "PT Amanda Cipta Persada",
+      "type": "Lebih dari 5%",
+      "shares": 3710794900,
+      "percentage": 8.94
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 432669000,
+      "percentage": 1.04
+    },
+    {
+      "name": "Feny Djoko Susanto",
+      "type": "Komisaris",
+      "shares": 266326400,
+      "percentage": 0.64
+    },
+    {
+      "name": "Harryanto Susanto",
+      "type": "Direksi",
+      "shares": 190560200,
+      "percentage": 0.46
+    },
+    {
+      "name": "Budiyanto Djoko Susanto",
+      "type": "Komisaris",
+      "shares": 97239300,
+      "percentage": 0.23
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Midi Utama Indonesia Tbk",
+      "business_type": "Perdagangan Eceran untuk Produk Konsumen",
+      "total_assets": 8474682,
+      "ownership_percentage": 77.09
+    },
+    {
+      "name": "PT Sumber Trijaya Lestari",
+      "business_type": "Perdagangan Besar untuk Produk Konsumen",
+      "total_assets": 761326,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Sumber Indah Lestari",
+      "business_type": "Perdagangan Peralatan Kesehatan",
+      "total_assets": 703382,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Lancar Wiguna Sejahtera",
+      "business_type": "Perdagangan Eceran untuk Produk Konsumen",
+      "total_assets": 696213,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "Alfamart Retail Asia Pte, Ltd",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 463874,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Loyalty Indonesia",
+      "business_type": "Pengolahanpengembangan Aplikasi Data dan Perdagangan Secara E-commerce",
+      "total_assets": 390519,
+      "ownership_percentage": 75
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "54.812.342.244.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:47.901Z"
+}

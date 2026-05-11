@@ -1,0 +1,227 @@
+{
+  "company_name": "PT Sentral Mitra Informatika Tbk.",
+  "ticker": "LUCK",
+  "office_address": "Graha Mas Fatmawati Blok A 27-29 Jl. Rs. Fatmawati No. 71 Jakarta Selatan - 12150",
+  "email": "info@sentral.co.id",
+  "phone": "+622172800110",
+  "fax": "+622172800220",
+  "tax_id": "02.795.702.6-019.000",
+  "website": "https://www.sentral.co.id",
+  "listing_date": "2018-11-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Bisnis Solusi Percetakan dan Dokumenserta Penjualan Produk Teknologi Informasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Logistik.",
+    "business_tags": [
+      "Teknologi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 23,
+    "name": "Perangkat Keras & Peralatan Teknologi",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 43,
+    "name": "Perangkat Komputer"
+  },
+  "sub_industry": {
+    "id": 68,
+    "name": "Perangkat Komputer",
+    "industries_id": 43
+  },
+  "corporate_secretary": {
+    "name": "Christine Herawati Hidajat",
+    "email": "christine@sentral.co.id",
+    "phone": "+622172800110"
+  },
+  "directors": [
+    {
+      "name": "Josephine Handayani Hidajat",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Christine Herawati Hidajat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Caroline Himawati Hidajat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Phillip Warren",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Teddy Pohan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Edwin Pamimpin Situmorang Sh MH",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Edwin Pamimpin Situmorang Sh MH",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ronny Andara",
+      "position": "Anggota"
+    },
+    {
+      "name": "Abyasa R Kusuma",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Caroline Himawati Hidajat",
+      "type": "Direksi",
+      "shares": 208998900,
+      "percentage": 29.2
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 190862800,
+      "percentage": 26.67
+    },
+    {
+      "name": "Serial System Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 106889040,
+      "percentage": 14.93
+    },
+    {
+      "name": "Josephine Handayani Hidajat",
+      "type": "Direksi",
+      "shares": 104499450,
+      "percentage": 14.6
+    },
+    {
+      "name": "Christine Herawati",
+      "type": "Direksi",
+      "shares": 104499450,
+      "percentage": 14.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sentral Kreasi Inovasi",
+      "business_type": "Perdagangan dan Jasa/ Trading And Services",
+      "total_assets": 6328281608,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sentral Solusi Teknologi",
+      "business_type": "Perdagangan dan Jasa/ Trading And Services",
+      "total_assets": 5949707353,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sentral Mitra Logistik",
+      "business_type": "Perdagangan dan Jasa/ Trading And Services",
+      "total_assets": 2000000000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Krisnawan, Busroni, Achsin & Alamsyah"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Krisnawan, Nugroho dan Fahmi"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "80.163.959.680",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:03.441Z"
+}

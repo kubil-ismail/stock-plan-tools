@@ -1,0 +1,474 @@
+{
+  "company_name": "PT Solusi Bangun Indonesia Tbk",
+  "ticker": "SMCB",
+  "office_address": "Talavera Suite 15th Floor, Talavera Office Park, Jl. Tb Simatupang No. 22-26 Jakarta 12430",
+  "email": "corpsec.sbi@sig.id",
+  "phone": "29861000",
+  "fax": "29863333",
+  "tax_id": "01.001.707.7-092.000",
+  "website": "https://solusibangunindonesia.com",
+  "listing_date": "1977-08-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Basic Industry and Chemicals - Cement",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Andika Lukmana",
+    "email": "corpsec.sbi@sig.id",
+    "phone": "021-29861000"
+  },
+  "directors": [
+    {
+      "name": "Rizky Kresno Edhie Hambali",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edi Sarwono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Asruddin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yasuhide Abe",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Shinji Fukami",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prasetyo Suharto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Husnedi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Fadlansyah Lubis",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Agnes Marcellina Tjhin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Husnedi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Amral Ahmad",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sugianto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Semen Indonesia (persero) Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 7533148888,
+      "percentage": 83.522
+    },
+    {
+      "name": "Taiheiyo Cement Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 1367396991,
+      "percentage": 15.161
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 98927075,
+      "percentage": 1.097
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 19866919,
+      "percentage": 0.22
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fadlansyah Lubis",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agnes Marcellina Tjhin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Prasetyo Suharto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Shinji Fukami",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rizki Kresno Edhie Hambali",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edi Sarwono",
+      "type": "Direksi",
+      "shares": 42100,
+      "percentage": 0
+    },
+    {
+      "name": "Asruddin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yasuhide Abe",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Husnedi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Solusi Bangun Andalas",
+      "business_type": "Produsen Semen",
+      "total_assets": 3401278,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Andalas",
+      "business_type": "Produsen Semen",
+      "total_assets": 3380361,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Andalas",
+      "business_type": "Produsen Semen",
+      "total_assets": 3331085,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Andalas",
+      "business_type": "Produsen Semen",
+      "total_assets": 3212198,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Andalas",
+      "business_type": "Produsen Semen",
+      "total_assets": 3154253,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Beton",
+      "business_type": "Beton Jadi dan Tambang Agregat",
+      "total_assets": 1130794,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Beton",
+      "business_type": "Beton Jadi dan Tambang",
+      "total_assets": 1032615,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Beton",
+      "business_type": "Beton Jadi dan Tambang",
+      "total_assets": 1001232,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Beton",
+      "business_type": "Beton Jadi dan Tambang",
+      "total_assets": 990448,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bangun Beton",
+      "business_type": "Beton Jadi dan Tambang",
+      "total_assets": 973353,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pendawa Lestari Perkasa",
+      "business_type": "Perijinan Tambang Agregat",
+      "total_assets": 189294,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pendawa Lestari Perkasa",
+      "business_type": "Tambang Agregat dan Konstruksi",
+      "total_assets": 166485,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pendawa Lestari Perkasa",
+      "business_type": "Tambang Agregat dan Konstruksi",
+      "total_assets": 165633,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pendawa Lestari Perkasa",
+      "business_type": "Tambang Agregat dan Konstruksi",
+      "total_assets": 163432,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pendawa Lestari Perkasa",
+      "business_type": "Tambang Agregat dan Konstruksi",
+      "total_assets": 147688,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Readymix Concrete Indonesia",
+      "business_type": "Beton Jadi dan Tambang Agregat",
+      "total_assets": 97114,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Readymix Concrete Indonesia",
+      "business_type": "Beton Jadi",
+      "total_assets": 44525,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Readymix Concrete Indonesia",
+      "business_type": "Beton Jadi",
+      "total_assets": 44463,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Readymix Concrete Indonesia",
+      "business_type": "Beton Jadi",
+      "total_assets": 44401,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Cipta Anugrahtama",
+      "business_type": "Jasa Konsultasi",
+      "total_assets": 44239,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Readymix Concrete Indonesia",
+      "business_type": "Beton Jadi",
+      "total_assets": 43962,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Cipta Anugrahtama",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 39010,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Cipta Anugrahtama",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 38248,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Cipta Anugrahtama",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 37815,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Cipta Anugrahtama",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 37790,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sbi Bangun Nusantara",
+      "business_type": "Aktivitas Tambang",
+      "total_assets": 22841,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sbi Bangun Nusantara",
+      "business_type": "Aktivitas Tambang",
+      "total_assets": 14794,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sbi Bangun Nusantara",
+      "business_type": "Aktivitas Tambang",
+      "total_assets": 10542,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sbi Bangun Nusantara",
+      "business_type": "Aktivitas Tambang",
+      "total_assets": 7286,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ciptanugrah Indonesia",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 1950,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ciptanugrah Indonesia",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 1787,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ciptanugrah Indonesia",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 1786,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sbi Bangun Nusantara",
+      "business_type": "Aktivitas Tambang",
+      "total_assets": 1505,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ciptanugrah Indonesia",
+      "business_type": "Jasa Konsultasi",
+      "total_assets": 1455,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ciptanugrah Indonesia",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 1363,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Sejahtera Indonesia",
+      "business_type": "Jasa Konsultasi",
+      "total_assets": 524,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Sejahtera Indonesia",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 521,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Sejahtera Indonesia",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 521,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Sejahtera Indonesia",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 521,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aroma Sejahtera Indonesia",
+      "business_type": "Jasa Konsultansi",
+      "total_assets": 521,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.990.021.029.075",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:02.787Z"
+}

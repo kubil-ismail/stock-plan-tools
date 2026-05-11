@@ -1,0 +1,261 @@
+{
+  "company_name": "PT Sunindo Pratama Tbk",
+  "ticker": "SUNI",
+  "office_address": "Jl. Prof Dr. Soepomo Sh. No. 48, Tebet Jakarta Selatan 12870, Indonesia",
+  "email": "corsec@sunindogroup.com",
+  "phone": "021 8378 5773",
+  "fax": "021 8378 5776",
+  "tax_id": "02.115.896.9-056.000",
+  "website": "https://www.sunindogroup.com",
+  "listing_date": "2023-01-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan besar mesin,peralatan dan perlengkapan lainnya, perdagangan besar atas dasar balas jasa (fee) atau kontrak, perdagangan besar barang logam untuk bahan konstruksi, penyewaan dan sewa guna tanpa hak opsi mesin pertambangan dan energi serta peralatannya, dan aktivitas konsultasi manajemen lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Freddy Soejandy",
+    "email": "corsec@sunindogroup.com",
+    "phone": "021 8378 5773"
+  },
+  "directors": [
+    {
+      "name": "Willy Johan Chandra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Prihandono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Freddy Soejandy",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Soe To Tie Lin",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Wiguna",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harry Wiguna",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tsun Tien Wen Lie",
+      "position": "Anggota"
+    },
+    {
+      "name": "Heny Lilyawaty",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Soe To Tie Lin",
+      "type": "Komisaris",
+      "shares": 1615000000,
+      "percentage": 64.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 504400000,
+      "percentage": 20.18
+    },
+    {
+      "name": "Willy Johan Chandra",
+      "type": "Direksi",
+      "shares": 285000000,
+      "percentage": 11.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 93600000,
+      "percentage": 3.74
+    },
+    {
+      "name": "Freddy Soejandy",
+      "type": "Direksi",
+      "shares": 2000000,
+      "percentage": 0.08
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Rainbow Tubulars Manufacture",
+      "business_type": "Manufacture",
+      "total_assets": 638057,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Rainbow Tubulars Manufacture",
+      "business_type": "Manufacture",
+      "total_assets": 556852,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Rainbow Tubulars Manufacture",
+      "business_type": "Manufacture",
+      "total_assets": 524062,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Rainbow Tubulars Manufacture",
+      "business_type": "Manufaktur",
+      "total_assets": 231662,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Petro Sinergy Manufacturing",
+      "business_type": "Perdagangan Besar Mesin, Peralatan dan Perlengkapan Lainnya",
+      "total_assets": 22727,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Petro Synergy Manufacturing",
+      "business_type": "Manufacture",
+      "total_assets": 20779,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Petro Synergy Manufacturing",
+      "business_type": "Manufacture",
+      "total_assets": 19910,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT. Petro Synergy Manufacturing",
+      "business_type": "Manufacture",
+      "total_assets": 18820,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Rainbow Tubulars Manufacture",
+      "business_type": "Industri Pipa dan Sambungan Pipa dari Baja dan Besi",
+      "total_assets": 340,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.550.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:54.465Z"
+}

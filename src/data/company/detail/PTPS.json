@@ -1,0 +1,201 @@
+{
+  "company_name": "PT Pulau Subur Tbk.",
+  "ticker": "PTPS",
+  "office_address": "Jl. A. Yani No. 12 Abc Rt23 Rw023 14 Ulu, Seberang Ulu Dua, Palembang",
+  "email": "corsec@pulausubur.com",
+  "phone": "+62711510760",
+  "fax": "+62711510761",
+  "tax_id": "016762742306000",
+  "website": "https://www.pulausubur.com",
+  "listing_date": "2023-10-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perkebunan Buah Kelapa Sawit",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Liawan Kristianto",
+    "email": "corsec@pulausubur.com",
+    "phone": "+62711510760"
+  },
+  "directors": [
+    {
+      "name": "Felix Safei",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Budiman Ong",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Efendi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dodi Prawira Amtar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dodi Prawira Amtar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Cynthia Afriani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Vita Diana Satiadhi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sekawan Kontrindo",
+      "type": "Lebih dari 5%",
+      "shares": 1702400000,
+      "percentage": 78.54
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 450014856,
+      "percentage": 20.76
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 7550000,
+      "percentage": 0.35
+    },
+    {
+      "name": "Efendi",
+      "type": "Komisaris",
+      "shares": 7550000,
+      "percentage": 0.35
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budiman Ong",
+      "type": "Direksi",
+      "shares": 25000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Kap Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Kap Jimmy Budhi & Rekan"
+    },
+    {
+      "name": "Jimmy Budhi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "390.152.674.080",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:11.626Z"
+}

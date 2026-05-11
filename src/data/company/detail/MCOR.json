@@ -1,0 +1,196 @@
+{
+  "company_name": "PT Bank China Construction Bank Indonesia Tbk",
+  "ticker": "MCOR",
+  "office_address": "Gedung Perkantoran Sahid Sudirman Center Lt. 15,jl. Jend. Sudirman Kav. 86, Jakarta Pusat, 10220",
+  "email": "corsec@idn.ccb.com",
+  "phone": "021-50821000",
+  "fax": "021-50821010",
+  "tax_id": "001.304.214.8-054.000",
+  "website": "https://bankccbi.co.id",
+  "listing_date": "2007-07-03",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Thomas Widianto",
+    "email": "corsec@idn.ccb.com",
+    "phone": "6221-50821000, 6221-50821180"
+  },
+  "directors": [
+    {
+      "name": "Jiang Yongdong",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Zhu Yong",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Junianto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Andreas Herman Basuki",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Suryati Budiyanto",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Guo Meijun",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mohamad Hasan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Yudo Sutanto, Nyoo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wu Jianzheng",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mohamad Hasan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mohamad Hassan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Oen Indra Widjaja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "China Construction Bank Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 22751563707,
+      "percentage": 60
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7216069930,
+      "percentage": 19.02
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 3112832456,
+      "percentage": 8.21
+    },
+    {
+      "name": "Drs. Johnny",
+      "type": "Lebih dari 5%",
+      "shares": 2631113705,
+      "percentage": 6.94
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2205221679,
+      "percentage": 5.82
+    },
+    {
+      "name": "Junianto",
+      "type": "Direksi",
+      "shares": 1996923,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Zhu Yong",
+      "type": "Direksi",
+      "shares": 932114,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.590.296.791.421",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:28.925Z"
+}

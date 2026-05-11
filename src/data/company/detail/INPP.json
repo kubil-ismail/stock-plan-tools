@@ -1,0 +1,318 @@
+{
+  "company_name": "Indonesian Paradise Property Tbk",
+  "ticker": "INPP",
+  "office_address": "Centennial Tower, Lantai 30 Jl. Gatot Subroto, Kavling 24 & 25 Jakarta - 12930, Indonesia",
+  "email": "corporate.secretary@paradiseindonesia.com",
+  "phone": "+6221 - 29880466",
+  "fax": "+6221 - 29880460",
+  "tax_id": "01.773.461.7-054.000",
+  "website": "https://www.paradiseindonesia.com",
+  "listing_date": "2004-01-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "sebagaimana terlampir",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Ispandiati Makmur",
+    "email": "corporate.secretary@paradiseindonesia.com",
+    "phone": "+6221 2988 0466"
+  },
+  "directors": [
+    {
+      "name": "Anthony Prabowo Susilo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Patrick Santosa Rendradjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Surina",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Todo Sihombing",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hadi Cahyadi",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Agoes Soelistyo Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Karel Patipeilohy",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Amelia Gozali",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Meryana Hartono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hadi Cahyadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Anang Yudiansyah Setiawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Kurniadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Standard Chartered Bank Sg S/a Vp Bank A/c PT Grahatama Kreasibaru-864134194",
+      "type": "Lebih dari 5%",
+      "shares": 4051971279,
+      "percentage": 36.24
+    },
+    {
+      "name": "Standard Chartered Bank Sg S/a Vp Bank Ag A/c Tree Of Blessings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 3147549873,
+      "percentage": 28.15
+    },
+    {
+      "name": "PT Propertindo Prima Investama",
+      "type": "Lebih dari 5%",
+      "shares": 1118197174,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1091416768,
+      "percentage": 9.76
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd Sre - Elysium Investment Partners Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 894557738,
+      "percentage": 8
+    },
+    {
+      "name": "Cgs International Securities Singapore Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 872278900,
+      "percentage": 7.8
+    },
+    {
+      "name": "Patrick Santosa Rendradjaja",
+      "type": "Direksi",
+      "shares": 5000000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Karel Patipeilohy",
+      "type": "Komisaris",
+      "shares": 1000000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Anugerah Nusaraya (an)",
+      "business_type": "Hotel",
+      "total_assets": 1810589,
+      "ownership_percentage": 87.02
+    },
+    {
+      "name": "PT Narpati Arjaya Properti dan Entitas Anaknya",
+      "business_type": "Hotel dan Pembangunan",
+      "total_assets": 1767399,
+      "ownership_percentage": 91.92
+    },
+    {
+      "name": "PT Indonesian Paradise Island (ipi)",
+      "business_type": "Hotel dan Pembangunan",
+      "total_assets": 1755833,
+      "ownership_percentage": 68.42
+    },
+    {
+      "name": "PT Paloma Suasa Manajemen dan Entitas Anaknya (psm)",
+      "business_type": "Real Estat",
+      "total_assets": 1568291,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Prospek Duta Sukses (pds)",
+      "business_type": "Real Estate",
+      "total_assets": 1324623,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Rifai Maju Properti (rmp)",
+      "business_type": "Real Estat",
+      "total_assets": 516463,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Mitra Perdana Nuansa (mpn)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 474807,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Indonesia Gemilang Mahasentosa (igm)",
+      "business_type": "Perdagangan dan Pembangunan",
+      "total_assets": 438350,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Bina Laras dan Entitas Anaknya (abl)",
+      "business_type": "Hotel",
+      "total_assets": 115265,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mitra Gemilang Mahacipta (mgm)",
+      "business_type": "Hotel dan Pembangunan",
+      "total_assets": 112552,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Praba Kumala Sajati dan Entitas Anaknya (pks)",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 97229,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Retzan Indonusa (rin)",
+      "business_type": "Hotel dan Real Estat",
+      "total_assets": 76359,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Segara Biru Kencana (sbk)",
+      "business_type": "Hotel",
+      "total_assets": 47694,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kega Property Utama (kpu)",
+      "business_type": "Hotel",
+      "total_assets": 39564,
+      "ownership_percentage": 92.73
+    },
+    {
+      "name": "PT Padma Suasa (ps)",
+      "business_type": "Hotel",
+      "total_assets": 31104,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pop Properti Indonesia (ppi)",
+      "business_type": "Pembangunan dan Jasa",
+      "total_assets": 28775,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Eka Ilalang Suryadinamika (eis)",
+      "business_type": "Hotel",
+      "total_assets": 23958,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Adhitama Citra Selaras (acs)",
+      "business_type": "Perdagangan dan Pembangunan",
+      "total_assets": 5555,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.945.577.385.600",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:43.808Z"
+}

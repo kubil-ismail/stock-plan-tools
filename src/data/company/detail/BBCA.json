@@ -1,0 +1,357 @@
+{
+  "company_name": "PT Bank Central Asia Tbk.",
+  "ticker": "BBCA",
+  "office_address": "Menara Bca, Grand Indonesia Jalan MH Thamrin No. 1 Jakarta 10310",
+  "email": "investor_relations@bca.co.id",
+  "phone": "021-23588000",
+  "fax": "021-23588300",
+  "tax_id": "01.308.449.6-091.000",
+  "website": "https://www.bca.co.id",
+  "listing_date": "2000-05-31",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Teknologi, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Teknologi",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Rudy Budiardjo",
+    "email": "corporate_secretary@bca.co.id",
+    "phone": "021-23588000"
+  },
+  "directors": [
+    {
+      "name": "Gregory Hendra Lembong",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Armand Wahyudi Hartono",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "John Kosasih",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Ho Hien/subur atau Dipanggil Subur Tan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lianawaty Suwono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Santoso",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Vera Eve Lim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Haryanto Tiara Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Frengky Chandra Kusuma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius Widodo Mulyono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendra Tanumihardja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "David Formula",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sumantri Slamet",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jahja Setiaatmadja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tonny Kusnadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Raden Pardede",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sumantri Slamet",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rallyati A. Wibowo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Prabowo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Dwimuria Investama Andalan",
+      "type": "Lebih dari 5%",
+      "shares": 67729950000,
+      "percentage": 54.942
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 51971999178,
+      "percentage": 42.159
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3091408880,
+      "percentage": 2.508
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 401316300,
+      "percentage": 0.326
+    },
+    {
+      "name": "Jahja Setiaatmadja",
+      "type": "Komisaris",
+      "shares": 35802700,
+      "percentage": 0.03
+    },
+    {
+      "name": "Tan Ho Hien/subur Disebut Juga Subur Tan",
+      "type": "Direksi",
+      "shares": 11788002,
+      "percentage": 0.01
+    },
+    {
+      "name": "Tonny Kusnadi",
+      "type": "Komisaris",
+      "shares": 7819950,
+      "percentage": 0.006
+    },
+    {
+      "name": "Vera Eve Lim",
+      "type": "Direksi",
+      "shares": 3281460,
+      "percentage": 0.003
+    },
+    {
+      "name": "Armand Wahyudi Hartono",
+      "type": "Direksi",
+      "shares": 4256065,
+      "percentage": 0.003
+    },
+    {
+      "name": "Lianawaty Suwono",
+      "type": "Direksi",
+      "shares": 3906242,
+      "percentage": 0.003
+    },
+    {
+      "name": "Santoso",
+      "type": "Direksi",
+      "shares": 3764062,
+      "percentage": 0.003
+    },
+    {
+      "name": "Gregory Hendra Lembong",
+      "type": "Direksi",
+      "shares": 2666921,
+      "percentage": 0.002
+    },
+    {
+      "name": "Frengky Chandra Kusuma",
+      "type": "Direksi",
+      "shares": 2835916,
+      "percentage": 0.002
+    },
+    {
+      "name": "Haryanto Tiara Budiman",
+      "type": "Direksi",
+      "shares": 1436806,
+      "percentage": 0.001
+    },
+    {
+      "name": "John Kosasih",
+      "type": "Direksi",
+      "shares": 1720729,
+      "percentage": 0.001
+    },
+    {
+      "name": "Antonius Widodo Mulyono",
+      "type": "Direksi",
+      "shares": 681407,
+      "percentage": 0.001
+    },
+    {
+      "name": "Hendra Tanumihardja",
+      "type": "Direksi",
+      "shares": 341139,
+      "percentage": 0
+    },
+    {
+      "name": "Raden Pardede",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sumantri Slamet",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Formula",
+      "type": "Direksi",
+      "shares": 74243,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Bca Syariah",
+      "business_type": "Perbankan Syariah",
+      "total_assets": 19207364,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bank Digital Bca",
+      "business_type": "Perbankan",
+      "total_assets": 18923844,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bca Finance",
+      "business_type": "Pembiayaan Investasi, Modal Kerja, Pembiayaan Multiguna, Sewa Operasi, Keg Pembiayaan Lain Brdsrkn Persetujuan Instansi Yg Berwenang",
+      "total_assets": 10371197,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Asuransi Jiwa Bca",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 4676146,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Asuransi Umum Bca",
+      "business_type": "Asuransi Umum atau Kerugian",
+      "total_assets": 3454384,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bca Sekuritas",
+      "business_type": "Perantara Perdagangan Efek dan Penjamin Emisi Efek",
+      "total_assets": 2518673,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Central Capital Ventura",
+      "business_type": "Modal Ventura",
+      "total_assets": 468985,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "713.947.452.075.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:09.732Z"
+}

@@ -1,0 +1,292 @@
+{
+  "company_name": "PT Sumber Global Energy Tbk.",
+  "ticker": "SGER",
+  "office_address": "Graha Bip Lantai 2, Jalan Gatot Subroto Kav. 23, Jakarta Selatan 12930",
+  "email": "corsec@sumberglobalenergy.com",
+  "phone": "021-2500120",
+  "fax": "021-2500243",
+  "tax_id": "02.795.370.2-081.000",
+  "website": "https://www.sumberglobalenergy.co.id",
+  "listing_date": "2020-08-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Bahan Bakar Padat, Cair, Gas, Energi Terbaru dan Terbarukan serta Pertambangan Logam dan Mineral Tanah Jarang (Rare Earth) di Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Energi.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Energi"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Michael Harold H",
+    "email": "corsec@sumberglobalenergy.com",
+    "phone": "021-212500120"
+  },
+  "directors": [
+    {
+      "name": "Welly Thomas",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Venkateswaran Venkatraman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Raymond Ng Chi Ching",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Harris Muliawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Erwin Hardiyanto Tedjo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Erwin Hardiyanto Tedjo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Imelda Omar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ellen Susilo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sumbermas Inti Energi",
+      "type": "Lebih dari 5%",
+      "shares": 7805498131,
+      "percentage": 50.08
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4748038698,
+      "percentage": 30.45
+    },
+    {
+      "name": "Vivi Ramalyati Hutama",
+      "type": "Lebih dari 5%",
+      "shares": 1692102853,
+      "percentage": 10.86
+    },
+    {
+      "name": "Welly Thomas",
+      "type": "Direksi",
+      "shares": 1341269756,
+      "percentage": 8.61
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Hineni Resource Pte Ltd",
+      "business_type": "Perdagangan",
+      "total_assets": 1693211,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Mineral Global Abadi Tbk",
+      "business_type": "Perdagangan",
+      "total_assets": 862017,
+      "ownership_percentage": 72
+    },
+    {
+      "name": "PT Hidrogen Peroxida Indonesia",
+      "business_type": "Industri Kimia Dasar Anorganik",
+      "total_assets": 721444,
+      "ownership_percentage": 46
+    },
+    {
+      "name": "Hineni Seven Resources Dmcc",
+      "business_type": "Perdagangan",
+      "total_assets": 651254,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Hineni Hijau Energy Pte. Ltd",
+      "business_type": "Perdagangan",
+      "total_assets": 334028,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Transmarina Pelabuhan Indonesia",
+      "business_type": "Pengangkutan dan Pergudangan",
+      "total_assets": 250000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sumber Global Agro",
+      "business_type": "Perdagangan Cpo",
+      "total_assets": 134333,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Jasatama Mandiri Sukses",
+      "business_type": "Pertambangan",
+      "total_assets": 94295,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Bhara Energy International",
+      "business_type": "Perdagangan",
+      "total_assets": 30911,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Montis Commodities Pte. Ltd",
+      "business_type": "Perdagangan",
+      "total_assets": 22001,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Angkasa Nusagraha",
+      "business_type": "Hotel",
+      "total_assets": 20356,
+      "ownership_percentage": 95
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.860.677.948.688",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:35.866Z"
+}

@@ -1,0 +1,312 @@
+{
+  "company_name": "PT Humpuss Maritim Internasional Tbk",
+  "ticker": "HUMI",
+  "office_address": "Gedung Mangkuluhur City Tower One Lt. 27 Jl. Jend Gatot Subroto Kav 1, Karet Semanggi Setiabudi, Jakarta Selatan. 12930",
+  "email": "corpsec@humi.co.id",
+  "phone": "+62 21 509 33159",
+  "fax": "",
+  "tax_id": "80.905.129.5-067.000",
+  "website": "https://www.humi.co.id",
+  "listing_date": "2023-08-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Angkutan Laut dalam Negeri dan Angkutan Laut Perairan Pelabuhan dalam Negeri",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Arya Mahardhika P.",
+    "email": "corpsec@humi.co.id",
+    "phone": "+62 21 395 06655"
+  },
+  "directors": [
+    {
+      "name": "I Gusti Ngurah Askhara Danadiputra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Indra Yurana Sugiarto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mahdan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dedi Hudayana",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mahdan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mirawati Sudjono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jt Duma",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Humpuss Intermoda Transportasi Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 13805172800,
+      "percentage": 76.43
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4257129901,
+      "percentage": 23.57
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 330000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Hutama Trans Kencana",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 125971388,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Gts Internasional, Tbk",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 86880272,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Hikmah Sarana Bahari",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 43506812,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Pcs Internasional",
+      "business_type": "Konsultasi Manajemen Lainnya",
+      "total_assets": 40310678,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Humpuss Transportasi Curah",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 35362852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ots Internasional",
+      "business_type": "Konsultasi Manajemen Lainnya",
+      "total_assets": 29084600,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Permata Khatulistiwa Regas",
+      "business_type": "Perdagangan",
+      "total_assets": 28588499,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Baraka Alam Sari",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 27579518,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bhaskara Inti Samudera",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 27230844,
+      "ownership_percentage": 43
+    },
+    {
+      "name": "PT Hutama Trans Kontinental",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 18892713,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mcs Internasional",
+      "business_type": "Jasa Manajemen Awak Kapal",
+      "total_assets": 5734034,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anoa Sulawesi Regas",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 3406823,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Humolco Lng Indonesia",
+      "business_type": "Jasa Manajemen Kapal",
+      "total_assets": 2205858,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Etsi Hutama Maritim",
+      "business_type": "Jasa Pelatihan Awak Kapal",
+      "total_assets": 1728083,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mcmol Crewing International Indonesia",
+      "business_type": "Jasa Manajemen Awak Kapal",
+      "total_assets": 1642542,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Hummingbird Trans Ocean",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 948641,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Maritim Indonesia",
+      "business_type": "Jasa Transportasi Air",
+      "total_assets": 840379,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cts Internasional",
+      "business_type": "Jasa Transportasi",
+      "total_assets": 15892,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sulawesi Regas Satu",
+      "business_type": "Jasa Unit Penyimpanan dan Regasifikasi Terapung",
+      "total_assets": 0,
+      "ownership_percentage": 85
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Kap Purwantono, Suherman dan Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.269.334.700.555",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:53.241Z"
+}

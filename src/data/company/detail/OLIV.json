@@ -1,0 +1,238 @@
+{
+  "company_name": "PT Oscar Mitra Sukses Sejahtera Tbk",
+  "ticker": "OLIV",
+  "office_address": "Jl. Otista Raya No. 33, Jakarta Timur, Indonesia",
+  "email": "corsec@oscarmitra.com",
+  "phone": "+6281110088867",
+  "fax": "-",
+  "tax_id": "21.133.745.6-002.000",
+  "website": "https://www.oscarmitrasuksessejahtera.com",
+  "listing_date": "2022-05-17",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Perdagangan eceran furnitur dan perdagangan eceran melalui media untuk barang perlengkapan rumah tangga dan perlengkapan dapur",
+    "business_summary": "Perusahaan bergerak di bidang Media.",
+    "business_tags": [
+      "Media"
+    ],
+    "business_keywords": [
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 84,
+    "name": "Produsen Furnitur Rumah",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Stevany Putri",
+    "email": "corsec@oscarmitra.com",
+    "phone": "08131229337"
+  },
+  "directors": [
+    {
+      "name": "Wang Xiaoxuan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chen Chunming",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chen Chaoying",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Habibi Simorangkir",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "N Shaohong",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Qiu Shaohua",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sandra Perkasa",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sandra Perkasa",
+      "position": "Ketua"
+    },
+    {
+      "name": "Henrika Cici Sinaga",
+      "position": "Anggota"
+    },
+    {
+      "name": "Adriani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Olive Power Invest",
+      "type": "Lebih dari 5%",
+      "shares": 1290407112,
+      "percentage": 67.91
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 609666202,
+      "percentage": 32.09
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "An Shaohong",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Qiu Shaohua",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sandra Perkasa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wang Xiaoxuan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chen Chunming",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chen Chaoying",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Habibi Simorangkir",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Archipelago Khatulistiwa Persada",
+      "business_type": "Perdagangan Eceran Peralatan dan Perlengkapan Rumah Tangga",
+      "total_assets": 499200000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Anak Sribu Pulau",
+      "business_type": "Perdagangan Eceran Peralatan dan Perlengkapan Rumah Tangga",
+      "total_assets": 449125000,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Hasahatan dan Binsar"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "108.304.178.898",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:35.725Z"
+}

@@ -1,0 +1,212 @@
+{
+  "company_name": "Kdb Tifa Finance Tbk",
+  "ticker": "TIFA",
+  "office_address": "Pacific Century Place 41st Floor, SCBD Lot 10, Jl. Jenderal Sudirman Kav. 52-53, Jakarta Selatan 12190",
+  "email": "corporate.secretary@kdbtifa.co.id",
+  "phone": "(62-21) 5094 1140",
+  "fax": "0",
+  "tax_id": "0013.4197.5905.4000",
+  "website": "https://www.kdbtifa.co.id",
+  "listing_date": "2011-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Dwi Indriyanie",
+    "email": "corporate.secretary@kdbtifa.co.id",
+    "phone": "021-50941140"
+  },
+  "directors": [
+    {
+      "name": "Cho Jaeseong",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Eun Seonghyuk",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ina Dashinta Hamid",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ade Rafida Saulina Samosir",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kwon Younghoon",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Choi Jung Sik",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius Hanifah Komala",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Choi Jung Sik",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yoon Young Jun",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yustina Peniyanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Korea Development Bank",
+      "type": "Lebih dari 5%",
+      "shares": 2752920825,
+      "percentage": 77.499
+    },
+    {
+      "name": "PT Dwi Satrya Utama",
+      "type": "Lebih dari 5%",
+      "shares": 532707259,
+      "percentage": 14.996
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 266584916,
+      "percentage": 7.505
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kwon Younghoon",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Choi Jung Sik",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Antonius Hanifah Komala",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cho Jaeseong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eun Seonghyuk",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ina Dashinta Hamid",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ade Rafida Saulina S.",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.179.334.716.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:28.207Z"
+}

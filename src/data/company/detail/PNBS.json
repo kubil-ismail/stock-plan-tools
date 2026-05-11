@@ -1,0 +1,210 @@
+{
+  "company_name": "PT Bank Panin Dubai Syariah Tbk.",
+  "ticker": "PNBS",
+  "office_address": "Gedung Panin Life Center Lantai 3a, Jl. Letjend S. Parman Kav.91, Kota Bambu Utara Palmerah Jakarta Barat Dki Jakarta",
+  "email": "corsec@pdsb.co.id",
+  "phone": "(021) 56956100",
+  "fax": "(021) 56956105",
+  "tax_id": "01.122.945.7-054.000",
+  "website": "https://www.pdsb.co.id",
+  "listing_date": "2014-01-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bank Syariah",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Slamet Haryanto Pradhana",
+    "email": "corsec@pdsb.co.id",
+    "phone": "+62 21 5695 6100"
+  },
+  "directors": [
+    {
+      "name": "Shandra Noraya L",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Erick",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bratha",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Intan Rahmawati*",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tantry Soetjipto S",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sindbad Rijadi Hardjodipuro",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mohamad Gatot Adhi Prasetyo*",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tantry Soetjipto S",
+      "position": "Ketua"
+    },
+    {
+      "name": "Evi Firmansyah",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mohammad Hari Siswanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bank Panin Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 26121527033,
+      "percentage": 67.3
+    },
+    {
+      "name": "Dubai Islamic Bank Pjsc",
+      "type": "Lebih dari 5%",
+      "shares": 9742223971,
+      "percentage": 25.1
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2949842105,
+      "percentage": 7.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 48210,
+      "percentage": 0
+    },
+    {
+      "name": "Tantry Soetjipto S",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bratha",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Shandra Noraya L",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sindbad R. Hardjodipuro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Erick",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mohamad Gatot Adhi Prasetyo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Intan Rahmawati",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.959.700.750.206",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:27.573Z"
+}

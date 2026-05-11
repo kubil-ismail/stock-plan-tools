@@ -1,0 +1,177 @@
+{
+  "company_name": "Mulia Industrindo Tbk",
+  "ticker": "MLIA",
+  "office_address": "Atrium Mulia Lantai 8 Jalan H.r. Rasuna Said Kav. B 10-11 Jakarta 12910",
+  "email": "nila@muliagroup.co.id",
+  "phone": "(021) 22513000",
+  "fax": "(021) 25982814",
+  "tax_id": "01.332.773.9-054.000",
+  "website": "https://0",
+  "listing_date": "1994-01-17",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bahan Bangunan",
+    "business_summary": "Perusahaan bergerak di bidang Produk & Perlengkapan Bangunan.",
+    "business_tags": [
+      "Produk & Perlengkapan Bangunan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Henry Bun",
+    "email": "nila@muliagroup.co.id",
+    "phone": "(021) 22513000"
+  },
+  "directors": [
+    {
+      "name": "Eka Tjandranegara",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Medriyani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Bun",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ekson Tjandranegara",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ekman Tjandranegara",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Osman Sitorus",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Joanne S.tjandranegara",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Inarto Setiadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Osman Sitorus",
+      "position": "Ketua"
+    },
+    {
+      "name": "Titus Haryanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Denyanto Tjahjadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Eka Gunatama Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 2741735320,
+      "percentage": 41.45
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2107101420,
+      "percentage": 31.85
+    },
+    {
+      "name": "Mulia Grahapermai",
+      "type": "Lebih dari 5%",
+      "shares": 1706693290,
+      "percentage": 25.8
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 59469970,
+      "percentage": 0.9
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Muliaglass",
+      "business_type": "Industri Kaca Lembaran, Kaca Pengaman, Botol Kemasan dan Glass Block",
+      "total_assets": 6966478624,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.733.130.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:09.279Z"
+}

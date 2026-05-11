@@ -1,0 +1,230 @@
+{
+  "company_name": "PT Bank Raya Indonesia Tbk",
+  "ticker": "AGRO",
+  "office_address": "Menara Brilian Lt. 20 Jalan Gatot Subroto No. 177 A Kel. Menteng dalam Kecamatan Tebet Jakarta Selatan Dki Jakarta",
+  "email": "humas@bankraya.co.id",
+  "phone": "021-50931300",
+  "fax": "021-50931494",
+  "tax_id": "01.347.428.3-054.000",
+  "website": "https://bankraya.co.id",
+  "listing_date": "2003-08-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Ajeng Putri Hapsari",
+    "email": "ajeng.putri@bankraya.co.id",
+    "phone": "021-79199980"
+  },
+  "directors": [
+    {
+      "name": "Ida Bagus Ketut Subagia",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rustarti Suri Pertiwi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Danar Widyantoro",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lukman Hakim",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Kicky Andrie Davetra",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Muhamad Sidik Heruwibowo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Retno Wahyuni Wijayanti",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Johanes Kuntjoro Adisardjono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Nyimas Dewi Ratih Kamil",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Johanes Kuntjoro Adisardjono",
+      "position": "Ketua"
+    },
+    {
+      "name": "Retno Wahyuni Wijayanti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sus Kiranawati Handayani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gafyunedi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Bank Rakyat Indonesia (persero) Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 21487162037,
+      "percentage": 86.8502
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3172672635,
+      "percentage": 12.823
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 70934900,
+      "percentage": 0.287
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 9615822,
+      "percentage": 0.0394
+    },
+    {
+      "name": "Lukman Hakim",
+      "type": "Direksi",
+      "shares": 100000,
+      "percentage": 0.0004
+    },
+    {
+      "name": "Muhamad Sidik Heruwibowo",
+      "type": "Komisaris",
+      "shares": 8900,
+      "percentage": 0
+    },
+    {
+      "name": "Retno Wahyuni Wijayanti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johanes Kuntjoro Adisardjono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nyimas Dewi Ratih Kamil",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ida Bagus Ketut Subagia",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Danar Widyantoro",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rustarti Suri Pertiwi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kicky Andrie Davetra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.433.249.872.096",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:11.773Z"
+}

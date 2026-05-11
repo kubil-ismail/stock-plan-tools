@@ -1,0 +1,252 @@
+{
+  "company_name": "Tembaga Mulia Semanan Tbk",
+  "ticker": "TBMS",
+  "office_address": "Jl.daan Mogot Km. 16 Jakarta Barat",
+  "email": "rini@pttms.co.id",
+  "phone": "(021)6190131",
+  "fax": "(021)6190135",
+  "tax_id": "01.000.137.8-092.000",
+  "website": "https://www.pttms.co.id",
+  "listing_date": "1990-05-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Kawat Tembaga",
+    "business_summary": "Perusahaan bergerak di bidang Tembaga.",
+    "business_tags": [
+      "Tembaga"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 97,
+    "name": "Tembaga",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Erni Yunita Sari",
+    "email": "erni@pttms.co.id",
+    "phone": "021.6190128"
+  },
+  "directors": [
+    {
+      "name": "Tsuyoshi Kobayashi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hitoshi Yamaguchi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Toru Murakami",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herry Cahyo Triyuniarto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hengky Kartasasmita",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Elly Soepono",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tsutomu Aoki",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Toru Umeki",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dewa Nyoman Adnyana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wantina Dharmawi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dewa Nyoman Adyana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Haryanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Neny Mustika Suseno",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "The Furukawa Electric Co.ltd",
+      "type": "Lebih dari 5%",
+      "shares": 311640000,
+      "percentage": 42.42
+    },
+    {
+      "name": "PT Supreme Cable Manufacturing Corp",
+      "type": "Lebih dari 5%",
+      "shares": 248400000,
+      "percentage": 33.81
+    },
+    {
+      "name": "Toyota Tsusho Corporation",
+      "type": "Lebih dari 5%",
+      "shares": 73468000,
+      "percentage": 10
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 72772000,
+      "percentage": 9.9
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 28000000,
+      "percentage": 3.82
+    },
+    {
+      "name": "Elly Soepono",
+      "type": "Komisaris",
+      "shares": 400000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tsutomu Aoki",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Toru Umeki",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewa Nyoman Adnyana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wantina Dharmawi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tsuyoshi Kobayashi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hitoshi Yamaguchi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Toru Murakami",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herry Cahyo Tri Yuniarto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hengky Kartasasmita",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.002.838.200.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:13.972Z"
+}

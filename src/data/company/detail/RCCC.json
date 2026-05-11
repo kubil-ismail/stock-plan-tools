@@ -1,0 +1,174 @@
+{
+  "company_name": "PT Utama Radar Cahaya Tbk",
+  "ticker": "RCCC",
+  "office_address": "Gedung Stc Senayan Lantai 3, Ruang 181, Jl. Asia Afrika Pintu Ix, Gelora, Tanah Abang, Jakarta Pusat 10270",
+  "email": "corpsecretary@utamaradarcahaya.com",
+  "phone": "(021) 57930507",
+  "fax": "(021) 57930077",
+  "tax_id": "31.509.887.1-007.000",
+  "website": "https://www.utamaradarcahaya.com",
+  "listing_date": "2022-08-02",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bergerak di Bidang Jasa Pengurusan Transportasi",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Felice Livia Wijaya",
+    "email": "corpsecretary@utamaradarcahaya.com",
+    "phone": "(021) 57930507"
+  },
+  "directors": [
+    {
+      "name": "Alvin Tjokrohadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Samuel Kharis Purdiyanta",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Adhitya Chandra Wijaya",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yosi Priskila Tansil",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yosi Priskila Tansil",
+      "position": "Ketua"
+    },
+    {
+      "name": "Anik Lestari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maria Puspita Sari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Gelora Rimba Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 613620000,
+      "percentage": 77.92
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 157500000,
+      "percentage": 20
+    },
+    {
+      "name": "Adhitya Chandra Wijaya",
+      "type": "Komisaris",
+      "shares": 16380000,
+      "percentage": 2.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Kap Jojo Sunarjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "83.475.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:42.335Z"
+}

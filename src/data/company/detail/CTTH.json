@@ -1,0 +1,196 @@
+{
+  "company_name": "Citatah Tbk",
+  "ticker": "CTTH",
+  "office_address": "Jl. Prof. Dr. Satrio Blok C4 No. 10, Kel. Kuningan Timur, Kec. Setiabudi, Jakarta Selatan 12950",
+  "email": "legal@citatah.co.id; loura@citatah.co.id; fa@citatah.co.id;",
+  "phone": "021 - 3972 2018",
+  "fax": "021 - 3972 2028",
+  "tax_id": "01.104.748.7-054.000",
+  "website": "http://www.citatah.co.id",
+  "listing_date": "1996-07-03",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Land / Stone Quarrying",
+    "business_summary": "Perusahaan bergerak di bidang Produk & Perlengkapan Bangunan.",
+    "business_tags": [
+      "Produk & Perlengkapan Bangunan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Tiffany Johanes",
+    "email": "head.legal@citatah.co.id legal@citatah.co.id tiffany@citatah.co.id citatah@citatah.co.id",
+    "phone": "021 - 3972 2018"
+  },
+  "directors": [
+    {
+      "name": "Taufik Johannes",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tiffany Johanes",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Denise Johanes",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rumpoko Adi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Eugene Cho Park",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gregory Nanan Aswin",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Gregory Nanan Aswin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Alwi Anugrawati Tjandra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Flora Budiman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 535733586,
+      "percentage": 43.53
+    },
+    {
+      "name": "Parallax Venture Partners Xiii Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 232618891,
+      "percentage": 18.9
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 115735348,
+      "percentage": 9.4
+    },
+    {
+      "name": "Taufik Johannes",
+      "type": "Direksi",
+      "shares": 105992999,
+      "percentage": 8.61
+    },
+    {
+      "name": "Advance Capital Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 86472558,
+      "percentage": 7.03
+    },
+    {
+      "name": "Meridian Pacific International Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 71614000,
+      "percentage": 5.82
+    },
+    {
+      "name": "Investspring Limited",
+      "type": "Lebih dari 5%",
+      "shares": 64800681,
+      "percentage": 5.26
+    },
+    {
+      "name": "Denise Johanes",
+      "type": "Direksi",
+      "shares": 12600000,
+      "percentage": 1.02
+    },
+    {
+      "name": "Tiffany Johanes",
+      "type": "Direksi",
+      "shares": 4047600,
+      "percentage": 0.33
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1224158,
+      "percentage": 0.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "187.087.652.792",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:49.164Z"
+}

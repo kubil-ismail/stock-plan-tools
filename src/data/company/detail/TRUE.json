@@ -1,0 +1,250 @@
+{
+  "company_name": "PT Triniti Dinamik Tbk",
+  "ticker": "TRUE",
+  "office_address": "The Smith - Alam Sutera PT Triniti Dinamik Tbk Jl. Jalur Sutera Kav. 7a Alam Sutera, Kunciran Pinang Kota Tangerang, Banten 15144",
+  "email": "corsec.true@trinitiland.com",
+  "phone": "021 - 39705988",
+  "fax": "021 - 29541843",
+  "tax_id": "66.105.749.7-036.000",
+  "website": "https://www.trinitidinamik.com",
+  "listing_date": "2021-06-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Real Estate dan Pengembangan Properti",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Rautsan Fikri Ray Farandy",
+    "email": "corsec.true@trinitiland.com",
+    "phone": "021-3970 5988"
+  },
+  "directors": [
+    {
+      "name": "Yohanes Eddy Christianto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Chandra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Septian Starlin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Heriyanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Kevin Jong",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Ir. Erman Suparno, M.b.a., M.si",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ir. Erman Suparno, Mba, Msi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Danny Sutradewa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Richard Yovan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Agung Perkasa Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 4000000000,
+      "percentage": 52.83
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1373901136,
+      "percentage": 18.14
+    },
+    {
+      "name": "PT Perintis Triniti Properti Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1097261584,
+      "percentage": 14.49
+    },
+    {
+      "name": "PT Panca Agung Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 401787656,
+      "percentage": 5.31
+    },
+    {
+      "name": "Djoni",
+      "type": "Lebih dari 5%",
+      "shares": 385000000,
+      "percentage": 5.09
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 313157484,
+      "percentage": 4.14
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Ir. Erman Suparno, Mba, Msi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Yohanes Eddy Christianto, Se, Ak, Mba",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chandra",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Septian Starlin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heriyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kevin Jong",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Triniti Dinamik Santoz",
+      "business_type": "Property",
+      "total_assets": 107104672988,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Sukses Bangun Sinergi",
+      "business_type": "Property Management",
+      "total_assets": 13650152027,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.173.521.718.300",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:12.931Z"
+}

@@ -1,0 +1,196 @@
+{
+  "company_name": "PT Himalaya Energi Perkasa Tbk",
+  "ticker": "HADE",
+  "office_address": "Jl. Soebagjono - Tjondrokoesoemo, Kp Perbalan, Gn. Pati - Semarang, Jawa Tengah 50229",
+  "email": "hd.capitaltbk@gmail.com",
+  "phone": "(024) 76921635",
+  "fax": "-",
+  "tax_id": "001.341.266.3-054.000",
+  "website": "https://himalayaenergi.co.id",
+  "listing_date": "2004-04-12",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "ketenagalistrikan, perdagangan, pembangunan dan jasa yang berhubungan dengan pembangkit listrik",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 34,
+    "name": "Utilitas",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 56,
+    "name": "Utilitas Gas"
+  },
+  "sub_industry": {
+    "id": 99,
+    "name": "Utilitas Gas",
+    "industries_id": 56
+  },
+  "corporate_secretary": {
+    "name": "Martha Ester Lumenta",
+    "email": "hd.capitaltbk@gmail.com",
+    "phone": "024-76921635"
+  },
+  "directors": [
+    {
+      "name": "Martha Ester Lumenta",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sushanti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ismayati Solihat",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Basa Sidabutar.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Basa Sidabutar, Sh, MH",
+      "position": "Ketua"
+    },
+    {
+      "name": "Muhammad Andri Yuniarso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lena",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 1000000000,
+      "percentage": 47.17
+    },
+    {
+      "name": "Maxima Financindo",
+      "type": "Lebih dari 5%",
+      "shares": 917200000,
+      "percentage": 43.264
+    },
+    {
+      "name": "Dana Pensiun Karyawan Panin Bank",
+      "type": "Lebih dari 5%",
+      "shares": 202800000,
+      "percentage": 9.566
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ismayati Solihat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Basa Sidabutar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Martha Ester Lumenta",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sushanti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Optima Daya Kapital",
+      "business_type": "Spbe (stasiun Pengisian Bulk Elpiji)",
+      "total_assets": 11159455612,
+      "ownership_percentage": 55
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "40.280.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:22.172Z"
+}

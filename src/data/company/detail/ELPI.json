@@ -1,0 +1,229 @@
+{
+  "company_name": "PT Pelayaran Nasional Ekalya Purnamasari Tbk",
+  "ticker": "ELPI",
+  "office_address": "Graha Kct Lt. 3 Jl. W.r. Supratman No. 23 Surabaya, Jawa Timur",
+  "email": "corsec@elpi.co.id",
+  "phone": "(+62) 31 - 568 0121",
+  "fax": "(+62) 31 - 568 0122",
+  "tax_id": "0015 2833 6994 1000",
+  "website": "https://www.elpi.co.id",
+  "listing_date": "2022-08-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Angkutan laut dan aktivitas penunjang angkutan",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Wawan Heri Purnomo",
+    "email": "wawan@pnep.co.id",
+    "phone": "0813-5717-1975"
+  },
+  "directors": [
+    {
+      "name": "Eka Taniputra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Efilya Kusumadewi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Edwin Surjali",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Fida Unidjaja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fida Unidjaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Anggie Indah Purwitaningsari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ilhamsyah Putra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kreasi Cipta Timur",
+      "type": "Lebih dari 5%",
+      "shares": 6104700000,
+      "percentage": 82.36
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1112000000,
+      "percentage": 15
+    },
+    {
+      "name": "Tan Christian Taniputra",
+      "type": "Lebih dari 5%",
+      "shares": 189000000,
+      "percentage": 2.55
+    },
+    {
+      "name": "Eka Taniputra",
+      "type": "Direksi",
+      "shares": 6300000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Efilya Kusumadewi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edwin Surjali",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fida Unidjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Ekalya Purnamasari Offshore (dahulu PT Global Eka Marine)",
+      "business_type": "Jasa Pelayaran",
+      "total_assets": 546475,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Samudra Luas Sejahtera Abadi",
+      "business_type": "Jasa Pelayaran",
+      "total_assets": 503543,
+      "ownership_percentage": 52
+    },
+    {
+      "name": "PT Elpi Nusantara Armada",
+      "business_type": "Jasa Pelayaran",
+      "total_assets": 279558,
+      "ownership_percentage": 0.01
+    },
+    {
+      "name": "Kazo Marine (m) Sdn Bhd",
+      "business_type": "Jasa Pelayaran",
+      "total_assets": 275517,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "14.156.920.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:52.315Z"
+}

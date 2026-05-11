@@ -1,0 +1,259 @@
+{
+  "company_name": "PT Jaya Trishindo Tbk",
+  "ticker": "HELI",
+  "office_address": "Perkantoran Grand Aries Niaga Jl. Taman Aries Blok E1/1a Jakarta Barat 11620",
+  "email": "corsec@jatigroup.com",
+  "phone": "(021) 58900022",
+  "fax": "(021) 58900033",
+  "tax_id": "02.566.647.0-032.000",
+  "website": "https://www.jatigroup.com",
+  "listing_date": "2018-03-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa angkutan udara niaga tidak berjadwal melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 24,
+    "name": "Maskapai Penerbangan"
+  },
+  "sub_industry": {
+    "id": 44,
+    "name": "Maskapai Penerbangan",
+    "industries_id": 24
+  },
+  "corporate_secretary": {
+    "name": "Monica Chendrawati",
+    "email": "corsec@jatigroup.com",
+    "phone": "(021) 58900022"
+  },
+  "directors": [
+    {
+      "name": "Edwin Widjaja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ryan Kim Miller",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Gouw Erene Goetama",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andre Franklin Sahelangi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Andre Franklin Sahelangi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Cahyo Baskoro",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ridwan Sinarto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Startel Communication",
+      "type": "Lebih dari 5%",
+      "shares": 251913200,
+      "percentage": 30.25
+    },
+    {
+      "name": "PT Komala Tri Varia",
+      "type": "Lebih dari 5%",
+      "shares": 170700000,
+      "percentage": 20.5
+    },
+    {
+      "name": "PT Alta Internasional Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 133258000,
+      "percentage": 16
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 128995987,
+      "percentage": 15.48
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd A/c Referral Client -064c",
+      "type": "Lebih dari 5%",
+      "shares": 84793600,
+      "percentage": 10.18
+    },
+    {
+      "name": "PT Avia Nusantara Khatulistiwa",
+      "type": "Lebih dari 5%",
+      "shares": 62877300,
+      "percentage": 7.55
+    },
+    {
+      "name": "Edwin Widjaja",
+      "type": "Direksi",
+      "shares": 324300,
+      "percentage": 0.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gouw Erene Goetama",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andre Franklin Sahelangi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ryan Kim Miller",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Komala Indonesia",
+      "business_type": "Angkutan Udara Niaga Tak Berjadwal, Yaitu Penyewaan Pesawat Helikopter",
+      "total_assets": 336909656007,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Komala Indonesia",
+      "business_type": "Angkutan Udara Niaga Tak Berjadwal, Yaitu Penyewaan Pesawat Helikopter",
+      "total_assets": 336909656007,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Komala Indonesia",
+      "business_type": "Angkutan Udara Niaga Tak Berjadwal, Yaitu Penyewaan Pesawat Helikopter",
+      "total_assets": 336909656007,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Komala Indonesia",
+      "business_type": "Angkutan Udara Niaga Tak Berjadwal, Yaitu Penyewaan Pesawat Helikopter",
+      "total_assets": 336909656007,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Komala Indonesia",
+      "business_type": "Angkutan Udara Niaga Tak Berjadwal, Yaitu Penyewaan Pesawat Helikopter",
+      "total_assets": 336909656007,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "163.241.027.852",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:32.481Z"
+}

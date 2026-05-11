@@ -1,0 +1,219 @@
+{
+  "company_name": "Pembangunan Graha Lestari Indah Tbk",
+  "ticker": "PGLI",
+  "office_address": "Hotel Travellers Suites Medan, Jl.listrik No. 15, Kelurahan Petisah Tengah, Kecamatan Medan Petisah, Medan - Kode Pos 20112",
+  "email": "info@ptpgli.co.id",
+  "phone": "061-4535888",
+  "fax": "061-4534111",
+  "tax_id": "01.517.069.9-054.000",
+  "website": "https://www.ptpgli.co.id",
+  "listing_date": "2000-04-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perhotelan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Linda Sari, Se",
+    "email": "sari_pgli@yahoo.com",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Nicholas Spassky Hutapea",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Animan Hutapea",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Hendry Wigin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Linda Sari",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nelson Sihotang",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Tambak Onggo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir. Tambak Onggo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dewi Sartika",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bezi Shokhi Hulu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Alami Lestari Investindo, PT",
+      "type": "Lebih dari 5%",
+      "shares": 228500000,
+      "percentage": 46.82
+    },
+    {
+      "name": "Jaegopal Hutapea",
+      "type": "Lebih dari 5%",
+      "shares": 124400000,
+      "percentage": 25.49
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 115600000,
+      "percentage": 23.69
+    },
+    {
+      "name": "Animan Hutapea",
+      "type": "Direksi",
+      "shares": 18000000,
+      "percentage": 3.69
+    },
+    {
+      "name": "Nicholas Spassky Hutapea",
+      "type": "Direksi",
+      "shares": 1250000,
+      "percentage": 0.26
+    },
+    {
+      "name": "Hendry Wigin",
+      "type": "Direksi",
+      "shares": 250000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Aek Simonggo Energy",
+      "business_type": "Pembangkit Listrik Tenaga Minihydro (pltm)",
+      "total_assets": 923905357464,
+      "ownership_percentage": 77.75
+    },
+    {
+      "name": "Pt.belida Karya Lestari",
+      "business_type": "Perdagangan Umum/trading",
+      "total_assets": 30974202653,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT. Sei Wampu Energi",
+      "business_type": "Pembangkit Listrik Tenaga Minihydro",
+      "total_assets": 6709437002,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Langkat Hidro Energi",
+      "business_type": "Pembangkit Listrik Tenaga Air",
+      "total_assets": 5000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Boga Abadi Prima",
+      "business_type": "Retoran/ Industri Makanan",
+      "total_assets": 2948351338,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "112.240.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:09.682Z"
+}

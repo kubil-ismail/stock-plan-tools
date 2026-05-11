@@ -1,0 +1,229 @@
+{
+  "company_name": "PT Multipolar Technology Tbk.",
+  "ticker": "MLPT",
+  "office_address": "Sopo Del Office Towers & Lifestyle Tower B Lantai 18, Jalan Mega Kuningan Barat III Lot 10, 1-6, Kuningan Timur, Setiabudi, Jakarta Selatan 12950",
+  "email": "corsec.mlpt@multipolar.com",
+  "phone": "(021) 55777000",
+  "fax": "(021) 5460020",
+  "tax_id": "02.139.584.3-054.000",
+  "website": "https://www.multipolar.com",
+  "listing_date": "2013-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Konsultasi, Integrasi dan Pengelolaan Sistem Teknologi Informasi dan Penyertaan Pada Entitas Anak yang Bergerak Dalam Bidang Teknologi Informasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Natalie Lie",
+    "email": "corsec.mlpt@multipolar.com",
+    "phone": "(021) 55777000"
+  },
+  "directors": [
+    {
+      "name": "Wahyudi Chandra",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suyanto Halim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yugi Edison",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herryyanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Harianto Gunawan",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Junarto Sinambung Agung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Halim Hartono Perdana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dicky Setiadi Moechtar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Harijono Suwarno",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Benny Haryanto Djie",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harijono Suwarno",
+      "position": "Ketua"
+    },
+    {
+      "name": "Johanes Jany",
+      "position": "Anggota"
+    },
+    {
+      "name": "Christine",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Multipolar Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 1592750000,
+      "percentage": 84.95
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 282250000,
+      "percentage": 15.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Visionet Data Internasional",
+      "business_type": "Jasa dan Perdagangan Umum",
+      "total_assets": 871275,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Digital Daya Teknologi",
+      "business_type": "Jasa dan Konsultasi",
+      "total_assets": 137588,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Teknologi Pamadya Analitika",
+      "business_type": "Jasa dan Konsultasi",
+      "total_assets": 31723,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multi Solusi Andal",
+      "business_type": "Jasa dan Perdagangan Umum",
+      "total_assets": 9988,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Digital Data Venture",
+      "business_type": "Jasa dan Konsultasi",
+      "total_assets": 636,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Artomoro Prima Internasional",
+      "business_type": "Jasa dan Perindustrian",
+      "total_assets": 27,
+      "ownership_percentage": 60.86
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "40.406.250.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:13.132Z"
+}

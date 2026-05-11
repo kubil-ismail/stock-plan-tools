@@ -1,0 +1,272 @@
+{
+  "company_name": "PT Soho Global Health Tbk",
+  "ticker": "SOHO",
+  "office_address": "Jl. Rawa Sumur II Kav Bb No. 3, Kawasan Industri Pulogadung, Kelurahan Jatinegara, Kecamatan Cakung, Jakarta Timur 13930, Indonesia",
+  "email": "corporate.secretary@sohoglobalhealth.com",
+  "phone": "(021) 4683 4411",
+  "fax": "(021) 4683 0505",
+  "tax_id": "0013 0329 6607 3000",
+  "website": "https://www.sohoglobalhealth.com",
+  "listing_date": "2020-09-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri dan distribusi atas produk-produk di sektor farmasi dan kesehatan melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Yuliana",
+    "email": "corporate.secretary@sohoglobalhealth.com",
+    "phone": "(021) 4683 4411"
+  },
+  "directors": [
+    {
+      "name": "Ery Yunasri, S.h., Ll.m",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yuliana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Piero Brambati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Richard Kidarsa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Chern Han",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pandy Harianto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Eng Liang Tan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Salam",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Andy Nugroho Purwohardono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ignasius Jonan",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ignasius Jonan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Gabriele Isacco Tironi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gan Jin Zhi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Tiberias 96 Pty Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 4812370310,
+      "percentage": 37.918
+    },
+    {
+      "name": "Medisia Investment Holdings Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 2851733000,
+      "percentage": 22.469
+    },
+    {
+      "name": "Cascade Creek Pty Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1537362000,
+      "percentage": 12.113
+    },
+    {
+      "name": "Fraburg Pty Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1173205040,
+      "percentage": 9.244
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1173025870,
+      "percentage": 9.242
+    },
+    {
+      "name": "Tan Giok Nio",
+      "type": "Lebih dari 5%",
+      "shares": 1143986170,
+      "percentage": 9.014
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Parit Padang Global",
+      "business_type": "Distribusi Farmasi",
+      "total_assets": 5716706,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Soho Industri Pharmasi",
+      "business_type": "Industri Farmasi",
+      "total_assets": 939680,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Universal Health Network",
+      "business_type": "Penjualan Langsung (direct Selling Multi Level Marketing Business)",
+      "total_assets": 26033,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Soho Global Medika",
+      "business_type": "Perdagangan Besar Alat Kesehatan",
+      "total_assets": 0,
+      "ownership_percentage": 99.8
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "24.431.488.600.750",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:23.217Z"
+}

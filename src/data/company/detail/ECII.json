@@ -1,0 +1,375 @@
+{
+  "company_name": "PT Electronic City Indonesia Tbk.",
+  "ticker": "ECII",
+  "office_address": "Jl. Jend Sudirman Kav. 52-53, Sudirman Central Business District Lot 22, Senayan, Kebayoran Baru, Jakarta Selatan 12190",
+  "email": "corporatesecretary@electronic-city.co.id",
+  "phone": "0215151177",
+  "fax": "021515 5919",
+  "tax_id": "0022254122054000",
+  "website": "https://www.corp.electronic-city.com",
+  "listing_date": "2013-07-03",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Ritel Produk Elektronik",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 89,
+    "name": "Ritel Elektronik",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Widi Satya Chitra",
+    "email": "corporatesecretary@electronic-city.co.id",
+    "phone": "021-5151177"
+  },
+  "directors": [
+    {
+      "name": "Lyvia Mariana",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wiradi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fa Tri Agus Winarko Hs",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lenny Susilawaty Jamadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Iskandar",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Widi Satya Chitra",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hartono Tjahjadi Adiwana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Josephine Sukmadewi Karjadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ku Siew Kuan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ratu Tisha Destria",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Vivi Henny",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lino Triasa Wangsadjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Vivi Henny",
+      "position": "Ketua"
+    },
+    {
+      "name": "Franky Agustino",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ismail Apipuddin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 397327305,
+      "percentage": 29.78
+    },
+    {
+      "name": "PT Graha Surya Kirana",
+      "type": "Lebih dari 5%",
+      "shares": 341250000,
+      "percentage": 25.57
+    },
+    {
+      "name": "PT Artha Graha Network",
+      "type": "Lebih dari 5%",
+      "shares": 308850000,
+      "percentage": 23.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 166241500,
+      "percentage": 12.46
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 119451195,
+      "percentage": 8.95
+    },
+    {
+      "name": "Fa Tri Agus Winarko",
+      "type": "Direksi",
+      "shares": 629300,
+      "percentage": 0.05
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 517000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Michael Iskandar",
+      "type": "Direksi",
+      "shares": 500,
+      "percentage": 0
+    },
+    {
+      "name": "Josephine Sukmadewi K.",
+      "type": "Komisaris",
+      "shares": 17500,
+      "percentage": 0
+    },
+    {
+      "name": "Lyvia Mariana",
+      "type": "Direksi",
+      "shares": 32500,
+      "percentage": 0
+    },
+    {
+      "name": "Wiradi",
+      "type": "Direksi",
+      "shares": 15000,
+      "percentage": 0
+    },
+    {
+      "name": "Widi Satya Chitra",
+      "type": "Direksi",
+      "shares": 1200,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kirana Cipta Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 281603026719,
+      "ownership_percentage": 99.53
+    },
+    {
+      "name": "PT Kirana Cipta Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 281603026719,
+      "ownership_percentage": 99.53
+    },
+    {
+      "name": "PT Kirana Cipta Propertindo",
+      "business_type": "Menjalankan Usaha di Bidang Pembangunan, Perdagangan dan Jasa di Bidang Properti",
+      "total_assets": 281456559742,
+      "ownership_percentage": 99.53
+    },
+    {
+      "name": "PT Kirana Cipta Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 280133713910,
+      "ownership_percentage": 99.53
+    },
+    {
+      "name": "PT Kirana Cipta Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 280133713910,
+      "ownership_percentage": 99.53
+    },
+    {
+      "name": "PT Kirana Cipta Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 280133713910,
+      "ownership_percentage": 99.53
+    },
+    {
+      "name": "PT Griya Pusaka Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 103272901805,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Griya Pusaka Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 103272901805,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Griya Pusaka Propertindo",
+      "business_type": "Menjalankan Usaha di Bidang Pembangunan,perdagangan dan Jasa Dibidang Properti",
+      "total_assets": 102141389681,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Griya Pusaka Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 102141389680,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Griya Pusaka Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 102141389680,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Griya Pusaka Propertindo",
+      "business_type": "Bidang Properti",
+      "total_assets": 102141389680,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Elang Cakrawala Inti",
+      "business_type": "Bidang Perdagangan",
+      "total_assets": 24972591336,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Elang Cakrawala Inti",
+      "business_type": "Bidang Perdagangan",
+      "total_assets": 24972591336,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Grooceries City Indonesia",
+      "business_type": "Bidang Perdagangan Kecil",
+      "total_assets": 23298808262,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Grooceries City Indonesia",
+      "business_type": "Bidang Perdagangan Kecil",
+      "total_assets": 23298808262,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Elang Cakrawala Inti",
+      "business_type": "Menjalankan Usaha di Bidang Perdagangan Besar Berdasarkan Kontrak, Konsultan Manajemen dan Lain-lain.",
+      "total_assets": 8205133231,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Elang Cakrawala Inti",
+      "business_type": "Bidang Perdagangan",
+      "total_assets": 8205133231,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Elang Cakrawala Inti",
+      "business_type": "Bidang Perdagangan",
+      "total_assets": 8205133231,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Elang Cakrawala Inti",
+      "business_type": "Bidang Perdagangan",
+      "total_assets": 8205133231,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Grooceries City Indonesia",
+      "business_type": "Bidang Perdagangan Kecil",
+      "total_assets": 62044340,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Grooceries City Indonesia",
+      "business_type": "Bidang Perdagangan Kecil",
+      "total_assets": 62044340,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Grooceries City Indonesia",
+      "business_type": "Bidang Perdagangan Kecil",
+      "total_assets": 62044340,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "229.505.276.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:47.618Z"
+}

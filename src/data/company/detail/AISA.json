@@ -1,0 +1,171 @@
+{
+  "company_name": "PT Fks Food Sejahtera Tbk",
+  "ticker": "AISA",
+  "office_address": "Menara Astra Lantai 29, Jalan Jend. Sudirman Kav 5-6, Karet Tengsin, Jakarta Pusat 10220",
+  "email": "corporate.secretary@fksfs.co.id",
+  "phone": "021 - 50889898",
+  "fax": "021 - 50889838",
+  "tax_id": "01.504.513.1-054.000",
+  "website": "https://www.fksfs.co.id",
+  "listing_date": "1997-06-11",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan besar",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Ivan Gunawan",
+    "email": "corporate.secretary@fksfs.co.id",
+    "phone": "021-5088 9898"
+  },
+  "directors": [
+    {
+      "name": "Gerry Mustika",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sukawati Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Farry Ongko Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Komjen (purn) Dr. Drs. H. Ito Sumardi D.s., S.h., m.h., M.m., M.b.a.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lim Aun Seng",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Herwan Ng",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Herwan, Ng",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nancy Nataleo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dr. Ito Sumardi Ds, S.h., m.h., Mba., M.m.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pangan Sejahtera Investama",
+      "type": "Lebih dari 5%",
+      "shares": 5449978300,
+      "percentage": 58.5277
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2419819728,
+      "percentage": 25.9866
+    },
+    {
+      "name": "PT Asta Askara Sentosa",
+      "type": "Lebih dari 5%",
+      "shares": 1441374472,
+      "percentage": 15.479
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 627500,
+      "percentage": 0.0067
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.145.351.400.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:19.912Z"
+}

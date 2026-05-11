@@ -1,0 +1,202 @@
+{
+  "company_name": "Island Concepts Indonesia Tbk",
+  "ticker": "ICON",
+  "office_address": "Jimbaran Hub, Jl. Karangmas Kecamatan Kuta Selatan, Kabupaten Badung, Bali-80361",
+  "email": "corpsec@islandconcepts.id",
+  "phone": "(0361) 620 2424",
+  "fax": "0",
+  "tax_id": "02.217.567.3-901.000",
+  "website": "https://www.islandconcepts.id",
+  "listing_date": "2005-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Akomodasi, Konsultasi dan Katering",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 27,
+    "name": "Jasa Pendukung Bisnis",
+    "industries_id": 14
+  },
+  "corporate_secretary": {
+    "name": "Nengsih Wahyuni",
+    "email": "corpsec@islandconcepts.id",
+    "phone": "(021) 78843534, (0361) 6202424"
+  },
+  "directors": [
+    {
+      "name": "Octavianus Kuntjoro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dr.putu Agung Prianta B.eng(hons), Ma",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "R. Iskandar Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Vita Diani Satiadhi",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Cynthia Afriani, Se, Me",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Cynthia Afriani Se., Me.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Siti Nuryanah, Se, Mm, Mba, Phd",
+      "position": "Anggota"
+    },
+    {
+      "name": "Triyono, Mm",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Prof. Dr. Ir. Anastasia Sulistyawati, M.s.,m.m,d.th",
+      "type": "Lebih dari 5%",
+      "shares": 378803694,
+      "percentage": 34.76
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 308210541,
+      "percentage": 28.28
+    },
+    {
+      "name": "PT Trust Penata Propertindo",
+      "type": "Lebih dari 5%",
+      "shares": 158427624,
+      "percentage": 14.54
+    },
+    {
+      "name": "PT Anugerah Griya Persada",
+      "type": "Lebih dari 5%",
+      "shares": 85895000,
+      "percentage": 7.88
+    },
+    {
+      "name": "Island Regency Group Limited",
+      "type": "Lebih dari 5%",
+      "shares": 62187000,
+      "percentage": 5.71
+    },
+    {
+      "name": "PT Asabri (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 54669376,
+      "percentage": 5.02
+    },
+    {
+      "name": "Putu Agung Prianta",
+      "type": "Direksi",
+      "shares": 23364000,
+      "percentage": 2.14
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 18188000,
+      "percentage": 1.67
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Octavianus Kuntjoro",
+      "type": "Direksi",
+      "shares": 4765,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bhumi Lestari Makmur",
+      "business_type": "Real Estate",
+      "total_assets": 226960323435,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Patra Supplies And Services",
+      "business_type": "Katering",
+      "total_assets": 115639041936,
+      "ownership_percentage": 50
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "153.654.750.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:04.631Z"
+}

@@ -1,0 +1,440 @@
+{
+  "company_name": "PT Xolare Rcr Energy Tbk",
+  "ticker": "SOLA",
+  "office_address": "Gedung Plaza Simatupang Lt. 6 Jl. Tb Simatupang Kav. Is No. 01 Pondok Pinang, Kebayoran Lama, Jakarta Selatan, Dki Jakarta 12310",
+  "email": "corsec@xolare.co.id",
+  "phone": "(021) 22702295",
+  "fax": "(021) 22702295",
+  "tax_id": "0723 5534 8301 2000",
+  "website": "https://www.xolare.co.id",
+  "listing_date": "2024-05-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Aspal dan Jasa Konstruksi, serta Industri Pengolahan Aspal dan Jasa Konstruksi melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Dinda Oktavia, Sh",
+    "email": "corsec@xolare.co.id",
+    "phone": "02122702295"
+  },
+  "directors": [
+    {
+      "name": "Mochamad Bhadaiwi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Imam Buchairi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Elvis Subiantoro",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hasnan Riswandi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Winardi Sani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Achmad Alwi, Sh.",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ramdani Eka Saputra, Se., Sh, Mm, MH",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ramdani Eka Saputra Se. Sh. Mm. MH",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hendra Railis",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maimirza",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Energi Hijau Investama",
+      "type": "Lebih dari 5%",
+      "shares": 1900000000,
+      "percentage": 57.91
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 623777700,
+      "percentage": 18.819
+    },
+    {
+      "name": "PT Xolabit Terminal Bitumen",
+      "type": "Lebih dari 5%",
+      "shares": 307870750,
+      "percentage": 9.381
+    },
+    {
+      "name": "PT Asha Raharja Persada",
+      "type": "Lebih dari 5%",
+      "shares": 260208250,
+      "percentage": 7.93
+    },
+    {
+      "name": "Mochamad Bhadaiwi",
+      "type": "Direksi",
+      "shares": 125788900,
+      "percentage": 3.83
+    },
+    {
+      "name": "Imam Buchairi",
+      "type": "Direksi",
+      "shares": 68412500,
+      "percentage": 2.08
+    },
+    {
+      "name": "Elvis Subiantoro",
+      "type": "Direksi",
+      "shares": 500000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Dr. Winardi Sani",
+      "type": "Komisaris",
+      "shares": 500000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Achmad Alwi, Sh.",
+      "type": "Komisaris",
+      "shares": 316900,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hasnan Riswandi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ramdani Eka Saputra, Se., Sh, Mm, MH",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Aplikasi Bitumen Indonesia",
+      "business_type": "Konstruksi Industri Perdagangan dan Pengangkutan",
+      "total_assets": 49803809213,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aspal Polimer Emulsindo",
+      "business_type": "Konstruksi Industri Perdagangan dan Pengangkutan",
+      "total_assets": 40343487484,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aspal Polimer Emulsindo",
+      "business_type": "Konstruksi Industri Perdagangan dan Pengangkutan",
+      "total_assets": 30685572110,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aspal Polimer Emulsindo",
+      "business_type": "Konstruksi Industri Perdagangan dan Pengangkutan",
+      "total_assets": 30685572110,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aspal Polimer Emulsindo",
+      "business_type": "Konstruksi Industri Perdagangan dan Pengangkutan",
+      "total_assets": 30685572110,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Modifikasi Bitumen Sumatera",
+      "business_type": "Industri Pertambangan, Ketenagalistirikan, Konstruksi dan Perdagangan",
+      "total_assets": 23666935640,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Modifikasi Bitumen Sumatera",
+      "business_type": "Industri Pertambangan, Ketenagalistirikan, Konstruksi dan Perdagangan",
+      "total_assets": 23666935640,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Modifikasi Bitumen Sumatera",
+      "business_type": "Industri Pertambangan, Ketenagalistirikan, Konstruksi dan Perdagangan",
+      "total_assets": 23666935640,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Modifikasi Bitumen Sumatera",
+      "business_type": "Industri Pertambangan, Ketenagalistirikan, Konstruksi dan Perdagangan",
+      "total_assets": 21516187884,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Xolabit Bitumen Industri",
+      "business_type": "Pertambangan, Industri dan Perdagangan",
+      "total_assets": 19506790294,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumiraya Energi Hijau",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 13444180786,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bumiraya Energi Hijau",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 5305965661,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bumiraya Energi Hijau",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 5305965661,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bumiraya Energi Hijau",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 5305965661,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Xolabit Bitumen Borneo",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 5071958164,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Xolabit Bitumen Borneo",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 5071958164,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Xolabit Bitumen Borneo",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 5071958164,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Xolabit Bitumen Industri",
+      "business_type": "Pertambangan, Industri dan Perdagangan",
+      "total_assets": 4401769364,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Xolabit Bitumen Industri",
+      "business_type": "Pertambangan, Industri dan Perdagangan",
+      "total_assets": 4401769364,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Xolabit Bitumen Industri",
+      "business_type": "Pertambangan, Industri dan Perdagangan",
+      "total_assets": 4401769364,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aplikasi Bitumen Indonesia",
+      "business_type": "Konstruksi Industri Perdagangan dan Pengangkutan",
+      "total_assets": 4105145218,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aplikasi Bitumen Indonesia",
+      "business_type": "Konstruksi Industri Perdagangan dan Pengangkutan",
+      "total_assets": 4105145218,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aplikasi Bitumen Indonesia",
+      "business_type": "Konstruksi Industri Perdagangan dan Pengangkutan",
+      "total_assets": 4105145218,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Xolabit Bitumen Borneo",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 3532305223,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Hidro Lestari",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bumi Hidro Lestari",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bumi Hidro Lestari",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bumi Hidro Lestari",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Energi Hidro Investama",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Hidro Investama",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Hidro Investama",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Hidro Investama",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Hendrawinata Hanny Erwin & Sumargo"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "410.921.875.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:24.654Z"
+}

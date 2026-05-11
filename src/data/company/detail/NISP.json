@@ -1,0 +1,277 @@
+{
+  "company_name": "PT Bank Ocbc Nisp Tbk",
+  "ticker": "NISP",
+  "office_address": "Ocbc Tower Jl. Prof. Dr. Satrio Kav. 25 Jakarta Selatan 12940",
+  "email": "corporate.secretariat@ocbc.id",
+  "phone": "(021) 25533888",
+  "fax": "(021) 57944000",
+  "tax_id": "01.104.919.4-091.000",
+  "website": "https://www.ocbc.id",
+  "listing_date": "1994-10-20",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Murti Kusuma Dewi",
+    "email": "corporate.secretariat@ocbc.id",
+    "phone": "(021) 25533888"
+  },
+  "directors": [
+    {
+      "name": "Lili S. Budiana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "The Ka Jit",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Parwati Surjaudaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hartati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Martin Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andrae Krishnawan W.",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Johannes Husin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heriyanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Pramukti Surjaudaja",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tan Teck Long",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jusuf Halim",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Betti S. Alisjahbana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Na Wu Beng",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nicholas Tan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hartadi Agus Sarwono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Noel Gerald Dcruz",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Betti S. Alisjahbana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hartadi Agus Sarwono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rudy Dekriadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lioe Fei Ling",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ocbc Overseas Investments Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 19521391224,
+      "percentage": 85.078
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3184301563,
+      "percentage": 13.861
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 239604185,
+      "percentage": 1.037
+    },
+    {
+      "name": "Parwati Surjaudaja",
+      "type": "Direksi",
+      "shares": 3334420,
+      "percentage": 0.015
+    },
+    {
+      "name": "Pramukti Surjaudaja",
+      "type": "Komisaris",
+      "shares": 451942,
+      "percentage": 0.002
+    },
+    {
+      "name": "Hartati",
+      "type": "Direksi",
+      "shares": 324000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Martin Widjaja",
+      "type": "Direksi",
+      "shares": 324000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Andrae Krishnawan W",
+      "type": "Direksi",
+      "shares": 324000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Johannes Husin",
+      "type": "Direksi",
+      "shares": 108000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Ka Jit",
+      "type": "Direksi",
+      "shares": 216000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Lili S Budiana",
+      "type": "Direksi",
+      "shares": 216000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Heriyanto",
+      "type": "Direksi",
+      "shares": 228000,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Ocbc Nisp Ventura",
+      "business_type": "Melakukan Kegiatan Pembiayaan dalam Bentuk Penyertaan Modal ke dalam Suatu Perusahaan",
+      "total_assets": 252841,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "30.098.403.242.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:18.324Z"
+}

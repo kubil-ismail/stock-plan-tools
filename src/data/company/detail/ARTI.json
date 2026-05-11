@@ -1,0 +1,189 @@
+{
+  "company_name": "Ratu Prabu Energi Tbk",
+  "ticker": "ARTI",
+  "office_address": "Gedung Ratu Prabu 1 Lantai. 9 Jl. Tb. Simatupang Kav. 20 Jakarta 12560 - Indonesia.",
+  "email": "corsec@ratuprabuenergi.com",
+  "phone": "(021) 7883-6836",
+  "fax": "(021) 780-8037",
+  "tax_id": "01.703.684.9-054.000",
+  "website": "https://www.ratuprabuenergi.com",
+  "listing_date": "2003-04-30",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Crude Petroleum and Natural Gas Prod.",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Energi.",
+    "business_tags": [
+      "Properti",
+      "Energi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Mdj Thomas Say",
+    "email": "corsec@rpenergi.com",
+    "phone": "021-78836836"
+  },
+  "directors": [
+    {
+      "name": "B. Bur Maras",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gemilang Zaharin",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Glenn Boyd Lapian",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Gregory Q Maras",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Pradnando A Ronoamiseno",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pradnando A. Ronoamiseno",
+      "position": "Ketua"
+    },
+    {
+      "name": "Doni Sumarwan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yeni A. Nurhidayani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4368652563,
+      "percentage": 55.72
+    },
+    {
+      "name": "PT Ratu Prabu",
+      "type": "Lebih dari 5%",
+      "shares": 2591776837,
+      "percentage": 33.06
+    },
+    {
+      "name": "Dp Bukit Asam",
+      "type": "Lebih dari 5%",
+      "shares": 735000000,
+      "percentage": 9.37
+    },
+    {
+      "name": "Pradnando A. Ronoamiseno",
+      "type": "Komisaris",
+      "shares": 120463000,
+      "percentage": 1.54
+    },
+    {
+      "name": "B. Bur Maras",
+      "type": "Direksi",
+      "shares": 22732600,
+      "percentage": 0.29
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1375000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Lekom Maras",
+      "business_type": "Properti, Oil & Gas Services",
+      "total_assets": 1207309783965,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Ratu Prabu Tiga",
+      "business_type": "Properti",
+      "total_assets": 280798172,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "15.680.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:25.152Z"
+}

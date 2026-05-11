@@ -1,0 +1,357 @@
+{
+  "company_name": "Tira Austenite Tbk",
+  "ticker": "TIRA",
+  "office_address": "Kawasan Industri Pulo Gadung Jl. Pulo Ayang Kav. R.1, Jakarta 13930",
+  "email": "headoffice@tiraaustinite.com",
+  "phone": "(021) 460 2594",
+  "fax": "(021) 460 2593",
+  "tax_id": "01.300.575.6-054.000",
+  "website": "https://www.tiraaustenite.com",
+  "listing_date": "1993-07-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Perdagangan Aneka Barang Perindustrian.",
+    "business_tags": [
+      "Perdagangan Aneka Barang Perindustrian"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 46,
+    "name": "Perdagangan Aneka Barang Perindustrian"
+  },
+  "sub_industry": {
+    "id": 71,
+    "name": "Perdagangan Aneka Barang Perindustrian",
+    "industries_id": 46
+  },
+  "corporate_secretary": {
+    "name": "Soeseno Adi",
+    "email": "soeseno.adi@tiraaustenite.com",
+    "phone": "0214602594"
+  },
+  "directors": [
+    {
+      "name": "Totok Indratno",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Soeseno Adi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Stephen Ten",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Harry Kurniawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Selo Winardi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rudianto Darmawan Santoso",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Abyasa Kamdani",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ely",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harry Kurniawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ely",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rianita Soelaiman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Widjajatunggal Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 259426340,
+      "percentage": 44.12
+    },
+    {
+      "name": "PT. Martensite Unggul",
+      "type": "Lebih dari 5%",
+      "shares": 168091694,
+      "percentage": 28.58
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 111391266,
+      "percentage": 18.95
+    },
+    {
+      "name": "Prayoga Putera Utama",
+      "type": "Lebih dari 5%",
+      "shares": 47701700,
+      "percentage": 8.11
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1388000,
+      "percentage": 0.24
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 53066831606,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 52582894002,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 52353123704,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 52353123704,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 52353123704,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 52353123704,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 52353123704,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 52353123704,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Alpha Austenite",
+      "business_type": "Industri Cetakan dan Kawat Las",
+      "total_assets": 51888095880,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Alpha Austenite",
+      "business_type": "Industri Cetakan (moulding) dan Kawat Las",
+      "total_assets": 50393160822,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tira Andalan Steel (tas)",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24414865318,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24248371499,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24248371499,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24248371499,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24248371499,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24248371499,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24248371499,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24248371499,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24248371499,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Tira Andalan Steel",
+      "business_type": "Perdagangan Baja",
+      "total_assets": 24226910426,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 9954055723,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 3962302929,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 3962302929,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 3962302929,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 3962302929,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 3962302929,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT. Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 3962302929,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Genta Laras Semesta (gls)",
+      "business_type": "Perdagangan",
+      "total_assets": 3526775236,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 3189490965,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Genta Laras Semesta",
+      "business_type": "Perdagangan",
+      "total_assets": 2623453228,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "511.560.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:30.318Z"
+}

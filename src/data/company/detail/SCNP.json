@@ -1,0 +1,223 @@
+{
+  "company_name": "PT Selaras Citra Nusantara Perkasa Tbk",
+  "ticker": "SCNP",
+  "office_address": "Jalan Raya Narogong Km.19 Dusun Pasir Angin, Cileungsi, Bogor, Jawa Barat 16820",
+  "email": "corsec@scnp.co.id",
+  "phone": "(021) 8233320",
+  "fax": "(021) 8230232",
+  "tax_id": "001.962.089.7-436.000",
+  "website": "https://www.scnp.co.id",
+  "listing_date": "2020-09-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Peralatan Elektronik Rumah Tangga",
+    "business_summary": "Perusahaan bergerak di bidang Peralatan Rumah Tangga.",
+    "business_tags": [
+      "Peralatan Rumah Tangga"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 66,
+    "name": "Peralatan Rumah Tangga",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Tumpal M. Sihombing",
+    "email": "corsec@scnp.co.id",
+    "phone": "(021) 8233320"
+  },
+  "directors": [
+    {
+      "name": "Djamarwie",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "O Rajini Kanthan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ivanna Nursalim",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendrik Nursalim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Liris Suryanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Liris Suryanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Zulfitry Ramdan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Setiyo Bonorowanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sena Dwimakmur",
+      "type": "Lebih dari 5%",
+      "shares": 1125005660,
+      "percentage": 45
+    },
+    {
+      "name": "PT Generasi Dua Sukses Terus",
+      "type": "Lebih dari 5%",
+      "shares": 666661000,
+      "percentage": 26.667
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 307665100,
+      "percentage": 12.307
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 192334900,
+      "percentage": 7.693
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 166666672,
+      "percentage": 6.667
+    },
+    {
+      "name": "Hendrik Nursalim",
+      "type": "Komisaris",
+      "shares": 41666668,
+      "percentage": 1.666
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Turbo Elektro Domestici (ted)",
+      "business_type": "Perdagangan",
+      "total_assets": 20254887594,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Selaras Turbo Elektronik Indonesia (stei)",
+      "business_type": "Perdagangan",
+      "total_assets": 4162439315,
+      "ownership_percentage": 99.95
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "407.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:26.877Z"
+}

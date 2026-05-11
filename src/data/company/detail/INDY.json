@@ -1,0 +1,781 @@
+{
+  "company_name": "Indika Energy Tbk",
+  "ticker": "INDY",
+  "office_address": "Gedung Mitra Lantai 3, Jl. Jend. Gatot Subroto Kav.21, Jakarta 12930",
+  "email": "info@indikaenergy.co.id",
+  "phone": "(021) 25579888",
+  "fax": "(021) 25579889",
+  "tax_id": "02.015.553.7-091.000",
+  "website": "https://www.indikaenergy.co.id",
+  "listing_date": "2008-06-11",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Batubara, Teknologi, Kesehatan, Properti, Energi, Logistik, Konstruksi, Manufaktur, Otomotif, Keuangan.",
+    "business_tags": [
+      "Agribisnis",
+      "Batubara",
+      "Teknologi",
+      "Kesehatan",
+      "Properti",
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Manufaktur",
+      "Otomotif",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "batubara",
+      "coal",
+      "mining",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Adi Pramono",
+    "email": "corporate.secretary@indikaenergy.co.id",
+    "phone": "+6221 2557 9888"
+  },
+  "directors": [
+    {
+      "name": "Azis Armand",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Retina Rosabai",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Deddy Hariyanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Johanes Ispurnawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kamen Kamenov Palatov",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Agus Lasmono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Wishnu Wardhana",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nurcahya Basuki",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "M. Arsjad Rasjid P.m.",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Farid Harianto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Eko Putro Sandjojo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eko Putro Sandjojo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Osman Sitorus",
+      "position": "Anggota"
+    },
+    {
+      "name": "Harry Ponto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Suhardi Alius",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tonyadi Halim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indika Inti Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 1968882699,
+      "percentage": 37.789
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1487700220,
+      "percentage": 28.554
+    },
+    {
+      "name": "PT Teladan Resources",
+      "type": "Lebih dari 5%",
+      "shares": 1463155591,
+      "percentage": 28.083
+    },
+    {
+      "name": "Pandri Prabono-moelyo",
+      "type": "Lebih dari 5%",
+      "shares": 265406200,
+      "percentage": 5.093
+    },
+    {
+      "name": "Agus Lasmono, B.a, Mba.",
+      "type": "Komisaris",
+      "shares": 10156000,
+      "percentage": 0.195
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 7500000,
+      "percentage": 0.144
+    },
+    {
+      "name": "Wishnu Wardhana",
+      "type": "Komisaris",
+      "shares": 4775280,
+      "percentage": 0.092
+    },
+    {
+      "name": "M. Arsjad Rasjid P.m., Bsc",
+      "type": "Komisaris",
+      "shares": 1208000,
+      "percentage": 0.023
+    },
+    {
+      "name": "Azis Armand, Se., Mup.",
+      "type": "Direksi",
+      "shares": 1208000,
+      "percentage": 0.023
+    },
+    {
+      "name": "Johanes Ispurnawan",
+      "type": "Direksi",
+      "shares": 200000,
+      "percentage": 0.004
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 10,
+      "percentage": 0
+    },
+    {
+      "name": "Nurcahya Basuki",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Farid Harianto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eko Putro Sandjojo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Retina Rosabai",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Deddy Hariyanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kamen Kamenov Palatov",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indika Inti Corpindo",
+      "business_type": "Investasi dan Perdagangan Umum",
+      "total_assets": 1202862403,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kideco Jaya Agung",
+      "business_type": "Pertambangan",
+      "total_assets": 537299893,
+      "ownership_percentage": 91
+    },
+    {
+      "name": "PT Tripatra Multi Energi",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Percetakan, Perbengkelan,pengangkutan dan Jasa",
+      "total_assets": 498650069,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Mineral Investindo",
+      "business_type": "Perawatan Mobil dan Sepeda Motor; Jasa Penyewaan dan Leasing; Jasa Profesional, Ilmiah dan Teknis; Pertambangan dan Penggalian; Jasa Keuangan dan Asuransi; Serta Aktivitas Jasa Lainnya",
+      "total_assets": 414045556,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Nusantara Resources Limited",
+      "business_type": "Eksplorasi Pertambangan dan Mineral",
+      "total_assets": 347692632,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indika Capital Pte. Ltd.",
+      "business_type": "Pemasaran dan Investasi",
+      "total_assets": 345752610,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Masmindo Dwi Area",
+      "business_type": "Pengangkutan dan Penjualan Komoditas Tambang Mineral Logam",
+      "total_assets": 334025232,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tripatra Engineers And Constructors",
+      "business_type": "Jasa Konsultasi, Konstruksi, Bisnis,perdagangan dan Industri",
+      "total_assets": 230441655,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Interport Mandiri Utama",
+      "business_type": "Jasa Manajemen dan Perdagangan",
+      "total_assets": 201098897,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Energy Infrastructure",
+      "business_type": "Perdagangan, Pembangunan dan Jasa",
+      "total_assets": 191611286,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prasarana Energi Indonesia",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Percetakan, Perbengkelan, Pengangkutan dan Jasa",
+      "total_assets": 162423678,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Prasarana Energi Cirebon",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Percetakan, Perbengkelan, Pengangkutan dan Jasa",
+      "total_assets": 162092432,
+      "ownership_percentage": 25
+    },
+    {
+      "name": "PT Indika Multi Energi Internasional",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian, Pertanian, Percetakan, Perbengkelan, Pengangkutan dan Jasa",
+      "total_assets": 161313536,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Indonesia Resources",
+      "business_type": "Pertambangan dan Perdagangan Dasar",
+      "total_assets": 101801523,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Interport Mandiri Abadi",
+      "business_type": "Perdagangan Umum, Jasa Penyewaan dan Leasing, Jasa Profesional, Ilmiah dan Teknis, Perumahan, Jasa Keuangan dan Asuransi, Serta Aktivitas Perusahaan Induk",
+      "total_assets": 94635563,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Multi Properti",
+      "business_type": "Konstruksi, Real Estate, dan Perdagangan",
+      "total_assets": 85039576,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kariangau Gapura Terminal Energi",
+      "business_type": "Jasa Pengurusan Transportasi, Perdagangan dan Jasa Lainnya",
+      "total_assets": 81991856,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Mobilitas Indonesia",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis, Industry Pengolahan, Perdagangan Besar dan Eceran, Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin, Serta Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak Opsi, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya",
+      "total_assets": 76214080,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indika Power Investments Pte. Ltd",
+      "business_type": "Investasi",
+      "total_assets": 62454017,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indika Capital Investments Pte. Ltd",
+      "business_type": "Perdagangan Batubara dan Mineral Serta Perdagangan Umum",
+      "total_assets": 58414793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Logistic & Support Services",
+      "business_type": "Pengelolaan Pelabuhan",
+      "total_assets": 45824025,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Digital Teknologi",
+      "business_type": "Jasa, Perdagangan Umum, Percetakan dan Jasa Lainnya",
+      "total_assets": 43564249,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ilectra Motor Group",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis, Industry Pengolahan, Perdagangan Besar dan Eceran, Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin, Serta Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak Opsi, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya/",
+      "total_assets": 34688534,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perkasa Investama Mineral",
+      "business_type": "Perdagangan Besar Logam dan Bijih Logam, Aktivitas Konsultasi Manajemen Lainnya, Perdagangan Besar Bahan Bakar Padat, Cair dan Gas, Perdagangan Besar Atas Dasar Balas Jasa (fee) atau Kontrak",
+      "total_assets": 34296857,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalista Nusa Armada",
+      "business_type": "(1) Aktivitas Penyewaan, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya; (2) Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor dan (3) Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin/",
+      "total_assets": 31860658,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indika Energy Trading Pte. Ltd",
+      "business_type": "Perdagangan Batubara dan Mineral Serta Perdagangan Umum",
+      "total_assets": 29050895,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Indika Ventures Pte. Ltd.",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 28637891,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tripatra Engineering",
+      "business_type": "Jasa Konsultasi untuk Bidang-bidang Konstruksi, Industri dan Infrasruktur",
+      "total_assets": 28401031,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Natura Aromatik Nusantara",
+      "business_type": "Industri Pengolahan",
+      "total_assets": 28091902,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cotrans Asia",
+      "business_type": "Jasa Pengangkutan Batubara",
+      "total_assets": 27862775,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Kalista Soter Hastia",
+      "business_type": "Aktivitas Penyewaan, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya; (2) Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor dan (3) Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin/",
+      "total_assets": 25644051,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jaya Bumi Paser",
+      "business_type": "Jas Pertanian, Perkebunan dan Peternakan",
+      "total_assets": 21718603,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indika Infrastruktur Investindo",
+      "business_type": "Investasi",
+      "total_assets": 21341217,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Electra Mobilitas Indonesia",
+      "business_type": "Perdagangan Besar dan Eceran Serta Aktivitas Profesional, Ilmiah dan Teknis",
+      "total_assets": 20848877,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mekko Metal Mining",
+      "business_type": "Pertambangan Bijih Bauksit/",
+      "total_assets": 20754106,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Interport Sarana Baruna",
+      "business_type": "Manajemen Pelabuhan Khusus",
+      "total_assets": 20189901,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tripatra (singapore) Pte. Ltd",
+      "business_type": "Investasi",
+      "total_assets": 16549595,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tripatra Investment Limited",
+      "business_type": "Investasi",
+      "total_assets": 15752812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalista Biru Nusantara",
+      "business_type": "Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak 100% - 2024 16.508.365 - Jakarta Opsi, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya",
+      "total_assets": 15457192,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Xapiens Teknologi Indonesia",
+      "business_type": "Jasa Teknologi Digital",
+      "total_assets": 12982121,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pahala Globalindo Energi",
+      "business_type": "Pengecer Bahan Bakar",
+      "total_assets": 12373875,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Motor Group",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis, Industry Pengolahan, Perdagangan Besar dan Eceran, Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin, Serta Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak Opsi, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya",
+      "total_assets": 11333367,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Energi Trading",
+      "business_type": "Perdagangan",
+      "total_assets": 11248986,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Electra Distribusi Indonesia",
+      "business_type": "Perdagangan Besar, Terutama Perdagangan Besar Sepda Motor, Suku Cadang Sepeda Motor dan Aksesorisnya/",
+      "total_assets": 10352372,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Makmur Buana",
+      "business_type": "Industri Pengolahan, Pengadaan Listrik, Gas, Uap/air Panas dan Udara Dingin, Perdagangan Besar dan Eceran, Reparasi dan Perawatan Mobil dan Sepeda Motor, Pembangunan Charger Listrik dan Pengadaan Bus Listrik",
+      "total_assets": 10302219,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indika Energy Capital Pte. Ltd.",
+      "business_type": "Jasa Konsultasi Bisnis dan Manajemen",
+      "total_assets": 9917091,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indika Energy Capital IV Pte. Ltd.",
+      "business_type": "Jasa Konsultasi Bisnis dan Manajemen",
+      "total_assets": 8651647,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Medika Nusantara",
+      "business_type": "Konsultasi Manajemen, Ilmiah dan Teknis, Manufaktur untuk Alat Kesehatan dan Obat Farmasi, Pedagangan Besar untuk Alat Kesehatan dan Obat Farmasi, Serta Aktivitas Penunjang Jasa Kesehatan Lainnya",
+      "total_assets": 7784149,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Salu Siwa Pty Limited",
+      "business_type": "Investasi",
+      "total_assets": 6831538,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tripatra Bioenergi Angkasa",
+      "business_type": "Usaha Industri Kimia Organik yang Menghasilkan Bahan Kimia dari Hasil Pertanian Termasuk Kayu, Getah (um) dan Minyak Nabati",
+      "total_assets": 6720627,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Electra Auto Indonesia",
+      "business_type": "Perdagangan Eceran Sepeda Motor, Suku Cadang Sepeda Motor atau Aksesorisnya dan (2) Reparasi Serta Perawatan Sepeda Motor",
+      "total_assets": 6154691,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Laras Ekosistem Organik",
+      "business_type": "Perdagangan Besar, Aktivitas Profesional, Ilmiah dan Teknis",
+      "total_assets": 5704922,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Genomik Solidaritas Indonesia",
+      "business_type": "Perdagangan, Aktivitas Profesional, Ilmiah dan Teknis, Aktivitas Kesehatan Manusia dan Aktivitas Sosial Serta Pendidikan",
+      "total_assets": 4214662,
+      "ownership_percentage": 68.6
+    },
+    {
+      "name": "PT Indika Tenaga Baru",
+      "business_type": "Pengadaan Listrik, Gas, Uap/air Panas dan Udara Dingin, Perdagangan Besar dan Eceran, Aktivitas Profesional, Ilmiah dan Teknis Serta Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak Opsi, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya",
+      "total_assets": 4152907,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalista Nayara Dayautama",
+      "business_type": "Aktivitas Penyewaan, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya; (2) Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor dan (3) Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin",
+      "total_assets": 3734831,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Interport Multi Niaga",
+      "business_type": "Jasa Pengurusan Transportasi, Perdagangan dan Jasa Lainnya",
+      "total_assets": 3551074,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bioneer Indika Group",
+      "business_type": "Aktivitas Profesional, Ilmiah dan Teknis, Yaitu Usaha Jasa Konsultasi Manajemen Lainnya, Khususnya di Bidang Kesehatan",
+      "total_assets": 3337238,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Indy Properti Indonesia",
+      "business_type": "Pembangunan, Jasa dan Perdagangan",
+      "total_assets": 2622711,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indika Capital Resources Limited",
+      "business_type": "Pembiayaan",
+      "total_assets": 2523657,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Telaga Mas Kalimantan",
+      "business_type": "Pengusahaan Hutan/",
+      "total_assets": 2397188,
+      "ownership_percentage": 95.6
+    },
+    {
+      "name": "PT Rockgeo Energi Nusantara",
+      "business_type": "Pengangkutan dan Penjualan Komoditas Tambang Mineral Logam",
+      "total_assets": 2222552,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Zebra Cross Teknologi",
+      "business_type": "Jasa Informasi Komunikasi, Jasa Profesional, Ilmiah dan Teknis, Konstruksi, Industri Pengolahan, Perdagangan Besar dan Eceran dan Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak Opsi, Ketenagakerjaan Agen Perjalanan dan Usaha Penunjang Lainnya",
+      "total_assets": 1996536,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indika Bioneer Diagnostika",
+      "business_type": "Distribusi Alat Kesehatan",
+      "total_assets": 1904192,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Interport Dirandra Syahdana",
+      "business_type": "",
+      "total_assets": 1761806,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Interport Sarana Infrastruktur Indonesia",
+      "business_type": "Manajemen Pelabuhan",
+      "total_assets": 1179690,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Interport Patimban Agung",
+      "business_type": "Konsultasi Transportasi, Konsultasi Manajemen Lainnya, Aktivitas Kantor Pusat dan Perdagangan Besar Atas Dasar Balas Jasa atau Kontrak",
+      "total_assets": 953392,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Perkasa Alumina Indonesia",
+      "business_type": "Industri Pembuatan Logam Dasar Bukan Besi",
+      "total_assets": 795910,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indika Energy Capital III Pte. Ltd",
+      "business_type": "Jasa Konsultasi Bisnis dan Manajemen",
+      "total_assets": 787595,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Baruna Nusantara",
+      "business_type": "Jasa Bongkar Muat",
+      "total_assets": 570316,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Foxconn Indika Motor",
+      "business_type": "Melakukan Kegiatan Manufaktur Kendaraan Bermotor Roda Empat atau Lebih dan Melakukan Kegiatan Manufaktur Batu Baterai",
+      "total_assets": 388675,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Industri Baterai Nusantara",
+      "business_type": "Industri Pengolahan Mencakup Pembuatan Segala Macam Baterai untuk Kendaraan Bermotor Listrik; (2) Aktivitas Profesional, Ilmiah dan Teknis dan (3) Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor/",
+      "total_assets": 347836,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Manufaktur Teknologi Baterai",
+      "business_type": "Industri Baterai untuk Kendaraan Bermotor Listrik, Mencakup Pembuatan Segala Macam Baterai untuk Kendaraan Bermotor Listrik",
+      "total_assets": 336583,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Interport Reksa Bumi",
+      "business_type": "Jasa Pengelolaan Limbah",
+      "total_assets": 308945,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Diva Perdana Pesona",
+      "business_type": "Pembangunan, Pertambangan, Perdagangan, Perindustrian, Pengangkutan, Pertanian, Peternakan/perkebunan, Percetakan, Erbengkelan dan Jasa",
+      "total_assets": 253384,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Kalista Rotom Orbita",
+      "business_type": "Aktivitas Penyewaan, Ketenagakerjaan, Agen Perjalanan dan Penunjang Usaha Lainnya; (2) Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor dan (3) Pengadaan Listrik, Gas, Uap/ Air Panas dan Udara Dingin",
+      "total_assets": 14558,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Mas Andalan Sebelumnya PT Interport Praba Prasarana",
+      "business_type": "Jasa Pengurusan Transportasi",
+      "total_assets": 12686,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "19.017.200.800.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:37.569Z"
+}

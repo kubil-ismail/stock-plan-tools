@@ -1,0 +1,206 @@
+{
+  "company_name": "PT Sinergi Multi Lestarindo Tbk",
+  "ticker": "SMLE",
+  "office_address": "Business Park Kebon Jeruk Blok I 5-6 Jl. Raya Meruya Illir, Kav.88 Meruya Utara Kembangan Jakarta Barat 11620",
+  "email": "corsec@ptsml.id",
+  "phone": "(021) 3006 7971",
+  "fax": "(021) 30067993",
+  "tax_id": "031019276035000",
+  "website": "https://www.ptsml.id",
+  "listing_date": "2024-01-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perseroan Bergerak di Bidang Perdagangan Bahan Kimia Khusus untuk Bahan Baku Makanan & Minuman, Bahan Baku Perawatan Diri, dan Bahan Baku Kimia Industri",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Arry Wahyu Riansyah",
+    "email": "corsec@ptsml.id",
+    "phone": "(021) 3006 7971"
+  },
+  "directors": [
+    {
+      "name": "Siu Min",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Liawan Yusdianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yulia Rosaline",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tanti Royani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dessy Sarendiani",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Gunawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Halim Liawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Basa Sidabutar, S.h., m.h.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Basa Sidabutar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yan Syafrin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Evie Feniyanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Sinergi Asia Corporindo",
+      "type": "Lebih dari 5%",
+      "shares": 1620720200,
+      "percentage": 69.62
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 647312848,
+      "percentage": 27.8
+    },
+    {
+      "name": "Yulia Rosaline",
+      "type": "Direksi",
+      "shares": 30060000,
+      "percentage": 1.29
+    },
+    {
+      "name": "Tanti Royani",
+      "type": "Direksi",
+      "shares": 30060000,
+      "percentage": 1.29
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "307.316.202.336",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:12.478Z"
+}

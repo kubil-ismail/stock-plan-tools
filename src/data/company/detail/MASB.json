@@ -1,0 +1,286 @@
+{
+  "company_name": "PT Bank Multiarta Sentosa Tbk",
+  "ticker": "MASB",
+  "office_address": "Grha Bank Mas Jl. Setiabudi Selatan Kav.7-8, Jakarta Selatan 12920",
+  "email": "corsec@bankmas.co.id",
+  "phone": "(021) 57906006",
+  "fax": "(021) 5790 6005",
+  "tax_id": "01.596.713.6-073.000",
+  "website": "https://www.bankmas.co.id",
+  "listing_date": "2021-06-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perbankan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Yardin Heidsyam",
+    "email": "corsec@bankmas.co.id",
+    "phone": "(021) 57906006"
+  },
+  "directors": [
+    {
+      "name": "Ho Danny Hartono",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Fely Retnowati",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Budi Afandi Winoto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rahmat Bagas Santoso",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Budi Setiawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Edwin Ariono",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hendrik Tanojo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Juwita Ekawati Winoto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nancy Herawati",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Nataliputra",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Nancy Herawati",
+      "position": "Ketua"
+    },
+    {
+      "name": "I Gde Yadnya Kusuma",
+      "position": "Anggota"
+    },
+    {
+      "name": "Simon Suhardi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danabina Sentana",
+      "type": "Lebih dari 5%",
+      "shares": 738500000,
+      "percentage": 52.67
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 378180663,
+      "percentage": 26.99
+    },
+    {
+      "name": "PT Multi Anekadana Sakti",
+      "type": "Lebih dari 5%",
+      "shares": 263750000,
+      "percentage": 18.81
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 21100000,
+      "percentage": 1.5
+    },
+    {
+      "name": "Fely Retnowati",
+      "type": "Direksi",
+      "shares": 287200,
+      "percentage": 0.02
+    },
+    {
+      "name": "Ho Danny Hartono",
+      "type": "Direksi",
+      "shares": 192900,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Kong Han / Hendrik Tanojo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Juwita Ekawati Winoto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nancy Herawati",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iwan Nataliputra",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Afandi Winoto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rahmat Bagas Santoso",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Setiawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edwin Ariono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.496.268.634.920",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:19.076Z"
+}

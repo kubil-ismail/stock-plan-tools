@@ -1,0 +1,195 @@
+{
+  "company_name": "First Media Tbk",
+  "ticker": "KBLV",
+  "office_address": "Lippo Kuningan Lantai 17 Jl. H.r. Rasuna Said Kav. B12, Kelurahan Karet Kuning, Kecamatan Setiabudi, Jakarta 12920",
+  "email": "corporate.secretary@firstmedia.co.id",
+  "phone": "021-50610558",
+  "fax": "-",
+  "tax_id": "0017073040054000",
+  "website": "https://www.firstmedia.co.id",
+  "listing_date": "2000-02-25",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Telekomunikasi & Penyedia Konten",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 16,
+    "name": "Jasa Telekomunikasi"
+  },
+  "sub_industry": {
+    "id": 33,
+    "name": "Jasa Telekomunikasi Kabel",
+    "industries_id": 16
+  },
+  "corporate_secretary": {
+    "name": "Harianda Noerlan",
+    "email": "corporate.secretary@firstmedia.com",
+    "phone": "5577727"
+  },
+  "directors": [
+    {
+      "name": "Harianda Noerlan",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Johannes Tong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rusbianto Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ganesh Chander Grover",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Widjaya Hambali",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ricky Harjanto Gunardi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lewi Sasmita Kosasih",
+      "position": "Anggota"
+    },
+    {
+      "name": "Widjaya Hambali",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 993724316,
+      "percentage": 57.04
+    },
+    {
+      "name": "PT Reksa Puspita Karya",
+      "type": "Lebih dari 5%",
+      "shares": 588167378,
+      "percentage": 33.76
+    },
+    {
+      "name": "PT Trijaya Putra Mulia",
+      "type": "Lebih dari 5%",
+      "shares": 160276213,
+      "percentage": 9.2
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Prima Wira Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 102577,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Daya Sarana Mantap",
+      "business_type": "Jasa E-commerce",
+      "total_assets": 73387,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintang Merah Perkasa Abadi",
+      "business_type": "Telekomunikasi",
+      "total_assets": 56136,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Mandiri Mantap",
+      "business_type": "Perdagangan",
+      "total_assets": 24288,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Graha Investama Andalan Terpadu",
+      "business_type": "Perdagangan",
+      "total_assets": 19018,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "209.060.148.840",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:40.569Z"
+}

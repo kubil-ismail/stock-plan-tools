@@ -1,0 +1,238 @@
+{
+  "company_name": "PT Bintang Samudera Mandiri Lines Tbk",
+  "ticker": "BSML",
+  "office_address": "Gedung Mega Plaza, Lt. 7 Lot. 7a, Jl. Hr Rasuna Said Kav. C3, Kuningan, Kel. Karet Kec, Setiabudi, Jakarta Selatan 12940",
+  "email": "corporate.secretary@bsmlines.com",
+  "phone": "021-22323392",
+  "fax": "-",
+  "tax_id": "02.693.531.2-064.000",
+  "website": "https://www.bsmllines.com",
+  "listing_date": "2021-12-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Angkutan laut dalam negeri untuk barang khusus serta perdagangan besaratas dasar balas jasa (fee) atau kontrak melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Pramayari Hardian Doktrianto",
+    "email": "corporate.secretary@bsmlines.com",
+    "phone": "021-22323392"
+  },
+  "directors": [
+    {
+      "name": "David Desanan Anan Winowod",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Pramayari Hardian Doktrianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yandi Tjendana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Iqbal",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mohamad Prapanca",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Nengah Rama Gautama",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lolok Sudjatmiko",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lolok Sujatmiko",
+      "position": "Ketua"
+    },
+    {
+      "name": "Adji Tri Anggoro",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sury Musu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Goldfive Investment Capital",
+      "type": "Lebih dari 5%",
+      "shares": 682890865,
+      "percentage": 36.91
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 442193935,
+      "percentage": 23.9
+    },
+    {
+      "name": "Nengah Rama Gautama",
+      "type": "Komisaris",
+      "shares": 259000000,
+      "percentage": 14
+    },
+    {
+      "name": "Andriansyah Prayitno",
+      "type": "Lebih dari 5%",
+      "shares": 223798600,
+      "percentage": 12.09
+    },
+    {
+      "name": "PT Sanca Griya Modalindo",
+      "type": "Lebih dari 5%",
+      "shares": 94301600,
+      "percentage": 5.1
+    },
+    {
+      "name": "David Desanan Anan Winowod",
+      "type": "Direksi",
+      "shares": 74020000,
+      "percentage": 4
+    },
+    {
+      "name": "Pramayari Hardian D",
+      "type": "Direksi",
+      "shares": 74020000,
+      "percentage": 4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bintang Samudera Mandiri Persada",
+      "business_type": "Perdagangan",
+      "total_assets": 5248575883,
+      "ownership_percentage": 99.67
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Djoko, Sidik & Indra"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "740.090.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:18.290Z"
+}

@@ -1,0 +1,363 @@
+{
+  "company_name": "Samudera Indonesia Tbk",
+  "ticker": "SMDR",
+  "office_address": "Gedung Samudera Indonesia Lt. 8 Jl. Letjen S Parman Kav. 35 Rt.004 Rw. 003 Kemanggisan – Palmerah Jakarta Barat, Dki Jakarta",
+  "email": "corporate.secretary@samudera.id",
+  "phone": "(021) 25676999",
+  "fax": "(021) 25675628",
+  "tax_id": "01.001.895.0-054.000",
+  "website": "https://0",
+  "listing_date": "1999-07-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Pelayaran Ang Laut",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Energi, Logistik.",
+    "business_tags": [
+      "Properti",
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Farida Helianti Sastrosatomo",
+    "email": "farida.helianti@samudera.id",
+    "phone": "(021) 5480088"
+  },
+  "directors": [
+    {
+      "name": "Bani Maulana Mulia",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ridwan Hamid",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Farida Helianti Sastrosatomo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tara Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Shanti Lasminingsih Poesposoetjipto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Amir Abadi Jusuf",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ken Narotama Hidayatullah",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Anugerah Pekerti",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Masli Mulia",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hoesen",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hoesen",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herwan Ng",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aria Farah Mita",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Samudera Indonesia Tangguh",
+      "type": "Lebih dari 5%",
+      "shares": 9497848000,
+      "percentage": 58
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3158355450,
+      "percentage": 19.3
+    },
+    {
+      "name": "PT Ngrumat Bondo Utomo",
+      "type": "Lebih dari 5%",
+      "shares": 2622571800,
+      "percentage": 16.02
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 968864250,
+      "percentage": 5.9
+    },
+    {
+      "name": "Masli Mulia",
+      "type": "Komisaris",
+      "shares": 65850000,
+      "percentage": 0.4
+    },
+    {
+      "name": "Bani Maulana Mulia",
+      "type": "Direksi",
+      "shares": 59938800,
+      "percentage": 0.37
+    },
+    {
+      "name": "Farida Helianti Sastrosatomo",
+      "type": "Direksi",
+      "shares": 1900000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ridwan Hamid",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tara Hidayat",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Shanti Lasminingsih Poesposoetjipto",
+      "type": "Komisaris",
+      "shares": 271700,
+      "percentage": 0
+    },
+    {
+      "name": "Ken Narotama Hidayatullah",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amir Abadi Jusuf",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anugerah Pekerti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hoesen",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Samudera Shipping Line Limited",
+      "business_type": "Pelayaran untuk Angkutan Peti Kemas",
+      "total_assets": 958959623,
+      "ownership_percentage": 65.14
+    },
+    {
+      "name": "PT Samudera Pelabuhan Indonesia",
+      "business_type": "Badan Usaha Pelabuhan",
+      "total_assets": 147312900,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Samudera Sarana Logistik",
+      "business_type": "Angkutan Multimodal",
+      "total_assets": 79547402,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Samudera Perkapalan Indonesia",
+      "business_type": "Pelayaran, Termasuk Jasa Pengangkutan Minyak dan Gas",
+      "total_assets": 78944376,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Samudera Agencies Indonesia",
+      "business_type": "Kegiatan Keagenan Kapal",
+      "total_assets": 37023133,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Silkargo Indonesia",
+      "business_type": "Logistik dan Jasa Pengurusan Transportasi",
+      "total_assets": 13379982,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perusahaan Pelayaran Cumawis",
+      "business_type": "Pelayaran, Termasuk Jasa Pengangkutan Minyak dan Gas",
+      "total_assets": 6638830,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Ista Indonesia",
+      "business_type": "Kegiatan Jasa Biro Perjalanan",
+      "total_assets": 6066109,
+      "ownership_percentage": 56.09
+    },
+    {
+      "name": "PT Samudera Indonesia Mitra Manajemen",
+      "business_type": "Kegiatan Konsultasi Manajemen",
+      "total_assets": 4731197,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Masaji Prayasa Cargo",
+      "business_type": "Jasa Angkutan Muatan International",
+      "total_assets": 4687178,
+      "ownership_percentage": 95.33
+    },
+    {
+      "name": "PT Maruzen Samudera Taiheiyo",
+      "business_type": "Jasa Logistik dan Jasa Pengurusan Transportasi",
+      "total_assets": 4310216,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Praweda Sarana Informatika",
+      "business_type": "Kegiatan Jasa It",
+      "total_assets": 3816893,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Samudera Indonesia Ship Management",
+      "business_type": "Kegiatan Keagenan Awak Kapal",
+      "total_assets": 3732868,
+      "ownership_percentage": 99.93
+    },
+    {
+      "name": "PT Galangan Samudera Madura",
+      "business_type": "Pembuatan Kapal Bermotor dan Alat-alat Apung Serta Perbaikan dan Perawatan Kapal",
+      "total_assets": 2729983,
+      "ownership_percentage": 51.28
+    },
+    {
+      "name": "PT Samudera Daya Mitra",
+      "business_type": "Jasa Konsultasi Manajemen, Jasa Penyedia dan Penyalur Tenaga Kerja",
+      "total_assets": 2658437,
+      "ownership_percentage": 75.87
+    },
+    {
+      "name": "PT Samudera Properti Indonesia",
+      "business_type": "Pembangunan, Perdagangan, Jasa dan Industri",
+      "total_assets": 2279838,
+      "ownership_percentage": 99.1
+    },
+    {
+      "name": "PT Satuan Harapan Indonesia",
+      "business_type": "Kegiatan Perdagangan dan Jasa",
+      "total_assets": 1575490,
+      "ownership_percentage": 67.56
+    },
+    {
+      "name": "Ocean Shipping, Pte., Ltd.",
+      "business_type": "Kegiatan Keagenan",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.698.708.800.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:05.300Z"
+}

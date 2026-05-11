@@ -1,0 +1,220 @@
+{
+  "company_name": "PT Fimperkasa Utama Tbk",
+  "ticker": "FIMP",
+  "office_address": "Jalan Pejaten Raya No. 34, Kel. Pejaten Barat, Kec. Pasar Minggu, Jakarta Selatan",
+  "email": "info@fimperkasautama.co.id",
+  "phone": "021-7995666",
+  "fax": "021-7995666",
+  "tax_id": "016044893071000",
+  "website": "https://www.fimperkasautama.co.id",
+  "listing_date": "2021-04-09",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bidang Konstruksi",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Udi Wahyono",
+    "email": "info@fimperkasautama.co.id",
+    "phone": "021-7995666"
+  },
+  "directors": [
+    {
+      "name": "Mohamad Mulky Thalib",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Cholid Wuryanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Faried Thalib",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Idrus",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yahya Attamimi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 235901575,
+      "percentage": 58.98
+    },
+    {
+      "name": "PT Bangun Bumi Utama",
+      "type": "Lebih dari 5%",
+      "shares": 55300000,
+      "percentage": 13.82
+    },
+    {
+      "name": "PT Karya Berkah Investama",
+      "type": "Lebih dari 5%",
+      "shares": 40300000,
+      "percentage": 10.07
+    },
+    {
+      "name": "Ferry Teja",
+      "type": "Lebih dari 5%",
+      "shares": 23595100,
+      "percentage": 5.9
+    },
+    {
+      "name": "Herry Wibowo",
+      "type": "Lebih dari 5%",
+      "shares": 20504300,
+      "percentage": 5.13
+    },
+    {
+      "name": "Faried Thalib",
+      "type": "Komisaris",
+      "shares": 12200000,
+      "percentage": 3.05
+    },
+    {
+      "name": "Mohamad Mulky Thalib",
+      "type": "Direksi",
+      "shares": 12200000,
+      "percentage": 3.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Fimperkasa Utama Tbk",
+      "business_type": "Konstruksi",
+      "total_assets": 32540386152,
+      "ownership_percentage": 53.45
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "27.600.067.275",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:24.536Z"
+}

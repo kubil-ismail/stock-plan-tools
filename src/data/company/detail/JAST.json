@@ -1,0 +1,252 @@
+{
+  "company_name": "PT Jasnita Telekomindo Tbk.",
+  "ticker": "JAST",
+  "office_address": "E-trade Building Lt. 5 Suite B Jln. K.h. Wahid Hasyim No. 55, Gondangdia, Menteng Jakarta Pusat 10350",
+  "email": "corpsec@jasnita.co.id",
+  "phone": "021-2856 5288",
+  "fax": "021-391 6282",
+  "tax_id": "01.770.132.7-076.000",
+  "website": "https://www.jasnita.co.id",
+  "listing_date": "2019-05-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar Peralatan Telekomunikasi, Aktivitas Telekomunikasi Dengan Kabel, Aktivitas Telekomunikasi TanpaKabel, Aktivitas Telekomunikasi Satelit, Internet Service Provider, Jasa Sistim Komunikasi, Aktivitas Hosting dan YangBerkaitan Dengan Itu, Portal Web dan/atau Platform Digital Dengan Tujuan Komersial, Aktivitas Call Centre",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Konstruksi.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 16,
+    "name": "Jasa Telekomunikasi"
+  },
+  "sub_industry": {
+    "id": 33,
+    "name": "Jasa Telekomunikasi Kabel",
+    "industries_id": 16
+  },
+  "corporate_secretary": {
+    "name": "Nathania Olinda",
+    "email": "nathania.olinda@jasnita.co.id",
+    "phone": "021-2856 5288"
+  },
+  "directors": [
+    {
+      "name": "Sri Akhadah",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Yentoro",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Samsul Effendi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "David Yamanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Santi Simbolon",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Fariz Hutama Putra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Irwan Arifin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kennard Jr S Kurnia",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Irwan Arifin",
+      "position": "Ketua"
+    },
+    {
+      "name": "Marup Iskandar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Raden Maulana Jusuf",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 436659832,
+      "percentage": 40.34
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd A/c Kstar Capital Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 281969520,
+      "percentage": 26.05
+    },
+    {
+      "name": "PT Jast Infotek Grup",
+      "type": "Lebih dari 5%",
+      "shares": 219941120,
+      "percentage": 20.3
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 69036466,
+      "percentage": 6.38
+    },
+    {
+      "name": "Yentoro",
+      "type": "Direksi",
+      "shares": 45883300,
+      "percentage": 4.24
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 28012500,
+      "percentage": 2.59
+    },
+    {
+      "name": "Samsul Effendi",
+      "type": "Direksi",
+      "shares": 736600,
+      "percentage": 0.07
+    },
+    {
+      "name": "David Yamanto",
+      "type": "Direksi",
+      "shares": 255200,
+      "percentage": 0.02
+    },
+    {
+      "name": "Fariz Hutama Putra",
+      "type": "Komisaris",
+      "shares": 81200,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "S. Mannan, Ardiansyah & Rekan"
+    },
+    {
+      "name": "Kap Gunawan Ikhwan Abdurahman dan Rekan"
+    },
+    {
+      "name": "S. Mannan, Ardiansyah & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "107.174.998.062",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:13.983Z"
+}

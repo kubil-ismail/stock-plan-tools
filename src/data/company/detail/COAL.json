@@ -1,0 +1,202 @@
+{
+  "company_name": "PT Black Diamond Resources Tbk",
+  "ticker": "COAL",
+  "office_address": "Gedung Centennial Tower Lt 21 Unit H Jl. Jenderal Gatot Subroto No. 24-25 Jakarta Selatan 12930",
+  "email": "corporate@blackdiamondtbk.com",
+  "phone": "(021)22958323",
+  "fax": "(021) 22958324",
+  "tax_id": "81.808.260.4-012.000",
+  "website": "https://www.blackdiamontbk.com",
+  "listing_date": "2022-09-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Agianita Julinda",
+    "email": "corporate@blackdiamondtbk.com",
+    "phone": "021 22958323"
+  },
+  "directors": [
+    {
+      "name": "Donny Janson Manua",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yogi Adrian",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Arie Rinaldi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Alycius Hendry",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Alycius Hendry",
+      "position": "Ketua"
+    },
+    {
+      "name": "Imam Tedja Sedjaja S.e., Cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Robiet S.e., M.m.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 4652210500,
+      "percentage": 72.44
+    },
+    {
+      "name": "Sujaka Lays",
+      "type": "Lebih dari 5%",
+      "shares": 972789500,
+      "percentage": 15.56
+    },
+    {
+      "name": "Arie Rinaldi",
+      "type": "Lebih dari 5%",
+      "shares": 375000000,
+      "percentage": 6
+    },
+    {
+      "name": "Arie Rinaldi",
+      "type": "Komisaris",
+      "shares": 375000000,
+      "percentage": 6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Herman, Dody, Tanumihardja & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Herman, Dody, Tanumihardja & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    },
+    {
+      "name": "Kap Herman, Dody, Tanumihardja & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Ade Fatma, & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "412.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:42:24.742Z"
+}

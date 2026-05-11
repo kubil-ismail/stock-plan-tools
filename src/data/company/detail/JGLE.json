@@ -1,0 +1,219 @@
+{
+  "company_name": "PT Graha Andrasentra Propertindo Tbk.",
+  "ticker": "JGLE",
+  "office_address": "Bogor Nirwana Residence Jl. Bogor Nirwana Raya (dereded - Pahlawan) Bogor 16132",
+  "email": "info@jungleseries.co.id",
+  "phone": "0251-8211290",
+  "fax": "0251-8211295",
+  "tax_id": "01.332.635.0-431.000",
+  "website": "https://www.jungleseries.co.id",
+  "listing_date": "2016-06-29",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pembangunan dan pengelolaan taman hiburan/rekreasi serta pembangunan dan perdagangan real estate/property.",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Santoso Budi",
+    "email": "info@jungleseries.co.id",
+    "phone": "0251-8211290"
+  },
+  "directors": [
+    {
+      "name": "Resza Adikreshna",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Melky Aliandri",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Cahyono Cahya Angkasa",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Adika Nuraga Bakrie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ori Setianto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Diyan Hapsari",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ori Setianto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mohamad Hassan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Meilyn Soetiono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Surya Global Nusantara",
+      "type": "Lebih dari 5%",
+      "shares": 8753037308,
+      "percentage": 38.761
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8020678995,
+      "percentage": 35.516
+    },
+    {
+      "name": "Banque De Luxembourg - Client Account",
+      "type": "Lebih dari 5%",
+      "shares": 2767921425,
+      "percentage": 12.257
+    },
+    {
+      "name": "Efg Bank Ag",
+      "type": "Lebih dari 5%",
+      "shares": 1822592196,
+      "percentage": 8.071
+    },
+    {
+      "name": "Siauw Yunus Subandi",
+      "type": "Lebih dari 5%",
+      "shares": 1211521800,
+      "percentage": 5.365
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 6157681,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Cahyono Cahya Angkasa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adika Nuraga Bakrie",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Diyan Hapsari",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ori Setianto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Resza Adikreshna",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Melky Aliandri",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Andrasentra Properti Services",
+      "business_type": "Pengelola Hotel",
+      "total_assets": 4094,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.761.388.933.590",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:20.509Z"
+}

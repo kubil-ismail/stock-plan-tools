@@ -1,0 +1,347 @@
+{
+  "company_name": "PT Waskita Karya (persero) Tbk",
+  "ticker": "WSKT",
+  "office_address": "Jln. MT Haryono Kav. 10 Cawang, Jakarta",
+  "email": "waskita@waskita.co.id",
+  "phone": "021 8508510",
+  "fax": "21 8508506",
+  "tax_id": "01.001.614.5-093.000",
+  "website": "https://www.waskita.co.id",
+  "listing_date": "2012-12-19",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi, Industri, Realty dan Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Energi, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Ermy Puspa Yunita",
+    "email": "corporate.secretary@waskita.co.id",
+    "phone": "021-8508510"
+  },
+  "directors": [
+    {
+      "name": "Muhammad Hanugroho",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wiwi Suprihatno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ari Asmoko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Paulus Budi Kartiko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rudi Purnomo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sutrisno",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Muhammad Abdullah Syukri",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Aqila Rahmani",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Muhammad Harrifar Syafar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Abdul Rochim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hasby Muhammad Zamri",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Muhammad Abdullah Syukri",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aqila Rahmani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Subagio",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mohamad Nasir",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 21488577028,
+      "percentage": 74.595
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7318228625,
+      "percentage": 25.405
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1300,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Hanugroho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wiwi Suprihatno",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rudi Purnomo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ari Asmoko",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Paulus Budi Kartiko",
+      "type": "Direksi",
+      "shares": 63,
+      "percentage": 0
+    },
+    {
+      "name": "Sutrisno",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aqila Rahmani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ade Abdul Rochim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Harrifar Syafar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Abdullah Syukri",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hasby Muhammad Zamri",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Waskita Toll Road",
+      "business_type": "Jalan Tol",
+      "total_assets": 64910183074412,
+      "ownership_percentage": 92.53
+    },
+    {
+      "name": "PT Waskita Sriwijaya Tol",
+      "business_type": "Jalan Tol",
+      "total_assets": 18198455538450,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Waskita Bumi Wira",
+      "business_type": "Jalan Tol",
+      "total_assets": 12142779899308,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Waskita Transjawa Toll Road",
+      "business_type": "Jalan Tol",
+      "total_assets": 8917668157524,
+      "ownership_percentage": 39.5
+    },
+    {
+      "name": "PT Pemalang Batang Toll Road",
+      "business_type": "Jalan Tol",
+      "total_assets": 7665375877308,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Trans Jabar Tol",
+      "business_type": "Jalan Tol",
+      "total_assets": 6919532609085,
+      "ownership_percentage": 48.22
+    },
+    {
+      "name": "PT Waskita Karya Realty",
+      "business_type": "Property",
+      "total_assets": 6004085253016,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Transjawa Paspro Jalan Tol",
+      "business_type": "Jalan Tol",
+      "total_assets": 5875380979779,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Waskita Beton Precast Tbk",
+      "business_type": "Industri Pabrikasi",
+      "total_assets": 5118722912937,
+      "ownership_percentage": 28.21
+    },
+    {
+      "name": "PT Waskita Fim Perkasa Realti",
+      "business_type": "Property",
+      "total_assets": 1332518590065,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Waskita Karya Infrastruktur",
+      "business_type": "Industri Pabrikasi dan Investasi",
+      "total_assets": 807530171780,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Waskita Modern Realti",
+      "business_type": "Property",
+      "total_assets": 482379059741,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Waskita Wado Energi",
+      "business_type": "Energi",
+      "total_assets": 33635259361,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tol Teluk Balikpapan",
+      "business_type": "Jalan Tol",
+      "total_assets": 33530067224,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.818.975.017.232",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:08.574Z"
+}

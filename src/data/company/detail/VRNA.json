@@ -1,0 +1,192 @@
+{
+  "company_name": "PT Mizuho Leasing Indonesia Tbk",
+  "ticker": "VRNA",
+  "office_address": "Menara Astra Lantai 32, Jalan Jenderal Sudirman Kaveling 5-6, Jakarta 10220",
+  "email": "investor@mizuho-ls.co.id",
+  "phone": "021-50851848",
+  "fax": "021-50851849",
+  "tax_id": "01.604.618.7-054.000",
+  "website": "https://www.mizuho-ls.co.id",
+  "listing_date": "2008-06-25",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Fransisca Yuliana Gunawan",
+    "email": "investor@verena.co.id",
+    "phone": "021-3504890"
+  },
+  "directors": [
+    {
+      "name": "Takeshi Kurioka",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andi Harjono",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Yudi Gustiawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Kenjiro Sawada",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Fransisca Yuliana Gunawan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ryuji Tarumi",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yasuo Imaizumi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bhindawati Gunawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dani Hamdani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dani Hamdani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Brantas",
+      "position": "Anggota"
+    },
+    {
+      "name": "Adi Vithara Purba",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mizuho Leasing Co., Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 3835346804,
+      "percentage": 67.44
+    },
+    {
+      "name": "PT. Bank Pan Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1425455604,
+      "percentage": 25.06
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 426551589,
+      "percentage": 7.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "466.363.027.754",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:44.272Z"
+}

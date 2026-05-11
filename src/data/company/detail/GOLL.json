@@ -1,0 +1,250 @@
+{
+  "company_name": "PT Golden Plantation Tbk",
+  "ticker": "GOLL",
+  "office_address": "Gedung Plaza Mutiara Lt.8 Jl.dr Ide Anak Agung Gde Agung Kav.e.1.2 No. 1&2",
+  "email": "corporate.secretary@goldenplantation.com",
+  "phone": "02150927304",
+  "fax": "02150927305",
+  "tax_id": "027967124015000",
+  "website": "https://www.goldenplantation.com",
+  "listing_date": "2014-12-23",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perkebunan kelapa Sawit dan Pabrik Kelapa Sawit",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Felicia Lukman",
+    "email": "corporate.secretary@goldenplantation.com",
+    "phone": "02157905353"
+  },
+  "directors": [
+    {
+      "name": "Christian Hastono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ahmad Kodir Jailani Tanjung",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Syukran Hambali",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dede Rusamsi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Koh Bing Hock",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lita Chritiana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Erna Suryani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Jom Prawarsa Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2800618400,
+      "percentage": 76.42
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 864362359,
+      "percentage": 23.58
+    },
+    {
+      "name": "Dede Rusamsi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Syukran Hambali",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Christian Hastono",
+      "type": "Direksi",
+      "shares": 20000,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Kodir Jailani Tanjung",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bumiraya Investindo",
+      "business_type": "Perkebunan",
+      "total_assets": 2204648681574,
+      "ownership_percentage": 64.95
+    },
+    {
+      "name": "PT Balaingu Capital Investment",
+      "business_type": "Perkebunan",
+      "total_assets": 295065954912,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Persada Alam Hijau",
+      "business_type": "Perkebunan",
+      "total_assets": 120124558239,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumiraya Investindo",
+      "business_type": "Perkebunan",
+      "total_assets": 1177065,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Bumiraya Investindo",
+      "business_type": "Perkebunan",
+      "total_assets": 1177065,
+      "ownership_percentage": 65
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "183.250.037.950",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:02.864Z"
+}

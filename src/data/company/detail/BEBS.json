@@ -1,0 +1,375 @@
+{
+  "company_name": "PT Berkah Beton Sadaya Tbk",
+  "ticker": "BEBS",
+  "office_address": "Jl. Raya Sembung Pagaden Km 9,5 Gunungsari, Pagaden, Subang, Jawa Barat",
+  "email": "corsec@berkahbetonsadaya.com",
+  "phone": "+62 260 4551571",
+  "fax": "0",
+  "tax_id": "90.266.986.0-439.000",
+  "website": "https://www.berkahbetonsadaya.com",
+  "listing_date": "2021-03-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Industri, Konstruksi, Perdagangan Besar dan Penggalian",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 25,
+    "name": "Material Konstruksi"
+  },
+  "sub_industry": {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  "corporate_secretary": {
+    "name": "Fadhly Irhas Iskandar",
+    "email": "corsec@berkahbetonsadaya.com",
+    "phone": "+62 260 4551571"
+  },
+  "directors": [
+    {
+      "name": "Firdaus",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Iyan Sopiyan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ronny Soleh Pahlevi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Madya Yuni Santosa",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Datuk Wira Syed Zaid Bin Ali Al Hadad",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gilman Pradana Nugraha",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Shaleh Muhammad Al Jufri",
+      "position": "Ketua"
+    },
+    {
+      "name": "Muhammad Al'amin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sheila Nabila Rizky Rahmani",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 28302550140,
+      "percentage": 62.89
+    },
+    {
+      "name": "PT Berkah Global Investama",
+      "type": "Lebih dari 5%",
+      "shares": 14123500100,
+      "percentage": 31.39
+    },
+    {
+      "name": "PT Pendanaan Efek Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2573164760,
+      "percentage": 5.72
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Syed Zaid Bin Ali Al Hadad",
+      "type": "Komisaris",
+      "shares": 785000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wahana Batu Sajati",
+      "business_type": "Tambang Batu",
+      "total_assets": 235987427040,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Wahana Batu Sajati",
+      "business_type": "Tambang Batu",
+      "total_assets": 235987427040,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Wahana Batu Sajati",
+      "business_type": "Tambang Batu",
+      "total_assets": 235987427040,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Wahana Batu Sejati",
+      "business_type": "Penggalian Batu Hias, Batu, Pasir, Kerikil dan Tanah Liat",
+      "total_assets": 235987427040,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Wahana Batu Sejati",
+      "business_type": "Penggalian Batu Hias, Batu, Pasir, Kerikil dan Tanah Liat",
+      "total_assets": 235987427040,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Batu Alam Samba",
+      "business_type": "Penggalian, Batu, Pasir, Kerikil dan Tanah Liat",
+      "total_assets": 145487951610,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Batu Alam Samba",
+      "business_type": "Penggalian, Batu, Pasir, Kerikil dan Tanah Liat",
+      "total_assets": 145487951610,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Batu Alam Samba",
+      "business_type": "Tambang Batu",
+      "total_assets": 145487951610,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Batu Alam Samba",
+      "business_type": "Tambang Batu",
+      "total_assets": 145487951610,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Batu Alam Samba",
+      "business_type": "Tambang Batu",
+      "total_assets": 145487951610,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Subang Terus Membangun",
+      "business_type": "Perdagangan",
+      "total_assets": 135001809208,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Subang Terus Membangun",
+      "business_type": "Perdagangan",
+      "total_assets": 135001809208,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Subang Terus Membangun",
+      "business_type": "Perdagangan",
+      "total_assets": 135001809208,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Subang Terus Membangun",
+      "business_type": "Perdagangan",
+      "total_assets": 135001809208,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Berkah Global Development",
+      "business_type": "Kontraktor",
+      "total_assets": 61708415998,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Berkah Global Development",
+      "business_type": "Kontraktor",
+      "total_assets": 61708415998,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Berkah Global Development",
+      "business_type": "Kontraktor",
+      "total_assets": 58915935538,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Berkah Global Development",
+      "business_type": "Konstruksi",
+      "total_assets": 38999916285,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Berkah Global Development",
+      "business_type": "Konstruksi",
+      "total_assets": 29155338501,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Berkah Sadaya Makmur",
+      "business_type": "Perdagangan",
+      "total_assets": 11000000000,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Berkah Sadaya Makmur",
+      "business_type": "Perdagangan",
+      "total_assets": 11000000000,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Berkah Sadaya Makmur",
+      "business_type": "Perdagangan Besar Logam dan Bijih Logam Perdagangan Besar Logam untuk Bahan Konstruksi",
+      "total_assets": 11000000000,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Berkah Sadaya Makmur",
+      "business_type": "Perdagangan",
+      "total_assets": 11000000000,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Berkah Sadaya Makmur",
+      "business_type": "Perdagangan Besar Logam dan Bijih Logam Perdagangan Besar Logam untuk Bahan Konstruksi",
+      "total_assets": 11000000000,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Berkah Harapan Sadaya",
+      "business_type": "Pengelolaan dan Pengembangan Tambang Batu",
+      "total_assets": 5000000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Berkah Harapan Sadaya",
+      "business_type": "Pengelolaan dan Pengembangan Tambang Batu",
+      "total_assets": 5000000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Berkah Harapan Sadaya",
+      "business_type": "Tambang Kapur",
+      "total_assets": 5000000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Berkah Harapan Sadaya",
+      "business_type": "Tambang Kapur",
+      "total_assets": 5000000000,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Berkah Harapan Sadaya",
+      "business_type": "Tambang Kapur",
+      "total_assets": 5000000000,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Robert, Rudi, Yansen & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "225.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:58.408Z"
+}

@@ -1,0 +1,304 @@
+{
+  "company_name": "Trias Sentosa Tbk",
+  "ticker": "TRST",
+  "office_address": "Head Office: Desa Keboharan, Km 26 Krian,sidoarjo 61262 Indonesia",
+  "email": "corsec@trias-sentosa.com",
+  "phone": "031 8975825",
+  "fax": "031 8972998",
+  "tax_id": "01.001.105.4-092.000",
+  "website": "https://www.trias-sentosa.com",
+  "listing_date": "1990-07-02",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Manufaktur Plastik",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Hans Chandra",
+    "email": "corsec@trias-sentosa.com",
+    "phone": "031 8975825"
+  },
+  "directors": [
+    {
+      "name": "Hananto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Silvester Terisno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nani Tina Asmara",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kindarto Kohar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sugeng Kurniawan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ketut Sumarwan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ketut Sumarwan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agung Rianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bing Hartono Poernomosidi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1022428125,
+      "percentage": 36.41
+    },
+    {
+      "name": "PT. K And L Capital",
+      "type": "Lebih dari 5%",
+      "shares": 750133500,
+      "percentage": 26.71
+    },
+    {
+      "name": "Pt.adilaksa Manunggal",
+      "type": "Lebih dari 5%",
+      "shares": 502784665,
+      "percentage": 17.91
+    },
+    {
+      "name": "PT. Kilo Lima Inti Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 216463250,
+      "percentage": 7.71
+    },
+    {
+      "name": "PT Prima Polycon Indah",
+      "type": "Lebih dari 5%",
+      "shares": 162095460,
+      "percentage": 5.77
+    },
+    {
+      "name": "Kindarto Kohar",
+      "type": "Komisaris",
+      "shares": 136734500,
+      "percentage": 4.87
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 17360500,
+      "percentage": 0.62
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Pt.trias Toyobo Astria",
+      "business_type": "Industri dan Perdagangan Plastik",
+      "total_assets": 955064,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Pt.trias Toyobo Astria",
+      "business_type": "Industri dan Perdagangan Plastik",
+      "total_assets": 955064,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Pt.trias Toyobo Astria",
+      "business_type": "Industri dan Perdagangan Plastik",
+      "total_assets": 951599,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Pt.trias Toyobo Astria",
+      "business_type": "Industri dan Perdagangan Plastik",
+      "total_assets": 950982,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Pt.trias Toyobo Astria",
+      "business_type": "Industri dan Perdagangan Plastik",
+      "total_assets": 887458,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "Tianjin Sunshine Packaging, Ltd",
+      "business_type": "Industri Plastik Lembaran",
+      "total_assets": 199152,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tianjin Sunshine Packaging, Ltd",
+      "business_type": "Industri Plastik Lembaran",
+      "total_assets": 197312,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tianjin Sunshine Packaging, Ltd",
+      "business_type": "Industri Plastik Lembaran",
+      "total_assets": 193737,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tianjin Sunshine Packaging, Ltd",
+      "business_type": "Industri Plastik Lembaran",
+      "total_assets": 192526,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tianjin Sunshine Packaging, Ltd",
+      "business_type": "Industri Plastik Lembaran",
+      "total_assets": 192526,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Astria Packaging Pte,ltd",
+      "business_type": "Investmen Company",
+      "total_assets": 90950,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Astria Packaging Pte,ltd",
+      "business_type": "Investmen Company",
+      "total_assets": 85858,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Astria Packaging Pte,ltd",
+      "business_type": "Investmen Company",
+      "total_assets": 81417,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Astria Packaging Pte,ltd",
+      "business_type": "Investmen Company",
+      "total_assets": 81417,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Astria Packaging Pte,ltd",
+      "business_type": "Investmen Company",
+      "total_assets": 75439,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Pt.unggul Niaga Sentosa",
+      "business_type": "Perdagangan",
+      "total_assets": 28742,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Pt.unggul Niaga Sentosa",
+      "business_type": "Perdagangan",
+      "total_assets": 18963,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Pt.unggul Niaga Sentosa",
+      "business_type": "Perdagangan",
+      "total_assets": 18963,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Pt.unggul Niaga Sentosa",
+      "business_type": "Perdagangan",
+      "total_assets": 14357,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Pt.unggul Niaga Sentosa",
+      "business_type": "Perdagangan",
+      "total_assets": 9816,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.347.840.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:11.621Z"
+}

@@ -1,0 +1,243 @@
+{
+  "company_name": "PT Data Sinergitama Jaya Tbk",
+  "ticker": "ELIT",
+  "office_address": "The Manhattan Squre Tower B Lt. 22, Jl. Tb Simatupang, Rt.3/rw.3, Cilandak Timur, Pasar Minggu, Jakarta Selatan,12560",
+  "email": "corsec@elitery.com",
+  "phone": "0217511004",
+  "fax": "",
+  "tax_id": "31.395.927.2-016.000",
+  "website": "https://www.elitery.com",
+  "listing_date": "2023-01-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Teknologi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 12,
+    "name": "Jasa & Konsultan TI"
+  },
+  "sub_industry": {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  "corporate_secretary": {
+    "name": "Astrid Erawan",
+    "email": "corsec@elitery.com",
+    "phone": "0217511004"
+  },
+  "directors": [
+    {
+      "name": "Kresna Adiprawira",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Frans Sulandra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Audy Satria Wardhana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ery Setyo Wibowo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Indra Dwiputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Erwin Damar Prasetyo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Roestiandi Tsamanov",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Thomas Irawan Tjahjono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Peter Djatmiko",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Peter Djatmiko",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tuhiyat, Ak., Mm, Qia, Cma, Ca",
+      "position": "Anggota"
+    },
+    {
+      "name": "Firmansyah, Sst. Ak, Ca",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 582220945,
+      "percentage": 28.66
+    },
+    {
+      "name": "PT Gratus Deo Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 557038128,
+      "percentage": 27.42
+    },
+    {
+      "name": "PT Indonesia Muda Inovatif",
+      "type": "Lebih dari 5%",
+      "shares": 432965764,
+      "percentage": 21.31
+    },
+    {
+      "name": "PT Delemont Global Venture",
+      "type": "Lebih dari 5%",
+      "shares": 306291308,
+      "percentage": 15.08
+    },
+    {
+      "name": "PT Inotech",
+      "type": "Lebih dari 5%",
+      "shares": 124495612,
+      "percentage": 6.13
+    },
+    {
+      "name": "Roestiandi Tsamanov",
+      "type": "Komisaris",
+      "shares": 16948700,
+      "percentage": 0.83
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 11682600,
+      "percentage": 0.57
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Elitery Global Technology Sdn.bhd",
+      "business_type": "Teknologi Informasi dan Komunikasi Perusahaan",
+      "total_assets": 11385916744,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elite Teknologi Akademi",
+      "business_type": "Pelatihan untuk Ilmu Teknologi Cloud",
+      "total_assets": 9640984796,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "410.391.897.514",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:51.217Z"
+}

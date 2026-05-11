@@ -1,0 +1,187 @@
+{
+  "company_name": "PT Ubc Medical Indonesia Tbk",
+  "ticker": "LABS",
+  "office_address": "Kawasan Industri Pulogadung, Jl. Rawa Gelam V, Blok L, No Kav 11-13, Kel. Jatinegara, Kec. Cakung, Jakarta Timur, Jakarta, 13930",
+  "email": "corsec@ubcindonesia.com",
+  "phone": "021-38865110",
+  "fax": "",
+  "tax_id": "71.131.879.0-004.000",
+  "website": "https://www.ubcindonesia.com",
+  "listing_date": "2024-07-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Distributor Alat Kesehatan",
+    "business_summary": "Perusahaan bergerak di bidang Penyedia & Distribusi Perlengkapan Kesehatan.",
+    "business_tags": [
+      "Penyedia & Distribusi Perlengkapan Kesehatan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 39,
+    "name": "Peralatan & Perlengkapan Kesehatan"
+  },
+  "sub_industry": {
+    "id": 57,
+    "name": "Penyedia & Distribusi Perlengkapan Kesehatan",
+    "industries_id": 39
+  },
+  "corporate_secretary": {
+    "name": "Ferina Tyas",
+    "email": "corsec@ubcindonesia.com",
+    "phone": "02138865110"
+  },
+  "directors": [
+    {
+      "name": "Fx Yoshua Raintjung",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Marcella Angelin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Yudha Indrawirawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nathan Tirtana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Suyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Suyanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aditya Surya Tjahjanaputra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Herald Friendly",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Optel Investama Mulia",
+      "type": "Lebih dari 5%",
+      "shares": 2859428400,
+      "percentage": 72.39
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 830571600,
+      "percentage": 21.03
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 260000000,
+      "percentage": 6.58
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fx Yoshua Raintjung",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nathan Tirtana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Esora Medika Indonesia",
+      "business_type": "Industri Alat Kesehatan",
+      "total_assets": 44029432740,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "580.650.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:25.666Z"
+}

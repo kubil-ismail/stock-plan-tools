@@ -1,0 +1,299 @@
+{
+  "company_name": "PT Alamtri Minerals Indonesia Tbk",
+  "ticker": "ADMR",
+  "office_address": "Cyber 2 Tower Lantai 34, Jl. H.r. Rasuna Said Blok X-5, No. 13 Jakarta Selatan 12950",
+  "email": "corsec@alamtriminerals.id",
+  "phone": "(021) 2553 3060",
+  "fax": "(021) 2553 3059",
+  "tax_id": "0026721639063000",
+  "website": "https://www.alamtriminerals.id",
+  "listing_date": "2022-01-03",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Mahardika Putranto",
+    "email": "corsec@adarominerals.id",
+    "phone": "(021) 2553 3060"
+  },
+  "directors": [
+    {
+      "name": "Iwan Dewono Budiyuwono",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Totok Azhariyanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendri Tamrin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heri Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wito Krisnahadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Garibaldi Thohir",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Michael William P. Soeryadjaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mohammad Syah Indra Aman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mohammad Effendi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lindawati Gani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mohammad Effendi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ignatius Robby Sani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lindawati Gani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Alamtri Resources Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 34933166100,
+      "percentage": 85.448
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5949096400,
+      "percentage": 14.552
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wito Krisnahadi",
+      "type": "Direksi",
+      "shares": 69000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Alamtri Baterai Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 1293812284,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Alamtri Indo Aluminium",
+      "business_type": "Investasi",
+      "total_assets": 1292574344,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Alam Tri Daya Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 1285826090,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kalimantan Aluminium Industry",
+      "business_type": "Pengolahan Logam",
+      "total_assets": 1254681495,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Maruwai Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 1169190275,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Lahai Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 112431814,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Alam Tri Cakra Indonesia",
+      "business_type": "Investasi",
+      "total_assets": 31961553,
+      "ownership_percentage": 90.84
+    },
+    {
+      "name": "PT Juloi Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 26661145,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Batuan Anugerah Semesta",
+      "business_type": "Pertambangan",
+      "total_assets": 4261934,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sumber Barito Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 4137708,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Alam Seraya",
+      "business_type": "Pertambangan Batu Kapur",
+      "total_assets": 3872337,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalteng Coal",
+      "business_type": "Pertambangan",
+      "total_assets": 1882699,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "75.632.313.275.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:01.487Z"
+}

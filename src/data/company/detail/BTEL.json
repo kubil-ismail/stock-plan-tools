@@ -1,0 +1,263 @@
+{
+  "company_name": "Bakrie Telecom Tbk",
+  "ticker": "BTEL",
+  "office_address": "Wisma Bakrie I Lantai 3 Jl. H.r Rasuna Said Kav. B-1 Jakarta 12920",
+  "email": "corsec@bakrietelecom.com",
+  "phone": "021 - 91101112",
+  "fax": "021 - 57945751",
+  "tax_id": "01.642.566.2-054.000",
+  "website": "http://www.bakrietelecom.com",
+  "listing_date": "2006-02-03",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 17,
+    "name": "Jasa Telekomunikasi Nirkabel"
+  },
+  "sub_industry": {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  "corporate_secretary": {
+    "name": "Purwoko Suatmadji",
+    "email": "corsec@bakrietelecom.com",
+    "phone": "02191101112"
+  },
+  "directors": [
+    {
+      "name": "Harya Mitra Hidayat",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Agustinus Harimurti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Esfandry Ferdinal Syaiful",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Albert Wicaksana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Taufan E.n Rotorasiko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "John Pieter Nazar",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jastiro Abi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Neil R Tobing",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dudi Hendrakusuma Syahlani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ai Mulyadi Mamoer",
+      "position": "Ketua"
+    },
+    {
+      "name": "Bachril Bachtaruddin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yansen Pasaribu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 17525001199,
+      "percentage": 47.59
+    },
+    {
+      "name": "PT Huawei Tech Investment",
+      "type": "Lebih dari 5%",
+      "shares": 6189313980,
+      "percentage": 16.81
+    },
+    {
+      "name": "PT Mahindo Agung Sentosa",
+      "type": "Lebih dari 5%",
+      "shares": 5000439000,
+      "percentage": 13.58
+    },
+    {
+      "name": "PT Bioful Icpd3103j7636021ndo Sumatra",
+      "type": "Lebih dari 5%",
+      "shares": 3145050000,
+      "percentage": 8.54
+    },
+    {
+      "name": "PT Bakrie Global Ventura",
+      "type": "Lebih dari 5%",
+      "shares": 2639582576,
+      "percentage": 7.17
+    },
+    {
+      "name": "Raiffeisen Bank International Ag, Singapore Branch S/a Best Quality Global Limited",
+      "type": "Lebih dari 5%",
+      "shares": 2213279000,
+      "percentage": 6.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 110000000,
+      "percentage": 0.3
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dudi Hendrakusuma Syahlani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Taufan E.n. Rotorasiko",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Harya Mitra Hidayat",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Neil Ricardo Tobing",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rita Purnaeni",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agustinus Harimurti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Albert Wicaksana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Esfandry Ferdinal Syaiful",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Anugerah Andalan Investama",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 36528,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bakrie Connectivity",
+      "business_type": "Jasa Telekomunikasi dan Perdagangan",
+      "total_assets": 37,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.841.133.287.750",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:23.875Z"
+}

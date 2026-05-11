@@ -1,0 +1,213 @@
+{
+  "company_name": "PT Eka Sari Lorena Transport Tbk.",
+  "ticker": "LRNA",
+  "office_address": "Jl. K.h. Hasyim Ashari No. 15 C, Jakarta Pusat 10139",
+  "email": "corporate-secretary@lorena-transport.com",
+  "phone": "021 6341166",
+  "fax": "021 6339988",
+  "tax_id": "02.190.925.4-054.000",
+  "website": "https://www.lorena-transport.com",
+  "listing_date": "2014-04-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Transportasi",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 36,
+    "name": "Pengangkutan Darat Penumpang"
+  },
+  "sub_industry": {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  "corporate_secretary": {
+    "name": "Herlisa Dessy H Silalahi, Se",
+    "email": "secretary@lorena-transport.com",
+    "phone": "021 6338866"
+  },
+  "directors": [
+    {
+      "name": "Soerbakti Gusti Terkelin",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dwi Rianta Soerbakti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eka Sari Lorena Soerbakti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir Solon Aprin Tarigan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Samsudin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Trihayu Mitra K Soerbakti",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jason Binar Arenda Silalahi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Samsudin",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Loreta Latersia Tiurlan Silalahi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dante Rebuena Toman Surbakti",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hidayat",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Samsudin",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Lorena",
+      "type": "Lebih dari 5%",
+      "shares": 199999998,
+      "percentage": 57.14
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 78168522,
+      "percentage": 22.34
+    },
+    {
+      "name": "PT Gading Danalestari",
+      "type": "Lebih dari 5%",
+      "shares": 45285500,
+      "percentage": 12.94
+    },
+    {
+      "name": "Siauw Yunus Subandi",
+      "type": "Lebih dari 5%",
+      "shares": 26546000,
+      "percentage": 7.58
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gusti Terkelin Soerbakti",
+      "type": "Direksi",
+      "shares": 2,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Hendrawinata Eddy & Siddharta"
+    },
+    {
+      "name": "Hendrawinata Eddy & Siddharta"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Hendrawinata Eddy & Siddharta"
+    },
+    {
+      "name": "Hendrawinata Eddy & Siddharta"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "70.000.004.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:59.813Z"
+}

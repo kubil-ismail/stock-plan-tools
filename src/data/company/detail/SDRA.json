@@ -1,0 +1,218 @@
+{
+  "company_name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+  "ticker": "SDRA",
+  "office_address": "Gedung Treasury Tower Lt. 26 & 27 District 8, SCBD Lot. 28 Jl. Jend. Sudirman Kav. 52 - 53 Jakarta",
+  "email": "saudara@bankwoorisaudara.com",
+  "phone": "(62-21) 50871906",
+  "fax": "(62-21) 50871900",
+  "tax_id": "01.148.782.4-054.000",
+  "website": "https://www.bankwoorisaudara.com",
+  "listing_date": "2006-12-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Edwin Sulaeman",
+    "email": "edwin.sulaeman@bankwoorisaudara.com",
+    "phone": "021-50871906"
+  },
+  "directors": [
+    {
+      "name": "Han Chang Sik",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wuryanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Abdurachman Hadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kim Wook Bae",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Benny Sudarsono Tan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Edwin Sulaeman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Moon Sungwoon",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Arief Budiman",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ahmad Fajarprana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Haryadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kim Ki Joo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Adi Haryadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Setiadjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indra Nugraha",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Woori Bank Korea",
+      "type": "Lebih dari 5%",
+      "shares": 13333457836,
+      "percentage": 90.75
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1352762923,
+      "percentage": 9.21
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3182430,
+      "percentage": 0.02
+    },
+    {
+      "name": "Arief Budiman",
+      "type": "Komisaris",
+      "shares": 2314600,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Benny Sudarsono Tan",
+      "type": "Direksi",
+      "shares": 159100,
+      "percentage": 0
+    },
+    {
+      "name": "Edwin Sulaeman, Se",
+      "type": "Direksi",
+      "shares": 135400,
+      "percentage": 0
+    },
+    {
+      "name": "Wuryanto",
+      "type": "Direksi",
+      "shares": 87100,
+      "percentage": 0
+    },
+    {
+      "name": "Abdurrachman Hadi",
+      "type": "Direksi",
+      "shares": 53400,
+      "percentage": 0
+    },
+    {
+      "name": "Kim Wook Bae",
+      "type": "Direksi",
+      "shares": 37100,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.723.588.605.440",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:31.776Z"
+}

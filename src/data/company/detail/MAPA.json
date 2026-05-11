@@ -1,0 +1,475 @@
+{
+  "company_name": "PT Map Aktif Adiperkasa Tbk",
+  "ticker": "MAPA",
+  "office_address": "Gedung Sahid Sudirman Center Lt 26 Jl. Jend. Sudirman Kav 86 Karet Tengsin Tanah Abang Jakarta Pusat Dki Jakarta 10220",
+  "email": "corpsec@mapactive.id",
+  "phone": "021 - 8064 8488",
+  "fax": "-",
+  "tax_id": "0725392757022000",
+  "website": "https://www.mapactive.id",
+  "listing_date": "2018-07-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bidang perdagangan umum, termasuk perdagangan eceran, dan bertindak sebagai agen atau distributor pihak lain",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 91,
+    "name": "Ritel Pakaian & Tekstil",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Ardhiantie Sadina",
+    "email": "corpsec@mapactive.id; ardhiantie.sadina@map.co.id",
+    "phone": "021 8064 8488"
+  },
+  "directors": [
+    {
+      "name": "Nicholas Jones",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Handaka Santosa",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sameer Prasad",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sjeniwati Gusman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Miquel Rodrigo Staal",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Virendra Prakash Sharma",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Susiana Latif",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Juliani Gozali",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sintia Kolonas",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hendry Hasiholan Batubara",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendry Hasiholan Batubara",
+      "position": "Ketua"
+    },
+    {
+      "name": "Suwandi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wahyu Septiana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Mitra Adiperkasa Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 19618986600,
+      "percentage": 68.83
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8749978900,
+      "percentage": 30.7
+    },
+    {
+      "name": "Virendra Prakash Sharma",
+      "type": "Komisaris",
+      "shares": 59316000,
+      "percentage": 0.21
+    },
+    {
+      "name": "Sameer Prasad",
+      "type": "Direksi",
+      "shares": 31050000,
+      "percentage": 0.1
+    },
+    {
+      "name": "Susiana Latif",
+      "type": "Komisaris",
+      "shares": 27120000,
+      "percentage": 0.1
+    },
+    {
+      "name": "Miquel Rodrigo Staal",
+      "type": "Direksi",
+      "shares": 14730000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Handaka Santosa",
+      "type": "Direksi",
+      "shares": 2120000,
+      "percentage": 0.007
+    },
+    {
+      "name": "Nicholas Jones",
+      "type": "Direksi",
+      "shares": 467900,
+      "percentage": 0.002
+    },
+    {
+      "name": "Sjeniwati Gusman",
+      "type": "Direksi",
+      "shares": 230600,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Athletica International Holdings Pte. Ltd. (\"aih\")",
+      "business_type": "Lain-lain",
+      "total_assets": 4267579,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "New Golden Heritage Pte. Ltd (\"ngh\")",
+      "business_type": "Lain-lain",
+      "total_assets": 1586750,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Planet Sports Inc. (\"psiph\")",
+      "business_type": "Ritel",
+      "total_assets": 1586734,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active Philippines Inc. (\"maph\")",
+      "business_type": "Ritel",
+      "total_assets": 737017,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active Adiperkasa Ltd. (\"maa (t)\")",
+      "business_type": "Ritel",
+      "total_assets": 625430,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Map Ftl Adiperkasa (\"maa Ftl\")",
+      "business_type": "Ritel",
+      "total_assets": 612321,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Gaya Indah (\"mgi\")",
+      "business_type": "Ritel",
+      "total_assets": 360891,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Noble Footwear Holdings Pte. Ltd. (\"nfh\")",
+      "business_type": "Lain-lain",
+      "total_assets": 319864,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Foot Locker Singapore Pte. Ltd (\"ftls\")",
+      "business_type": "Ritel",
+      "total_assets": 304575,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active Ftl Malaysia Sdn Bhd (\"ftlm\") - (dahulu Foot Locker Malaysia Sdn. Bhd (\"ftlm\")",
+      "business_type": "Ritel",
+      "total_assets": 273420,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Putra Agung Lestari (\"pal\")",
+      "business_type": "Ritel",
+      "total_assets": 239040,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Noble Footwear (thailand) Ltd. (\"nft\")",
+      "business_type": "Ritel",
+      "total_assets": 237200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active Singapore Pte. Ltd (\"mas\")",
+      "business_type": "Ritel",
+      "total_assets": 207633,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Magna Management Asia Co. Ltd (\"mma (vietnam)\")",
+      "business_type": "Ritel",
+      "total_assets": 199007,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aldo Indonesia Adiperkasa (\"aia\")",
+      "business_type": "Ritel",
+      "total_assets": 132524,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Noble Footwear Malaysia Sdn. Bhd (\"nfm\")",
+      "business_type": "Ritel",
+      "total_assets": 124798,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active Malaysia Sdn. Bhd. (\"mam\")",
+      "business_type": "Ritel",
+      "total_assets": 124701,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Maa Sports Singapore Pte. Ltd. (\"mass\")",
+      "business_type": "Ritel",
+      "total_assets": 118533,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Garindo Perkasa (\"mgp\")",
+      "business_type": "Manufaktur",
+      "total_assets": 114304,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "Eon Atlantic Footwear Pte. Ltd. (\"eaf\")",
+      "business_type": "Ritel",
+      "total_assets": 84923,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astec Asia Adiperkasa (\"aaa\")",
+      "business_type": "Ritel",
+      "total_assets": 84061,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Aldo Indonesia Adiperkasa Ritel (\"aiar\")",
+      "business_type": "Ritel",
+      "total_assets": 57376,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Maa Sports Malaysia Sdn. Bhd. (\"masm\")",
+      "business_type": "Ritel",
+      "total_assets": 52348,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active (cambodia) Co. Ltd (\"mac\")",
+      "business_type": "Ritel",
+      "total_assets": 43763,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Benua Prima Agung (\"bpa\")",
+      "business_type": "Ritel",
+      "total_assets": 19160,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Sdi Aktif Indonesia (\"sdia\") (dahulu/formerly PT Sports Direct Indonesia)",
+      "business_type": "Ritel",
+      "total_assets": 8731,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Gaya Ritel (\"mgr\")",
+      "business_type": "Ritel",
+      "total_assets": 2168,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Putra Agung Ritel (\"par\")",
+      "business_type": "Ritel",
+      "total_assets": 1734,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Benua Agung Abadi (\"baa\")",
+      "business_type": "Ritel",
+      "total_assets": 1047,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Map Aktif Ritel (\"mar\")",
+      "business_type": "Ritel",
+      "total_assets": 429,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Panen Sports Lestari (\"psl\")",
+      "business_type": "Ritel",
+      "total_assets": 338,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Athletica Sd Holdings Pte. Ltd. (\"ash\"",
+      "business_type": "Ritel",
+      "total_assets": 167,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Map Active (india) Pte. Ltd. (\"mai\")",
+      "business_type": "Ritel",
+      "total_assets": 75,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sdw Aktif Indonesia (dahulu/formerly PT Sdi Wholesale Indonesia) (\"sdwa\")",
+      "business_type": "Ritel",
+      "total_assets": 37,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "17.387.440.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:12.848Z"
+}

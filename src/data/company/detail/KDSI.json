@@ -1,0 +1,179 @@
+{
+  "company_name": "Kedawung Setia Industrial Tbk",
+  "ticker": "KDSI",
+  "office_address": "Jl.mastrip 862 Warugunung-karangpilang Surabaya",
+  "email": "corsec@kdsi-ind.com",
+  "phone": "(031) 7661983",
+  "fax": "(031) 7661981",
+  "tax_id": "01.132.928.1-054.000",
+  "website": "https://0",
+  "listing_date": "1996-07-29",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pulp, Paper and Enamel Coated",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Andi Subroto",
+    "email": "andi.subroto@kedawungsetia.com",
+    "phone": "031 7661971"
+  },
+  "directors": [
+    {
+      "name": "Permadi Al Suharto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andi Subroto",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hmy Bambang Sujanto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ali Sugiharto Wibisono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fadelan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fadelan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nabilah Alpha Maharani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maria Ulfa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kitasubur Utama",
+      "type": "Lebih dari 5%",
+      "shares": 1271968800,
+      "percentage": 78.517
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 239560000,
+      "percentage": 14.788
+    },
+    {
+      "name": "Permadi Al Suharto",
+      "type": "Direksi",
+      "shares": 90288000,
+      "percentage": 5.573
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 11943200,
+      "percentage": 0.737
+    },
+    {
+      "name": "Bambang Sujanto",
+      "type": "Komisaris",
+      "shares": 6240000,
+      "percentage": 0.385
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kedawung Setia Corrugated Carton Box Industrial",
+      "business_type": "Industri Kotak Karton Gelombang dan Tempat Penyimpanan Telur",
+      "total_assets": 949204267870,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "751.680.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:42.966Z"
+}

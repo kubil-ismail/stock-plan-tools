@@ -1,0 +1,267 @@
+{
+  "company_name": "Jaya Agra Wattie Tbk",
+  "ticker": "JAWA",
+  "office_address": "Gedung Graha Dinamika Lantai 2 Jalan Tanah Abang II No 49-51 Jakarta 10160",
+  "email": "corsec@jawattie.com",
+  "phone": "021-3505906 , 021-65867525",
+  "fax": "-",
+  "tax_id": "0013 6092 2705 4000",
+  "website": "https://www.jawattie.co.id",
+  "listing_date": "2011-05-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Pengelolaan dan Perdagangan di Bidang Perkebunan dan Pengolahan Karet, Kelapa Sawit, Kopi, dan Teh Terpadu",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Karet, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Karet",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "karet",
+      "rubber",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Harli Wijayadi",
+    "email": "harli.wijayadi@jawattie.com",
+    "phone": "021-3505410"
+  },
+  "directors": [
+    {
+      "name": "Harijadi Soedarjo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Harli Wijayadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ryan Nurfitriandy",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rohadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Muhadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Connie Teresianti H",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [],
+  "shareholders": [
+    {
+      "name": "PT Sarana Agro Investama",
+      "type": "Lebih dari 5%",
+      "shares": 15015345027,
+      "percentage": 92.5
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1217606815,
+      "percentage": 7.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rohadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Connie Teresianti H",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Harijadi Soedarjo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Harli Wijayadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ryan Nurfitriandy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kintap Jaya Wattindo (kjw)",
+      "business_type": "Kelapa Sawit dan Karet",
+      "total_assets": 2006763453,
+      "ownership_percentage": 99.37
+    },
+    {
+      "name": "PT Agri Bumi Sentosa (abs)",
+      "business_type": "Kelapa Sawit dan Karet",
+      "total_assets": 1896546629,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Anugerah Wattindo (aw)",
+      "business_type": "Kelapa Sawit dan Karet",
+      "total_assets": 819877774,
+      "ownership_percentage": 99.68
+    },
+    {
+      "name": "PT Indo Java Rubber Planting Co. (ijr)",
+      "business_type": "Karet",
+      "total_assets": 532466882,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Kaliduren Estates (ke)",
+      "business_type": "Teh, Kopi dan Karet",
+      "total_assets": 286543079,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Perkebunan Kroewoek (pk)",
+      "business_type": "Karet",
+      "total_assets": 140716134,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Bumi Prada (bp)",
+      "business_type": "Karet",
+      "total_assets": 88394498,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Mulyaningsih (mul)",
+      "business_type": "Kopi dan Karet",
+      "total_assets": 73970785,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Corah Mas Keputren Estates (cmk)",
+      "business_type": "Karet dan Kopi",
+      "total_assets": 38751300,
+      "ownership_percentage": 99.01
+    },
+    {
+      "name": "PT Banjoemas Landen (bl)",
+      "business_type": "Karet",
+      "total_assets": 25497474,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Perkebunan Biting (pb)",
+      "business_type": "Karet",
+      "total_assets": 22796005,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Cipanyusuhan (cp)",
+      "business_type": "Karet",
+      "total_assets": 12760329,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.759.601.813.140",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:16.680Z"
+}

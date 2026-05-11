@@ -1,0 +1,224 @@
+{
+  "company_name": "Lippo General Insurance Tbk",
+  "ticker": "LPGI",
+  "office_address": "Gedung Lippo Kuningan Unit A & F, Jl. H. R Rasuna Said Kav.b-12, Jakarta Selatan 12940",
+  "email": "corporate.secretary@lgi.co.id",
+  "phone": "525-6161",
+  "fax": "-",
+  "tax_id": "01.363.432.4-054.000",
+  "website": "https://www.lgi.co.id",
+  "listing_date": "1997-07-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Asuransi Umum",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Satini Kartika Sari",
+    "email": "satini@lippogeneral.com",
+    "phone": "525-6161"
+  },
+  "directors": [
+    {
+      "name": "Agus Benjamin",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Choi Hyunhee",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kwon Gi Han",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hyacintus Henri Djantoko",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Roberto Fernandez Feliaciano",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Park Young Mock",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sapto Wahyu Indratno",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hyacintus Henri Djantoko",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sapto Wahyu Indratno",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mawarto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hanwha General Insurance, Co.,ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1845000000,
+      "percentage": 61.5
+    },
+    {
+      "name": "PT Inti Anugerah Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 543000000,
+      "percentage": 18.1
+    },
+    {
+      "name": "PT Hanwha Life Insurance Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 385927000,
+      "percentage": 12.86
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 225473000,
+      "percentage": 7.52
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 550000,
+      "percentage": 0.018
+    },
+    {
+      "name": "Choi Hyunhee",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0.002
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hyacintus Henri Djantoko",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kwon Gi Han",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Agus Benjamin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gilbert Deddy Naibaho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Roberto Feliciano Fernandez",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Park Young Mock",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sapto Wahyu Indratno",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.145.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:49.646Z"
+}

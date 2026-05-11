@@ -1,0 +1,465 @@
+{
+  "company_name": "PT Prime Agri Resources Tbk",
+  "ticker": "SGRO",
+  "office_address": "Sampoerna Strategic Square, North Tower, Lt. 28 Jl. Jend. Sudirman Kav. 45 Jakarta 12930",
+  "email": "eris.ariaman@primeagriresources.com",
+  "phone": "021-577 1711",
+  "fax": "021-577 1712",
+  "tax_id": "0015989064054000",
+  "website": "https://www.primeagriresources.com",
+  "listing_date": "2007-06-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Holding Company Activity",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Eris Ariaman",
+    "email": "corsec01.sgro@primeagriresources.com",
+    "phone": "021-5771711"
+  },
+  "directors": [
+    {
+      "name": "Budi Setiawan Halim",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dwi Asmono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lim King Hui",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hero Djajakusumah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Parluhutan Sitohang",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Heri Harjanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eris Ariaman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kong, Byoungsun",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. R.b. Permana Agung Daradjattun",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Komjen. Pol. (purn.) Dr. Saud Usman Nasution, Sh, MH, Mm",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Saud Usman Nasution",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sukarnen",
+      "position": "Anggota"
+    },
+    {
+      "name": "Pradhono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Agpa Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 1794889157,
+      "percentage": 98.695
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 23543643,
+      "percentage": 1.295
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 189200,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lim King Hui",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Saud Usman Nasution",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Parluhutan Sitohang",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heri Harjanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eris Ariaman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. R.b. Permana Agung Daradjattun",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kong Byoung Sun",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Setiawan Halim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hero Djajakusumah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dwi Asmono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lim King Hui",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. Saud Usman Nasution",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Parluhutan Sitohang",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Heri Harjanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eris Ariaman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr. R.b. Permana Agung Daradjattun",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kong Byoung Sun",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Setiawan Halim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hero Djajakusumah",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dwi Asmono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sungai Menang",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 3291207,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Hutan Ketapang Industri",
+      "business_type": "Kehutanan",
+      "total_assets": 2992982,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Usaha Agro Indonesia",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1763893,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sungai Rangit",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 1525651,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sampoerna Bio Fuels",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 1491603,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Telaga Hikmah",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 887156,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lanang Agro Bersatu",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 803489,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Selatanjaya Permai",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 665797,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aek Tarum",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 636034,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT National Sago Prima",
+      "business_type": "Pemanfaatan Hasil Hutan Bukan Kayu (sagu)",
+      "total_assets": 522897,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mutiara Bunda Jaya",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 496716,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gunung Tua Abadi",
+      "business_type": "Perkebunan dan Pabrik Kelapa Sawit",
+      "total_assets": 365015,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sawit Selatan",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 327004,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tebar Tandan Tenerah",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 279690,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusantara Sarana Alam",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 278760,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pertiwi Agro Sejahtera",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 198346,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binasawit Makmur",
+      "business_type": "Perkebunan dan Produksi Benih Kelapa Sawit",
+      "total_assets": 193636,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anugerah Palm Indonesia",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 114506,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kusuma Mentari Makmur",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 92341,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agro Planindo Utama",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 82614,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jasa Agro Mandiri",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 16352,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kedurang Prakarsa Nabati",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 15833,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sampoerna Palma Pte. Ltd",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 10257,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sugih Amerta Berlabuh",
+      "business_type": "Jasa",
+      "total_assets": 2459,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Palma Timur Sejahtera",
+      "business_type": "Perkebunan",
+      "total_assets": 97,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gading Jaya Agro",
+      "business_type": "Perkebunan",
+      "total_assets": 46,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.183.799.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:37.633Z"
+}

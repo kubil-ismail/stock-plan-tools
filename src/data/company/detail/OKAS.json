@@ -1,0 +1,320 @@
+{
+  "company_name": "Ancora Indonesia Resources Tbk",
+  "ticker": "OKAS",
+  "office_address": "Equity Tower Lt. 41 Suite A Sudirman Central Business District (SCBD) Jl. Jend. Sudirman Kav. 52-53 Lot.9 Jakarta Selatan 12190",
+  "email": "corporate.secretary@ancorair.com",
+  "phone": "+62 21-29035011",
+  "fax": "+62 21-29035335",
+  "tax_id": "02.160.934.2-054.000",
+  "website": "https://www.ancorair.com",
+  "listing_date": "2006-03-29",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Logistik, Konstruksi, Otomotif.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Logistik",
+      "Konstruksi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "F Bernadeth Conny Ponto",
+    "email": "corporate.secretary@ancorair.com",
+    "phone": "02129035011"
+  },
+  "directors": [
+    {
+      "name": "Ratno Paskalis Hendrawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gian Putra Wirjawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ariawan Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hamid Awaluddin",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edwin Stamboel",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Mursid Setiadji",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Y. Rizal Efendi, M.si",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mursid Setiadji",
+      "position": "Ketua"
+    },
+    {
+      "name": "Angelus Seato Meinardo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Reza Adhytia Dantusolang",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Multi Berkat Energi",
+      "type": "Lebih dari 5%",
+      "shares": 918304978,
+      "percentage": 38.6907
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 652626186,
+      "percentage": 27.497
+    },
+    {
+      "name": "Island Spice Investments Limited",
+      "type": "Lebih dari 5%",
+      "shares": 607521388,
+      "percentage": 25.5966
+    },
+    {
+      "name": "Banque Pictet And Cie Sa Burgundy Assets Corp",
+      "type": "Lebih dari 5%",
+      "shares": 194996613,
+      "percentage": 8.2157
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hamid Awaluddin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edwin Stamboel",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mursid Setiadji",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yose Rizal",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ratno Paskalis Hendrawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Gian Putra Wirjawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ariawan Wijaya",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Multi Nitrotama Kimia",
+      "business_type": "Industri Bahan Peledak, Jasa Peledakan, dan Perdagangan Bahan Peledak dan Aksesorisnya",
+      "total_assets": 124977687,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Bormindo Nusantara",
+      "business_type": "Jasa Pengeboran dan Perawatan Sumur Minyak",
+      "total_assets": 30396041,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Kemitraan Mnk Bme",
+      "business_type": "Pertambangan dan Penggalian, Pertanian, Kehutanan dan Perikanan, Konstruksi",
+      "total_assets": 29472734,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Indotan Lombok Bangkit Barat",
+      "business_type": "Pertambangan",
+      "total_assets": 20599310,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Indotan Lombok Pte Ltd",
+      "business_type": "Investasi pada Perusahaan Tambang di Indonesia",
+      "total_assets": 20599309,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ancora Shipping",
+      "business_type": "Pelayaran dalam Negeri",
+      "total_assets": 61994,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Multi Kimia Solusindo",
+      "business_type": "Perdagangan Besar Bahan Berbahaya (b2), Perdagangan Besar Bahan dan Bahan Kimia, Perdagangan Besar Pupuk dan Produk Agrokimia",
+      "total_assets": 48392,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Multi Sinergi Sumberdaya",
+      "business_type": "Perdagangan Besar Semen, Kapur, Pasir dan Batu, Logam, Mineral Bukan Logam, Bahan Bakar Padat, Cair dan Gas Serta Dasar Biaya",
+      "total_assets": 48392,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kreasi Sinergi Teknikindo",
+      "business_type": "Kegiatan Ilmiah dan Teknis, Perdagangan Besar dan Eceran; Perbaikan dan Pemeliharaan Kendaraan, Kegiatan Persewaan dan Penyewaan Tanpa Hak Opsi Ketenagakerjaan, Biro Perjalanan dan Kegiatan Penunjang Lainnya",
+      "total_assets": 47285,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Aneka Nitrate Industri",
+      "business_type": "Industri Bahan Peledak, Pupuk Buatan, Resin Buatan dan Perdagangan Besar Bahan dan Barang Kimia Dasar",
+      "total_assets": 7953,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Multi Nitroprimer Indonesia",
+      "business_type": "Industri Bahan Peledak dan Perdagangan Grosir Berdasarkan Biaya",
+      "total_assets": 7060,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Multi Nitrodeto Indonesia",
+      "business_type": "Industri Bahan Peledak dan Perdagangan Grosir Berdasarkan Biaya",
+      "total_assets": 6804,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Inspira Global Karya",
+      "business_type": "Kegiatan Persewaan dan Penyewaan Tanpa Hak Opsi, Pekerjaan, Agen Perjalanan dan Kegiatan Pendukung Lainnya",
+      "total_assets": 4383,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Ancora Indonesia Mining",
+      "business_type": "Perdagangan dan Jasa Dibidang Pertambangan",
+      "total_assets": 3802,
+      "ownership_percentage": 99.6
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "287.187.348.965",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:34.679Z"
+}

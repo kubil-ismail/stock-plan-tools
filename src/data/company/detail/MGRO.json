@@ -1,0 +1,259 @@
+{
+  "company_name": "PT Mahkota Group Tbk.",
+  "ticker": "MGRO",
+  "office_address": "Grand Jati Junction Lt.27, Jl.perintis Kemerdekaan No. 3a, Medan 20239, Sumatera Utara",
+  "email": "corporate@mahkotagroup.com",
+  "phone": "(061) 42009810",
+  "fax": "-",
+  "tax_id": "003.060.756.8-112.000",
+  "website": "https://www.mahkotagroup.com",
+  "listing_date": "2018-07-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa, perdagangan dan perindustrian",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Elvi",
+    "email": "corporate@mahkotagroup.com",
+    "phone": "(061) 6616133"
+  },
+  "directors": [
+    {
+      "name": "Usli",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Fuad Halimoen",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Usman Sarsi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nagian Toni",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mily",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lily",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Kurniawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harry Kurniawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agustinus Nicko Ariwibowo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Parameshwara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mahkota Global Investama",
+      "type": "Lebih dari 5%",
+      "shares": 2004749900,
+      "percentage": 56.401
+    },
+    {
+      "name": "Mgi International Holdings Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 810000000,
+      "percentage": 22.788
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 644435700,
+      "percentage": 18.13
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 63871300,
+      "percentage": 1.798
+    },
+    {
+      "name": "Ny. Mily",
+      "type": "Komisaris",
+      "shares": 7245400,
+      "percentage": 0.2038
+    },
+    {
+      "name": "Ny. Lily",
+      "type": "Komisaris",
+      "shares": 7166500,
+      "percentage": 0.2016
+    },
+    {
+      "name": "Bp. Usman Sarsi",
+      "type": "Direksi",
+      "shares": 6985400,
+      "percentage": 0.1965
+    },
+    {
+      "name": "Bp. Usli",
+      "type": "Direksi",
+      "shares": 4403300,
+      "percentage": 0.1239
+    },
+    {
+      "name": "Bp. Fuad Halimoen",
+      "type": "Direksi",
+      "shares": 4088200,
+      "percentage": 0.115
+    },
+    {
+      "name": "Bp. Nagian Toni",
+      "type": "Direksi",
+      "shares": 1500000,
+      "percentage": 0.0422
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mutiara Unggul Lestari",
+      "business_type": "Pengolahan Kelapa Sawit",
+      "total_assets": 2238537262748,
+      "ownership_percentage": 92.01
+    },
+    {
+      "name": "PT Berlian Inti Mekar",
+      "business_type": "Pengolahan Kelapa Sawit",
+      "total_assets": 510572026014,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dumai Paricipta Abadi",
+      "business_type": "Bulking Station",
+      "total_assets": 197007664911,
+      "ownership_percentage": 71.5
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Rama Wendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.399.250.847.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:53.341Z"
+}

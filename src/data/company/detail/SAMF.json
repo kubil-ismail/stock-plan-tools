@@ -1,0 +1,327 @@
+{
+  "company_name": "PT Saraswanti Anugerah Makmur Tbk.",
+  "ticker": "SAMF",
+  "office_address": "Surya Inti Permata Juanda Super Blok A-52, Jl. Raya Juanda, Wedi, Gedangan, Sidoarjo, Jawa Timur",
+  "email": "corsec@saraswanti.com",
+  "phone": "(031) 82516888",
+  "fax": "(031) 82516555",
+  "tax_id": "001.829.333.2-641.000",
+  "website": "https://www.saraswantifertilizer.com",
+  "listing_date": "2020-03-31",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Produksi, Pemasaran dan Perdagangan Pupuk",
+    "business_summary": "Perusahaan bergerak di bidang Barang Kimia Pertanian.",
+    "business_tags": [
+      "Barang Kimia Pertanian"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 14,
+    "name": "Barang Kimia Pertanian",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Prayogo Teguh Ansori",
+    "email": "corsec@saraswanti.com",
+    "phone": "031 - 8251 6888 / 021 - 2295 8480"
+  },
+  "directors": [
+    {
+      "name": "Ir. Yahya Taufik",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Theresia Yusufiani Rahayu",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andreas Adhi Harsanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wahyu Ferryal",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andi Irwandy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mohamad Mulyadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Noegroho Hari Hardono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Dominiko Eristanto Haloho",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djoni S. Soetojo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Djoni S. Soetojo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wahyu Purwandaka",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ade Irma Hidayah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Saraswanti Utama",
+      "type": "Lebih dari 5%",
+      "shares": 7612500000,
+      "percentage": 74.27
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1550000000,
+      "percentage": 15.12
+    },
+    {
+      "name": "Noegroho Hari Hardono",
+      "type": "Komisaris",
+      "shares": 508950000,
+      "percentage": 4.97
+    },
+    {
+      "name": "Yahya Taufik",
+      "type": "Direksi",
+      "shares": 280140000,
+      "percentage": 2.73
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 163560000,
+      "percentage": 1.6
+    },
+    {
+      "name": "Andreas Adhi Harsanto",
+      "type": "Direksi",
+      "shares": 134850000,
+      "percentage": 1.31
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dupan Anugerah Lestari",
+      "business_type": "Perdagangan Besar Pupuk dan Produk Agrokimia, Industri Pupuk Buatan Campuran Hara Makro Primer",
+      "total_assets": 612259,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Dupan Anugerah Lestari",
+      "business_type": "Perdagangan Besar Pupuk dan Produk Agrokimia, Industri Pupuk Buatan Campuran Hara Makro Primer",
+      "total_assets": 612259,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Dupan Anugerah Lestari",
+      "business_type": "Perdagangan Besar Pupuk dan Produk Agrokimia, Industri Pupuk Buatan Campuran Hara Makro Primer",
+      "total_assets": 612259,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Dupan Anugerah Lestari",
+      "business_type": "Perdagangan Besar Pupuk dan Produk Agrokimia, Industri Pupuk Buatan Campuran Hara Makro Primer",
+      "total_assets": 612259,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Dupan Anugerah Lestari",
+      "business_type": "Perdagangan Besar Pupuk dan Produk Agrokimia, Industri Pupuk Buatan Campuran Hara Makro Primer",
+      "total_assets": 612259,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "PT Anugerah Pupuk Lestari",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Perdagangan Besar Pupuk dan Pupuk Agrokimia.",
+      "total_assets": 271028,
+      "ownership_percentage": 91
+    },
+    {
+      "name": "PT Anugerah Pupuk Lestari",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Perdagangan Besar Pupuk dan Pupuk Agrokimia.",
+      "total_assets": 271028,
+      "ownership_percentage": 91
+    },
+    {
+      "name": "PT Anugerah Pupuk Lestari",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Perdagangan Besar Pupuk dan Pupuk Agrokimia.",
+      "total_assets": 271028,
+      "ownership_percentage": 91
+    },
+    {
+      "name": "PT Anugerah Pupuk Lestari",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Perdagangan Besar Pupuk dan Pupuk Agrokimia.",
+      "total_assets": 271028,
+      "ownership_percentage": 91
+    },
+    {
+      "name": "PT Anugerah Pupuk Lestari",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Perdagangan Besar Pupuk dan Pupuk Agrokimia.",
+      "total_assets": 271028,
+      "ownership_percentage": 91
+    },
+    {
+      "name": "PT Anugerah Pupuk Makmur",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Industri Bahan Amelioran (pembenah Tanah), Perdagangan Besar Pupuk dan Produk Agrokimia",
+      "total_assets": 265055,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Anugerah Pupuk Makmur",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Industri Bahan Amelioran (pembenah Tanah), Perdagangan Besar Pupuk dan Produk Agrokimia",
+      "total_assets": 265055,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Anugerah Pupuk Makmur",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Industri Bahan Amelioran (pembenah Tanah), Perdagangan Besar Pupuk dan Produk Agrokimia",
+      "total_assets": 265055,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Anugerah Pupuk Makmur",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Industri Bahan Amelioran (pembenah Tanah), Perdagangan Besar Pupuk dan Produk Agrokimia",
+      "total_assets": 265055,
+      "ownership_percentage": 93
+    },
+    {
+      "name": "PT Anugerah Pupuk Makmur",
+      "business_type": "Industri Pupuk Buatan Campuran Hara Makro Primer, Industri Bahan Amelioran (pembenah Tanah), Perdagangan Besar Pupuk dan Produk Agrokimia",
+      "total_assets": 265055,
+      "ownership_percentage": 93
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.362.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:16.915Z"
+}

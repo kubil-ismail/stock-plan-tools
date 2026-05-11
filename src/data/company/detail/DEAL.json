@@ -1,0 +1,189 @@
+{
+  "company_name": "PT Dewata Freightinternational Tbk.",
+  "ticker": "DEAL",
+  "office_address": "Bella Terra Life Stly Hq Office Bella Terra Lt. 2 Ji. Boulevard Raya No. 1 Kelapa Gading.",
+  "email": "yanti@dfilogistics.com",
+  "phone": "087878107817",
+  "fax": "-",
+  "tax_id": "016960544904000",
+  "website": "https://www.dfilogistics.com",
+  "listing_date": "2018-11-11",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa Pengurusan Transportasi (Freight Forwarding)",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Logistik, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Fikriatuzzahra Ramadhini",
+    "email": "corsec@dfilogistics.com",
+    "phone": "+622129688899"
+  },
+  "directors": [
+    {
+      "name": "Bimada",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bimada",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Meitra Ninanda Sari",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yayuk Riyanti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rudi Murfiansyah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 922100018,
+      "percentage": 80.45
+    },
+    {
+      "name": "PT Bimada Paramita Adhyana",
+      "type": "Direksi",
+      "shares": 224070941,
+      "percentage": 19.55
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dewata Makmur Bersama (dmb)",
+      "business_type": "Konstruksi Gedung, Instalasi Listrik, Instalasi Telekomunikasi dan Lainnya, Perdagangan Besar Mesin, Peralatan dan Perlengkapan",
+      "total_assets": 43522719273,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Adi dan Deki"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.877.025.754",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:00.030Z"
+}

@@ -1,0 +1,270 @@
+{
+  "company_name": "PT Estee Gold Feet Tbk",
+  "ticker": "EURO",
+  "office_address": "Jl. Kapuk Utara II No. 2, Rt.1/rw.3, Kapuk Muara, Penjaringan, Jakarta Utara",
+  "email": "corsec@esteegoldaerosol.com",
+  "phone": "021-6190528",
+  "fax": "021-5451944",
+  "tax_id": "01.120.413.8-047.000",
+  "website": "https://www.esteegoldaerosol.com",
+  "listing_date": "2022-08-08",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Industri pengisian jasa aerosol kosmetik dan bahan pembersih keperluan rumah tangga",
+    "business_summary": "Perusahaan bergerak di bidang Produk Perawatan Tubuh.",
+    "business_tags": [
+      "Produk Perawatan Tubuh"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "David Adnan",
+    "email": "corsec@esteegoldaerosol.com",
+    "phone": "(021) 6190528"
+  },
+  "directors": [
+    {
+      "name": "Johansen, Ngian",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jeannie Widjaja",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "David Adnan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lianny Andriani Hermawan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Juliet Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andi Kurniawan Josdaan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Andi Kurniawan Josdaan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tasman Frensius A.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ike Eriyanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1136299828,
+      "percentage": 44.58
+    },
+    {
+      "name": "PT Timmsvale",
+      "type": "Lebih dari 5%",
+      "shares": 909870000,
+      "percentage": 35.7
+    },
+    {
+      "name": "PT Trukindo Persada Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 228363200,
+      "percentage": 8.96
+    },
+    {
+      "name": "PT Bhakti Cahaya Intiperkasa",
+      "type": "Lebih dari 5%",
+      "shares": 145226000,
+      "percentage": 5.7
+    },
+    {
+      "name": "PT Danatama Kapital Investama",
+      "type": "Lebih dari 5%",
+      "shares": 129067400,
+      "percentage": 5.06
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andi Kurniawan Josdaan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lianny Andriani Hermawan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "David Adnan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Johansen Ngian",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Juliet Widjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jeannie Widjaja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Estee Gold Feet Indonesia",
+      "business_type": "Maklon",
+      "total_assets": 100000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Estee Hold Feet Indonesia",
+      "business_type": "Industri Sabun dan Bahan Pembersih Keperluan Rumah Tangga",
+      "total_assets": 100000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ozone Friendly Indonesia",
+      "business_type": "Industri Sabun dan Bahan Pembersih Keperluan Rumah Tangga",
+      "total_assets": 100000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ozone Friendly Indonesia",
+      "business_type": "Maklon",
+      "total_assets": 100000,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Richard Risambessy & Rekan"
+    },
+    {
+      "name": "Richard Risambessy & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Richard Risambessy & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Richard Risambessy & Rekan"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Richard Risambessy & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Richard Risambessy & Rekan"
+    },
+    {
+      "name": "Kap Tjahjadi & Tamara"
+    },
+    {
+      "name": "Richard Risambessy & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "8.691.498.119.480",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:16.077Z"
+}

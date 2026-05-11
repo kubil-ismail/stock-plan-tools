@@ -1,0 +1,244 @@
+{
+  "company_name": "PT Bank Danamon Indonesia Tbk",
+  "ticker": "BDMN",
+  "office_address": "Menara Bank Danamon, Jl. Hr. Rasuna Said, Blok C No 10, Kel. Karet, Kec. Setiabudi, Jakarta Selatan",
+  "email": "corporate.secretary@danamon.co.id",
+  "phone": "(021) 80645000",
+  "fax": "(021) 80645033",
+  "tax_id": "01.308.470.2-091.000",
+  "website": "http://www.danamon.co.id",
+  "listing_date": "1989-12-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Rita Mirasari",
+    "email": "corporate.secretary@danamon.co.id",
+    "phone": "(021) 8645000"
+  },
+  "directors": [
+    {
+      "name": "Rita Mirasari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dadi Budiana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herry Hykmanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Thomas Sudarma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jin Yoshida",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yenny Siswanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nobuya Kawasaki",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hedy Maria Helena Lapian",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dan Harsono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Halim Alamsyah",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yasushi Itagaki",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Takeo Shimotsu",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Muliadi Rahardja",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Muliadi Rahardja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hedy Maria Helena Lapian",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irhoan Tanudiredja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sofyan Rambey",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mufg Bank, Ltd (secara Langsung dan Tidak Langsung)",
+      "type": "Lebih dari 5%",
+      "shares": 9038053192,
+      "percentage": 92.47
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 730350020,
+      "percentage": 7.47
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1557202,
+      "percentage": 0.02
+    },
+    {
+      "name": "Dadi Budiana",
+      "type": "Direksi",
+      "shares": 946400,
+      "percentage": 0.01
+    },
+    {
+      "name": "Thomas Sudarma",
+      "type": "Direksi",
+      "shares": 589700,
+      "percentage": 0.01
+    },
+    {
+      "name": "Herry Hykmanto",
+      "type": "Direksi",
+      "shares": 809156,
+      "percentage": 0.01
+    },
+    {
+      "name": "Muliadi Rahardja",
+      "type": "Komisaris",
+      "shares": 700000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rita Mirasari",
+      "type": "Direksi",
+      "shares": 424400,
+      "percentage": 0
+    },
+    {
+      "name": "Yenny Siswanto",
+      "type": "Direksi",
+      "shares": 122800,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Adira Dinamika Multi Finance Tbk",
+      "business_type": "Pembiayaan",
+      "total_assets": 32588191,
+      "ownership_percentage": 92.07
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "41.025.465.525.840",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:57.441Z"
+}

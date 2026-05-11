@@ -1,0 +1,328 @@
+{
+  "company_name": "Asahimas Flat Glass Tbk",
+  "ticker": "AMFG",
+  "office_address": "Jl. Ancol Ix, 5, Ancol, Pademangan, Kota Adm. Jakarta Utara, Dki Jakarta, 14430",
+  "email": "adimulya.sukmana@agc.com",
+  "phone": "(021) 6904041 ext 1042",
+  "fax": "021-6919245, 6918820",
+  "tax_id": "0010 0016 1809 2000",
+  "website": "https://www.amfg.co.id",
+  "listing_date": "1995-11-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Ceramics, Glass, Porcelain",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif.",
+    "business_tags": [
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Christoforus",
+    "email": "christoforus@amfg.co.id",
+    "phone": "021-6904041"
+  },
+  "directors": [
+    {
+      "name": "Mampei Chiyoda",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mohamad Amien",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Toru Itai",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Takashi Nekoda",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Samuel Nugroho Setyono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kiichiro Yoshizawa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Teguh Ari Widodo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kazuhiro Onogawa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Christoforus",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Widyawardhana Maulana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Taku Ohashi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kotaki Djauw",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Shigeki Yoshiba",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Emanuel David Satria Soetedja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hiroyuki Otani",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Irawan Soerodjo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kimikazu Ichikawa",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Irawan Soerodjo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rusli Pranadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Chandra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Agc Inc.",
+      "type": "Lebih dari 5%",
+      "shares": 193240400,
+      "percentage": 44.53
+    },
+    {
+      "name": "PT Rodamas",
+      "type": "Lebih dari 5%",
+      "shares": 180677700,
+      "percentage": 41.63
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 56741400,
+      "percentage": 13.07
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3340500,
+      "percentage": 0.77
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mampei Chiyoda",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mohamad Amien",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Toru Itai",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Takashi Nekoda",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Samuel Nugroho Setyono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kiichiro Yoshizawa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Teguh Ari Widodo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kazuhiro Onogawa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Christoforus",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bambang Widyawardhana Maulana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Taku Ohashi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kotaki Djauw",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Shigeki Yoshiba",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hiroyuki Otani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "E. David Satria Soetedja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Irawan Soerodjo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kimikazu Ichikawa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Auto Glass Indonesia",
+      "business_type": "Jasa Perbaikan dan Pemasangan Kaca Otomotif",
+      "total_assets": 6060,
+      "ownership_percentage": 99.95
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.375.780.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:38.591Z"
+}

@@ -1,0 +1,269 @@
+{
+  "company_name": "PT Winner Nusantara Jaya Tbk",
+  "ticker": "WINR",
+  "office_address": "Seraya Mas Center Blok H No. 01, Nagoya Kota Batam, 29454",
+  "email": "winner.corsec@gmail.co",
+  "phone": "+62 778-426066",
+  "fax": "+62 778-458014",
+  "tax_id": "02.723.707.2-215.000",
+  "website": "http://www.winnergroup.id",
+  "listing_date": "2022-04-25",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang property dan real estate baik secara langsung maupun tidak langsung melalui entitas Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Briantu Manurung",
+    "email": "winner.corsec@gmail.com",
+    "phone": "+62 778-426066"
+  },
+  "directors": [
+    {
+      "name": "Liu Yut Men (yusmen Liu)",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wahyu Mardiyanti, St",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Machfudz Hasan Syamsu",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Russiana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Handry Soesanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Handry Soesanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Irshan Sya Ban Kamaluddin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Riam Huda",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Pemenang Nusantara Internasional",
+      "type": "Lebih dari 5%",
+      "shares": 3389168000,
+      "percentage": 64.74
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1840948030,
+      "percentage": 35.16
+    },
+    {
+      "name": "Liu Yut Men",
+      "type": "Direksi",
+      "shares": 4750000,
+      "percentage": 0.091
+    },
+    {
+      "name": "Russiana",
+      "type": "Komisaris",
+      "shares": 250000,
+      "percentage": 0.005
+    },
+    {
+      "name": "Wahyu Mardiyanti, St",
+      "type": "Direksi",
+      "shares": 200000,
+      "percentage": 0.004
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Machfudz Hasan Syamsu",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Handry Soesanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wijaya Nusantara Internasional (wni)",
+      "business_type": "Real Estat dan Properti",
+      "total_assets": 82644140829,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "Ptgosyen Indo Asia (gia)",
+      "business_type": "Real Estat dan Properti",
+      "total_assets": 76091905721,
+      "ownership_percentage": 99.86
+    },
+    {
+      "name": "PT Putra Karya Gemilang (pkg)",
+      "business_type": "Real Estat dan Properti",
+      "total_assets": 54412451304,
+      "ownership_percentage": 51.2
+    },
+    {
+      "name": "PT Kaliban Bangun Indonesia (kbi)",
+      "business_type": "Real Estat dan Properti",
+      "total_assets": 37592275971,
+      "ownership_percentage": 95.03
+    },
+    {
+      "name": "Ptangkasa Pura Sanjaya (aps)",
+      "business_type": "Real Estat dan Properti",
+      "total_assets": 8967096561,
+      "ownership_percentage": 58
+    },
+    {
+      "name": "PT Karya Sapta Wira Nusantara (kswn)",
+      "business_type": "Real Estat dan Properti",
+      "total_assets": 231154670,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Pemenang Yabes Properti (pyp)",
+      "business_type": "Real Estat dan Properti",
+      "total_assets": 231154670,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Pemenang Properti Nasional (ppn)",
+      "business_type": "Real Estat dan Properti",
+      "total_assets": 168972553,
+      "ownership_percentage": 40
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "172.765.428.990",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:58.849Z"
+}

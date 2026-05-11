@@ -1,16 +1,17 @@
 import * as yup from "yup";
+import { useRef } from "react";
+import { useFormik } from "formik";
 import { brokers } from "@/data/brokers";
 import { Broker } from "@/types/brokers";
-import { StockDetail, StockList } from "@/types/stocks";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { RupiahInput } from "@/components/numberinput";
 import { Autocomplete } from "@/components/autocomplete";
+import { StockDetail, StockList, StockListResponse } from "@/types/stocks";
 import { BanknoteArrowDown, BanknoteArrowUp } from "lucide-react";
-import { useRef } from "react";
-import { useFormik } from "formik";
-import companyList from "@/data/company.json";
 import { ResultData } from "../kalkulator_avarage.view";
+
+import companyList from "@/data/company/company.json";
 
 const validationSchema = yup.object({
   price: yup
@@ -64,12 +65,14 @@ const validationSchema = yup.object({
     .required("Saham wajib dipilih"),
 });
 
-const _company: StockDetail[] = (companyList as { data: StockDetail[] }).data;
+const _company: StockListResponse[] = (
+  companyList as { data: StockListResponse[] }
+).data;
 
-const mappingData = _company?.map((item: StockDetail) => ({
-  logo: item.logo,
+const mappingData = _company?.map((item: StockListResponse) => ({
+  logo: `/images/company/logo/${item.ticker}.svg`,
   code: item?.ticker,
-  name: item?.name,
+  name: item?.company_name,
 }));
 
 export type FormValues = {

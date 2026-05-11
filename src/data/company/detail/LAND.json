@@ -1,0 +1,220 @@
+{
+  "company_name": "PT Trimitra Propertindo Tbk.",
+  "ticker": "LAND",
+  "office_address": "Komplek Park Land Avenue Lantai Dasar - Jl. Raya Serpong No. 89 Kelurahan Cilenggang, Kecamatan Serpong, Kota Tangerang Selatan 15310",
+  "email": "corsec@trimitraland.com",
+  "phone": "021 - 5389788",
+  "fax": "0",
+  "tax_id": "31.803.161.4-411.000",
+  "website": "https://www.trimitraland.com",
+  "listing_date": "2018-08-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Menjalankan usaha-usaha dibidang pembangunan, bertindak sebagaipengembang, pemborongan pada umumnya (general contractor), pembangunan konstruksi gedung,jembatan, jalan, pemasangan instalasi instalasi, pemasangan jaringan pipa, pengembanganwilayah pemukiman, pembangunan sarana prasarana perumahan, apartemen, danperhotelan, jasa perdagangan properti dan agen properti",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Riska Hadiyati",
+    "email": "corsec@trimitraland.com",
+    "phone": "021 - 5389788"
+  },
+  "directors": [
+    {
+      "name": "Suryadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Willy",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tan Ping",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bintan Regen Saragih",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Binta Regen Saragih",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rio Handono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nur Khamelia Agustin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Graha Mulia Indotama",
+      "type": "Lebih dari 5%",
+      "shares": 1029853200,
+      "percentage": 36.88
+    },
+    {
+      "name": "PT Tridaya Bangun Cipta",
+      "type": "Lebih dari 5%",
+      "shares": 989466800,
+      "percentage": 35.43
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 773300000,
+      "percentage": 27.69
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suryadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Willy",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Ping",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bintan Regen Saragih",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Di",
+      "business_type": "",
+      "total_assets": 0,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Leonard, Mulia & Richard"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    },
+    {
+      "name": "Kap Leonard, Mulia & Richard"
+    },
+    {
+      "name": "Tjahjadi & Tamara"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "248.543.180.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:28.043Z"
+}

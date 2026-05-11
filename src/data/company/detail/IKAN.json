@@ -1,0 +1,203 @@
+{
+  "company_name": "PT Era Mandiri Cemerlang Tbk",
+  "ticker": "IKAN",
+  "office_address": "Ruko Lodan Center Blok F2-7 Jl. Lodan Raya No. 2 Kelurahan Ancol Kecamatan Pademangan – Jakarta Utara 14430",
+  "email": "admin@indonesiaseafood.net",
+  "phone": "021 6930017",
+  "fax": "021 6930120",
+  "tax_id": "02.039.113.2-046.000",
+  "website": "https://www.indonesiaseafood.net",
+  "listing_date": "2020-02-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengolahan dan Perdagangan Hasil Perikanan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Bagijati",
+    "email": "bagijati@indonesiaseafood.net",
+    "phone": "021-6930010"
+  },
+  "directors": [
+    {
+      "name": "Johan Rose",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Treddy Susanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lina",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Welly",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Welly",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hendrik Ponti Simatupang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Justina ke",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 403973000,
+      "percentage": 48.48
+    },
+    {
+      "name": "PT Berkah Delapan Samudera",
+      "type": "Lebih dari 5%",
+      "shares": 279360000,
+      "percentage": 33.52
+    },
+    {
+      "name": "Johan Rose",
+      "type": "Direksi",
+      "shares": 150000000,
+      "percentage": 18
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "81.666.634.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:15.679Z"
+}

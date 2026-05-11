@@ -1,0 +1,202 @@
+{
+  "company_name": "Alkindo Naratama Tbk",
+  "ticker": "ALDO",
+  "office_address": "Kawasan Industri Cimareme, Jl. Cimareme II No. 14, Padalarang, Bandung Barat 40553",
+  "email": "kuswara@alkindo.co.id",
+  "phone": "(022) 601 1220, 602 8277",
+  "fax": "(022) 603 6489, 600 4508",
+  "tax_id": "01.671.242.4-054.000",
+  "website": "https://www.alkindo.co.id",
+  "listing_date": "2011-07-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri pengolahan kertas serta pemasaran dan penjualan hasil industri baik lokal maupun ekspor",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Kuswara",
+    "email": "kuswara@alkindo.co.id",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Herwanto Sutanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Willy Soesanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kuswara",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lili Mulyadi Sutanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Meigi Sonnata Widjaja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Erik Sutanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Meigi Sonnata Widjaja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Reni Indiawati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Helena Audri Huga Gianina",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pt.golden Arista International",
+      "type": "Lebih dari 5%",
+      "shares": 1810571784,
+      "percentage": 67.04
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 681488496,
+      "percentage": 25.2377
+    },
+    {
+      "name": "Lili Mulyadi Sutanto",
+      "type": "Komisaris",
+      "shares": 84307692,
+      "percentage": 3.12
+    },
+    {
+      "name": "Herwanto Sutanto",
+      "type": "Direksi",
+      "shares": 49230770,
+      "percentage": 1.82
+    },
+    {
+      "name": "Willy Soesanto",
+      "type": "Direksi",
+      "shares": 45652702,
+      "percentage": 1.69
+    },
+    {
+      "name": "Erik Sutanto",
+      "type": "Komisaris",
+      "shares": 24000000,
+      "percentage": 0.89
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 5462300,
+      "percentage": 0.2023
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Eco Paper Indonesia",
+      "business_type": "Industri/manufacturing",
+      "total_assets": 1193420921356,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Swisstex Naratama Indonesia",
+      "business_type": "Perdagangan/trading",
+      "total_assets": 277572103459,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Alfa Polimer Indonesia",
+      "business_type": "Industri/manufacturing",
+      "total_assets": 267921379174,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.620.428.246.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:29.644Z"
+}

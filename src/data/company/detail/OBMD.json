@@ -1,0 +1,232 @@
+{
+  "company_name": "PT Obm Drilchem Tbk",
+  "ticker": "OBMD",
+  "office_address": "Dipo Business Center 7th Floor, Suite 7e, Jl. Gatot Subroto Kav. 50-52, Jakarta 10260",
+  "email": "corporate.secretary@drilchem.com",
+  "phone": "+6221 3005-1341",
+  "fax": "",
+  "tax_id": "01.732.762.8-031.000",
+  "website": "https://www.drilchem.com",
+  "listing_date": "2021-12-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Memproduksi bahan aditif untuk mencegah kerugian yang terjadi dalam aktivitas pengeboran dengan menggunaan teknologi serat",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi.",
+    "business_tags": [
+      "Teknologi"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 13,
+    "name": "Barang Kimia Khusus",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Raden Mas Avil Ardendo Suryo Nuswanto",
+    "email": "corporate.secretary@drilchem.com",
+    "phone": "+6221 3005-1341"
+  },
+  "directors": [
+    {
+      "name": "Ryanto Husodo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ivan Alamsyah Siregar",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Irvan Juliansah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ayudyah Widyahening",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Mohamad Asad",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andang Bachtiar",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Darmaji Nasim",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Darmaji Nasim",
+      "position": "Ketua"
+    },
+    {
+      "name": "Tri Endarto Saputro",
+      "position": "Anggota"
+    },
+    {
+      "name": "Koswara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indotek Driling Solusi",
+      "type": "Lebih dari 5%",
+      "shares": 411600000,
+      "percentage": 51.067
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 206524031,
+      "percentage": 25.627
+    },
+    {
+      "name": "Mohamad As'ad",
+      "type": "Komisaris",
+      "shares": 91422200,
+      "percentage": 11.34
+    },
+    {
+      "name": "Suryaprana Nutrisindo PT",
+      "type": "Lebih dari 5%",
+      "shares": 58468900,
+      "percentage": 7.254
+    },
+    {
+      "name": "Ryanto Husodo",
+      "type": "Direksi",
+      "shares": 34200500,
+      "percentage": 4.24
+    },
+    {
+      "name": "Ivan Alamsyah Siregar",
+      "type": "Direksi",
+      "shares": 2388500,
+      "percentage": 0.302
+    },
+    {
+      "name": "Irvan Juliansah",
+      "type": "Direksi",
+      "shares": 1388800,
+      "percentage": 0.17
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Moch. Zainuddin, Drs."
+    },
+    {
+      "name": "Moch. Zainuddin, Drs."
+    },
+    {
+      "name": "Jojo Sunarjo, Ruchiat & Arifin"
+    },
+    {
+      "name": "Moch. Zainuddin, Drs."
+    },
+    {
+      "name": "Kap Moch. Zainuddin, Sukmadi & Rekan"
+    },
+    {
+      "name": "Moch. Zainuddin, Drs."
+    },
+    {
+      "name": "Kap Moch. Zainuddin, Sukmadi & Rekan"
+    },
+    {
+      "name": "Moch. Zainuddin, Drs."
+    },
+    {
+      "name": "Kap Moch. Zainuddin, Sukmadi & Rekan"
+    },
+    {
+      "name": "Moch. Zainuddin, Drs."
+    },
+    {
+      "name": "Kap Moch. Zainuddin, Sukmadi & Rekan"
+    },
+    {
+      "name": "Moch. Zainuddin, Drs."
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "186.990.359.992",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:31.115Z"
+}

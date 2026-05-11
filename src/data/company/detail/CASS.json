@@ -1,0 +1,243 @@
+{
+  "company_name": "Cahaya Aero Services Tbk",
+  "ticker": "CASS",
+  "office_address": "Manor Building Lantai 3 Unit G-h, Jakarta Aeroville, Bandar Udara Internasional Soekarno- Hatta, Kelurahan Pajang, Kecamatan Benda, Kota Tangerang, Banten 15126",
+  "email": "corporatesecretary@pt-cas.com",
+  "phone": "(021) 38766365, (021) 38767645",
+  "fax": "-",
+  "tax_id": "0029 9509 4605 4000",
+  "website": "https://www.casgroup.co.id",
+  "listing_date": "2011-12-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pelayanan Jasa Terkait Bandar Udara",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Konstruksi.",
+    "business_tags": [
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 10,
+    "name": "Infrastruktur Transportasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 30,
+    "name": "Operator Infrastruktur Transportasi"
+  },
+  "sub_industry": {
+    "id": 50,
+    "name": "Operator Bandar Udara",
+    "industries_id": 30
+  },
+  "corporate_secretary": {
+    "name": "Purnama Wirya",
+    "email": "purnama.wirya@pt-cas.com",
+    "phone": "0"
+  },
+  "directors": [
+    {
+      "name": "Andya Daniswara",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sutji Relowati Rahardjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sunarsih",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Djoko Suyanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Armand Bachtiar Arief",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Chi Cheng Bock",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agung Budi Maryoto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Armand Bachtiar Arief",
+      "position": "Ketua"
+    },
+    {
+      "name": "Haryanto Sahari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Regina Jansen Arsjah",
+      "position": "Anggota"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Roket Cipta Sentosa",
+      "type": "Lebih dari 5%",
+      "shares": 1273041500,
+      "percentage": 61
+    },
+    {
+      "name": "Sats Investment (ii) Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 451830800,
+      "percentage": 21.65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 242811300,
+      "percentage": 11.635
+    },
+    {
+      "name": "Surono Subekti",
+      "type": "Lebih dari 5%",
+      "shares": 119266400,
+      "percentage": 5.715
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jasa Angkasa Semesta",
+      "business_type": "Jasa Penunjang Angkutan Udara",
+      "total_assets": 1726840,
+      "ownership_percentage": 50.1
+    },
+    {
+      "name": "PT Purantara Mitra Angkasa Dua",
+      "business_type": "Jasa Boga",
+      "total_assets": 193720,
+      "ownership_percentage": 78.33
+    },
+    {
+      "name": "PT Jas Aero Engineering Services",
+      "business_type": "Jasa Perbengkelan Pesawat Udara",
+      "total_assets": 181205,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Cardig Anugrah Sarana Catering",
+      "business_type": "Jasa Boga",
+      "total_assets": 56280,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jakarta Aviation Training Center",
+      "business_type": "Pelatihan Penerbangan",
+      "total_assets": 30551,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Cardig Anugra Sarana Bersama",
+      "business_type": "Jasa Manajemen Fasilitas",
+      "total_assets": 644,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cardig Aero Sarana Dirgantara",
+      "business_type": "Jasa Pengelolaan Bandara Udara",
+      "total_assets": 478,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cinta Airport Flores",
+      "business_type": "Jasa Pengelolaan Bandar Udara",
+      "total_assets": 162,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Arang Agung Graha",
+      "business_type": "Restoran",
+      "total_assets": 26,
+      "ownership_percentage": 93.15
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.766.944.750.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:49.971Z"
+}

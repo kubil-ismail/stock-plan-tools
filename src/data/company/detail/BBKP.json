@@ -1,0 +1,314 @@
+{
+  "company_name": "PT Bank Kb Indonesia Tbk",
+  "ticker": "BBKP",
+  "office_address": "Gedung Kb Bank, Jl. MT. Haryono Kav. 50-51, Jakarta 12770",
+  "email": "investor.relations@kbbank.co.id, corsec@kbbank.co.id",
+  "phone": "021-798 8266",
+  "fax": "021-798 0625",
+  "tax_id": "001.367.605.1-091.000",
+  "website": "https://www.kbbank.co.id",
+  "listing_date": "2006-07-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Ariz Dian Perkasa",
+    "email": "ariz.perkasa@kbbank.co.id",
+    "phone": "021 - 7988266"
+  },
+  "directors": [
+    {
+      "name": "Widodo Suryadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kunardy Darma, Lie",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Robby Mondong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dodi Widjajanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Sawali",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jung Ho Han",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Janghyuk Im",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ju Hwan Yi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yungki Prabowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jerry Marmen",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hae Wang Lee",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Stephen Liestyo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tae Doo Kwon",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Stephen Liestyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hae Wang Lee",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jacobus Sindu Adisuwono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dewi Anggesty Sah Bandar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Stephen Liestyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hae Wang Lee",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jacobus Sindu Adisuwono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dewi Anggesty Sah Bandar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Kookmin Bank Co., Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 125655736951,
+      "percentage": 67
+    },
+    {
+      "name": "Stic Eugene Star Holding Inc",
+      "type": "Lebih dari 5%",
+      "shares": 31900000000,
+      "percentage": 17
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 28393960727,
+      "percentage": 16
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 38483392,
+      "percentage": 0
+    },
+    {
+      "name": "Kunardy Darma Lie",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Robby Mondong",
+      "type": "Direksi",
+      "shares": 5107000,
+      "percentage": 0
+    },
+    {
+      "name": "Henry Sawali",
+      "type": "Direksi",
+      "shares": 1600000,
+      "percentage": 0
+    },
+    {
+      "name": "Dodi Widjajanto",
+      "type": "Direksi",
+      "shares": 2000088,
+      "percentage": 0
+    },
+    {
+      "name": "Jung Ho Han",
+      "type": "Direksi",
+      "shares": 11776300,
+      "percentage": 0
+    },
+    {
+      "name": "Janghyuk Im",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Widodo Suryadi**",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ju Hwan Yi**",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yungki Prabowo**",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jerry Marmen",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tae Doo Kwon**",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Liestyo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hae Wang Lee",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Bank Kb Bukopin Syariah",
+      "business_type": "Perbankan",
+      "total_assets": 8623329,
+      "ownership_percentage": 95.92
+    },
+    {
+      "name": "PT. Kb Bukopin Finance",
+      "business_type": "Financing Activity",
+      "total_assets": 1098307,
+      "ownership_percentage": 99.24
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.335.012.975.972",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:11.891Z"
+}

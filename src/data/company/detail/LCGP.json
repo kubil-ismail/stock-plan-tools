@@ -1,0 +1,193 @@
+{
+  "company_name": "PT Eureka Prima Jakarta Tbk.",
+  "ticker": "LCGP",
+  "office_address": "Apartemen Senopati Penthouse Lt 3, Jl. Senopati Nomor 44a, Rt 001/ Rw 06, Senayan, Kebayoran Baru Jakarta Selatan.",
+  "email": "eureka.prima.jakarta@gmail.com",
+  "phone": "021 - 22094000",
+  "fax": "021 - 22094949",
+  "tax_id": "02.185.792.5-054.000",
+  "website": "https://www.eurekaland.com",
+  "listing_date": "2007-07-13",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Developer and Pembangunan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Ir Hervan Tahier",
+    "email": "eureka.prima.jakarta@gmail.com",
+    "phone": "021 29035117"
+  },
+  "directors": [
+    {
+      "name": "Dr. Ir. Lukman Purnomosidi, Mba",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Imran Syamnir",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Djoko Rachmadhy Se., Mm",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Hervian Tahier",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Drs. Aryanto Sutadi Msc",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Lukman Bustommy",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Bisler Simbolon Sip. Mm",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Kuntransmiadi Inugroho Mm",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir Saleh Aziz",
+      "position": "Ketua Komite Audit"
+    },
+    {
+      "name": "Ir Puguh Susiantoro",
+      "position": "Anggota Komite Audit"
+    },
+    {
+      "name": "Ir Pribudhi Tasman",
+      "position": "Anggota Komite Audit"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 4909344510,
+      "percentage": 87.3774
+    },
+    {
+      "name": "Yayasan Kesehatan B Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 398150900,
+      "percentage": 7.072
+    },
+    {
+      "name": "Dp Bukit Asam",
+      "type": "Lebih dari 5%",
+      "shares": 312500000,
+      "percentage": 5.5506
+    },
+    {
+      "name": "Generasi Prima Sakti, PT.",
+      "type": "Kurang dari 5%",
+      "shares": 10005504,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tidak Ada",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Dian Sakti",
+      "business_type": "Developer",
+      "total_assets": 59439642187,
+      "ownership_percentage": 71.05
+    },
+    {
+      "name": "PT Senopati Aryani Prima",
+      "business_type": "Developer",
+      "total_assets": 27151776060,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "641.820.104.196",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:30.885Z"
+}

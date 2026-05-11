@@ -1,0 +1,385 @@
+{
+  "company_name": "PT Famon Awal Bros Sedaya Tbk",
+  "ticker": "PRAY",
+  "office_address": "Ruko Mega Grosir Cempaka Mas Blok N/21, Sumur Batu Kemayoran, Jakarta 10640",
+  "email": "sekretaris.corp@primayahospital.com",
+  "phone": "(+62 21) 4290 0203/04",
+  "fax": "(+62 21) 428 70578",
+  "tax_id": "0018128595027000",
+  "website": "https://primayahospital.com",
+  "listing_date": "2022-11-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di bidang aktivitas perusahaan holding, aktivitas konsultasi manajemen lainnya, dan jasa pelayanan kesehatan melalui Perusahaan Anak",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Kesehatan.",
+    "business_tags": [
+      "Teknologi",
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 38,
+    "name": "Penyedia Jasa Kesehatan"
+  },
+  "sub_industry": {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  "corporate_secretary": {
+    "name": "Mesri Sabriana",
+    "email": "sekretaris.corp@primayahospital.com",
+    "phone": "(+62 21) 421 7746/47"
+  },
+  "directors": [
+    {
+      "name": "Arfan Awaloeddin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yoshen Danun",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Leona Agustine Karnali",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yos Effendi Susanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Setya Handojo Singgih",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Setya Handojo Singgih",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aisyah Juliana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Arief Muharsyahbana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Famon Obor Maju",
+      "type": "Lebih dari 5%",
+      "shares": 6487215267,
+      "percentage": 46.47
+    },
+    {
+      "name": "Hsbc-fund Svs A/c Archipelago Investment Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 3789358400,
+      "percentage": 27.15
+    },
+    {
+      "name": "PT Awal Bros Citra Batam",
+      "type": "Lebih dari 5%",
+      "shares": 2420632176,
+      "percentage": 17.34
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1141702257,
+      "percentage": 8.18
+    },
+    {
+      "name": "Yos Effendi Susanto",
+      "type": "Komisaris",
+      "shares": 120512500,
+      "percentage": 0.86
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yoshen Danun",
+      "type": "Direksi",
+      "shares": 1700,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Famon Global Awal Bros",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 970782,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Famon Global Medika",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 629180,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Selamat Sejahtera",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 343070,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Prima Sentosa",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 229397,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Anugerah Sehati",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 220422,
+      "ownership_percentage": 99.75
+    },
+    {
+      "name": "PT Fortuna Graha Sentosa",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 182966,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Anugerah Medika",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 167793,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Medika Jakarta",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 167024,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Medika Medan",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 139005,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Sentosa Sejahtera",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 137617,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Oikohugis Fortuna Cikini",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 121126,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Fortuna Sentra Medika",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 102412,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Makmur Sejahtera",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 84201,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Griya Medika",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 78497,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Anugerah Bangsa Indonesia",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 76832,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mata Sehat Indonesia",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 60280,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Famon Medika Pangkalpinang",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 51167,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Fortuna Medika Sejahtera",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 50391,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fortuna Maju Medika",
+      "business_type": "Pelayanan Kesehatan",
+      "total_assets": 35518,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sistem Integrasi Medika",
+      "business_type": "Konsultan Ti",
+      "total_assets": 21579,
+      "ownership_percentage": 85.73
+    },
+    {
+      "name": "PT Link Medis Sehat",
+      "business_type": "Platform Digital",
+      "total_assets": 10028,
+      "ownership_percentage": 50.02
+    },
+    {
+      "name": "PT Global Prime System",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 5747,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kava Prima Hanesa",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 310,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Fortuna Farma Sejahtera",
+      "business_type": "Perdagangan Besar Farmasi",
+      "total_assets": 251,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Fortuna Insan Cendekia",
+      "business_type": "Pelatihan dan Pendidikan Kesehatan",
+      "total_assets": 251,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Kasih Karunia Alkesindo",
+      "business_type": "Bidang Kesehatan",
+      "total_assets": 135,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "10.469.566.725.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:51.723Z"
+}

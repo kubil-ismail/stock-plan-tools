@@ -1,0 +1,188 @@
+{
+  "company_name": "Gunawan Dianjaya Steel Tbk",
+  "ticker": "GDST",
+  "office_address": "Jl. Margomulyo No. 29a, Tambak Sarioso, Asemrowo, Surabaya 60184, Jawa Timur",
+  "email": "secretary@gunawansteel.com;hadi.sutjipto@gunawansteel.com",
+  "phone": "031-7490598",
+  "fax": "031-7490581, 7481939",
+  "tax_id": "01.481.535.1-092.000",
+  "website": "https://www.gunawansteel.com",
+  "listing_date": "2009-12-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Besi dan Baja",
+    "business_summary": "Perusahaan bergerak di bidang Baja & Besi.",
+    "business_tags": [
+      "Baja & Besi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Sigis Bahak Mustawan",
+    "email": "corsec@gunawansteel.com",
+    "phone": "031-7490598 psw 206"
+  },
+  "directors": [
+    {
+      "name": "Tetsuro Okano",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gwie Gunadi Gunawan",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gwie Gunato Gunawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hadi Sutjipto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Samuel Hadiwidjaja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andy Soesanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jo Denie",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendar Wirawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir. Hendar Wirawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs.ec. Sugiyanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Drs. Ec. Mujiyanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Gwie Gunato Gunawan",
+      "type": "Direksi",
+      "shares": 3616142265,
+      "percentage": 39.13
+    },
+    {
+      "name": "Gwie Gunadi Gunawan",
+      "type": "Direksi",
+      "shares": 3615792265,
+      "percentage": 39.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1004981540,
+      "percentage": 10.87
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 991980485,
+      "percentage": 10.74
+    },
+    {
+      "name": "Jo Denie",
+      "type": "Komisaris",
+      "shares": 12000000,
+      "percentage": 0.13
+    },
+    {
+      "name": "Hadi Sutjipto",
+      "type": "Direksi",
+      "shares": 1327100,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andy Soesanto",
+      "type": "Direksi",
+      "shares": 276345,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "988.947.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:44.500Z"
+}

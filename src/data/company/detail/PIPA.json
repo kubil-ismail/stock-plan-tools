@@ -1,0 +1,205 @@
+{
+  "company_name": "PT Multi Makmur Lemindo Tbk.",
+  "ticker": "PIPA",
+  "office_address": "Jl. Sultan Iskandar Muda No. 70, Kedaung Baru, Neglasari Tangerang, Banten. 15128",
+  "email": "corsec@mml.co.id",
+  "phone": "+62 (21) 5591 6300",
+  "fax": "+62 (21) 5591 0868",
+  "tax_id": "31.527.725.1-402.000",
+  "website": "https://www.multimakmurlemindo.com",
+  "listing_date": "2023-04-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang manufaktur material bahan bangunan dari plastik berbahan dasar PVC dan perdagangan serta distribusinya melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 51,
+    "name": "Produk & Perlengkapan Bangunan"
+  },
+  "sub_industry": {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  "corporate_secretary": {
+    "name": "Haerul Maelani",
+    "email": "corsec@mml.co.id",
+    "phone": "+62 821-1302-1903"
+  },
+  "directors": [
+    {
+      "name": "Noprian Fadli",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Firrisky Ardi Nurtomo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Nicolas Sahrial Rasjid",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ramdani Eka Saputra",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ramdani E Saputra",
+      "position": "Ketua"
+    },
+    {
+      "name": "V Agung Passinoraga",
+      "position": "Anggota"
+    },
+    {
+      "name": "Alfian Riantoni",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1715567582,
+      "percentage": 50.07
+    },
+    {
+      "name": "Morris Capital Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1710331400,
+      "percentage": 49.92
+    },
+    {
+      "name": "Noprian Fadli",
+      "type": "Direksi",
+      "shares": 198208,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indo Bangun Nusantara",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 249029135,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Kedaung Indah Sarana",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 179372599,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Modern Citra Sarana",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 167213068,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Budiandru dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Andi Ruswandi Wisnu & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Andi Ruswandi Wisnu & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "469.375.315.030",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:14.480Z"
+}

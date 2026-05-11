@@ -1,0 +1,191 @@
+{
+  "company_name": "PT Verona Indah Pictures Tbk",
+  "ticker": "VERN",
+  "office_address": "Graha Arteri Mas Jalan Panjang No. 68, Kav.38-39 Kel. Kedoya Selatan, Kec. Kebon Jeruk, Jakarta Barat, Dki Jakarta",
+  "email": "corsec@veronapictures.co.id",
+  "phone": "021583565634",
+  "fax": "02158356566",
+  "tax_id": "03.078.115.7-086.000",
+  "website": "https://www.veronapictures.co.id",
+  "listing_date": "2024-10-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Aktivitas Produksi, Pasca Produksi, serta Distribusi Film, Video, dan Program Televisi oleh Swasta",
+    "business_summary": "Perusahaan bergerak di bidang Media.",
+    "business_tags": [
+      "Media"
+    ],
+    "business_keywords": [
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 11,
+    "name": "Hiburan & Film"
+  },
+  "sub_industry": {
+    "id": 21,
+    "name": "Hiburan & Film",
+    "industries_id": 11
+  },
+  "corporate_secretary": {
+    "name": "Budiman Darwin Edison",
+    "email": "corsec@veronapictures.co.id",
+    "phone": "02158356563"
+  },
+  "directors": [
+    {
+      "name": "Pie Titin Suryani",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dwi Soenarso Lobo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Evy Supriati",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bedy Kunady",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Abraham Bastari, Mba",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Abraham Bastari, Mba",
+      "position": "Ketua"
+    },
+    {
+      "name": "Natalia Sendjaja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nike Nur Setiya Wati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pie Titin Suryani",
+      "type": "Direksi",
+      "shares": 2222325000,
+      "percentage": 46.63
+    },
+    {
+      "name": "Bedy Kunady",
+      "type": "Komisaris",
+      "shares": 1408925000,
+      "percentage": 29.57
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1121773183,
+      "percentage": 23.54
+    },
+    {
+      "name": "Evy Supriati",
+      "type": "Direksi",
+      "shares": 12625000,
+      "percentage": 0.26
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    },
+    {
+      "name": "Kap Maurice Ganda Nainggolan dan Rekan"
+    },
+    {
+      "name": "Maurice Ganda Nainggolan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "648.128.152.888",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:35.337Z"
+}

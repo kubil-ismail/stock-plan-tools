@@ -1,0 +1,327 @@
+{
+  "company_name": "Metropolitan Kentjana Tbk",
+  "ticker": "MKPI",
+  "office_address": "Jl. Metro Duta Niaga Blok B-5 Pondok Indah Plaza 2, Jakarta 12310",
+  "email": "corsec@pondokindahgroup.co.id",
+  "phone": "(021) 7505757 , 021-7690308",
+  "fax": "(021) 7694989",
+  "tax_id": "01.309.818.1-054.000",
+  "website": "https://www.pondokindahgroup.co.id",
+  "listing_date": "2009-07-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembangunan Perumahan, Gedung dll",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Jeffri Sandra Tanudjaja",
+    "email": "corsec@pondokindahgroup.co.id; henny@pondokindahgroup.co.id",
+    "phone": "021-7505757, 021-7690308"
+  },
+  "directors": [
+    {
+      "name": "Husin Widjajakusuma",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jeffri Sandra Tanudjaja",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjandra Gianto Halim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kenneth Suhadi Purnama",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herman Widjaja",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Whisnu W Tambunan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dra Siti Hartati Murdaya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Junita Ciputra",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Metta Margaretha Murdaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prajna Murdaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Karuna Murdaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Iwan Putra Brasali",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "H. Agam Nugraha Subagdja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fenza Sofyan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Vivian Setjakusuma",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kirana Widjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Upekkha Theresia Murdaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ariesman Auly",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Mia Puspawati",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Profesor Doktor Djokosantoso Moeljono",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Thomas Johannes Angfendy",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Yandi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ariesman Auly",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lanny Bambang",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sutedja",
+      "position": "Anggota"
+    },
+    {
+      "name": "Susanna",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Karuna Paramita Propertindo",
+      "type": "Lebih dari 5%",
+      "shares": 449901150,
+      "percentage": 47.45
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 127484692,
+      "percentage": 13.45
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 79064527,
+      "percentage": 8.34
+    },
+    {
+      "name": "PT Apratima Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 74858027,
+      "percentage": 7.89
+    },
+    {
+      "name": "PT Dwitunggal Permata",
+      "type": "Lebih dari 5%",
+      "shares": 74574027,
+      "percentage": 7.86
+    },
+    {
+      "name": "PT Penta Cosmopolitan",
+      "type": "Lebih dari 5%",
+      "shares": 71041550,
+      "percentage": 7.49
+    },
+    {
+      "name": "PT Buditama Nirwana",
+      "type": "Lebih dari 5%",
+      "shares": 67842027,
+      "percentage": 7.15
+    },
+    {
+      "name": "Iwan Putra Brasali",
+      "type": "Komisaris",
+      "shares": 3366500,
+      "percentage": 0.36
+    },
+    {
+      "name": "Husin Widjajakusuma",
+      "type": "Direksi",
+      "shares": 61500,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pondok Indah Hotel",
+      "business_type": "Perhotelan",
+      "total_assets": 1772661949273,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pondok Indah Hotel",
+      "business_type": "Perhotelan",
+      "total_assets": 1714039992261,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pondok Indah Hotel",
+      "business_type": "Perhotelan",
+      "total_assets": 1671019281820,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Pondok Indah Hotel",
+      "business_type": "Perhotelan",
+      "total_assets": 1665191131189,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Bumi Shangril La Jaya",
+      "business_type": "Real Estat",
+      "total_assets": 64688063855,
+      "ownership_percentage": 99.64
+    },
+    {
+      "name": "PT Bumi Shangril La Jaya",
+      "business_type": "Real Estat",
+      "total_assets": 61737773686,
+      "ownership_percentage": 99.64
+    },
+    {
+      "name": "PT Bumi Shangril La Jaya",
+      "business_type": "Real Estat",
+      "total_assets": 60361468334,
+      "ownership_percentage": 99.64
+    },
+    {
+      "name": "PT Bumi Shangril La Jaya",
+      "business_type": "Real Estat",
+      "total_assets": 58763682107,
+      "ownership_percentage": 99.64
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "21.144.726.200.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:05.720Z"
+}

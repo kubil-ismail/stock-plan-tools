@@ -1,0 +1,203 @@
+{
+  "company_name": "Humpuss Intermoda Transportasi Tbk",
+  "ticker": "HITS",
+  "office_address": "Mangkuluhur City Tower One, Lantai 26 & 27, Jl. Jend. Gatot Subroto Kav. 1, Jakarta 12930",
+  "email": "corpsec@hits.co.id",
+  "phone": "021 - 509 33155",
+  "fax": "021 - 509 66344",
+  "tax_id": "01.601.645.3-091.000",
+  "website": "https://www.hits.co.id",
+  "listing_date": "1997-12-15",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa Pelayaran Ang Laut",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Setiawan T. Widjojo",
+    "email": "corpsec@hits.co.id",
+    "phone": "021 50933155"
+  },
+  "directors": [
+    {
+      "name": "Setiawan T. Widjojo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Marsum",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "A. Puruhitaarga Purnomo W.",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Achmad Agustinus",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Achmad Agustinus",
+      "position": "Ketua"
+    },
+    {
+      "name": "J.t Duma",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mirawati Sudjono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Investa Dharma Putera",
+      "type": "Lebih dari 5%",
+      "shares": 3591041537,
+      "percentage": 50.57
+    },
+    {
+      "name": "PT Menara Cakra Buana",
+      "type": "Lebih dari 5%",
+      "shares": 3070244742,
+      "percentage": 43.23
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 438659447,
+      "percentage": 6.18
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1139075,
+      "percentage": 0.02
+    },
+    {
+      "name": "PT Humpuss",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "H Hutomo Mandala Putra Sh",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Humpuss Maritim Internasional",
+      "business_type": "Jasa Keagenan Awak Kapal",
+      "total_assets": 147951556,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Humpuss Transportasi Kimia",
+      "business_type": "Transportasi Laut",
+      "total_assets": 82795071,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lis Internasional",
+      "business_type": "Jasa Sewa Kapal",
+      "total_assets": 8235404,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "823.725.836.916",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:38.956Z"
+}

@@ -1,0 +1,249 @@
+{
+  "company_name": "PT Topindo Solusi Komunika Tbk.",
+  "ticker": "TOSK",
+  "office_address": "Jalan P. Diponegoro No. 19, Kota Singkawang, Kalimantan Barat 79123",
+  "email": "corsec@topindoku.co.id",
+  "phone": "085348221118",
+  "fax": "",
+  "tax_id": "84.666.664.2-702.000",
+  "website": "https://www.topindoku.co.id",
+  "listing_date": "2024-02-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perseroan bergerak di bidang platform teknologi untuk tujuan komersil",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Properti.",
+    "business_tags": [
+      "Teknologi",
+      "Properti"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Mutsabbit Firas",
+    "email": "corsec@topindoku.co.id",
+    "phone": "085211498899"
+  },
+  "directors": [
+    {
+      "name": "Seiko Manito",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Mutsabbit Firas",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ket Cung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ramadhona",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Deden Hendra Permana",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Robi Cahyadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Muhammad Fahmi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Muhammad Fahmi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Evie Feniyanti",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hendra Satwika",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Seiko Manito",
+      "type": "Direksi",
+      "shares": 2370130000,
+      "percentage": 54.17
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1090997200,
+      "percentage": 24.94
+    },
+    {
+      "name": "Robi Cahyadi",
+      "type": "Komisaris",
+      "shares": 518000100,
+      "percentage": 11.84
+    },
+    {
+      "name": "Deden Hendra Permana",
+      "type": "Direksi",
+      "shares": 297150000,
+      "percentage": 6.79
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 87062500,
+      "percentage": 1.99
+    },
+    {
+      "name": "Mutsabbit Firas",
+      "type": "Direksi",
+      "shares": 10937500,
+      "percentage": 0.25
+    },
+    {
+      "name": "Ket Cung",
+      "type": "Direksi",
+      "shares": 1000000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Muhammad Fahmi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ramadhona",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Topindo Ikon Properti",
+      "business_type": "Pengoperasian Real Estate yang Dimiliki Sendiri atau Sewa",
+      "total_assets": 48264112572,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Uwang Lintas Semesta",
+      "business_type": "Jasa Pembayaran Digital",
+      "total_assets": 15005305359,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Topindo Niaga Nusantara",
+      "business_type": "Penjualan Barang Dagangan",
+      "total_assets": 10795280415,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "280.017.747.200",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:46.525Z"
+}

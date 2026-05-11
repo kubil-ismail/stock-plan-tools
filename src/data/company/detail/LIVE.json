@@ -1,0 +1,234 @@
+{
+  "company_name": "PT Homeco Victoria Makmur Tbk",
+  "ticker": "LIVE",
+  "office_address": "Jl. Kebon Jeruk Raya No. 1a-c, Kel. Kebon Jeruk Kec. Kebon Jeruk, Kota Adm. Jakarta Barat Provinsi Dki Jakarta, 11530, Indonesia",
+  "email": "corpsec@homeco-living.com",
+  "phone": "(021) 53661718",
+  "fax": "(021) 53661719",
+  "tax_id": "03.101.643.9-035.000",
+  "website": "https://www.homeco.co.id",
+  "listing_date": "2024-02-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan besar alat tulis dan gambar, perdagangan besar alat permainan dan mainan anak-anak, perdagangan besar peralatan dan perlengkapan rumah tangga, perdagangan besar tekstil serta perusahaan holding",
+    "business_summary": "Perusahaan bergerak di bidang Perlengkapan Rumah Tangga.",
+    "business_tags": [
+      "Perlengkapan Rumah Tangga"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 7,
+    "name": "Barang Rumah Tangga",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 6,
+    "name": "Barang Rumah Tangga"
+  },
+  "sub_industry": {
+    "id": 74,
+    "name": "Perlengkapan Rumah Tangga",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Muhammad Rizal",
+    "email": "corpsec@homeco-living.com",
+    "phone": "(021)53661718"
+  },
+  "directors": [
+    {
+      "name": "Ellies Kiswoto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Inka Widjojo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Tenny Hariska Surjotedjo",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sjamsoe Fadjar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Krisna Murti",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Wiguna",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Harry Wiguna",
+      "position": "Ketua"
+    },
+    {
+      "name": "Augusta Elen",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ety Kurniati, Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Homeco Global Investasi",
+      "type": "Lebih dari 5%",
+      "shares": 3614320000,
+      "percentage": 78.6918
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 958208275,
+      "percentage": 20.8624
+    },
+    {
+      "name": "Krisna Murti",
+      "type": "Komisaris",
+      "shares": 20256739,
+      "percentage": 0.441
+    },
+    {
+      "name": "Sjamsoe Fadjar",
+      "type": "Komisaris",
+      "shares": 60000,
+      "percentage": 0.0013
+    },
+    {
+      "name": "Ellies Kiswoto",
+      "type": "Direksi",
+      "shares": 60000,
+      "percentage": 0.0013
+    },
+    {
+      "name": "Inka Widjojo",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0.0011
+    },
+    {
+      "name": "Tenny Hariska Surjotedjo",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0.0011
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Trisinar Indopratama",
+      "business_type": "Industri Barang dari Plastik untuk Pengemasan, Industri Mainan Anak-anak, Industri Barang Plastik Lainnya Ytdl, Industri Perlengkapan dan Peralatan Rumah Tangga (tidak Termasuk Furnitur)",
+      "total_assets": 183050810482,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Trisinar Indopratama",
+      "business_type": "Industri Barang dari Plastik untuk Pengemasan, Industri Mainan Anak-anak, Industri Barang Plastik Lainnya Ytdl, Industri Perlengkapan dan Peralatan Rumah Tangga (tidak Termasuk Furnitur)",
+      "total_assets": 183050810482,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Trisinar Indopratama",
+      "business_type": "Industri Barang dari Plastik untuk Pengemasan, Industri Mainan Anak-anak, Industri Barang Plastik Lainnya Ytdl, Industri Perlengkapan dan Peralatan Rumah Tangga (tidak Termasuk Furnitur)",
+      "total_assets": 183050810482,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Trisinar Indopratama",
+      "business_type": "Industri Barang dari Plastik untuk Pengemasan, Industri Mainan Anak-anak, Industri Barang Plastik Lainnya Ytdl, Industri Perlengkapan dan Peralatan Rumah Tangga (tidak Termasuk Furnitur)",
+      "total_assets": 183050810482,
+      "ownership_percentage": 99.72
+    },
+    {
+      "name": "PT Trisinar Indopratama",
+      "business_type": "Industri Barang dari Plastik untuk Pengemasan, Industri Mainan Anak-anak, Industri Barang Plastik Lainnya Ytdl, Industri Perlengkapan dan Peralatan Rumah Tangga (tidak Termasuk Furnitur)",
+      "total_assets": 183050810482,
+      "ownership_percentage": 99.72
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    },
+    {
+      "name": "Kap Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sudarmadji & Dadang"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.038.019.133.164",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:40.479Z"
+}

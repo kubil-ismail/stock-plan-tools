@@ -1,0 +1,220 @@
+{
+  "company_name": "Roda Vivatex Tbk",
+  "ticker": "RDTX",
+  "office_address": "Rdtx Square Lt. 32. Jl. Prof. Dr. Satrio No. 164 - Jakarta Selatan",
+  "email": "corpsec@rdtxgroup.com",
+  "phone": "(021) 25532222 (Hunting)",
+  "fax": "-",
+  "tax_id": "0011054483054000",
+  "website": "http://www.rodavivatex.co.id",
+  "listing_date": "1990-05-14",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Wiriady Widjaja",
+    "email": "geno@rodavivatex.co.id",
+    "phone": "( 021 ) 6386-68-86"
+  },
+  "directors": [
+    {
+      "name": "Wiriady Widjaja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Karta Widjaja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lilik Erika",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Herrijanto Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Irene Kusumo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Soegito",
+      "position": "Ketua"
+    },
+    {
+      "name": "Deri Yudistira",
+      "position": "Anggota"
+    },
+    {
+      "name": "Benni Moerdani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sutiadi Widjaja",
+      "type": "Lebih dari 5%",
+      "shares": 114259300,
+      "percentage": 42.51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 56626848,
+      "percentage": 21.06
+    },
+    {
+      "name": "Turniady Widjaja",
+      "type": "Lebih dari 5%",
+      "shares": 50444500,
+      "percentage": 18.77
+    },
+    {
+      "name": "Wiriady Widjaja",
+      "type": "Direksi",
+      "shares": 22659900,
+      "percentage": 8.43
+    },
+    {
+      "name": "Karta Widjaja",
+      "type": "Direksi",
+      "shares": 17182200,
+      "percentage": 6.39
+    },
+    {
+      "name": "Herrijanto Widjaja",
+      "type": "Komisaris",
+      "shares": 7334500,
+      "percentage": 2.73
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 292752,
+      "percentage": 0.11
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Chitatex Peni",
+      "business_type": "Properti",
+      "total_assets": 3487585414846,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Chitatex Peni",
+      "business_type": "Real Estat",
+      "total_assets": 3428725243866,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chitatex Peni",
+      "business_type": "Real Estat",
+      "total_assets": 3428725243866,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chitatex Peni",
+      "business_type": "Pembangunan, Real Estat, Perdagangan dan Jasa",
+      "total_assets": 3428705477998,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chitatex Peni",
+      "business_type": "Pembangunan, Real Estat, Perdagangan dan Jasa",
+      "total_assets": 3303624871702,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chitatex Peni",
+      "business_type": "Pembangunan, Real Estat, Perdagangan dan Jasa",
+      "total_assets": 3303624871702,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Chitatex Peni",
+      "business_type": "Pembangunan, Real Estat, Perdagangan dan Jasa",
+      "total_assets": 3207102685742,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.166.400.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:43.815Z"
+}

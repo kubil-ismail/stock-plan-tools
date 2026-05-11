@@ -1,0 +1,308 @@
+{
+  "company_name": "Pelayaran Nelly Dwi Putri Tbk",
+  "ticker": "NELY",
+  "office_address": "Jln. Majapahit No. 28 A (dalam), Jakarta 10160",
+  "email": "corsec@nellydwiputri.com",
+  "phone": "021-3859649",
+  "fax": "021-3809280",
+  "tax_id": "01.366.576.5-054.000",
+  "website": "https://www.nellydwiputri.co.id",
+  "listing_date": "2012-10-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pelayaran",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Ria Novriani Putri",
+    "email": "corsec@nellydwiputri.com",
+    "phone": "0213859649"
+  },
+  "directors": [
+    {
+      "name": "Cynthia Sunarko",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Eugene Sunarko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjauw Yani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eduard Halomoan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Koh Tji Beng",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Alias Bin Jumaat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djoko Soemarjanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Djoko Soemarjanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Johendra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ridwan Kautsa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pt.haskojaya Abadi",
+      "type": "Lebih dari 5%",
+      "shares": 1970091600,
+      "percentage": 83.834
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 190294300,
+      "percentage": 8.098
+    },
+    {
+      "name": "Noah Shipping Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 188508800,
+      "percentage": 8.022
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 637300,
+      "percentage": 0.027
+    },
+    {
+      "name": "Eduard Halomoan",
+      "type": "Direksi",
+      "shares": 468000,
+      "percentage": 0.019
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Nel;ly Gaya Kreasi",
+      "business_type": "Holding",
+      "total_assets": 150009930000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Permata Barito Shipyard&engineering",
+      "business_type": "Pembuatan, Pemeliharaan dan Perbaikan Kapal Tarik dan Tongkang",
+      "total_assets": 98499399258,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Permata Barito Shipyard&engineering",
+      "business_type": "Pembuatan, Pemeliharaan dan Perbaikan Kapal Tarik dan Tongkang",
+      "total_assets": 96424527676,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Permata Barito Shipyard&engineering",
+      "business_type": "Pembuatan, Pemeliharaan dan Perbaikan Kapal Tarik dan Tongkang",
+      "total_assets": 93461005733,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Permata Barito Shipyard&engineering",
+      "business_type": "Pembuatan, Pemeliharaan dan Perbaikan Kapal Tarik dan Tongkang",
+      "total_assets": 88991044856,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Permata Barito Shipyard&engineering",
+      "business_type": "Pembuatan, Pemeliharaan dan Perbaikan Kapal Tarik dan Tongkang",
+      "total_assets": 84593111950,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Pelayaran Nelly Anugrah",
+      "business_type": "Angkutan Laut dalam dan Luar Negeri Tramper untuk Barang dan Barang Khusus,konsultasi Transportasi dan Telekominikasi",
+      "total_assets": 24999000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Pelayaran Nelly Anugrah",
+      "business_type": "Angkutan Laut dalam dan Luar Negeri Tramper untuk Barang dan Barang Khusus,konsultasi Transportasi dan Telekominikasi",
+      "total_assets": 24999000000,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT. Pelayaran Nelly Anugrah",
+      "business_type": "Angkutan Laut dalam dan Luar Negeri Tramper untuk Barang dan Barang Khusus,konsultasi Transportasi dan Telekominikasi",
+      "total_assets": 24999000000,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT. Pelayaran Nelly Anugrah",
+      "business_type": "Angkutan Laut dalam dan Luar Negeri Tramper untuk Barang dan Barang Khusus,konsultasi Transportasi dan Telekominikasi",
+      "total_assets": 24999000000,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT. Pelayaran Nelly Anugrah",
+      "business_type": "Angkutan Laut dalam dan Luar Negeri Tramper untuk Barang dan Barang Khusus,konsultasi Transportasi dan Telekominikasi",
+      "total_assets": 24999000000,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT. Pelayaran Hasko Hanly Global",
+      "business_type": "Pelayaran dalam Negeri dan Luar Negeri, Jasa Pelayaran dan Pengangkutan, Jasa Pengangkutan Minyak dan Gas, dan Jasa Penyewaan Kapal Laut",
+      "total_assets": 23248686043,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Pelayaran Hasko Hanly Global",
+      "business_type": "Pelayaran dalam Negeri dan Luar Negeri, Jasa Pelayaran dan Pengangkutan, Jasa Pengangkutan Minyak dan Gas, dan Jasa Penyewaan Kapal Laut",
+      "total_assets": 17654713809,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Pelayaran Hasko Hanly Global",
+      "business_type": "Pelayaran dalam Negeri dan Luar Negeri, Jasa Pelayaran dan Pengangkutan, Jasa Pengangkutan Minyak dan Gas, dan Jasa Penyewaan Kapal Laut",
+      "total_assets": 13880715916,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT. Pelayaran Hasko Hanly Global",
+      "business_type": "Pelayaran dalam Negeri dan Luar Negeri, Jasa Pelayaran dan Pengangkutan, Jasa Pengangkutan Minyak dan Gas, dan Jasa Penyewaan Kapal Laut",
+      "total_assets": 13537456637,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT. Pelayaran Hasko Hanly Global",
+      "business_type": "Pelayaran dalam Negeri dan Luar Negeri, Jasa Pelayaran dan Pengangkutan, Jasa Pengangkutan Minyak dan Gas, dan Jasa Penyewaan Kapal Laut",
+      "total_assets": 13502325091,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT. Nelly Energi Lestarindo",
+      "business_type": "Industri Pembangkit Tenaga Listrik, Pembangkit Tenaga Alternative dan Industri Pembangkit Listrik Tenaga Gas",
+      "total_assets": 12488610769,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Nelly Energi Lestarindo",
+      "business_type": "Industri Pembangkit Tenaga Listrik, Pembangkit Tenaga Alternative dan Industri Pembangkit Listrik Tenaga Gas",
+      "total_assets": 2508259896,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Nelly Energi Lestarindo",
+      "business_type": "Industri Pembangkit Tenaga Listrik, Pembangkit Tenaga Alternative dan Industri Pembangkit Listrik Tenaga Gas",
+      "total_assets": 2495347860,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Nelly Energi Lestarindo",
+      "business_type": "Industri Pembangkit Tenaga Listrik, Pembangkit Tenaga Alternative dan Industri Pembangkit Listrik Tenaga Gas",
+      "total_assets": 2481663601,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT. Nelly Energi Lestarindo",
+      "business_type": "Industri Pembangkit Tenaga Listrik, Pembangkit Tenaga Alternative dan Industri Pembangkit Listrik Tenaga Gas",
+      "total_assets": 2470692633,
+      "ownership_percentage": 99.78
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "728.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:06.265Z"
+}

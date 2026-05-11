@@ -1,0 +1,216 @@
+{
+  "company_name": "PT Graha Prima Mentari Tbk.",
+  "ticker": "GRPM",
+  "office_address": "Gedung Grha Prima Indonesia Jl. Tuparev No. 87 A. Cirebon Jawa Barat",
+  "email": "corsec@grahaprimamentari.co.id",
+  "phone": "+62 231 233500",
+  "fax": "-",
+  "tax_id": "02.690.819.4-426.000",
+  "website": "https://grahaprimamentari.co.id",
+  "listing_date": "2023-07-10",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Bidang Usaha Distribusi Minuman Berkarbonasi",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 49,
+    "name": "Minuman Ringan",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Agus Susanto",
+    "email": "corsec@grahaprimamentari.co.id",
+    "phone": "+62 231 233500"
+  },
+  "directors": [
+    {
+      "name": "Agus Susanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lili Solihah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendriyanto Liem",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rudy Susanto Wijaya",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Theo Lekatompessy",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Theo Lekatompessy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Heri Herdiana",
+      "position": "Anggota"
+    },
+    {
+      "name": "David Kurniawan Chandra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Prima Multi Usaha Indonesia. PT",
+      "type": "Lebih dari 5%",
+      "shares": 1091851700,
+      "percentage": 70.51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 312528220,
+      "percentage": 20.18
+    },
+    {
+      "name": "Agus Susanto",
+      "type": "Direksi",
+      "shares": 144148300,
+      "percentage": 9.31
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tri Usaha Jaya",
+      "business_type": "Distributor",
+      "total_assets": 89076,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Hendry, Ferdy & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "464.526.936.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:10.998Z"
+}

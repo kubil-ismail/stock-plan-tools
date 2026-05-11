@@ -1,0 +1,217 @@
+{
+  "company_name": "Megapolitan Developments Tbk",
+  "ticker": "EMDE",
+  "office_address": "Jl. Cinere Raya 1 A, Limo Kota Depok Jawa Barat 16531",
+  "email": "corporate.secretary@megapolitan-group.com",
+  "phone": "30019938",
+  "fax": "30019939",
+  "tax_id": "01.310.078.9-412.001",
+  "website": "https://www.megapolitan-group.com",
+  "listing_date": "2011-01-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengembangan Kawasan (Developer)",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Ouw Desiyanti",
+    "email": "corporate.secretary@megapolitan-group.com",
+    "phone": "021-30019938"
+  },
+  "directors": [
+    {
+      "name": "Ronald Trisna Wihardja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lora Melani Lowas Barak Rimba",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Radian Wena Wahyudi St",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ouw Desiyanti",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Barbara Angela Barak Rimba",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jennifer Barak Rimba",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hongisisilia, Se",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Anton Bachrul Alam, Sh",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Anton Bachrul Alam",
+      "position": "Ketua"
+    },
+    {
+      "name": "Wiljadi Tan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ari Binsar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Cosmopolitan Persada Developments",
+      "type": "Lebih dari 5%",
+      "shares": 2237018320,
+      "percentage": 66.78
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 720689640,
+      "percentage": 21.51
+    },
+    {
+      "name": "Dbs Bank Ltd Sg-pb Clients",
+      "type": "Lebih dari 5%",
+      "shares": 231147000,
+      "percentage": 6.9
+    },
+    {
+      "name": "Lora Melani Lowas Barak Rimba",
+      "type": "Direksi",
+      "shares": 131490840,
+      "percentage": 3.93
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 29654200,
+      "percentage": 0.88
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mega Pasanggrahan Indah",
+      "business_type": "Perumahan/ Shopping",
+      "total_assets": 2009347424460,
+      "ownership_percentage": 99.38
+    },
+    {
+      "name": "PT Tirta Persada Developments",
+      "business_type": "Perumahan/ Property",
+      "total_assets": 676044873871,
+      "ownership_percentage": 99.89
+    },
+    {
+      "name": "PT Megapolitan Mentari Persada",
+      "business_type": "Perumahan/ Property",
+      "total_assets": 620075873751,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Titan Property",
+      "business_type": "Perumahan/ Apartment",
+      "total_assets": 162198211145,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mega Limo Estate",
+      "business_type": "Perumahan/ Property",
+      "total_assets": 150802099593,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Graha Mentari Persada",
+      "business_type": "Perumahan/ Property",
+      "total_assets": 98115465893,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "264.650.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:57.100Z"
+}

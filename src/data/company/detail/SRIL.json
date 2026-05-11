@@ -1,0 +1,258 @@
+{
+  "company_name": "PT Sri Rejeki Isman Tbk",
+  "ticker": "SRIL",
+  "office_address": "Jl. K.h. Samanhudi 88 Jetis, Sukoharjo Jawa Tengah",
+  "email": "welly.salam@sritex.co.id",
+  "phone": "(0271) 593188",
+  "fax": "(0271) 593488",
+  "tax_id": "01.140.081.9-057.000",
+  "website": "https://www.sritex.co.id",
+  "listing_date": "2013-06-17",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam Industri tekstil dan produk tekstil terpadu",
+    "business_summary": "Perusahaan bergerak di bidang Tekstil.",
+    "business_tags": [
+      "Tekstil"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Welly Salam",
+    "email": "welly.salam@ sritex.co.id",
+    "phone": "(021) 29951650"
+  },
+  "directors": [
+    {
+      "name": "",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Reynard Mandra Poernawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Megawati B. Lukminto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Mira Christina Setiady",
+      "position": "Anggota"
+    },
+    {
+      "name": "Manish Rakheca",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Huddleston Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 12072841076,
+      "percentage": 59.03
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 8158734000,
+      "percentage": 39.89
+    },
+    {
+      "name": "Iwan Setiawan",
+      "type": "Komisaris",
+      "shares": 109116884,
+      "percentage": 0.53
+    },
+    {
+      "name": "Iwan Kurniawan Lukminto",
+      "type": "Direksi",
+      "shares": 107636884,
+      "percentage": 0.52
+    },
+    {
+      "name": "Vonny Imelda Lukminto",
+      "type": "Lebih dari 5%",
+      "shares": 1776000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Margaret Imelda Lukminto",
+      "type": "Lebih dari 5%",
+      "shares": 1036000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Lenny Imelda Lukminto",
+      "type": "Lebih dari 5%",
+      "shares": 1036000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Pengendali Saham",
+      "type": "Saham Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Non Pengendali Saham",
+      "type": "Saham Non Pengendali",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Golden Mountain Textile And Trading Pte. Ltd",
+      "business_type": "Perdagangan Grosir",
+      "total_assets": 550376356,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Golden Legacy Pte. Ltd",
+      "business_type": "Investasi",
+      "total_assets": 415823732,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primayudha Mandirijaya",
+      "business_type": "Pemintalan Benang",
+      "total_assets": 114275989,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bitratex Industries",
+      "business_type": "Pemintalan Benang",
+      "total_assets": 101578353,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sinar Pantja Djaja",
+      "business_type": "Pemintalan Benang",
+      "total_assets": 28154440,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.986.017.819.224",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:37.079Z"
+}

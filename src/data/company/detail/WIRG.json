@@ -1,0 +1,370 @@
+{
+  "company_name": "PT Wir Asia Tbk",
+  "ticker": "WIRG",
+  "office_address": "Jalan Panjang Raya No. 70, Kebon Jeruk, Jakarta 11530 - Indonesia",
+  "email": "corsec@wirglobal.com",
+  "phone": "(021) 5367 8064 / (021) 5080 8151",
+  "fax": "(021) 5366 9283",
+  "tax_id": "003.169.454.0-035.000",
+  "website": "https://www.wir.group",
+  "listing_date": "2022-04-04",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa teknologi informasi termasuk bidang multimedia, telekomunikasi dan periklanan melalui perusahaan anak serta periklanan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Makanan & Minuman, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Makanan & Minuman",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 44,
+    "name": "Perangkat Lunak"
+  },
+  "sub_industry": {
+    "id": 69,
+    "name": "Perangkat Lunak",
+    "industries_id": 44
+  },
+  "corporate_secretary": {
+    "name": "Ira Yuanita",
+    "email": "corsec@wirglobal.com",
+    "phone": "(021) 5367 8064"
+  },
+  "directors": [
+    {
+      "name": "Stephen Budiman, M.im",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Jeffrey Budiman, Ma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Stanislaus Aries Baju Nugroho",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Senja Lazuardy, St",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Daniel Surya Wirjatmo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Michel Budi Wirjatmo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Philip Cahyono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Andreyanto Toemali",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "M. Agus Imam Santoso, Se., Ak",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdinand Bennyanto",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Marco Iswara",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "M. Agus Imam Santoso, Se., Ak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herwin S.a. Situmorang, Se., Ak., Ca., Cpa., Asean Cpa., Cpi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Didit Lasmono, Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 11686792394,
+      "percentage": 97.89
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 251160000,
+      "percentage": 2.104
+    },
+    {
+      "name": "Drs. Andreyanto Toemali",
+      "type": "Komisaris",
+      "shares": 670000,
+      "percentage": 0.006
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Daniel Surya Wirjatmo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michel Budi Wirjatmo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Philip Cahyono",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferdinand Bennyanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marco Iswara",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "M. Agus Imam Santoso, Se., Ak",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Stephen Budiman, M.im",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jeffrey Budiman, Ma",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Stanislaus Aries Baju Nugroho",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Senja Lazuardy, St",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Vatar Media Raya",
+      "business_type": "Aktivitas Konsultasi Komputer dan Manajemen Fasilitas Komputer Lainnya, Portal Web Dan/atau Platform Digital dengan Tujuan Komersial, Periklanan.",
+      "total_assets": 355624257665,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Horeca Akar Mimpi",
+      "business_type": "Berusaha dalam Bidang Perdagangan, Informasi dan Komunikasi, dan Aktivitas Profesional, Ilmiah dan Teknis.",
+      "total_assets": 286059907469,
+      "ownership_percentage": 97.5
+    },
+    {
+      "name": "PT Mata Nilai Republik",
+      "business_type": "Bidang Informasi dan Komunikasi, Aktivitas Profesional, Ilmiah dan Teknis dengan Tujuan Komersial.",
+      "total_assets": 232459905688,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Tiga Akar Mimpi",
+      "business_type": "Aktivitas Konsultasi Komputer dan Manajemen Fasilitas Komputer Lainnya, Portal Web Dan/atau Platform Digital dengan Tujuan Komersial, Periklanan.",
+      "total_assets": 190007193551,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Are Teknologi Kreasi",
+      "business_type": "Aktivitas Bidang Infomasi dan Komunikasi, Aktivitas Profesional, Ilmiah dan Teknis dan Aktivitas Pengembangan Video Game.",
+      "total_assets": 180204923748,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Metaverse Indonesia Makmur",
+      "business_type": "Periklanan dan Portal Web Dan/atau Platform Digital dengan Tujuan Komersial.",
+      "total_assets": 62863069162,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Vatar Media Teknologi",
+      "business_type": "Instalasi/pemasangan Mesin dan Peralatan Industri, Penerbitan Piranti Lunak, Aktivitas Konsultasi Komputer dan Manajemen Fasilitas Komputer Lainnya, Aktivitas Pengolahan Data, Aktivitas Hosting, Portal Web Dan/atau Platform Digital Tanpa Tujuan Komersial.",
+      "total_assets": 42714376699,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Jendela Prima Indonesia",
+      "business_type": "Perdagangan Eceran Melalui Media untuk Barang Campuran, Portal Web Dan/atau Platform Digital dengan Tujuan Komersial.",
+      "total_assets": 11058888872,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Boga Akar Mimpi",
+      "business_type": "Perdagangan Makanan dan Minuman, Penyelenggara Konveksi dan Pameran Dagang, Serta Aktivitas Pemrograman dan Konsultasi Merek.",
+      "total_assets": 3456186244,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Awadah Media Raya",
+      "business_type": "Aktivitas Konsultasi Komputer dan Manajemen Fasilitas Komputer Lainnya, Portal Web Dan/atau Platform Digital dengan Tujuan Komersial, Periklanan, Aktivitas Konsultasi Bisnis dan Broker Bisnis, Aktivitas Profesional, Ilmiah dan Teknis Lainnya.",
+      "total_assets": 898701758,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Awadah Akar Mimpi",
+      "business_type": "Aktivitas Konsultasi Komputer dan Manajemen Fasilitas Komputer Lainnya, Portal Web Dan/atau Platform Digital dengan Tujuan Komersial Periklanan, Aktivitas Konsultasi Bisnis dan Broker.",
+      "total_assets": 662724557,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "943.151.169.126",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:00.955Z"
+}

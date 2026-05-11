@@ -1,0 +1,400 @@
+{
+  "company_name": "Adi Sarana Armada Tbk",
+  "ticker": "ASSA",
+  "office_address": "Gedung Samudera Kirana Lt. 6, Jl. Yos Sudarso No. 88, Sunter, Jakarta Utara 14350, Indonesia",
+  "email": "corporate.secretary@assarent.co.id",
+  "phone": "6530 8811",
+  "fax": "6530 8822",
+  "tax_id": "01.955.213.2-054.000",
+  "website": "https://www.assarent.co.id",
+  "listing_date": "2012-11-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa, perdagangan dan pengangkutan darat",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Logistik, Otomotif.",
+    "business_tags": [
+      "Properti",
+      "Logistik",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 36,
+    "name": "Pengangkutan Darat Penumpang"
+  },
+  "sub_industry": {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  "corporate_secretary": {
+    "name": "Jerry Fandy Tunjungan",
+    "email": "jerry.fandy@assarent.co.id",
+    "phone": "021-65308811"
+  },
+  "directors": [
+    {
+      "name": "Drs. Prodjo Sunarjanto Sekar Pantjawati",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jerry Fandy Tunjungan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jany Candra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tjoeng Suyanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Erida",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hindra Tanujaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Lindawati Gani, Ak., Ca, Fcma, Cgma, Fcpa",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Shanti Lasminingsih P",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lindawati Gani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Christine",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dian Tauriana Siahaan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 1720287285,
+      "percentage": 46.6
+    },
+    {
+      "name": "PT Adi Dinamika Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 851951100,
+      "percentage": 23.08
+    },
+    {
+      "name": "PT Daya Adicipta Mustika",
+      "type": "Lebih dari 5%",
+      "shares": 651400000,
+      "percentage": 17.65
+    },
+    {
+      "name": "Drs Prodjo Sunarjanto Sp",
+      "type": "Direksi",
+      "shares": 342568300,
+      "percentage": 9.28
+    },
+    {
+      "name": "Erida",
+      "type": "Komisaris",
+      "shares": 108071500,
+      "percentage": 2.93
+    },
+    {
+      "name": "Jany Candra",
+      "type": "Direksi",
+      "shares": 10000069,
+      "percentage": 0.27
+    },
+    {
+      "name": "Hindra Tanujaya",
+      "type": "Komisaris",
+      "shares": 5774463,
+      "percentage": 0.16
+    },
+    {
+      "name": "Tjoeng Suyanto",
+      "type": "Direksi",
+      "shares": 1084800,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tri Adi Bersama",
+      "business_type": "Pos Komersial atau Jasa Ekspedissi Pengiriman Barang",
+      "total_assets": 672193,
+      "ownership_percentage": 49.5
+    },
+    {
+      "name": "PT Autopedia Sukses Lestari Tbk",
+      "business_type": "Penjualan Kendaraan Bekas dan Penyertaan Saham pada Entitas Anak",
+      "total_assets": 670998,
+      "ownership_percentage": 77.6
+    },
+    {
+      "name": "PT Tri Adi Bersama",
+      "business_type": "Pos Komersial dan Aktivitas Kurir",
+      "total_assets": 660579,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Tri Adi Bersama",
+      "business_type": "Pos Komersial atau Jasa Ekspedissi Pengiriman Barang",
+      "total_assets": 642910,
+      "ownership_percentage": 49.5
+    },
+    {
+      "name": "PT Autopedia Sukses Lestari Tbk",
+      "business_type": "Penjualan Kendaraan Bekas dan Penyertaan Saham pada Entitas Anak",
+      "total_assets": 641430,
+      "ownership_percentage": 77.6
+    },
+    {
+      "name": "PT Tri Adi Bersama",
+      "business_type": "Pos Komersial atau Jasa Ekspedissi Pengiriman Barang",
+      "total_assets": 638499,
+      "ownership_percentage": 49.5
+    },
+    {
+      "name": "PT Autopedia Sukses Lestari Tbk",
+      "business_type": "Penjualan Kendaraan Bekas dan Penyertaan Saham pada Entitas Anak",
+      "total_assets": 633899,
+      "ownership_percentage": 77.6
+    },
+    {
+      "name": "PT Autopedia Sukses Lestari Tbk",
+      "business_type": "Penjualan Kendaraan Bekas dan Penyertaan Saham pada Entitas Anak",
+      "total_assets": 618810,
+      "ownership_percentage": 77.6
+    },
+    {
+      "name": "PT Tri Adi Bersama",
+      "business_type": "Pos Komersial atau Jasa Ekspedissi Pengiriman Barang",
+      "total_assets": 584313,
+      "ownership_percentage": 49.5
+    },
+    {
+      "name": "PT Adi Sarana Transportasi",
+      "business_type": "Penyediaan Jasa Pengurusan Transportasi",
+      "total_assets": 319581,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tri Adi Bersama",
+      "business_type": "Pos Komersial dan Aktivitas Kurir",
+      "total_assets": 301866,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Adi Sarana Transportasi",
+      "business_type": "Penyediaan Jasa Pengurusan Transportasi",
+      "total_assets": 299729,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adi Sarana Transportasi",
+      "business_type": "Penyediaan Jasa Pengurusan Transportasi",
+      "total_assets": 282753,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adi Sarana Transportasi",
+      "business_type": "Penyediaan Jasa Pengurusan Transportasi",
+      "total_assets": 189231,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adi Sarana Lelang",
+      "business_type": "Balai Lelang",
+      "total_assets": 175247,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Adi Sarana Lelang",
+      "business_type": "Balai Lelang",
+      "total_assets": 169263,
+      "ownership_percentage": 97
+    },
+    {
+      "name": "PT Adi Sarana Logistik",
+      "business_type": "Pengurusan Transportasi",
+      "total_assets": 62076,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Duta Mitra Solusindo",
+      "business_type": "Penyediaan Sumber Daya Manusia dan Manajemen Fungsi Sumber Daya Manusia atau Dikenal sebagai Perusahaan Jasa Outsourcing atau Penyedia Tenaga Kerja",
+      "total_assets": 55641,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Duta Mitra Solusindo",
+      "business_type": "Penyediaan Sumber Daya Manusia dan Manajemen Fungsi Sumber Daya Manusia atau Dikenal sebagai Perusahaan Jasa Outsourcing atau Penyedia Tenaga Kerja",
+      "total_assets": 54023,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Duta Mitra Solusindo",
+      "business_type": "Penyediaan Sumber Daya Manusia dan Manajemen Fungsi Sumber Daya Manusia atau Dikenal sebagai Perusahaan Jasa Outsourcing atau Penyedia Tenaga Kerja",
+      "total_assets": 52619,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Duta Mitra Solusindo",
+      "business_type": "Penyediaan Sumber Daya Manusia dan Manajemen Fungsi Sumber Daya Manusia atau Dikenal sebagai Perusahaan Jasa Outsourcing atau Penyedia Tenaga Kerja",
+      "total_assets": 51094,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Adi Sarana Properti",
+      "business_type": "Pengembang dan Pemborong Umum",
+      "total_assets": 42978,
+      "ownership_percentage": 20
+    },
+    {
+      "name": "PT Duta Mitra Solusindo",
+      "business_type": "Penyedia Juru Mudi",
+      "total_assets": 40148,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Duta Mitra Solusindo",
+      "business_type": "Penyedia Juru Mudi",
+      "total_assets": 30527,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Adi Sarana Investindo",
+      "business_type": "Penyediaan Jasa Manajemen dan Konsultasi, Khususnya Dibidang Investasi",
+      "total_assets": 27106,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adi Sarana Investindo",
+      "business_type": "Penyediaan Jasa Manajemen dan Konsultasi, Khususnya Dibidang Investasi",
+      "total_assets": 26828,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adi Sarana Investindo",
+      "business_type": "Penyediaan Jasa Manajemen dan Konsultasi, Khususnya Dibidang Investasi",
+      "total_assets": 25786,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adi Sarana Investindo",
+      "business_type": "Penyediaan Jasa Manajemen dan Konsultasi, Khususnya Dibidang Investasi",
+      "total_assets": 24947,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adi Sarana Investindo",
+      "business_type": "Perdagangan Besar Atas Dasar Balas Jasa (fee) atau Kontrak",
+      "total_assets": 8270,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Adi Sarana Investindo",
+      "business_type": "Perdagangan Besar Atas Dasar Balas Jasa (fee) atau Kontrak",
+      "total_assets": 7125,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.971.365.701.185",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:54.066Z"
+}

@@ -1,0 +1,210 @@
+{
+  "company_name": "Inti Bangun Sejahtera Tbk",
+  "ticker": "IBST",
+  "office_address": "Jl. Tanjung Karang No. 11, Desa Jati Kulon, Kecamatan Jati, Kabupaten Kudus, Jawa Tengah 59347",
+  "email": "corpsec@ibstower.com",
+  "phone": "(0291) 435984",
+  "fax": "-",
+  "tax_id": "02.492.463.1-054.000",
+  "website": "https://www.ibstower.com",
+  "listing_date": "2012-08-31",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Penyedia Menara & Infrastruktur Telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Telekomunikasi, Konstruksi.",
+    "business_tags": [
+      "Telekomunikasi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 17,
+    "name": "Jasa Telekomunikasi Nirkabel"
+  },
+  "sub_industry": {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  "corporate_secretary": {
+    "name": "Suciratin",
+    "email": "corpsec@ibstower.com",
+    "phone": "0291 - 435984"
+  },
+  "directors": [
+    {
+      "name": "Ramadhan Kurnia Nusa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Doni Wilaga Kusuma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Catherine Sembiring Pelawi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suciratin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Adam Gifari",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rinaldy Santosa",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Haryo Dewanto",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rinaldy Santosa",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jacobus Sindu Adisuwono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Patricia Marina Sugondo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Iforte Solusi Infotek",
+      "type": "Lebih dari 5%",
+      "shares": 1350254095,
+      "percentage": 99.95
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 650832,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Adam Gifari",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Haryo Dewanto",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rinaldy Santosa",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ramadhan Kurnia Nusa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Doni Wilaga Kusuma",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Catherine Sembiring Pelawi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suciratin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "11.448.919.256.325",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:00.660Z"
+}

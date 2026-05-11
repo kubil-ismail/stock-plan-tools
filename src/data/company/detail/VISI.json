@@ -1,0 +1,175 @@
+{
+  "company_name": "PT Satu Visi Putra Tbk.",
+  "ticker": "VISI",
+  "office_address": "Jl. Greges Jaya II Blok B19 Kec. Asemrowo, Kel. Tambak Sarioso, Kota Surabaya, Jawa Timur 60184",
+  "email": "corporatesecretary@satuvisiputra.com",
+  "phone": "(62-031) 7496364 /7497576",
+  "fax": "(62-031) 7499151",
+  "tax_id": "842782716614000",
+  "website": "https://www.satuvisiputra.com",
+  "listing_date": "2024-02-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Perdagangan Besar untuk Bahan Advertising dan Printing seperti Banner, Display, Tinta dan PVC Board",
+    "business_summary": "Perusahaan bergerak di bidang Peralatan Kantor.",
+    "business_tags": [
+      "Peralatan Kantor"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 64,
+    "name": "Peralatan Kantor",
+    "industries_id": 6
+  },
+  "corporate_secretary": {
+    "name": "Rieffa Nur Rochma",
+    "email": "corporatesecretary@satuvisiputra.com",
+    "phone": "(62-031) 7496364 / 7497576"
+  },
+  "directors": [
+    {
+      "name": "David Dwiputra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Farrel Yonathan",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Robert Putra Sampurna",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Uriep Budhi Prasetyo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Uriep Budhi Prasetyo, Mba",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arif M. Prawirawinata, S.e., Ak., Mm., Ca., Qia",
+      "position": "Anggota"
+    },
+    {
+      "name": "Asmamik, S.e.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "David Dwiputra",
+      "type": "Direksi",
+      "shares": 2200000000,
+      "percentage": 71.54
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 615000000,
+      "percentage": 20
+    },
+    {
+      "name": "Farrel Yonathan",
+      "type": "Direksi",
+      "shares": 200000000,
+      "percentage": 6.51
+    },
+    {
+      "name": "Robert Putra Sampurna",
+      "type": "Komisaris",
+      "shares": 60000000,
+      "percentage": 1.95
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Hlb Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Kap Hlb Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kap Hlb Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Kap Hadori Sugiarto Adi & Rekan"
+    },
+    {
+      "name": "Kap Hlb Hadori Sugiarto Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.429.250.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:40.013Z"
+}

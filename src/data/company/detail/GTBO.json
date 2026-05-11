@@ -1,0 +1,214 @@
+{
+  "company_name": "Garda Tujuh Buana Tbk",
+  "ticker": "GTBO",
+  "office_address": "Menara Hijau Building, Lantai 5, Suite 501a, Jl. MT Haryono Kav.33, Jakarta 12770",
+  "email": "corsec@gtb.co.id",
+  "phone": "021- 7943947",
+  "fax": "021- 7942650",
+  "tax_id": "01.667.888.0-061.000",
+  "website": "https://www.gtb.co.id",
+  "listing_date": "2009-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara(Coal Mining)",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Rinaldi",
+    "email": "corporate_secretary@gtb.co.id",
+    "phone": "021 7943947"
+  },
+  "directors": [
+    {
+      "name": "Mastan Singh",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Octavianus Wenas",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Saini Sunil Kumar",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sandeep Kaur D/o Amir Jit Singh",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mastan Singh",
+      "position": "Ketua"
+    },
+    {
+      "name": "Haspasuri Bte Khalil",
+      "position": "Anggota"
+    },
+    {
+      "name": "Murari Lal Puri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Scb Sg S/a Bank J.safra Sarasin Ltd, Sin Gapore Branch A/c Green River Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 834755000,
+      "percentage": 33.39
+    },
+    {
+      "name": "Scb Sg S/a Bank J.safra Sarasin Ltd,sing Apore Branch For Clients A/c",
+      "type": "Lebih dari 5%",
+      "shares": 819501800,
+      "percentage": 32.78
+    },
+    {
+      "name": "PT Garda Minerals",
+      "type": "Lebih dari 5%",
+      "shares": 655251000,
+      "percentage": 26.21
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 188296700,
+      "percentage": 7.532
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2195500,
+      "percentage": 0.088
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mastan Singh",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Octavianus Wenas",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saini Sunil Kumar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sandeep Kaur D/o Amir Jit Singh",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Gtbo International Fze",
+      "business_type": "Trading",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gtbo International Fze",
+      "business_type": "Trading",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gtbo International Fze",
+      "business_type": "Trading",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gtbo International Fze",
+      "business_type": "Trading",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "550.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:13.707Z"
+}

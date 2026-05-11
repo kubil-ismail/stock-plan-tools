@@ -1,0 +1,254 @@
+{
+  "company_name": "PT Transkon Jaya Tbk.",
+  "ticker": "TRJA",
+  "office_address": "Jl. Mulawarman, Manggar, Balikpapan Timur, Kota Balikpapan, Kalimantan Timur 76116",
+  "email": "corporatesecretary@transkon-rent.com",
+  "phone": "(0542) 770401",
+  "fax": "(0542) 770403",
+  "tax_id": "02.133.597.1-725.000",
+  "website": "https://www.transkon-rent.com",
+  "listing_date": "2020-08-27",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Penyewaan Kendaraan",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Otomotif.",
+    "business_tags": [
+      "Logistik",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 36,
+    "name": "Pengangkutan Darat Penumpang"
+  },
+  "sub_industry": {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  "corporate_secretary": {
+    "name": "Rex Alexander Joseph Syauta",
+    "email": "alex_syauta@transkon-rent.com",
+    "phone": "(0542) 770401"
+  },
+  "directors": [
+    {
+      "name": "Kim Joonseok",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Park Jung Ook",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rex Alexander Joseph Syauta",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kim Taejae",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jeong Subok",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kim Hyoyeol",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "R. Hesthi Sambodo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "R. Hesthi Sambodo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Hermanus Barus",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tri Harsono Syahudoyo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Samindo Resources Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1265646100,
+      "percentage": 83.81
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 162970100,
+      "percentage": 10.79
+    },
+    {
+      "name": "PT Damai Investama Sukses",
+      "type": "Lebih dari 5%",
+      "shares": 81583800,
+      "percentage": 5.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kim Joonseok",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Park Jung Ook",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rex Alexander Joseph Syauta",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kim Taejae",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jeong Subok",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kim Hyoyeol",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "R. Hesthi Sambodo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Multinet Perkasa Indonesia",
+      "business_type": "Informasi dan Komunikasi, Perdagangan Besar dan Eceran, Reparasi dan Perawatan Mobil dan Sepeda Motor",
+      "total_assets": 8264,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Borneo Sentana Gemilang",
+      "business_type": "Penyedia Sumber Daya Manusia dan Manajemen Fungsi Sumber Daya Manusia atau Lebih Dikenal sebagai Perusahaan Jasa Outsourching, Industri Suku Cadang",
+      "total_assets": 7451,
+      "ownership_percentage": 99.8
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "196.326.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:09.568Z"
+}

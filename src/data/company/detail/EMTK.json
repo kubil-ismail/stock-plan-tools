@@ -1,0 +1,450 @@
+{
+  "company_name": "Elang Mahkota Teknologi Tbk",
+  "ticker": "EMTK",
+  "office_address": "SCTV Tower, Lantai 18, Senayan City Jl. Asia Afrika Lot 19 Jakarta 10270",
+  "email": "corsec@emtek.co.id",
+  "phone": "021-7278 2066",
+  "fax": "021-7278 2194",
+  "tax_id": "0013 6681 7305 4000",
+  "website": "https://www.emtek.co.id",
+  "listing_date": "2010-01-12",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa dan Perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Properti, Energi, Retail, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Properti",
+      "Energi",
+      "Retail",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "retail",
+      "supermarket",
+      "consumer",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Titi Maria Rusli",
+    "email": "titi.maria@emtek.co.id",
+    "phone": "021-72782066"
+  },
+  "directors": [
+    {
+      "name": "Rd. Alvin W. Sariaatmadja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sutanto Hartono",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yuslinda Nasution",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sutiana Ali",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jay Geoffrey Wacher",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Titi Maria Rusli",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Rd. Eddy K. Sariaatmadja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Susanto Suwarto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Stan Maringka",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Marianna Sutadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Stan Maringka",
+      "position": "Ketua"
+    },
+    {
+      "name": "Emmanuel Bambang Suyitno",
+      "position": "Anggota"
+    },
+    {
+      "name": "Aribowo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 17504185329,
+      "percentage": 28.5
+    },
+    {
+      "name": "Eddy K. Sariaatmadja",
+      "type": "Komisaris",
+      "shares": 13439147454,
+      "percentage": 21.88
+    },
+    {
+      "name": "PT Adikarsa Sarana",
+      "type": "Lebih dari 5%",
+      "shares": 8654560360,
+      "percentage": 14.09
+    },
+    {
+      "name": "Ir. Susanto Suwarto",
+      "type": "Komisaris",
+      "shares": 7117889090,
+      "percentage": 11.59
+    },
+    {
+      "name": "Anthoni Salim",
+      "type": "Lebih dari 5%",
+      "shares": 5510302220,
+      "percentage": 8.97
+    },
+    {
+      "name": "Piet Yaury",
+      "type": "Lebih dari 5%",
+      "shares": 4989564500,
+      "percentage": 8.12
+    },
+    {
+      "name": "PT Prima Visualindo",
+      "type": "Lebih dari 5%",
+      "shares": 3710709980,
+      "percentage": 6.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 243946550,
+      "percentage": 0.4
+    },
+    {
+      "name": "Alvin W. Sariaatmadja",
+      "type": "Direksi",
+      "shares": 105091000,
+      "percentage": 0.17
+    },
+    {
+      "name": "Jay Geoffrey Wacher",
+      "type": "Direksi",
+      "shares": 71949000,
+      "percentage": 0.12
+    },
+    {
+      "name": "Sutanto Hartono",
+      "type": "Direksi",
+      "shares": 37500000,
+      "percentage": 0.06
+    },
+    {
+      "name": "Yuslinda Nasution",
+      "type": "Direksi",
+      "shares": 14246000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Sutiana Ali",
+      "type": "Direksi",
+      "shares": 13860000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Titi Maria Rusli",
+      "type": "Direksi",
+      "shares": 13500000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kreatif Media Karya",
+      "business_type": "Perusahaan Holding dan Jasa Penyedia Konten",
+      "total_assets": 26288635,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Citra Media Tbk.",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 10032535,
+      "ownership_percentage": 78.27
+    },
+    {
+      "name": "PT Sarana Meditama Metropolitan Tbk",
+      "business_type": "Jasa Kesehatan",
+      "total_assets": 5779926,
+      "ownership_percentage": 79
+    },
+    {
+      "name": "PT Roket Cipta Sentosa",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 3603528,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Cakra Arena",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 2513007,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Media Visitama",
+      "business_type": "Perdagangan",
+      "total_assets": 2132245,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Teknologi Optimal Prioritas Sentosa",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 1141414,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abhimata Citra Abadi",
+      "business_type": "Perdagangan dan Jasa Telekomunikasi",
+      "total_assets": 623255,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pariwara Digital Media",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 615925,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Helios Berkat Teknologi",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 464368,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tangara Mitrakom",
+      "business_type": "Jasa Telekomunikasi",
+      "total_assets": 299038,
+      "ownership_percentage": 92
+    },
+    {
+      "name": "PT Indosurya Menara Bersama",
+      "business_type": "Jasa Penyediaan Sewa Tower",
+      "total_assets": 134218,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Global Kencana Propertindo",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 127159,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Inovasi Permata Oxygen",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 127103,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Omni Intivision",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 116934,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Aliansi Sejahtera",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 95078,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Kriya Propertindo",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 76699,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pratama Landasan Usaha Sejahtera",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 54944,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Persada Teknologi",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 49452,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Graha Propertindo",
+      "business_type": "Perdagangan",
+      "total_assets": 44617,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indopay Merchant Services",
+      "business_type": "Perdagangan dan Jasa Telekomunikasi",
+      "total_assets": 14266,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Futura Energi Semesta",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 10960,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Integral Pertama Persada",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 8279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Prima Retailindo",
+      "business_type": "Perdagangan dan Jasa Teknologi Informasi",
+      "total_assets": 4086,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Karya Persada",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 1842,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bitnet Komunikasindo",
+      "business_type": "Jasa Teknologi Informasi",
+      "total_assets": 1055,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elang Pesona Triloka",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Selancar Formula Sejahtera",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 261,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jalan Berkat Sejahtera",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 241,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kreasi Dunia Nusantara",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 241,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "50.676.822.473.475",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:58.610Z"
+}

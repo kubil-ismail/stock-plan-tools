@@ -1,0 +1,322 @@
+{
+  "company_name": "Mitrabahtera Segara Sejati Tbk",
+  "ticker": "MBSS",
+  "office_address": "Autograph Tower, Thamrin Nine Complex, Jl. MH. Thamrin No. 10, Tanah Abang, Jakarta 10230",
+  "email": "corporate.secretary@mbss.co.id",
+  "phone": "(021) 57944766",
+  "fax": "(021) 57944768",
+  "tax_id": "01.641.151.4-054.000",
+  "website": "https://www.mbss.co.id",
+  "listing_date": "2011-04-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pelayaran",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Emy Oktavia",
+    "email": "corporate.secretary@mbss.co.id",
+    "phone": "(021) 57944766"
+  },
+  "directors": [
+    {
+      "name": "Zhang Hao",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Susan Faustine",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Armand Setiawan Tanudjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Wisma Bharuna",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Andre",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kevin Evan Suandar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kevin Evan Suandar",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aldias Witrasiwi, Se., Ak.",
+      "position": "Anggota"
+    },
+    {
+      "name": "I Made Andre Wijaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Galley Adhika Arnawama",
+      "type": "Lebih dari 5%",
+      "shares": 1443766800,
+      "percentage": 82.5
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 306259839,
+      "percentage": 17.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Armand Setiawan Tanudjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wisma Bharuna",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andre",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kevin Evan Suandar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Zhang Hao",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Susan Faustine",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mitra Galley Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 389826392142,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Galley Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 385841238039,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Galley Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 385354850990,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Alam Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 239724594646,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Alam Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 238885347515,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Alam Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 235681728385,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Hartono Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 32368898120,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Mitra Hartono Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 32368898120,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Mitra Hartono Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 32368898120,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Transhipment Teknik Solusi",
+      "business_type": "Jasa",
+      "total_assets": 6060767937,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Transhipment Teknik Solusi",
+      "business_type": "Jasa",
+      "total_assets": 6003791235,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Transhipment Teknik Solusi",
+      "business_type": "Jasa",
+      "total_assets": 5946814533,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Swire Ctm",
+      "business_type": "Pelayaran",
+      "total_assets": 25919790,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Galley Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 24633921,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Alam Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 15864401,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Alam Segara Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 15096891,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mitra Hartono Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 2099695,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Mitra Hartono Sejati",
+      "business_type": "Pelayaran",
+      "total_assets": 2099695,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Transhipment Teknik Solusi",
+      "business_type": "Jasa",
+      "total_assets": 381988,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Transhipment Teknik Solusi",
+      "business_type": "Jasa",
+      "total_assets": 365226,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.130.062.868.040",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:24.400Z"
+}

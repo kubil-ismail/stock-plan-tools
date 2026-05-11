@@ -1,0 +1,260 @@
+{
+  "company_name": "PT Buyung Poetra Sembada Tbk.",
+  "ticker": "HOKI",
+  "office_address": "Pasar Induk Cipinang Blok K No. 17 Jakarta Timur 13230",
+  "email": "corsec@topikoki.com",
+  "phone": "021 5435 3110",
+  "fax": "021 5435 3120",
+  "tax_id": "02.245.813.7-007.000",
+  "website": "https://www.topikoki.com",
+  "listing_date": "2017-06-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Besar, Pertanian, Kehutanan, Perikanan, Pengangkutan, Pergudangan, Aktivitas Profesional, Ilmiah, Teknis, Aktivitas Keuangan, dan Asuransi",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman, Keuangan.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Victor R. Lanes",
+    "email": "corsec@topikoki.com",
+    "phone": "021 5435 3110"
+  },
+  "directors": [
+    {
+      "name": "Sukaking Bujung",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Muliati",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Budiman Susilo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jonathan Jochanan",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Elly Tjandra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sukarta",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Jonathan Jochanan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kurniadi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Shinta Wulandari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Buyung Investama Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 5801826646,
+      "percentage": 59.95
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2928179708,
+      "percentage": 30.2696
+    },
+    {
+      "name": "Sukarto Bujung",
+      "type": "Lebih dari 5%",
+      "shares": 608919506,
+      "percentage": 6.29
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 220000004,
+      "percentage": 2.27
+    },
+    {
+      "name": "Sukarta",
+      "type": "Komisaris",
+      "shares": 62857144,
+      "percentage": 0.65
+    },
+    {
+      "name": "Sukaking Bujung",
+      "type": "Direksi",
+      "shares": 31428572,
+      "percentage": 0.32
+    },
+    {
+      "name": "Elly Tjandra",
+      "type": "Komisaris",
+      "shares": 24500000,
+      "percentage": 0.25
+    },
+    {
+      "name": "Budiman Susilo",
+      "type": "Direksi",
+      "shares": 41100,
+      "percentage": 0.0004
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Hoki Investasi Sejati",
+      "business_type": "Investasi",
+      "total_assets": 306666582312,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Buyung Putra Energi",
+      "business_type": "Perdagangan",
+      "total_assets": 81669375234,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Hoki Distribusi Niaga",
+      "business_type": "Perdagangan",
+      "total_assets": 50187546134,
+      "ownership_percentage": 74.1
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "638.731.676.880",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:43.497Z"
+}

@@ -1,7 +1,9 @@
+import { formatRupiah } from "@/lib/utils";
+import { StockSubsidiaries } from "@/types/stocks";
 import { Building2 } from "lucide-react";
 
 interface Props {
-  item: { name: string; type: string; percentage: string; asset: string };
+  item: StockSubsidiaries;
 }
 
 function SubsidiarieCard(props: Props) {
@@ -22,12 +24,13 @@ function SubsidiarieCard(props: Props) {
         </div>
 
         <p className="text-[12px] text-muted-foreground">
-          <span className="font-medium">Jenis:</span> {item?.type}
+          <span className="font-medium">Jenis:</span> {item?.business_type}
         </p>
 
         <p className="text-[12px] text-muted-foreground">
-          <span className="font-medium">Asset Total:</span> {item?.asset} (
-          {item?.percentage?.split(" ").join("")})
+          <span className="font-medium">Asset Total:</span>{" "}
+          {formatRupiah(item?.total_assets, { prefix: false })} (
+          {item?.ownership_percentage}%)
         </p>
       </div>
     </div>

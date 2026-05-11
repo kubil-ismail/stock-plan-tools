@@ -1,0 +1,568 @@
+{
+  "company_name": "Alam Sutera Realty Tbk",
+  "ticker": "ASRI",
+  "office_address": "Wisma Argo Manunggal, Lt. 18, Jl. Jend. Gatot Subroto Kav. 22, Jakarta 12930",
+  "email": "corsec@alam-sutera.com",
+  "phone": "252 3838",
+  "fax": "252 5050",
+  "tax_id": "01.642.819.5.054.000",
+  "website": "https://www.alamsuterarealty.co.id",
+  "listing_date": "2007-12-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pengembang dan Pembangunan (Real Estate)",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Tony Rudiyanto",
+    "email": "corsec@alam-sutera.com",
+    "phone": "(021) 3043 8888"
+  },
+  "directors": [
+    {
+      "name": "Joseph Sanusi Tjong",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lilia Setiprawarti Sukotjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sari Setyaningrum",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andrew Charles Walker",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mayjen Tni (purn) Tri Tamtomo H.r. Danoeri, S.h.",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Emil Syarief Husen, S.h.",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Haryanto Tirtohadiguno",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Angeline Sutedja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Leo Yulianto Sutedja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pingki Elka Pangestu",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Antonius Ignatius Karamoy",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prasasto Sudyatmiko",
+      "position": "Ketua"
+    },
+    {
+      "name": "Stania Suwita Pranoto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Cecylia Ratna Sari S",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8759254024,
+      "percentage": 44.58
+    },
+    {
+      "name": "PT Manunggal Prime Development",
+      "type": "Lebih dari 5%",
+      "shares": 4163650564,
+      "percentage": 21.19
+    },
+    {
+      "name": "PT Tangerang Fajar Industrial Estate",
+      "type": "Lebih dari 5%",
+      "shares": 2982450000,
+      "percentage": 15.18
+    },
+    {
+      "name": "PT Tangerang Fajar Industrial Estate",
+      "type": "Lebih dari 5%",
+      "shares": 2071900000,
+      "percentage": 10.54
+    },
+    {
+      "name": "PT Maybank Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1668737300,
+      "percentage": 8.49
+    },
+    {
+      "name": "Joseph Sanusi Tjong",
+      "type": "Direksi",
+      "shares": 3420000,
+      "percentage": 0.02
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Nusa Cipta Pratama",
+      "business_type": "Jasa Konsultasi, Investasi, dan Pengelolaan Gedung",
+      "total_assets": 8479704857,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Nusa Cipta Pratama",
+      "business_type": "Jasa Konsultasi, Investasi, dan Pengelolaan Gedung",
+      "total_assets": 8479704857,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Alfa Goldland Realty",
+      "business_type": "Real Estat",
+      "total_assets": 8466113017,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Alfa Goldland Realty",
+      "business_type": "Real Estat",
+      "total_assets": 8466113017,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Mega Persada",
+      "business_type": "Real Estat",
+      "total_assets": 8281443324,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Delta Mega Persada",
+      "business_type": "Real Estat",
+      "total_assets": 8281443324,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Nusa Cipta Pratama",
+      "business_type": "Konsultasi, Investasi dan Pengelolaan Gedung/consultant, Investments And Building Management",
+      "total_assets": 7475138170,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Alfa Goldland Realty",
+      "business_type": "Real Estat dan Pengelola Gedung/real Estate And Building Management",
+      "total_assets": 7461254755,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Cipta Pratama",
+      "business_type": "Jasa Konsultasi, Investasi, dan Pengelolaan Gedung",
+      "total_assets": 7333560011,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Alfa Goldland Realty",
+      "business_type": "Real Estat",
+      "total_assets": 7319731111,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Cipta Pratama",
+      "business_type": "Jasa Konsultasi, Investasi, dan Pengelolaan Gedung",
+      "total_assets": 7182324386,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Alfa Goldland Realty",
+      "business_type": "Real Estat",
+      "total_assets": 7168797590,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Delta Mega Persada",
+      "business_type": "Real Estat/real Estate",
+      "total_assets": 6904344338,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Delta Mega Persada",
+      "business_type": "Real Estat",
+      "total_assets": 6838294127,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Delta Mega Persada",
+      "business_type": "Real Estat",
+      "total_assets": 6795789169,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Tangerang Matra Real Estate",
+      "business_type": "Real Estat dan Pengelolaan Gedung/real Estate And Building Management",
+      "total_assets": 6157785433,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Tangerang Matra Real Estate",
+      "business_type": "Real Estat",
+      "total_assets": 6091330655,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Tangerang Matra Real Estate",
+      "business_type": "Real Estat",
+      "total_assets": 6048538071,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Tangerang Matra Real Estate",
+      "business_type": "Real Estat",
+      "total_assets": 5971295607,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Tangerang Matra Real Estate",
+      "business_type": "Real Estat",
+      "total_assets": 5971295607,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT Duta Prakarsa Development",
+      "business_type": "Real Estat dan Pengelola Gedung",
+      "total_assets": 1500556473,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Duta Prakarsa Development",
+      "business_type": "Real Estat dan Pengelola Gedung",
+      "total_assets": 1500556473,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Garuda Adhimatra Indonesia",
+      "business_type": "Pariwisata dan Real Estat",
+      "total_assets": 1454678230,
+      "ownership_percentage": 90.29
+    },
+    {
+      "name": "PT Garuda Adhimatra Indonesia",
+      "business_type": "Pariwisata dan Real Estat",
+      "total_assets": 1452977298,
+      "ownership_percentage": 90.29
+    },
+    {
+      "name": "PT Garuda Adhimatra Indonesia",
+      "business_type": "Pariwisata dan Real Estat",
+      "total_assets": 1452977298,
+      "ownership_percentage": 90.29
+    },
+    {
+      "name": "PT Garuda Adhimatra Indonesia",
+      "business_type": "Pariwisata dan Real Estat",
+      "total_assets": 1424121539,
+      "ownership_percentage": 90.29
+    },
+    {
+      "name": "PT Garuda Adhimatra Indonesia",
+      "business_type": "Pariwisata dan Real Estat/tourism And Real Estate",
+      "total_assets": 1418731577,
+      "ownership_percentage": 90.29
+    },
+    {
+      "name": "PT Duta Prakarsa Development",
+      "business_type": "Real Estat dan Pengelola Gedung/real Estate And Building Management",
+      "total_assets": 1409537441,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Duta Prakarsa Development",
+      "business_type": "Real Estat dan Pengelola Gedung",
+      "total_assets": 1375469232,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Duta Prakarsa Development",
+      "business_type": "Real Estat dan Pengelola Gedung",
+      "total_assets": 1341469641,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Delta Manunggal Raharja",
+      "business_type": "Real Estat",
+      "total_assets": 1236749016,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Delta Manunggal Raharja",
+      "business_type": "Real Estat",
+      "total_assets": 1236749016,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Delta Manunggal Raharja",
+      "business_type": "Real Estat",
+      "total_assets": 1227936176,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Delta Manunggal Raharja",
+      "business_type": "Real Estat",
+      "total_assets": 1227911381,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Delta Manunggal Raharja",
+      "business_type": "Real Estat/real Estate",
+      "total_assets": 1227365482,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Permata Indah Kedaton",
+      "business_type": "Sub-perusahaan Induk",
+      "total_assets": 577426323,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Duta Realtindo Jaya",
+      "business_type": "Real Estat",
+      "total_assets": 577379710,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Permata Indah Kedaton",
+      "business_type": "Sub-perusahaan Induk",
+      "total_assets": 542737580,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Duta Realtindo Jaya",
+      "business_type": "Real Estat",
+      "total_assets": 542690956,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Permata Indah Kedaton",
+      "business_type": "Sub-perusahaan Induk/sub-holding",
+      "total_assets": 538482838,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Duta Realtindo Jaya",
+      "business_type": "Real Estat/real Estate",
+      "total_assets": 538474945,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Permata Indah Kedaton",
+      "business_type": "Sub-perusahaan Induk",
+      "total_assets": 454794688,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Permata Indah Kedaton",
+      "business_type": "Sub-perusahaan Induk",
+      "total_assets": 454794688,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Duta Realtindo Jaya",
+      "business_type": "Real Estat",
+      "total_assets": 454697808,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Duta Realtindo Jaya",
+      "business_type": "Real Estat",
+      "total_assets": 454697808,
+      "ownership_percentage": 99.2
+    },
+    {
+      "name": "PT Nusa Raya Mitratama",
+      "business_type": "Real Estat/real Estate",
+      "total_assets": 269879719,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Raya Mitratama",
+      "business_type": "Real Estat",
+      "total_assets": 267941445,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Raya Mitratama",
+      "business_type": "Real Estat",
+      "total_assets": 266226862,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Raya Mitratama",
+      "business_type": "Real Estat",
+      "total_assets": 252365090,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Raya Mitratama",
+      "business_type": "Real Estat",
+      "total_assets": 252365090,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Alam Synergy Private Limited",
+      "business_type": "Entitas Bertujuan Khusus",
+      "total_assets": 36514911,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alam Synergy Private Limited",
+      "business_type": "Entitas Bertujuan Khusus",
+      "total_assets": 36514911,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Carlisle Venture Private Limited",
+      "business_type": "Investasi dan Konsultasi Manajemen",
+      "total_assets": 26938155,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Carlisle Venture Private Limited",
+      "business_type": "Investasi dan Konsultasi Manajemen",
+      "total_assets": 26938155,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Merdu Gemilang Mitratama",
+      "business_type": "Jasa Penunjang dan Penyelenggara Acara Seni",
+      "total_assets": 8473957,
+      "ownership_percentage": 72.83
+    },
+    {
+      "name": "PT Merdu Gemilang Mitratama",
+      "business_type": "Jasa Penunjang dan Penyelenggara Acara Seni",
+      "total_assets": 7911618,
+      "ownership_percentage": 72.83
+    },
+    {
+      "name": "PT Merdu Gemilang Mitratama",
+      "business_type": "\"jasa Penunjang dan Penyelenggara Acara Seni/ Supporting Services And Organizing Art Events\"",
+      "total_assets": 7248857,
+      "ownership_percentage": 72.83
+    },
+    {
+      "name": "Carlisle Venture Private Limited",
+      "business_type": "Investasi dan Konsultasi Manajemen",
+      "total_assets": 4031224,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Carlisle Venture Private Limited",
+      "business_type": "Investasi dan Konsultasi Manajemen",
+      "total_assets": 3949497,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Carlisle Venture Pte. Ltd.",
+      "business_type": "Jasa Pelayanan Bisnis, Meminjamkan Dana dan Penjualan Barang/ Business Services, Moneylending And Sale Of Goods",
+      "total_assets": 3433965,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.613.371.781.104",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:51.934Z"
+}

@@ -1,0 +1,386 @@
+{
+  "company_name": "PT Bank Negara Indonesia (persero) Tbk",
+  "ticker": "BBNI",
+  "office_address": "Grha Bni Lantai 24 Jl. Jenderal Sudirman Kavling 1 Jakarta Pusat 10220",
+  "email": "corporate.secretary@bni.co.id",
+  "phone": "021-2511946, 021-5728387",
+  "fax": "021-2511961",
+  "tax_id": "01.001.606.1-093.000",
+  "website": "https://www.bni.co.id",
+  "listing_date": "1996-11-25",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perbankan & Kegiatan Usaha Penunjang Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Okki Rushartomo Budiprabowo",
+    "email": "corporate.secretary@bni.co.id",
+    "phone": "(021) 572 8387"
+  },
+  "directors": [
+    {
+      "name": "Putrama Wahju Setyawan",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Corina Leyla Karnalies",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Hussein Paolo Kartadjoemena",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "David Pirzada",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ronny Venir",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Munadi Herlambang",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Toto Prasetio",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Agung Prabowo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Alexandra Askandar",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rian Kaslan",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Abu Santosa",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Muhammad Iqbal",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Eko Setyo Nugroho",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Omar Sjawaldy Anwar",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tedi Bharata",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Donny Hutabarat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Vera Febyanthy",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Didik Junaidi Rachbini",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Febrio Nathan Kacaribu",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Didik Junaedi Rachbini",
+      "position": "Ketua"
+    },
+    {
+      "name": "Omar Sjawaldy Anwar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Vera Febyanthy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Jhon Fernando Tamba",
+      "position": "Anggota"
+    },
+    {
+      "name": "Alih Suasono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Danantara Asset Management",
+      "type": "Lebih dari 5%",
+      "shares": 22154603872,
+      "percentage": 59.4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 14860721858,
+      "percentage": 39.8444
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 230293264,
+      "percentage": 0.617
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 16377700,
+      "percentage": 0.044
+    },
+    {
+      "name": "Putrama Wahju Setyawan",
+      "type": "Direksi",
+      "shares": 5997426,
+      "percentage": 0.0161
+    },
+    {
+      "name": "Ronny Venir",
+      "type": "Direksi",
+      "shares": 5546296,
+      "percentage": 0.0149
+    },
+    {
+      "name": "Corina Leyla Karnalies",
+      "type": "Direksi",
+      "shares": 5513174,
+      "percentage": 0.0148
+    },
+    {
+      "name": "David Pirzada",
+      "type": "Direksi",
+      "shares": 4866684,
+      "percentage": 0.013
+    },
+    {
+      "name": "Toto Prasetio",
+      "type": "Direksi",
+      "shares": 4222896,
+      "percentage": 0.0113
+    },
+    {
+      "name": "Hussein Paolo Kartadjoemena",
+      "type": "Direksi",
+      "shares": 3075911,
+      "percentage": 0.0082
+    },
+    {
+      "name": "Muhammad Iqbal",
+      "type": "Direksi",
+      "shares": 3064085,
+      "percentage": 0.0082
+    },
+    {
+      "name": "Agung Prabowo",
+      "type": "Direksi",
+      "shares": 1915356,
+      "percentage": 0.0051
+    },
+    {
+      "name": "Rian Eriana Kaslan",
+      "type": "Direksi",
+      "shares": 802397,
+      "percentage": 0.0022
+    },
+    {
+      "name": "Eko Setyo Nugroho",
+      "type": "Direksi",
+      "shares": 311797,
+      "percentage": 0.0008
+    },
+    {
+      "name": "Omar Sjawaldy Anwar",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tedi Bharata",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Donny Hutabarat",
+      "type": "Komisaris",
+      "shares": 200,
+      "percentage": 0
+    },
+    {
+      "name": "Vera Febyanthy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Didik Junaedi Rachbini",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alexandra Askandar",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Abu Santosa Sudradjat",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Munadi Herlambang",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Febrio Nathan Kacaribu",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bni Life Insurance",
+      "business_type": "Asuransi Jiwa",
+      "total_assets": 30630863,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Bank Hibank",
+      "business_type": "Perbankan",
+      "total_assets": 24079865,
+      "ownership_percentage": 63.92
+    },
+    {
+      "name": "PT Bni Multifinance",
+      "business_type": "Pembiayaan",
+      "total_assets": 5610370,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bni Sekuritas dan Entitas Anak",
+      "business_type": "Sekuritas",
+      "total_assets": 2848933,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bni Modal Ventura",
+      "business_type": "Permodalan Ventura",
+      "total_assets": 541235,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "Bni Remittance Ltd.",
+      "business_type": "Jasa Keuangan",
+      "total_assets": 10466,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "137.358.544.003.920",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:45.603Z"
+}

@@ -1,0 +1,263 @@
+{
+  "company_name": "PT Prima Globalindo Logistik Tbk.",
+  "ticker": "PPGL",
+  "office_address": "Green Sedayu Bizpark Blok Gs7 No. 19, Cakung Timur, Cakung, Jakarta Timur 13910",
+  "email": "corporate@pgl-logistic.com",
+  "phone": "021 4609736",
+  "fax": "-",
+  "tax_id": "73.546.150.1-042.000",
+  "website": "https://www.pgl-logistic.com",
+  "listing_date": "2020-07-20",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Jasa Pengurusan Transportasi",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Logistik.",
+    "business_tags": [
+      "Properti",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Syamsul Bahri",
+    "email": "corporate@pgl-logistic.com",
+    "phone": "021 22651324"
+  },
+  "directors": [
+    {
+      "name": "Darmawan Suryadi Sm",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hafez Salammudin",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jap Astrid Patricia",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "I Made Satyaguna",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "I Made Satyaguna",
+      "position": "Ketua"
+    },
+    {
+      "name": "Andreas Sunar Ratnoaji",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ismail Hasan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Darmawan Suryadi Sm",
+      "type": "Direksi",
+      "shares": 409637667,
+      "percentage": 53.12
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 185721520,
+      "percentage": 24.08
+    },
+    {
+      "name": "Jap Astrid Patricia",
+      "type": "Komisaris",
+      "shares": 175818833,
+      "percentage": 22.8
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Armada Berjaya Trans Tbk",
+      "business_type": "Angkutan Multimoda",
+      "total_assets": 200308239541,
+      "ownership_percentage": 45.79
+    },
+    {
+      "name": "PT Armada Berjaya Trans Tbk",
+      "business_type": "Angkutan Multimoda",
+      "total_assets": 167116870653,
+      "ownership_percentage": 34.82
+    },
+    {
+      "name": "PT Armada Berjaya Trans Tbk",
+      "business_type": "Angkutan Multimoda",
+      "total_assets": 166743809893,
+      "ownership_percentage": 42.46
+    },
+    {
+      "name": "PT Aman Bae Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 47985467272,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aman Bae Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 46281359088,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aman Bae Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 35337013275,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aman Bae Perkasa",
+      "business_type": "Real Estate",
+      "total_assets": 23473226297,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aman Bae Perkasa",
+      "business_type": "Real Estate",
+      "total_assets": 22306034757,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aman Bae Perkasa",
+      "business_type": "Real Estate",
+      "total_assets": 21910363377,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aman Bae Berjaya",
+      "business_type": "Real Estate",
+      "total_assets": 12519479028,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aman Bae Berjaya",
+      "business_type": "Real Estate",
+      "total_assets": 5588571456,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "158.862.672.120",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:46.918Z"
+}

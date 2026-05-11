@@ -1,0 +1,259 @@
+{
+  "company_name": "PT Imc Pelita Logistik Tbk",
+  "ticker": "PSSI",
+  "office_address": "Menara Astra 23rd Floor Jl. Jend. Sudirman Kav. 5-6 Jakarta Pusat 10220",
+  "email": "corsec@imcpelitalog.com",
+  "phone": "+62 21 80600800",
+  "fax": "+62 21 80600801",
+  "tax_id": "02.596.644.1-062.000",
+  "website": "https://www.imcpelitalog.com",
+  "listing_date": "2017-12-05",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Angkutan Laut",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Desi Femilinda Safitri",
+    "email": "corsec@imcpelitalog.com",
+    "phone": "021-30006800"
+  },
+  "directors": [
+    {
+      "name": "Yolanda Watulo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Titto Devianto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Coelho Lorenzon Bruno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Achmad Basari",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Basuki Setiogroho",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Adi Harsono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lilis Halim",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Loh Niap Juan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mostfly Ang",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lilis Halim",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs. Suhari Harliman",
+      "position": "Anggota"
+    },
+    {
+      "name": "Irma Stamboel",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Indoprima Marine",
+      "type": "Lebih dari 5%",
+      "shares": 2374400000,
+      "percentage": 43.832
+    },
+    {
+      "name": "Kendilo Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 1523190946,
+      "percentage": 28.118
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 889315507,
+      "percentage": 16.418
+    },
+    {
+      "name": "PT Bio Permai",
+      "type": "Lebih dari 5%",
+      "shares": 332686100,
+      "percentage": 6.14
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 295874000,
+      "percentage": 5.462
+    },
+    {
+      "name": "Adi Harsono",
+      "type": "Komisaris",
+      "shares": 1250000,
+      "percentage": 0.024
+    },
+    {
+      "name": "Titto Devianto",
+      "type": "Direksi",
+      "shares": 346600,
+      "percentage": 0.006
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pelita Global Logistik",
+      "business_type": "Jasa Angkutan Laut",
+      "total_assets": 96776667,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pusaka Lautan Berlian",
+      "business_type": "Jasa Angkutan Laut",
+      "total_assets": 21458651,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Pelita Samudera Sreeya",
+      "business_type": "Jasa Angkutan Laut",
+      "total_assets": 13879989,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Pelita Logistic Pte. Ltd.",
+      "business_type": "Jasa Angkutan Laut",
+      "total_assets": 7443400,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis, & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Purwantono, Sungkoro dan Surja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.830.967.345.714",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:03.534Z"
+}

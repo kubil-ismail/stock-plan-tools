@@ -1,0 +1,177 @@
+{
+  "company_name": "Merck Tbk",
+  "ticker": "MERK",
+  "office_address": "Jl. Tb. Simatupang No. 8, Pasar Rebo, Jakarta Timur",
+  "email": "melisa.sandrianti@merckgroup.com",
+  "phone": "28565600",
+  "fax": "28565601",
+  "tax_id": "01.002.148.3-054.000",
+  "website": "https://www.merck.co.id",
+  "listing_date": "1981-07-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Farmasi",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Melisa Sandrianti",
+    "email": "contact.id@merckgroup.com",
+    "phone": "28565600"
+  },
+  "directors": [
+    {
+      "name": "Evie Yulin",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bambang Nurcahyo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arryo Aritrixso Wachjuwidajat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Parulian Simanjuntak",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tang Mei Lin",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Parulian Simanjuntak",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Tang Mei Lin",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Parulian Simanjuntak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rico Notosagoro",
+      "position": "Anggota"
+    },
+    {
+      "name": "Swandayani Halim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Merck Holding Gmbh",
+      "type": "Lebih dari 5%",
+      "shares": 331483000,
+      "percentage": 73.99
+    },
+    {
+      "name": "Emedia Export Company Mbh",
+      "type": "Lebih dari 5%",
+      "shares": 56711920,
+      "percentage": 12.66
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 56053080,
+      "percentage": 12.51
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3752000,
+      "percentage": 0.84
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "0",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.881.600.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:45.900Z"
+}

@@ -1,0 +1,459 @@
+{
+  "company_name": "PT Tbs Energi Utama Tbk",
+  "ticker": "TOBA",
+  "office_address": "Treasury Tower, Level 33, District 8, SCBD Lot 28 Jl. Jend Sudirman Kav. 52-53 Jakarta 12190",
+  "email": "corsec@thisistbs.com",
+  "phone": "021-50200353",
+  "fax": "021-50200352",
+  "tax_id": "02.672.081.3-054.000",
+  "website": "https://www.thisistbs.com",
+  "listing_date": "2012-07-06",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "pertambangan batubara melalui entitas anak",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Batubara, Properti, Energi, Manufaktur, Otomotif.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Batubara",
+      "Properti",
+      "Energi",
+      "Manufaktur",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "batubara",
+      "coal",
+      "mining",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Pingkan Ratna Melati",
+    "email": "corsec@tbsenergi.com",
+    "phone": "021-50200353"
+  },
+  "directors": [
+    {
+      "name": "Dicky Yordan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Alvin Firman Sunanda",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Juli Oktarina",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mufti Utomo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sudharmono Saragih",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Ahmad Fuad Rahmany",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yasmin S. Wirjawan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kang Tzu Ping (frances Kang)",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Judy Lee",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Ahmad Fuad Rahmany",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Rajani Panjaitan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yen Yen Setiawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Highland Strategic Holdings Pte . Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 4983799956,
+      "percentage": 60.356
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2410170642,
+      "percentage": 29.189
+    },
+    {
+      "name": "Toba Sejahtra, PT",
+      "type": "Lebih dari 5%",
+      "shares": 658488144,
+      "percentage": 7.975
+    },
+    {
+      "name": "Dicky Yordan",
+      "type": "Direksi",
+      "shares": 125801321,
+      "percentage": 1.523
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 60000000,
+      "percentage": 0.727
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 9938200,
+      "percentage": 0.12
+    },
+    {
+      "name": "Alvin Firman Sunanda",
+      "type": "Direksi",
+      "shares": 4018432,
+      "percentage": 0.048
+    },
+    {
+      "name": "Juli Oktarina",
+      "type": "Direksi",
+      "shares": 3726244,
+      "percentage": 0.045
+    },
+    {
+      "name": "Mufti Utomo",
+      "type": "Direksi",
+      "shares": 770996,
+      "percentage": 0.009
+    },
+    {
+      "name": "Sudharmono Saragih",
+      "type": "Direksi",
+      "shares": 688996,
+      "percentage": 0.008
+    },
+    {
+      "name": "Dr. A. Fuad Rahmany",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yasmin S. Wirjawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kang Tzu Ping (frances Kang)",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Judy Lee",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Cora Environment Group Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Penanganan dan Pembuangan Limbah",
+      "total_assets": 527765752,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Bersih Tbs",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 493553409,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sbt Invest Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 488083880,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sbt Investment 2 Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 421836955,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Toba Bara Energi",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 142704987,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cora Environment Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Pengumpulan Limbah",
+      "total_assets": 119855741,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adimitra Baratama Nusantara",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 91138023,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Sbt Investment 1 Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 55267299,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Taonga Holdings Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 55180874,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karya Baru Tbs (kepemilikan Tidak Langsung)",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 47999029,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Toba Bumi Energi",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 44444647,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indomining (kepemilikan Tidak Langsung)",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 39672508,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Trisensa Mineral Utama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 32381564,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Baru Tbs",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 27365921,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Asia Medical Enviro Services Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Penanganan dan Pembuangan Limbah",
+      "total_assets": 22460011,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Kreasi Bersama (kepemilikan Tidak Langsung)",
+      "business_type": "Perdagangan Besar dan Eceran Kendaraan",
+      "total_assets": 19358496,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Adimitra Baratama Niaga (kepemilikan Tidak Langsung)",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 16854299,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Adimitra Resources Pte. Ltd (kepemilikan Tidak Langsung)",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 12460314,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Cora Environment Services Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Pengumpulan Limbah",
+      "total_assets": 9565164,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Perkebunan Kaltim Utama I",
+      "business_type": "Perkebunan dan Pengolahan Kelapa Sawit",
+      "total_assets": 9120760,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "Sembcorp Enviro Facility Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Pengembang Real Estate",
+      "total_assets": 8852133,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Arah Environmental Indonesia (kepemilikan Tidak Langsung)",
+      "business_type": "Jasa Pengelolaan Limbah Bahan Berbahaya dan Beracun dan Sampah Lainnya",
+      "total_assets": 5273127,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kreasi Terbarukan Tbs (kepemilikan Tidak Langsung)",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 4109229,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Alam Lestari (kepemilikan Tidak Langsung)",
+      "business_type": "Jasa Pengelolaan Limbah Bahan Berbahaya dan Beracun dan Sampah Lainnya",
+      "total_assets": 2820538,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Batam Tirta Surya (kepemilikan Tidak Langsung)",
+      "business_type": "Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 2547717,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Manufaktur Kreasi Bangsa (kepemilikan Tidak Langsung)",
+      "business_type": "Industri Pengolahan",
+      "total_assets": 253148,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Solusi Asri Lestari (kepemilikan Tidak Langsung)",
+      "business_type": "Jasa Pengelolaan Limbah Bahan Berbahaya dan Beracun dan Sampah Lainnya",
+      "total_assets": 159223,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Batam Energi Surya Sentosa (kepemilikan Tidak Langsung)",
+      "business_type": "Jasa Pembangkit Transmisi Distribusi dan Penjualan Tenaga Listrik",
+      "total_assets": 7532,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Alam Sejahtera (kepemilikan Tidak Langsung)",
+      "business_type": "Pembangkitan Listrik Mandiri",
+      "total_assets": 6938,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Azzurro Holdings Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Perusahaan Holding",
+      "total_assets": 6684,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Tirta Energi (kepemilikan Tidak Langsung)",
+      "business_type": "Aktivitas Konsultasi Manajemen Lainnya",
+      "total_assets": 5867,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Niaga Ekosistem (kepemilikan Tidak Langsung)",
+      "business_type": "Jasa Pengelolaan Limbah Elektronik Lainnya",
+      "total_assets": 5420,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Biomassa Alam Energi (kepemilikan Tidak Langsung)",
+      "business_type": "Produsen Pembangkit Listrik Mandiri",
+      "total_assets": 1681,
+      "ownership_percentage": 85
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.706.719.670.670",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:41.041Z"
+}

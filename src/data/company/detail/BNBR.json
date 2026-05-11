@@ -1,0 +1,261 @@
+{
+  "company_name": "Bakrie & Brothers Tbk",
+  "ticker": "BNBR",
+  "office_address": "Bakrie Tower, Lantai 35, 36, dan 37, Rasuna Epicentrum, Jl. Hr. Rasuna Said, Jakarta 12940",
+  "email": "management@bakrie.co.id",
+  "phone": "+62 21 2991 2222",
+  "fax": "+62 21 2991 2333",
+  "tax_id": "01.000.913.2-054.000",
+  "website": "https://www.bakrie-brothers.com",
+  "listing_date": "1989-08-28",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan dan Penyertaan",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 28,
+    "name": "Perusahaan Holding Multi Sektor",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 50,
+    "name": "Perusahaan Holding Multi-sektor"
+  },
+  "sub_industry": {
+    "id": 76,
+    "name": "Perusahaan Holding Multi-sektor",
+    "industries_id": 50
+  },
+  "corporate_secretary": {
+    "name": "Christofer Alexander Uktolseja",
+    "email": "christ@bakrie.co.id",
+    "phone": "(021) 29912222"
+  },
+  "directors": [
+    {
+      "name": "Anindya Novyan Bakrie",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Anindra Ardiansyah Bakrie",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hendrajanto Marta Sakti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "R.a. Sri Dharmayanti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kartini Sally",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Armansyah Yamin",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Raniwati Malik",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Syailendra S. Bakrie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Adika Aryasthana Bakrie",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Adrian Toho Parada Panggabean",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Adrian T. Parada Panggabean",
+      "position": "Ketua"
+    },
+    {
+      "name": "Raniwati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Arief A. Dhani",
+      "position": "Anggota"
+    },
+    {
+      "name": "A. Kristiyanto Wahyu Indriya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 57984078902,
+      "percentage": 33.43
+    },
+    {
+      "name": "Port Fraser International Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 38857777917,
+      "percentage": 22.41
+    },
+    {
+      "name": "Fountain City Investment Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 38445133000,
+      "percentage": 22.17
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 14686331055,
+      "percentage": 8.47
+    },
+    {
+      "name": "Eurofa Capital Investment Inc",
+      "type": "Lebih dari 5%",
+      "shares": 11718750000,
+      "percentage": 6.76
+    },
+    {
+      "name": "Levoca Enterprise Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 9219385798,
+      "percentage": 5.32
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2488136038,
+      "percentage": 1.43
+    },
+    {
+      "name": "R.a Sri Dharmayanti",
+      "type": "Direksi",
+      "shares": 13223000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Armansyah Yamin",
+      "type": "Komisaris",
+      "shares": 4000000,
+      "percentage": 0
+    },
+    {
+      "name": "Armansyah Yamin",
+      "type": "Komisaris",
+      "shares": 16799,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bakrie Metal Industries",
+      "business_type": "Pabrikan",
+      "total_assets": 3036121,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bakrie Building Industries",
+      "business_type": "Pabrikan",
+      "total_assets": 876492,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bakrie Indo Infrastructure",
+      "business_type": "Jasa",
+      "total_assets": 669890,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Sebastopol Inc",
+      "business_type": "Investasi",
+      "total_assets": 17631,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bakrie Solusi Strategis",
+      "business_type": "Perdagangan",
+      "total_assets": 4564,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bakrie Harper",
+      "business_type": "Konstruksi Baja",
+      "total_assets": 678,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "37.111.202.156.926",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:51.215Z"
+}

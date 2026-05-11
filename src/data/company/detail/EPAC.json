@@ -1,0 +1,235 @@
+{
+  "company_name": "PT Megalestari Epack Sentosaraya Tbk.",
+  "ticker": "EPAC",
+  "office_address": "Ruko Mutiara Taman Palem C8 No. 2 Kel. Cengkareng Timur Kec.cengkareng Kota Jakarta Barat",
+  "email": "corsec@epack.co.id",
+  "phone": "021 2966 7018",
+  "fax": "021 2966 7099",
+  "tax_id": "31.765.604.3-034.000",
+  "website": "https://www.epack.co.id",
+  "listing_date": "2020-07-01",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang Industri Barang dari Plastik untuk Pengemasan,Industri Barang Plastik Lembaran",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Ignatio Hugo Permana",
+    "email": "corsec@epack.co.id",
+    "phone": "02129667018"
+  },
+  "directors": [
+    {
+      "name": "Bahar",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Nicky Gunhadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Alex Budiarjo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bong Kioen Thian",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Abraham Bastari, Mba",
+      "position": "Ketua"
+    },
+    {
+      "name": "Elizabeth Rina Gunawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hana Britania",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 954568900,
+      "percentage": 28.9
+    },
+    {
+      "name": "PT Omni Multi Industrindo",
+      "type": "Lebih dari 5%",
+      "shares": 800000000,
+      "percentage": 24.22
+    },
+    {
+      "name": "Drs. Ryan Permana",
+      "type": "Lebih dari 5%",
+      "shares": 664799600,
+      "percentage": 20.12
+    },
+    {
+      "name": "Nessy Sarinda",
+      "type": "Lebih dari 5%",
+      "shares": 476871500,
+      "percentage": 14.44
+    },
+    {
+      "name": "Suhanda Wijaya",
+      "type": "Lebih dari 5%",
+      "shares": 225400000,
+      "percentage": 6.82
+    },
+    {
+      "name": "Bahar",
+      "type": "Direksi",
+      "shares": 181760000,
+      "percentage": 5.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nicky Gunhadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Alex Budiarjo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Epac Flexibles Indonesia",
+      "business_type": "Industri Manufaktur",
+      "total_assets": 76627476884,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Epac Flexibles Asia Pte Ltd",
+      "business_type": "Investasi",
+      "total_assets": 25172746531,
+      "ownership_percentage": 85
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "260.968.600.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:04.332Z"
+}

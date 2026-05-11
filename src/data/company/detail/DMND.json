@@ -1,0 +1,439 @@
+{
+  "company_name": "PT Diamond Food Indonesia Tbk.",
+  "ticker": "DMND",
+  "office_address": "Gedung Tcc Batavia Tower One, Lantai 15, Unit 03 & 05. Jl. Kh Mas Mansyur Kav. 126, Jakarta Pusat, 10220",
+  "email": "0",
+  "phone": "(021) 6405678",
+  "fax": "(021) 6452945",
+  "tax_id": "016993883411000",
+  "website": "https://www.diamondfoodindonesia.com",
+  "listing_date": "2020-01-22",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di bidang industri dan distribusi makanan dan minuman melalui Entitas Anak dan jasa konsultasi manajemen",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Makanan & Minuman.",
+    "business_tags": [
+      "Teknologi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 86,
+    "name": "Ritel & Distributor Makanan",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Arinta Meidia Harsono",
+    "email": "corporate.secretary@diamond.co.id",
+    "phone": "(021) 28649888"
+  },
+  "directors": [
+    {
+      "name": "",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "C. Tedjo Endriyarto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Istama Tatang Sidharta",
+      "position": "Anggota"
+    },
+    {
+      "name": "Lim Beng Lin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Chen Tsen Nan",
+      "type": "Komisaris",
+      "shares": 3306889113,
+      "percentage": 34.93
+    },
+    {
+      "name": "Anderson Investment Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 1892724964,
+      "percentage": 19.99
+    },
+    {
+      "name": "Kenneth Chen",
+      "type": "Lebih dari 5%",
+      "shares": 1881573854,
+      "percentage": 19.87
+    },
+    {
+      "name": "Chen Wai Sioe",
+      "type": "Lebih dari 5%",
+      "shares": 971832425,
+      "percentage": 10.26
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 757482849,
+      "percentage": 8
+    },
+    {
+      "name": "Astrawati Aluwi",
+      "type": "Lebih dari 5%",
+      "shares": 657855795,
+      "percentage": 6.95
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sukanda Djaya",
+      "business_type": "Penjualan dan Distribusi Produk Makanan dan Minuman",
+      "total_assets": 4499830,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sukanda Djaya",
+      "business_type": "Penjualan dan Distribusi Produk Makanan dan Minuman",
+      "total_assets": 4496132,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sukanda Djaya",
+      "business_type": "Penjualan dan Distribusi Produk Makanan dan Minuman",
+      "total_assets": 4496132,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sukanda Djaya",
+      "business_type": "Penjualan dan Distribusi Produk Makanan dan Minuman",
+      "total_assets": 4462816,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sukanda Djaya",
+      "business_type": "Penjualan dan Distribusi Produk Makanan dan Minuman",
+      "total_assets": 4187448,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Diamond Cold Storage",
+      "business_type": "Produksi dan Pemrosesan Produk Berbahan Dasar Susu dan Produk Makanan Beku",
+      "total_assets": 2337217,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Diamond Cold Storage",
+      "business_type": "Produksi dan Pemrosesan Produk Berbahan Dasar Susu dan Makanan Beku",
+      "total_assets": 2325890,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Diamond Cold Storage",
+      "business_type": "Produksi dan Pemrosesan Produk Berbahan Dasar Susu dan Produk Makanan Beku",
+      "total_assets": 2322742,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Diamond Cold Storage",
+      "business_type": "Produksi dan Pemrosesan Produk Berbahan Dasar Susu dan Produk Makanan Beku",
+      "total_assets": 2322742,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Diamond Cold Storage",
+      "business_type": "Produksi dan Pemrosesan Produk Berbahan Dasar Susu dan Produk Makanan Beku",
+      "total_assets": 2110875,
+      "ownership_percentage": 99.94
+    },
+    {
+      "name": "PT Indogourmet Sarana Cemerlang",
+      "business_type": "Penjualan dan Distribusi Peralatan dan Perlengkapan Non Makanan",
+      "total_assets": 88242,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Indogourmet Sarana Cemerlang",
+      "business_type": "Penjualan dan Distribusi Peralatan dan Perlengkapan Non Makanan",
+      "total_assets": 88242,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Indogourmet Sarana Cemerlang",
+      "business_type": "Penjualan dan Distribusi Peralatan dan Perlengkapan No Makanan",
+      "total_assets": 77588,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Indogourmet Sarana Cemerlang",
+      "business_type": "Penjualan dan Distribusi Peralatan dan Perlengkapan",
+      "total_assets": 73788,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Lndogourmet Sarana Cemerlang",
+      "business_type": "Penjualan dan Distribusi Peralatan dan Perlengkapan Non Makanan",
+      "total_assets": 69161,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Diamondfair Ritel Indonesia",
+      "business_type": "Ritel Produk Makanan dan Minuman",
+      "total_assets": 51076,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Diamondfair Ritel Indonesia",
+      "business_type": "Ritel Produk Makanan dan Minuman",
+      "total_assets": 44726,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Diamondfair Ritel Indonesia",
+      "business_type": "Ritel Produk Makanan dan Minuman",
+      "total_assets": 44726,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Diamondfair Ritel Indonesia",
+      "business_type": "Ritel Produk Makanan dan Minuman",
+      "total_assets": 44239,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Diamondfair Ritel Indonesia",
+      "business_type": "Ritel Produk Makanan dan Minuman",
+      "total_assets": 41089,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Fit Indonesia Tama",
+      "business_type": "Perdagangan Besar Makanan dan Minuman Lainnya",
+      "total_assets": 6842,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Telunjuk Komputasi Indonesia",
+      "business_type": "Portal Jaringan Dan/atau Platform Digital dengan Tujuan Komersial",
+      "total_assets": 3805,
+      "ownership_percentage": 81
+    },
+    {
+      "name": "PT Telunjuk Komputasi Indonesia",
+      "business_type": "Plortal Jaringan dan atau Plattform Digital dengan Tujuan Komersial",
+      "total_assets": 2981,
+      "ownership_percentage": 81
+    },
+    {
+      "name": "PT Telunjuk Komputasi Indonesia",
+      "business_type": "Portal Jaringan",
+      "total_assets": 2544,
+      "ownership_percentage": 81
+    },
+    {
+      "name": "PT Telunjuk Komputasi Indonesia",
+      "business_type": "Portal Jaringan Dan/atau Platform Digital dengan Tujuan Komersial",
+      "total_assets": 2458,
+      "ownership_percentage": 81
+    },
+    {
+      "name": "PT Telunjuk Komputasi Indonesia",
+      "business_type": "Portal Jaringan Dan/atau Platform Digital dengan Tujuan Komersial",
+      "total_assets": 2458,
+      "ownership_percentage": 81
+    },
+    {
+      "name": "PT Fit Indonesia Tama",
+      "business_type": "Perdagangan Besar Makanan dan Minuman Lainnya",
+      "total_assets": 2387,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Fit Indonesia Tama",
+      "business_type": "Perdagangan Besar Makanan dan Minuman Lainnya",
+      "total_assets": 2104,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Fit Indonesia Tama",
+      "business_type": "Perdagangan Besar Makanan dan Minuman Lainnya",
+      "total_assets": 2052,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Fit Indonesia Tama",
+      "business_type": "Perdagangan Besar Makanan dan Minuman Lainnya",
+      "total_assets": 2052,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Siddharta & Widjaja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "6.107.091.555.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:20.396Z"
+}

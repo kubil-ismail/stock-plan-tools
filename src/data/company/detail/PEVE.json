@@ -1,0 +1,264 @@
+{
+  "company_name": "PT Penta Valent Tbk",
+  "ticker": "PEVE",
+  "office_address": "Jl. Kedoya Raya No. 33, Kedoya Utara, Kebon Jeruk 11520",
+  "email": "corpsec@ptpv.co.id",
+  "phone": "(021)5673891",
+  "fax": "(021) 5668005",
+  "tax_id": "01.305.436.6-056.000",
+  "website": "http://www.pentavalent.co.id",
+  "listing_date": "2023-01-24",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Distributor Produk Farmasi dan Produk Konsumsi",
+    "business_summary": "Perusahaan bergerak di bidang Kesehatan.",
+    "business_tags": [
+      "Kesehatan"
+    ],
+    "business_keywords": [
+      "hospital",
+      "rumah sakit",
+      "healthcare",
+      "farmasi",
+      "pharmacy"
+    ]
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 9,
+    "name": "Farmasi & Riset Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 10,
+    "name": "Farmasi"
+  },
+  "sub_industry": {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  "corporate_secretary": {
+    "name": "Ariyanto Ferdinandus",
+    "email": "corpsec@ptpv.co.id",
+    "phone": "(021)5673891"
+  },
+  "directors": [
+    {
+      "name": "Sukismo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Franxiscus Afat Adinata Nursalim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sukismo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Franxiscus Afat Adinata Nursalim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hermanto Tanoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lukas Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hermanto Tanoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lukas Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lukas Rusli",
+      "position": "Ketua"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tancorp Mega Buana",
+      "type": "Lebih dari 5%",
+      "shares": 1412500000,
+      "percentage": 80
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 324875000,
+      "percentage": 18.4
+    },
+    {
+      "name": "Franxiscus Afat Adinata Nursalim",
+      "type": "Direksi",
+      "shares": 28250000,
+      "percentage": 1.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hermanto Tanoko",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sukismo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Melisa Patricia",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lukas Rusli",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mega Depo Gemilang",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 2555179414,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Mega Depo Gemilang",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 2555179414,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Mega Depo Gemilang",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 2555179414,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Mega Depo Gemilang",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 2555179414,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Mega Depo Gemilang",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 2555179414,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Mega Depo Gemilang",
+      "business_type": "Perdagangan Eceran",
+      "total_assets": 2536016352,
+      "ownership_percentage": 99.5
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "706.250.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:52:02.084Z"
+}

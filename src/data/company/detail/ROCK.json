@@ -1,0 +1,372 @@
+{
+  "company_name": "PT Rockfields Properti Indonesia Tbk.",
+  "ticker": "ROCK",
+  "office_address": "Gedung Noble House Lantai 35, Jl. Dr. Ide Anak Agung Gde Agung Kav E.4.2 No. 2, Mega Kuningan, Jakarta Selatan 12950",
+  "email": "corsec@rockfields.co.id",
+  "phone": "+62 21 2978 3000",
+  "fax": "+62 21 2978 3001",
+  "tax_id": "0033 4446 8806 3000",
+  "website": "https://www.rockfields.co.id",
+  "listing_date": "2020-09-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Real estate dan properti melalui Entitas anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Bambang Ferdian",
+    "email": "corsec@rockfields.co.id",
+    "phone": "+62 21 2978 3000"
+  },
+  "directors": [
+    {
+      "name": "Po Wiwiek Purnomo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dewi Susanti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Faisal Rachman",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Robert Joppy Kardinal",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Robert Joppy Kardinal",
+      "position": "Ketua"
+    },
+    {
+      "name": "Evangelista Ervandy",
+      "position": "Anggota"
+    },
+    {
+      "name": "Winny Wijayanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Luciana",
+      "type": "Lebih dari 5%",
+      "shares": 387500000,
+      "percentage": 27
+    },
+    {
+      "name": "Po Sun Kok",
+      "type": "Lebih dari 5%",
+      "shares": 387499998,
+      "percentage": 27
+    },
+    {
+      "name": "PT Pollux Hotels Groups Tbk (dh PT Pollux Investasi International Tbk)",
+      "type": "Lebih dari 5%",
+      "shares": 373148100,
+      "percentage": 26
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 287037000,
+      "percentage": 20
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Faisal Rachman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Robert Joppy Kardinal",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Po Wiwiek Purnomo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewi Susanti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Graha Lestari Internusa",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 623767951392,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Lestari Internusa",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 623214302060,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Lestari Internusa",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 620610075023,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Lestari Internusa",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 618082871332,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Lestari Internusa",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 611405078811,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Artha Mas Investama",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 342950365191,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Artha Mas Investama",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 342930927448,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Artha Mas Investama",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 342917550191,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Artha Mas Investama",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 342906180190,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Artha Mas Investama",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 342891975191,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Knightsbridge Luxury Development",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 57194570072,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Knightsbridge Luxury Development",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 57192173560,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Knightsbridge Luxury Development",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 57173411415,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Knightsbridge Luxury Development",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 57172450670,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Knightsbridge Luxury Development",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 57158440767,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Metta Karuna",
+      "business_type": "Pemberian Jasa",
+      "total_assets": 28943242909,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Metta Karuna",
+      "business_type": "Pemberian Jasa",
+      "total_assets": 28882496277,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Metta Karuna",
+      "business_type": "Pemberian Jasa",
+      "total_assets": 28868572680,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Metta Karuna",
+      "business_type": "Pemberian Jasa",
+      "total_assets": 28843995511,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Metta Karuna",
+      "business_type": "Pemberian Jasa",
+      "total_assets": 28829638600,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rajawali Mega Persada -",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 23844274,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rajawali Mega Persada -",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 23694274,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rajawali Mega Persada -",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 12516774,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rajawali Mega Persada -",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 1339274,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rajawali Mega Persada -",
+      "business_type": "Pembangunan dan Pemberian Jasa",
+      "total_assets": 1249274,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kanel dan Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Kanel dan Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    },
+    {
+      "name": "Kap Kanel dan Rekan"
+    },
+    {
+      "name": "Herman, Dody Tanumihardja & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.645.370.154.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:01.330Z"
+}

@@ -1,0 +1,360 @@
+{
+  "company_name": "Selamat Sempurna Tbk",
+  "ticker": "SMSM",
+  "office_address": "Adr Tower, Lantai 20, Jl. Pantai Indah Kapuk Boulevard Kamal Muara, Penjaringan, Jakarta Utara, 14470",
+  "email": "lidiana.widjojo@adr-group.com",
+  "phone": "(62-21) 3951 8888 (Hunting)",
+  "fax": "(62-21) 3951 8880",
+  "tax_id": "01.300.160.7-054.000",
+  "website": "http://www.smsm.co.id",
+  "listing_date": "1996-09-09",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Automotive and Components",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur, Otomotif.",
+    "business_tags": [
+      "Manufaktur",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 94,
+    "name": "Suku Cadang Otomotif",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Lidiana Widjojo",
+    "email": "lidiana.widjojo@adr-group.com",
+    "phone": "(021) 6610033"
+  },
+  "directors": [
+    {
+      "name": "Djojo Hartono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ang Andri Pribadi",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Aris Setyapranarka",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Roni Kunto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sumarni",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Eddy Hartono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Surja Hartono",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Joseph Pulo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Joseph Pulo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aida Ria Santoso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Pradana Ramadhian G",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Adrindo Inti Perkasa",
+      "type": "Lebih dari 5%",
+      "shares": 2910392136,
+      "percentage": 50.5393
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2358450632,
+      "percentage": 40.9547
+    },
+    {
+      "name": "Djojo Hartono",
+      "type": "Direksi",
+      "shares": 132173100,
+      "percentage": 2.2952
+    },
+    {
+      "name": "Surja Hartono",
+      "type": "Komisaris",
+      "shares": 130000000,
+      "percentage": 2.2575
+    },
+    {
+      "name": "Ang Andri Pribadi",
+      "type": "Direksi",
+      "shares": 116240000,
+      "percentage": 2.0185
+    },
+    {
+      "name": "Eddy Hartono",
+      "type": "Komisaris",
+      "shares": 79209652,
+      "percentage": 1.3755
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 27141420,
+      "percentage": 0.4713
+    },
+    {
+      "name": "Sumarni",
+      "type": "Direksi",
+      "shares": 4056200,
+      "percentage": 0.0704
+    },
+    {
+      "name": "Roni Kunto",
+      "type": "Direksi",
+      "shares": 1012300,
+      "percentage": 0.0176
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Panata Jaya Mandiri",
+      "business_type": "Industri Filter, Terutama untuk Alat-alat Berat / Manufacturing Of Filters, Particularly For Heavy Equipment",
+      "total_assets": 833901023629,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Panata Jaya Mandiri",
+      "business_type": "Industri Filter, Terutama untuk Alat-alat Berat / Manufacturing Of Filters, Particularly For Heavy Equipment",
+      "total_assets": 801099502432,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Panata Jaya Mandiri",
+      "business_type": "Industri Filter, Terutama untuk Alat-alat Berat / Manufacturing Of Filters, Particularly For Heavy Equipment",
+      "total_assets": 787092173887,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Panata Jaya Mandiri",
+      "business_type": "Industri Filter, Terutama untuk Alat-alat Berat / Manufacturing Of Filters, Particularly For Heavy Equipment",
+      "total_assets": 750594210751,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Panata Jaya Mandiri",
+      "business_type": "Industri Filter, Terutama untuk Alat-alat Berat / Manufacturing Of Filters, Particularly For Heavy Equipment",
+      "total_assets": 743259012737,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Prapat Tunggal Cipta",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 624612607489,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Prapat Tunggal Cipta",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 574770269674,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Prapat Tunggal Cipta",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 562027511697,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Prapat Tunggal Cipta",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 536426051975,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Prapat Tunggal Cipta",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 526635974203,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Hydraxle Perkasa",
+      "business_type": "Industri Pembuatan Alat Pengangkat dan Komponen Kendaraan / Manufacturing Of Hydraulic And Automotive Components",
+      "total_assets": 283286620130,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Hydraxle Perkasa",
+      "business_type": "Industri Pembuatan Alat Pengangkat dan Komponen Kendaraan / Manufacturing Of Hydraulic And Automotive Components",
+      "total_assets": 274673808972,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Hydraxle Perkasa",
+      "business_type": "Industri Pembuatan Alat Pengangkat dan Komponen Kendaraan / Manufacturing Of Hydraulic And Automotive Components",
+      "total_assets": 255318729627,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Hydraxle Perkasa",
+      "business_type": "Industri Pembuatan Alat Pengangkat dan Komponen Kendaraan / Manufacturing Of Hydraulic And Automotive Components",
+      "total_assets": 252560189708,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Hydraxle Perkasa",
+      "business_type": "Industri Pembuatan Alat Pengangkat dan Komponen Kendaraan / Manufacturing Of Hydraulic And Automotive Components",
+      "total_assets": 248969240668,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Sure Filter (thailand) Co. Ltd.",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 197782003145,
+      "ownership_percentage": 44
+    },
+    {
+      "name": "Sure Filter (thailand) Co. Ltd.",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 196700693439,
+      "ownership_percentage": 44
+    },
+    {
+      "name": "Sure Filter (thailand) Co. Ltd.",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 192858438122,
+      "ownership_percentage": 44
+    },
+    {
+      "name": "Sure Filter (thailand) Co. Ltd.",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 190629211185,
+      "ownership_percentage": 44
+    },
+    {
+      "name": "Sure Filter (thailand) Co. Ltd.",
+      "business_type": "Perdagangan Suku Cadang dan Perlengkapannya / Trading Of Sparepart And Supplies",
+      "total_assets": 186933863556,
+      "ownership_percentage": 44
+    },
+    {
+      "name": "Bradke Synergies Sdn Bhd",
+      "business_type": "Investasi / Investment Holding Company",
+      "total_assets": 185345987,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bradke Synergies Sdn Bhd",
+      "business_type": "Investasi / Investment Holding Company",
+      "total_assets": 183280996,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bradke Synergies Sdn Bhd",
+      "business_type": "Investasi / Investment Holding Company",
+      "total_assets": 182426757,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bradke Synergies Sdn Bhd",
+      "business_type": "Investasi / Investment Holding Company",
+      "total_assets": 175370199,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bradke Synergies Sdn Bhd",
+      "business_type": "Investasi / Investment Holding Company",
+      "total_assets": 171870492,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "10.365.615.792.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:18.432Z"
+}

@@ -1,0 +1,287 @@
+{
+  "company_name": "Destinasi Tirta Nusantara Tbk",
+  "ticker": "PDES",
+  "office_address": "Panorama Building Lt. 4 Jl. Tomang Raya No. 63 Jakarta 11440",
+  "email": "corsec.pdes@panorama-destination.com",
+  "phone": "021-56958585",
+  "fax": "021-56958586",
+  "tax_id": "01.955.084.7-054.000",
+  "website": "https://www.panorama-destination.com",
+  "listing_date": "2008-07-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Biro Perjalanan Wisata",
+    "business_summary": "Perusahaan bergerak di bidang Agen Perjalanan.",
+    "business_tags": [
+      "Agen Perjalanan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 1,
+    "name": "Agen Perjalanan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Sylvia Rafael Harnadi",
+    "email": "corsec.pdes@panorama-destination.com",
+    "phone": "56958585"
+  },
+  "directors": [
+    {
+      "name": "Satrijanto Tirtawisata",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sylvia Rafael Harnadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Martini",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ricardo Setiawanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dharmayanto Tirtawisata",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Olip Susanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Augustine Constatine Robot",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ar Ardianto Sutanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Syarief Gunawan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Pt.panorama Sentrawisata Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 472998700,
+      "percentage": 66.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 122059900,
+      "percentage": 17.09
+    },
+    {
+      "name": "Pt.aman Dhitya Investama",
+      "type": "Lebih dari 5%",
+      "shares": 47501000,
+      "percentage": 6.64
+    },
+    {
+      "name": "Pt.golden Spice",
+      "type": "Lebih dari 5%",
+      "shares": 47500900,
+      "percentage": 6.64
+    },
+    {
+      "name": "Satrijanto Tirtawisata",
+      "type": "Direksi",
+      "shares": 24905000,
+      "percentage": 3.48
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Martini",
+      "type": "Direksi",
+      "shares": 11000,
+      "percentage": 0
+    },
+    {
+      "name": "Sylvia Rafael Harnadi",
+      "type": "Direksi",
+      "shares": 1400,
+      "percentage": 0
+    },
+    {
+      "name": "Ricardo Setiawanto",
+      "type": "Direksi",
+      "shares": 22100,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Graha Destinasi",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 117635,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Destinasi",
+      "business_type": "Perdagangan Umum",
+      "total_assets": 117635,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Panorama Destination (thailand) Ltd (ptl)",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 63294,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "Panorama Destination (thailand) Ltd (ptl)",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 63294,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "Panorama Destination (m) Sdn Bhd",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 23428,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Panorama Destination (m) Sdn Bhd",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 23428,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panorama Destinasi Indonesia",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 16093,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Panorama Destinasi Indonesia",
+      "business_type": "Biro Perjalanan Wisata",
+      "total_assets": 16093,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Destinasi Garuda Wisata",
+      "business_type": "Biro Perjalanan",
+      "total_assets": 8443,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Destinasi Garuda Wisata",
+      "business_type": "Biro Perjalanan",
+      "total_assets": 8443,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Panorama Destination (s) Pte. Ltd (pd)",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 2300,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Panorama Destination (s) Pte. Ltd (pd)",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 2300,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Panorama Destination (vietnam) Jv Ltd (pv",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 1973,
+      "ownership_percentage": 68
+    },
+    {
+      "name": "Panorama Destination (vietnam) Jv Ltd (pv",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 1973,
+      "ownership_percentage": 68
+    },
+    {
+      "name": "PT Destinasi Alam Indonesia",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 1497,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Destinasi Alam Indonesia",
+      "business_type": "Jasa Perjalanan Wisata",
+      "total_assets": 1497,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "364.650.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:56.990Z"
+}

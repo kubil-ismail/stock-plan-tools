@@ -1,0 +1,246 @@
+{
+  "company_name": "PT Hatten Bali Tbk",
+  "ticker": "WINE",
+  "office_address": "Hatten Wines Building Jl. Bypass Ngurah Rai No. 393 Sanur, Bali",
+  "email": "corsec@hattenwines.com",
+  "phone": "(0361) 472 1377",
+  "fax": "(0361) 472 1277",
+  "tax_id": "01.914.328.8-904.000",
+  "website": "https://www.hattenbali.co.id",
+  "listing_date": "2023-01-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang usaha Distribusi Minuman Beralkohol dan Pengolahan melalui Perusahaan Anak.",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 28,
+    "name": "Minuman"
+  },
+  "sub_industry": {
+    "id": 48,
+    "name": "Minuman Keras",
+    "industries_id": 28
+  },
+  "corporate_secretary": {
+    "name": "Ni Putu Devi Aryani",
+    "email": "corsec@hattenwines.com",
+    "phone": "(0361) 472 1377"
+  },
+  "directors": [
+    {
+      "name": "Ida Bagus Rai Budarsa",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ketut Sumarwan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ida Bagus Oka Kresna",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ida Ayu Somawati",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tantowi Yahya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tantowi Yahya",
+      "position": "Ketua"
+    },
+    {
+      "name": "L.p Novyanti Ciptana Ika Putri",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ni Ketut Rasmini",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ida Bagus Rai Budarsa",
+      "type": "Direksi",
+      "shares": 1016123900,
+      "percentage": 37.4953
+    },
+    {
+      "name": "PT Gotama Putra",
+      "type": "Lebih dari 5%",
+      "shares": 1016000000,
+      "percentage": 37.4908
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 479312500,
+      "percentage": 17.6868
+    },
+    {
+      "name": "Uob Kay Hian Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 196386000,
+      "percentage": 7.2467
+    },
+    {
+      "name": "Ida Ayu Somawati",
+      "type": "Komisaris",
+      "shares": 2177600,
+      "percentage": 0.0804
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Arpan Bali Utama",
+      "business_type": "Industri, Perdagangan Umum, Pengadaan Barang, Jasa, Pergudangan dan Pengangkutan",
+      "total_assets": 244197640140,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arpan Bali Utama",
+      "business_type": "Industri, Perdagangan Umum, Pengadaan Barang, Jasa, Pergudangan dan Pengangkutan",
+      "total_assets": 241784315749,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arpan Bali Utama",
+      "business_type": "Industri, Perdagangan Umum, Pengadaan Barang, Jasa, Pergudangan dan Pengangkutan",
+      "total_assets": 227844643148,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arpan Bali Utama",
+      "business_type": "Industri, Perdagangan Umum, Pengadaan Barang, Jasa, Pergudangan dan Pengangkutan",
+      "total_assets": 227844643148,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arpan Bali Utama",
+      "business_type": "Industri, Perdagangan Umum, Pengadaan Barang, Jasa, Pergudangan dan Pengangkutan",
+      "total_assets": 200826770668,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arpan Bali Utama",
+      "business_type": "Industri, Perdagangan Umum, Pengadaan Barang, Jasa, Pergudangan dan Pengangkutan",
+      "total_assets": 180679773015,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Arpan Bali Utama",
+      "business_type": "Industri, Perdagangan Umum, Pengadaan Barang, Jasa, Pergudangan dan Pengangkutan",
+      "total_assets": 139370923858,
+      "ownership_percentage": 98.86
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Rama Wendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "495.930.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:57.540Z"
+}

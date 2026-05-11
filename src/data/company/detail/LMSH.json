@@ -1,0 +1,184 @@
+{
+  "company_name": "Lionmesh Prima Tbk",
+  "ticker": "LMSH",
+  "office_address": "Jl. Raya Bekasi Km. 24,5 Cakung Jakarta",
+  "email": "lmp@lionmesh.com",
+  "phone": "(021) 4600784",
+  "fax": "(021) 4600785",
+  "tax_id": "0010602878054000",
+  "website": "https://www.lionmesh.com",
+  "listing_date": "1990-06-04",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Metal and Alied Products",
+    "business_summary": "Perusahaan bergerak di bidang Baja & Besi.",
+    "business_tags": [
+      "Baja & Besi"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Farida Noviyanti",
+    "email": "lionmesh@gmail.com",
+    "phone": "021-4600779"
+  },
+  "directors": [
+    {
+      "name": "Tjoe Tjoe Peng (lawer Supendi)",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tjhai Tjhin Kiat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Pujianto Setiadi Mba",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jusup Sutrisno",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yulianto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kalistus Decimus Deke Making",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kalistus Dd Making Se Ak Cpai",
+      "position": "Ketua"
+    },
+    {
+      "name": "Shelly Se",
+      "position": "Anggota"
+    },
+    {
+      "name": "Asima Lusiana Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 40169500,
+      "percentage": 41.843
+    },
+    {
+      "name": "Lion Holdings Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 24527000,
+      "percentage": 25.549
+    },
+    {
+      "name": "Tjoe Tjoe Peng/lawer S",
+      "type": "Direksi",
+      "shares": 9513000,
+      "percentage": 9.91
+    },
+    {
+      "name": "Jusuf Sutrisno",
+      "type": "Komisaris",
+      "shares": 9460000,
+      "percentage": 9.854
+    },
+    {
+      "name": "Trinidad Investment Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 6400000,
+      "percentage": 6.667
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5080500,
+      "percentage": 5.292
+    },
+    {
+      "name": "Jusup Sutrisno",
+      "type": "Komisaris",
+      "shares": 480000,
+      "percentage": 0.5
+    },
+    {
+      "name": "Tjoe Tjoe Peng /lawer S",
+      "type": "Direksi",
+      "shares": 370000,
+      "percentage": 0.385
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "24.576.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:45.203Z"
+}

@@ -1,0 +1,237 @@
+{
+  "company_name": "PT Bali Towerindo Sentra Tbk.",
+  "ticker": "BALI",
+  "office_address": "Jln. Sunset Road, Lingkungan Abianbase, Kelurahan Kuta, Kecamatan Kuta, Kabupaten Badung, Bali 80361.",
+  "email": "corporate.secretary@balitower.co.id",
+  "phone": "(0361) 767629",
+  "fax": "(0361) 766059",
+  "tax_id": "0026015362054000",
+  "website": "https://www.balitower.co.id",
+  "listing_date": "2014-03-13",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Penyedia Menara Telekomunikasi, Jasa dan Jaringan Telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Konstruksi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Konstruksi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 17,
+    "name": "Jasa Telekomunikasi Nirkabel"
+  },
+  "sub_industry": {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  "corporate_secretary": {
+    "name": "Lily Hidayat",
+    "email": "corporate.secretary@balitower.co.id",
+    "phone": "021-57905788"
+  },
+  "directors": [
+    {
+      "name": "Jap Owen Ronadhi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lily Hidayat",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Robby Hermanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Johnny Swandi Sjam",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Erry Firmansyah, Se",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Dr. Sumarsono, Mdm",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Anni Suwardi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Andi Sumarsono",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Sumarsono, Mdm",
+      "position": "Ketua"
+    },
+    {
+      "name": "Irwan Adhitya Admadja, Se., M. Ak., Bkp.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hongisisilia, Se., Ak",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kharisma Cipta Towerindo",
+      "type": "Lebih dari 5%",
+      "shares": 2348950000,
+      "percentage": 59.7007
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1143572500,
+      "percentage": 29.064
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 442020000,
+      "percentage": 11.234
+    },
+    {
+      "name": "Robby Hermanto",
+      "type": "Direksi",
+      "shares": 50000,
+      "percentage": 0.0013
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Paramitra Intimega",
+      "business_type": "Perdagangan, Jasa Telekomunikasi dan Penyewaan Menara Bts, Aktivitas Telekomunikasi Satelit, Instalasi Telekomunikasi",
+      "total_assets": 430666532933,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Paramitra Teknologi Pintar",
+      "business_type": "Perdagangan Besar Piranti Lunak, Aktivitas Konsultasi Komputer dan Manajemen, Pemrograman, Penyediaan Indentitas Digital, Konsultasi dan Perancangan Iot, Pengolahan Data Hosting, Portalweb dan Platform Digital",
+      "total_assets": 151250131046,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Paramitra Media Interaktif",
+      "business_type": "Penyelenggaraan Penyiaran dan Jasa Pengelolaan Televisi Berbayar",
+      "total_assets": 458416264,
+      "ownership_percentage": 99.6
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": "Aryanto, Amir Jusuf, Mawar & Saptoto"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.996.932.475.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:01.484Z"
+}

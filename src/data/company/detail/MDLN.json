@@ -1,0 +1,591 @@
+{
+  "company_name": "PT Modernland Realty Tbk.",
+  "ticker": "MDLN",
+  "office_address": "Green Central City, Commercial Area 5th Floor Jl. Gajah Mada No. 188 Jakarta Barat 11120",
+  "email": "corporate@modernland.co.id",
+  "phone": "021 - 29365888",
+  "fax": "021 - 29369999",
+  "tax_id": "001.369.416.1-054.000",
+  "website": "https://www.modernland.co.id",
+  "listing_date": "1993-01-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Berusaha dalam bidang real estat, konstruksi, instalasi dan klub golf",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi, Manufaktur.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Yahya Danu Kusumo Pate",
+    "email": "danu.pate@modernland.co.id",
+    "phone": "(021) 293 65 888"
+  },
+  "directors": [
+    {
+      "name": "William Honoris",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Fetrizal Bobby Heryunda",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pascall Wilson",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sami Veikko Tapio Miettinen",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dharma Mitra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Herman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yustinus Saleh",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Iwan Suryawijaya",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Robert Tumedia",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Iwan Suryawijaya",
+      "position": "Ketua"
+    },
+    {
+      "name": "Surat Triyana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Johan Russ",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5348633453,
+      "percentage": 42.68
+    },
+    {
+      "name": "Panin Sekuritas, PT",
+      "type": "Lebih dari 5%",
+      "shares": 1973046620,
+      "percentage": 15.74
+    },
+    {
+      "name": "PT Honoris Corporindo Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 1647364426,
+      "percentage": 13.14
+    },
+    {
+      "name": "Haiyanto",
+      "type": "Lebih dari 5%",
+      "shares": 1216996800,
+      "percentage": 9.71
+    },
+    {
+      "name": "Ubs Ag Sg Branch Trust A/c Aa Land Pte Ltd -2023904170",
+      "type": "Lebih dari 5%",
+      "shares": 932515721,
+      "percentage": 7.44
+    },
+    {
+      "name": "Cgs-cimb Securities (singapore) Pte Ltd A/c Client - Woodside Global Ventures Inc",
+      "type": "Lebih dari 5%",
+      "shares": 825600100,
+      "percentage": 6.59
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 585750900,
+      "percentage": 4.67
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3159302,
+      "percentage": 0.03
+    },
+    {
+      "name": "Dharma Mitra",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yustinus Saleh",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iwan Suryawijaya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Robert Tumedia",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "William Honoris",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Fetrizal Bobby Heryunda",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pascall Wilson",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sami Veikko Tapio Miettinen",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Modern Industrial Estat (\"mie\")",
+      "business_type": "Real Estat",
+      "total_assets": 5772591195653,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Industrial Estat (\"mie\")",
+      "business_type": "Real Estat",
+      "total_assets": 5677688675253,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Industrial Estat (\"mie\")",
+      "business_type": "Real Estat",
+      "total_assets": 5676757567357,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Industrial Estat (\"mie\")",
+      "business_type": "Real Estat",
+      "total_assets": 5668072021568,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Industrial Estat (\"mie\")",
+      "business_type": "Real Estat",
+      "total_assets": 5649523693685,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Modernland Overseas Pte. Ltd",
+      "business_type": "Holding",
+      "total_assets": 4504075760637,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Modernland Overseas Pte. Ltd",
+      "business_type": "Holding",
+      "total_assets": 4311863722091,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Modernland Overseas Pte. Ltd",
+      "business_type": "Holding",
+      "total_assets": 4183303457255,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Modernland Overseas Pte. Ltd",
+      "business_type": "Holding",
+      "total_assets": 4162839807625,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Modernland Overseas Pte. Ltd",
+      "business_type": "Holding",
+      "total_assets": 3997770131951,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Jgc Ventures Pte. Ltd.",
+      "business_type": "Holding",
+      "total_assets": 2608095356747,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Graha Lestari (\"mgl\")",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 2557274206919,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Graha Lestari (\"mgl\")",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 2542401792869,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Graha Lestari (\"mgl\")",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 2520649355227,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Graha Lestari (\"mgl\")",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 2518757622605,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Graha Lestari (\"mgl\")",
+      "business_type": "Pembangunan, Perdagangan dan Jasa",
+      "total_assets": 2503396137049,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Jgc Ventures Pte. Ltd.",
+      "business_type": "Holding",
+      "total_assets": 2495845020872,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Jgc Ventures Pte. Ltd.",
+      "business_type": "Holding",
+      "total_assets": 2422694549477,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Jgc Ventures Pte. Ltd.",
+      "business_type": "Holding",
+      "total_assets": 2409862454930,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Jgc Ventures Pte. Ltd.",
+      "business_type": "Holding",
+      "total_assets": 2313127810819,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 1493656327958,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 1478837860372,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 1476240576108,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 1473340741398,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Sukses",
+      "business_type": "Real Estat",
+      "total_assets": 1401347548355,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Marquee Land Pte Ltd",
+      "business_type": "Holding",
+      "total_assets": 865272007934,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Marquee Land Pte Ltd",
+      "business_type": "Holding",
+      "total_assets": 835421260437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Makmur",
+      "business_type": "Real Estat",
+      "total_assets": 830277292660,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Makmur",
+      "business_type": "Real Estat",
+      "total_assets": 827610535809,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Makmur",
+      "business_type": "Real Estat",
+      "total_assets": 827533903089,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Makmur",
+      "business_type": "Real Estat",
+      "total_assets": 824781310789,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Marquee Land Pte Ltd",
+      "business_type": "Holding",
+      "total_assets": 812487548772,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Marquee Land Pte Ltd",
+      "business_type": "Holding",
+      "total_assets": 795263192434,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Marquee Land Pte Ltd",
+      "business_type": "Holding",
+      "total_assets": 792209374458,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Sindo Makmur",
+      "business_type": "Real Estat",
+      "total_assets": 712503893161,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Mutiara Makmur (\"mmm\")",
+      "business_type": "Perhotelan",
+      "total_assets": 149687376610,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Mutiara Makmur (\"mmm\")",
+      "business_type": "Perhotelan",
+      "total_assets": 149293624119,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Mutiara Makmur (\"mmm\")",
+      "business_type": "Perhotelan",
+      "total_assets": 142956212112,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Mutiara Makmur (\"mmm\")",
+      "business_type": "Perhotelan",
+      "total_assets": 141377685027,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Mutiara Makmur (\"mmm\")",
+      "business_type": "Perhotelan",
+      "total_assets": 141170554877,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Panel Indonesia (\"mpi\")",
+      "business_type": "Manufaktur",
+      "total_assets": 124772277664,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Panel Indonesia (\"mpi\")",
+      "business_type": "Manufaktur",
+      "total_assets": 124075289551,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Panel Indonesia (\"mpi\")",
+      "business_type": "Manufaktur",
+      "total_assets": 123599613101,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Mitra Pratama",
+      "business_type": "Jasa",
+      "total_assets": 121120465543,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Mitra Pratama",
+      "business_type": "Jasa",
+      "total_assets": 120919856363,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Mitra Pratama",
+      "business_type": "Jasa",
+      "total_assets": 120919073430,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Mitra Pratama",
+      "business_type": "Jasa",
+      "total_assets": 120918310302,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Panel Indonesia (\"mpi\")",
+      "business_type": "Manufaktur",
+      "total_assets": 120853936517,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Panel Indonesia (\"mpi\")",
+      "business_type": "Manufaktur",
+      "total_assets": 117735830300,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Modern Mitrakarya Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 50765987725,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Modern Mitrakarya Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 50751912294,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Modern Mitrakarya Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 50739281800,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Modern Mitrakarya Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 50727034902,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Modern Mitrakarya Serasi",
+      "business_type": "Real Estate",
+      "total_assets": 49814331612,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Modern Mitra Pratama",
+      "business_type": "Jasa",
+      "total_assets": 1417780614,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "689.318.702.710",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:36.509Z"
+}

@@ -1,0 +1,342 @@
+{
+  "company_name": "PT Ifishdeco Tbk.",
+  "ticker": "IFSH",
+  "office_address": "Sahid Sudirman Center, Lantai 42 Unit F & G, Jl. Jend. Sudirman No. 86, Kelurahan Karet Tengsin, Kecamatan Tanah Abang, Jakarta Pusat 10220, Indonesia",
+  "email": "corporate@ifishdeco.com",
+  "phone": "(021) 5704988",
+  "fax": "(021) 5704991",
+  "tax_id": "01.306.430.8-022.000",
+  "website": "https://www.ifishdeco.com",
+  "listing_date": "2019-12-05",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Pertambangan Bijih Nikel & Perkebunan Buah Kelapa",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis.",
+    "business_tags": [
+      "Agribisnis"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Rivka Rotua Natasya",
+    "email": "corporate@ifishdeco.com",
+    "phone": "021 5704988"
+  },
+  "directors": [
+    {
+      "name": "Muhammad Ishaq",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Leman Suti",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agus Prasetyono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iwan Luison",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Prof. Dr. Akhmad Syakhroza",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Oei Harry Fong Jaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lina Suti",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Michele Mallorie Sunogo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ryan Fong Jaya",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hongisisilia",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Roesmanhadi, S.h, MH",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hongisisilia",
+      "position": "Ketua"
+    },
+    {
+      "name": "Maria Tri Wulandari",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hernawa Shindu Irani",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Fajar Mining Resources",
+      "type": "Lebih dari 5%",
+      "shares": 867000000,
+      "percentage": 40.8
+    },
+    {
+      "name": "PT Wahana Trilintas Mining",
+      "type": "Lebih dari 5%",
+      "shares": 833000000,
+      "percentage": 39.2
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 213837300,
+      "percentage": 10.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 201852600,
+      "percentage": 9.5
+    },
+    {
+      "name": "Oei Harry Fong Jaya",
+      "type": "Komisaris",
+      "shares": 3000000,
+      "percentage": 0.14
+    },
+    {
+      "name": "Lina Suti",
+      "type": "Komisaris",
+      "shares": 2000000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Michele Mallorie Sunogo",
+      "type": "Komisaris",
+      "shares": 2010000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Ryan Fong Jaya",
+      "type": "Komisaris",
+      "shares": 1500000,
+      "percentage": 0.07
+    },
+    {
+      "name": "Leman Suti",
+      "type": "Direksi",
+      "shares": 200100,
+      "percentage": 0.01
+    },
+    {
+      "name": "Muhammad Ishaq",
+      "type": "Direksi",
+      "shares": 300000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Agus Prasetyono",
+      "type": "Direksi",
+      "shares": 300000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Iwan Luison",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Drs. Roesmanhadi, S.h, MH",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hongisisilia Se Ak",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Profesor Doktor Akhmad Syakhroza",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bintang Smelter Indonesia",
+      "business_type": "Pengolahan Nikel",
+      "total_assets": 237147878189,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Patrindo Jaya Makmur",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 93923156509,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Silica Nusantara Mineral",
+      "business_type": "Pengolahan Silica",
+      "total_assets": 77159705668,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Hangtian Nur Cahaya",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 76544832291,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Berkat Nikel Indonesia",
+      "business_type": "Pengolahan Nikel",
+      "total_assets": 14469279954,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ghani Voltron Indonesia",
+      "business_type": "Jasa Pertambangan",
+      "total_assets": 12096539853,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Tinanggea Kawasan Industri",
+      "business_type": "Kawasan Industri",
+      "total_assets": 2409957700,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sarana Bumi Minerindo",
+      "business_type": "Pertambangan Nikel",
+      "total_assets": 308205,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.993.750.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:10.889Z"
+}

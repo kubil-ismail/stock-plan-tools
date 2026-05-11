@@ -1,0 +1,234 @@
+{
+  "company_name": "Asuransi Bintang Tbk",
+  "ticker": "ASBI",
+  "office_address": "Jl. Rs Fatmawati No. 32 Jakarta Selatan",
+  "email": "jenry.cardo@asuransibintang.com",
+  "phone": "7590 2777",
+  "fax": "7590 2555",
+  "tax_id": "01.306.897.8-054.000",
+  "website": "https://www.asuransibintang.com",
+  "listing_date": "1989-11-29",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Asuransi Kerugian",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif, Keuangan.",
+    "business_tags": [
+      "Otomotif",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 1,
+    "name": "Asuransi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 2,
+    "name": "Asuransi"
+  },
+  "sub_industry": {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  "corporate_secretary": {
+    "name": "Nurman Rivai",
+    "email": "nurman.rivai@asuransibintang.com",
+    "phone": "7590 2777 (hunting)"
+  },
+  "directors": [
+    {
+      "name": "Hastanto Sri Margi Widodo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Reniwati Darmakusumah",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jenry Cardo Manurung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Zafar Dinesh Idham",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ronald Waas",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Petronius Saragih",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Chaerul D.djakman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Krishna Suparto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bapak Krishna Suparto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ibu Rahfiani Khairurizka",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ibu Nureni Wijayanti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. Srihana Utama",
+      "type": "Lebih dari 5%",
+      "shares": 123522776,
+      "percentage": 35.46
+    },
+    {
+      "name": "PT. Ngrumat Bondo Utomo",
+      "type": "Lebih dari 5%",
+      "shares": 87302164,
+      "percentage": 25.06
+    },
+    {
+      "name": "PT. Warisan Kasih Bunda",
+      "type": "Lebih dari 5%",
+      "shares": 81653688,
+      "percentage": 23.44
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 50520718,
+      "percentage": 14.5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2896626,
+      "percentage": 0.83
+    },
+    {
+      "name": "Zafar Dinesh Idham",
+      "type": "Direksi",
+      "shares": 1050000,
+      "percentage": 0.3
+    },
+    {
+      "name": "Hastanto Sri Margi Widodo",
+      "type": "Direksi",
+      "shares": 782500,
+      "percentage": 0.22
+    },
+    {
+      "name": "Reniwati Darmakusumah",
+      "type": "Direksi",
+      "shares": 658000,
+      "percentage": 0.19
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Bintang Graha Loka",
+      "business_type": "Penyewaan Gedung Kantor & Kendaraan",
+      "total_assets": 114493997,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT. Bintang Graha Loka",
+      "business_type": "Penyewaan Gedung Kantor & Kendaraan",
+      "total_assets": 114153597,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT. Bintang Graha Loka",
+      "business_type": "Penyewaan Gedung Kantor & Kendaraan",
+      "total_assets": 113840794,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT. Bintang Graha Loka",
+      "business_type": "Penyewaan Gedung Kantor & Kendaraan",
+      "total_assets": 113840794,
+      "ownership_percentage": 99.83
+    },
+    {
+      "name": "PT. Bintang Graha Loka",
+      "business_type": "Penyewaan Gedung Kantor & Kendaraan",
+      "total_assets": 105693459,
+      "ownership_percentage": 99.83
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "146.322.318.240",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:28.198Z"
+}

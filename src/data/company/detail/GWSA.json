@@ -1,0 +1,316 @@
+{
+  "company_name": "PT Greenwood Sejahtera Tbk",
+  "ticker": "GWSA",
+  "office_address": "Tcc Batavia Tower One Lantai 35, Jl. K.h. Mas Mansyur Kav. 126,jakarta Pusat 10220",
+  "email": "pr@greenwoodsejahtera.com",
+  "phone": "2598-4969",
+  "fax": "2598-4578",
+  "tax_id": "01.568.937.5-054.000",
+  "website": "http://www.greenwoodsejahtera.com",
+  "listing_date": "2011-12-23",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pembangunan dan pengembangan, investasi, perdagangan, dan jasa penyewaan properti",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Linda Halim",
+    "email": "linda@kgg.co.id",
+    "phone": "-"
+  },
+  "directors": [
+    {
+      "name": "Paulus Indra Intan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Dedy Ismunandar Soetiarto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anita",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ang Andri Pribadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Arie Kusumastuti Maria, S.h., M.kn.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Andreas Bahana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Arie Kusumastuti Maria, S.h., Mkn.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Poltak Gindo Parluhutan Tampubolon",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Prima Permata Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 4387657776,
+      "percentage": 56.25
+    },
+    {
+      "name": "PT Kencana Graha Nusamandiri",
+      "type": "Lebih dari 5%",
+      "shares": 1813102224,
+      "percentage": 23.24
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1598723000,
+      "percentage": 20.5
+    },
+    {
+      "name": "Ang Andri Pribadi",
+      "type": "Komisaris",
+      "shares": 969000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 308000,
+      "percentage": 0
+    },
+    {
+      "name": "Arie Kusumastuti Maria, S.h., M,kn",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Paulus Indra Intan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dedy Ismunandar Soetiarto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Anita",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Manggala Gelora Perkasa",
+      "business_type": "Properti dan Real Estat",
+      "total_assets": 4896254085745,
+      "ownership_percentage": 27.4
+    },
+    {
+      "name": "PT Trisakti Makmur Persada",
+      "business_type": "Pengembang/developer",
+      "total_assets": 1577017598660,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Trisakti Makmur Persada",
+      "business_type": "Pengembang/developer",
+      "total_assets": 1572102472763,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Trisakti Makmur Persada",
+      "business_type": "Pengembang/developer",
+      "total_assets": 1571928125076,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Trisakti Makmur Persada",
+      "business_type": "Pengembang/developer",
+      "total_assets": 1502782660066,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Trisakti Makmur Persada",
+      "business_type": "Properti dan Real Estat",
+      "total_assets": 1486237626302,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Arah Sejahtera Abadi",
+      "business_type": "Properti dan Real Estat",
+      "total_assets": 763959389789,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Pluit Propertindo",
+      "business_type": "Properti dan Real Estat",
+      "total_assets": 585755072892,
+      "ownership_percentage": 47.17
+    },
+    {
+      "name": "PT Brilliant Sakti Persada",
+      "business_type": "Properti dan Real Estat",
+      "total_assets": 459566605420,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Citra Gemilang Nusantara",
+      "business_type": "Properti dan Real Estat",
+      "total_assets": 158251212083,
+      "ownership_percentage": 23
+    },
+    {
+      "name": "PT Sentra Graha Kencana",
+      "business_type": "Perhotelan/hotel",
+      "total_assets": 133580331333,
+      "ownership_percentage": 70.75
+    },
+    {
+      "name": "PT Sentra Graha Kencana",
+      "business_type": "Perhotelan/hotel",
+      "total_assets": 129145608145,
+      "ownership_percentage": 70.75
+    },
+    {
+      "name": "PT Sentra Graha Kencana",
+      "business_type": "Perhotelan/hotel",
+      "total_assets": 127694845853,
+      "ownership_percentage": 70.75
+    },
+    {
+      "name": "PT Sentra Graha Kencana",
+      "business_type": "Perhotelan/hotel",
+      "total_assets": 126026296197,
+      "ownership_percentage": 70.75
+    },
+    {
+      "name": "PT Sentra Graha Kencana",
+      "business_type": "Properti dan Real Estat",
+      "total_assets": 124736707790,
+      "ownership_percentage": 70.75
+    },
+    {
+      "name": "PT Prakarsa Nusa Cemerlang",
+      "business_type": "Pengembang/developer",
+      "total_assets": 64198720298,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Prakarsa Nusa Cemerlang",
+      "business_type": "Properti dan Real Estat",
+      "total_assets": 63938617756,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Prakarsa Nusa Cemerlang",
+      "business_type": "Pengembang/developer",
+      "total_assets": 63448543720,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Prakarsa Nusa Cemerlang",
+      "business_type": "Pengembang/developer",
+      "total_assets": 63226004858,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Prakarsa Nusa Cemerlang",
+      "business_type": "Pengembang/developer",
+      "total_assets": 62013490050,
+      "ownership_percentage": 55
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.177.914.760.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:19.872Z"
+}

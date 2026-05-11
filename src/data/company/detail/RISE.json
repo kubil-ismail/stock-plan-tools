@@ -1,0 +1,411 @@
+{
+  "company_name": "PT Jaya Sukses Makmur Sentosa Tbk.",
+  "ticker": "RISE",
+  "office_address": "Jl. Ruko Sentral Square C3, Jl. Ahmad Yani 41-43, Desa Gedangan, Kecamatan Gedangan, Kabupaten Sidoarjo",
+  "email": "corsec@tanrise.com",
+  "phone": "031 8544400",
+  "fax": "031 8545792",
+  "tax_id": "02.210.878.1-641.000",
+  "website": "http://www.tanrise.com",
+  "listing_date": "2018-07-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengembangan, Jasa dan Pengelolaan Properti dan real estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Go Herliani Prayogo",
+    "email": "corsec@tanrise.com",
+    "phone": "031-854 4400"
+  },
+  "directors": [
+    {
+      "name": "Budi Agusti",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Go Herliani Prayogo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Go Ie Tiong",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Samuel Adhiputra Bunjamin",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hermanto Tanoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sanderawati Joesoef",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Eleazar Leslie Sajogo, Sh., Mciarb",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eleazar Leslie Sajogo, S.h. Mciarb",
+      "position": "Ketua"
+    },
+    {
+      "name": "Samuel Setiawan Gani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Paulus",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tancorp Global Sentosa",
+      "type": "Lebih dari 5%",
+      "shares": 13006669200,
+      "percentage": 80.3
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 3191907590,
+      "percentage": 19.7
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 23200,
+      "percentage": 0
+    },
+    {
+      "name": "Hermanto Tanoko",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sanderawati Joesoef",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eleazar Leslie Sajogo, S.h. Mciarb",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Agusti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Go Herliani Prayogo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Go Ie Tiong",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Samuel Adhiputra Bunjamin",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Tanrise Indonesia",
+      "business_type": "Hotel dan Real Estate",
+      "total_assets": 685532,
+      "ownership_percentage": 77
+    },
+    {
+      "name": "PT Millenium Mega Mulia",
+      "business_type": "Real Estate",
+      "total_assets": 328972,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rodeco Indonesia",
+      "business_type": "Real Estate",
+      "total_assets": 317679,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Sea Sentosa Indonesia",
+      "business_type": "Konsultan Manajemen",
+      "total_assets": 306644,
+      "ownership_percentage": 86.53
+    },
+    {
+      "name": "PT Tanrise Jaya Indonesia",
+      "business_type": "Real Estate",
+      "total_assets": 264313,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tanrise Propery Indonesia",
+      "business_type": "Real Estate",
+      "total_assets": 218905,
+      "ownership_percentage": 59.29
+    },
+    {
+      "name": "PT Tanrise Makmur Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 196879,
+      "ownership_percentage": 73.33
+    },
+    {
+      "name": "PT Karya Sukses Makmur Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 169284,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Prambanan Bizland Indonesia",
+      "business_type": "Real Estate",
+      "total_assets": 57961,
+      "ownership_percentage": 75.79
+    },
+    {
+      "name": "PT Bahtera Tiara Gemilang",
+      "business_type": "Real Estate",
+      "total_assets": 44420,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Platinum Surya Abadi Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 41594,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT De Vasa Indonesia",
+      "business_type": "Hotel",
+      "total_assets": 34486,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Bromo Alam Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 22976,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Mahkota Mulia Abadi",
+      "business_type": "Hotel",
+      "total_assets": 22975,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Solaris Pratama Indonesia",
+      "business_type": "Hotel",
+      "total_assets": 21735,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Sentral Indah Primasentosa",
+      "business_type": "Real Estate",
+      "total_assets": 21650,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Global Boga Rasa",
+      "business_type": "Real Estate",
+      "total_assets": 21474,
+      "ownership_percentage": 62.5
+    },
+    {
+      "name": "PT Pesona Alam Bunaken",
+      "business_type": "Real Estate",
+      "total_assets": 21474,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Melindo Millenium Makmur",
+      "business_type": "Hotel",
+      "total_assets": 21448,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tanrise Mahkota Indah",
+      "business_type": "Real Estate",
+      "total_assets": 19506,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Samudera Raya Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 18542,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Vasa Imperial Prima",
+      "business_type": "Hotel",
+      "total_assets": 15889,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belindo Bintang Buana",
+      "business_type": "Hotel",
+      "total_assets": 15766,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Solaris Indonesia",
+      "business_type": "Real Estate",
+      "total_assets": 10312,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mandiri Berkat Sentosa",
+      "business_type": "Real Estate",
+      "total_assets": 8707,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Vasa Suite Indonesia",
+      "business_type": "Hotel",
+      "total_assets": 3445,
+      "ownership_percentage": 99.96
+    },
+    {
+      "name": "PT Global Wisata Paradise",
+      "business_type": "Konsultan Manajemen",
+      "total_assets": 1147,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Vasa Pandawa Indonesia",
+      "business_type": "Real Estate",
+      "total_assets": 114,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Bahtera Ragam Wisata",
+      "business_type": "Real Estate",
+      "total_assets": 7,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "26.646.696.983.550",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:54.199Z"
+}

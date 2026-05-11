@@ -1,0 +1,355 @@
+{
+  "company_name": "Indospring Tbk",
+  "ticker": "INDS",
+  "office_address": "Jl. May Jend Soengkono No. 10 Segoromadu, Gresik Jawa Timur 61123",
+  "email": "ispin@indospring.co.id",
+  "phone": "(031)398-11-35, 398-24-83, 398-25-24",
+  "fax": "(031)3981531",
+  "tax_id": "01.122.686.7-054.000",
+  "website": "https://www.indospring.co.id",
+  "listing_date": "1990-08-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri suku cadang kendaraan bermotor",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur, Otomotif.",
+    "business_tags": [
+      "Manufaktur",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 94,
+    "name": "Suku Cadang Otomotif",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Bob Budiono",
+    "email": "bob_budiono@indospring.co.id",
+    "phone": "031-3981135"
+  },
+  "directors": [
+    {
+      "name": "Wiranto Nurhadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Lioe Cu Ling",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Bob Budiono",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Teddy Limyanto",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Andriyas",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Widjijono Nurhadi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "I Gusti Putu Suryawirawan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "I Gusti Putu Suryawirawan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Poo Winata Polim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ricky Arya Sathyanegara",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Indoprima Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 5782102070,
+      "percentage": 88.11
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 729894740,
+      "percentage": 11.12
+    },
+    {
+      "name": "Wiranto Nurhadi",
+      "type": "Direksi",
+      "shares": 26833320,
+      "percentage": 0.41
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 23520450,
+      "percentage": 0.36
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Widjijono Nurhadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "I Gusti Putu Suryawirawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lioe Cu Ling",
+      "type": "Direksi",
+      "shares": 44500,
+      "percentage": 0
+    },
+    {
+      "name": "Bob Budiono",
+      "type": "Direksi",
+      "shares": 102020,
+      "percentage": 0
+    },
+    {
+      "name": "Teddy Limyanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andriyas",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mk Prima Indonesia",
+      "business_type": "Industri Suku Cadang dan Aksesoris Kendaraan Bermotor",
+      "total_assets": 391679901791,
+      "ownership_percentage": 49
+    },
+    {
+      "name": "PT Sinar Indra Nusa Jaya",
+      "business_type": "Dagang",
+      "total_assets": 356933951462,
+      "ownership_percentage": 1
+    },
+    {
+      "name": "PT Indobaja Prima Murni",
+      "business_type": "Industri Alat Potong dan Perkakas Tangan Utk Pertanian",
+      "total_assets": 279865197291,
+      "ownership_percentage": 3.5
+    },
+    {
+      "name": "PT Indonesia Prima Spring",
+      "business_type": "Industri Suku Cadang dan Aksesoris Kendaraan Bermotor",
+      "total_assets": 388016509,
+      "ownership_percentage": 0.1
+    },
+    {
+      "name": "PT Mk Prima Indonesia",
+      "business_type": "Industri Suku Cadang dan Aksesoris Kendaraan Bermotor",
+      "total_assets": 384594,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mk Prima Indonesia",
+      "business_type": "Manufaktur",
+      "total_assets": 382896,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mk Prima Indonesia",
+      "business_type": "Industri Suku Cadang dan Aksesoris Kendaraan Bermotor",
+      "total_assets": 377437,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mk Prima Indonesia",
+      "business_type": "Industri Suku Cadang dan Aksesoris Kendaraan Bermotor",
+      "total_assets": 377437,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sinar Indra Nusa Jaya",
+      "business_type": "Dagang",
+      "total_assets": 368850,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mk Prima Indonesia",
+      "business_type": "Manufaktur",
+      "total_assets": 340579,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Sinar Indra Nusa Jaya",
+      "business_type": "Dagang",
+      "total_assets": 333744,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indobaja Prima Murni",
+      "business_type": "Industri Alat Potong dan Perkakas Tangan Utk Pertanian",
+      "total_assets": 300850,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Indobaja Prima Murni",
+      "business_type": "Manufaktur",
+      "total_assets": 296910,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Indobaja Prima Murni",
+      "business_type": "Manufaktur",
+      "total_assets": 296600,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Indobaja Prima Murni",
+      "business_type": "Industri Alat Potong dan Perkakas Tangan Utk Pertanian",
+      "total_assets": 296254,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Indobaja Prima Murni",
+      "business_type": "Industri Alat Potong dan Perkakas Tangan Utk Pertanian",
+      "total_assets": 296254,
+      "ownership_percentage": 96.5
+    },
+    {
+      "name": "PT Sinar Indra Nusa Jaya",
+      "business_type": "Dagang",
+      "total_assets": 295292,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sinar Indra Nusa Jaya",
+      "business_type": "Dagang",
+      "total_assets": 295100,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sinar Indra Nusa Jaya",
+      "business_type": "Dagang",
+      "total_assets": 295100,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indonesia Prima Spring",
+      "business_type": "Industri Suku Cadang dan Aksesoris Kendaraan Bermotor",
+      "total_assets": 232,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Indonesia Prima Spring",
+      "business_type": "Industri Suku Cadang dan Aksesoris Kendaraan Bermotor",
+      "total_assets": 201,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Indonesia Prima Spring",
+      "business_type": "Industri Suku Cadang dan Aksesoris Kendaraan Bermotor",
+      "total_assets": 201,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Indonesia Prima Spring",
+      "business_type": "Manufaktur",
+      "total_assets": 201,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Indonesia Prima Spring",
+      "business_type": "Manufaktur",
+      "total_assets": 194,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.887.498.724.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:46:35.257Z"
+}

@@ -1,0 +1,277 @@
+{
+  "company_name": "PT Map Boga Adiperkasa Tbk",
+  "ticker": "MAPB",
+  "office_address": "Gedung Sahid Sudirman Center Lt. 27 Jl. Jend. Sudirman Kav. 86, Karet Tengsih Tanah Abang Jakarta Pusat Dki Jakarta 10220",
+  "email": "corporatesecretary@mbai.co.id",
+  "phone": "+62-21 8064 8498",
+  "fax": "-",
+  "tax_id": "0032712739022000",
+  "website": "https://www.mbai.co.id",
+  "listing_date": "2017-06-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan umum, impor, industri, usaha-usaha di bidang jasa boga yang meliputi berbagai pengolahan,penyediaan, penjualan, pelayanan dan penghidangan makanan dan minumantermasuk usaha-usaha di bidang jasa dan konsultasi rumah makan/restoran, dan usaha terkait lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Derwin Wirawan",
+    "email": "corporatesecretary@mbai.co.id",
+    "phone": "021-574 6501"
+  },
+  "directors": [
+    {
+      "name": "Anthony Valentine Mc Evoy",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Derwin Wirawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ratih Darmawan Gianda",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jap Janti Kusuma Jaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Miquel Rodrigo Staal",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Virendra Prakash Sharma",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Handaka Santosa",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Susiana Latif",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Victor Setiawan Taslim",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Neal Leroux Kok",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Victor Setiawan Taslim",
+      "position": "Ketua"
+    },
+    {
+      "name": "Imam Sugiarto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wahyu Septiana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mitra Adiperkasa Tbk.",
+      "type": "Lebih dari 5%",
+      "shares": 1718804138,
+      "percentage": 71.98
+    },
+    {
+      "name": "Ga Robusta F&b Company Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 480834533,
+      "percentage": 20.136
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 188281367,
+      "percentage": 7.884
+    },
+    {
+      "name": "PT Premier Capital Investment",
+      "type": "Lebih dari 5%",
+      "shares": 2862,
+      "percentage": 0
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sari Coffee Indonesia (\"sci\")",
+      "business_type": "Starbucks",
+      "total_assets": 1884215,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sari Sandwich Indonesia (\"ssi\")",
+      "business_type": "Subway",
+      "total_assets": 320395,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sari Food Lestari (\"sfl\")",
+      "business_type": "Paul Bakery",
+      "total_assets": 148476,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Agung Mandiri Lestari (\"aml\")",
+      "business_type": "Genki Sushi",
+      "total_assets": 142159,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Premier Doughnut Indonesia (\"pdi\")",
+      "business_type": "Krispy Kreme, Toast Box",
+      "total_assets": 122203,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sari Pizza Indonesia (\"spi\")",
+      "business_type": "Pizza Marzano",
+      "total_assets": 117726,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sari Icecream Indonesia (\"sii\")",
+      "business_type": "Cold Stone Creamery, Godiva",
+      "total_assets": 48338,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Roti Boga Adiperkasa (\"rba\")",
+      "business_type": "",
+      "total_assets": 37,
+      "ownership_percentage": 99.98
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Imelda & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    },
+    {
+      "name": "Kap Liana Ramon Xenia & Rekan"
+    },
+    {
+      "name": "Satrio Bing Eny & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.629.642.808.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:14.343Z"
+}

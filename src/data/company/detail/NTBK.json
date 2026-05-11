@@ -1,0 +1,223 @@
+{
+  "company_name": "PT Nusatama Berkah Tbk",
+  "ticker": "NTBK",
+  "office_address": "Jl. Raya Narogong Km. 14 Pangkalan V, Bantar Gebang Bekasi 17152 - Indonesia",
+  "email": "corsec@nusatama.com",
+  "phone": "+62-21 825 0659",
+  "fax": "+62-21 825 0248",
+  "tax_id": "21.113.302.0-432.000",
+  "website": "https://www.nusatama.com",
+  "listing_date": "2022-02-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam Industri Manufaktur Kendaraan Khusus",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi, Manufaktur, Otomotif.",
+    "business_tags": [
+      "Konstruksi",
+      "Manufaktur",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 5,
+    "name": "Barang Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 27,
+    "name": "Mesin"
+  },
+  "sub_industry": {
+    "id": 47,
+    "name": "Mesin Konstruksi & Kendaraan Berat",
+    "industries_id": 27
+  },
+  "corporate_secretary": {
+    "name": "Dodi Sentot",
+    "email": "dodi.sentot@nusatama.com",
+    "phone": "+62-21-8250659"
+  },
+  "directors": [
+    {
+      "name": "Ir. Bambang Susilo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Ismu Prasetyo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Hilman Risan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hardiyanto Darjoto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Lia Marliana, S.e",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Hilman Risan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir. Hilman Risan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Syahidul Anam",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tony Widharma",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Reborn Capital",
+      "type": "Lebih dari 5%",
+      "shares": 1400000000,
+      "percentage": 51.85
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1133795377,
+      "percentage": 41.99
+    },
+    {
+      "name": "Ir. Bambang Susilo",
+      "type": "Direksi",
+      "shares": 102029000,
+      "percentage": 3.78
+    },
+    {
+      "name": "Lia Marliana S.e.",
+      "type": "Komisaris",
+      "shares": 63777100,
+      "percentage": 2.36
+    },
+    {
+      "name": "Ir. Ismu Prasetyo",
+      "type": "Direksi",
+      "shares": 213400,
+      "percentage": 0.01
+    },
+    {
+      "name": "Hardianto Darjoto",
+      "type": "Komisaris",
+      "shares": 250000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ir. Hilman Risan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pilar Pratama Dinamika",
+      "business_type": "Perdagangan Kendaraan dan Suku Cadang",
+      "total_assets": 2001870799,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Kap Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "232.205.579.422",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:24.689Z"
+}

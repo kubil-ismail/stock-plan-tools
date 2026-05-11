@@ -1,0 +1,187 @@
+{
+  "company_name": "PT Arsy Buana Travelindo Tbk",
+  "ticker": "HAJJ",
+  "office_address": "Ruko Harvest No. 3 Jl. Merpati Raya, Kel. Sawah, Kec. Ciputat Kota Tangerang Selatan, 15413",
+  "email": "corporatesecretary@abttravel.id",
+  "phone": "(021) 7422898",
+  "fax": "",
+  "tax_id": "84.251.530.6-416.000",
+  "website": "https://abttravel.id",
+  "listing_date": "2023-04-05",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Jasa Penyedia Akomodasi Perjalanan Wisata",
+    "business_summary": "Perusahaan bergerak di bidang Agen Perjalanan.",
+    "business_tags": [
+      "Agen Perjalanan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 1,
+    "name": "Agen Perjalanan",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Agung Prabowo",
+    "email": "corporatesecretary@abttravel.id",
+    "phone": "021-7422898"
+  },
+  "directors": [
+    {
+      "name": "Saipul Bahri",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Agung Prabowo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Didik Ariyanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Sammy T.s. Lalamentik",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sammy T.s. Lalamentik",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sujung Tanoedji",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhammad Adhe Ibrahim",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Madinah Iman Wisata",
+      "type": "Lebih dari 5%",
+      "shares": 1603366670,
+      "percentage": 64.95
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 703176572,
+      "percentage": 28.489
+    },
+    {
+      "name": "PT Abraha Jaya Investama",
+      "type": "Lebih dari 5%",
+      "shares": 161951000,
+      "percentage": 6.56
+    },
+    {
+      "name": "Saipul Bahri",
+      "type": "Direksi",
+      "shares": 33330,
+      "percentage": 0.001
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "320.908.584.360",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:24.494Z"
+}

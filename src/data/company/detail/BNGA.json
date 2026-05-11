@@ -1,0 +1,322 @@
+{
+  "company_name": "PT Bank Cimb Niaga Tbk",
+  "ticker": "BNGA",
+  "office_address": "Graha Cimb Niaga Jl. Jend. Sudirman Kav. 58 Jakarta 12190",
+  "email": "corporate.secretary@cimbniaga.co.id",
+  "phone": "250-5252, 250-5353",
+  "fax": "252-6749",
+  "tax_id": "01.310.668.7-091.000",
+  "website": "https://www.cimbniaga.com",
+  "listing_date": "1989-11-29",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Jasa Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan, Keuangan.",
+    "business_tags": [
+      "Perbankan",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Fransiska Oei",
+    "email": "fransiska.oei@cimbniaga.co.id",
+    "phone": "250 5252"
+  },
+  "directors": [
+    {
+      "name": "Lani Darmawan",
+      "position": "Presiden Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lee Kai Kwong",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "John Simon",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Fransiska Oei",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Rusly Johannes",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Joni Raini",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Henky Sulistyo",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Noviady Wahyudi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Rico Usthavia Frans",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Pandji P. Djajanegara",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Didi Syafruddin Yahya",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Glenn Muhammad Surya Yusuf",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Sri Widowati",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Farina J. Situmorang",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Vera Handajani",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dody Budi Waluyo",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Novan Amirudin",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dody Budi Waluyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Glenn M.s. Yusuf",
+      "position": "Anggota"
+    },
+    {
+      "name": "Endang Kussulanjari S.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Angelique Dewi Daryanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "-",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Cimb Group Sdn Bhd",
+      "type": "Lebih dari 5%",
+      "shares": 22991336581,
+      "percentage": 91.4452
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1869283805,
+      "percentage": 7.4349
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 272256125,
+      "percentage": 1.0829
+    },
+    {
+      "name": "Lani Darmawan",
+      "type": "Direksi",
+      "shares": 2029501,
+      "percentage": 0.0081
+    },
+    {
+      "name": "John Simon",
+      "type": "Direksi",
+      "shares": 1258201,
+      "percentage": 0.005
+    },
+    {
+      "name": "Fransiska Oei",
+      "type": "Direksi",
+      "shares": 1163601,
+      "percentage": 0.0046
+    },
+    {
+      "name": "Vera Handajani",
+      "type": "Komisaris",
+      "shares": 1055401,
+      "percentage": 0.0042
+    },
+    {
+      "name": "Rusly Johannes",
+      "type": "Direksi",
+      "shares": 1061301,
+      "percentage": 0.0042
+    },
+    {
+      "name": "Lee Kai Kwong",
+      "type": "Direksi",
+      "shares": 921900,
+      "percentage": 0.0037
+    },
+    {
+      "name": "Pandji P Djajanegara",
+      "type": "Direksi",
+      "shares": 913401,
+      "percentage": 0.0036
+    },
+    {
+      "name": "Joni Raini",
+      "type": "Direksi",
+      "shares": 434901,
+      "percentage": 0.0017
+    },
+    {
+      "name": "Henky Sulistyo",
+      "type": "Direksi",
+      "shares": 312300,
+      "percentage": 0.0012
+    },
+    {
+      "name": "Noviady Wahyudi",
+      "type": "Direksi",
+      "shares": 178500,
+      "percentage": 0.0007
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Pandji P Djajanegara",
+      "type": "Direksi",
+      "shares": 325,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cimb Niaga Auto Finance",
+      "business_type": "Jasa Pembiayaan",
+      "total_assets": 10942666,
+      "ownership_percentage": 83.28
+    },
+    {
+      "name": "Reksa Dana Terproteksi Bri Mi Proteksi 102",
+      "business_type": "Unit Reksa Dana",
+      "total_assets": 1065479,
+      "ownership_percentage": 52.38
+    },
+    {
+      "name": "PT Cimb Niaga Sekuritas",
+      "business_type": "Penjamin Emisi Efek",
+      "total_assets": 653858,
+      "ownership_percentage": 97.32
+    },
+    {
+      "name": "Reksa Dana Terproteksi Bahana Ultima Protected Fund 236",
+      "business_type": "Unit Reksa Dana",
+      "total_assets": 503591,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Reksa Dana Terproteksi Sam Sejahtera Terproteksi 5",
+      "business_type": "Unit Reksa Dana",
+      "total_assets": 503374,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "41.567.608.919.280",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:52.355Z"
+}

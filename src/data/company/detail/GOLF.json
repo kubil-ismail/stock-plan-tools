@@ -1,0 +1,200 @@
+{
+  "company_name": "PT Intra Golflink Resorts Tbk",
+  "ticker": "GOLF",
+  "office_address": "Desa Kadumanggu, Kecamatan Madang, Bogor 16810 Jawa Barat",
+  "email": "corsec@golflinkresorts.co.id",
+  "phone": "+622187954455",
+  "fax": "+622187954567",
+  "tax_id": "02.458.344.5-021.000",
+  "website": "https://www.golflinkresorts.co.id",
+  "listing_date": "2024-07-08",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak Dalam Bidang Jasa Konsultasi Manajemen dan Pengelolaan Lapangan Golf, Pengembangan Properti serta Fasilitas Pendukungnya melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 20,
+    "name": "Fasilitas Rekreasi & Olah Raga",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "S. Hari Cahyanto",
+    "email": "corsec@golflinkresorts.co.id",
+    "phone": ""
+  },
+  "directors": [
+    {
+      "name": "Dwi Febri Astuti",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andy Nuryadmanto, S.t., m.t.",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Darma Mangkuluhur Hutomo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Royani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mutia Warda Savira",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gunarto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bali Pecatu Graha",
+      "type": "Lebih dari 5%",
+      "shares": 17244598680,
+      "percentage": 88.49
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1950000000,
+      "percentage": 10.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 292161320,
+      "percentage": 1.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Darma Mangkuluhur Hutomo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Royani",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dwi Febri Astuti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andy Nuryadmanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. New Kuta Golf & Ocean View",
+      "business_type": "Pengelolaan Lapangan Golf",
+      "total_assets": 7041100311321,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT. Sentul Golf Utama",
+      "business_type": "Pengelolaan Lapangan Golf",
+      "total_assets": 1118769010547,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.721.971.160.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:01.810Z"
+}

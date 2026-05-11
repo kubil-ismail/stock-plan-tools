@@ -1,0 +1,279 @@
+{
+  "company_name": "PT Timah Tbk.",
+  "ticker": "TINS",
+  "office_address": "Head Office : Jl. Jenderal Sudirman 51, Opas Indah, Taman Sari, Kota Pangkalpinang, Kepulauan Bangka Belitung, 33129. Representatif Office. Jl. Medan Merdeka Timur No. 15 Jakarta 10110 Indonesia",
+  "email": "investorrelation@pttimah.co.id / corsec@pttimah.co.id",
+  "phone": "021-2352 8000",
+  "fax": "021-2352 8080",
+  "tax_id": "0010 0166 5705 1000",
+  "website": "https://www.timah.com",
+  "listing_date": "1995-10-19",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Metal and Mineral Mining",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Batubara, Properti, Logistik.",
+    "business_tags": [
+      "Agribisnis",
+      "Batubara",
+      "Properti",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "batubara",
+      "coal",
+      "mining",
+      "property",
+      "real estate",
+      "properti",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Ruddy Nursalam",
+    "email": "ruddy@pttimah.co.id",
+    "phone": "+62 717 425 8000"
+  },
+  "directors": [
+    {
+      "name": "Restu Widiyantoro",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Fina Eliani",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Handy Geniardi",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Suhendra Yusuf Ratuprawiranegara",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Ratih Mayasari",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Harry Budi Sidharta",
+      "position": "Wakil Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ilhamsyah Mahendra",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Agus Rohman",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yuslih Ihza Mahendra",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Rizani Usman",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "M. Hita Tunggal",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Eniya Listiani Dewi",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yuslih Ihza",
+      "position": "Ketua"
+    },
+    {
+      "name": "M. Hita Tunggal",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wawan Gunawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sri Suryaningsum",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mineral Industri Indonesia (persero)",
+      "type": "Lebih dari 5%",
+      "shares": 4841053951,
+      "percentage": 65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2603961763,
+      "percentage": 34.96
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2737739,
+      "percentage": 0.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Indometal (london) Limited (\"il\")",
+      "business_type": "Agen Pemasaran/ Marketing Agent",
+      "total_assets": 1069681,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Timah Industri (\"ti\")",
+      "business_type": "Industri Kimia, Chemical Industry",
+      "total_assets": 815895,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Timah Karya Persada Properti (\"tkpp\")",
+      "business_type": "Industri Real Estat/ Real Estate Industry",
+      "total_assets": 410023,
+      "ownership_percentage": 99.75
+    },
+    {
+      "name": "PT Tanjung Alam Jaya (\"taj\")",
+      "business_type": "Pertambangan Batubara/ Coal Mining",
+      "total_assets": 371739,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Timah Investasi Mineral (\"tim\")",
+      "business_type": "Eksplorasi, Pertambangan Mineral di Luar Timah dan Pemasaran Batubara/ Exploration, Mining Of Non-tin Minerals And Coal Marketing",
+      "total_assets": 307490,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Dok dan Perkapalan Air Kantung (\"dak\")",
+      "business_type": "Jasa Perbengkelan, Galangan Kapal dan Transportasi/ Workshop Servces, Shipping Dockyard, And Transportation",
+      "total_assets": 218912,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Timah Nigeria Limited (\"tnl\")",
+      "business_type": "Pertambangan Timah/ Tin Mining",
+      "total_assets": 81549,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Timah Agro Manunggal (\"tam\")",
+      "business_type": "Pertanian dan Perdagangan/ Agriculture And Trading",
+      "total_assets": 20894,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Timah International Investment Ltd (\"tinves\")",
+      "business_type": "Perdagangan/ Trading",
+      "total_assets": 17308,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Great Force Trading Limited (\"gft\")",
+      "business_type": "Perdagangan/ Trading",
+      "total_assets": 9924,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Timah Indotama Mineral",
+      "business_type": "Pengangkutan dan Penjualan Hasil Tambang/ Transportation And Sale Of Mining Products",
+      "total_assets": 350,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Tim Silika Nusantara (\"tsn\")",
+      "business_type": "Pertambangan Nikel/ Nickel Mining",
+      "total_assets": 301,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "26.662.957.365.320",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:29.191Z"
+}

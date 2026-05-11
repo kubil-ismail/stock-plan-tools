@@ -1,0 +1,263 @@
+{
+  "company_name": "Media Nusantara Citra Tbk",
+  "ticker": "MNCN",
+  "office_address": "Mnc Tower, Jl. Kebon Sirih No. 17-19, Kebon Sirih, Menteng, Jakarta Pusat, Dki Jakarta, 10340",
+  "email": "corsec.mncmedia@mncgroup.com",
+  "phone": "021-3900885",
+  "fax": "021-3904965",
+  "tax_id": "01.832.495.4-054.000",
+  "website": "https://www.mnc.co.id",
+  "listing_date": "2007-06-22",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan umum, Pembangunan, Perindustrian, Pertanian, Pengangkutan, Percetakan, Multimedia melalui perangkat satelit dan perangkat telekomunikasi lainnya, Jasa dan Industri",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 59,
+    "name": "Penyiaran",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Cahyarina A. Asri",
+    "email": "cahyarina.asri@mncgroup.com",
+    "phone": "021-3900065"
+  },
+  "directors": [
+    {
+      "name": "Noersing",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Kanti Mirdiati Imansyah",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Valencia Herliani Tanoesoedibjo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ruby Panjaitan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tantan Sumartana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dini Ayanti Putri",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cahyarina Agustina Asri",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hary Tanoesoedibjo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Syafril Nasution",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Joel Richard Hogarth",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Joel Richard Hogarth",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Mulyanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mohamed Idwan Ganie",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Global Mediacom Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 6967133504,
+      "percentage": 52.67
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 6252809204,
+      "percentage": 47.28
+    },
+    {
+      "name": "Hary Tanoesoedibjo",
+      "type": "Komisaris",
+      "shares": 6000000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 1822626200,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1702,
+      "percentage": 0
+    },
+    {
+      "name": "Valencia H. Tanoesoedibjo",
+      "type": "Direksi",
+      "shares": 735400,
+      "percentage": 0
+    },
+    {
+      "name": "Ruby Panjaitan",
+      "type": "Direksi",
+      "shares": 417900,
+      "percentage": 0
+    },
+    {
+      "name": "Cahyarina Agustina Asri",
+      "type": "Direksi",
+      "shares": 63800,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mnc Digital Entertainment Tbk (msin)",
+      "business_type": "Iklan, Konten, Online dan Talent",
+      "total_assets": 8405066,
+      "ownership_percentage": 72.78
+    },
+    {
+      "name": "PT Rajawali Citra Televisi Indonesia (rcti)",
+      "business_type": "Penyiaran",
+      "total_assets": 6659097,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mnc Televisi Indonesia (mnctv)",
+      "business_type": "Penyiaran",
+      "total_assets": 5912176,
+      "ownership_percentage": 87.07
+    },
+    {
+      "name": "Mnc International Middle East Limited (mimel)",
+      "business_type": "Lainnya",
+      "total_assets": 2352479,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mnc Televisi Network (mtn)",
+      "business_type": "Penyiaran",
+      "total_assets": 2199900,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Global Informasi Bermutu (gtv)",
+      "business_type": "Penyiaran",
+      "total_assets": 1717227,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mnc Media Investasi",
+      "business_type": "Lainnya",
+      "total_assets": 581087,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mnc Multimedia Networks (mmn)",
+      "business_type": "Penyiaran",
+      "total_assets": 180214,
+      "ownership_percentage": 99.43
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.642.048.625.820",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:16.312Z"
+}

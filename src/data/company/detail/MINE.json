@@ -1,0 +1,208 @@
+{
+  "company_name": "PT Sinar Terang Mandiri Tbk",
+  "ticker": "MINE",
+  "office_address": "Treasury Tower, Lantai 5 Unit G District 8 SCBD Lot 28 Jl. Jend. Sudirman Kav. 52-53, Kecamatan Kebayoran Baru Jakarta Selatan 12190",
+  "email": "corporate.secretary@sinarterangmandiri.com",
+  "phone": "021 50205188",
+  "fax": "021 5020 3477",
+  "tax_id": "0022 8454 7382 1000",
+  "website": "https://www.sinarterangmandiri.com",
+  "listing_date": "2025-03-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Aktivitas Penunjang Pertambangan dan Penggalian Lainnya",
+    "business_summary": "Perusahaan bergerak di bidang Logam & Mineral Lainnya.",
+    "business_tags": [
+      "Logam & Mineral Lainnya"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Vanggy Poli",
+    "email": "corporate.secretary@sinarterangmandiri.com",
+    "phone": "021 5020 5188"
+  },
+  "directors": [
+    {
+      "name": "Ivo Wangarry",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Arabella Engelita Sumendap",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ade Irawan",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sinjo Jefry Sumendap",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Susanto",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hendra Susanto",
+      "position": "Ketua"
+    },
+    {
+      "name": "Triyono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yulianto Sumarli",
+      "position": "Anggota"
+    },
+    {
+      "name": "Vinna Sugiono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mitra Berkarya Sukses Selalu",
+      "type": "Lebih dari 5%",
+      "shares": 3300000000,
+      "percentage": 80.79
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 529810300,
+      "percentage": 12.98
+    },
+    {
+      "name": "Sinjo Jefry Sumendap",
+      "type": "Komisaris",
+      "shares": 172899000,
+      "percentage": 4.23
+    },
+    {
+      "name": "Arabella Engelita Sumendap",
+      "type": "Direksi",
+      "shares": 75551400,
+      "percentage": 1.85
+    },
+    {
+      "name": "Ivo Wangarry",
+      "type": "Direksi",
+      "shares": 3628300,
+      "percentage": 0.09
+    },
+    {
+      "name": "Ade Irawan",
+      "type": "Direksi",
+      "shares": 2546300,
+      "percentage": 0.06
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.437.721.225.600",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:00.083Z"
+}

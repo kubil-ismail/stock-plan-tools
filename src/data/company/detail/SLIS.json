@@ -1,0 +1,244 @@
+{
+  "company_name": "PT Gaya Abadi Sempurna Tbk",
+  "ticker": "SLIS",
+  "office_address": "Jl. Raya Serang Km 14,2 No 8, Pasir Gadung, Cikupa, Banten",
+  "email": "corporate@gaya-slis.com",
+  "phone": "(021)22597464",
+  "fax": "(021)4520716",
+  "tax_id": "01.679.755.7-415.000",
+  "website": "https://www.gaya-slis.com",
+  "listing_date": "2019-10-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Komponen Elektronik Serta Melalui Perusahaan Anak Penyediaan Dan PenjualanKendaraan Ramah Lingkungan Dengan Sumber Daya Energi Listrik (Electric Vehicle)",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Otomotif.",
+    "business_tags": [
+      "Energi",
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 89,
+    "name": "Ritel Elektronik",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Wilson Teoh",
+    "email": "corporate@gaya-slis.com",
+    "phone": "(62-21) 4509888"
+  },
+  "directors": [
+    {
+      "name": "Edi Hanafiah Kwanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Wilson Ng",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wilson Teoh",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Tjoa King Hoa",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Budi Setiyadi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hadi Avilla Tamzil",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ari Binsar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mohamad Ali Sofyan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1158348002,
+      "percentage": 47.02
+    },
+    {
+      "name": "PT Selis Investama Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 1125000000,
+      "percentage": 45.67
+    },
+    {
+      "name": "Tjoa King Hoa",
+      "type": "Komisaris",
+      "shares": 179992600,
+      "percentage": 7.31
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Setiyadi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Edi Hanafiah Kwanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wilson Alias Wilson Ng",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Wilson Alias Wilson Teoh",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Juara Bike",
+      "business_type": "Perindustrian, Perdagangan, Perbengkelan, dan Jasa /",
+      "total_assets": 279156914211,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Rama Wendra"
+    },
+    {
+      "name": "Kap Suganda Akna Suhri & Rekan"
+    },
+    {
+      "name": "Rama Wendra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "204.457.269.966",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:59.252Z"
+}

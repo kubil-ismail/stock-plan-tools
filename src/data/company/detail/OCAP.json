@@ -1,0 +1,175 @@
+{
+  "company_name": "Onix Capital Tbk",
+  "ticker": "OCAP",
+  "office_address": "Alaydrus 84b, Petojo Utara, Gambir, Kota Adm. Jakarta Pusat, Dki Jakarta 10130",
+  "email": "corsec@ocap.co.id",
+  "phone": "31901777",
+  "fax": "31901616",
+  "tax_id": "01.341.092.3-054.000",
+  "website": "https://ocap.co.id",
+  "listing_date": "2003-10-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa konsultasi bidang bisnis, administrasi dan manajemen",
+    "business_summary": "Perusahaan bergerak di bidang Perusahaan Holding Keuangan.",
+    "business_tags": [
+      "Perusahaan Holding Keuangan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 27,
+    "name": "Perusahaan Holding & Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 49,
+    "name": "Perusahaan Holding & Investasi"
+  },
+  "sub_industry": {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  "corporate_secretary": {
+    "name": "Mauritius Ray",
+    "email": "corsec@ocap.co.id",
+    "phone": "39831376"
+  },
+  "directors": [
+    {
+      "name": "Tjie Ping Astono Setiadi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Mauritius Ray",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hardjanto Adiwana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Zainuddin Effendi Mm",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Zainuddin Effendi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ady Satria Daulay",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yan Syafrin",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Uob Kay Hian (hong Kong) Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 122948000,
+      "percentage": 45
+    },
+    {
+      "name": "Djajusman Surjo Wijono",
+      "type": "Lebih dari 5%",
+      "shares": 95625000,
+      "percentage": 35
+    },
+    {
+      "name": "Hardjanto A.",
+      "type": "Komisaris",
+      "shares": 21843000,
+      "percentage": 8
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Lebih dari 5%",
+      "shares": 16843900,
+      "percentage": 6.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 15940100,
+      "percentage": 5.9
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2258800,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 14585100,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Onix Sekuritas",
+      "business_type": "Sekuritas",
+      "total_assets": 18050109,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Onix Investama",
+      "business_type": "Konsultan",
+      "total_assets": 6460077,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "43.438.800.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:32.299Z"
+}

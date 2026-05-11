@@ -1,0 +1,197 @@
+{
+  "company_name": "PT Berdikari Pondasi Perkasa Tbk.",
+  "ticker": "BDKR",
+  "office_address": "Jl. Bandengan Utara No. 32 B Kel. Pekojan, Kec. Tambora Jakarta Barat 11240",
+  "email": "corsec@ptbppid.com",
+  "phone": "(021) 566 2756, 566 2757",
+  "fax": "-",
+  "tax_id": "0013620968033000",
+  "website": "https://www.ptbppid.com",
+  "listing_date": "2023-03-03",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang pondasi, perbaikan tanah, konstruksi dermaga, alat berat dan penyewaan crane",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Siska Wati Putri",
+    "email": "corsec@ptbppid.com",
+    "phone": "(021) 566 2756, 566 2757, 566 4415, 566 3952"
+  },
+  "directors": [
+    {
+      "name": "Tan John Tanuwijaya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Franciscus",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jauw Lie Ming",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ir. Hadrianus Bambang Nurhadi Widihartono, M.sc.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir. Hadrianus Bambang Nurhadi Widihartono, M.sc.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rudi Setiadi Tjahjono",
+      "position": "Anggota"
+    },
+    {
+      "name": "Susanto Halim, S.e., M.m. Ak., Cpma, Ca, Asean Cpa",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Tan John Tanuwijaya",
+      "type": "Lebih dari 5%",
+      "shares": 2410117900,
+      "percentage": 51.0067
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1582640222,
+      "percentage": 33.4943
+    },
+    {
+      "name": "Jauw Lie Ming",
+      "type": "Komisaris",
+      "shares": 461000000,
+      "percentage": 9.7564
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 215579900,
+      "percentage": 4.5624
+    },
+    {
+      "name": "Tan Franciscus",
+      "type": "Direksi",
+      "shares": 55763500,
+      "percentage": 1.1802
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "798.542.157.218",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:56.387Z"
+}

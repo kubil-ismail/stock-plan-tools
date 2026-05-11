@@ -1,0 +1,202 @@
+{
+  "company_name": "PT Master Print Tbk",
+  "ticker": "PTMR",
+  "office_address": "Jl. Pangeran Jayakarta 135, Blok C 12-15, Mangga Dua Selatan, Sawah Besar, Jakarta Pusat-10730, Dki Jakarta",
+  "email": "corsec@masterprint.co.id",
+  "phone": "0216240171",
+  "fax": "0216258978",
+  "tax_id": "02.491.930.0-026.000",
+  "website": "https://www.masterprint.co.id",
+  "listing_date": "2024-10-08",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perseroan bergerak dalam bidang perdagangan sebagai distributor resmi dan penyewaan barang-barang industri pengemasan termasuk suku cadang dan servis seperti coding, marking, labelling dan product inspection system serta shrink-packaging, protective packaging, food packaging dan pharmaceutical (blister) packaging.",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Vera Ameilia",
+    "email": "corsec@masterprint.co.id",
+    "phone": "0216240171"
+  },
+  "directors": [
+    {
+      "name": "Ardi Kusuma",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Cindy Kusuma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Edward Kusuma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tungga Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jessica Kusuma",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ilham Djaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Heriyadi Se",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Heriyadi, Se",
+      "position": "Ketua"
+    },
+    {
+      "name": "Winarto Darmabrata",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hengki Kusuma",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mitra Pack Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 1457280000,
+      "percentage": 76.42
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 435000000,
+      "percentage": 22.81
+    },
+    {
+      "name": "Ardi Kusuma",
+      "type": "Direksi",
+      "shares": 14720000,
+      "percentage": 0.77
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Global Putra Kusuma",
+      "business_type": "Perdagangan Besar Mesin, Peralatan dan Perlengkapan Lainnya",
+      "total_assets": 48422394828,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "713.218.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:09.454Z"
+}

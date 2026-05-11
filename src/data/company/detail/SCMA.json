@@ -1,0 +1,348 @@
+{
+  "company_name": "Surya Citra Media Tbk",
+  "ticker": "SCMA",
+  "office_address": "SCTV Tower -senayan City Jl. Asia Afrika Lot.19 Jakarta 10270",
+  "email": "corsec@scm.co.id",
+  "phone": "2793 5599",
+  "fax": "2793 5598",
+  "tax_id": "01.904.039.3-054.000",
+  "website": "http://www.scm.co.id",
+  "listing_date": "2002-07-16",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Media",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 19,
+    "name": "Media & Hiburan",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 26,
+    "name": "Media"
+  },
+  "sub_industry": {
+    "id": 59,
+    "name": "Penyiaran",
+    "industries_id": 26
+  },
+  "corporate_secretary": {
+    "name": "Gilang Iskandar",
+    "email": "gilang.iskandar@indosiar.com",
+    "phone": "02127935599"
+  },
+  "directors": [
+    {
+      "name": "Sutanto Hartono",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Harsiwi Achmad",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Imam Sudjarwo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Rusmiyati Djajaseputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mutia Nandika",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "David Setiawan Suwarto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suryani Zaini",
+      "position": "Wakil Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Adi W. Sariaatmadja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Glenn M. Surya Yusuf",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jay Geoffrey Wacher",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Suryani Zaini",
+      "position": "Ketua"
+    },
+    {
+      "name": "Patricia M. Sugondo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Petrus Nugroho Wicaksono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Elang Mahkota Teknologi Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 55050691340,
+      "percentage": 74.42
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 10465866225,
+      "percentage": 14.15
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 7822612640,
+      "percentage": 10.58
+    },
+    {
+      "name": "Adi W. Sariaatmadja",
+      "type": "Komisaris",
+      "shares": 241812200,
+      "percentage": 0.33
+    },
+    {
+      "name": "Sutanto Hartono",
+      "type": "Direksi",
+      "shares": 109667900,
+      "percentage": 0.15
+    },
+    {
+      "name": "Mutia Nandika",
+      "type": "Direksi",
+      "shares": 80478000,
+      "percentage": 0.11
+    },
+    {
+      "name": "Harsiwi Achmad",
+      "type": "Direksi",
+      "shares": 69563000,
+      "percentage": 0.09
+    },
+    {
+      "name": "Rusmiyati Djajaseputra",
+      "type": "Direksi",
+      "shares": 51814000,
+      "percentage": 0.07
+    },
+    {
+      "name": "David Setiawan Suwarto",
+      "type": "Direksi",
+      "shares": 36602000,
+      "percentage": 0.05
+    },
+    {
+      "name": "Imam Sudjarwo",
+      "type": "Direksi",
+      "shares": 32711000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Jay Geoffrey Wacher",
+      "type": "Komisaris",
+      "shares": 8750000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1200,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Indonesia Entertainmen Grup",
+      "business_type": "Perdagangan Film dan Konten, Jasa Manajemen dan Produksi Konten, Rumah Produksi dan Industri Multimedia",
+      "total_assets": 3253724230,
+      "ownership_percentage": 72.84
+    },
+    {
+      "name": "PT Surya Citra Televisi",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 2461260904,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Vidio Dot Com",
+      "business_type": "Video-on-demand Berbasis Iklan dan Video-on-demand Berlangganan",
+      "total_assets": 2144038470,
+      "ownership_percentage": 79.43
+    },
+    {
+      "name": "PT Indosiar Visual Mandiri",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 1551659133,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kapan Lagi Dot Com Networks",
+      "business_type": "Portal Web",
+      "total_assets": 344718561,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Surya Media Citaprima",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 278884484,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Whisper Media Pte. Ltd",
+      "business_type": "Jasa Layanan Iklan Digital",
+      "total_assets": 221285227,
+      "ownership_percentage": 50.5
+    },
+    {
+      "name": "PT Mediatama Televisi",
+      "business_type": "Penyiaran Berlangganan Televisi Satelit",
+      "total_assets": 131398373,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Benson Media Kreasi",
+      "business_type": "Marketing Kreatif, Jasa Periklanan dan Penyelenggaraan Acara",
+      "total_assets": 120009440,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Wisper Media",
+      "business_type": "Jasa Layanan Iklan Digital",
+      "total_assets": 47831357,
+      "ownership_percentage": 50.49
+    },
+    {
+      "name": "PT Binary Ventura Indonesia",
+      "business_type": "Perdagangan, Jasa dan Periklanan",
+      "total_assets": 46956727,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Surya Cantik Bersinar",
+      "business_type": "Perdagangan",
+      "total_assets": 34078268,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Elevora Strategi Grup",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 23328638,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Screenplay Produksi",
+      "business_type": "Produksi Perfilman dan Perekaman Video",
+      "total_assets": 21852657,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Surya Trioptima Multikreasi",
+      "business_type": "Manajemen Artis",
+      "total_assets": 11250529,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Surya Sport Indonesia",
+      "business_type": "Klub Olahraga",
+      "total_assets": 7071431,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Surya Media Berkah",
+      "business_type": "Jasa Konsultasi Manajemen",
+      "total_assets": 5522788,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Rans Surya Aktivasi",
+      "business_type": "Jasa Penyedia Konten dan Jasa Penyelenggaraan Acara",
+      "total_assets": 3264923,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Surya Citra Pesona",
+      "business_type": "Penyiaran Televisi",
+      "total_assets": 725851,
+      "ownership_percentage": 51
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "18.492.642.376.250",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:25.419Z"
+}

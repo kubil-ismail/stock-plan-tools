@@ -1,0 +1,266 @@
+{
+  "company_name": "PT Hero Global Investment Tbk",
+  "ticker": "HGII",
+  "office_address": "Jl. Setiabudi Tengah No. 22 Kuningan, Setiabudi, Jakarta Selatan 12910 Dki Jakarta, Indonesia",
+  "email": "corporate.secretary@heroglobalinvestment.com",
+  "phone": "(62 21)5227533",
+  "fax": "(62 21)5250019",
+  "tax_id": "03.017.334.8-085.000",
+  "website": "https://www.heroglobalinvestment.com",
+  "listing_date": "2025-01-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Menjalankan aktivitas perusahaan holding di bidang energi baru terbarukan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Konstruksi.",
+    "business_tags": [
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 34,
+    "name": "Utilitas",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 57,
+    "name": "Utilitas Listrik"
+  },
+  "sub_industry": {
+    "id": 100,
+    "name": "Utilitas Listrik",
+    "industries_id": 57
+  },
+  "corporate_secretary": {
+    "name": "Hani Hanifah Sumarno",
+    "email": "corporate.secretary@heroglobalinvestment.com",
+    "phone": "08111969144"
+  },
+  "directors": [
+    {
+      "name": "Robin Sunyoto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Anche Anthonius",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hugofeber Parluhutan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Shingo Ando",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Teddy Thamrin Chandra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ratna Ningsih",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kazuichi Ikeda",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ratna Ningsih",
+      "position": "Ketua"
+    },
+    {
+      "name": "Glorius Martinus Sinaga",
+      "position": "Anggota"
+    },
+    {
+      "name": "Juwita Yenki",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Sep International Netherlands B.v.",
+      "type": "Lebih dari 5%",
+      "shares": 1625000000,
+      "percentage": 25
+    },
+    {
+      "name": "Hendrianto Thamrin",
+      "type": "Lebih dari 5%",
+      "shares": 1290250000,
+      "percentage": 19.85
+    },
+    {
+      "name": "Rudy Chandra",
+      "type": "Lebih dari 5%",
+      "shares": 1215500000,
+      "percentage": 18.7
+    },
+    {
+      "name": "Robert Njo",
+      "type": "Lebih dari 5%",
+      "shares": 1180750000,
+      "percentage": 18.16
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1064050000,
+      "percentage": 16.37
+    },
+    {
+      "name": "Teddy Thamrin Chandra",
+      "type": "Komisaris",
+      "shares": 110500000,
+      "percentage": 1.7
+    },
+    {
+      "name": "Robin Sunyoto",
+      "type": "Direksi",
+      "shares": 13950000,
+      "percentage": 0.22
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bina Adong Energi",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bina Godang Energi",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Hero Global Energi",
+      "business_type": "Jasa Manajemen",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mega Teknik Sentosa",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 0,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Multiprima Hidro Energi",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Seluma Clean Energy",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Siantar Sitanduk Energi",
+      "business_type": "Pembangkit Tenaga Listrik",
+      "total_assets": 0,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Tio Megah Konstruksi",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 0,
+      "ownership_percentage": 85
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    },
+    {
+      "name": "Kap Amir Abadi Jusuf, Aryanto, Mawar & Rekan"
+    },
+    {
+      "name": "Kap Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "897.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:36.708Z"
+}

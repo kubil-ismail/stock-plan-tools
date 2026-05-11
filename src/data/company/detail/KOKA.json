@@ -1,0 +1,196 @@
+{
+  "company_name": "PT Koka Indonesia Tbk.",
+  "ticker": "KOKA",
+  "office_address": "Jl. Sultan Iskandar Muda, No. 7, Lt. 3 Kebayoran Lama, Jakarta Selatan 12240",
+  "email": "corporatesecretary@koka.co.id",
+  "phone": "+62 21 292 91028",
+  "fax": "+62 21 29291038",
+  "tax_id": "",
+  "website": "https://www.koka.co.id",
+  "listing_date": "2023-10-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Konstruksi Gedung Industri, Bangunan Sipil dan Gedung Hunian",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Muhammad Fikri Adzkiya",
+    "email": "corporatesecretary@koka.co.id",
+    "phone": "+62 21 292 91028"
+  },
+  "directors": [
+    {
+      "name": "Gao Jing",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Pei Yaxing",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Adithya Lesmana Yudhistira",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Tjandra Tjuajta",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Tjandra Tjuatja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Syarif Hidayutulloh",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ai Nur Asiah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ny. Gao Jing",
+      "type": "Direksi",
+      "shares": 1223220000,
+      "percentage": 42.75
+    },
+    {
+      "name": "PT Kreatif Konstruksi Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 708180000,
+      "percentage": 24.75
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 615237260,
+      "percentage": 21.5
+    },
+    {
+      "name": "Ling Sun",
+      "type": "Lebih dari 5%",
+      "shares": 160097900,
+      "percentage": 5.6
+    },
+    {
+      "name": "Ny. Gao Jinfeng",
+      "type": "Lebih dari 5%",
+      "shares": 154597840,
+      "percentage": 5.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Drs. Chaeroni & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Drs. Chaeroni & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "503.594.608.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:12.678Z"
+}

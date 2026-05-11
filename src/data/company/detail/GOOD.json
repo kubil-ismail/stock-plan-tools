@@ -1,0 +1,342 @@
+{
+  "company_name": "PT Garudafood Putra Putri Jaya Tbk.",
+  "ticker": "GOOD",
+  "office_address": "Wisma Garudafood, Jl. Bintaro Raya No. 10a, Jakarta 12240 Indonesia",
+  "email": "corporate.secretary@garudafood.co.id",
+  "phone": "0217290110",
+  "fax": "0217290112",
+  "tax_id": "01.577.116.5-092.000",
+  "website": "https://www.garudafood.com",
+  "listing_date": "2018-10-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Industri makanan dan minuman dalam kemasan yang terintegrasi dengan kegiatan distribusi",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Makanan & Minuman.",
+    "business_tags": [
+      "Properti",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "I Made Astawa",
+    "email": "corporate.secretary@garudafood.co.id",
+    "phone": "(021) 7290110"
+  },
+  "directors": [
+    {
+      "name": "Hardianto Atmadja",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Robert Chandrakelana Adjie",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Paulus Tedjosutikno",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fransiskus Johny Soegiarto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Johannes Setiadharma",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ruli Setiawan S L Tobing",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sudhamek Agoeng Waspodo Soenjoto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hartono Atmadja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "E. Maurits Klavert",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Pangayoman Adi Soenjoto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rahajoe Dewiningroem Soenjoto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Fitra Dewata Teramihardja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Swen Neufeldt",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Haijiang Gu",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tuan Donald Reginald Gadsden",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Fitra Dewata Teramihardja",
+      "position": "Ketua"
+    },
+    {
+      "name": "Drs. Mohammad Raylan, M.m.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Prasetyo Rahardjo",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 11180838822,
+      "percentage": 30.302
+    },
+    {
+      "name": "Hsbc Cmb S/a Hormel Food",
+      "type": "Lebih dari 5%",
+      "shares": 11133317364,
+      "percentage": 30.173
+    },
+    {
+      "name": "Kusumo Dewiningrum Sunjoto",
+      "type": "Lebih dari 5%",
+      "shares": 3633383500,
+      "percentage": 9.847
+    },
+    {
+      "name": "Pangayoman Adi Soenjoto",
+      "type": "Komisaris",
+      "shares": 3559410371,
+      "percentage": 9.647
+    },
+    {
+      "name": "Sudhamek Agoeng Waspodo S.",
+      "type": "Komisaris",
+      "shares": 3239636650,
+      "percentage": 8.78
+    },
+    {
+      "name": "Rahajoe Dewiningroem Soenjoto",
+      "type": "Komisaris",
+      "shares": 2820880796,
+      "percentage": 7.6466
+    },
+    {
+      "name": "Hartono Atmadja",
+      "type": "Komisaris",
+      "shares": 512717630,
+      "percentage": 1.3896
+    },
+    {
+      "name": "Hardianto Atmadja",
+      "type": "Direksi",
+      "shares": 408372322,
+      "percentage": 1.1068
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 363909900,
+      "percentage": 0.986
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 20300600,
+      "percentage": 0.055
+    },
+    {
+      "name": "Fransiskus Johny Soegiarto",
+      "type": "Direksi",
+      "shares": 9375000,
+      "percentage": 0.025
+    },
+    {
+      "name": "Paulus Tedjosutikno",
+      "type": "Direksi",
+      "shares": 9375000,
+      "percentage": 0.025
+    },
+    {
+      "name": "Johannes Setiadharma",
+      "type": "Direksi",
+      "shares": 6364500,
+      "percentage": 0.017
+    },
+    {
+      "name": "Ruli Setiawan Sl Tobing",
+      "type": "Direksi",
+      "shares": 19000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sinarniaga Sejahtera",
+      "business_type": "Perdagangan",
+      "total_assets": 2531970614194,
+      "ownership_percentage": 91.09
+    },
+    {
+      "name": "PT Mulia Boga Raya Tbk",
+      "business_type": "Produksi Keju dengan Merk Keju Prochiz",
+      "total_assets": 1077266364537,
+      "ownership_percentage": 66.07
+    },
+    {
+      "name": "PT Garuda Beverage Sukses dan Entitas Anak ((dahulu PT Suntory Garuda Beverage)",
+      "business_type": "Perdagangan Besar, Penyewaan Properti dan Produksi Minuman",
+      "total_assets": 710348404055,
+      "ownership_percentage": 97.19
+    },
+    {
+      "name": "Goldenbird Pacific Trading Pte. Ltd.",
+      "business_type": "Perdagangan",
+      "total_assets": 85017968645,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Garuda Sehat Jaya",
+      "business_type": "Perdagangan",
+      "total_assets": 16391043686,
+      "ownership_percentage": 60
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Rintis, Jumadi, Rianto & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "12.914.265.509.250",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:04.296Z"
+}

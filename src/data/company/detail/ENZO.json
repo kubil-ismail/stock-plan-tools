@@ -1,0 +1,258 @@
+{
+  "company_name": "PT Morenzo Abadi Perkasa Tbk",
+  "ticker": "ENZO",
+  "office_address": "Jl. Raya Demak Kudus Km 10 Desa Gajah Rt. 002 Rw. 003 Kelurahan Gajah, Kecamatan Gajah Kabupaten Demak Jawa Tengah 59581",
+  "email": "corporatesecretary@morenzo.co.id",
+  "phone": "(62-291) 6910185",
+  "fax": "0",
+  "tax_id": "31.695.189.6-125.000",
+  "website": "https://www.morenzo.co.id",
+  "listing_date": "2020-09-14",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengolahan distribusi hasil perikanan (rajungan dan makanan laut beku)",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Fransiska Yovita",
+    "email": "corporatesecretary@morenzo.co.id",
+    "phone": "0291 - 6910185"
+  },
+  "directors": [
+    {
+      "name": "Markus Silitonga",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Meriam Lina Sitorus",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Grace Ernawan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Evi Marini",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Evi Marini",
+      "position": "Ketua"
+    },
+    {
+      "name": "Eka Satrio Utama",
+      "position": "Anggota"
+    },
+    {
+      "name": "Hafiizh Rahman Haikal",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Tritunggal Sukses Investama",
+      "type": "Lebih dari 5%",
+      "shares": 1482600000,
+      "percentage": 68.56
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 663647122,
+      "percentage": 30.69
+    },
+    {
+      "name": "Markus Silitonga",
+      "type": "Direksi",
+      "shares": 12800000,
+      "percentage": 0.59
+    },
+    {
+      "name": "Meriam Lina Sitorus",
+      "type": "Direksi",
+      "shares": 3500000,
+      "percentage": 0.16
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Grace Ernawan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Evi Marini",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mutiara Laut Abadi",
+      "business_type": "Produksi Kepiting Kalengan",
+      "total_assets": 204807714254,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mutiara Laut Abadi",
+      "business_type": "Produksi Kepiting Kalengan",
+      "total_assets": 181882374955,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mutiara Laut Abadi",
+      "business_type": "Produksi Kepiting Kalengan",
+      "total_assets": 166160596953,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mutiara Laut Abadi",
+      "business_type": "Produksi Kepiting Kalengan",
+      "total_assets": 166160596953,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mutiara Laut Abadi",
+      "business_type": "Produksi Kepiting Kalengan",
+      "total_assets": 157478843110,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Hendry, Ferdy & Rekan"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Suganda Akna Suhri"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "155.703.392.784",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:03.078Z"
+}

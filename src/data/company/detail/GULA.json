@@ -1,0 +1,215 @@
+{
+  "company_name": "PT Aman Agrindo Tbk",
+  "ticker": "GULA",
+  "office_address": "Jl.mt. Haryono 864-866 Ruko Bangkong Plaza C-10, Kelurahan Peterongan, Kecamatan Semarang Selatan, Kota Semarang, Provinsi Jawa Tengah, 50242",
+  "email": "secretary@amanagrindo.co.id",
+  "phone": "(024) 8451639",
+  "fax": "(024) 8444821",
+  "tax_id": "03.220.463.8-508.000",
+  "website": "https://www.amanagrindo.co.id",
+  "listing_date": "2022-08-03",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "perkebunan tebu, perdagangan gula dan industri gula",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Mega Indah Cahyani",
+    "email": "secretary@amanagrindo.co.id",
+    "phone": "(024) 8451639"
+  },
+  "directors": [
+    {
+      "name": "Andreas Utomo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Michael Utomo",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Irsyad Hanif",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Andre Hendra Setya, S.e. (d/h Hendro Roestanto, S.e.)",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Andre Hendra Setya (d/h Hendro Roestanto, Se)",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arie Sandy Rachim",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tjhia. Andryana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Aman Resources Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 552879000,
+      "percentage": 51.65
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 412448700,
+      "percentage": 38.54
+    },
+    {
+      "name": "Irsyad Hanif",
+      "type": "Komisaris",
+      "shares": 75478400,
+      "percentage": 7.05
+    },
+    {
+      "name": "Andreas Utomo",
+      "type": "Direksi",
+      "shares": 29556400,
+      "percentage": 2.76
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Michael Utomo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andre Hendra Setya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Kap Jonnardi, Jamaludin, Sukimto dan Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "378.908.325.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:17.721Z"
+}

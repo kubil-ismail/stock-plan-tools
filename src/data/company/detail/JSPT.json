@@ -1,0 +1,521 @@
+{
+  "company_name": "Jakarta Setiabudi Internasional Tbk",
+  "ticker": "JSPT",
+  "office_address": "Gedung Setiabudi 2, Lt.3a, Ruang 3a01, Jl. H.r. Rasuna Said Jakarta",
+  "email": "corp_sec@jsi.co.id",
+  "phone": "(021) 2520534, (021) 2521778",
+  "fax": "(021) 5207511, (021) 5255803",
+  "tax_id": "01.002.883.5-054.000",
+  "website": "https://www.jsi.co.id",
+  "listing_date": "1998-01-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Hotel and Tourism",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Asan Effendy",
+    "email": "corp_sec@jsi.co.id dan asan.effendy@jsi.co.id",
+    "phone": "252-1778, 522-0568"
+  },
+  "directors": [
+    {
+      "name": "Lie Erfurt Chandra Putra Asali",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Fred Perry Martono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Anton Goenawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bram Van Hoof",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jefri Darmadi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Lim Merry",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Purwo Hari Prawiro",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gunawan Tenggarahardja",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jerry Hua-lin Wang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Eddy",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eddy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Heppy Indrayati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Budiana",
+      "position": "Anggota"
+    },
+    {
+      "name": "Eddy",
+      "position": "Ketua"
+    },
+    {
+      "name": "Heppy Indrayati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Budiana",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Jan Darmadi Investindo",
+      "type": "Lebih dari 5%",
+      "shares": 1182556569,
+      "percentage": 51
+    },
+    {
+      "name": "Citibank Switzerland S/a Stiber Investments S.a.r.l",
+      "type": "Lebih dari 5%",
+      "shares": 375402106,
+      "percentage": 16.19
+    },
+    {
+      "name": "Suzanna Tonojo - 2091144326",
+      "type": "Lebih dari 5%",
+      "shares": 333164863,
+      "percentage": 14.37
+    },
+    {
+      "name": "Jpmcb Na Re-jpmcb Singapore Branch",
+      "type": "Lebih dari 5%",
+      "shares": 213557597,
+      "percentage": 9.21
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 192738240,
+      "percentage": 8.312
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 21311525,
+      "percentage": 0.918
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bram Van Hoof",
+      "type": "Direksi",
+      "shares": 100,
+      "percentage": 0
+    },
+    {
+      "name": "Anton Goenawan",
+      "type": "Direksi",
+      "shares": 5000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Wynncor Bali",
+      "business_type": "Perhotelan",
+      "total_assets": 2305149,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Wynncor Bali",
+      "business_type": "Perhotelan",
+      "total_assets": 2305149,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Wynncor Bali",
+      "business_type": "Perhotelan",
+      "total_assets": 2273913,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Wynncor Bali",
+      "business_type": "Perhotelan",
+      "total_assets": 2205748,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Wynncor Bali",
+      "business_type": "Perhotelan",
+      "total_assets": 2085848,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Antilope Madju dan Entitas Anak",
+      "business_type": "Real Estat dan Perhotelan",
+      "total_assets": 2035796,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Antilope Madju dan Entitas Anak",
+      "business_type": "Real Estat dan Perhotelan",
+      "total_assets": 2035796,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Antilope Madju dan Entitas Anak",
+      "business_type": "Real Estat dan Perhotelan",
+      "total_assets": 2026293,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Antilope Madju dan Entitas Anak",
+      "business_type": "Real Estat dan Perhotelan",
+      "total_assets": 2009734,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Antilope Madju dan Entitas Anak",
+      "business_type": "Real Estat dan Perhotelan",
+      "total_assets": 1962632,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Metropolitan Realty International dan Entitas A",
+      "business_type": "Perhotelan",
+      "total_assets": 193690,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Metropolitan Realty International dan Entitas A",
+      "business_type": "Perhotelan",
+      "total_assets": 193690,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bali Nusadewata Village",
+      "business_type": "Penyewaan Pusat Ritel",
+      "total_assets": 192533,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bali Nusadewata Village",
+      "business_type": "Penyewaan Pusat Ritel",
+      "total_assets": 192533,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Metropolitan Realty International dan Entitas A",
+      "business_type": "Perhotelan",
+      "total_assets": 192172,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Metropolitan Realty International dan Entitas A",
+      "business_type": "Perhotelan",
+      "total_assets": 189335,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bali Nusadewata Village",
+      "business_type": "Penyewaan Pusat Ritel",
+      "total_assets": 185365,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bali Nusadewata Village",
+      "business_type": "Penyewaan Pusat Ritel",
+      "total_assets": 183744,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Metropolitan Realty International dan Entitas A",
+      "business_type": "Perhotelan",
+      "total_assets": 180886,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bali Nusadewata Village",
+      "business_type": "Penyewaan Pusat Ritel",
+      "total_assets": 179180,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Hotel Investama Realty dan Entitas Anak",
+      "business_type": "Perhotelan",
+      "total_assets": 155917,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Hotel Investama Realty dan Entitas Anak",
+      "business_type": "Perhotelan",
+      "total_assets": 155419,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Hotel Investama Realty dan Entitas Anak",
+      "business_type": "Perhotelan",
+      "total_assets": 151798,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Hotel Investama Realty dan Entitas Anak",
+      "business_type": "Perhotelan",
+      "total_assets": 149616,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Hotel Investama Realty dan Entitas Anak",
+      "business_type": "Perhotelan",
+      "total_assets": 149616,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Skyline Building",
+      "business_type": "Gedung Perkantoran",
+      "total_assets": 130780,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Skyline Building",
+      "business_type": "Gedung Perkantoran",
+      "total_assets": 129086,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Skyline Building",
+      "business_type": "Gedung Perkantoran",
+      "total_assets": 129086,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Skyline Building",
+      "business_type": "Gedung Perkantoran",
+      "total_assets": 127814,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Skyline Building",
+      "business_type": "Gedung Perkantoran",
+      "total_assets": 127814,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Permata Hijau",
+      "business_type": "Real Estat",
+      "total_assets": 94319,
+      "ownership_percentage": 79.8
+    },
+    {
+      "name": "PT Permata Hijau",
+      "business_type": "Real Estat",
+      "total_assets": 94319,
+      "ownership_percentage": 79.8
+    },
+    {
+      "name": "PT Permata Hijau",
+      "business_type": "Real Estat",
+      "total_assets": 83415,
+      "ownership_percentage": 79.8
+    },
+    {
+      "name": "PT Permata Hijau",
+      "business_type": "Real Estat",
+      "total_assets": 79127,
+      "ownership_percentage": 79.8
+    },
+    {
+      "name": "PT Puri Prima Development",
+      "business_type": "Properti",
+      "total_assets": 78540,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Puri Prima Development",
+      "business_type": "Properti",
+      "total_assets": 78540,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Puri Prima Development",
+      "business_type": "Properti",
+      "total_assets": 78385,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Puri Prima Development",
+      "business_type": "Properti",
+      "total_assets": 78364,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Puri Prima Development",
+      "business_type": "Properti",
+      "total_assets": 78170,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Permata Hijau",
+      "business_type": "Real Estat",
+      "total_assets": 71909,
+      "ownership_percentage": 79.8
+    },
+    {
+      "name": "PT Belitung Resor Internasional",
+      "business_type": "Properti",
+      "total_assets": 55380,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belitung Resor Internasional",
+      "business_type": "Properti",
+      "total_assets": 55378,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belitung Resor Internasional",
+      "business_type": "Properti",
+      "total_assets": 55359,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belitung Resor Internasional",
+      "business_type": "Properti",
+      "total_assets": 55340,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Belitung Resor Internasional",
+      "business_type": "Properti",
+      "total_assets": 55340,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Hotel Cikini Realty",
+      "business_type": "Perhotelan dan Penyewaan Pusat Ritel",
+      "total_assets": 46164,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Hotel Cikini Realty",
+      "business_type": "Perhotelan dan Penyewaan Pusat Ritel",
+      "total_assets": 45182,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Hotel Cikini Realty",
+      "business_type": "Perhotelan dan Penyewaan Pusat Ritel",
+      "total_assets": 44344,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Hotel Cikini Realty",
+      "business_type": "Perhotelan dan Penyewaan Pusat Ritel",
+      "total_assets": 43619,
+      "ownership_percentage": 99.58
+    },
+    {
+      "name": "PT Hotel Cikini Realty",
+      "business_type": "Perhotelan dan Penyewaan Pusat Ritel",
+      "total_assets": 43619,
+      "ownership_percentage": 99.58
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.304.198.800.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:29.615Z"
+}

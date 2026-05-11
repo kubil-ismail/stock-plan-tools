@@ -1,0 +1,213 @@
+{
+  "company_name": "Multi Prima Sejahtera Tbk",
+  "ticker": "LPIN",
+  "office_address": "Karawaci Office Park Blok M39-50 Lippo Karawaci Tangerang 15139",
+  "email": "corporatesecretary@multiprimasejahtera.net rivaldi.ys@multiprimasejahtera.net",
+  "phone": "(021) 5589 767, 5589 823",
+  "fax": "(021) 2300 450",
+  "tax_id": "0010606036054000",
+  "website": "http://multiprimasejahtera.net",
+  "listing_date": "1990-02-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Automotive and Components",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif.",
+    "business_tags": [
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 21,
+    "name": "Otomotif & Komponen Otomotif",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 19,
+    "name": "Komponen Otomotif"
+  },
+  "sub_industry": {
+    "id": 94,
+    "name": "Suku Cadang Otomotif",
+    "industries_id": 19
+  },
+  "corporate_secretary": {
+    "name": "Rivaldi Yason Santoso",
+    "email": "rivaldi.ys@multiprimasejahtera.net corporatesecretary@multiprimasejahtera.net",
+    "phone": "021 5589 767"
+  },
+  "directors": [
+    {
+      "name": "Herry Senjaya",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Chrysologus Rn Sinulingga",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hery Soegiarto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Yerry Goei",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Merry Maryati",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus Arismunandar",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Eddy Harsono Handoko",
+      "position": "Ketua"
+    },
+    {
+      "name": "Arthur Felix Kalesaran",
+      "position": "Anggota"
+    },
+    {
+      "name": "Christine Tanujaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Multipolar,pt,tbk",
+      "type": "Lebih dari 5%",
+      "shares": 347246400,
+      "percentage": 81.71
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 74905600,
+      "percentage": 17.62
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2848000,
+      "percentage": 0.67
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "-",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cipta Selaras Maju Jaya (csmj)",
+      "business_type": "Perdagangan, Jasa, Pembangunan dan Percetakan",
+      "total_assets": 30544,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bintang Sinar Fortuna (bsf) Entitas Anak Csmj",
+      "business_type": "Perdagangan, Jasa, Pembangunan dan Percetakan",
+      "total_assets": 30000,
+      "ownership_percentage": 73
+    },
+    {
+      "name": "PT Multi Usaha Wisesa (muw)",
+      "business_type": "Perdagangan Umum dan Penyertaan",
+      "total_assets": 24591,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cipta Global Internasional Entitas Anak Csmj",
+      "business_type": "Perdagangan, Jasa, Pembangunan dan Percetakan",
+      "total_assets": 2000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karya Indah Selaras Jaya (kisj)",
+      "business_type": "Perdagangan, Jasa, Pembangunan dan Percetakan",
+      "total_assets": 545,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Champion Multi Usaha (cmu)",
+      "business_type": "Perdagangan dan Perindustrian Umum",
+      "total_assets": 99,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Metropolitan Sinar Indah (msi)",
+      "business_type": "Perdagangan dan Perindustrian Umum",
+      "total_assets": 1,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "193.800.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:51.662Z"
+}

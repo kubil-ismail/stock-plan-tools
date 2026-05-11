@@ -1,0 +1,272 @@
+{
+  "company_name": "Atlas Resources Tbk",
+  "ticker": "ARII",
+  "office_address": "Sampoerna Strategic Square - South Tower Level 18 Jl. Jend Sudirman Kav. 45-46 Jakarta Selatan 12930 - Indonesia",
+  "email": "corsec@atlas-coal.co.id",
+  "phone": "021-7193343",
+  "fax": "021-71792708",
+  "tax_id": "02.671.807.2-091.000",
+  "website": "https://www.atlas-coal.co.id",
+  "listing_date": "2011-11-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan dan Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Batubara, Energi, Logistik, Konstruksi.",
+    "business_tags": [
+      "Agribisnis",
+      "Batubara",
+      "Energi",
+      "Logistik",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Mikha Emmylow",
+    "email": "corsec@atlas-coal.co.id",
+    "phone": "021-7193343"
+  },
+  "directors": [
+    {
+      "name": "Abdi Andre",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hans Jurgen Kaschull",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Joko Kus Sulistyoko",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jay T. Oentoro",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Pranata Hajadi",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Notariza Taher",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Yap Suci Kuswardani M",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nugroho Widyotomo",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Notariza Taher",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ahmadi Hadibroto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Haris Anwar",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1545714000,
+      "percentage": 41.212
+    },
+    {
+      "name": "Calorie Viva Utama",
+      "type": "Lebih dari 5%",
+      "shares": 1090579700,
+      "percentage": 29.082
+    },
+    {
+      "name": "Abdi Andre",
+      "type": "Direksi",
+      "shares": 475967000,
+      "percentage": 12.692
+    },
+    {
+      "name": "Db Spore Dcs A/c Db Sg Dcs Ac Japet Res Pte Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 303000000,
+      "percentage": 8.08
+    },
+    {
+      "name": "Sumber Daya Kemilau",
+      "type": "Lebih dari 5%",
+      "shares": 187658300,
+      "percentage": 5.004
+    },
+    {
+      "name": "Jay T. Oentoro",
+      "type": "Komisaris",
+      "shares": 86770000,
+      "percentage": 2.313
+    },
+    {
+      "name": "Joko Kus Sulistyoko",
+      "type": "Direksi",
+      "shares": 35250000,
+      "percentage": 0.94
+    },
+    {
+      "name": "Hans Jurgen Kaschull",
+      "type": "Direksi",
+      "shares": 13300000,
+      "percentage": 0.354
+    },
+    {
+      "name": "Pranata Hajadi",
+      "type": "Komisaris",
+      "shares": 11750000,
+      "percentage": 0.313
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 11000,
+      "percentage": 0.01
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yap Suci Kuswardani M.",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Notariza Taher",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nugroho Widyotomo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Optima Persada Energi (ope)",
+      "business_type": "Investasi/investment",
+      "total_assets": 400478,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sriwijaya Muba Logistik (sml)",
+      "business_type": "Jasa, Perdagangan, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perindustrian dan Pertanian/ Services, Trading, Construction, Transportation, Workshop, Printing, Industry And Agriculture",
+      "total_assets": 179799,
+      "ownership_percentage": 89.29
+    },
+    {
+      "name": "PT Optima Coal (oc)",
+      "business_type": "Investasi/investment",
+      "total_assets": 2818,
+      "ownership_percentage": 50.33
+    },
+    {
+      "name": "PT Kalbara Energi Pratama (kep)",
+      "business_type": "Penambangan Batubara/coal Mining",
+      "total_assets": 4,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.057.500.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:13.896Z"
+}

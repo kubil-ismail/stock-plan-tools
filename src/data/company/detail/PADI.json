@@ -1,0 +1,152 @@
+{
+  "company_name": "Minna Padi Investama Sekuritas Tbk",
+  "ticker": "PADI",
+  "office_address": "Gedung Equity Tower Lt.11 SCBD Lot 9 Jl. Jend. Sudirman Kav.52-53 Jakarta 12190",
+  "email": "djoko@minnapadi.com",
+  "phone": "021-5255555, 52506666",
+  "fax": "021-5271527",
+  "tax_id": "01.859.635.3-054.000",
+  "website": "https://www.minnapadi.com",
+  "listing_date": "2012-01-09",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan Efek",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 12,
+    "name": "Jasa Investasi",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 13,
+    "name": "Jasa Investasi"
+  },
+  "sub_industry": {
+    "id": 10,
+    "name": "Bank Investasi & Perantara Perdagangan",
+    "industries_id": 13
+  },
+  "corporate_secretary": {
+    "name": "Martha Susanti",
+    "email": "martha@minnapadi.com",
+    "phone": "(021) 525 5555"
+  },
+  "directors": [
+    {
+      "name": "Djoko Joelijanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Martha Susanti",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Wijaya Mulia",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Poltak Sihotang",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Poltak Sihotang",
+      "position": "Ketua"
+    },
+    {
+      "name": "David Prasetio",
+      "position": "Anggota"
+    },
+    {
+      "name": "Bulan Lastiar Siahaan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 11212991824,
+      "percentage": 99.16
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 83254700,
+      "percentage": 0.74
+    },
+    {
+      "name": "Djoko Joelijanto",
+      "type": "Direksi",
+      "shares": 11000000,
+      "percentage": 0.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.221.182.624.592",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:43.360Z"
+}

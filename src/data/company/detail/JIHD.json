@@ -1,0 +1,246 @@
+{
+  "company_name": "Jakarta International Hotels & Development Tbk",
+  "ticker": "JIHD",
+  "office_address": "Gedung Artha Graha Lt. 15 Jl. Jend. Sudirman Kav. 52-53 Jakarta 12190",
+  "email": "jihd@jihd.co.id",
+  "phone": "5152516",
+  "fax": "5152546",
+  "tax_id": "0010 0282 5605 4000",
+  "website": "http://www.jihd.co.id",
+  "listing_date": "1984-02-29",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Hotel and Tourism",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Hendi Lukman",
+    "email": "corporatesecretary@jihd.co.id",
+    "phone": "5152555"
+  },
+  "directors": [
+    {
+      "name": "Santoso Gunara",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lanny Pujilestari Liga",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendi Lukman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tony Soesanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Agung Rin Prabowo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Erick Hartanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sugianto Kusuma",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tomy Winata",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hartono Tjahjadi Adiwana",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ku Siew Kuan",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lidwina Ong",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ku Siew Kuan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dedy Djafarli",
+      "position": "Anggota"
+    },
+    {
+      "name": "Indra Pranajaya",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Kresna Aji Sembada",
+      "type": "Lebih dari 5%",
+      "shares": 932401192,
+      "percentage": 40.03
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 535466972,
+      "percentage": 22.99
+    },
+    {
+      "name": "Tomy Winata",
+      "type": "Komisaris",
+      "shares": 306243700,
+      "percentage": 13.15
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 232771557,
+      "percentage": 10
+    },
+    {
+      "name": "PT Catur Kusuma Abadi Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 164604361,
+      "percentage": 7.07
+    },
+    {
+      "name": "Sukardi Tandijono Tang",
+      "type": "Lebih dari 5%",
+      "shares": 140880000,
+      "percentage": 6.05
+    },
+    {
+      "name": "Sugianto Kusuma",
+      "type": "Komisaris",
+      "shares": 14983000,
+      "percentage": 0.64
+    },
+    {
+      "name": "Tony Soesanto",
+      "type": "Direksi",
+      "shares": 917200,
+      "percentage": 0.04
+    },
+    {
+      "name": "Santoso Gunara",
+      "type": "Direksi",
+      "shares": 742500,
+      "percentage": 0.03
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lanny Pujilestari Liga",
+      "type": "Direksi",
+      "shares": 30000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Danayasa Arthatama Tbk",
+      "business_type": "Real Estat",
+      "total_assets": 5968292103,
+      "ownership_percentage": 82.41
+    },
+    {
+      "name": "PT Panduneka Sejahtera",
+      "business_type": "Pembangunan dan Pengelolaan Gedung Perkantoran",
+      "total_assets": 131849895,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dharma Harapan Raya",
+      "business_type": "Jasa Manajemen Perhotelan",
+      "total_assets": 17258776,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Jakarta International Hotels Management",
+      "business_type": "Jasa Manajemen Perhotelan",
+      "total_assets": 0,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.199.455.848.230",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:21.541Z"
+}

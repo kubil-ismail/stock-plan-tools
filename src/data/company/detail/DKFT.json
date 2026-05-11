@@ -1,0 +1,418 @@
+{
+  "company_name": "Central Omega Resources Tbk",
+  "ticker": "DKFT",
+  "office_address": "Plaza Asia Lantai 6 Jl.jend.sudirman Kav 59 Jakarta - 12190",
+  "email": "021-515 3533",
+  "phone": "021-515 3533",
+  "fax": "021-515 3533",
+  "tax_id": "01.690.378.3-091.000",
+  "website": "https://centralomega.com",
+  "listing_date": "1997-11-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Logam & Mineral Lainnya.",
+    "business_tags": [
+      "Logam & Mineral Lainnya"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Yohanes Supriady",
+    "email": "corsec@centralomega.com",
+    "phone": "021-29035625"
+  },
+  "directors": [
+    {
+      "name": "Kiki Hamidjaja",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Feni Silviani Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Andi Jaya",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kurniadi Atmosasmito",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Lim Anthony",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Muhammad Rusjdi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Chang Eng Thing",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Bastian Purnama",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ani Wijaya",
+      "position": "Anggota"
+    },
+    {
+      "name": "Alberto Saur Parsaoran",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Jinsheng Mining",
+      "type": "Lebih dari 5%",
+      "shares": 3475113878,
+      "percentage": 61.63
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1869897587,
+      "percentage": 33.17
+    },
+    {
+      "name": "Kiki Hamidjaja",
+      "type": "Direksi",
+      "shares": 142400044,
+      "percentage": 2.53
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 124760725,
+      "percentage": 2.21
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 13000000,
+      "percentage": 0.23
+    },
+    {
+      "name": "Feni Silviani Budiman",
+      "type": "Direksi",
+      "shares": 13010600,
+      "percentage": 0.23
+    },
+    {
+      "name": "Andi Jaya",
+      "type": "Direksi",
+      "shares": 63766,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Cor Industri Indonesia",
+      "business_type": "Pertambangan",
+      "total_assets": 1476710146465,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Cor Industri Indonesia",
+      "business_type": "Pertambangan",
+      "total_assets": 1473178478297,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Cor Industri Indonesia",
+      "business_type": "Pertambangan",
+      "total_assets": 1357960504521,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Cor Industri Indonesia",
+      "business_type": "Pertambangan",
+      "total_assets": 1346391184166,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Cor Industri Indonesia",
+      "business_type": "Pertambangan",
+      "total_assets": 1291048510348,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Pacific Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 296748479963,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Pacific Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 278961164263,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Pacific Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 269987079163,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Pacific Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 231348838946,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mulia Pacific Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 193215039566,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Konawe Abadi",
+      "business_type": "Pertambangan",
+      "total_assets": 116993187948,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Bumi Konawe Abadi",
+      "business_type": "Pertambangan",
+      "total_assets": 111638631904,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Afit Lintas Jaya",
+      "business_type": "Pertambangan",
+      "total_assets": 102386615564,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Afit Lintas Jaya",
+      "business_type": "Pertambangan",
+      "total_assets": 101333445590,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Afit Lintas Jaya",
+      "business_type": "Pertambangan",
+      "total_assets": 99801706336,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bumi Konawe Abadi",
+      "business_type": "Pertambangan",
+      "total_assets": 98270674738,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Itamatra Nusantara",
+      "business_type": "Pertambangan",
+      "total_assets": 96078986300,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Afit Lintas Jaya",
+      "business_type": "Pertambangan",
+      "total_assets": 90573737909,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Itamatra Nusantara",
+      "business_type": "Pertambangan",
+      "total_assets": 87571257167,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Itamatra Nusantara",
+      "business_type": "Pertambangan",
+      "total_assets": 84777856050,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Itamatra Nusantara",
+      "business_type": "Pertambangan",
+      "total_assets": 84692483837,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Konawe Abadi",
+      "business_type": "Pertambangan",
+      "total_assets": 80892743610,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Itamatra Nusantara",
+      "business_type": "Pertambangan",
+      "total_assets": 78953515395,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Afit Lintas Jaya",
+      "business_type": "Pertambangan",
+      "total_assets": 54554614031,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bumi Konawe Abadi",
+      "business_type": "Pertambangan",
+      "total_assets": 48858964978,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Kawasan Industri Central Omega",
+      "business_type": "Kawasan Industri",
+      "total_assets": 10100000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kawasan Industri Central Omega",
+      "business_type": "Kawasan Industri",
+      "total_assets": 10100000000,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT Kawasan Industri Central Omega",
+      "business_type": "Kawasan Industri",
+      "total_assets": 10100000000,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kawasan Industri Central Omega",
+      "business_type": "Kawasan Industri",
+      "total_assets": 10100000000,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT Kawasan Industri Central Omega",
+      "business_type": "Kawasan Industri",
+      "total_assets": 10100000000,
+      "ownership_percentage": 9.999
+    },
+    {
+      "name": "PT Macrolink Omega Adiperkasa",
+      "business_type": "Perdagangan",
+      "total_assets": 6471400660,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mega Buana Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 3100144612,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Mega Buana Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 3100077297,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Mega Buana Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 3100009913,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Mega Buana Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 2975346319,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Mega Buana Resources",
+      "business_type": "Pertambangan",
+      "total_assets": 2975211943,
+      "ownership_percentage": 99.6
+    },
+    {
+      "name": "PT Bumi Petra Makmur",
+      "business_type": "Pertambangan",
+      "total_assets": 0,
+      "ownership_percentage": 99.76
+    },
+    {
+      "name": "PT Bumi Petra Makmur",
+      "business_type": "Pertambangan",
+      "total_assets": 0,
+      "ownership_percentage": 9.976
+    },
+    {
+      "name": "PT Bumi Petra Makmur",
+      "business_type": "Pertambangan",
+      "total_assets": 0,
+      "ownership_percentage": 9.976
+    },
+    {
+      "name": "PT Bumi Petra Makmur",
+      "business_type": "Pertambangan",
+      "total_assets": 0,
+      "ownership_percentage": 99.76
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.707.935.911.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:13.995Z"
+}

@@ -1,0 +1,195 @@
+{
+  "company_name": "PT Multikarya Asia Pasifik Raya Tbk",
+  "ticker": "MKAP",
+  "office_address": "Cibis Nine Lt 16, Jl. Tb Simatupang No. 02 Jakarta Selatan, 12560",
+  "email": "corsec@mkapr.co.id",
+  "phone": "62 21 5084 5500",
+  "fax": "62 21 2787 1686",
+  "tax_id": "02.238.145.3-046.000",
+  "website": "https://www.mkapr.co.id",
+  "listing_date": "2024-02-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Manufaktur, Penyedia Jasa Perdagangan, Penyewaan, dan Perbaikan Pompa serta Peralatan Pendukung Lainnya termasuk Suku Cadang untuk Kebutuhan Industri Minyak, Gas Bumi dan Pertambangan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Manufaktur.",
+    "business_tags": [
+      "Energi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Nico Johnson",
+    "email": "corsec@mkapr.co.id",
+    "phone": "62 21 5084 5500"
+  },
+  "directors": [
+    {
+      "name": "Eric Handoko",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Daniel Handoko",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Mario",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sani Handoko",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Djoni Suyanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Charlie Dhungga",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Charlie Dhungga",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agustinus Sunarko",
+      "position": "Anggota"
+    },
+    {
+      "name": "Gabriel Giovani Sugiono",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT. International Sawo Resources",
+      "type": "Lebih dari 5%",
+      "shares": 2470000000,
+      "percentage": 76
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 650000000,
+      "percentage": 20
+    },
+    {
+      "name": "Djoni Suyanto",
+      "type": "Komisaris",
+      "shares": 130000000,
+      "percentage": 4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Teramihardja, Pradhono & Chandra"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.510.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:03.501Z"
+}

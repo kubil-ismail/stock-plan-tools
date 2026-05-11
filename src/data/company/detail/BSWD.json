@@ -1,0 +1,222 @@
+{
+  "company_name": "Bank Of India Indonesia Tbk",
+  "ticker": "BSWD",
+  "office_address": "Jl. Kh Samanhudi No. 37 Rt 005 Rw 003 Pasar Baru Sawah Besar Jakarta Pusat Dki Jakarta",
+  "email": "corporate@boiindonesia.co.id",
+  "phone": "021-3500007",
+  "fax": "021-3808178",
+  "tax_id": "001.108.390.4-054.000",
+  "website": "https://www.boiindonesia.co.id",
+  "listing_date": "2002-05-01",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perbankan",
+    "business_summary": "Perusahaan bergerak di bidang Perbankan.",
+    "business_tags": [
+      "Perbankan"
+    ],
+    "business_keywords": [
+      "bank",
+      "banking"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 2,
+    "name": "Bank",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 3,
+    "name": "Bank"
+  },
+  "sub_industry": {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  "corporate_secretary": {
+    "name": "Carolina Dina Rusdiana",
+    "email": "dina.carolina@boiindonesia.co.id & corporate@boiindonesia.co.id",
+    "phone": "021-3500007"
+  },
+  "directors": [
+    {
+      "name": "K S B Chandramouli",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Carolina Dina Rusdiana",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dennis Kusuma Halim",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Rahmat Hendratama",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Amit Kumar Singh",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Handadjaja Sulaiman",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lungguk Gultom",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ashok Kumar Pathak",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Lungguk Gultom",
+      "position": "Ketua"
+    },
+    {
+      "name": "Siti Yanti Enriana Gultom",
+      "position": "Anggota"
+    },
+    {
+      "name": "Maya Indreswari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Bank Of India",
+      "type": "Lebih dari 5%",
+      "shares": 3355488000,
+      "percentage": 90.96
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 280404345,
+      "percentage": 7.6
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 52974500,
+      "percentage": 1.44
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ashok Kumar Pathak",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Handadjaja Sulaiman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lungguk Gultom",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "K S B Chandramouli",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Carolina Dina Rusdiana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dennis Kusuma Halim",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Amit Kumar Singh",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rahmat Hendratama",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bank Of India Indonesia",
+      "business_type": "Perbankan",
+      "total_assets": 6815156755265,
+      "ownership_percentage": 0
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.930.170.538.950",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:21.088Z"
+}

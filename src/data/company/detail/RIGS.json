@@ -1,0 +1,171 @@
+{
+  "company_name": "Rig Tenders Tbk",
+  "ticker": "RIGS",
+  "office_address": "Generali Tower, Gran Rubina Business Park, 18th Floor, Unit D. Kawasan Rasuna Epicentrum, Jl. Hr Rasuna Said, Jakarta Selatan 12940",
+  "email": "rtacc@rigtenders.co.id",
+  "phone": "021-2527628; 021-2527402",
+  "fax": "-",
+  "tax_id": "0010 0217 1505 4000",
+  "website": "https://www.rigtenders.co.id",
+  "listing_date": "1990-03-05",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Transportation",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Diah Triani Puspitasari",
+    "email": "rtacc@rigtenders.co.id",
+    "phone": "021-29668488"
+  },
+  "directors": [
+    {
+      "name": "Kartika Hadi",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Stefano Katianda",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Iriawan Hartana",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Henrie Christian Wijaya Lauw",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hadi Sunarto",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ratna Sari Suhartono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mikrowa Kirana",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Mikrowa Kirana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Jimmy Tjahjanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Febriansyah Marzuki",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Surya Indah Muara Pantai",
+      "type": "Direksi",
+      "shares": 490597030,
+      "percentage": 80.54
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 116254720,
+      "percentage": 19.09
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 2278250,
+      "percentage": 0.37
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Batuah Abadi Lines",
+      "business_type": "Penyewaan Kapal",
+      "total_assets": 730063720688,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "414.208.400.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:53:51.819Z"
+}

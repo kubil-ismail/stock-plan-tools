@@ -1,0 +1,224 @@
+{
+  "company_name": "PT Link Net Tbk.",
+  "ticker": "LINK",
+  "office_address": "Centennial Tower Lantai 26, Unit D, Jl. Jend. Gatot Subroto Kav. 24-25, Jakarta 12930",
+  "email": "corporate.secretary@linknet.co.id",
+  "phone": "021-55777755",
+  "fax": "-",
+  "tax_id": "01.770.114.5-054.000",
+  "website": "https://www.linknet.co.id",
+  "listing_date": "2014-06-02",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bidang Penyelenggaraan Jaringan Tetap Berbasis Kabel, Penyelenggaraan Jasa Multimedia, Jasa Akses Internet serta Jasa Konsultasi Manajemen Bisnis",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Konstruksi, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Konstruksi",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 32,
+    "name": "Telekomunikasi",
+    "sector_id": 5
+  },
+  "industry": {
+    "id": 16,
+    "name": "Jasa Telekomunikasi"
+  },
+  "sub_industry": {
+    "id": 33,
+    "name": "Jasa Telekomunikasi Kabel",
+    "industries_id": 16
+  },
+  "corporate_secretary": {
+    "name": "Rininta Agustina Widya Pratika",
+    "email": "corporate.secretary@linknet.co.id",
+    "phone": "021 - 55777755"
+  },
+  "directors": [
+    {
+      "name": "Kanishka Gayan Wickrama",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yosafat Marhasak Hutagalung",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Vivek Sood",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Nik Rizal Kamil Nik Ibrahim Kamil",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Thomas Hundt",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Alexander S Rusli",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Thandalam Veeravalli Thirumala Chari",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Thandalam Veeravalli Thirumala Chari",
+      "position": "Ketua"
+    },
+    {
+      "name": "Alexander S Rusli",
+      "position": "Anggota"
+    },
+    {
+      "name": "Tio I Huat",
+      "position": "Anggota"
+    },
+    {
+      "name": "Barry Alfa Rattu",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Axiata Investments (indonesia) Sdn. Bhd.",
+      "type": "Lebih dari 5%",
+      "shares": 1986525127,
+      "percentage": 69.38
+    },
+    {
+      "name": "Xlsmart Telecom Sejahtera",
+      "type": "Lebih dari 5%",
+      "shares": 550316196,
+      "percentage": 19.22
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 217112561,
+      "percentage": 7.58
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 109241600,
+      "percentage": 3.82
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT First Media Television",
+      "business_type": "Penyiaran Berlangganan",
+      "total_assets": 116299,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Infra Solusi Indonesia",
+      "business_type": "Jasa Outsourcing",
+      "total_assets": 86206,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Link Net Global Solution Pte. Ltd.",
+      "business_type": "Telekomunikasi",
+      "total_assets": 408,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Axentec Fiber Indonesia",
+      "business_type": "Telekomunikasi",
+      "total_assets": 125,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Linknet Fiber Indonesia",
+      "business_type": "Telekomunikasi",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.053.540.029.260",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:37.724Z"
+}

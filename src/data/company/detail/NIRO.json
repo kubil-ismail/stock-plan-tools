@@ -1,0 +1,2964 @@
+{
+  "company_name": "City Retail Developments Tbk",
+  "ticker": "NIRO",
+  "office_address": "Menara Utara Lt.8, Gd. Menara Jamsostek, Jl. Jend. Gatot Subroto No. 38, Kuningan Barat",
+  "email": "corpsec@cityretaildevelopments.com",
+  "phone": "+6221-50842878",
+  "fax": "+6221-50842879",
+  "tax_id": "02.262.367.2-054.000",
+  "website": "https://www.cityretaildevelopments.com",
+  "listing_date": "2012-09-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengembang Mal dan Hotel",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Properti, Logistik, Retail.",
+    "business_tags": [
+      "Agribisnis",
+      "Properti",
+      "Logistik",
+      "Retail"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "property",
+      "real estate",
+      "properti",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Musa Sinambela",
+    "email": "corpsec@nirvanadevelopment.com",
+    "phone": "02129333775"
+  },
+  "directors": [
+    {
+      "name": "Iwan Sanyoto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hasan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Musa Sinambela",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Pingki Elka Pangestu",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Leander Nauli",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Pingki Elka Pangestu",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus R. Panjaitan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Wito",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Orion Global Development",
+      "type": "Lebih dari 5%",
+      "shares": 16703543680,
+      "percentage": 75.25
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5495328124,
+      "percentage": 24.75
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT City Malls Indonesia",
+      "business_type": "Pembangunan, Penyertaan Modal, Perdagangan, Perindustrian, Pengangkutan Darat, Percetakan dan Jasa Kecuali di Bidang Hukum dan Pajak",
+      "total_assets": 12478234682455,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT City Malls Indonesia",
+      "business_type": "Pembangunan, Penyertaan Modal, Perdagangan, Perindustrian, Pengangkutan Darat, Percetakan dan Jasa Kecuali di Bidang Hukum dan Pajak",
+      "total_assets": 12478234682455,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT City Malls Indonesia",
+      "business_type": "Pembangunan, Penyertaan Modal, Perdagangan, Perindustrian, Pengangkutan Darat, Percetakan dan Jasa Kecuali di Bidang Hukum dan Pajak",
+      "total_assets": 12447127175688,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT City Malls Indonesia",
+      "business_type": "Pembangunan, Penyertaan Modal, Perdagangan, Perindustrian, Pengangkutan Darat, Percetakan dan Jasa Kecuali di Bidang Hukum dan Pajak",
+      "total_assets": 12090641265536,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nirvana Wastu Pratama",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 12016264299081,
+      "ownership_percentage": 33.64
+    },
+    {
+      "name": "PT Nirvana Wastu Pratama",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 11752634363396,
+      "ownership_percentage": 33.64
+    },
+    {
+      "name": "PT Nirvana Wastu Pratama",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 11667182964648,
+      "ownership_percentage": 33.64
+    },
+    {
+      "name": "PT Nirvana Wastu Pratama",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 11667182964648,
+      "ownership_percentage": 33.64
+    },
+    {
+      "name": "PT Nirvana Wastu Pratama",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 11182782381001,
+      "ownership_percentage": 33.64
+    },
+    {
+      "name": "PT Nirvana Wastu Prasista Rahardja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 2233521399628,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bnwp Cella Holding Pte. Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 2233386723060,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cella Management Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 2233169276826,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Prasista Rahardja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 2025100766041,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Two Master Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1809233494392,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT City Malls Indonesia",
+      "business_type": "Pembangunan, Penyertaan Modal, Perdagangan, Perindustrian, Pengangkutan Darat, Percetakan dan Jasa Kecuali di Bidang Hukum dan Pajak",
+      "total_assets": 1788717844059,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nirvana Wastu Prasista Rahardja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 1537097988391,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bnwp Cella Holding Pte. Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1536843310852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bnwp Cella Holding Pte. Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1536843310852,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Prasista Rahardja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 1497343311222,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bnwp Cella Holding Pte. Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1497226713826,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cella Management Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1496317555196,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cella Management Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1496317555196,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cella Management Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1496317555196,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pejaten Semesta Raya",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 1214955152938,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pejaten Semesta Raya",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 1212710348738,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pejaten Semesta Raya",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 1210054584343,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pejaten Semesta Raya",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 1208818692957,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pejaten Semesta Raya",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 1204218627873,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Two Master Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1166248123131,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Two Master Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1166248123131,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nuansa Citra Pesona",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 1138784737279,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Two Master Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1125983187924,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Nwp Retail Pte., Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1119191703189,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nuansa Citra Pesona",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 1113039678497,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nuansa Citra Pesona",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 1113039678497,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Nwp Retail Pte., Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1100157301594,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nuansa Citra Pesona",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 1098271979870,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Karya Bersama Takarob",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 1093237698884,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nuansa Citra Pesona",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 1078376047475,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Nwp Retail Pte., Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1078051368728,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Nwp Retail Pte., Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1025236163169,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Caesar Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1010930898270,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 1010011360281,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Nwp Retail Pte., Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 908715300748,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Caesar Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 900795540036,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 899837541953,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Karya Bersama Takarob",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 820676453649,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karya Bersama Takarob",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 818458423594,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karya Bersama Takarob",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 814888231583,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Karya Bersama Takarob",
+      "business_type": "Jasa, Pembangunan, Pengangkutan Darat, Perbengkelan, Percetakan, Perdagangan, Perindustrian, Pertambangan dan Pertanian",
+      "total_assets": 813027382768,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 810562311707,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Infrastructure",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Pertambangan, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 779941000043,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Nirvana Infrastructure",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Pertambangan, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 779941000043,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 772824100590,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 769011993595,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 769011993595,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 765569736472,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 762959163609,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Cipta Persadajaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 755642324984,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Cipta Persadajaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 749953722993,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Cipta Persadajaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 749953722993,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nirvana Wastu Prasista Rahardja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 749774458915,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bnwp Cella Holding Pte. Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 749599150043,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Cella Management Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 749324036333,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wahana Cipta Persadajaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 746268919102,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Wahana Cipta Persadajaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 738287350983,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kalingga Murda",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 705634291655,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Epsilon Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 674050756185,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Emerald Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri/disewa",
+      "total_assets": 673011879723,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Epsilon Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 669169557744,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Infrastructure",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Pertambangan, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 668251017971,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Cella Emerald Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri/disewa",
+      "total_assets": 668102449870,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Caesar Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 665461648484,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Infrastructure",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Pertambangan, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 664724952400,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 664057111176,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Caesar Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 661395273011,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 660395142214,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Wastu Amerta",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 637828950181,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Amerta",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 637130406022,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Amerta",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 629264298818,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Amerta",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 621676515048,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Amerta",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 612965529919,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 601526000552,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 600193836151,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 592252927459,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 587857449042,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primarindo Sejahtera",
+      "business_type": "Perdagangan, Keagenan, Jasa, Perindustrian, Pemborongan Bangunan, Konsultan, Percetakan, Pengangkutan, Perbengkelan, Real Estat,",
+      "total_assets": 536725972310,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primerindo Kencana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 533542195357,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prawara Ranajaya Catra",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 530055318338,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prawara Ranajaya Catra",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 516418533731,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prawara Ranajaya Catra",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 514257637449,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prawara Ranajaya Catra",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 508261896688,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prawara Ranajaya Catra",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 504248687492,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 463720697279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 459215870748,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 454400513068,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Epsilon Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 450443811791,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Emerald Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri/disewa",
+      "total_assets": 449607373721,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Epsilon Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 444192722492,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Emerald Logistik",
+      "business_type": "-",
+      "total_assets": 443070795102,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Kalingga Murda Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 437851644405,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 434099704650,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Master Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 429591614510,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dwimegah Miri Sentosa",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 424255351931,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tristar Land",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 421183995037,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Tristar Land",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 421183995037,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "Alpha Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 408291908640,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Argya Lestari",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 408013893976,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Tristar Land",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 394187986058,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Dwimegah Miri Sentosa",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 391637008007,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dwimegah Miri Sentosa",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 388934428314,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dwimegah Miri Sentosa",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 387764488664,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dwimegah Miri Sentosa",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 382903452764,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Two Master Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 378493309794,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Caesar Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 378471728265,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 378461611777,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 378461611777,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 378461611777,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 378461611777,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 378461611777,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Master Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 374236733279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Master Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 374236733279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Master Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 366857837384,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alpha Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 358546817089,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alpha Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 358546817089,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Argya Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 358311104735,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Argya Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 358311104735,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Argya Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 358311104735,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 356316995580,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 356316995580,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 356316995580,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 356316995580,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Danadipa Aluwung",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 355071799680,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Sagara Bhadrika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 352981453213,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 351630258676,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Danadipa Aluwung",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 350116844031,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alpha Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 350063708626,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Argya Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 349496265595,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Danadipa Aluwung",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 349142202698,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 348992498605,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Danadipa Aluwung",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 348467842430,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Sagara Bhadrika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 347161547107,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 345084260497,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 345084260497,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Sagara Bhadrika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 344498000066,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Infrastructure",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Pertambangan, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 342678260670,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Binjai Hatua Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 340702883238,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Sagara Bhadrika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 340418188482,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Danadipa Aluwung",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 333958411753,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Master Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 330030927288,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primerindo Kencana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 329592992824,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Sagara Bhadrika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 326639548444,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primerindo Kencana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 326639548444,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primerindo Kencana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 324394682172,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primerindo Kencana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 319574836735,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Alpha Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 314751443287,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Argya Lestari",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 314717075319,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Argya Lestari",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 314717075319,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Argya Lestari",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 314717075319,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Argya Lestari",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 314717075319,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Tristar Land",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 313378387379,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Tristar Land",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 307526775968,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Polonia Anugerah Jaya",
+      "business_type": "Pembangunan, Real Estat, Jasa, Perdagangan, Pengangkutan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 305511585749,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Polonia Anugerah Jaya",
+      "business_type": "Pembangunan, Real Estat, Jasa, Perdagangan, Pengangkutan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 304570152789,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Polonia Anugerah Jaya",
+      "business_type": "Pembangunan, Real Estat, Jasa, Perdagangan, Pengangkutan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 304440283013,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Polonia Anugerah Jaya",
+      "business_type": "Pembangunan, Real Estat, Jasa, Perdagangan, Pengangkutan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 302945944959,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Polonia Anugerah Jaya",
+      "business_type": "Pembangunan, Real Estat, Jasa, Perdagangan, Pengangkutan, Perindustrian, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 301490974963,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dhanika Sejahtera Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 279044639298,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sekala Braha Semesta",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 273910976401,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Prawara Radika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 265989687279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Prawara Radika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 265989687279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 260598304721,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Prawara Radika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 259487950430,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sekala Braha Semesta",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 254819782005,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Argya Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 250335063696,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sekala Braha Semesta",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 243128612071,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sekala Braha Semesta",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 241433492069,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sekala Braha Semesta",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 241433492069,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pradana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 235087015000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Paramarta Rolas Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 232821682170,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Paramarta Rolas Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 232261713291,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Paramarta Rolas Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 230326855297,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Paramarta Rolas Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 228204140876,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Paramarta Rolas Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 227046319880,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dhanika Sejahtera Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 226781917927,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dhanika Sejahtera Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 226737892954,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dhanika Sejahtera Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 225626100149,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pradana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 225038265976,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pradana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 222955154081,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 221823842601,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pradana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 217832916434,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dhanika Sejahtera Makmur",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 217783822836,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 216911049585,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 216789650692,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pradana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 216572552396,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grahita Dana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 214431555855,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Palu Graha Sejahtera",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,",
+      "total_assets": 214431555855,
+      "ownership_percentage": 68
+    },
+    {
+      "name": "PT Nirvana Wastu Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 214370144783,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Prawara Radika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 214016614608,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 212457784500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grahita Dana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 210319561849,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Palu Graha Sejahtera",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,",
+      "total_assets": 209793549991,
+      "ownership_percentage": 68
+    },
+    {
+      "name": "PT Grahita Dana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 206553040396,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grahita Dana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 206553040396,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhiwangsa Satata Ekatra",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 201158274593,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhiwangsa Satata Ekatra",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 200957167318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Grahita Dana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 200400725959,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhiwangsa Satata Ekatra",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 200097167318,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Palu Graha Sejahtera",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,",
+      "total_assets": 198171362233,
+      "ownership_percentage": 68
+    },
+    {
+      "name": "PT Palu Graha Sejahtera",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,",
+      "total_assets": 197700324701,
+      "ownership_percentage": 68
+    },
+    {
+      "name": "PT Adhiwangsa Satata Ekatra",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 196334694809,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Palu Graha Sejahtera",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan,",
+      "total_assets": 195542567799,
+      "ownership_percentage": 68
+    },
+    {
+      "name": "PT Tarangga Hanasta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 193459611133,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhiwangsa Satata Ekatra",
+      "business_type": "Jasa, Perdagangan, Pengangkutan, Pembangunan,",
+      "total_assets": 191787890866,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anggaraksa Lokeswara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 188055452282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tarangga Hanasta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 185005288076,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tarangga Hanasta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 183082040488,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anggaraksa Lokeswara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 181326893420,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anggaraksa Lokeswara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 181131399829,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anggaraksa Lokeswara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 179333652376,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anggaraksa Lokeswara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 179193390316,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tarangga Hanasta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 170661825957,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tarangga Hanasta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 169807340877,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tirta Anugrah Buana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 135719127812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tirta Anugrah Buana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 135638761298,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tirta Anugrah Buana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 133064793570,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tirta Anugrah Buana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 132981630138,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tirta Anugrah Buana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 131907874158,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gardapati Sahardaya",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 123487190146,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gardapati Sahardaya",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 123425030555,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gardapati Sahardaya",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 123413528571,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gardapati Sahardaya",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 123377458901,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gardapati Sahardaya",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 123367655713,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 120237746538,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 117912693932,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 117832618880,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Jaya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 117813999228,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prabangkara Sangkara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 114989062590,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Baru Prima",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 114714765469,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Baru Prima",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 114522972943,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Baru Prima",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 114183748075,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Baru Prima",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 113930043761,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhinata Sangkara Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 113326261385,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prabangkara Sangkara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 111321666776,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prabangkara Sangkara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 109764725060,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lintang Buwana Ekatra",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 108230282824,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lintang Buwana Ekatra",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 108027879398,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Prawara Radika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 107688027859,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lintang Buwana Ekatra",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 107055771781,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lintang Buwana Ekatra",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 106912967059,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Lintang Buwana Ekatra",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 106035362741,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prabangkara Sangkara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 105648808930,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prabangkara Sangkara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat, Pertanian, Percetakan dan Jasa",
+      "total_assets": 105496831449,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Cakra Logistik",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 97625951395,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Buana Baru Prima",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan dan Pertanian",
+      "total_assets": 89219594332,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tunas Mitra Usaha",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 76835428428,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tunas Mitra Usaha",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 74388887964,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tunas Mitra Usaha",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 74275344770,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tunas Mitra Usaha",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 72888024070,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Beta Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 68768910149,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 68494024609,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Bimantara Danar Dipta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 61588382099,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bimantara Danar Dipta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 61556618730,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bimantara Danar Dipta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 61502812251,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bimantara Danar Dipta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 61439629316,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bimantara Danar Dipta",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 61103873303,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Genta Nirvana Mahaputra",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 60094768038,
+      "ownership_percentage": 99.44
+    },
+    {
+      "name": "PT Genta Nirvana Mahaputra",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 60093848038,
+      "ownership_percentage": 99.44
+    },
+    {
+      "name": "PT Genta Nirvana Mahaputra",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 60093848038,
+      "ownership_percentage": 99.44
+    },
+    {
+      "name": "PT Genta Nirvana Mahaputra",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 60093848038,
+      "ownership_percentage": 99.44
+    },
+    {
+      "name": "PT Genta Nirvana Mahaputra",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 59994300538,
+      "ownership_percentage": 99.44
+    },
+    {
+      "name": "Gamma Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 54728638225,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Gamma Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 54321494963,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Gamma Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 54046698885,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Gemilang Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 53983364891,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Gemilang Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 53543808399,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Gemilang Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 53074221844,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Wastu Kastara Kasyapi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49479435228,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kastara Kasyapi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49416291162,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kastara Kasyapi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49364573730,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kastara Kasyapi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49339914865,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kastara Kasyapi",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49321574888,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Usaha Karya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 45700557440,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Usaha Karya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 45016958041,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Usaha Karya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 44952212450,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Usaha Karya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 44821409673,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Usaha Karya",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 44607518168,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kusuma",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 41042976173,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kusuma",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 41033672066,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kusuma",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 40991866315,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kusuma",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 40955802926,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kusuma",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 40937341435,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Jaya Usaha Maju Terus",
+      "business_type": "Perdagangan, Jasa, Perindustrian, Percetakan, Perbengkelan, Kehutanan, Perkebunan, Pertanian, Perikanan, Pembangunan, Perumahan, Pengangkutan Darat, B",
+      "total_assets": 40265969186,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Jaya Usaha Maju Terus",
+      "business_type": "Perdagangan, Jasa, Perindustrian, Percetakan, Perbengkelan, Kehutanan, Perkebunan, Pertanian, Perikanan, Pembangunan, Perumahan, Pengangkutan Darat, B",
+      "total_assets": 37591107996,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Jaya Usaha Maju Terus",
+      "business_type": "Perdagangan, Jasa, Perindustrian, Percetakan, Perbengkelan, Kehutanan, Perkebunan, Pertanian, Perikanan, Pembangunan, Perumahan, Pengangkutan Darat, B",
+      "total_assets": 37514471337,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Jaya Usaha Maju Terus",
+      "business_type": "Perdagangan, Jasa, Perindustrian, Percetakan, Perbengkelan, Kehutanan, Perkebunan, Pertanian, Perikanan, Pembangunan, Perumahan, Pengangkutan Darat, B",
+      "total_assets": 37223048404,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Jaya Usaha Maju Terus",
+      "business_type": "Perdagangan, Jasa, Perindustrian, Percetakan, Perbengkelan, Kehutanan, Perkebunan, Pertanian, Perikanan, Pembangunan, Perumahan, Pengangkutan Darat, B",
+      "total_assets": 36566977720,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 34849214405,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 34849214405,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 32874516914,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 30120894398,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Melia Arjuna Bejana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 28320116407,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Gunadhaya Jayendra",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 28056417863,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Gunadhaya Jayendra",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27918249874,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Gunadhaya Jayendra",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27864586919,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Gunadhaya Jayendra",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27843031119,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Gunadhaya Jayendra",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27810733620,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Melia Arjuna Bejana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27685602524,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Melia Arjuna Bejana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27654571622,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Pratama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27654571622,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Management Logistik",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 27536508842,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Melia Arjuna Bejana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27290921350,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Management Logistik",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 25016133419,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 22684789835,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 22534662402,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 22503515857,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 22350773610,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 22295377151,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 22295377151,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Karya Utama",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 22150092424,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Management Logistik",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 20726127857,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Management Logistik",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 20726127857,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Kalingga Murda Raja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 20382351740,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Perhotelan",
+      "total_assets": 18927956518,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhirajasa Hanasta Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 16068493751,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gamma Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 15390957126,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cella Gemilang Logistik",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 14399662070,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Beta Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13767015043,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Beta Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13458043337,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Beta Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13458043337,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Beta Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13269670322,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13207377021,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13207377021,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13207377021,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13207377021,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13156268768,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13156268768,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13156268768,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bukit Inti Lestari",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 13133609211,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Tunas Mitra Usaha",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 12854168918,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Perhotelan",
+      "total_assets": 11829335703,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Perhotelan",
+      "total_assets": 11829335703,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Perhotelan",
+      "total_assets": 11829335703,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Perhotelan",
+      "total_assets": 11829335703,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhirajasa Hanasta Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 11645369407,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 11507972703,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Melia Arjuna Bejana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 11507972703,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 11501052386,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhirajasa Hanasta Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 11164957963,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Kara Daneswara",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 11113003663,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhirajasa Hanasta Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 10658034106,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda Raja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10355202621,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda Raja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10355059499,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda Raja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10338259561,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhirajasa Hanasta Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 10308841568,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kalingga Murda Raja",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10300455455,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Anargya Kastara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10213423756,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Anargya Kastara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10194034070,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Anargya Kastara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10176897816,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Anargya Kastara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10176593770,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Anargya Kastara",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 10159820800,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primerindo Sejahtera",
+      "business_type": "Perdagangan, Keagenan, Jasa, Perindustrian, Pemborongan Bangunan, Konsultan, Percetakan, Pengangkutan, Perbengkelan, Real Estat,",
+      "total_assets": 10136357481,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primerindo Sejahtera",
+      "business_type": "Perdagangan, Keagenan, Jasa, Perindustrian, Pemborongan Bangunan, Konsultan, Percetakan, Pengangkutan, Perbengkelan, Real Estat,",
+      "total_assets": 10043403667,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primerindo Sejahtera",
+      "business_type": "Perdagangan, Keagenan, Jasa, Perindustrian, Pemborongan Bangunan, Konsultan, Percetakan, Pengangkutan, Perbengkelan, Real Estat,",
+      "total_assets": 10043403667,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cella Emerald Logistik",
+      "business_type": "-",
+      "total_assets": 10011000000,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Mahitala Wilis Amerta",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 10000000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahitala Wilis Amerta",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 10000000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahitala Wilis Amerta",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 10000000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahitala Wilis Amerta",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa",
+      "total_assets": 10000000000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Primarindo Sejahtera",
+      "business_type": "Perdagangan, Keagenan, Jasa, Perindustrian, Pemborongan Bangunan, Konsultan, Percetakan, Pengangkutan, Perbengkelan, Real Estat,",
+      "total_assets": 9981634889,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Kencana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 9907263101,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nirvana Wastu Kencana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 9407181915,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nirvana Wastu Kencana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 9382752331,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nirvana Wastu Kencana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 9362827735,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Cella Management Logistik",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 7934344523,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Wastu Kencana",
+      "business_type": "Perdagangan, Pembangunan, Perindustrian dan Jasa",
+      "total_assets": 3933536572,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Wipala Madang Utama",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2480071282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wipala Madang Utama",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2480071282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wipala Madang Utama",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2480071282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wipala Madang Utama",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2480071282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Wipala Madang Utama",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2480071282,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yodya Megah Karta",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 2474221279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yodya Megah Karta",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 2473900769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yodya Megah Karta",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 2473900769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yodya Megah Karta",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 2473900769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yoja Megah Karta",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2473900769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yoja Megah Karta",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2473900769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yoja Megah Karta",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2473900769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yoja Megah Karta",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2473900769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yoja Megah Karta",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2473900769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Yodya Megah Karta",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Lima",
+      "total_assets": 2473900766,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sentrayasa Karya Bilang",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2470790769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sentrayasa Karya Bilang",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2470790769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sentrayasa Karya Bilang",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2470790769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sentrayasa Karya Bilang",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2470790769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sentrayasa Karya Bilang",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2470790769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Charlie Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 2466999747,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Anantara Bengawan Harja",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2456850769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anantara Bengawan Harja",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2456850769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anantara Bengawan Harja",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2456850769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anantara Bengawan Harja",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2456850769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anantara Bengawan Harja",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 2456850769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Narendra Daksa Lestari",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 2321018389,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Narendra Daksa Lestari",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 2320771019,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Narendra Daksa Lestari",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 2313889105,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Narendra Daksa Lestari",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 2313594861,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Narendra Daksa Lestari",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 2313467464,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Charlie Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 2135299432,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Charlie Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 2135299432,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Charlie Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 2110164655,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "Charlie Holding Cella Pte Ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 1983066669,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cre Bil Indonesia",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 1935929440,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cre Bil Indonesia",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 1851905622,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cre Bil Indonesia",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 1850489754,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cre Bil Indonesia",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 1850489754,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Cre Bil Indonesia",
+      "business_type": "Perdagangan, Kegenan, Jasa, Perindustrian, Pemborong Bangunan",
+      "total_assets": 1849867017,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 593950271,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 561130891,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 543676741,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 543676741,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dynasty Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 533405623,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 329666659,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 314048793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 314048793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Pembangunan, Perdagangan, Perindustrian, Pengangkutan Darat Pertanian, Percetakan dan Jasa",
+      "total_assets": 314048793,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 313930751,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dynasty Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 305129767,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Abhinaya Badasa Badi",
+      "business_type": "Real Estate yang Dimiliki Sendiri",
+      "total_assets": 297160368,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dynasty Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 247338252,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Wastu Danapati Garwita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 178601665,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pastika Prabadwipa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 161514471,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Narthana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 149174592,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Narthana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 149074011,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Narthana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 149074011,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Manggala Laksita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 115794884,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Manggala Laksita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 115677656,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Manggala Laksita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 115560730,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahawira Rajendra Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 100000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mahawira Rajendra Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 100000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mahawira Rajendra Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 100000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mahawira Rajendra Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 100000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Mahawira Rajendra Jaya",
+      "business_type": "Pemborongan, Real Estat, Pembangunan, Jasa dan Konsultasi, Perdagangan dan Perindustrian",
+      "total_assets": 100000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Adhinata Sangkara Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 81147437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhinata Sangkara Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 81147437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhinata Sangkara Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 81147437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Adhinata Sangkara Pratama",
+      "business_type": "Pembangunan dan Pengelolaan Hotel Bintang Dua",
+      "total_assets": 81147437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dynasty Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 77540876,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Wastu Mahardika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 72147437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Mahardika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 68647437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Mahardika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 68647437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Mahardika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 68647437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Mahardika",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 68647437,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Danapati Garwita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 66552937,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Danapati Garwita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 66552937,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Danapati Garwita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 65769104,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Narthana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 61267593,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pastika Prabadwipa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49599002,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pastika Prabadwipa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49449002,
+      "ownership_percentage": 100.01
+    },
+    {
+      "name": "PT Nirvana Wastu Pastika Prabadwipa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49449002,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Narthana",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49279505,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Pastika Prabadwipa",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 49149002,
+      "ownership_percentage": 100.01
+    },
+    {
+      "name": "PT Nirvana Wastu Manggala Laksita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 27909192,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Epsilon Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 21015026,
+      "ownership_percentage": 71.4
+    },
+    {
+      "name": "PT Nirvana Wastu Danapati Garwita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 16696843,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nirvana Wastu Manggala Laksita",
+      "business_type": "Perdagangan, Pengangkutan, Pembangunan, Perindustrian, Jasa, Percetakan, Perbengkelan, Pertanian dan Kehutanan",
+      "total_assets": 15916436,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Dynasty Holding Cella Pte.ltd",
+      "business_type": "Entitas Induk Lainnya",
+      "total_assets": 15026,
+      "ownership_percentage": 71.4
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.617.365.335.232",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:16.769Z"
+}

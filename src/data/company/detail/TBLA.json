@@ -1,0 +1,638 @@
+{
+  "company_name": "Tunas Baru Lampung Tbk",
+  "ticker": "TBLA",
+  "office_address": "Wisma Budi Lt. 8-9 Jl. Hr. Rasuna Said Kav.c-6,karet Kuningan, Setia Budi, Kota Adm Jakarta Selatan, Dki Jakarta 12940",
+  "email": "corsec@sungaibudi.com;hardy.tbl@sungaibudi.com, dewi.effendy@sungaibudi.com",
+  "phone": "021-5213383",
+  "fax": "021-5213392, 5205829",
+  "tax_id": "0011.3921.9805-4000",
+  "website": "http://www.tunasbarulampung.com",
+  "listing_date": "2000-02-14",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Agriculture Plantation",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Makanan & Minuman.",
+    "business_tags": [
+      "Kelapa Sawit",
+      "Agribisnis",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "kelapa sawit",
+      "palm oil",
+      "cpo",
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Bapak Hardy",
+    "email": "cs@tunasbarulampung.com;hardy.tbl@sungaibudi.com",
+    "phone": "021-5213383, 5225868"
+  },
+  "directors": [
+    {
+      "name": "Widarto",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sudarmo Tasmin",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Oey Alfred",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Murugaiah Periasamy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ravindran Veerasamy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jason Indrian Winata",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sugandhi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Basuki Prawono Winata",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Santoso Winata",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Oey Albert",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Justinus Aditya Sidharta",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Justinus Adiyta Sidharta",
+      "position": "Ketua"
+    },
+    {
+      "name": "Oei Yulianti Winarso",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rini Sari Widjaja",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2411802735,
+      "percentage": 40.04
+    },
+    {
+      "name": "PT Budi Delta Swakarya",
+      "type": "Lebih dari 5%",
+      "shares": 1974403475,
+      "percentage": 32.77
+    },
+    {
+      "name": "PT Sungai Budi",
+      "type": "Lebih dari 5%",
+      "shares": 1600505696,
+      "percentage": 26.56
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 21222000,
+      "percentage": 0.35
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 12095466,
+      "percentage": 0.2
+    },
+    {
+      "name": "Widarto",
+      "type": "Direksi",
+      "shares": 2672000,
+      "percentage": 0.04
+    },
+    {
+      "name": "Santoso Winata",
+      "type": "Komisaris",
+      "shares": 2672000,
+      "percentage": 0.04
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Adikarya Gemilang",
+      "business_type": "Perkebunan Sawit,tebu dan Gula",
+      "total_assets": 7497504,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Adikarya Gemilang",
+      "business_type": "Perkebunan Sawit,tebu dan Gula",
+      "total_assets": 7365071,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Adikarya Gemilang",
+      "business_type": "Perkebunan Sawit,tebu dan Gula",
+      "total_assets": 7173601,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Adikarya Gemilang",
+      "business_type": "Perkebunan Sawit,tebu dan Gula",
+      "total_assets": 6799592,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Adikarya Gemilang",
+      "business_type": "Perkebunan Sawit,tebu dan Gula",
+      "total_assets": 6553038,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Adikarya Gemilang",
+      "business_type": "Perkebunan Sawit,tebu dan Gula",
+      "total_assets": 4015675,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "Tbla International Pte. Ltd.",
+      "business_type": "Induk Perusahaan",
+      "total_assets": 3567716,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Samora Usaha Jaya",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 2545786,
+      "ownership_percentage": 99.23
+    },
+    {
+      "name": "PT Samora Usaha Jaya",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 2517785,
+      "ownership_percentage": 99.23
+    },
+    {
+      "name": "PT Samora Usaha Jaya",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 2349687,
+      "ownership_percentage": 99.23
+    },
+    {
+      "name": "PT Samora Usaha Jaya",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 2282104,
+      "ownership_percentage": 99.23
+    },
+    {
+      "name": "Tbla International Pte. Ltd.",
+      "business_type": "Induk Perusahaan",
+      "total_assets": 2036959,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tbla International Pte. Ltd.",
+      "business_type": "Induk Perusahaan",
+      "total_assets": 1966678,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tbla International Pte. Ltd.",
+      "business_type": "Induk Perusahaan",
+      "total_assets": 1952361,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tbla International Pte. Ltd.",
+      "business_type": "Induk Perusahaan",
+      "total_assets": 1912528,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tbla International Pte. Ltd.",
+      "business_type": "Induk Perusahaan",
+      "total_assets": 1877655,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Samora Usaha Jaya",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1874457,
+      "ownership_percentage": 99.23
+    },
+    {
+      "name": "PT Samora Usaha Jaya",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1218065,
+      "ownership_percentage": 99.23
+    },
+    {
+      "name": "PT Bumi Perkasa Gemilang",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1192375,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Bumi Perkasa Gemilang",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1173127,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Bumi Perkasa Gemilang",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1159552,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Bumi Perkasa Gemilang",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1147262,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Bumi Perkasa Gemilang",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1132213,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Bumi Perkasa Gemilang",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 1016758,
+      "ownership_percentage": 85
+    },
+    {
+      "name": "PT Bangun Nusa Indah Lampung",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 986418,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bangun Nusa Indah Lampung",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 903534,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bangun Nusa Indah Lampung",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 865039,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bangun Nusa Indah Lampung",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 862440,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bangun Tatalampung Asri",
+      "business_type": "Perkebunan Kelapa Sawit dan Real Estat",
+      "total_assets": 756711,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Bangun Tatalampung Asri",
+      "business_type": "Perkebunan Kelapa Sawit dan Real Estat",
+      "total_assets": 740466,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Bangun Tatalampung Asri",
+      "business_type": "Perkebunan Kelapa Sawit dan Real Estat",
+      "total_assets": 740070,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Bangun Tatalampung Asri",
+      "business_type": "Perkebunan Kelapa Sawit dan Real Estat",
+      "total_assets": 713615,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Bangun Nusa Indah Lampung",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 661199,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bangun Tatalampung Asri",
+      "business_type": "Perkebunan Kelapa Sawit dan Real Estat",
+      "total_assets": 620362,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Bangun Nusa Indah Lampung",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 578815,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Budi Dwiyasa Perkasa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 571072,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Budi Dwiyasa Perkasa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 569832,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Budi Dwiyasa Perkasa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 554550,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bangun Tatalampung Asri",
+      "business_type": "Perkebunan Kelapa Sawit dan Real Estat",
+      "total_assets": 489832,
+      "ownership_percentage": 99.71
+    },
+    {
+      "name": "PT Budi Dwiyasa Perkasa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 488108,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Budi Dwiyasa Perkasa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 464893,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Budi Dwiyasa Perkasa",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 378214,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Agro Bumi Mas",
+      "business_type": "Pengolahan Minyak Sawit",
+      "total_assets": 261988,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Agro Bumi Mas",
+      "business_type": "Pengolahan Minyak Sawit",
+      "total_assets": 250333,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budinusa Ciptawahana",
+      "business_type": "Perkebunan Kelapa Sawit dan Holtikultura",
+      "total_assets": 238534,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Agro Bumi Mas",
+      "business_type": "Pengolahan Minyak Sawit",
+      "total_assets": 231934,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Agro Bumi Mas",
+      "business_type": "Pengolahan Minyak Sawit",
+      "total_assets": 231490,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Agro Bumi Mas",
+      "business_type": "Pengolahan Minyak Sawit",
+      "total_assets": 230726,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Agro Bumi Mas",
+      "business_type": "Pengolahan Minyak Sawit",
+      "total_assets": 229463,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budinusa Ciptawahana",
+      "business_type": "Perkebunan Kelapa Sawit dan Holtikultura",
+      "total_assets": 211003,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budinusa Ciptawahana",
+      "business_type": "Perkebunan Kelapa Sawit dan Holtikultura",
+      "total_assets": 210588,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budinusa Ciptawahana",
+      "business_type": "Perkebunan Kelapa Sawit dan Holtikultura",
+      "total_assets": 206392,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budinusa Ciptawahana",
+      "business_type": "Perkebunan Kelapa Sawit dan Holtikultura",
+      "total_assets": 204957,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budinusa Ciptawahana",
+      "business_type": "Perkebunan Kelapa Sawit dan Holtikultura",
+      "total_assets": 194505,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Dinamika Graha Sarana",
+      "business_type": "Perkebunan Tebu",
+      "total_assets": 174443,
+      "ownership_percentage": 29.41
+    },
+    {
+      "name": "PT Solusi Jaya Perkasa",
+      "business_type": "Pengolahan Kelapa Sawit",
+      "total_assets": 167507,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Solusi Jaya Perkasa",
+      "business_type": "Pengolahan Kelapa Sawit",
+      "total_assets": 166792,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Solusi Jaya Perkasa",
+      "business_type": "Pengolahan Kelapa Sawit",
+      "total_assets": 166772,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Solusi Jaya Perkasa",
+      "business_type": "Pengolahan Kelapa Sawit",
+      "total_assets": 166404,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Solusi Jaya Perkasa",
+      "business_type": "Pengolahan Kelapa Sawit",
+      "total_assets": 165332,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Solusi Jaya Perkasa",
+      "business_type": "Pengolahan Kelapa Sawit",
+      "total_assets": 151008,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT. Bumi Sentosa Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 98226,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT. Bumi Sentosa Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 88889,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT. Bumi Sentosa Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 74146,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT. Bumi Sentosa Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 62328,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT. Bumi Sentosa Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 48078,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT. Bumi Sentosa Abadi",
+      "business_type": "Perkebunan Kelapa Sawit",
+      "total_assets": 44433,
+      "ownership_percentage": 99.97
+    },
+    {
+      "name": "PT Budi Dermaga Perkasa",
+      "business_type": "Dermaga",
+      "total_assets": 23016,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budi Dermaga Perkasa",
+      "business_type": "Dermaga",
+      "total_assets": 22488,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budi Dermaga Perkasa",
+      "business_type": "Dermaga",
+      "total_assets": 21437,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Budi Dermaga Perkasa",
+      "business_type": "Dermaga",
+      "total_assets": 20001,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.368.395.694.700",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:12.829Z"
+}

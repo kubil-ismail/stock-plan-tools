@@ -1,0 +1,254 @@
+{
+  "company_name": "PT Madusari Murni Indah Tbk.",
+  "ticker": "MOLI",
+  "office_address": "Jl. Sumber Waras No. 255 Lawang - Malang Jawa Timur 65141, Indonesia",
+  "email": "corsec@molindo.co.id",
+  "phone": "(0341) 426 681",
+  "fax": "(0341) 426 222",
+  "tax_id": "01.110.154.0-651.000",
+  "website": "https://www.molindo.co.id",
+  "listing_date": "2018-08-30",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di bidang produksi ethanol, karbondioksida cair, es kering dan pupuk yang terintegrasi dengan kegiatan distribusi dan perdagangan",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Manufaktur.",
+    "business_tags": [
+      "Energi",
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 5,
+    "name": "Barang Kimia"
+  },
+  "sub_industry": {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  "corporate_secretary": {
+    "name": "Jose G. Tan",
+    "email": "corsec@molindo.co.id",
+    "phone": "(021) 2903 5431"
+  },
+  "directors": [
+    {
+      "name": "Jose Gonjoran Tan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Donny Winarno",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ir. Sandojo Rustanto",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Indra Winarno, M.si",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Handjojo Rustanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Irene Rustanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Edy Sugito",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Kartadjaja Intan",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Kartadjaja Intan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Agus Yubagyo",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agustina Felicia",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Cropsco Panen Indonusa",
+      "type": "Lebih dari 5%",
+      "shares": 1420466476,
+      "percentage": 52.15
+    },
+    {
+      "name": "Handjojo Rustanto",
+      "type": "Komisaris",
+      "shares": 346730596,
+      "percentage": 12.73
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 252705161,
+      "percentage": 9.27
+    },
+    {
+      "name": "Indra Winarno",
+      "type": "Komisaris",
+      "shares": 188654921,
+      "percentage": 6.93
+    },
+    {
+      "name": "Henny Rustanto",
+      "type": "Lebih dari 5%",
+      "shares": 187872849,
+      "percentage": 6.9
+    },
+    {
+      "name": "Handayani Rustanto",
+      "type": "Lebih dari 5%",
+      "shares": 148210138,
+      "percentage": 5.44
+    },
+    {
+      "name": "PT Sejahtera Investama Indah",
+      "type": "Lebih dari 5%",
+      "shares": 147393429,
+      "percentage": 5.41
+    },
+    {
+      "name": "Sandojo Rustanto",
+      "type": "Komisaris",
+      "shares": 32003011,
+      "percentage": 1.17
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Molindo Raya Industrial",
+      "business_type": "Industri Ethanol, Spiritus, Protein Sel Tunggal, Asam Asetat, Ethyl Asetat, Gas Karbondioksida (co2) dan Pupuk Tanaman",
+      "total_assets": 1504176,
+      "ownership_percentage": 81.41
+    },
+    {
+      "name": "PT Sumber Kita Indah",
+      "business_type": "Bidang Perdagangan",
+      "total_assets": 291237,
+      "ownership_percentage": 95.2
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Gani Sigiro & Handayani"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "800.866.754.814",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:17.314Z"
+}

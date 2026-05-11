@@ -1,0 +1,367 @@
+{
+  "company_name": "Resource Alam Indonesia Tbk",
+  "ticker": "KKGI",
+  "office_address": "Gedung Bumi Raya Utama Group Jl. Pembangunan I No. 3 Jakarta Pusat",
+  "email": "info@raintbk.com; investor.relations@raintbk.com",
+  "phone": "021-633-30-36, 021 3952-55-30 ( Hunting )",
+  "fax": "021 - 6337006",
+  "tax_id": "001.110.655.6-091.000",
+  "website": "https://www.raintbk.com",
+  "listing_date": "1991-07-01",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan batu bara",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Properti, Energi.",
+    "business_tags": [
+      "Batubara",
+      "Properti",
+      "Energi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Leny Siau Ching",
+    "email": "lenny899@yahoo.com, lenny@raintbk.com",
+    "phone": "021 6333036"
+  },
+  "directors": [
+    {
+      "name": "Pintarso Adijanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Agoes Soegiarto Soeparman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wimpi Salim",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Winanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eddy",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Ying Mei",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hendro Martowardojo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ge Luiyanto Yamin",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Suparno Adijanto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wayne (won Chil) Yu",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Darma Putra Wati",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Darma Putra Wati",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ge Luiyanto Yamin",
+      "position": "Anggota"
+    },
+    {
+      "name": "Robby Fonso",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Ubs Ag Singapore S/a Energy Collier Private Ltd -2091145242",
+      "type": "Lebih dari 5%",
+      "shares": 1855447105,
+      "percentage": 37.11
+    },
+    {
+      "name": "PT Sejahterah Jaya Cita",
+      "type": "Lebih dari 5%",
+      "shares": 1391585329,
+      "percentage": 27.83
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 821572471,
+      "percentage": 16.43
+    },
+    {
+      "name": "Sinar Nusantara Sdn Bhd.",
+      "type": "Lebih dari 5%",
+      "shares": 413611772,
+      "percentage": 8.27
+    },
+    {
+      "name": "Masyarakat Lainnya (lx International ( Spore) Pte, Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 260372700,
+      "percentage": 5.217
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 126670600,
+      "percentage": 2.53
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 98877427,
+      "percentage": 1.983
+    },
+    {
+      "name": "Pintarso Adijanto",
+      "type": "Direksi",
+      "shares": 17226920,
+      "percentage": 0.34
+    },
+    {
+      "name": "Suparno Adijanto",
+      "type": "Komisaris",
+      "shares": 7565664,
+      "percentage": 0.15
+    },
+    {
+      "name": "Hendro Martowardojo, Drs",
+      "type": "Komisaris",
+      "shares": 5214528,
+      "percentage": 0.1
+    },
+    {
+      "name": "Wimpi Salim",
+      "type": "Direksi",
+      "shares": 1061096,
+      "percentage": 0.02
+    },
+    {
+      "name": "Agoes Soegiarto Soeparman",
+      "type": "Direksi",
+      "shares": 496452,
+      "percentage": 0.01
+    },
+    {
+      "name": "Winanto",
+      "type": "Direksi",
+      "shares": 297872,
+      "percentage": 0.01
+    },
+    {
+      "name": "Eddy",
+      "type": "Direksi",
+      "shares": 34,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Ying Mei",
+      "type": "Direksi",
+      "shares": 30,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Insani Baraperkasa",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 119974384,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Loa Haur",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 14805743,
+      "ownership_percentage": 60
+    },
+    {
+      "name": "PT Khatulistiwa Hidro Energi",
+      "business_type": "Industri Pembangkit Listrik Tenaga Air",
+      "total_assets": 12336724,
+      "ownership_percentage": 43
+    },
+    {
+      "name": "PT Anugerah Bumi Mahakam",
+      "business_type": "Jasa Pertambangan dan Sewa Guna Usaha Tanpa Hak Opsi Mesin dan Alat-alat Pertambangan",
+      "total_assets": 6348296,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kaltim Mineral",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 2382288,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bira Mineral Nusantara",
+      "business_type": "Aktivitas Penunjang Pertambagan dan Penggalian Lainnya",
+      "total_assets": 1745420,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Bumiraya Energi Nusantara",
+      "business_type": "Pengadaan Tenaga Listrik",
+      "total_assets": 1194620,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Kurnia Mahakam Industri",
+      "business_type": "Perdagangan, Real Estate dan Industri",
+      "total_assets": 293140,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Buton Mineral Indonesia",
+      "business_type": "Aktivitas Penunjang Pertambagan dan Penggalian Lainnya",
+      "total_assets": 282521,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Bumi Raya Optima",
+      "business_type": "Perdagangan Besar Bahan Bakar Padat, Cair, Gas dan Lain Lain",
+      "total_assets": 247497,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Dagang Bumi Sejahtera",
+      "business_type": "Perdagangan Besar Bahan Bakar Padat, Cair, Gas dan Lain Lain",
+      "total_assets": 247497,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Bumi Perangat Hijau",
+      "business_type": "Penggalian Pasir Kuarsa",
+      "total_assets": 246227,
+      "ownership_percentage": 99.95
+    },
+    {
+      "name": "PT Bumiraya Hijau Lestari",
+      "business_type": "Penggalian Pasir Kuarsa",
+      "total_assets": 57970,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Power Alam Lestari",
+      "business_type": "Industri Pembangkit Listrik Tenaga Air",
+      "total_assets": 57244,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Makmur Bumi Paloh",
+      "business_type": "Penggalian Pasir Kuarsa",
+      "total_assets": 41095,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Resource Alam Energi",
+      "business_type": "Penggalian Pasir Kuarsa",
+      "total_assets": 34877,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bumi Hidro Energi",
+      "business_type": "Pengadaan Tenaga Listrik",
+      "total_assets": 14419,
+      "ownership_percentage": 99.8
+    },
+    {
+      "name": "PT Lukos Mineral Nusantara",
+      "business_type": "Perdagangan Besar Logam dan Bijih Logam",
+      "total_assets": 6026,
+      "ownership_percentage": 70
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.580.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:00.630Z"
+}

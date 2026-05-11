@@ -1,0 +1,199 @@
+{
+  "company_name": "PT Dfi Retail Nusantara Tbk",
+  "ticker": "HERO",
+  "office_address": "Indy Bintaro Office Park, Gedung B, Lantai 3, 4 dan 5 Jalan Boulevard Bintaro Jaya B7/a6, Sektor Vii, Cbd Bintaro Jaya, Tangerang Selatan, Banten",
+  "email": "iwan.nurdiansyah@dfiretailgroup.com",
+  "phone": "(021) 3950 6668",
+  "fax": "-",
+  "tax_id": "01.302.384.1-092.000",
+  "website": "https://www.dfinusantara.co.id",
+  "listing_date": "1989-08-21",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perdagangan Eceran Grosir",
+    "business_summary": "Perusahaan bergerak di bidang Retail.",
+    "business_tags": [
+      "Retail"
+    ],
+    "business_keywords": [
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 26,
+    "name": "Perdagangan Ritel Barang Primer",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 47,
+    "name": "Perdagangan Ritel Barang Primer"
+  },
+  "sub_industry": {
+    "id": 95,
+    "name": "Supermarket",
+    "industries_id": 47
+  },
+  "corporate_secretary": {
+    "name": "Iwan Nurdiansyah",
+    "email": "iwan_nurdiansyah@hero.co.id",
+    "phone": "(021) 8378 8388"
+  },
+  "directors": [
+    {
+      "name": "Hadrianus Wahyu Trikusumo",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Charles David Landale",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Paulus Raharja",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Ipung Kurnia",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Erry Riyana Hardjapamekas",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Lindawati Gani",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jin Pengcheng",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Wee Lee Loh",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Erry Riyana Hardjapamekas",
+      "position": "Ketua"
+    },
+    {
+      "name": "Lindawati Gani",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rafika Yuniasih",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Mulgrave Corporation B.v.",
+      "type": "Lebih dari 5%",
+      "shares": 2660194960,
+      "percentage": 63.59
+    },
+    {
+      "name": "The Dairy Farm Company Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 729975094,
+      "percentage": 17.45
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 444707083,
+      "percentage": 10.63
+    },
+    {
+      "name": "Clsa Ltd - Client/trust Account",
+      "type": "Lebih dari 5%",
+      "shares": 345632273,
+      "percentage": 8.26
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 3124590,
+      "percentage": 0.07
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Rumah Mebel Nusantara",
+      "business_type": "Ritel",
+      "total_assets": 1007842,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Distribusi Mebel Nusantara",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 220405,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Distribusi Kesehatan dan Kecantikan Nusantara",
+      "business_type": "Perdagangan Besar",
+      "total_assets": 10025,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.983.042.516.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:34.231Z"
+}

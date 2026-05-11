@@ -1,0 +1,178 @@
+{
+  "company_name": "PT Mitra Pemuda Tbk.",
+  "ticker": "MTRA",
+  "office_address": "Komplek Ruko Permata Kota Blok E11 & E12. Jl. P. Tubagus Angke No. 170 Jakarta 14450",
+  "email": "mitrapemuda@cbn.net.id",
+  "phone": "021-66671549",
+  "fax": "021-66671547",
+  "tax_id": "01.300.049.2-046.000",
+  "website": "https://www.mitrapemuda.co.id",
+  "listing_date": "2016-02-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang konstruksi.",
+    "business_summary": "Perusahaan bergerak di bidang Konstruksi.",
+    "business_tags": [
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 5,
+    "name": "Infrastruktur"
+  },
+  "sub_sector": {
+    "id": 16,
+    "name": "Konstruksi Bangunan",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 20,
+    "name": "Konstruksi Bangunan"
+  },
+  "sub_industry": {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  "corporate_secretary": {
+    "name": "Miftahul Sa'adah",
+    "email": "miftahulsaadah.23@gmail.com",
+    "phone": "081545006912"
+  },
+  "directors": [
+    {
+      "name": "Ade Gunawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Bennedict Edeli",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Paul P Gultom",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Kenny Edeli",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Samson Siburian",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Djunggu Sitorus",
+      "position": "Ketua"
+    },
+    {
+      "name": "Niken Anggreni",
+      "position": "Anggota"
+    },
+    {
+      "name": "Siddhi Widya Prathama",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mitra Ditosam Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 594000000,
+      "percentage": 77.14
+    },
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 169995800,
+      "percentage": 22.08
+    },
+    {
+      "name": "Eddy Kartolo",
+      "type": "Lebih dari 5%",
+      "shares": 6004200,
+      "percentage": 0.78
+    },
+    {
+      "name": "Eddy Kartolo",
+      "type": "Komisaris",
+      "shares": 6004200,
+      "percentage": 0.7
+    },
+    {
+      "name": "Kenny Edeli",
+      "type": "Direksi",
+      "shares": 568100,
+      "percentage": 0.074
+    },
+    {
+      "name": "Agung Anggono",
+      "type": "Direksi",
+      "shares": 427000,
+      "percentage": 0.054
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mitra Palmil (mpl)",
+      "business_type": "Jasa Konstruksi",
+      "total_assets": 68,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "187.880.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:50:51.222Z"
+}

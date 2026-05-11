@@ -1,0 +1,401 @@
+{
+  "company_name": "PT Goto Gojek Tokopedia Tbk",
+  "ticker": "GOTO",
+  "office_address": "Gedung Pasaraya Blok M, Lantai 6-7 Jl. Iskandarsyah II No. 2, Jakarta 12160",
+  "email": "corpsecretary@gotocompany.com dan ir@gotocompany.com",
+  "phone": "(021) 2910 1072",
+  "fax": "(021) 2709 7877",
+  "tax_id": "74.570.436.1-064.000",
+  "website": "https://www.gotocompany.com",
+  "listing_date": "2022-04-11",
+  "listing_board": "Ekonomi Baru",
+  "business_field": {
+    "raw_business": "Perusahaan Induk dan Penyedia platform digital yang mengintegrasikan on-demand services, e-commerce dan produk digital, serta financial technology services secara langsung maupun tidak langsung melalui entitas-entitas di dalam Perusahaan",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Makanan & Minuman, Otomotif, Media, Keuangan.",
+    "business_tags": [
+      "Teknologi",
+      "Makanan & Minuman",
+      "Otomotif",
+      "Media",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "R A Koesoemohadiani",
+    "email": "corpsecretary@gotocompany.com",
+    "phone": "(021) 29101072"
+  },
+  "directors": [
+    {
+      "name": "Hans Patuwo",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Catherine Hindra Sutjahyo",
+      "position": "Wakil Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Simon Tak Leung Ho",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sudhanshu Raheja",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "R.a. Koesoemohadiani",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wuzhen (william) Xiong",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Monica Lynn Mulyanto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dirk Van Den Berghe",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Wishnutama Kusubandio",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Agus D.w. Martowardojo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Santoso Kartono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Marjorie Tiu Lao",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "John A. Prasetio",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Andre Soelistyo",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "John A. Prasetio",
+      "position": "Ketua"
+    },
+    {
+      "name": "Marjorie Tiu Lao",
+      "position": "Anggota"
+    },
+    {
+      "name": "Herwan Ng",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 916869870713,
+      "percentage": 76.97
+    },
+    {
+      "name": "Svf Gt Subco (singapore) Pte. Ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 91102207128,
+      "percentage": 7.65
+    },
+    {
+      "name": "Taobao China Holding Limited",
+      "type": "Lebih dari 5%",
+      "shares": 88531124993,
+      "percentage": 7.43
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 46696604647,
+      "percentage": 3.92
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 39290078403,
+      "percentage": 3.3
+    },
+    {
+      "name": "Andre Soelistyo",
+      "type": "Komisaris",
+      "shares": 6734025100,
+      "percentage": 0.57
+    },
+    {
+      "name": "Hans Patuwo",
+      "type": "Direksi",
+      "shares": 763015167,
+      "percentage": 0.07
+    },
+    {
+      "name": "Catherine Hindra Sutjahyo",
+      "type": "Direksi",
+      "shares": 493717692,
+      "percentage": 0.04
+    },
+    {
+      "name": "Santoso Kartono",
+      "type": "Komisaris",
+      "shares": 394010440,
+      "percentage": 0.03
+    },
+    {
+      "name": "Agus D.w. Martowardojo",
+      "type": "Komisaris",
+      "shares": 169585462,
+      "percentage": 0.01
+    },
+    {
+      "name": "Monica Lynn Mulyanto",
+      "type": "Direksi",
+      "shares": 66900481,
+      "percentage": 0.01
+    },
+    {
+      "name": "Sudhanshu Raheja",
+      "type": "Direksi",
+      "shares": 33856910,
+      "percentage": 0
+    },
+    {
+      "name": "Andre Soelistyo",
+      "type": "Komisaris",
+      "shares": 84,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Velox Technology South-east Asia",
+      "business_type": "Jasa Konsultasi Manajemen Usaha",
+      "total_assets": 10963090,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dompet Karya Anak Bangsa",
+      "business_type": "Jasa Konsultasi Manajemen Usaha",
+      "total_assets": 8762177,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Goto International Finance (22) Limited",
+      "business_type": "Jasa Konsultasi Manajemen Usaha",
+      "total_assets": 1907192,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Goproducts Engineering India Limited Liability Partnership",
+      "business_type": "Jasa Pengembangan Piranti Lunak",
+      "total_assets": 1054992,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Go-jek Singapore Pte. Ltd.",
+      "business_type": "Jasa Pengembangan Piranti Lunak dan Jasa Lainnya",
+      "total_assets": 789584,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Semangat Bambu Runcing",
+      "business_type": "Jasa Konsultasi Manajemen Usaha",
+      "total_assets": 697948,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Antar Makanan Anak Bangsa",
+      "business_type": "Jasa Pengiriman Paket",
+      "total_assets": 388191,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pradipa Darpa Bangsa",
+      "business_type": "Jasa Konsultasi Manajemen Usaha",
+      "total_assets": 307259,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Rekan Anak Bangsa",
+      "business_type": "Jasa Penyewaan Kendaraan Beroda Empat",
+      "total_assets": 137481,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Go-jek Indonesia",
+      "business_type": "Jasa Konsultasi Manajemen Usaha",
+      "total_assets": 115544,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Goto Solusi Niaga",
+      "business_type": "Ritel Daring, Jasa Pergudangan dan Penyimpanan",
+      "total_assets": 76985,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Lintas Promosi Global",
+      "business_type": "Jasa Periklanan Bergerak",
+      "total_assets": 11285,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aplikasi Multimedia Anak Bangsa",
+      "business_type": "Jasa Konsultasi Manajemen Usaha",
+      "total_assets": 9837,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jaya Data Semesta",
+      "business_type": "Jasa Pengolahan Data dan Informasi",
+      "total_assets": 9323,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Solusi Arta Anak Bangsa",
+      "business_type": "Jasa Konsultasi Manajemen Usaha",
+      "total_assets": 84,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aplikasi Perdagangan Anak Bangsa",
+      "business_type": "Jasa Perdagangan",
+      "total_assets": 37,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "61.590.956.429.880",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:45:05.408Z"
+}

@@ -1,0 +1,315 @@
+{
+  "company_name": "PT Summarecon Agung Tbk",
+  "ticker": "SMRA",
+  "office_address": "Jl. Perintis Kemerdekaan No. 42 Jakarta Timur",
+  "email": "corp_secretary@summarecon.com",
+  "phone": "021 - 4714567",
+  "fax": "021 - 4892976",
+  "tax_id": "01.002.261.4-054.000",
+  "website": "https://www.summarecon.com",
+  "listing_date": "1990-05-07",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Property dan Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti, Konstruksi, Makanan & Minuman, Retail.",
+    "business_tags": [
+      "Properti",
+      "Konstruksi",
+      "Makanan & Minuman",
+      "Retail"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Lydia Tjio",
+    "email": "corp_secretary@summarecon.com",
+    "phone": "021 - 4714567"
+  },
+  "directors": [
+    {
+      "name": "Ir. Adrianto Pitojo Adi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Soegianto Nagaria",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Herman Nagaria",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Lydia Tjio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nanik Wijaya",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ir. Sharif Benjamin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Jason Lim",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Soetjipto Nagaria",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Harto Djojo Nagaria",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. H. Edi Darnadi, M.m",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Hendri Rahardja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Liliawati Rahardjo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Drs. Kris Erlangga Adji Widjaya",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Drs. Edi Darnadi, M.m.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Esther Melyani Homan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Poespita Pelangiwati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8199904244,
+      "percentage": 49.67
+    },
+    {
+      "name": "PT Semarop Agung",
+      "type": "Lebih dari 5%",
+      "shares": 5944104916,
+      "percentage": 36
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1400259160,
+      "percentage": 8.48
+    },
+    {
+      "name": "Liliawati Rahardjo",
+      "type": "Lebih dari 5%",
+      "shares": 943500036,
+      "percentage": 5.72
+    },
+    {
+      "name": "Harto Djojo Nagaria",
+      "type": "Komisaris",
+      "shares": 20800002,
+      "percentage": 0.13
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Summarecon Property Development",
+      "business_type": "Pengembang Properti",
+      "total_assets": 16854735916,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Summarecon Investment Property",
+      "business_type": "Properti Investasi",
+      "total_assets": 8259254246,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Serpong Cipta Kreasi",
+      "business_type": "Pengembang Properti",
+      "total_assets": 7748264541,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Setia Mitra Edudharma",
+      "business_type": "Pendidikan",
+      "total_assets": 533472238,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gading Orchard",
+      "business_type": "Pengembang Properti",
+      "total_assets": 61387005,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Setia Mitra Intifajar",
+      "business_type": "Pengembang Infrastruktur",
+      "total_assets": 36456062,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Layar Sukses Investama",
+      "business_type": "Investasi",
+      "total_assets": 29566794,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anugerah Damai Abadi",
+      "business_type": "Retail, Makanan dan Minuman",
+      "total_assets": 18378624,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Java Investama Properti",
+      "business_type": "Properti Investasi",
+      "total_assets": 15069065,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bahagia Makmursejati",
+      "business_type": "Pengembang Properti",
+      "total_assets": 14639506,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Summerville Property Management",
+      "business_type": "Manajemen Properti",
+      "total_assets": 10278272,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Multi Abadi Prima",
+      "business_type": "Spbu",
+      "total_assets": 8915303,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahakarya Sinar Simphoni",
+      "business_type": "Properti Investasi",
+      "total_assets": 3049978,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Damai Agung",
+      "business_type": "Pengembang Properti",
+      "total_assets": 2174235,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Satu Summarecon Sukses",
+      "business_type": "Sistem Informasi",
+      "total_assets": 1159163,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sagraha Mitraloka Elok",
+      "business_type": "Perdagangan",
+      "total_assets": 827158,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "5.117.656.190.980",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:15.837Z"
+}

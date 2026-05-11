@@ -1,0 +1,430 @@
+{
+  "company_name": "PT Nfc Indonesia Tbk",
+  "ticker": "NFCX",
+  "office_address": "Mangkuluhur City, 7th Floor, Jalan Jendral Gatot Subroto Kav. 1-3, Karet Semanggi, Daerah Khusus Ibukota Jakarta 12930",
+  "email": "corporate@ptnfc.com",
+  "phone": "02180623767",
+  "fax": "02180623767",
+  "tax_id": "0033184714011000",
+  "website": "https://www.nfcindonesia.id",
+  "listing_date": "2018-07-12",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa Teknologi Informasi, Digital, dan Telekomunikasi",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Telekomunikasi, Energi, Logistik, Retail, Otomotif, Media.",
+    "business_tags": [
+      "Teknologi",
+      "Telekomunikasi",
+      "Energi",
+      "Logistik",
+      "Retail",
+      "Otomotif",
+      "Media"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "telekomunikasi",
+      "telecommunication",
+      "tower",
+      "fiber optic",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "retail",
+      "supermarket",
+      "consumer",
+      "automotive",
+      "otomotif",
+      "kendaraan",
+      "media",
+      "televisi",
+      "broadcast",
+      "streaming"
+    ]
+  },
+  "sector": {
+    "id": 10,
+    "name": "Teknologi"
+  },
+  "sub_sector": {
+    "id": 24,
+    "name": "Perangkat Lunak & Jasa TI",
+    "sector_id": 10
+  },
+  "industry": {
+    "id": 1,
+    "name": "Aplikasi & Jasa Internet"
+  },
+  "sub_industry": {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  "corporate_secretary": {
+    "name": "Inda Ayu Susanty",
+    "email": "inda.nfcindonesia@gmail.com",
+    "phone": "021 30480711"
+  },
+  "directors": [
+    {
+      "name": "Abraham Theofilus",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ivan Ekancono",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Niko Navea Aquino",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sari Winda Permata",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Suryandy Jahja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Siska Pratiwi",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Siska Pratiwi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Anita Theressia",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ni Nyoman Diana Purnama Sari",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT M Cash Integrasi Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 341953100,
+      "percentage": 51.29
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 201477680,
+      "percentage": 30.22
+    },
+    {
+      "name": "PT 1 Inti Dot Com",
+      "type": "Lebih dari 5%",
+      "shares": 77650600,
+      "percentage": 11.65
+    },
+    {
+      "name": "Bank Of Singapore Limited",
+      "type": "Lebih dari 5%",
+      "shares": 40290920,
+      "percentage": 6.04
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 4255200,
+      "percentage": 0.64
+    },
+    {
+      "name": "Suryandy Jahja",
+      "type": "Komisaris",
+      "shares": 1040000,
+      "percentage": 0.16
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Digital Mediatama Maxima",
+      "business_type": "Perdagangan, Pembangunan, Jasa, Pertanian, Transportasi, Angkutan Darat, Perbengkelan dan Percetakan",
+      "total_assets": 849679211461,
+      "ownership_percentage": 29.3
+    },
+    {
+      "name": "PT Energi Selalu Baru",
+      "business_type": "Perdagangan, Pemograman, Telekomunikasi, Teknologi Informasi, dan Jasa Komputer Lainnya",
+      "total_assets": 221399291815,
+      "ownership_percentage": 35
+    },
+    {
+      "name": "PT Digital Consumer Engagement",
+      "business_type": "Perdagangan, Pembangunan, Jasa, Pertanian, Transportasi, Angkutan Darat, Perbengkelan dan Percetakan",
+      "total_assets": 151378428938,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Digital Maxima Indonesia",
+      "business_type": "Perdagangan, Pembangunan, Jasa, Percetakan, Pengangkutan Darat dan Pertanian",
+      "total_assets": 134168008650,
+      "ownership_percentage": 99.49
+    },
+    {
+      "name": "PT Abdi Anugerah Persada",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 123755960235,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Anugerah Wicaksana Digital",
+      "business_type": "Perdagangan, Telekomunikasi, dan Teknologi",
+      "total_assets": 119146128645,
+      "ownership_percentage": 71.75
+    },
+    {
+      "name": "PT Volta Indonesia Semesta",
+      "business_type": "Produk dan Layanan Energi Bersih",
+      "total_assets": 101852551667,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Semolis Teknologi Indonesia",
+      "business_type": "Sewa Kendaraan Listrik",
+      "total_assets": 58261396278,
+      "ownership_percentage": 99.7
+    },
+    {
+      "name": "PT Dmmx Dektos Inti",
+      "business_type": "Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi",
+      "total_assets": 36551417491,
+      "ownership_percentage": 46
+    },
+    {
+      "name": "PT Dmmx Distribusi Pentabenua",
+      "business_type": "E-commerce dan Platform Digital",
+      "total_assets": 35039219781,
+      "ownership_percentage": 80
+    },
+    {
+      "name": "PT Omega Kreasi Bersama",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 26319561012,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "Nfcx Media Teknologi",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 24732696045,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "PT Inova Duapuluh Duapuluh",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 19838985756,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Satu Buat Negeri",
+      "business_type": "Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi",
+      "total_assets": 15815220770,
+      "ownership_percentage": 66.67
+    },
+    {
+      "name": "PT Nusantara Xchange Indonesia",
+      "business_type": "Perdagangan, Pembangunan, Jasa, Pertanian, Transportasi, Angkutan Darat, Perbengkelan dan Percetakan",
+      "total_assets": 10000000000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Internet Omega Teknologi",
+      "business_type": "Perdagangan, Pembangunan, Jasa, Pertanian, Transportasi, Angkutan Darat, Perbengkelan dan Percetakan",
+      "total_assets": 7960540049,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Dmmx Media Maxima",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 5381750000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Semolis Gemilang Persada",
+      "business_type": "Sewa Motor Listrik",
+      "total_assets": 4000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Semolis Inti Persada",
+      "business_type": "Sewa Motor Listrik",
+      "total_assets": 4000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Semolis Maju Bersama",
+      "business_type": "Sewa Motor Listrik",
+      "total_assets": 4000000000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dmmx Gamindo Global",
+      "business_type": "Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi",
+      "total_assets": 2804463684,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Nusantara Semesta Mandiri",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 1657320770,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Bumilangit Digital Mediatama",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 1435543014,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Dmmx Vizion Teknologi",
+      "business_type": "Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi",
+      "total_assets": 999575000,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Dmmx Sentral Imaji",
+      "business_type": "Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi/ Telecommunications, Computer Programming And Information Technology",
+      "total_assets": 714915393,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Wicaksana Anugerah Nusantara",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 510000000,
+      "ownership_percentage": 75
+    },
+    {
+      "name": "PT Dmmx Smartritel Teknologi",
+      "business_type": "Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi",
+      "total_assets": 507580000,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Dmmx Grosir Digital",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 499361265,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Edukasi Atlit Internet Digital",
+      "business_type": "Mice, Promotor dan Platform Digital",
+      "total_assets": 378625130,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Surya Mediatama Maxima",
+      "business_type": "Perdagangan, Telekomunikasi, Pemrograman Komputer dan Teknologi Informasi",
+      "total_assets": 201070000,
+      "ownership_percentage": 55
+    },
+    {
+      "name": "PT Nusantara Inti Karunia",
+      "business_type": "Perdagangan, Telekomunikasi dan Teknologi",
+      "total_assets": 19559365,
+      "ownership_percentage": 90
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kap Mirawati Sensi Idris"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.200.001.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:09.909Z"
+}

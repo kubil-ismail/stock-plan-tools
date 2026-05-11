@@ -1,0 +1,377 @@
+{
+  "company_name": "Fks Multi Agro Tbk",
+  "ticker": "FISH",
+  "office_address": "Menara Astra, Lantai 28, Jl. Jend. Sudirman Kav. 5-6 Kel. Karet Tengsin Kec. Tanah Abang, Jakarta Pusat 10220",
+  "email": "corporate.secretary@fksmultiagro.co.id",
+  "phone": "021 5088 9889",
+  "fax": "021 5088 9890",
+  "tax_id": "01.571.740.8-054.000",
+  "website": "https://www.fksmultiagro.com",
+  "listing_date": "2002-01-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Wholesale (Durable and Nondurable Goods)",
+    "business_summary": "Perusahaan bergerak di bidang Agribisnis, Teknologi, Logistik, Makanan & Minuman.",
+    "business_tags": [
+      "Agribisnis",
+      "Teknologi",
+      "Logistik",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "perkebunan",
+      "agriculture",
+      "plantation",
+      "agribusiness",
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Lucy Tjahjadi",
+    "email": "corporate.secretary@fksmultiagro.co.id",
+    "phone": "021 5088 9889"
+  },
+  "directors": [
+    {
+      "name": "Liauw Sioe Lian",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Bong Welly Swandana",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lucy Tjahjadi",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ferdinand Sutanto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tjung Hen Sen",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Lenny Yohanda Kartadinata",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Herwan Ng",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Marsetio",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "V. Suhartono Suratman",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Herwan Ng",
+      "position": "Ketua"
+    },
+    {
+      "name": "Ito Sumardi Djuni Sanyoto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Marsetio",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Fks Corporindo Indonesia (d/h PT Era Investama Cemerlang)",
+      "type": "Lebih dari 5%",
+      "shares": 3794861000,
+      "percentage": 79.06
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 505739000,
+      "percentage": 10.54
+    },
+    {
+      "name": "PT Caturkartika Perdana",
+      "type": "Lebih dari 5%",
+      "shares": 499400000,
+      "percentage": 10.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ferdinand Sutanto",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lucy Tjahjadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Liauw Sioe Lian",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Lenny Yohanda Kartadinata",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Bong Welly Swandana",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tjung Hen Sen",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "V. Suhartono Suratman",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Marsetio",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Herwan Ng",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sentral Grain Terminal",
+      "business_type": "Logistik Pergudangan",
+      "total_assets": 49678572,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Prima Logistik",
+      "business_type": "Logistik Pergudangan",
+      "total_assets": 26276463,
+      "ownership_percentage": 65
+    },
+    {
+      "name": "PT Fks Solusi Logistik",
+      "business_type": "Jasa Konsultasi dan Manajemen",
+      "total_assets": 23957148,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fks Pangan Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 21454352,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fks Trukindo Utama",
+      "business_type": "Jasa Logistik",
+      "total_assets": 8194176,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Terminal Bangsa Mandiri",
+      "business_type": "Pembangunan dan Pengelolaan Zona Industri",
+      "total_assets": 8016679,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Karya Nusa Logistika",
+      "business_type": "Jasa Logistik",
+      "total_assets": 3293624,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Prima Teknologi Inovatif",
+      "business_type": "Pemograman",
+      "total_assets": 2325188,
+      "ownership_percentage": 64.99
+    },
+    {
+      "name": "PT Padi Raya Sejahtera",
+      "business_type": "Perdagangan",
+      "total_assets": 2299726,
+      "ownership_percentage": 81.25
+    },
+    {
+      "name": "PT Sentral Gudang Terminal",
+      "business_type": "Logistik Pergudangan",
+      "total_assets": 2174808,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fks Pangan Segar",
+      "business_type": "Perdagangan",
+      "total_assets": 1623196,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Perusahaan Bongkar Muat Wahana Intradermaga Niaga",
+      "business_type": "Bongkar Muat",
+      "total_assets": 1186750,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Perusahaan Bongkar Muat Wahana Intradermaga Niaga Medan",
+      "business_type": "Bongkar Muat",
+      "total_assets": 921306,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Perusahaan Bongkar Muat Wahana Intradermaga Niaga Makassar",
+      "business_type": "Bongkar Muat",
+      "total_assets": 696689,
+      "ownership_percentage": 99.46
+    },
+    {
+      "name": "PT Pbm Win Surabaya",
+      "business_type": "Bongkar Muat",
+      "total_assets": 595904,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Perusahaan Bongkar Muat Wahana Intra Dermaga Niaga Tapin",
+      "business_type": "Bongkar Muat",
+      "total_assets": 306610,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Solusi Alam Nusantara",
+      "business_type": "Industri dan Jasa",
+      "total_assets": 179856,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Fks Mart Nusantara",
+      "business_type": "Perdagangan",
+      "total_assets": 149880,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Fks Nikmat Nusantara",
+      "business_type": "Industri dan Perdagangan",
+      "total_assets": 127351,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Perusahaan Bongkar Muat Wahana Intradermaga Niaga Lampung",
+      "business_type": "Bongkar Muat",
+      "total_assets": 103934,
+      "ownership_percentage": 99.54
+    },
+    {
+      "name": "PT Fks Alam Nusantara",
+      "business_type": "Perdagangan dan Jasa",
+      "total_assets": 29976,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "3.960.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:27.960Z"
+}

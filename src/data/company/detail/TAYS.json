@@ -1,0 +1,186 @@
+{
+  "company_name": "PT Jaya Swarasa Agung Tbk",
+  "ticker": "TAYS",
+  "office_address": "Jalan Parung Panjang No. 68, Kp. Bungaok Rt001/rw003 Desa Kemuning, Kecamatan Legok, Kabupaten Tangerang, Banten",
+  "email": "corsec@taysbakers.com",
+  "phone": "021-5470205",
+  "fax": "",
+  "tax_id": "01.849.789.1-451.001",
+  "website": "https://www.taysbakers.com",
+  "listing_date": "2021-12-06",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri Makanan Ringan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Dinna Afrianti",
+    "email": "corsec@taysbakers.com",
+    "phone": "021 5470205"
+  },
+  "directors": [
+    {
+      "name": "",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Djoni Tatan",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rianto Abimail",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rudy Dharma",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 404960000,
+      "percentage": 36.86
+    },
+    {
+      "name": "Anwar Tay",
+      "type": "Komisaris",
+      "shares": 369820000,
+      "percentage": 33.65
+    },
+    {
+      "name": "Mixio Holdings Incorporated",
+      "type": "Lebih dari 5%",
+      "shares": 164700000,
+      "percentage": 14.99
+    },
+    {
+      "name": "Alexander Anwar",
+      "type": "Direksi",
+      "shares": 79800000,
+      "percentage": 7.26
+    },
+    {
+      "name": "Susanto",
+      "type": "Lebih dari 5%",
+      "shares": 59700000,
+      "percentage": 5.43
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 19940000,
+      "percentage": 1.81
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    },
+    {
+      "name": "Kap Anwar & Rekan"
+    },
+    {
+      "name": "Anwar & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "70.330.880.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:56:09.825Z"
+}

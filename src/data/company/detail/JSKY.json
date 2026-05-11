@@ -1,0 +1,222 @@
+{
+  "company_name": "PT Sky Energy Indonesia Tbk.",
+  "ticker": "JSKY",
+  "office_address": "Graha Mas Fatmawati B10, Jln. Rs Fatmawati No. 71 Rt/rw 002/005 Kel. Cipete Utara Kec. Kebayoran Baru Jakarta Selatan",
+  "email": "corporate@sky-energy.co.id",
+  "phone": "(021) 7262081",
+  "fax": "(021) 7223140",
+  "tax_id": "02.846.089.7-019.000",
+  "website": "https://www.sky-energy.co.id",
+  "listing_date": "2018-03-28",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Industri mesin pembangkit listrik",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 8,
+    "name": "Energi Alternatif",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 40,
+    "name": "Peralatan Energi Alternatif"
+  },
+  "sub_industry": {
+    "id": 62,
+    "name": "Peralatan Energi Alternatif",
+    "industries_id": 40
+  },
+  "corporate_secretary": {
+    "name": "Yusuf Woro Widhi Firmanto",
+    "email": "corsec.legal@sky-energy.co.id",
+    "phone": "(021) 8665 0100"
+  },
+  "directors": [
+    {
+      "name": "Jung Fan",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Hideki Iida",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Naoki Ishikawa",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hantoro",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Buhanudin Amin",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Henry Gamra Rachmat",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yenny Goei",
+      "position": "Anggota"
+    },
+    {
+      "name": "Astria Dewi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat",
+      "type": "Kurang dari 5%",
+      "shares": 1320558260,
+      "percentage": 64.98
+    },
+    {
+      "name": "Kejaksaan Agung",
+      "type": "Lebih dari 5%",
+      "shares": 416700233,
+      "percentage": 20.5
+    },
+    {
+      "name": "PT Mirae Asset Sekuritas Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 203352927,
+      "percentage": 10
+    },
+    {
+      "name": "PT Trinitan Global Pasifik",
+      "type": "Kurang dari 5%",
+      "shares": 91928580,
+      "percentage": 4.52
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jung Fan",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hideki Iida",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Naoki Ishikawa",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hantoro",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Burhanudin Amin",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Space Energy Indonesia",
+      "business_type": "Bidang Perdagangan, Jasa, Pembangunan, Industry dan Pertambangan",
+      "total_assets": 3,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Jamaludin, Ardi, Sukimto & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "105.692.080.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:27.148Z"
+}

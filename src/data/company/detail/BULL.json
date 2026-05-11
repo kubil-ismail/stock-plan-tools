@@ -1,0 +1,1770 @@
+{
+  "company_name": "PT Buana Lintas Lautan Tbk.",
+  "ticker": "BULL",
+  "office_address": "Jalan Mega Kuningan Timur Blok C.6 Kav.12a Kawasan Mega Kuningan Jakarta Selatan 12950",
+  "email": "investor@bull.co.id",
+  "phone": "6221 - 30485700",
+  "fax": "6221 - 30485701",
+  "tax_id": "02.466.873.3-081.000",
+  "website": "https://www.bull.co.id",
+  "listing_date": "2011-05-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Jasa perkapalan, Pelayaran dan pengangkutan, Penyediaan awak kapal laut, floating storage",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Logistik.",
+    "business_tags": [
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Krisnanto Tedjaprawira",
+    "email": "investor@bull.co.id",
+    "phone": "6221 - 30485700"
+  },
+  "directors": [
+    {
+      "name": "Henry Jusuf",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Vicky Ganda Saputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Wong Kevin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Santoso Salim",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Halim Jusuf",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "M. Harry Santoso",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Andi Aviandha Triadna Jakile",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Achmad Widjaja",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Ferita Lie",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "M. Harry Santoso",
+      "position": "Ketua"
+    },
+    {
+      "name": "Dian Natha",
+      "position": "Anggota"
+    },
+    {
+      "name": "Erma Puji Kurnianti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 11495115457,
+      "percentage": 74.188
+    },
+    {
+      "name": "PT Delta Royal Sejahteradelta Royal Sejahtera0.000.000",
+      "type": "Lebih dari 5%",
+      "shares": 2251898042,
+      "percentage": 14.534
+    },
+    {
+      "name": "Fortune Street Limited",
+      "type": "Lebih dari 5%",
+      "shares": 1408585144,
+      "percentage": 9.091
+    },
+    {
+      "name": "Wong Kevin",
+      "type": "Direksi",
+      "shares": 338837950,
+      "percentage": 2.187
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Mahameru Nusa Mentari",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 150769929,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gemilang Bina Lintas Tirta",
+      "business_type": "Jasa Pengelola Kapal",
+      "total_assets": 127101631,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahameru Nusa Mentari",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 117023081,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahameru Nusa Mentari",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 114080285,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahameru Nusa Mentari",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 108280152,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahameru Nusa Mentari",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 107366647,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mahameru Nusa Mentari",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 107366647,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pearl Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 84580508,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Bhakti Jayaraya",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 68771411,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Bhakti Jayaraya",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 64169718,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Bhakti Jayaraya",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 60797006,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Bhakti Jayaraya",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 59076103,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Bhakti Jayaraya",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 58632059,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Nusa Bhakti Jayaraya",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 58632059,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Shipping Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 51508119,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Shipping Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 51508119,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Shipping Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 51508117,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Shipping Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 51508117,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Shipping Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 51508117,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thundercat Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 51445833,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thundercat Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 50666343,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emerald Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 45782767,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sapphire Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 45488184,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sembrani Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 41066491,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sapphire Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 38256968,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sapphire Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 38256968,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thundercat Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 37122643,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sapphire Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 34854971,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citrine Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 34759797,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citrine Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 33897095,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citrine Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 33897095,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pearl Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 31739600,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pearl Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 31739600,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pearl Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 31032294,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citrine Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 30530689,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pearl Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 30351239,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Naga Sinar Maritim",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 26860175,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Swordfish Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 24861510,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sapphire Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 24775633,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citrine Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 22740795,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sapphire Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 21276810,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citrine Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 21045848,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Naga Sinar Maritim",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 20031597,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pearl Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 19714885,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Swordfish Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 18131935,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ruby Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 18109577,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Naga Sinar Maritim",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 18075570,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Naga Sinar Maritim",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 18075570,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Naga Sinar Maritim",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 17358322,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Swordfish Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 17317849,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emerald Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 16284090,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emerald Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 16190692,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emerald Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 15680073,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Naga Sinar Maritim",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 15641700,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gemilang Bina Lintas Tirta",
+      "business_type": "Jasa Pengelola Kapal",
+      "total_assets": 14997261,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emerald Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 14892547,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Emerald Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 14892547,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gemilang Bina Lintas Tirta",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 14542054,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Onyx Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 14488985,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Onyx Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 14485849,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Onyx Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 14485763,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Onyx Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 14485631,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Onyx Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 14485631,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Swordfish Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 13524102,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Swordfish Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 13524102,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gemilang Bina Lintas Tirta",
+      "business_type": "Jasa Pengelola Kapal",
+      "total_assets": 13216695,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gemilang Bina Lintas Tirta",
+      "business_type": "Jasa Pengelola Kapal",
+      "total_assets": 13216695,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Diamondback Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 12092279,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Diamondback Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 12083359,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Diamondback Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 12082537,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Diamondback Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 12082537,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Onyx Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 12078763,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Diamondback Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 11597608,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Diamondback Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 11116591,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thundercat Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 11064619,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thundercat Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 11064619,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thundercat Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 10579959,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Gemilang Bina Lintas Tirta",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 8920381,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sembrani Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 8244350,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sembrani Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 8005957,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Banyu Laju Shipping",
+      "business_type": "Tidak Aktif",
+      "total_assets": 7483403,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Banyu Laju Shipping",
+      "business_type": "Tidak Aktif",
+      "total_assets": 7438171,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "Sembrani Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 7425485,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sembrani Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 7400526,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sembrani Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 7400526,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Banyu Laju Shipping",
+      "business_type": "Tidak Aktif",
+      "total_assets": 7167248,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Banyu Laju Shipping",
+      "business_type": "Tidak Aktif",
+      "total_assets": 7167248,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Banyu Laju Shipping",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 7074920,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "Hammerhead Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 6422012,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Lionheart Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 5709715,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Lionheart Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 5707491,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Lionheart Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 5706896,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Lionheart Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 5706896,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Lionheart Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 5609387,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Diamond Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 5345329,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Holding Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 4765678,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gundala Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 4022564,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gundala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 4013844,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gundala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3970558,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gundala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3970558,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gundala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3970558,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gundala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3963731,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moondragon Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3591510,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moondragon Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3589392,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moondragon Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3589286,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moondragon Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3588690,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moondragon Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 3588690,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Berlian Dumai Logistics",
+      "business_type": "Jasa Keagenan",
+      "total_assets": 2678272,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Topaz Maritime",
+      "business_type": "Jasa Perekrutan Awak Kapal",
+      "total_assets": 2649681,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Topaz Maritime",
+      "business_type": "Jasa Perekrutan Awak Kapal",
+      "total_assets": 2649681,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Capital Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 2418044,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Capital Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 2418044,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Capital Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 2418044,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Banyu Laju Shipping",
+      "business_type": "Tidak Aktif",
+      "total_assets": 2407528,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "PT Anjasmoro Maritime",
+      "business_type": "Investasi",
+      "total_assets": 2387163,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anjasmoro Maritime",
+      "business_type": "Investasi",
+      "total_assets": 2385080,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anjasmoro Maritime",
+      "business_type": "Investasi",
+      "total_assets": 2385005,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anjasmoro Maritime",
+      "business_type": "Investasi",
+      "total_assets": 2384903,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anjasmoro Maritime",
+      "business_type": "Investasi",
+      "total_assets": 2384903,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Capital Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 2263201,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Capital Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 2263201,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Garuda Unggul Nasional",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 2172764,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Topaz Maritime",
+      "business_type": "Jasa Perekrutan Awak Kapal",
+      "total_assets": 2167544,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Garuda Unggul Nasional",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 2081834,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Garuda Unggul Nasional",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 2081834,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ruby Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 2028042,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Topaz Maritime",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 2015986,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ruby Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 1993936,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ruby Maritime",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 1987803,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Topaz Maritime",
+      "business_type": "Jasa Perekrutan Awak Kapal",
+      "total_assets": 1947636,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ruby Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1896200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ruby Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1896200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Berlian Dumai Logistics",
+      "business_type": "Jasa Pengurusan Transportasi",
+      "total_assets": 1647929,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Topaz Maritime",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 1617535,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Garuda Unggul Nasional",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 1598833,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Lestari Tanaya",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1300741,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Lestari Tanaya",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1300741,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Lestari Tanaya",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1295439,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Lestari Tanaya",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1287480,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Lestari Tanaya",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1277769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Garuda Unggul Nasional",
+      "business_type": "Jasa Keagenan Perkapalan",
+      "total_assets": 1113956,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Lestari Tanaya",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1006735,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Berlian Dumai Logistics",
+      "business_type": "Jasa Keagenan",
+      "total_assets": 911326,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Hammerhead Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 910026,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Hammerhead Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 910026,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Hammerhead Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 909531,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Hammerhead Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 906111,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Hammerhead Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 904538,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Berlian Dumai Logistics",
+      "business_type": "Jasa Pengurusan Transportasi",
+      "total_assets": 897617,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Berlian Dumai Logistics",
+      "business_type": "Jasa Pengurusan Transportasi",
+      "total_assets": 874894,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Berlian Dumai Logistics",
+      "business_type": "Jasa Pengurusan Transportasi",
+      "total_assets": 874894,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Garuda Unggul Nasional",
+      "business_type": "Tidak Aktif",
+      "total_assets": 782120,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Diamond Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 707845,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Diamond Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 697685,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Diamond Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 697610,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Diamond Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 697610,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Diamond Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 697551,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kapten Caroq Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 604952,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kapten Caroq Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 570168,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kapten Caroq Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 562337,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Lionheart Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 283627,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tml Chartering Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 232523,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Tml Chartering Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 232523,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thunderbolt Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 140768,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thunderbolt Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 120875,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thunderbolt Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 120875,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thunderbolt Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 120719,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thunderbolt Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 120419,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blt Shipping Corporation",
+      "business_type": "Tidak Aktif",
+      "total_assets": 114493,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blt Shipping Corporation",
+      "business_type": "Tidak Aktif",
+      "total_assets": 114493,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blt Shipping Corporation",
+      "business_type": "Tidak Aktif",
+      "total_assets": 114493,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blt Shipping Corporation",
+      "business_type": "Tidak Aktif",
+      "total_assets": 114493,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blt Shipping Corporation",
+      "business_type": "Investasi",
+      "total_assets": 114493,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blt Shipping Corporation",
+      "business_type": "Tidak Aktif",
+      "total_assets": 114493,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thunderbolt Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 108685,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kapten Caroq Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 57096,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kapten Caroq Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 57096,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Kapten Caroq Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 57096,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aquanus Maritime Pte Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 46047,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bull Lautan Line",
+      "business_type": "Tidak Aktif",
+      "total_assets": 34734,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Nightcrawler Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 29614,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Moondragon Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 28333,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bull Lautan Line",
+      "business_type": "Tidak Aktif",
+      "total_assets": 26822,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Timberwolf Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 26303,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Timberwolf Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 23987,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Timberwolf Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 23548,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Timberwolf Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 23248,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Timberwolf Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 23232,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Timberwolf Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 23232,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Maza Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 22854,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Lautan Line",
+      "business_type": "Tidak Aktif",
+      "total_assets": 22244,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Maza Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 21970,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Maza Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 21970,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Maza Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 21970,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Maza Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 21970,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Maza Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 21970,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ravenclaw Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 21818,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Lautan Line",
+      "business_type": "Tidak Aktif",
+      "total_assets": 21461,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Anjasmoro Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 20043,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime International Services",
+      "business_type": "Tidak Aktif",
+      "total_assets": 17843,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime International Services",
+      "business_type": "Tidak Aktif",
+      "total_assets": 17843,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime International Services",
+      "business_type": "Tidak Aktif",
+      "total_assets": 8122,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime International Services",
+      "business_type": "Tidak Aktif",
+      "total_assets": 7873,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime International Services",
+      "business_type": "Tidak Aktif",
+      "total_assets": 2723,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ravenclaw Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1794,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ravenclaw Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1737,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ravenclaw Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1737,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ravenclaw Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1699,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Ravenclaw Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 1584,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mandala Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 1500,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Capital Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1030,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Inc Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 1022,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Nightcrawler Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 982,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Nightcrawler Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 982,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Nightcrawler Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 982,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Nightcrawler Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 982,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Nightcrawler Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 982,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mandala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 900,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mandala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 701,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Godam Maritime Ltd",
+      "business_type": "Pengoperasian & Pemilikan Kapal",
+      "total_assets": 684,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mandala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 600,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mandala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 600,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mandala Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 600,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Godam Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 83,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Swordfish Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 60,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Shipping Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 26,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aquanus Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aquanus Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aquanus Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aquanus Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Aquanus Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Holding Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Holding Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Holding Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull International Maritime Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Inc Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Inc Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Inc Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Inc Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Bull Maritime Inc Pte Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Godam Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Godam Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Godam Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Godam Maritime Ltd",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Blt International Group",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Blt International Group",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Blt International Group",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Lautan Line",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Buana Lautan Line",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bull Pelayaran Internasional",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bull Pelayaran Internasional",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bull Pelayaran International",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jade Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jade Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jade Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jade Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jade Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Jade Maritime",
+      "business_type": "Tidak Aktif",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "7.902.162.662.430",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:41:34.745Z"
+}

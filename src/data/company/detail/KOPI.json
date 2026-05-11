@@ -1,0 +1,229 @@
+{
+  "company_name": "PT Mitra Energi Persada Tbk",
+  "ticker": "KOPI",
+  "office_address": "Kindo Square C 12 Jalan Duren Tiga No. 101 Rt 007 Rw 006 Duren Tiga, Pancoran, Jakarta Selatan, Dki Jakarta 12760",
+  "email": "corporate.secretary@mitraenergipersada.com",
+  "phone": "(021) 5066 1010",
+  "fax": "-",
+  "tax_id": "01.364.527.0-054.000",
+  "website": "http://new.mitraenergipersada.com",
+  "listing_date": "2015-05-04",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Energi dan jasa serta penjualan gas bumi melalui anak perusahaan",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 29,
+    "name": "Minyak & Gas"
+  },
+  "sub_industry": {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  "corporate_secretary": {
+    "name": "Farida Rahma Vita",
+    "email": "corporate.secretary@mitraenergipersada.com",
+    "phone": "(021) 5066 1010"
+  },
+  "directors": [
+    {
+      "name": "Said August Putra",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Husni Heron",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bambang Hermiyanto Priyadi",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Akira Tsuji",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ir. Bambang Hermiyanto Priyadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Sonny Cahyadi, S.e.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Denaya Ajeng Puspitasari, S.e.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Mulya Tara Mandiri",
+      "type": "Lebih dari 5%",
+      "shares": 508001397,
+      "percentage": 72.86
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 76256377,
+      "percentage": 10.94
+    },
+    {
+      "name": "Shizuoka Gas Co.,ltd.",
+      "type": "Lebih dari 5%",
+      "shares": 52295001,
+      "percentage": 7.5
+    },
+    {
+      "name": "Global Perkasa Investindo, PT",
+      "type": "Lebih dari 5%",
+      "shares": 49031800,
+      "percentage": 7.03
+    },
+    {
+      "name": "Said August Putra",
+      "type": "Direksi",
+      "shares": 10209500,
+      "percentage": 1.46
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 1472593,
+      "percentage": 0.21
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT. Mitra Energi Buana",
+      "business_type": "Niaga Gas Bumi dan Pembangunan Pembangkit Tenaga Ata Power Plant",
+      "total_assets": 263269506503,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT. Mitra Energi Buana",
+      "business_type": "Niaga Gas Bumi dan Pembangunan Pembangkit Tenaga Ata Power Plant",
+      "total_assets": 250759226869,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT. Mitra Energi Buana",
+      "business_type": "Niaga Gas Bumi dan Pembangunan Pembangkit Tenaga Ata Power Plant",
+      "total_assets": 249383237961,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT. Mitra Energi Buana",
+      "business_type": "Niaga Gas Bumi dan Pembangunan Pembangkit Tenaga Ata Power Plant",
+      "total_assets": 239731123411,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT. Mitra Energi Buana",
+      "business_type": "Niaga Gas Bumi dan Pembangunan Pembangkit Tenaga Ata Power Plant",
+      "total_assets": 236336525719,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT. Mitra Energi Buana",
+      "business_type": "Niaga Gas Bumi dan Pembangunan Pembangkit Tenaga Ata Power Plant",
+      "total_assets": 161261,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT. Mitra Energi Buana",
+      "business_type": "Niaga Gas Bumi dan Pembangunan Pembangkit Tenaga Ata Power Plant",
+      "total_assets": 161261,
+      "ownership_percentage": 99.5
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": "Soejatna, Mulyana & Rekan"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "170.133.066.992",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:48:14.989Z"
+}

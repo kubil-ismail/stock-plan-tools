@@ -1,0 +1,296 @@
+{
+  "company_name": "PT Uni-charm Indonesia Tbk.",
+  "ticker": "UCID",
+  "office_address": "Sinar Mas Land Plaza Sudirman Lt. 42, Jl. Jend. Sudirman Kav. 21 Karet, Setiabudi, Jakarta Selatan 12920",
+  "email": "corporate-secretary@unicharm.co.id",
+  "phone": "+62 21 2918 9191",
+  "fax": "+62 21 2918 9199",
+  "tax_id": "0018243246052000",
+  "website": "https://www.unicharm.co.id",
+  "listing_date": "2019-12-20",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Produsen Popok Bayi, Pembalut Wanita, Popok Dewasa dan Tisu Basah",
+    "business_summary": "Perusahaan bergerak di bidang Manufaktur.",
+    "business_tags": [
+      "Manufaktur"
+    ],
+    "business_keywords": [
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 29,
+    "name": "Produk Rumah Tangga Tidak Tahan Lama",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 53,
+    "name": "Produk Perawatan Tubuh"
+  },
+  "sub_industry": {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  "corporate_secretary": {
+    "name": "Lusia Alfa Nainggolan",
+    "email": "corporate-secretary@unicharm.co.id",
+    "phone": "+62 21 2918 9191"
+  },
+  "directors": [
+    {
+      "name": "Yasutaka Nishioka",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Eiji Ito",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kohei Yoshida",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kurniawan Yuwono",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Takashi Kan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Yoshiyuki Iwase",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hendra Jaya Kosasih",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Suryamin Halim",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Ubaidillah Nugraha",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Suryamin Halim",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yukifri Nazir",
+      "position": "Anggota"
+    },
+    {
+      "name": "Cota Saito",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Unicharm Corporation Jepang",
+      "type": "Lebih dari 5%",
+      "shares": 2460690846,
+      "percentage": 59.2
+    },
+    {
+      "name": "PT App Purinusa Ekapersada",
+      "type": "Lebih dari 5%",
+      "shares": 864567054,
+      "percentage": 20.8
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 831314400,
+      "percentage": 20
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Takashi Kan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yoshiyuki Iwase",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Hendra Jaya Kosasih",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ubaidillah Nugraha",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Suryamin Halim",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yasutaka Nishioka",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kohei Yoshida",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Eiji Ito",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Kurniawan Yuwono",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Unicharm Trading Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 3821574,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Unicharm Nonwoven Indonesia",
+      "business_type": "Manufaktur Non-woven dan Kertas Tisu",
+      "total_assets": 367400,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanudiredja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    },
+    {
+      "name": "Kap Siddharta Widjaja & Rekan"
+    },
+    {
+      "name": "Tanuderedja, Wibisana, Rintis & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.670.942.064.600",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:57:20.119Z"
+}

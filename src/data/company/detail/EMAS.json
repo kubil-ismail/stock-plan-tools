@@ -1,0 +1,248 @@
+{
+  "company_name": "PT Merdeka Gold Resources Tbk",
+  "ticker": "EMAS",
+  "office_address": "Treasury Tower Lantai 67, District 8, SCBD Lot. 28 Jl. Jend. Sudirman Kav. 52-53, Senayan, Kebayoran Baru Jakarta Selatan 12190, Indonesia",
+  "email": "corsec@merdekagoldresources.com",
+  "phone": "(021) 39525585",
+  "fax": "(021) 39525588",
+  "tax_id": "0753 4691 4701 6000",
+  "website": "https://www.merdekagoldresources.com",
+  "listing_date": "2025-09-23",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Perusahaan induk atas grup usaha yang bergerak di bidang pertambangan emas dan mineral pengikutnya, pengolahan dan kegiatan usaha terkait lainnya yang terintegrasi secara vertikal",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Konstruksi.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Konstruksi"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 21,
+    "name": "Logam & Mineral"
+  },
+  "sub_industry": {
+    "id": 18,
+    "name": "Emas",
+    "industries_id": 21
+  },
+  "corporate_secretary": {
+    "name": "Adi Adriansyah Sjoekri",
+    "email": "corsec@merdekagoldresources.com",
+    "phone": "(021) 39525585"
+  },
+  "directors": [
+    {
+      "name": "Boyke Poerbaya Abidin",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Nicholas John Green",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Barend Johannes Nicolaas Knoetze",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Suryadinata Tanu",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Santoso Kartono",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Winato Kartono",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Xinyu Wang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Heri Sunaryadi",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Yu Gao",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jona Widhagdo Putri",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "John Mackay Mcculloch Williamson",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Heri Sunaryadi",
+      "position": "Ketua"
+    },
+    {
+      "name": "Aria Kanaka",
+      "position": "Anggota"
+    },
+    {
+      "name": "Atik Wijaksono Susanto",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Merdeka Copper Gold Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 9329376465,
+      "percentage": 63.33
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5143925535,
+      "percentage": 34.918
+    },
+    {
+      "name": "Santoso Kartono",
+      "type": "Komisaris",
+      "shares": 185041495,
+      "percentage": 1.256
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 73022565,
+      "percentage": 0.496
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Pani Bersama Tambang",
+      "business_type": "Industri Pembuatan Logam Dasar Mulia",
+      "total_assets": 276985736,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Gorontalo Sejahtera Mining",
+      "business_type": "Pertambangan Mineral",
+      "total_assets": 247301973,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Merdeka Mining Indonesia",
+      "business_type": "Aktivitas Penunjang Pertambangan dan Penggalian Lainnya, Aktivitas Penyewaan Alat Kontruksi dengan Operator, dan Aktivitas Penyewaan dan Sewa Guna Tanpa Hak Opsi Mesin Pertambangan dan Energi Serta Peralatannya",
+      "total_assets": 56647554,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mentari Alam Persada",
+      "business_type": "Perdagangan Besar Atas Dasar Balas Jasa (fee) atau Kontrak, Aktivitas Jasa Penunjang Angkatan Lainnya, Aktivitas Jasa Penunjang Usaha Lainnya, Real Estat yang Dimiliki Sendiri atau Disewa, dan Konstruksi Bangunan Sipil Jalan",
+      "total_assets": 21086198,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Pani Industri Jaya",
+      "business_type": "Kawasan Industri",
+      "total_assets": 155539,
+      "ownership_percentage": 99.96
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    },
+    {
+      "name": "Kap Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "131.477.442.085.500",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:43:56.004Z"
+}

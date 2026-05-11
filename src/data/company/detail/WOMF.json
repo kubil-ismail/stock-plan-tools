@@ -1,0 +1,175 @@
+{
+  "company_name": "PT Wahana Ottomitra Multiartha Tbk",
+  "ticker": "WOMF",
+  "office_address": "Altira Office Tower Lt. 32, 33, 35 Jl. Yos Sudarso Kav.85 Rt.000, Rw. 000, Kelurahan Sunter Jaya, Kecamatan Tanjung Priok, Jakarta Utara 14350",
+  "email": "corporate_secretary@wom.co.id",
+  "phone": "021 2188 2400",
+  "fax": "021 2188 2420",
+  "tax_id": "01.311.910.2-091.000",
+  "website": "https://www.wom.co.id",
+  "listing_date": "2004-12-13",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pembiayaan",
+    "business_summary": "Perusahaan bergerak di bidang Keuangan.",
+    "business_tags": [
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 7,
+    "name": "Keuangan"
+  },
+  "sub_sector": {
+    "id": 14,
+    "name": "Jasa Pembiayaan",
+    "sector_id": 7
+  },
+  "industry": {
+    "id": 33,
+    "name": "Pembiayaan Konsumen"
+  },
+  "sub_industry": {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  "corporate_secretary": {
+    "name": "Cincin Lisa Hadi",
+    "email": "corporate_secretary@wom.co.id",
+    "phone": "622121882400"
+  },
+  "directors": [
+    {
+      "name": "Ir. Paulus Cholot Janala",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Hendrik Progo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Cincin Lisa Hadi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sarastri Baskoro",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Thilagavathy Nadason",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Rallyati Arianto Wibowo, S.e.",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Taufik Aulia",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Steffano Ridwan",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Rallyati Arianto Wibowo, S.e.",
+      "position": "Ketua"
+    },
+    {
+      "name": "Leo Susanto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Arini Imamawati",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Bank Maybank Indonesia Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 2349646729,
+      "percentage": 67.49
+    },
+    {
+      "name": "PT Wahana Makmur Sejati",
+      "type": "Lebih dari 5%",
+      "shares": 870600000,
+      "percentage": 25.01
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 261234751,
+      "percentage": 7.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.037.481.481.040",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:04.006Z"
+}

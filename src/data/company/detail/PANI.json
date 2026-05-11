@@ -1,0 +1,418 @@
+{
+  "company_name": "PT Pantai Indah Kapuk Dua Tbk.",
+  "ticker": "PANI",
+  "office_address": "Office Tower Agung Sedayu Group, Lantai 8 & 10 Unit G Jalan Marina Raya Kelurahan Kamal Muara, Kecamatan Penjaringan Jakarta Utama 14470 Indonesia",
+  "email": "corporate.secretary@agungsedayu.com",
+  "phone": "(62-21) 39734100",
+  "fax": "0",
+  "tax_id": "02.155.064.5-451.000",
+  "website": "https://www.pantaiindahkapukdua.com",
+  "listing_date": "2018-09-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perindustrian, aktivitas perusahaan holding dan konsultasi manajemen",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Christy Grassela",
+    "email": "corporate.secretary@agungsedayu.com",
+    "phone": "(62-21)50525999"
+  },
+  "directors": [
+    {
+      "name": "Sugianto Kusuma",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Alexander Halim Kusuma",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Surya Pranoto Budihardjo",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Gianto Gunara",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yohanes Edmond Budiman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Markus Kusumaputra",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ipeng Widjojo",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Arthur Salim",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Susanto Kusumo",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Steven Kusumo",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Hardjo Subroto Lilik",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Phiong Philipus Darma",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Richard Halim Kusuma",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Djisman Simandjuntak",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Adi Pranoto Leman",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Hardjo Subroto Lilik",
+      "position": "Ketua"
+    },
+    {
+      "name": "Prof. Djisman Simandjuntak",
+      "position": "Anggota"
+    },
+    {
+      "name": "Purba Sibarani Se",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Multi Artha Pratama",
+      "type": "Lebih dari 5%",
+      "shares": 15234037094,
+      "percentage": 84.09
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2882988504,
+      "percentage": 15.91
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bangun Kosambi Sukses",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 15663905040,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Mega Andalan Sukses",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 10214365293,
+      "ownership_percentage": 28.5
+    },
+    {
+      "name": "PT Panorama Eka Tunggal",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 8275071774,
+      "ownership_percentage": 99.92
+    },
+    {
+      "name": "PT Cahaya Inti Sentosa",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 5532411552,
+      "ownership_percentage": 99.33
+    },
+    {
+      "name": "PT Bumindo Mekar Wibawa",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 3774451306,
+      "ownership_percentage": 94.07
+    },
+    {
+      "name": "PT Cahaya Gemilang Indah Cemerlang",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 2663202702,
+      "ownership_percentage": 28.5
+    },
+    {
+      "name": "PT Sharindo Matratama",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 2557924500,
+      "ownership_percentage": 90.91
+    },
+    {
+      "name": "PT Sumber Cipta Utama",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 2372237421,
+      "ownership_percentage": 90.91
+    },
+    {
+      "name": "PT Karunia Utama Selaras",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 2240704218,
+      "ownership_percentage": 99.15
+    },
+    {
+      "name": "PT Jaya Indah Sentosa",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 1749023802,
+      "ownership_percentage": 93.06
+    },
+    {
+      "name": "PT Kemilau Karya Utama",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 1374535996,
+      "ownership_percentage": 90.14
+    },
+    {
+      "name": "PT Cahaya Kencana Indah",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 1188688942,
+      "ownership_percentage": 29.07
+    },
+    {
+      "name": "PT Agung Surya Gemerlap",
+      "business_type": "Real Estate yang Dimiliki Sendiri atau Disewa Mencakup Usaha Pembelian, Penjualan,persewaan dan Pengoperasian Real Estat Baik yang Dimiliki Sendiri Maupun Disewa",
+      "total_assets": 500000,
+      "ownership_percentage": 50.8
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Kap Johan Malonda Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    },
+    {
+      "name": "Johan, Malonda, Mustika & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "153.088.866.303.100",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:47.107Z"
+}

@@ -1,90 +1,264 @@
 import React, { useMemo } from "react";
 import { Building2, Flag, User } from "lucide-react";
+import { ShareholderResponse } from "@/types/stocks";
+import Link from "next/link";
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
+
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "@/components/ui/popover";
+
+const ROLE_LABEL: Record<string, string> = {
+  SH: "Shareholder",
+  DIR: "Director",
+  COM: "Commissioner",
+};
 
 interface Props {
-  item: {
-    shareholder_name: string;
-    total_companies: string;
-    avg_percentage_owned: string;
-    companies: {
-      id: number;
-      name: string;
-      type: string;
-      ticker: string;
-      percentage: number;
-    }[];
-  };
+  item: ShareholderResponse;
 }
 
 export default function ShareholderGrid(props: Props) {
   const { item } = props;
 
+  const sortedCompanies = useMemo(() => {
+    return [...item.companies].sort(
+      (a, b) =>
+        (b.shareholder?.percentage ?? 0) - (a.shareholder?.percentage ?? 0)
+    );
+  }, [item.companies]);
+
   return (
     <div className="w-full relative col-span-3 md:col-span-1">
       <div className="bg-white/60 border border-white/30 shadow-sm rounded-3xl p-5 md:p-8 transition">
         {/* HEADER */}
-
-        <div className="flex items-center justify-between mb-4">
-          <ShareholderTitle name={item.shareholder_name} />
+        <div className="flex gap-4 mb-6">
+          <ShareholderTitle name={item.name} category={item.category} />
         </div>
 
         {/* SUMMARY */}
-        <div className="grid grid-cols-2 gap-4 mb-8">
-          <div className="bg-white/50 border border-white/40 rounded-2xl p-5 shadow-sm">
-            <p className="text-2xl font-bold text-gray-900">
-              {item.total_companies}
-            </p>
+        <div className="grid grid-cols-2 gap-3 mb-6">
+          <SummaryCard label="Total Perusahaan" value={item.total_company} />
 
-            <p className="text-xs text-gray-500 mt-1">Total Holdings</p>
-          </div>
+          <SummaryCard
+            label="Pemegang Saham"
+            value={item.summary.shareholder}
+          />
 
-          <div className="bg-orange-100/50 border border-orange-200/40 rounded-2xl p-4 shadow-sm">
-            <p className="text-2xl font-bold text-orange-600">
-              {item.avg_percentage_owned}%
-            </p>
+          <SummaryCard label="Direktur" value={item.summary.director} />
 
-            <p className="text-xs text-gray-500 mt-1">Total Ownership</p>
-          </div>
+          <SummaryCard label="Komisaris" value={item.summary.commissioner} />
         </div>
 
-        {/* HOLDINGS */}
-        <div className="grid grid-cols-3 text-sm font-semibold text-gray-500 pb-3 tracking-wide">
-          <p>Kode</p>
-          <p className="text-center">Persentase</p>
-          <p className="text-right pr-5">Tipe</p>
+        {/* TABLE HEADER */}
+        <div className="grid grid-cols-12 gap-2 text-[10px] font-semibold text-gray-400 uppercase tracking-wide px-1 pb-2">
+          <p className="col-span-6">Perusahaan</p>
+
+          <p className="col-span-3">Posisi</p>
+
+          <p className="col-span-3 text-center">Detail</p>
         </div>
 
-        <div className="space-y-4 max-h-[400px] md:max-h-[210px] md:h-[210px] overflow-auto [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:bg-gray-100 [&::-webkit-scrollbar-thumb]:bg-gray-300 dark:[&::-webkit-scrollbar-track]:bg-neutral-700 dark:[&::-webkit-scrollbar-thumb]:bg-neutral-500">
-          {item.companies
-            .sort((prev, next) => next.percentage - prev.percentage)
-            .map((_item, index) => (
-              <a
+        {/* LIST */}
+        <div className="space-y-2 max-h-[320px] overflow-auto pr-1">
+          {sortedCompanies.map((company, index) => {
+            const detail = company.shareholder?.percentage
+              ? `${company.shareholder.percentage}%`
+              : company.director?.title || company.commissioner?.title || "-";
+
+            return (
+              <Link
+                key={`${item.slug}_${company.ticker}_${index}`}
+                href={`/profil-perusahaan/${company.ticker}`}
                 target="_blank"
-                href={`/profil-perusahaan/${_item.ticker}`}
-                key={`${item.shareholder_name}_${index}`}
               >
-                <div className="shadow-xs bg-white/50 border border-white/40 rounded-xl px-4 py-3 grid grid-cols-3 items-center hover:bg-white/80 hover:shadow-lg hover:-translate-y-0.5 hover:border-orange-200 transition-all duration-200">
-                  <p className="font-semibold text-gray-700 text-[16px]">
-                    {_item.ticker}
-                  </p>
+                <div className="bg-white/70 border border-white/40 rounded-xl px-3 py-2.5 grid grid-cols-12 gap-2 items-center hover:bg-white hover:shadow-sm transition-all duration-200">
+                  {/* COMPANY */}
+                  <div className="col-span-6 min-w-0">
+                    <p className="font-bold text-gray-800 text-[13px] leading-none">
+                      {company.ticker}
+                    </p>
 
-                  <p className="text-center font-medium text-gray-700 text-[14px]">
-                    {_item.percentage.toFixed(2)}%
-                  </p>
+                    <p className="text-[11px] text-gray-500 truncate mt-1">
+                      {company.name}
+                    </p>
+                  </div>
 
-                  <p className="text-right font-medium  text-gray-700 text-[14px]">
-                    {_item.type}
-                  </p>
+                  {/* ROLE */}
+                  <div className="col-span-3">
+                    <RoleBadge roles={company.roles} />
+                  </div>
+
+                  {/* DETAIL */}
+                  <div className="col-span-3 min-w-0">
+                    <DetailInfo
+                      detail={detail}
+                      type={company.shareholder?.type}
+                    />
+                  </div>
                 </div>
-              </a>
-            ))}
+              </Link>
+            );
+          })}
         </div>
       </div>
     </div>
   );
 }
 
-function ShareholderTitle({ name }: { name: string }) {
+function SummaryCard({ label, value }: { label: string; value: number }) {
+  return (
+    <div className="bg-white/60 border border-white/40 rounded-2xl p-4">
+      <p className="text-xl font-bold text-gray-900">{value}</p>
+
+      <p className="text-xs text-gray-500 mt-1">{label}</p>
+    </div>
+  );
+}
+
+function DetailInfo({ detail, type }: { detail: string; type?: string }) {
+  if (!type) {
+    return (
+      <Tooltip>
+        <TooltipTrigger asChild>
+          <p className="text-[12px] font-semibold text-gray-800 truncate">
+            {detail}
+          </p>
+        </TooltipTrigger>
+
+        <TooltipContent>
+          <div className="text-xs">
+            <p className="font-semibold">{detail}</p>
+
+            <p className="text-gray-400 mt-1">{type}</p>
+          </div>
+        </TooltipContent>
+      </Tooltip>
+    );
+  }
+
+  return (
+    <>
+      {/* DESKTOP */}
+      <div className="hidden md:block">
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <div className="cursor-default">
+              <p className="text-[12px] font-semibold text-gray-800 truncate">
+                {detail}
+              </p>
+
+              <p className="text-[9px] text-gray-400 truncate mt-0.5">{type}</p>
+            </div>
+          </TooltipTrigger>
+
+          <TooltipContent>
+            <div className="text-xs">
+              <p className="font-semibold">{detail}</p>
+
+              <p className="text-gray-400 mt-1">{type}</p>
+            </div>
+          </TooltipContent>
+        </Tooltip>
+      </div>
+
+      {/* MOBILE */}
+      <div className="md:hidden">
+        <Popover>
+          <PopoverTrigger asChild>
+            <button className="text-right">
+              <p className="text-[12px] font-semibold text-gray-800 truncate">
+                {detail}
+              </p>
+
+              <p className="text-[9px] text-gray-400 truncate mt-0.5">{type}</p>
+            </button>
+          </PopoverTrigger>
+
+          <PopoverContent side="top" className="w-auto min-w-[140px] p-3">
+            <div className="text-xs">
+              <p className="font-semibold">{detail}</p>
+
+              <p className="text-gray-400 mt-1">{type}</p>
+            </div>
+          </PopoverContent>
+        </Popover>
+      </div>
+    </>
+  );
+}
+
+function RoleBadge({ roles }: { roles: string[] }) {
+  const mappedRoles = roles.map((role) => {
+    if (role === "shareholder") return "SH";
+    if (role === "director") return "DIR";
+    if (role === "commissioner") return "COM";
+
+    return role.toUpperCase();
+  });
+
+  return (
+    <>
+      {/* DESKTOP */}
+      <div className="hidden md:block">
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <span className="text-[9px] font-medium bg-gray-100 text-gray-600 border border-gray-200 px-2 py-1 rounded-full text-center whitespace-nowrap cursor-default">
+              {mappedRoles.join(" • ")}
+            </span>
+          </TooltipTrigger>
+
+          <TooltipContent>
+            <div className="flex flex-col gap-1 text-xs">
+              {mappedRoles.map((role) => (
+                <p key={role}>
+                  <span className="font-semibold">{role}</span> ={" "}
+                  {ROLE_LABEL[role]}
+                </p>
+              ))}
+            </div>
+          </TooltipContent>
+        </Tooltip>
+      </div>
+
+      {/* MOBILE */}
+      <div className="md:hidden">
+        <Popover>
+          <PopoverTrigger asChild>
+            <button className="text-[9px] font-medium bg-gray-100 text-gray-600 border border-gray-200 px-2 py-1 rounded-full text-center whitespace-nowrap">
+              {mappedRoles.join(" • ")}
+            </button>
+          </PopoverTrigger>
+
+          <PopoverContent side="top" className="w-auto min-w-[140px] p-3">
+            <div className="flex flex-col gap-1 text-xs">
+              {mappedRoles.map((role) => (
+                <p key={role}>
+                  <span className="font-semibold">{role}</span> ={" "}
+                  {ROLE_LABEL[role]}
+                </p>
+              ))}
+            </div>
+          </PopoverContent>
+        </Popover>
+      </div>
+    </>
+  );
+}
+
+function ShareholderTitle({
+  name,
+  category,
+}: {
+  name: string;
+  category: string;
+}) {
   const type = useMemo(() => {
     const governmentRegex =
       /\b(republik indonesia|pemerintah|negara|kementerian|pemda|provinsi|kabupaten|kota|ri)\b/i;
@@ -118,25 +292,30 @@ function ShareholderTitle({ name }: { name: string }) {
   }, [name, type]);
 
   return (
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
-      href={searchUrl}
-      className="inline-flex items-center gap-2 text-gray-800 font-bold capitalize hover:underline underline-offset-4 transition-all duration-150"
-    >
-      <h1 className="font-bold flex items-center gap-2 text-gray-800 capitalize">
-        {type === "government" && <Flag size={20} />}
+    <div className="flex gap-2">
+      {type === "government" && (
+        <Flag className="w-5 h-5 text-gray-500 shrink-0" />
+      )}
 
-        {type === "company" && (
-          <Building2 className="w-5 h-5 text-gray-500 shrink-0" />
-        )}
+      {type === "company" && (
+        <Building2 className="w-5 h-5 text-gray-500 shrink-0" />
+      )}
 
-        {type === "individual" && (
-          <User className="w-5 h-5 text-gray-500 shrink-0" />
-        )}
+      {type === "individual" && (
+        <User className="w-5 h-5 text-gray-500 shrink-0" />
+      )}
 
-        <span>{name}</span>
-      </h1>
-    </a>
+      <div>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href={searchUrl}
+          className="inline-flex items-center gap-2 text-gray-800 hover:underline underline-offset-4"
+        >
+          <h2 className="font-bold text-lg leading-snug capitalize">{name}</h2>
+        </a>
+        <p className="text-[13px] capitalize text-neutral-500">{category}</p>
+      </div>
+    </div>
   );
 }

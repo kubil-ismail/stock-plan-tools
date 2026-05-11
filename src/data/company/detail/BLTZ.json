@@ -1,0 +1,298 @@
+{
+  "company_name": "PT Graha Layar Prima Tbk.",
+  "ticker": "BLTZ",
+  "office_address": "Gedung Aia Central Lt. 26 Jl. Jend. Sudirman Kav. 48a, Kel. Karet Semanggi, Kec. Setiabudi, Jakarta",
+  "email": "corpsec@cgv.id",
+  "phone": "021-2253 6090",
+  "fax": "-",
+  "tax_id": "0023 3177 7905 4000",
+  "website": "https://www.cgv.id",
+  "listing_date": "2014-04-10",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Perfilman, Perekaman Video, Penyediaan Makanan dan Minuman serta Jasa Rekreasi dan Hiburan",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 20,
+    "name": "Fasilitas Rekreasi & Olah Raga",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Rozaksan Rinota I",
+    "email": "corpsec@cgv.id",
+    "phone": "021-22536090"
+  },
+  "directors": [
+    {
+      "name": "Nah Jeonghun",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Yang Cheolung",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tobias Ernst Chun Damek",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Tan Boon Shing",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Haryani Suwirman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Bratanata Perdana",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yoyok Sri Nurcahyo",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Yoyok Sri Nurcahyo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Kim Jae Hoon",
+      "position": "Anggota"
+    },
+    {
+      "name": "Rio Lassatrio",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Cgi Holdings Limited",
+      "type": "Lebih dari 5%",
+      "shares": 445708436,
+      "percentage": 51
+    },
+    {
+      "name": "Coree Capital Limited",
+      "type": "Lebih dari 5%",
+      "shares": 349574856,
+      "percentage": 40
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 78290050,
+      "percentage": 8.958
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 363600,
+      "percentage": 0.042
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Nah Jeonghun",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yang Cheolung",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tobias Ernst Chun Damek",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Tan Boon Shing",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Haryani Suwirman",
+      "type": "Direksi",
+      "shares": 200,
+      "percentage": 0
+    },
+    {
+      "name": "Bratanata Perdana",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Yoyok Sri Nurcahyo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Graha Layar Mitra",
+      "business_type": "Jasa Konsultasi, Manajemen dan Lisensi Bioskop",
+      "total_assets": 5688744843,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Graha Layar Mitra",
+      "business_type": "Jasa Konsultasi, Manajemen dan Lisensi Bioskop",
+      "total_assets": 5688744843,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Graha Layar Mitra",
+      "business_type": "Jasa Konsultasi, Manajemen dan Lisensi Bioskop",
+      "total_assets": 5688744843,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Graha Layar Mitra",
+      "business_type": "Jasa Konsultasi, Manajemen dan Lisensi Bioskop",
+      "total_assets": 72629,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Graha Layar Mitra",
+      "business_type": "Jasa Konsultasi, Manajemen dan Lisensi Bioskop",
+      "total_assets": 69748,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Graha Layar Mitra",
+      "business_type": "Jasa Konsultasi, Manajemen dan Lisensi Bioskop",
+      "total_assets": 66823,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Graha Layar Mitra",
+      "business_type": "Jasa Konsultasi, Manajemen dan Lisensi Bioskop",
+      "total_assets": 63676,
+      "ownership_percentage": 99.82
+    },
+    {
+      "name": "PT Graha Layar Mitra",
+      "business_type": "Jasa Konsultasi, Manajemen dan Lisensi Bioskop",
+      "total_assets": 35128,
+      "ownership_percentage": 99.82
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Kosasih, Nurdiyaman, Tjahjo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "2.359.630.283.400",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:38.187Z"
+}

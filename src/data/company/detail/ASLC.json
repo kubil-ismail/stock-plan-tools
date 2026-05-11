@@ -1,0 +1,304 @@
+{
+  "company_name": "PT Autopedia Sukses Lestari Tbk",
+  "ticker": "ASLC",
+  "office_address": "Kuningan City Lt. Ug 56 Jl. Prof Dr. Satrio No. Kav 18, Jakarta Selatan 12940",
+  "email": "corporate.secretary@autopedia.id",
+  "phone": "(021) 50862055",
+  "fax": "N/A",
+  "tax_id": "0033462417045000",
+  "website": "https://www.autopedia.id",
+  "listing_date": "2022-01-25",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang perdagangan eceran mobil dan perusahaan holding bagi entitas perusahaan lelang dan gadai",
+    "business_summary": "Perusahaan bergerak di bidang Otomotif.",
+    "business_tags": [
+      "Otomotif"
+    ],
+    "business_keywords": [
+      "automotive",
+      "otomotif",
+      "kendaraan"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 90,
+    "name": "Ritel Otomotif",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Armeza Farhansyah Umar",
+    "email": "corporate.secretary@autopedia.id",
+    "phone": "(021) 50862055 - 506"
+  },
+  "directors": [
+    {
+      "name": "Jany Candra",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Kazuhiro Shioyama",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Armeza Farhansyah Umar",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Drs. Prodjo Sunarjanto Sekar Pantjawati",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Erida",
+      "position": "Presiden Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Selvy Monalisa",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Selvy Monalisa",
+      "position": "Ketua"
+    },
+    {
+      "name": "Christine Tjen",
+      "position": "Anggota"
+    },
+    {
+      "name": "Dian Tauriana Siahaan",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Adi Sarana Armada Tbk",
+      "type": "Lebih dari 5%",
+      "shares": 9891216695,
+      "percentage": 77.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2464902934,
+      "percentage": 19.4
+    },
+    {
+      "name": "Jany Candra",
+      "type": "Direksi",
+      "shares": 191200045,
+      "percentage": 1.5
+    },
+    {
+      "name": "Drs. Prodjo Sunarjanto Sekar Pantjawati",
+      "type": "Komisaris",
+      "shares": 113673875,
+      "percentage": 0.9
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 43485200,
+      "percentage": 0.3
+    },
+    {
+      "name": "Kazuhiro Shioyama",
+      "type": "Direksi",
+      "shares": 24831250,
+      "percentage": 0.2
+    },
+    {
+      "name": "Erida",
+      "type": "Komisaris",
+      "shares": 17044781,
+      "percentage": 0.1
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Jba Indonesia",
+      "business_type": "Balai Lelang",
+      "total_assets": 316133140,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Jba Indonesia",
+      "business_type": "Balai Lelang",
+      "total_assets": 447575,
+      "ownership_percentage": 92.2
+    },
+    {
+      "name": "PT Jba Indonesia",
+      "business_type": "Balai Lelang",
+      "total_assets": 433458,
+      "ownership_percentage": 92.2
+    },
+    {
+      "name": "PT Jba Indonesia",
+      "business_type": "Balai Lelang",
+      "total_assets": 423859,
+      "ownership_percentage": 92.2
+    },
+    {
+      "name": "PT Jba Indonesia",
+      "business_type": "Balai Lelang",
+      "total_assets": 385645,
+      "ownership_percentage": 92.2
+    },
+    {
+      "name": "PT Autopedia Sukses Gadai",
+      "business_type": "Gadai",
+      "total_assets": 21600,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Autopedia Sukses Gadai",
+      "business_type": "Gadai",
+      "total_assets": 17809,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Autopedia Sukses Gadai",
+      "business_type": "Gadai",
+      "total_assets": 17648,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Autopedia Sukses Gadai",
+      "business_type": "Gadai",
+      "total_assets": 7099,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Autopedia Sukses Gadai",
+      "business_type": "Gadai",
+      "total_assets": 2525,
+      "ownership_percentage": 0.01
+    },
+    {
+      "name": "PT Autopedia Gadai Jabar",
+      "business_type": "Gadai",
+      "total_assets": 2506,
+      "ownership_percentage": 0.01
+    },
+    {
+      "name": "PT Autopedia Sukses Gadai",
+      "business_type": "Gadai",
+      "total_assets": 2446,
+      "ownership_percentage": 0.01
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kap Purwanto Susanti dan Surja"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "943.230.253.720",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:40:35.513Z"
+}

@@ -1,0 +1,327 @@
+{
+  "company_name": "Berlian Laju Tanker Tbk",
+  "ticker": "BLTA",
+  "office_address": "Wisma Bsg, Lt.10 Jl. Abdul Muis No. 40 Tanah Abang - Jakarta Pusat 10160",
+  "email": "investor@blt.co.id",
+  "phone": "+62 21 - 30060300",
+  "fax": "-",
+  "tax_id": "01.363.678.2-054.000",
+  "website": "https://www.blt.co.id",
+  "listing_date": "1990-03-26",
+  "listing_board": "Pemantauan Khusus",
+  "business_field": {
+    "raw_business": "Jasa Pelayaran Angkutan Laut",
+    "business_summary": "Perusahaan bergerak di bidang Logistik, Keuangan.",
+    "business_tags": [
+      "Logistik",
+      "Keuangan"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi",
+      "financial",
+      "finance",
+      "pembiayaan",
+      "asuransi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 17,
+    "name": "Logistik & Pengantaran",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 22,
+    "name": "Logistik & Pengantaran"
+  },
+  "sub_industry": {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  "corporate_secretary": {
+    "name": "Benny Rachmat",
+    "email": "benny@blt.co.id",
+    "phone": "+62 21 30060300"
+  },
+  "directors": [
+    {
+      "name": "Siana Anggraeni Surya",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "A. Yulian H. Ernanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Benny Rachmat",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hadi Surya",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Safzen Noerdin",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Antonius Joenoes Supit",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Antonius Joenoes Supit",
+      "position": "Ketua"
+    },
+    {
+      "name": "C. Y. Widiatno, Sh",
+      "position": "Anggota"
+    },
+    {
+      "name": "Johanes Agus Parman",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 12511285657,
+      "percentage": 49.69
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 5888693826,
+      "percentage": 23.38
+    },
+    {
+      "name": "PT Tunggaladhi Baskara",
+      "type": "Lebih dari 5%",
+      "shares": 4383489018,
+      "percentage": 17.41
+    },
+    {
+      "name": "Elang Megah Inti, PT",
+      "type": "Lebih dari 5%",
+      "shares": 2366547505,
+      "percentage": 9.4
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 31027111,
+      "percentage": 0.12
+    },
+    {
+      "name": "Siana Anggraeni Surya",
+      "type": "Direksi",
+      "shares": 62400,
+      "percentage": 0
+    },
+    {
+      "name": "Drs Benny Rachmat",
+      "type": "Direksi",
+      "shares": 37500,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Indigo Pacific Corporation",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 666965472,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Seapeak Blt Corporation (ex, Teekay Blt Corporation)",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 287472123,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "Diamond Pacific International Corporation",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 274174769,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Asean Maritime Corporation",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 193202725,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blt Lng Tangguh Corporation",
+      "business_type": "Pengoperasian Kapal",
+      "total_assets": 63549553,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Berlian Laju Tanker Corporation (ex. Diamond Pacific International Corporation)",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 40733198,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Brotojoyo Maritime",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 40564895,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Gold Bridge Shipping Corporation",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 32147954,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aswatama Samudera Nusantara",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 31512631,
+      "ownership_percentage": 40
+    },
+    {
+      "name": "Gold Bridge Shipping Ltd.",
+      "business_type": "Agen Perkapalan",
+      "total_assets": 23330160,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pulau Kelapa Perkasa",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 9443122,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Quimera Maritime S.a.",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 5238161,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Dewi Sri Maritim",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 4572886,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sebatik Marin Servis",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 4572886,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Cendanawati Logistik Indonesia (ex. PT Cendanawati Maritim Indonesia)",
+      "business_type": "Pergudangan dan Jasa Management",
+      "total_assets": 1953185,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Thai Petra Transport Co. Ltd.",
+      "business_type": "Agen Perkapalan",
+      "total_assets": 719036,
+      "ownership_percentage": 30
+    },
+    {
+      "name": "PT Berlian Limatama",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 351755,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Niaga Global Modern Indonesia",
+      "business_type": "Perdagangan",
+      "total_assets": 80959,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Indigo Pacific Corporation",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 35635,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Blt Finance B.v.",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 28334,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Fast Marine Trading Limited",
+      "business_type": "Perusahaan Investasi",
+      "total_assets": 1450,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Freesia Navigation S.a.",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Hopeway Marine Inc.",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Iris Maritime International S.a.",
+      "business_type": "Pemilikan dan Pengoperasian Kapal",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.089.487.858.326",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:40:36.780Z"
+}

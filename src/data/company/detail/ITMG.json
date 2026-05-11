@@ -1,0 +1,353 @@
+{
+  "company_name": "Indo Tambangraya Megah Tbk",
+  "ticker": "ITMG",
+  "office_address": "Pondok Indah Office Tower Iii, 3rd Floor Jl. Sultan Iskandar Muda Pondok Indah Kav. V-ta Jakarta Selatan 12310",
+  "email": "-",
+  "phone": "021 - 2932 8100",
+  "fax": "021 - 2932 7999",
+  "tax_id": "01.332.590.7-091.000",
+  "website": "https://-",
+  "listing_date": "2007-12-18",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Pertambangan Batubara(Coal Mining)",
+    "business_summary": "Perusahaan bergerak di bidang Batubara, Energi, Logistik.",
+    "business_tags": [
+      "Batubara",
+      "Energi",
+      "Logistik"
+    ],
+    "business_keywords": [
+      "batubara",
+      "coal",
+      "mining",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 7,
+    "name": "Batu Bara"
+  },
+  "sub_industry": {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  "corporate_secretary": {
+    "name": "Monika Ida Krisnamurti",
+    "email": "monika_krisnamurti@banpuindo.co.id",
+    "phone": "021-29328100"
+  },
+  "directors": [
+    {
+      "name": "Mulianto",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Stephanus Demo Wawin",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Yulius Kurniawan Gozali",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ignatius Wurwanto",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Junius Prakarsa Darmawan",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Isara Pootrakul",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Narin Sampattanavorachai",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Niwat Boonyad",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Warut Waramit",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Prof. Djisman Simandjuntak",
+      "position": "Komisaris Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Somsak Sithinamsuwan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Somruedee Chaimongkol",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Mahyudin Lubis",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "-",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Fredi Chandra",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Kirana Limpaphayom",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Maneewan Vachiruckul",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sinon Vongkusolkit",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Jamon Jamuang",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Gede Harja Wasistha",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Djisman Simandjuntak",
+      "position": "Ketua"
+    },
+    {
+      "name": "Prof. Dr. Cynthia Afriani, S.e., M.e.",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ir. Petrus M. Siregar, M.m.",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Banpu Minerals (singapore) Private Limited",
+      "type": "Lebih dari 5%",
+      "shares": 736071000,
+      "percentage": 65.143
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 377459620,
+      "percentage": 33.406
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 15025900,
+      "percentage": 1.33
+    },
+    {
+      "name": "Fredi Chandra",
+      "type": "Komisaris",
+      "shares": 1368480,
+      "percentage": 0.121
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Bharinto Ekatama (bek)",
+      "business_type": "Penambangan Batubara / Coal Mining",
+      "total_assets": 611828,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Indominco Mandiri (imm)",
+      "business_type": "Penambangan Batubara / Coal Mining",
+      "total_assets": 496685,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Trubaindo Coal Mining (tcm)",
+      "business_type": "Penambangan Batubara / Coal Mining",
+      "total_assets": 461927,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kitadin",
+      "business_type": "Penambangan Batubara, Jasa Kontraktor yang Berkaitan dengan Penambangan Batubara dan Perdagangan Batubara",
+      "total_assets": 88203,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Energi Batubara Perkasa",
+      "business_type": "Pengangkutan dan Penjualan Batubara",
+      "total_assets": 76381,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Graha Panca Karsa",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 57627,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Tambang Raya Usaha Tama",
+      "business_type": "Jasa Penunjang Kegiatan Pertambangan",
+      "total_assets": 54205,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusa Persada Resources",
+      "business_type": "Penambangan Batubara",
+      "total_assets": 40668,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Jorong Barutama Greston (jbg)",
+      "business_type": "Penambangan Batubara / Coal Mining",
+      "total_assets": 39852,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Itm Bhinneka Power",
+      "business_type": "Perdagangan Energi Alternatif dan Penunjang Ketenaga-listrikan",
+      "total_assets": 38505,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Tepian Indah Sukses",
+      "business_type": "Penambangan Batubara",
+      "total_assets": 33042,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Cahaya Power Indonesia",
+      "business_type": "Energi dan Penunjang Ketenagalistrikan",
+      "total_assets": 13195,
+      "ownership_percentage": 55.65
+    },
+    {
+      "name": "PT Sentral Mutiara Energy",
+      "business_type": "Perdagangan dan Transportasi Produk Batu Bara",
+      "total_assets": 8506,
+      "ownership_percentage": 95.07
+    },
+    {
+      "name": "PT Itm Energi Utama",
+      "business_type": "Perdagangan Energi Alternatif dan Penunjang Ketenaga-listrikan",
+      "total_assets": 2720,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Itm Indonesia",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 1366,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Ibp Hydro Power",
+      "business_type": "Konsultasi Manajemen",
+      "total_assets": 1363,
+      "ownership_percentage": 70
+    },
+    {
+      "name": "PT Gasemas",
+      "business_type": "Perdagangan Bahan Bakar",
+      "total_assets": 933,
+      "ownership_percentage": 94.8
+    },
+    {
+      "name": "PT Itm Batubara Utama",
+      "business_type": "Perdagangan dan Transportasi Produk Batubara",
+      "total_assets": 619,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "30.112.501.250.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:47:11.744Z"
+}

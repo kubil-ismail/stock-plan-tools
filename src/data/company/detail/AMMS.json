@@ -1,0 +1,191 @@
+{
+  "company_name": "PT Agung Menjangan Mas Tbk",
+  "ticker": "AMMS",
+  "office_address": "Generali Tower Grand Rubina Business Park Lt.20 C Jl. H.r. Rasuna Said, Kuningan, Jakarta Selatan 12940",
+  "email": "corsec@agungmm.com",
+  "phone": "(021)-29023178",
+  "fax": "021-29023180",
+  "tax_id": "0026 0424 0801 8000",
+  "website": "https://www.agungmm.com",
+  "listing_date": "2022-08-04",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "Menjalankan usaha dalam bidang jasa sarana produksi budidaya ikan air payau dan jasa pasca panen budidaya ikan air payau",
+    "business_summary": "Perusahaan bergerak di bidang Energi, Makanan & Minuman.",
+    "business_tags": [
+      "Energi",
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 52,
+    "name": "Produk Makanan Pertanian"
+  },
+  "sub_industry": {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  "corporate_secretary": {
+    "name": "Gabriela Batti",
+    "email": "corsec@agungmm.com",
+    "phone": "(021)-29023178"
+  },
+  "directors": [
+    {
+      "name": "Hartono Limmantoro",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Sulaiman",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Chan Pik Yan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ny. Arie Yuriwin, S.h., M.si.",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Prof. Dr. Ir. H. Rokhimin Dahuri, Msc",
+      "position": "Ketua"
+    },
+    {
+      "name": "Andryan Esra Sembiring M.ak.,ca.,cpa",
+      "position": "Anggota"
+    },
+    {
+      "name": "Mindo Jeksen Siahaan Se., Cpa., Bkp",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Radiant Ruby Company Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 630001529,
+      "percentage": 51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 307588685,
+      "percentage": 24.9
+    },
+    {
+      "name": "PT Mandara Mas Semesta",
+      "type": "Lebih dari 5%",
+      "shares": 297706588,
+      "percentage": 24.1
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sulaiman",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Chan Pik Yan",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ny. Arie Yuriwin, S.h., M.si",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "484.236.346.384",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T03:39:45.918Z"
+}

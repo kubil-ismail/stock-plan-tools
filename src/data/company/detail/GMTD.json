@@ -1,0 +1,220 @@
+{
+  "company_name": "Gowa Makassar Tourism Development Tbk",
+  "ticker": "GMTD",
+  "office_address": "Jl. Metro Tanjung Bunga Mall Gtc Ga-9 No. 1 B",
+  "email": "corporate.secretary@tanjungbunga.com",
+  "phone": "0411-8113456",
+  "fax": "0411-8113494",
+  "tax_id": "01.562.582.5-054.000",
+  "website": "https://www.tanjungbunga.com",
+  "listing_date": "2000-12-11",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Real Estate",
+    "business_summary": "Perusahaan bergerak di bidang Properti.",
+    "business_tags": [
+      "Properti"
+    ],
+    "business_keywords": [
+      "property",
+      "real estate",
+      "properti"
+    ]
+  },
+  "sector": {
+    "id": 9,
+    "name": "Properti & Real Estat"
+  },
+  "sub_sector": {
+    "id": 30,
+    "name": "Properti & Real Estat",
+    "sector_id": 9
+  },
+  "industry": {
+    "id": 37,
+    "name": "Pengelola & Pengembang Real Estat"
+  },
+  "sub_industry": {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  "corporate_secretary": {
+    "name": "Tubagus Syamsul Hidayat",
+    "email": "tubagus.hidayat@tanjungbunga.com; corporate.secretary@tanjungbunga.com",
+    "phone": "0411-8113456"
+  },
+  "directors": [
+    {
+      "name": "Iqbal Farabi, S.h., m.h",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Ali Said, S.e",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Drs. Danang Kemayan Jati",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Dr. Hinca Ikara Putra Pandjaitan Xiii, S.h., m.h., Accs",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Theo L. Sambuaga",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "H. Andi Ridwan Djabir, St., Mm",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Ing. Wahyu Haryadi Piarah Msme",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Primus Dorimulu",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Jimmy Sofyan, Se",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Indra Yuwana, S.kom, M.s",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Prof. Dr. Irawan Yusuf Ph.d",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Irawan Yusuf",
+      "position": "Ketua"
+    },
+    {
+      "name": "Herbudianto",
+      "position": "Anggota"
+    },
+    {
+      "name": "Achmad Kurniadi",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Makassar Permata Sulawesi PT",
+      "type": "Lebih dari 5%",
+      "shares": 330000000,
+      "percentage": 32.5
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 252239000,
+      "percentage": 24.84
+    },
+    {
+      "name": "Pemerintah Propinsi Sulawesi Selatan",
+      "type": "Lebih dari 5%",
+      "shares": 132000000,
+      "percentage": 13
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 103141000,
+      "percentage": 10.16
+    },
+    {
+      "name": "Pemerintah Kabupaten Gowa",
+      "type": "Lebih dari 5%",
+      "shares": 66000000,
+      "percentage": 6.5
+    },
+    {
+      "name": "Pemerintah Kota Makassar",
+      "type": "Lebih dari 5%",
+      "shares": 66000000,
+      "percentage": 6.5
+    },
+    {
+      "name": "Yayasan Partisipasi Pembangunan Sulawesi Selatan",
+      "type": "Lebih dari 5%",
+      "shares": 66000000,
+      "percentage": 6.5
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Kenanga Elok Asri dan Entitas Anak",
+      "business_type": "Perdagangan, Pembangunan, Percetakan, dan Jasa",
+      "total_assets": 154485467348,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Griya Eksotika Utama",
+      "business_type": "Perdagangan, Pembangunan, Percetakan, dan Jasa",
+      "total_assets": 2211627352,
+      "ownership_percentage": 99.99
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.599.223.500.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:59.829Z"
+}

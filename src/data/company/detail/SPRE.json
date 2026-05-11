@@ -1,0 +1,221 @@
+{
+  "company_name": "PT Soraya Berjaya Indonesia Tbk",
+  "ticker": "SPRE",
+  "office_address": "Jl. Bandes, Keluarahan Aie Pacah, Kecamatan Koto Tangah, Kota Padang, Sumatera Barat 25176",
+  "email": "corsec@sorayaberjaya.id",
+  "phone": "07518965330",
+  "fax": "",
+  "tax_id": "07263999592010000",
+  "website": "https://sorayaberjaya.id",
+  "listing_date": "2024-07-03",
+  "listing_board": "Akselerasi",
+  "business_field": {
+    "raw_business": "bidang industri dan perdagangan barang jadi keperluan rumah tangga",
+    "business_summary": "Perusahaan bergerak di bidang Tekstil.",
+    "business_tags": [
+      "Tekstil"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 22,
+    "name": "Pakaian & Barang Mewah",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 31,
+    "name": "Pakaian & Barang Mewah"
+  },
+  "sub_industry": {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  "corporate_secretary": {
+    "name": "Arienita Noer, S.psi",
+    "email": "corsec@sorayaberjaya.id",
+    "phone": "07518965330"
+  },
+  "directors": [
+    {
+      "name": "Rizet Ramawi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Ridho Ferman Shatrio",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Dwi Ristra Utami",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Seli Astuti",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Marfetra",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ilham Aldelano Azre",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Ilham Aldelano Azre",
+      "position": "Ketua"
+    },
+    {
+      "name": "Nika Yulia Dewi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Agus Siti",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 240000000,
+      "percentage": 30
+    },
+    {
+      "name": "Rizet Ramawi",
+      "type": "Direksi",
+      "shares": 222600000,
+      "percentage": 27.825
+    },
+    {
+      "name": "Galaksi Investama Corpora, PT",
+      "type": "Lebih dari 5%",
+      "shares": 140000000,
+      "percentage": 17.5
+    },
+    {
+      "name": "Ridho Ferman Shatrio",
+      "type": "Direksi",
+      "shares": 113400000,
+      "percentage": 14.175
+    },
+    {
+      "name": "Dwi Ristra Utami",
+      "type": "Direksi",
+      "shares": 57400000,
+      "percentage": 7.175
+    },
+    {
+      "name": "Marfetra",
+      "type": "Komisaris",
+      "shares": 26600000,
+      "percentage": 3.325
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Seli Astuti",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ilham Aldelano Azre",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    },
+    {
+      "name": "Kap Irfan Waluyo & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "73.600.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:32.493Z"
+}

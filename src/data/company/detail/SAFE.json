@@ -1,0 +1,196 @@
+{
+  "company_name": "Steady Safe Tbk",
+  "ticker": "SAFE",
+  "office_address": "Pool Klender Jl. Bekasi Timur Raya No. 14 Rt 001, Rw 08 Jatinegara Kaum, Pulogadung, Jakarta Timur",
+  "email": "steady_safetbk@yahoo.com",
+  "phone": "(021) 22471801, 3922222, 75931377",
+  "fax": "-",
+  "tax_id": "01.000.927.2-054.000",
+  "website": "https://www.steadysafetbk.co.id",
+  "listing_date": "1994-08-15",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Transportation",
+    "business_summary": "Perusahaan bergerak di bidang Logistik.",
+    "business_tags": [
+      "Logistik"
+    ],
+    "business_keywords": [
+      "logistik",
+      "logistics",
+      "shipping",
+      "transportasi"
+    ]
+  },
+  "sector": {
+    "id": 11,
+    "name": "Transportasi & Logistik"
+  },
+  "sub_sector": {
+    "id": 33,
+    "name": "Transportasi",
+    "sector_id": 11
+  },
+  "industry": {
+    "id": 36,
+    "name": "Pengangkutan Darat Penumpang"
+  },
+  "sub_industry": {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  "corporate_secretary": {
+    "name": "Yogi Wibawa",
+    "email": "corp.secretary@steadysafetbk.co.id",
+    "phone": "021- 3922222, 021 75931377, 021 75931378"
+  },
+  "directors": [
+    {
+      "name": "John Pieter Sembiring",
+      "position": "Direktur Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Ahmad Fahmi",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Jopie Widjaja",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Rd James Rachmat Subekti",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Efris Indria",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Efris Indria",
+      "position": "Ketua"
+    },
+    {
+      "name": "David Iskandar",
+      "position": "Anggota"
+    },
+    {
+      "name": "Nisa Wildaningrum Saputri",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Infiniti Wahana",
+      "type": "Lebih dari 5%",
+      "shares": 464595913,
+      "percentage": 56.57
+    },
+    {
+      "name": "Bp2s Sg/bnp Paribas Singapore Branch Wealth Management",
+      "type": "Lebih dari 5%",
+      "shares": 228542002,
+      "percentage": 27.83
+    },
+    {
+      "name": "PT Abdi Raharja",
+      "type": "Lebih dari 5%",
+      "shares": 61520900,
+      "percentage": 7.49
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 52214700,
+      "percentage": 6.36
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 14333997,
+      "percentage": 1.75
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ahmad Fahmi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Jopie Widjaja",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Rd James R. Subekti",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "John Pieter Sembiring",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Efris Indria",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "266.071.233.888",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:54:12.336Z"
+}

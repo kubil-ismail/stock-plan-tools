@@ -1,0 +1,237 @@
+{
+  "company_name": "PT Ginting Jaya Energi Tbk",
+  "ticker": "WOWS",
+  "office_address": "Jl. Tanjung Api-api, Km. 8 Kel. Gasing, Kec. Talang Kelapa, Kab. Banyuasin Palembang, 30961",
+  "email": "corsec@gj-energi.co.id",
+  "phone": "0711-7421699",
+  "fax": "0711-5733920",
+  "tax_id": "31.296.312.7-313.000",
+  "website": "https://www.gj-energi.co.id",
+  "listing_date": "2019-11-08",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak dalam bidang jasa penunjang kegiatan operasional kerja ulang sumur dan perawatan sumur minyak dan gas",
+    "business_summary": "Perusahaan bergerak di bidang Energi.",
+    "business_tags": [
+      "Energi"
+    ],
+    "business_keywords": [
+      "energi",
+      "energy",
+      "oil",
+      "gas"
+    ]
+  },
+  "sector": {
+    "id": 4,
+    "name": "Energi"
+  },
+  "sub_sector": {
+    "id": 20,
+    "name": "Minyak, Gas & Batu Bara",
+    "sector_id": 4
+  },
+  "industry": {
+    "id": 35,
+    "name": "Pendukung Minyak, Gas & Batu Bara"
+  },
+  "sub_industry": {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  "corporate_secretary": {
+    "name": "Junes",
+    "email": "corsec@gj-energi.co.id",
+    "phone": "0711-5735399"
+  },
+  "directors": [
+    {
+      "name": "Jimmy Hidayat",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Tommy Hidayat",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Welly Sugiharto",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Eddy Hidayat Lim",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Tantowi Hidayat",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Linford Putra Cendana",
+      "position": "Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Satoto Agustono",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Linford Putro Cendana",
+      "position": "Ketua"
+    },
+    {
+      "name": "Richard Leonardus Adikarta",
+      "position": "Anggota"
+    },
+    {
+      "name": "Muhammad Rama Saputra",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 1216953048,
+      "percentage": 49.16
+    },
+    {
+      "name": "PT Ginting Jaya",
+      "type": "Lebih dari 5%",
+      "shares": 1050673048,
+      "percentage": 42.44
+    },
+    {
+      "name": "Welly Sugiharto",
+      "type": "Direksi",
+      "shares": 94000000,
+      "percentage": 3.8
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 55046952,
+      "percentage": 2.22
+    },
+    {
+      "name": "Eddy Hidayat Lim",
+      "type": "Komisaris",
+      "shares": 38697968,
+      "percentage": 1.56
+    },
+    {
+      "name": "Jimmy Hidayat",
+      "type": "Direksi",
+      "shares": 11174492,
+      "percentage": 0.45
+    },
+    {
+      "name": "Tommy Hidayat",
+      "type": "Direksi",
+      "shares": 9174492,
+      "percentage": 0.37
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Kap Ayub & Elvi"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Bharata, Arifin, Mumajad dan Sayuti"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Bharata, Arifin, Mumajad dan Sayuti"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    },
+    {
+      "name": "Kap Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Hadori, Sugiarto, Adi & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "195.581.880.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:58:06.371Z"
+}

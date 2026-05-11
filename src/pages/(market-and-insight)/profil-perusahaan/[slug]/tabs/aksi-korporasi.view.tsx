@@ -1,10 +1,13 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 import React, { useMemo } from "react";
 
-import notation from "@/data/information/notations/notation.json";
-import pemantauan_khusus from "@/data/information/pemantauan_khusus/pemantauan_khusus.json";
-import calendar from "@/data/information/calendar/calendar.json";
-import { Calendar_card, Notation_card } from "@/pages/(market-and-insight)/informasi-perusahaan/informasi-perusahaan.view";
+import pemantauan_khusus from "@/data/information/special_board.json";
+import calendar from "@/data/information/calendar.json";
+import {
+  Calendar_card,
+  Notation_card,
+} from "@/pages/(market-and-insight)/informasi-perusahaan/informasi-perusahaan.view";
 
 interface Props {
   slug: string;
@@ -14,16 +17,11 @@ function Aksi_korporasi_view(props: Props) {
   const { slug } = props;
 
   const filter_calendar = useMemo(() => {
-    return calendar.data.filter((item) => item.kode === slug);
+    return calendar.data.filter((item) => item.ticker === slug);
   }, [slug, calendar.data]);
 
   const filter_pemantauan_khusus = useMemo(() => {
-    return pemantauan_khusus.data
-      .filter((item) => item.Kode_Saham === slug)
-      .map((item) => ({
-        ...item,
-        notasi: notation?.data?.find((_item) => _item.Kode === item.Kode_Saham),
-      }));
+    return pemantauan_khusus.data.filter((item) => item.ticker === slug);
   }, [slug, pemantauan_khusus.data]);
 
   const isEmptyPemantauan =
@@ -44,18 +42,27 @@ function Aksi_korporasi_view(props: Props) {
           {filter_pemantauan_khusus.map((item, key) => (
             <Notation_card
               key={key}
-              ticker={item.Kode_Saham}
-              variant={String(item.notasi?.Notasi)}
-              desc={String(item.notasi?.Keterangan_Notasi)}
+              ticker={item.ticker}
+              variant={String(
+                item.notation
+                  ?.slice()
+                  ?.map((item) => item.code)
+                  .join(",")
+              )}
+              desc={String(
+                item.notation
+                  ?.map((item) => `${item.code} : ${item.description}\n`)
+                  .join("")
+              )}
               simplify
-              date={item?.Tanggal_Masuk}
+              date={item?.entry_date}
             />
           ))}
 
           {filter_calendar?.map((item, key) => (
             <Calendar_card
               key={key}
-              ticker={item.kode}
+              ticker={item.ticker}
               variant={item.perihal}
               desc={item.lokasi}
               date={item?.tanggal}

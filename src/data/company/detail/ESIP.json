@@ -1,0 +1,214 @@
+{
+  "company_name": "PT Sinergi Inti Plastindo Tbk.",
+  "ticker": "ESIP",
+  "office_address": "Simprug Garden Office No. 9d Jl. Teuku Nyak Arief Simprug Kebayoran Lama Jakarta Selatan 12220",
+  "email": "corporate@sinergiplastama.co.id",
+  "phone": "021-27515179",
+  "fax": "0",
+  "tax_id": "02.076.791.9-041.000",
+  "website": "https://sinergiplastama.co.id",
+  "listing_date": "2019-11-14",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Industri barang dari plastik untuk pengemasan, industri barang plastik lainnya, perdagangan besar karet dan plastik dalam bentuk dasar, dan perdagangan besar produk lainnya.",
+    "business_summary": "Perusahaan bergerak di bidang Karet.",
+    "business_tags": [
+      "Karet"
+    ],
+    "business_keywords": [
+      "karet",
+      "rubber"
+    ]
+  },
+  "sector": {
+    "id": 1,
+    "name": "Barang Baku"
+  },
+  "sub_sector": {
+    "id": 3,
+    "name": "Barang Baku",
+    "sector_id": 1
+  },
+  "industry": {
+    "id": 58,
+    "name": "Wadah & Kemasan"
+  },
+  "sub_industry": {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  },
+  "corporate_secretary": {
+    "name": "Sherlie Asih Atmaja",
+    "email": "corporate@sinergiplastama.co.id",
+    "phone": "(021) 27515411"
+  },
+  "directors": [
+    {
+      "name": "Eric Budisetio Kurniawan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Mangasi Taraja",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sandra Kusumadewi",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Christopher Ben Farmer",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr Christopher Ben Farmer",
+      "position": "Ketua"
+    },
+    {
+      "name": "Yosua Gunawan",
+      "position": "Anggota"
+    },
+    {
+      "name": "Charles Surya Mba",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 421273385,
+      "percentage": 37.95
+    },
+    {
+      "name": "PT Tanindo Omega Pasifik",
+      "type": "Lebih dari 5%",
+      "shares": 354400000,
+      "percentage": 31.93
+    },
+    {
+      "name": "Eric Budisetio Kurniawan",
+      "type": "Direksi",
+      "shares": 334280462,
+      "percentage": 30.12
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mangasi Taraja",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Sandra Kusumadewi",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dr Christopher Ben Farmer",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Heliantono & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "193.131.969.378",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:44:09.996Z"
+}

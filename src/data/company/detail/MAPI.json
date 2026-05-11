@@ -1,0 +1,1055 @@
+{
+  "company_name": "PT Mitra Adiperkasa Tbk",
+  "ticker": "MAPI",
+  "office_address": "Gedung Sahid Sudirman Center Lt. 29 Jl. Jend. Sudirman Kav. 86 Karet Tengsin Tanah Abang Jakarta Pusat Dki Jakarta",
+  "email": "corporate.secretary@map.co.id",
+  "phone": "+62-21 8064 8498",
+  "fax": "-",
+  "tax_id": "0017108804054000",
+  "website": "https://www.map.co.id",
+  "listing_date": "2004-11-10",
+  "listing_board": "Utama",
+  "business_field": {
+    "raw_business": "Perdagangan Umum, ritel, kafe restoran",
+    "business_summary": "Perusahaan bergerak di bidang Teknologi, Properti, Energi, Manufaktur, Makanan & Minuman, Retail.",
+    "business_tags": [
+      "Teknologi",
+      "Properti",
+      "Energi",
+      "Manufaktur",
+      "Makanan & Minuman",
+      "Retail"
+    ],
+    "business_keywords": [
+      "technology",
+      "teknologi",
+      "software",
+      "digital",
+      "internet",
+      "property",
+      "real estate",
+      "properti",
+      "energi",
+      "energy",
+      "oil",
+      "gas",
+      "manufacturing",
+      "manufaktur",
+      "factory",
+      "industrial",
+      "food",
+      "beverage",
+      "makanan",
+      "minuman",
+      "retail",
+      "supermarket",
+      "consumer"
+    ]
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 25,
+    "name": "Perdagangan Ritel",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 54,
+    "name": "Ritel Khusus"
+  },
+  "sub_industry": {
+    "id": 91,
+    "name": "Ritel Pakaian & Tekstil",
+    "industries_id": 54
+  },
+  "corporate_secretary": {
+    "name": "Eva Andrianie",
+    "email": "corporate.secretary@map.co.id",
+    "phone": "021-5745808"
+  },
+  "directors": [
+    {
+      "name": "H.b.l. Mantiri",
+      "position": "Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "V.p. Sharma",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Susiana Latif",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Handaka Santosa",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sjeniwati Gusman",
+      "position": "Direktur",
+      "affiliated": true
+    },
+    {
+      "name": "Sean Gustav Standish Hughes",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Sri Indrastuti Hadiputranto",
+      "position": "Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "G.b.p.h. H. Prabukusumo",
+      "position": "Wakil Presiden Komisaris",
+      "affiliated": true
+    },
+    {
+      "name": "Johanes Ridwan",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sintia Kolonas",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Zoee Ho Ziwei",
+      "position": "Komisaris",
+      "affiliated": false
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "G.b.p.h. Prabukusumo",
+      "position": "Ketua"
+    },
+    {
+      "name": "Suwandi",
+      "position": "Anggota"
+    },
+    {
+      "name": "Riono Trisongko",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Satya Mulia Gema Gemilang",
+      "type": "Lebih dari 5%",
+      "shares": 8466000000,
+      "percentage": 51
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 8134000000,
+      "percentage": 49
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Map Aktif Adiperkasa Tbk (\"maa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 13207093,
+      "ownership_percentage": 68.83
+    },
+    {
+      "name": "PT Map Panen Lestari (\"mpl\")",
+      "business_type": "Lain-lain",
+      "total_assets": 4417677,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Athletica International Holdings Pte Ltd (\"aih\")",
+      "business_type": "Lain-lain",
+      "total_assets": 4267579,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Prima Adiperkasa (\"ppa\")",
+      "business_type": "Lain-lain",
+      "total_assets": 3101141,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mapple Mitra Adiperkasa (\"mma\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 2976846,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Map Boga Adiperkasa Tbk (\"mba\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 2796573,
+      "ownership_percentage": 71.98
+    },
+    {
+      "name": "PT Panen Lestari Indonesia (\"plindo\")",
+      "business_type": "Department Stores",
+      "total_assets": 1953555,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sari Coffee Indonesia (\"sci\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 1884215,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mapple Digismart Adiperkasa (\"mdsa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 1867929,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Zona Adiperkasa (\"mza\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 1728693,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "New Golden Heritage Pte Ltd (\"ngh\")",
+      "business_type": "Lain-lain",
+      "total_assets": 1586750,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Planet Sports Inc (\"psiph\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 1586734,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Universal Holding Pte Ltd (\"muh\")",
+      "business_type": "Lain-lain",
+      "total_assets": 1271341,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Bright Fashion Holding Pte Ltd (\"ubf\")",
+      "business_type": "Lain-lain",
+      "total_assets": 1267304,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarimode Fashion Fashindo Adiperkasa ('sfa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 1014475,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Panen Lestari Internusa (\"pli\")",
+      "business_type": "Department Stores",
+      "total_assets": 881675,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Swalayan Sukses Abadi (\"ssa\")",
+      "business_type": "Department Stores",
+      "total_assets": 860269,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Swalayan Adiperkasa (\"pswa\")",
+      "business_type": "Lain-lain",
+      "total_assets": 860115,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Sarimode Sea Pte Ltd (\"uss\")",
+      "business_type": "Lain-lain",
+      "total_assets": 782590,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Digiplus Ritel Adiperkasa (\"dra\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 772316,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Kosmetik Adiperkasa (\"pka\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 739856,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active Philippines Inc (\"maph\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 737017,
+      "ownership_percentage": 95
+    },
+    {
+      "name": "Map Aktif Adiperkasa Ltd (\"maat\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 625430,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Ftl Adiperkasa (\"mftla\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 612321,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Fashindo Singapore Pte. Ltd. (\"ufs\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 586348,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Selaras Sempurna (\"mss\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 577829,
+      "ownership_percentage": 19.19
+    },
+    {
+      "name": "PT Mitra Adiperkasa Vietnam Co. Ltd (\"mapv\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 554778,
+      "ownership_percentage": 20
+    },
+    {
+      "name": "PT Panen Wangi Abadi (\"pwa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 452214,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Fashindo Abadi (\"mfa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 387460,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Map Properti Adiperkasa (\"mpa\")",
+      "business_type": "Lain-lain",
+      "total_assets": 376596,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Kebon Melati Properti (\"kmp\")",
+      "business_type": "Lain-lain",
+      "total_assets": 376512,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Gaya Indah (\"mgi\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 360891,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Fashindo Malaysia Sdn. Bhd (\"ufm\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 350759,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Noble Footwear Holdings Pte Ltd (\"nfh\")",
+      "business_type": "Lain-lain",
+      "total_assets": 319864,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "Universal Digimap Singapore Pte Ltd (\"uds\")",
+      "business_type": "Lain-lain",
+      "total_assets": 316520,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mapple Philipines Inc (\"mpi\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 315871,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Selaras Intibuana (\"psi\")",
+      "business_type": "Department Stores",
+      "total_assets": 308179,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Foot Locker Singapore Pte Ltd (\"ftls\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 304575,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sari Sandwich Indonesia (\"ssi\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 302395,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fashindo Selaras Indonesia Ritel \"(fsir\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 301014,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "Map Active Ftl Malaysia Sdn Bhd (\"ftlm\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 273420,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Gl Indonesia (\"pgi\")",
+      "business_type": "Department Stores",
+      "total_assets": 266114,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Putra Agung Lestari (\"pal\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 239040,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Noble Footwear (thailand) Ltd. (nft\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 237200,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Buana Perkasa (\"pbp\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 236355,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Map Active Singapore Pte Ltd (\"mas\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 207633,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Magna Management Asia Co. Ltd (\"mmav\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 199007,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Ritel Panen Adiperkasa (\"rpa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 197741,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitramode Duta Fashindo (\"mdf\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 190464,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Alun Alun Indonesia Kreasi (\"aai\")",
+      "business_type": "Lain-lain",
+      "total_assets": 169858,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mapple Mitra Adiperkasa Vietnam Co Ltd (\"mmav\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 157942,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sari Food Lestari (\"sfl\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 148476,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Selaras Adiperkasa (\"psa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 144449,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Agung Mandiri Lestari (\"aml\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 142159,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Siola Sandimas (\"ss\")",
+      "business_type": "Lain-lain",
+      "total_assets": 139684,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Bersama Karunia Mandiri (\"bkm\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 138185,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aldo Indonesia Adiperkasa (\"aia\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 132524,
+      "ownership_percentage": 51
+    },
+    {
+      "name": "PT Creasi Mode Indonesia (\"cmi\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 129093,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "Noble Footwear Malaysia Sdn. Bhd ('nfm\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 124798,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active Malaysia Sdn Bhd (\"mam\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 124701,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Premier Doughnut Indonesia (\"pdi\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 122203,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Maa Sports Singapore Pte Ltd (\"mass\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 118533,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sari Pizza Indonesia (\"spi\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 117726,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sukses Diva Mandiri (\"sdm\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 117490,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Garindo Perkasa (\"mgp\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 114304,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Out Of Asia (\"ooa\")",
+      "business_type": "Manufacturing",
+      "total_assets": 110117,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mitra Adiperkasa (cambodia) Co Ltd (\"mapc\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 99209,
+      "ownership_percentage": 20
+    },
+    {
+      "name": "PT Kosmetik Selaras Adiperkasa (\"ksa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 98801,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Astec Asia Adiperkasa (\"aaa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 97111,
+      "ownership_percentage": 90
+    },
+    {
+      "name": "Mitra Adiperkasa (cambodia) Co. Ltd. (\"mapc\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 96110,
+      "ownership_percentage": 20
+    },
+    {
+      "name": "Eon Atlantic Footwear Pte. Ltd. (\"eaf\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 84923,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Selaras Vietnam Co. Ltd (\"usv\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 80541,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitramode Duta Fashindo Vietnam Co. Ltd (\"mdfv\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 74506,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Omega Fashindo Adiperkasa (\"ofa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 57852,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Aldo Indonesia Adiperkasa Ritel (\"aiar\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 57376,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Prima Buana Perkasa Vietnam Co. Ltd (\"pbpv\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 57018,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "Maa Sports Malaysia Sdn Bhd (\"masm\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 52348,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Benua Prima Abadi (\"bpai\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 51022,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sari Icecream Indonesia (\"sii\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 48338,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kosmetik Lestari Adiperkasa (\"kla\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 44967,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Active (cambodia) Co. Ltd (\"mac\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 43763,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kinokuniya Bukindo (\"kb\")",
+      "business_type": "Book Stores",
+      "total_assets": 36195,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kosmetik Selaras Adiperkasa Ritel (\"ksar\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 34192,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Selaras Sempurna Ritel (\"mssr\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 32586,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Creasi Mode Indonesia Ritel (\"cmir\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 31252,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Prima Buana Perkasa Ritel (\"pbpr\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 30617,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarimode Griya (\"smg\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 29007,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Graha Prima Cemerlang (\"gpc\")",
+      "business_type": "Lain-lain",
+      "total_assets": 27619,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Benua Abadi Mentari (\"bam\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 27171,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Mitra Fashindo Abadi Ritel (\"mfar\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 25002,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Sukses Diva Mandiri Vietnam Co Ltd (\"sdmv\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 19216,
+      "ownership_percentage": 50
+    },
+    {
+      "name": "PT Benua Prima Agung (\"bpag\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 19160,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Benua Sumber Abadi (\"bsa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 18099,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Map Digital Adiperkasa (\"mda\")",
+      "business_type": "Lain-lain",
+      "total_assets": 17924,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Benua Prima Surya (\"bps\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 17573,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Panen Sehat Adiperkasa (\"psha\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 17549,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sukses Diva Mandiri Ritel (\"sdmr\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 17015,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitramode Duta Fashindo Ritel (\"mdfr\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 16761,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Mapple Mitra Adiperkasa (cambodia) Co Ltd (\"mmac\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 15379,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Griya Adiperkasa (\"mga\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 15001,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "Universal Fashion Vietnam Co Ltd (\"ufv\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 10645,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Griya Adiperkasa Ritel (\"mgar\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 10000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Bersama Karunia Mandiri Vietnam Co. Ltd. (\"ubkm\") - Pemilikan Tidak Langsung",
+      "business_type": "Penjualan Retail",
+      "total_assets": 9929,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bersama Karunia Mandiri Ritel (\"bkmr\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 9351,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Benua Sejahtera Mentari (\"bsm\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 8767,
+      "ownership_percentage": 99.98
+    },
+    {
+      "name": "PT Sdi Aktif Indonesia (\"sdia\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 8731,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Akademi Perkasa (\"makp\")",
+      "business_type": "Lain-lain",
+      "total_assets": 7838,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Premier Capital Investment (\"pci\")",
+      "business_type": "Lain-lain",
+      "total_assets": 7557,
+      "ownership_percentage": 99.5
+    },
+    {
+      "name": "PT Sarimode Fashindo Adiperkasa Ritel (\"sfar\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 6171,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Agung Sukses (\"gas\")",
+      "business_type": "Lain-lain",
+      "total_assets": 4726,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Graha Indah Lestari (\"gil\")",
+      "business_type": "Lain-lain",
+      "total_assets": 4517,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Asia Retail Investments Pte Ltd (\"ari\")",
+      "business_type": "Lain-lain",
+      "total_assets": 4124,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Omega Fashindo Adiperkasa Ritel (\"ofar\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 4026,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sarimode Griya Ritel (\"smgr\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 3707,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Fashindo Selaras Indonesia (\"fsi\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 3617,
+      "ownership_percentage": 0.05
+    },
+    {
+      "name": "PT Panen Mode Indonesia (\"pmi\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 2545,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Benua Hamparan Luas (\"bhl\")***",
+      "business_type": "Lain-lain",
+      "total_assets": 2481,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mitra Gaya Ritel (\"mgr\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 2168,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Putra Agung Ritel (\"par\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 1734,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mapple Digiplus Adiperkasa (\"mdpa)",
+      "business_type": "Penjualan Retail",
+      "total_assets": 1245,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Kreasi Indonesia (\"pki\")",
+      "business_type": "Lain-lain",
+      "total_assets": 1079,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Benua Agung Abadi (\"baa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 1047,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Java Retailindo (\"jr\")***",
+      "business_type": "Lain-lain",
+      "total_assets": 703,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Kinokuniya Indonesia (\"kpi\")",
+      "business_type": "Book Stores",
+      "total_assets": 518,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Aktif Ritel (\"maar\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 429,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Sports Lestari (\"psl\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 338,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Panen Tatagriya Indonesia (\"pti\")",
+      "business_type": "Lain-lain",
+      "total_assets": 218,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Athletica Sd Holdings Pte. Ltd (\"asdh\")",
+      "business_type": "Penjualan Ritel",
+      "total_assets": 167,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Active (thailand) Ltd (\"mapa(t)\")",
+      "business_type": "Lain-lain",
+      "total_assets": 149,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Sari Gemilang Makmur (\"sgm\")",
+      "business_type": "Lain-lain",
+      "total_assets": 131,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Fashion (cambodia) Co Ltd ('ufc\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 95,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Map Active (india) Pte. Ltd (\"main\")",
+      "business_type": "Penjualan Ritel",
+      "total_assets": 75,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Selaras (cambodia) Co Ltd (\"usc\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 72,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Map Active (\"mapa\")",
+      "business_type": "Lain-lain",
+      "total_assets": 45,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Roti Boga Adiperkasa (\"rba\")",
+      "business_type": "Cafe And Restaurant",
+      "total_assets": 37,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sdw Aktif Indonesia (\"sdwa\")",
+      "business_type": "Penjualan Retail",
+      "total_assets": 37,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Swalayan Panen Abadi (\"spa\")",
+      "business_type": "Lain-lain",
+      "total_assets": 34,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Sari Boga Lestari ('sbl\")",
+      "business_type": "Lain-lain",
+      "total_assets": 13,
+      "ownership_percentage": 54.66
+    },
+    {
+      "name": "PT Map Tropik Properti (\"mtp\")",
+      "business_type": "Lain-lain",
+      "total_assets": 3,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Fashion Philippine Ltd. - Pemilikan Tidak Langsung",
+      "business_type": "Penjualan Retail",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Universal Fashion Philippines Inc (\"ufp\")",
+      "business_type": "Penjualan Ritel",
+      "total_assets": 0,
+      "ownership_percentage": 100
+    }
+  ],
+  "public_accountants": [],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "20.169.000.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:15.655Z"
+}

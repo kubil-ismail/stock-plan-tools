@@ -1,0 +1,476 @@
+{
+  "company_name": "PT Olympus Strategic Indonesia Tbk",
+  "ticker": "NATO",
+  "office_address": "Jln. Sarinande No. 20 Lingkungan Seminyak, Badung, Bali",
+  "email": "admin@suryapermataandalan.co.id",
+  "phone": "(0361) 738163,",
+  "fax": "(0361) 731652",
+  "tax_id": "74.465.461.7-012.000",
+  "website": "https://www.suryapermataandalan.co.id",
+  "listing_date": "2019-01-18",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Bergerak di Bidang Perhotelan Melalui Entitas Anak",
+    "business_summary": "Perusahaan bergerak di bidang Hotel, Resor & Kapal Pesiar.",
+    "business_tags": [
+      "Hotel, Resor & Kapal Pesiar"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 2,
+    "name": "Barang Konsumen Non-Primer"
+  },
+  "sub_sector": {
+    "id": 13,
+    "name": "Jasa Konsumen",
+    "sector_id": 2
+  },
+  "industry": {
+    "id": 32,
+    "name": "Pariwisata & Rekreasi"
+  },
+  "sub_industry": {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  "corporate_secretary": {
+    "name": "Gede Putu Adnawa",
+    "email": "admin@olympusstrategicindonesia.com",
+    "phone": "(0361) 738163"
+  },
+  "directors": [
+    {
+      "name": "Mauritz Nainggolan",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Gede Putu Adnawa",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Hasan",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Benedictus Calvin Ardisa",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Benedictus Calvin Ardisa",
+      "position": "Ketua"
+    },
+    {
+      "name": "Rizki Sandra",
+      "position": "Anggota"
+    },
+    {
+      "name": "Sucintini Mataniputta",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 5247448105,
+      "percentage": 65.584
+    },
+    {
+      "name": "PT Mercury Strategic Indonesia",
+      "type": "Lebih dari 5%",
+      "shares": 2150000000,
+      "percentage": 26.871
+    },
+    {
+      "name": "PT Sukses Makmur Jayapratama",
+      "type": "Lebih dari 5%",
+      "shares": 603663399,
+      "percentage": 7.545
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Nusantara Mandala Prima",
+      "business_type": "Investasi",
+      "total_assets": 619219384852,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nusantara Mandala Prima",
+      "business_type": "Investasi",
+      "total_assets": 618494695566,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusantara Mandala Prima",
+      "business_type": "Investasi",
+      "total_assets": 618480554906,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusantara Mandala Prima",
+      "business_type": "Investasi",
+      "total_assets": 618272490718,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nusantara Mandala Prima",
+      "business_type": "Investasi",
+      "total_assets": 618145082338,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nusantara Mandala Prima",
+      "business_type": "Investasi",
+      "total_assets": 618145082338,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Aneka Dian Perkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 278416660000,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Aneka Dian Perkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 278412664000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Dian Perkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 278412664000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Dian Perkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 278411665000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Dian Perkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 278411665000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Aneka Dian Perkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 278410666000,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Multi Jaya",
+      "business_type": "Perhotelan",
+      "total_assets": 233927685311,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Multi Jaya",
+      "business_type": "Perhotelan",
+      "total_assets": 233898170525,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Multi Jaya",
+      "business_type": "Perhotelan",
+      "total_assets": 233808212071,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Multi Jaya",
+      "business_type": "Perhotelan",
+      "total_assets": 233808212071,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Multi Jaya",
+      "business_type": "Perhotelan",
+      "total_assets": 233439205864,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Citra Multi Jaya",
+      "business_type": "Perhotelan",
+      "total_assets": 233261098862,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nusantara Jaya Realti",
+      "business_type": "Investasi",
+      "total_assets": 183932029133,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nusantara Jaya Realti",
+      "business_type": "Investasi",
+      "total_assets": 180471158319,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nusantara Jaya Realti",
+      "business_type": "Investasi",
+      "total_assets": 175974140745,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusantara Jaya Realti",
+      "business_type": "Investasi",
+      "total_assets": 175268782326,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Nusantara Jaya Realti",
+      "business_type": "Investasi",
+      "total_assets": 175046488275,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Nusantara Jaya Realti",
+      "business_type": "Investasi",
+      "total_assets": 175046488275,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mitra Graha Tangguhperkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 109482721516,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Mitra Graha Tangguhperkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 108431953750,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Graha Tangguhperkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 108431953750,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Graha Tangguhperkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 108370561812,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Graha Tangguhperkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 108362715478,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mitra Graha Tangguhperkasa",
+      "business_type": "Perhotelan",
+      "total_assets": 108350287885,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Roku Bali Internasional Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 71554107381,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Roku Bali Internasional Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 71554107381,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Roku Bali Internasional Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 71314024531,
+      "ownership_percentage": 99.9
+    },
+    {
+      "name": "PT Roku Bali Internasional Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 70797934390,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Roku Bali Internasional Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 70275059639,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Roku Bali Internasional Indonesia",
+      "business_type": "Perhotelan",
+      "total_assets": 70042768905,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mimpi Design",
+      "business_type": "Perhotelan",
+      "total_assets": 28780123531,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Mimpi Design",
+      "business_type": "Perhotelan",
+      "total_assets": 26894636335,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mimpi Design",
+      "business_type": "Perhotelan",
+      "total_assets": 26443640612,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mimpi Design",
+      "business_type": "Perhotelan",
+      "total_assets": 26443640612,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mimpi Design",
+      "business_type": "Perhotelan",
+      "total_assets": 26389234753,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Mimpi Design",
+      "business_type": "Perhotelan",
+      "total_assets": 26057199873,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pelangi Anugerah Buana",
+      "business_type": "Perhotelan",
+      "total_assets": 15866950945,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pelangi Anugerah Buana",
+      "business_type": "Perhotelan",
+      "total_assets": 15567014087,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pelangi Anugerah Buana",
+      "business_type": "Perhotelan",
+      "total_assets": 15541607441,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pelangi Anugerah Buana",
+      "business_type": "Perhotelan",
+      "total_assets": 15541607441,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pelangi Anugerah Buana",
+      "business_type": "Perhotelan",
+      "total_assets": 14449448896,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Pelangi Anugerah Buana",
+      "business_type": "Perhotelan",
+      "total_assets": 13595740892,
+      "ownership_percentage": 99.9
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Antadaya, Helmiansyah dan Yassirli"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": "Tanubrata Sutanto Fahmi Bambang dan Rekan"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": "Kap Doli, Bambang, Sulistiyanto, Dadang & Ali"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    },
+    {
+      "name": "Kap Y. Santosa dan Rekan"
+    },
+    {
+      "name": "Budiman, Wawan, Pamudji & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "4.920.683.574.960",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:51:03.047Z"
+}

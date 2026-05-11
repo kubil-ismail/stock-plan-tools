@@ -1,0 +1,175 @@
+{
+  "company_name": "PT Multi Hanna Kreasindo Tbk",
+  "ticker": "MHKI",
+  "office_address": "Jalan Raya Narogong Km 12, Pangkalan II Nomor 23, Cikiwul, Bantar Gebang, Kota Bekasi, Jawa Barat 17152",
+  "email": "corporate.secretary@multihanna.co.id",
+  "phone": "0218250196",
+  "fax": "02182601939",
+  "tax_id": "02.413.120.3-432.000",
+  "website": "https://www.multihanna.co.id",
+  "listing_date": "2024-04-16",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Pengelolaan (treatment) Limbah Bahan Berbahaya dan Beracun (B3) dan Non B3",
+    "business_summary": "Perusahaan bergerak di bidang Jasa Pengelolaan Lingkungan & Sarana.",
+    "business_tags": [
+      "Jasa Pengelolaan Lingkungan & Sarana"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 8,
+    "name": "Perindustrian"
+  },
+  "sub_sector": {
+    "id": 15,
+    "name": "Jasa Perindustrian",
+    "sector_id": 8
+  },
+  "industry": {
+    "id": 14,
+    "name": "Jasa Komersial"
+  },
+  "sub_industry": {
+    "id": 30,
+    "name": "Jasa Pengelolaan Lingkungan & Sarana",
+    "industries_id": 14
+  },
+  "corporate_secretary": {
+    "name": "Gita Ayu Ashari",
+    "email": "corporate.secretary@multihanna.co.id",
+    "phone": "0218250196"
+  },
+  "directors": [
+    {
+      "name": "Alwi",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Hafidh Djoko Handy, Se. Mm.",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Vahmi, St.",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Oding Hirawan Masdari",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Oding Hirawan Masdari",
+      "position": "Ketua"
+    },
+    {
+      "name": "Fransisca Yulinartati",
+      "position": "Anggota"
+    },
+    {
+      "name": "Ridwanullah",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "PT Multi Hanna Sinergitama",
+      "type": "Lebih dari 5%",
+      "shares": 2947500000,
+      "percentage": 78.6
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 750000000,
+      "percentage": 20
+    },
+    {
+      "name": "Shahabuddin",
+      "type": "Direksi",
+      "shares": 49500000,
+      "percentage": 1.32
+    },
+    {
+      "name": "Vahmi",
+      "type": "Komisaris",
+      "shares": 3000000,
+      "percentage": 0.08
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    },
+    {
+      "name": "Kap Jamaludin, Ardi, Sukimto dan Rekan"
+    },
+    {
+      "name": "Joachim Adhi Piter Poltak & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "693.750.000.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:49:54.666Z"
+}

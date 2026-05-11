@@ -1,0 +1,288 @@
+{
+  "company_name": "PT Estika Tata Tiara Tbk.",
+  "ticker": "BEEF",
+  "office_address": "Equity Tower, Lantai 22 Unit A, Lot 9 - Sudirman Central Business District - Jl. Jend Sudirman Kav 52-53, Jakarta 12190",
+  "email": "corporatesecretary@estikafood.com",
+  "phone": "02151402094",
+  "fax": "-",
+  "tax_id": "02.052.697.6-413.000",
+  "website": "https://www.kibif.com",
+  "listing_date": "2019-01-10",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Menjalankan usaha terintegrasi dalam kegiatan produksi dan distribusi makanan olahan yang termasuk namun tidak terbatas pada pengolahan danperdagangan sapi, ayam, ikan, frozen dough, agribisnis peternakan baik yang dilakukan melalui Perseroan maupun Perusahaan Anak.",
+    "business_summary": "Perusahaan bergerak di bidang Makanan & Minuman.",
+    "business_tags": [
+      "Makanan & Minuman"
+    ],
+    "business_keywords": [
+      "food",
+      "beverage",
+      "makanan",
+      "minuman"
+    ]
+  },
+  "sector": {
+    "id": 3,
+    "name": "Barang Konsumen Primer"
+  },
+  "sub_sector": {
+    "id": 18,
+    "name": "Makanan & Minuman",
+    "sector_id": 3
+  },
+  "industry": {
+    "id": 23,
+    "name": "Makanan Olahan"
+  },
+  "sub_industry": {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  "corporate_secretary": {
+    "name": "Ratna Sari Ismianti",
+    "email": "corporatesecretary@estikafood.com",
+    "phone": "021-89835618"
+  },
+  "directors": [
+    {
+      "name": "Ir Imam Subowo Mma",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Edie",
+      "position": "Direktur",
+      "affiliated": true
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Billy Sabarto",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Aldi Imam Wibowo",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Yudi Arif",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Sektiawan Putro Nugroho",
+      "position": "Anggota"
+    },
+    {
+      "name": "Yudi Arif",
+      "position": "Ketua"
+    },
+    {
+      "name": "Syarifuddin Jusuf",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Asia Agri International Pte. Ltd",
+      "type": "Lebih dari 5%",
+      "shares": 5732270843,
+      "percentage": 70.59
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 2035678093,
+      "percentage": 25.07
+    },
+    {
+      "name": "Edie",
+      "type": "Direksi",
+      "shares": 352300086,
+      "percentage": 4.34
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Ir Imam Subowo",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Billy Sabarto",
+      "type": "Komisaris",
+      "shares": 576,
+      "percentage": 0
+    },
+    {
+      "name": "Yudi Arif",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Aldi Imam Wibowo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "PT Sukses International Anugerah Pratama",
+      "business_type": "Perdagangan",
+      "total_assets": 305238,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sukses International Anugerah Pratama",
+      "business_type": "Perdagangan",
+      "total_assets": 235512,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Fajar Jaya Anugerah",
+      "business_type": "Perdagangan",
+      "total_assets": 198801,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Sinar Wijaya Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 131002,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT Fajar Jaya Anugerah",
+      "business_type": "Perdagangan",
+      "total_assets": 112968,
+      "ownership_percentage": 99
+    },
+    {
+      "name": "PT De Glow International",
+      "business_type": "Pengolahan Makanan",
+      "total_assets": 70655,
+      "ownership_percentage": 99.62
+    },
+    {
+      "name": "PT De Glow International",
+      "business_type": "Pengolahan Makanan",
+      "total_assets": 62198,
+      "ownership_percentage": 99.62
+    },
+    {
+      "name": "PT De Glow International",
+      "business_type": "Pengolahan Makanan",
+      "total_assets": 62198,
+      "ownership_percentage": 99.62
+    },
+    {
+      "name": "PT De Glow International",
+      "business_type": "Pengolahan Makanan",
+      "total_assets": 61458,
+      "ownership_percentage": 99.62
+    },
+    {
+      "name": "PT De Glow International",
+      "business_type": "Pengolahan Makanan",
+      "total_assets": 57290,
+      "ownership_percentage": 99.62
+    },
+    {
+      "name": "PT De Glow International",
+      "business_type": "Pengolahan Makanan",
+      "total_assets": 54199,
+      "ownership_percentage": 99.62
+    },
+    {
+      "name": "PT Sinar Wijaya Utama",
+      "business_type": "Perdagangan",
+      "total_assets": 39713,
+      "ownership_percentage": 99
+    }
+  ],
+  "public_accountants": [
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Purwantono, Sungkoro & Surja"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Irfan Zulmendra"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Drs. Kartoyo dan Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    },
+    {
+      "name": "Kap Heliantono & Rekan"
+    },
+    {
+      "name": "Kanaka Puradiredja, Suhartono"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "1.656.530.917.992",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:39:59.428Z"
+}

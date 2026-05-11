@@ -1,0 +1,190 @@
+{
+  "company_name": "PT Maja Agung Latexindo Tbk.",
+  "ticker": "SURI",
+  "office_address": "Jalan Utama No 98 Desa Pujimulyo, Kecamatan Sunggal, Kabupaten Deli Serdang, Sumatera Utara 20352",
+  "email": "corsec@malgloves.com",
+  "phone": "(061) 8459170",
+  "fax": "",
+  "tax_id": "014573677123000",
+  "website": "https://www.malgloves.com",
+  "listing_date": "2023-12-07",
+  "listing_board": "Pengembangan",
+  "business_field": {
+    "raw_business": "Produsen Sarung Tangan Latex",
+    "business_summary": "Perusahaan bergerak di bidang Penyedia & Distribusi Perlengkapan Kesehatan.",
+    "business_tags": [
+      "Penyedia & Distribusi Perlengkapan Kesehatan"
+    ],
+    "business_keywords": []
+  },
+  "sector": {
+    "id": 6,
+    "name": "Kesehatan"
+  },
+  "sub_sector": {
+    "id": 11,
+    "name": "Jasa & Peralatan Kesehatan",
+    "sector_id": 6
+  },
+  "industry": {
+    "id": 39,
+    "name": "Peralatan & Perlengkapan Kesehatan"
+  },
+  "sub_industry": {
+    "id": 57,
+    "name": "Penyedia & Distribusi Perlengkapan Kesehatan",
+    "industries_id": 39
+  },
+  "corporate_secretary": {
+    "name": "Henry Patunru",
+    "email": "corsec@malgloves.com",
+    "phone": "(061) 8459170"
+  },
+  "directors": [
+    {
+      "name": "Imelda Lin",
+      "position": "Direktur Utama",
+      "affiliated": true
+    },
+    {
+      "name": "Henry Patunru",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Sasthavu Chettiyar Sivaprakash",
+      "position": "Direktur",
+      "affiliated": false
+    },
+    {
+      "name": "Engel Stefen",
+      "position": "Direktur",
+      "affiliated": false
+    }
+  ],
+  "commissioners": [
+    {
+      "name": "Louis Hans Laurance",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Jane Joe Laurance",
+      "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Dr. Sri Mulyani",
+      "position": "Komisaris",
+      "affiliated": true
+    }
+  ],
+  "audit_committee": [
+    {
+      "name": "Dr. Sri Mulyani",
+      "position": "Ketua"
+    },
+    {
+      "name": "Caecilia Rosy Susilowati Skom",
+      "position": "Anggota"
+    },
+    {
+      "name": "Fanny",
+      "position": "Anggota"
+    }
+  ],
+  "shareholders": [
+    {
+      "name": "Hansen Jap",
+      "type": "Lebih dari 5%",
+      "shares": 5409660300,
+      "percentage": 85.4
+    },
+    {
+      "name": "Masyarakat Non Warkat",
+      "type": "Masyarakat Non Warkat",
+      "shares": 924514700,
+      "percentage": 14.6
+    },
+    {
+      "name": "Saham Treasury",
+      "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Imelda Lin",
+      "type": "Direksi",
+      "shares": 200000,
+      "percentage": 0
+    }
+  ],
+  "subsidiaries": [],
+  "public_accountants": [
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    },
+    {
+      "name": "Kap Morhan dan Rekan"
+    },
+    {
+      "name": "Morhan & Rekan"
+    }
+  ],
+  "technical": {
+    "per": "",
+    "pbv": "",
+    "roe": "",
+    "roa": "",
+    "der": "",
+    "mkt_cap": "494.081.250.000",
+    "total_rev": "",
+    "_4_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_13_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_26_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "_52_wk_chg": {
+      "value": null,
+      "direction": "="
+    },
+    "npm": "",
+    "mtd": {
+      "value": null,
+      "direction": "="
+    },
+    "ytd": {
+      "value": null,
+      "direction": "="
+    }
+  },
+  "scraped_at": "2026-05-11T06:55:59.558Z"
+}
