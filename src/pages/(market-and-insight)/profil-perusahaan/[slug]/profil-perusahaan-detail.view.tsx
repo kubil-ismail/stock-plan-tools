@@ -19,7 +19,7 @@ function Company_detail_view({
   slug: string;
   detailCompany: ApilResponse<StockDetailResponse>;
 }) {
-  const selectedCompany = detailCompany.data;
+  const selectedCompany = detailCompany?.data;
 
   const [tabs, setTabs] = useState("profil-perusahaan");
 

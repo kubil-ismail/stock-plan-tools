@@ -220,7 +220,10 @@ function Watchlist_view() {
 
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
 
-  const currentItems = watchlist.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+  const currentItems = watchlist?.slice(
+    startIndex,
+    startIndex + ITEMS_PER_PAGE
+  );
 
   const totalPages = Math.ceil(watchlist.length / ITEMS_PER_PAGE);
 

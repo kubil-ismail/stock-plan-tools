@@ -14,7 +14,7 @@ function Profil_perusahaan_view({ search }: { search: string }) {
   const router = useRouter();
   const _company: StockListResponse[] = (
     company as { data: StockListResponse[] }
-  ).data;
+  )?.data;
 
   const [searchTerm, setSearchTerm] = useState(search ?? "");
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
@@ -47,8 +47,8 @@ function Profil_perusahaan_view({ search }: { search: string }) {
   }, [_company, searchTerm]);
 
   // PAGINATION
-  const visibleData = filteredCompanies.slice(0, visibleCount);
-  const hasMore = visibleCount < filteredCompanies.length;
+  const visibleData = filteredCompanies?.slice(0, visibleCount);
+  const hasMore = visibleCount < filteredCompanies?.length;
 
   const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = e.target.value;

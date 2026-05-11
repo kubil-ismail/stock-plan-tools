@@ -33,7 +33,6 @@ function Kepemilikan_saham_view(props: Props) {
 
     const keyword = normalize(search);
 
-
     return _shareholder?.data
       ?.filter((item) => {
         if (!keyword) return true;
@@ -62,16 +61,16 @@ function Kepemilikan_saham_view(props: Props) {
   }, [search, _shareholder?.data]);
 
   const visibleData = useMemo(() => {
-    return filteredData.slice(0, visibleCount);
+    return filteredData?.slice(0, visibleCount);
   }, [filteredData, visibleCount]);
 
-  const hasMore = visibleCount < filteredData.length;
+  const hasMore = visibleCount < filteredData?.length;
 
   const handleLoadMore = () => {
     posthog.capture("shareholder_load_more_clicked", {
       search_term: search,
       visible_count: visibleCount,
-      total_results: filteredData.length,
+      total_results: filteredData?.length,
     });
     setVisibleCount((prev) => prev + LOAD_MORE_STEP);
   };
@@ -80,7 +79,7 @@ function Kepemilikan_saham_view(props: Props) {
     if (search) {
       posthog.capture("shareholder_searched", {
         search_term: search,
-        result_count: filteredData.length,
+        result_count: filteredData?.length,
       });
     }
   };
@@ -119,14 +118,14 @@ function Kepemilikan_saham_view(props: Props) {
 
           <div className="flex items-center mb-6 mt-3 px-2">
             <p className="text-[14px] text-right text-gray-500">
-              Menampilkan {formatRupiah(filteredData.length, { prefix: false })}{" "}
+              Menampilkan {formatRupiah(filteredData?.length, { prefix: false })}{" "}
               data kepemilikan
             </p>
           </div>
         </div>
 
         <div className="grid grid-cols-3 gap-6">
-          {visibleData.map((item) => (
+          {visibleData?.map((item) => (
             <ShareholderGrid item={item} key={item.name} />
           ))}
         </div>
