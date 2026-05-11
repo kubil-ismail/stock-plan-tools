@@ -1,28 +1,41 @@
 import type { Metadata } from "next";
 import { unslugify } from "@/lib/utils";
-// import Kepemilikan_saham_view from "@/pages/(market-and-insight)/kepemilikan-saham/kepemilikan_saham.view";
+import Kepemilikan_saham_view from "@/pages/(market-and-insight)/kepemilikan-saham/kepemilikan_saham.view";
 
 type Props = {
   params: {
     slug: string;
   };
 };
+export default async function Page() {
+  try {
+    const [requestShareholderCompany] = await Promise.all([
+      fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/shareholder`).then(
+        (res) => {
+          if (!res.ok) {
+            throw new Error("Failed to fetch shareholder data");
+          }
 
-// export default async function Page() {
-//   const [requestShareholderCompany] = await Promise.all([
-//     fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/shareholder`).then(
-//       (res) => res.json()
-//     ),
-//   ]);
+          return res.json();
+        }
+      ),
+    ]);
 
-//   return <Kepemilikan_saham_view shareholder={requestShareholderCompany} />;
-// }
+    // eslint-disable-next-line react-hooks/error-boundaries
+    return <Kepemilikan_saham_view shareholder={requestShareholderCompany} />;
+  } catch (error) {
+    console.error("Shareholder Page Error:", error);
 
-function Page() {
-  return <h1>Maintenance</h1>;
+    return (
+      <Kepemilikan_saham_view
+        shareholder={{
+          total: 0,
+          data: [],
+        }}
+      />
+    );
+  }
 }
-
-export default Page;
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const _slug = (await params).slug;
