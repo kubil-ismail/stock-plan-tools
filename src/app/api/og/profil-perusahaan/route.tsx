@@ -181,6 +181,7 @@ export async function GET(req: Request) {
         height: 630,
       }
     );
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
   } catch (err: any) {
     console.log(`${err.message}`);
     return new Response(`Failed to generate the image`, {

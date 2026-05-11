@@ -1,16 +1,17 @@
-export const dynamic = "force-dynamic";
-
 import type { Metadata } from "next";
+import shareholder from "@/data/company/shareholders.json";
+import { JSONResponse, ShareholderResponse } from "@/types/stocks";
 import Kepemilikan_saham_view from "@/pages/(market-and-insight)/kepemilikan-saham/kepemilikan_saham.view";
 
 export default async function Page() {
-  const [requestShareholderCompany] = await Promise.all([
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/shareholder`).then(
-      (res) => res.json()
-    ),
-  ]);
+  const _shareholder = shareholder as ShareholderResponse[];
 
-  return <Kepemilikan_saham_view shareholder={requestShareholderCompany} />;
+  const shareholderData: JSONResponse<ShareholderResponse[]> = {
+    data: _shareholder,
+    total: _shareholder.length,
+  };
+
+  return <Kepemilikan_saham_view shareholder={shareholderData} />;
 }
 
 export const metadata: Metadata = {
