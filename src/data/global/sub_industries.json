@@ -1,0 +1,507 @@
+[
+  {
+    "id": 1,
+    "name": "Agen Perjalanan",
+    "industries_id": 32
+  },
+  {
+    "id": 2,
+    "name": "Alas Kaki",
+    "industries_id": 31
+  },
+  {
+    "id": 3,
+    "name": "Alumunium",
+    "industries_id": 21
+  },
+  {
+    "id": 4,
+    "name": "Aplikasi & Jasa Internet",
+    "industries_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Asuransi Jiwa",
+    "industries_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Asuransi Umum",
+    "industries_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Baja & Besi",
+    "industries_id": 21
+  },
+  {
+    "id": 8,
+    "name": "Ban",
+    "industries_id": 19
+  },
+  {
+    "id": 9,
+    "name": "Bank",
+    "industries_id": 3
+  },
+  {
+    "id": 10,
+    "name": "Bank Investasi & Perantara Perdagangan",
+    "industries_id": 13
+  },
+  {
+    "id": 11,
+    "name": "Barang Elektronik Konsumen",
+    "industries_id": 4
+  },
+  {
+    "id": 12,
+    "name": "Barang Kimia Dasar",
+    "industries_id": 5
+  },
+  {
+    "id": 13,
+    "name": "Barang Kimia Khusus",
+    "industries_id": 5
+  },
+  {
+    "id": 14,
+    "name": "Barang Kimia Pertanian",
+    "industries_id": 5
+  },
+  {
+    "id": 15,
+    "name": "Department Store",
+    "industries_id": 8
+  },
+  {
+    "id": 16,
+    "name": "Distribusi Batu Bara",
+    "industries_id": 35
+  },
+  {
+    "id": 17,
+    "name": "Distributor Barang Konsumen",
+    "industries_id": 9
+  },
+  {
+    "id": 18,
+    "name": "Emas",
+    "industries_id": 21
+  },
+  {
+    "id": 19,
+    "name": "Farmasi",
+    "industries_id": 10
+  },
+  {
+    "id": 20,
+    "name": "Fasilitas Rekreasi & Olah Raga",
+    "industries_id": 32
+  },
+  {
+    "id": 21,
+    "name": "Hiburan & Film",
+    "industries_id": 11
+  },
+  {
+    "id": 22,
+    "name": "Hotel, Resor & Kapal Pesiar",
+    "industries_id": 32
+  },
+  {
+    "id": 23,
+    "name": "Ikan, Daging & Produk Unggas",
+    "industries_id": 52
+  },
+  {
+    "id": 24,
+    "name": "Jasa & Konsultan TI",
+    "industries_id": 12
+  },
+  {
+    "id": 25,
+    "name": "Jasa & Perlengkapan Minyak, Gas & Batu Bara",
+    "industries_id": 35
+  },
+  {
+    "id": 26,
+    "name": "Jasa Pendidikan",
+    "industries_id": 34
+  },
+  {
+    "id": 27,
+    "name": "Jasa Pendukung Bisnis",
+    "industries_id": 14
+  },
+  {
+    "id": 28,
+    "name": "Jasa Penelitian & Konsultasi",
+    "industries_id": 15
+  },
+  {
+    "id": 29,
+    "name": "Jasa Pengeboran Minyak & Gas",
+    "industries_id": 35
+  },
+  {
+    "id": 30,
+    "name": "Jasa Pengelolaan Lingkungan & Sarana",
+    "industries_id": 14
+  },
+  {
+    "id": 31,
+    "name": "Jasa Personalia",
+    "industries_id": 15
+  },
+  {
+    "id": 32,
+    "name": "Jasa Real Estat",
+    "industries_id": 37
+  },
+  {
+    "id": 33,
+    "name": "Jasa Telekomunikasi Kabel",
+    "industries_id": 16
+  },
+  {
+    "id": 34,
+    "name": "Jasa Telekomunikasi Nirkabel",
+    "industries_id": 17
+  },
+  {
+    "id": 35,
+    "name": "Jasa Telekomunikasi Terintegrasi",
+    "industries_id": 16
+  },
+  {
+    "id": 36,
+    "name": "Kayu",
+    "industries_id": 48
+  },
+  {
+    "id": 37,
+    "name": "Kertas",
+    "industries_id": 48
+  },
+  {
+    "id": 38,
+    "name": "Komponen & Peralatan Kelistrikan",
+    "industries_id": 18
+  },
+  {
+    "id": 39,
+    "name": "Konstruksi Bangunan",
+    "industries_id": 20
+  },
+  {
+    "id": 40,
+    "name": "Logam & Mineral Lainnya",
+    "industries_id": 21
+  },
+  {
+    "id": 41,
+    "name": "Logistik & Pengantaran",
+    "industries_id": 22
+  },
+  {
+    "id": 42,
+    "name": "Makanan Olahan",
+    "industries_id": 23
+  },
+  {
+    "id": 43,
+    "name": "Manajemen Investasi",
+    "industries_id": 13
+  },
+  {
+    "id": 44,
+    "name": "Maskapai Penerbangan",
+    "industries_id": 24
+  },
+  {
+    "id": 45,
+    "name": "Material Konstruksi",
+    "industries_id": 25
+  },
+  {
+    "id": 46,
+    "name": "Mesin & Komponen Perindustrian",
+    "industries_id": 27
+  },
+  {
+    "id": 47,
+    "name": "Mesin Konstruksi & Kendaraan Berat",
+    "industries_id": 27
+  },
+  {
+    "id": 48,
+    "name": "Minuman Keras",
+    "industries_id": 28
+  },
+  {
+    "id": 49,
+    "name": "Minuman Ringan",
+    "industries_id": 28
+  },
+  {
+    "id": 50,
+    "name": "Operator Bandar Udara",
+    "industries_id": 30
+  },
+  {
+    "id": 51,
+    "name": "Operator Jalan Tol & Rel",
+    "industries_id": 30
+  },
+  {
+    "id": 52,
+    "name": "Operator Pelabuhan",
+    "industries_id": 30
+  },
+  {
+    "id": 53,
+    "name": "Pakaian, Aksesoris, & Tas",
+    "industries_id": 31
+  },
+  {
+    "id": 54,
+    "name": "Pembiayaan Konsumen",
+    "industries_id": 33
+  },
+  {
+    "id": 55,
+    "name": "Penerbitan",
+    "industries_id": 26
+  },
+  {
+    "id": 56,
+    "name": "Pengembang & Operator Real Estat",
+    "industries_id": 37
+  },
+  {
+    "id": 57,
+    "name": "Penyedia & Distribusi Perlengkapan Kesehatan",
+    "industries_id": 39
+  },
+  {
+    "id": 58,
+    "name": "Penyedia Jasa Kesehatan",
+    "industries_id": 38
+  },
+  {
+    "id": 59,
+    "name": "Penyiaran",
+    "industries_id": 26
+  },
+  {
+    "id": 60,
+    "name": "Penyiaran Berbayar",
+    "industries_id": 26
+  },
+  {
+    "id": 61,
+    "name": "Penyimpanan & Distribusi Minyak & Gas",
+    "industries_id": 29
+  },
+  {
+    "id": 62,
+    "name": "Peralatan Energi Alternatif",
+    "industries_id": 40
+  },
+  {
+    "id": 63,
+    "name": "Peralatan Jaringan",
+    "industries_id": 41
+  },
+  {
+    "id": 64,
+    "name": "Peralatan Kantor",
+    "industries_id": 6
+  },
+  {
+    "id": 65,
+    "name": "Peralatan Olah Raga & Barang Hobi",
+    "industries_id": 42
+  },
+  {
+    "id": 66,
+    "name": "Peralatan Rumah Tangga",
+    "industries_id": 6
+  },
+  {
+    "id": 67,
+    "name": "Perangkat & Instrumen Elektronik",
+    "industries_id": 45
+  },
+  {
+    "id": 68,
+    "name": "Perangkat Komputer",
+    "industries_id": 43
+  },
+  {
+    "id": 69,
+    "name": "Perangkat Lunak",
+    "industries_id": 44
+  },
+  {
+    "id": 70,
+    "name": "Percetakan Komersial",
+    "industries_id": 26
+  },
+  {
+    "id": 71,
+    "name": "Perdagangan Aneka Barang Perindustrian",
+    "industries_id": 46
+  },
+  {
+    "id": 72,
+    "name": "Periklanan",
+    "industries_id": 26
+  },
+  {
+    "id": 73,
+    "name": "Perkebunan & Tanaman Pangan",
+    "industries_id": 52
+  },
+  {
+    "id": 74,
+    "name": "Perlengkapan Rumah Tangga",
+    "industries_id": 6
+  },
+  {
+    "id": 75,
+    "name": "Perusahaan Holding Keuangan",
+    "industries_id": 49
+  },
+  {
+    "id": 76,
+    "name": "Perusahaan Holding Multi-sektor",
+    "industries_id": 50
+  },
+  {
+    "id": 77,
+    "name": "Perusahaan Investasi",
+    "industries_id": 49
+  },
+  {
+    "id": 78,
+    "name": "Produk & Perlengkapan Bangunan",
+    "industries_id": 51
+  },
+  {
+    "id": 79,
+    "name": "Produk Hutan Lainnya",
+    "industries_id": 48
+  },
+  {
+    "id": 80,
+    "name": "Produk Perawatan Tubuh",
+    "industries_id": 53
+  },
+  {
+    "id": 81,
+    "name": "Produk Susu Olahan",
+    "industries_id": 23
+  },
+  {
+    "id": 82,
+    "name": "Produksi & Penyulingan Minyak & Gas",
+    "industries_id": 29
+  },
+  {
+    "id": 83,
+    "name": "Produksi Batu Bara",
+    "industries_id": 7
+  },
+  {
+    "id": 84,
+    "name": "Produsen Furnitur Rumah",
+    "industries_id": 6
+  },
+  {
+    "id": 85,
+    "name": "Reasuransi",
+    "industries_id": 2
+  },
+  {
+    "id": 86,
+    "name": "Ritel & Distributor Makanan",
+    "industries_id": 47
+  },
+  {
+    "id": 87,
+    "name": "Ritel & Distributor Obat-obatan",
+    "industries_id": 54
+  },
+  {
+    "id": 88,
+    "name": "Ritel Barang Rumah Tangga",
+    "industries_id": 47
+  },
+  {
+    "id": 89,
+    "name": "Ritel Elektronik",
+    "industries_id": 54
+  },
+  {
+    "id": 90,
+    "name": "Ritel Otomotif",
+    "industries_id": 54
+  },
+  {
+    "id": 91,
+    "name": "Ritel Pakaian & Tekstil",
+    "industries_id": 54
+  },
+  {
+    "id": 92,
+    "name": "Rokok",
+    "industries_id": 55
+  },
+  {
+    "id": 93,
+    "name": "Rumah Makan",
+    "industries_id": 32
+  },
+  {
+    "id": 94,
+    "name": "Suku Cadang Otomotif",
+    "industries_id": 19
+  },
+  {
+    "id": 95,
+    "name": "Supermarket",
+    "industries_id": 47
+  },
+  {
+    "id": 96,
+    "name": "Tekstil",
+    "industries_id": 31
+  },
+  {
+    "id": 97,
+    "name": "Tembaga",
+    "industries_id": 21
+  },
+  {
+    "id": 98,
+    "name": "Transportasi Jalanan",
+    "industries_id": 36
+  },
+  {
+    "id": 99,
+    "name": "Utilitas Gas",
+    "industries_id": 56
+  },
+  {
+    "id": 100,
+    "name": "Utilitas Listrik",
+    "industries_id": 57
+  },
+  {
+    "id": 101,
+    "name": "Wadah & Kemasan",
+    "industries_id": 58
+  }
+]

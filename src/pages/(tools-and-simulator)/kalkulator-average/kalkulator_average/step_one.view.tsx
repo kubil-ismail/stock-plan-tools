@@ -7,11 +7,12 @@ import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { RupiahInput } from "@/components/numberinput";
 import { Autocomplete } from "@/components/autocomplete";
-import { StockDetail, StockList, StockListResponse } from "@/types/stocks";
+import { StockList, StockListResponse } from "@/types/stocks";
 import { BanknoteArrowDown, BanknoteArrowUp } from "lucide-react";
 import { ResultData } from "../kalkulator_avarage.view";
 
 import companyList from "@/data/company/company.json";
+import { FieldInfo } from "@/components/tooltip";
 
 const validationSchema = yup.object({
   price: yup
@@ -110,7 +111,7 @@ export default function Step_one_view({
 
   const handleChange = async (
     name: string,
-    value: string | number | Broker | null
+    value: string | number | Broker | null,
   ) => {
     formik.setFieldValue(name, value);
     formik.setFieldTouched(name, true, false);
@@ -199,11 +200,14 @@ export default function Step_one_view({
             </div>
             <div className="col-span-2 md:col-span-1">
               <label className="mb-2 block uppercase text-[12px]">
-                Harga Rata-Rata
+                <FieldInfo
+                  title="Harga Beli Rata-Rata"
+                  description="Harga rata-rata saham yang Anda miliki saat ini sebelum membeli tambahan saham."
+                />
               </label>
 
               <RupiahInput
-                placeholder="Masukan harga rata-rata"
+                placeholder="Contoh: 850"
                 value={formik.values.price}
                 onChange={(value) => handleChange("price", value)}
                 error={formik.touched.price && Boolean(formik.errors.price)}
@@ -218,15 +222,19 @@ export default function Step_one_view({
 
             <div className="col-span-2 md:col-span-1">
               <label className="mb-2 block uppercase text-[12px]">
-                Total Lot Saat Ini
+                <FieldInfo
+                  title="Total Lot Saat Ini"
+                  description="Jumlah lot saham yang kamu miliki saat ini."
+                />
               </label>
 
               <RupiahInput
                 disablePrefix
-                placeholder="Masukan total lot saat ini"
+                placeholder="Contoh: 5"
                 value={formik.values.lot}
                 onChange={(value) => handleChange("lot", value)}
                 error={formik.touched.lot && Boolean(formik.errors.lot)}
+                addons="Lot"
               />
 
               {formik.touched.lot && Boolean(formik.errors.lot) && (
@@ -256,11 +264,14 @@ export default function Step_one_view({
           <div className="grid grid-cols-2 gap-5">
             <div className="col-span-2 md:col-span-1">
               <label className="mb-2 block uppercase text-[12px]">
-                Harga Beli
+                <FieldInfo
+                  title="Harga Beli"
+                  description="Harga saham yang ingin kamu beli sekarang."
+                />
               </label>
 
               <RupiahInput
-                placeholder="Masukan harga beli"
+                placeholder="Contoh: 1000"
                 value={formik.values.buy_price}
                 onChange={(value) => handleChange("buy_price", value)}
                 error={
@@ -277,15 +288,19 @@ export default function Step_one_view({
 
             <div className="col-span-2 md:col-span-1">
               <label className="mb-2 block uppercase text-[12px]">
-                Total Lot
+                <FieldInfo
+                  title="Jumlah Lot"
+                  description="Berapa lot yang ingin kamu beli."
+                />
               </label>
 
               <RupiahInput
                 disablePrefix
-                placeholder="Masukan total lot"
+                placeholder="Contoh: 10"
                 value={formik.values.buy_lot}
                 onChange={(value) => handleChange("buy_lot", value)}
                 error={formik.touched.buy_lot && Boolean(formik.errors.buy_lot)}
+                addons="Lot"
               />
 
               {formik.touched.buy_lot && Boolean(formik.errors.buy_lot) && (

@@ -17,6 +17,7 @@ interface RupiahInputProps {
   error?: boolean;
   helperText?: string | boolean | undefined;
   disabled?: boolean;
+  addons?: string;
 }
 
 export function RupiahInput({
@@ -26,6 +27,7 @@ export function RupiahInput({
   allowDecimal = true,
   disablePrefix = false,
   disabled = false,
+  addons,
 }: RupiahInputProps) {
   const [display, setDisplay] = useState("");
 
@@ -151,6 +153,8 @@ export function RupiahInput({
         onFocus={handleFocus}
         disabled={disabled}
       />
+
+      {addons && <InputGroupAddon align="inline-end">{addons}</InputGroupAddon>}
     </InputGroup>
   );
 }
