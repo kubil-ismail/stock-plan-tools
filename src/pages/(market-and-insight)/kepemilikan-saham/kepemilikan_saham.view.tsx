@@ -132,7 +132,7 @@ function Kepemilikan_saham_view(props: Props) {
           ))}
         </div>
 
-        {Boolean(visibleData.length === 0) && (
+        {Boolean(visibleData?.length === 0) && (
           <div className="col-span-full border border-dashed rounded-xl p-6 text-center text-sm text-muted-foreground">
             <div className="py-12 text-center">
               <div className="w-16 h-16 rounded-2xl bg-muted/30 flex items-center justify-center mx-auto mb-4">
