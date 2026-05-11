@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import type { Metadata } from "next";
 import { unslugify } from "@/lib/utils";
 import Kepemilikan_saham_view from "@/pages/(market-and-insight)/kepemilikan-saham/kepemilikan_saham.view";
@@ -7,34 +9,15 @@ type Props = {
     slug: string;
   };
 };
+
 export default async function Page() {
-  try {
-    const [requestShareholderCompany] = await Promise.all([
-      fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/shareholder`).then(
-        (res) => {
-          if (!res.ok) {
-            throw new Error("Failed to fetch shareholder data");
-          }
+  const [requestShareholderCompany] = await Promise.all([
+    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/company/shareholder`).then(
+      (res) => res.json()
+    ),
+  ]);
 
-          return res.json();
-        }
-      ),
-    ]);
-
-    // eslint-disable-next-line react-hooks/error-boundaries
-    return <Kepemilikan_saham_view shareholder={requestShareholderCompany} />;
-  } catch (error) {
-    console.error("Shareholder Page Error:", error);
-
-    return (
-      <Kepemilikan_saham_view
-        shareholder={{
-          total: 0,
-          data: [],
-        }}
-      />
-    );
-  }
+  return <Kepemilikan_saham_view shareholder={requestShareholderCompany} />;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

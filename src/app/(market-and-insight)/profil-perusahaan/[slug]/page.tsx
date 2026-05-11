@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { Metadata } from "next";
 import { StockDetailResponse } from "@/types/stocks";
 import Profil_perusahaan_detail_view from "@/pages/(market-and-insight)/profil-perusahaan/[slug]/profil-perusahaan-detail.view";
