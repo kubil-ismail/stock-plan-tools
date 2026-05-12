@@ -47,8 +47,6 @@ function Profil_perusahaan_view(props: Props) {
     })) ?? []),
   ]);
 
-  console.log(managements);
-
   const shareholders =
     selectedCompany?.shareholders
       ?.slice()

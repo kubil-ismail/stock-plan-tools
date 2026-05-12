@@ -45,8 +45,6 @@ export default function ShareholderGrid(props: Props) {
     return sortedCompanies.slice(0, 6);
   }, [showAllCompanies, sortedCompanies]);
 
-  console.log("displayedCompanies", displayedCompanies);
-
   return (
     <div className="w-full relative col-span-3 md:col-span-1">
       <div className="bg-white/60 border border-white/30 shadow-sm rounded-3xl p-5 md:p-8 transition">
