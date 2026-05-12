@@ -1,5 +1,5 @@
 import { formatRupiah } from "@/lib/utils";
-import { Building2, User, Users, Landmark } from "lucide-react";
+import { Building2, ChevronRight, Landmark, User, Users } from "lucide-react";
 
 function getShareholderIcon(type?: string) {
   switch (type) {
@@ -38,28 +38,38 @@ export default function ShareholderCard(props: {
       : item?.percentage;
 
   return (
-    <div className="bg-muted/40 rounded-xl p-4 flex items-start gap-3">
-      <div className="w-10 h-10 rounded-full bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center flex-shrink-0">
-        <span className="text-[14px] font-bold text-primary">
+    <div className="group bg-muted/40 hover:bg-muted/70 transition-all duration-300 rounded-xl p-4 flex items-start justify-between gap-3 border border-transparent hover:border-border cursor-pointer hover:shadow-sm">
+      <div className="flex items-start gap-3">
+        <div className="w-10 h-10 rounded-full bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center flex-shrink-0 transition-transform duration-300 group-hover:scale-105">
           {getShareholderIcon(item.type)}
-        </span>
-      </div>
-      <div>
-        <div className="flex items-center gap-3">
-          <p className="text-[14px] font-semibold text-foreground mb-0.5 capitalize">
-            {item?.name}
-          </p>
         </div>
 
-        <p className="text-[12px] text-muted-foreground">
-          <span className="font-medium">Jenis:</span> {item?.type}
-        </p>
+        <div>
+          <div className="flex min-w-0">
+            <p
+              className={`font-semibold text-foreground mb-0.5 capitalize transition-all duration-300 group-hover:text-primary leading-snug break-words ${
+                item?.name?.length > 40 ? "text-[13px]" : "text-[14px]"
+              }`}
+            >
+              {item?.name}
+            </p>
+          </div>
 
-        <p className="text-[12px] text-muted-foreground">
-          <span className="font-medium">Jumlah:</span>{" "}
-          {formatRupiah(item?.shares, { prefix: false })} ({percentage})
-        </p>
+          <p className="text-[12px] text-muted-foreground">
+            <span className="font-medium">Jenis:</span> {item?.type}
+          </p>
+
+          <p className="text-[12px] text-muted-foreground">
+            <span className="font-medium">Jumlah:</span>{" "}
+            {formatRupiah(item?.shares, { prefix: false })} ({percentage})
+          </p>
+        </div>
       </div>
+
+      <ChevronRight
+        size={18}
+        className="text-muted-foreground transition-all duration-300 group-hover:translate-x-1 group-hover:text-primary"
+      />
     </div>
   );
 }

@@ -1,5 +1,5 @@
-import React, { useMemo } from "react";
-import { Building2, Flag, User } from "lucide-react";
+import React, { useMemo, useState } from "react";
+import { Building2, ExternalLink, Flag, User } from "lucide-react";
 import { ShareholderResponse } from "@/types/stocks";
 import Link from "next/link";
 import {
@@ -14,6 +14,8 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover";
 
+import { motion } from "framer-motion";
+
 const ROLE_LABEL: Record<string, string> = {
   SH: "Shareholder",
   DIR: "Director",
@@ -27,12 +29,20 @@ interface Props {
 export default function ShareholderGrid(props: Props) {
   const { item } = props;
 
+  const [showAllCompanies, setShowAllCompanies] = useState(false);
+
   const sortedCompanies = useMemo(() => {
     return [...item.companies].sort(
       (a, b) =>
-        (b.shareholder?.percentage ?? 0) - (a.shareholder?.percentage ?? 0)
+        (b.shareholder?.percentage ?? 0) - (a.shareholder?.percentage ?? 0),
     );
   }, [item.companies]);
+
+  const displayedCompanies = useMemo(() => {
+    if (showAllCompanies) return sortedCompanies;
+
+    return sortedCompanies.slice(0, 6);
+  }, [showAllCompanies, sortedCompanies]);
 
   return (
     <div className="w-full relative col-span-3 md:col-span-1">
@@ -66,47 +76,77 @@ export default function ShareholderGrid(props: Props) {
         </div>
 
         {/* LIST */}
-        <div className="space-y-2 max-h-[320px] overflow-auto pr-1">
-          {sortedCompanies.map((company, index) => {
-            const detail = company.shareholder?.percentage
-              ? `${company.shareholder.percentage}%`
-              : company.director?.title || company.commissioner?.title || "-";
+        <div className="space-y-2">
+          <motion.div
+            layout
+            transition={{
+              duration: 0.2,
+              ease: "easeOut",
+            }}
+            className="space-y-2"
+          >
+            {displayedCompanies.map((company, index) => {
+              const detail = company.shareholder?.percentage
+                ? `${company.shareholder.percentage}%`
+                : company.director?.title || company.commissioner?.title || "-";
 
-            return (
-              <Link
-                key={`${item.slug}_${company.ticker}_${index}`}
-                href={`/profil-perusahaan/${company.ticker}`}
-                target="_blank"
-              >
-                <div className="bg-white/70 border border-white/40 rounded-xl px-3 py-2.5 grid grid-cols-12 gap-2 items-center hover:bg-white hover:shadow-sm transition-all duration-200">
-                  {/* COMPANY */}
-                  <div className="col-span-6 min-w-0">
-                    <p className="font-bold text-gray-800 text-[13px] leading-none">
-                      {company.ticker}
-                    </p>
+              return (
+                <motion.div
+                  key={`${item.slug}_${company.ticker}_${index}`}
+                  layout
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  transition={{
+                    duration: 0.18,
+                    delay: index * 0.015,
+                  }}
+                >
+                  <Link
+                    href={`/profil-perusahaan/${company.ticker}`}
+                    className="block"
+                  >
+                    <div className="group bg-background border border-border/60 rounded-xl px-3 py-2.5 grid grid-cols-12 gap-2 items-center transition-colors duration-200 hover:border-border hover:bg-muted/20 active:bg-muted/30 cursor-pointer">
+                      {/* COMPANY */}
+                      <div className="col-span-6 min-w-0">
+                        <p className="font-bold text-foreground text-[13px] leading-none">
+                          {company.ticker}
+                        </p>
 
-                    <p className="text-[11px] text-gray-500 truncate mt-1">
-                      {company.name}
-                    </p>
-                  </div>
+                        <p className="text-[11px] text-muted-foreground truncate mt-1">
+                          {company.name}
+                        </p>
+                      </div>
 
-                  {/* ROLE */}
-                  <div className="col-span-3">
-                    <RoleBadge roles={company.roles} />
-                  </div>
+                      {/* ROLE */}
+                      <div className="col-span-3">
+                        <RoleBadge roles={company.roles} />
+                      </div>
 
-                  {/* DETAIL */}
-                  <div className="col-span-3 min-w-0">
-                    <DetailInfo
-                      detail={detail}
-                      type={company.shareholder?.type}
-                    />
-                  </div>
-                </div>
-              </Link>
-            );
-          })}
+                      {/* DETAIL */}
+                      <div className="col-span-3 min-w-0">
+                        <DetailInfo
+                          detail={detail}
+                          type={company.shareholder?.type}
+                        />
+                      </div>
+                    </div>
+                  </Link>
+                </motion.div>
+              );
+            })}
+          </motion.div>
         </div>
+
+        {sortedCompanies.length > 6 && (
+          <button
+            onClick={() => setShowAllCompanies((prev) => !prev)}
+            className="mt-4 w-full rounded-xl border border-border/60 bg-background/70 hover:bg-muted/40 transition-all duration-300 px-4 py-2.5 text-[13px] font-medium text-muted-foreground hover:text-foreground"
+          >
+            {showAllCompanies
+              ? "Tampilkan Lebih Sedikit"
+              : `Tampilkan Semua (${sortedCompanies.length})`}
+          </button>
+        )}
       </div>
     </div>
   );
@@ -114,14 +154,17 @@ export default function ShareholderGrid(props: Props) {
 
 function SummaryCard({ label, value }: { label: string; value: number }) {
   return (
-    <div className="bg-white/60 border border-white/40 rounded-2xl p-4">
-      <p className="text-xl font-bold text-gray-900">{value}</p>
+    <div className="rounded-xl border border-border/60 bg-muted/20 px-3 py-2.5">
+      <p className="text-[18px] leading-none font-bold text-foreground">
+        {value}
+      </p>
 
-      <p className="text-xs text-gray-500 mt-1">{label}</p>
+      <p className="text-[10px] text-muted-foreground mt-1 leading-tight">
+        {label}
+      </p>
     </div>
   );
 }
-
 function DetailInfo({ detail, type }: { detail: string; type?: string }) {
   if (!type) {
     return (
@@ -313,6 +356,10 @@ function ShareholderTitle({
           className="inline-flex items-center gap-2 text-gray-800 hover:underline underline-offset-4"
         >
           <h2 className="font-bold text-lg leading-snug capitalize">{name}</h2>
+          <ExternalLink
+            onClick={() => window.open(searchUrl, "_blank")}
+            className="cursor-pointer block w-[14px] h-[14px] text-gray-500"
+          />
         </a>
         <p className="text-[13px] capitalize text-neutral-500">{category}</p>
       </div>

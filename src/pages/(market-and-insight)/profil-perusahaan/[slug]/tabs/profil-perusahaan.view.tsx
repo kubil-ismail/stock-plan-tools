@@ -13,6 +13,7 @@ import {
   sortManagement,
 } from "@/lib/utils";
 import { format } from "date-fns";
+import { ExternalLink } from "lucide-react";
 
 interface Props {
   selectedCompany: StockDetailResponse;
@@ -87,13 +88,21 @@ function Profil_perusahaan_view(props: Props) {
             <h4 className="text-[16px] font-semibold text-foreground mb-1">
               Website
             </h4>
-            <a
-              href={formatUrl(selectedCompany?.website)}
-              target="_blank"
-              className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
-            >
-              {selectedCompany?.website}
-            </a>
+
+            <div className="flex items-center gap-1 mb-4 mt-0">
+              <a
+                href={formatUrl(selectedCompany?.website)}
+                target="_blank"
+                className="block text-[14px] text-muted-foreground leading-relaxed! underline"
+              >
+                {selectedCompany?.website}
+              </a>
+
+              <ExternalLink
+                onClick={() => window.open(formatUrl(selectedCompany?.website), "_blank")}
+                className="cursor-pointer block w-[14px] h-[14px] text-muted-foreground"
+              />
+            </div>
 
             <h4 className="text-[16px] font-semibold text-foreground mb-1">
               Tanggal IPO
@@ -101,7 +110,7 @@ function Profil_perusahaan_view(props: Props) {
             <p className="text-[14px] text-muted-foreground leading-relaxed">
               {format(
                 selectedCompany?.listing_date ?? new Date(),
-                "d MMMM yyyy"
+                "d MMMM yyyy",
               )}
             </p>
           </div>
@@ -110,12 +119,12 @@ function Profil_perusahaan_view(props: Props) {
             <h4 className="text-[16px] font-semibold text-foreground mb-1">
               Industri
             </h4>
-            <a
+            <Link
               href={`/profil-perusahaan?search=${selectedCompany?.industry?.name}`}
               className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
             >
               {selectedCompany?.industry?.name}
-            </a>
+            </Link>
 
             <h4 className="text-[16px] font-semibold text-foreground mb-1">
               NPWP
@@ -136,12 +145,12 @@ function Profil_perusahaan_view(props: Props) {
             <h4 className="text-[16px] font-semibold text-foreground mb-1">
               Papan
             </h4>
-            <a
+            <Link
               href={`/profil-perusahaan?search=${selectedCompany?.listing_board}`}
               className="text-[14px] text-muted-foreground leading-relaxed! mb-4 mt-0 block underline"
             >
               {selectedCompany?.listing_board}
-            </a>
+            </Link>
 
             <h4 className="text-[16px] font-semibold text-foreground mb-1">
               Kantor Utama

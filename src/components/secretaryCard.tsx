@@ -1,4 +1,4 @@
-import { Mail, Phone } from "lucide-react";
+import { ExternalLink, Mail, Phone } from "lucide-react";
 
 interface Props {
   secretary: {
@@ -32,7 +32,7 @@ function SecretaryCard(props: Props) {
         <div className="flex items-center gap-1 mb-1">
           <Mail className="text-muted-foreground" size={13} />
           <a
-            className="text-[13px] text-muted-foreground"
+            className="text-[13px] text-muted-foreground underline"
             href={`mailto:${secretary?.email}`}
           >
             {secretary?.email}

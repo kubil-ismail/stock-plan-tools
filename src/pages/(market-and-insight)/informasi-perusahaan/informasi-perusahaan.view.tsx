@@ -9,6 +9,7 @@ import { useMemo, useRef, useState } from "react";
 import { format, addDays, subDays } from "date-fns";
 import { id } from "date-fns/locale";
 import { cn } from "@/lib/utils";
+import Link from "next/link";
 
 import posthog from "posthog-js";
 import CompanyLogo from "@/components/companyLogo";
@@ -29,7 +30,7 @@ function Informasi_perusahaan_view() {
         item.tanggal ===
         format(date, "dd MMM yyyy", {
           locale: id,
-        })
+        }),
     );
   }, [date, calendar.data]);
 
@@ -39,7 +40,7 @@ function Informasi_perusahaan_view() {
         item.entry_date ===
         format(date, "dd MMM yyyy", {
           locale: id,
-        })
+        }),
     );
   }, [date, pemantauan_khusus.data]);
 
@@ -192,12 +193,12 @@ function Informasi_perusahaan_view() {
                       item.notation
                         ?.slice()
                         ?.map((item) => item.code)
-                        .join(",")
+                        .join(","),
                     )}
                     desc={String(
                       item.notation
                         ?.map((item) => `${item.code} : ${item.description}\n`)
-                        .join("")
+                        .join(""),
                     )}
                     company_name={item.company_name}
                   />
@@ -252,12 +253,12 @@ function Informasi_perusahaan_view() {
                     item.notation
                       ?.slice()
                       ?.map((item) => item.code)
-                      .join(",")
+                      .join(","),
                   )}
                   desc={String(
                     item.notation
                       ?.map((item) => `${item.code} : ${item.description}\n`)
-                      .join("")
+                      .join(""),
                   )}
                   company_name={item.company_name}
                 />
@@ -331,22 +332,17 @@ export function Calendar_card(props: {
   return (
     <Card>
       <CardContent className="text-sm flex  gap-3">
-        <a
-          href={`/profil-perusahaan/${ticker}`}
-          target="_blank"
-          className="hidden md:block"
-        >
+        <Link href={`/profil-perusahaan/${ticker}`} className="hidden md:block">
           <CompanyLogo
             company={{
               ticker: ticker,
             }}
           />
-        </a>
+        </Link>
 
         <div className="space-y-0.5 w-full">
-          <a
+          <Link
             href={`/profil-perusahaan/${ticker}`}
-            target="_blank"
             className={cn(simplify ? "hidden" : "block md:hidden mb-5")}
           >
             <CompanyLogo
@@ -354,17 +350,16 @@ export function Calendar_card(props: {
                 ticker: ticker,
               }}
             />
-          </a>
+          </Link>
 
           <div className="flex justify-between items-center">
             {!simplify && (
-              <a
+              <Link
                 className="text-[19px] font-semibold text-foreground"
                 href={`/profil-perusahaan/${ticker}`}
-                target="_blank"
               >
                 {ticker}
-              </a>
+              </Link>
             )}
 
             <CategoryBadge type="AKSI_KORPORAT" />
@@ -421,9 +416,8 @@ export function Notation_card(props: {
   return (
     <Card>
       <CardContent className="text-sm flex gap-3">
-        <a
+        <Link
           href={`/profil-perusahaan/${ticker}`}
-          target="_blank"
           className="hidden md:block"
         >
           <CompanyLogo
@@ -431,12 +425,11 @@ export function Notation_card(props: {
               ticker: ticker ?? "",
             }}
           />
-        </a>
+        </Link>
 
         <div className="space-y-0.5 w-full">
-          <a
+          <Link
             href={`/profil-perusahaan/${ticker}`}
-            target="_blank"
             className={cn(simplify ? "hidden" : "block md:hidden mb-5")}
           >
             <CompanyLogo
@@ -444,17 +437,16 @@ export function Notation_card(props: {
                 ticker: ticker ?? "",
               }}
             />
-          </a>
+          </Link>
 
           {!simplify && (
             <div className="flex justify-between items-center">
-              <a
+              <Link
                 className="text-[19px] font-semibold text-foreground"
                 href={`/profil-perusahaan/${ticker}`}
-                target="_blank"
               >
                 {ticker}
-              </a>
+              </Link>
               <CategoryBadge type="NOTASI_KHUSUS" />
             </div>
           )}
