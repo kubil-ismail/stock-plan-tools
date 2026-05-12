@@ -3,17 +3,13 @@ import ManagementCard from "@/components/managementCard";
 import SecretaryCard from "@/components/secretaryCard";
 import ShareholderCard from "@/components/shareholderCard";
 import SubsidiarieCard from "@/components/subsidiarieCard";
-import {
-  StockDetailResponse,
-  StockManagement,
-  StockDirectors,
-} from "@/types/stocks";
+import { StockDetailResponse, StockDirectors } from "@/types/stocks";
 import { GlassCard } from "@/components/glassCard";
 import {
   formatUrl,
   normalizeSlug,
   parseNumber,
-  slugify,
+  removeDuplicateCompanies,
   sortManagement,
 } from "@/lib/utils";
 import { format } from "date-fns";
@@ -34,22 +30,36 @@ function Profil_perusahaan_view(props: Props) {
   const secretary = selectedCompany?.corporate_secretary;
 
   const managements = sortManagement([
-    ...(selectedCompany?.directors ?? []),
-    ...(selectedCompany?.commissioners ?? []),
-    ...(selectedCompany?.audit_committee ?? []),
+    ...(selectedCompany?.directors?.map((item) => ({
+      ...item,
+      type: "DIREKTUR",
+    })) ?? []),
+
+    ...(selectedCompany?.commissioners?.map((item) => ({
+      ...item,
+      type: "KOMISARIS",
+    })) ?? []),
+
+    ...(selectedCompany?.audit_committee?.map((item) => ({
+      ...item,
+      type: "KOMITE AUDIT",
+    })) ?? []),
   ]);
+
+  console.log(managements);
 
   const shareholders =
     selectedCompany?.shareholders
       ?.slice()
       ?.sort((a, b) => parseNumber(b.shares) - parseNumber(a.shares)) ?? [];
 
-  const subsidiaries =
+  const subsidiaries = removeDuplicateCompanies(
     selectedCompany?.subsidiaries
       ?.slice()
       ?.sort(
         (a, b) => parseNumber(b.total_assets) - parseNumber(a.total_assets)
-      ) ?? [];
+      ) ?? []
+  );
 
   return (
     <GlassCard>

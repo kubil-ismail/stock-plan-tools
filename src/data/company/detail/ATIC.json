@@ -52,12 +52,7 @@
   },
   "directors": [
     {
-      "name": "Hideaki Ohashi",
-      "position": "Direktur",
-      "affiliated": true
-    },
-    {
-      "name": "Rieko Kawaguchi",
+      "name": "Jonathan Budi Tanuadji",
       "position": "Direktur",
       "affiliated": true
     },
@@ -79,17 +74,17 @@
   ],
   "commissioners": [
     {
-      "name": "Ignasius Jonan",
+      "name": "Irfan Setiaputra",
       "position": "Presiden Komisaris",
       "affiliated": true
     },
     {
-      "name": "Antonius Agus Susanto",
+      "name": "Prasetio",
       "position": "Komisaris",
-      "affiliated": false
+      "affiliated": true
     },
     {
-      "name": "Josaku Yanai",
+      "name": "Victor Budi Tanuadji",
       "position": "Komisaris",
       "affiliated": false
     }
@@ -124,8 +119,8 @@
     {
       "name": "Masyarakat Non Warkat",
       "type": "Masyarakat Non Warkat",
-      "shares": 248377235,
-      "percentage": 10.7273
+      "shares": 367961671,
+      "percentage": 15.8922
     },
     {
       "name": "Handoko Anindya Tanuadji",
@@ -140,28 +135,10 @@
       "percentage": 5.1828
     },
     {
-      "name": "Flaminggo Mandiri PT",
-      "type": "Lebih dari 5%",
-      "shares": 55906430,
-      "percentage": 2.4146
-    },
-    {
       "name": "Harry Surjanto Hambali",
       "type": "Direksi",
       "shares": 47181967,
       "percentage": 2.0378
-    },
-    {
-      "name": "Masyarakat Warkat",
-      "type": "Masyarakat Warkat",
-      "shares": 35451980,
-      "percentage": 1.5312
-    },
-    {
-      "name": "Rosy Merianti Tanuadji",
-      "type": "Lebih dari 5%",
-      "shares": 28226026,
-      "percentage": 1.2191
     },
     {
       "name": "Lie David Limina",
@@ -184,6 +161,12 @@
     {
       "name": "Saham Treasury",
       "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
       "shares": 0,
       "percentage": 0
     }
@@ -255,30 +238,30 @@
     "mkt_cap": "1.261.871.938.475",
     "total_rev": "",
     "_4_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "0,94",
+      "direction": "-"
     },
     "_13_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "11,02",
+      "direction": "-"
     },
     "_26_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "27,59",
+      "direction": "-"
     },
     "_52_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "29,31",
+      "direction": "+"
     },
     "npm": "",
     "mtd": {
-      "value": null,
-      "direction": "="
+      "value": "3,67",
+      "direction": "-"
     },
     "ytd": {
-      "value": null,
-      "direction": "="
+      "value": "18,60",
+      "direction": "-"
     }
   },
-  "scraped_at": "2026-05-11T03:41:02.242Z"
+  "scraped_at": "2026-05-12T02:50:48.943Z"
 }

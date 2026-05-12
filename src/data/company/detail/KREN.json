@@ -79,16 +79,22 @@
       "percentage": 67.91
     },
     {
-      "name": "PT Kresna Prima Invest",
-      "type": "Lebih dari 5%",
-      "shares": 2652400334,
-      "percentage": 14.57
-    },
-    {
       "name": "PT Asuransi Jiwa Kresna",
       "type": "Lebih dari 5%",
       "shares": 2506467300,
       "percentage": 13.77
+    },
+    {
+      "name": "PT Kresna Prima Invest",
+      "type": "Lebih dari 5%",
+      "shares": 1719000334,
+      "percentage": 9.44
+    },
+    {
+      "name": "PT Karunia Perdana Istenia",
+      "type": "Lebih dari 5%",
+      "shares": 933400000,
+      "percentage": 5.13
     },
     {
       "name": "Masyarakat Warkat",
@@ -101,6 +107,30 @@
       "type": "Saham Treasury",
       "shares": 4222300,
       "percentage": 0.02
+    },
+    {
+      "name": "Surya Susilo",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Dewi Kartini Laya",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Budi Santoso Asmadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Indera Hidayat",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
     }
   ],
   "subsidiaries": [
@@ -145,30 +175,30 @@
     "mkt_cap": "327.752.461.800",
     "total_rev": "",
     "_4_wk_chg": {
-      "value": null,
+      "value": "0,00",
       "direction": "="
     },
     "_13_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "20,00",
+      "direction": "-"
     },
     "_26_wk_chg": {
-      "value": null,
+      "value": "0,00",
       "direction": "="
     },
     "_52_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "60,00",
+      "direction": "+"
     },
     "npm": "",
     "mtd": {
-      "value": null,
-      "direction": "="
+      "value": "5,88",
+      "direction": "-"
     },
     "ytd": {
-      "value": null,
-      "direction": "="
+      "value": "20,00",
+      "direction": "-"
     }
   },
-  "scraped_at": "2026-05-11T06:48:19.667Z"
+  "scraped_at": "2026-05-12T03:00:17.233Z"
 }

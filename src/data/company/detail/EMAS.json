@@ -136,8 +136,14 @@
     {
       "name": "Masyarakat Non Warkat",
       "type": "Masyarakat Non Warkat",
-      "shares": 5143925535,
-      "percentage": 34.918
+      "shares": 4593523318,
+      "percentage": 31.182
+    },
+    {
+      "name": "Winato Kartono",
+      "type": "Komisaris",
+      "shares": 548772817,
+      "percentage": 3.725
     },
     {
       "name": "Santoso Kartono",
@@ -150,6 +156,18 @@
       "type": "Masyarakat Warkat",
       "shares": 73022565,
       "percentage": 0.496
+    },
+    {
+      "name": "Xinyu Wang",
+      "type": "Direksi",
+      "shares": 1329400,
+      "percentage": 0.009
+    },
+    {
+      "name": "Nicholas John Green",
+      "type": "Direksi",
+      "shares": 300000,
+      "percentage": 0.002
     },
     {
       "name": "Saham Treasury",
@@ -219,16 +237,16 @@
     "mkt_cap": "131.477.442.085.500",
     "total_rev": "",
     "_4_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "0,94",
+      "direction": "-"
     },
     "_13_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "5,33",
+      "direction": "+"
     },
     "_26_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "92,68",
+      "direction": "+"
     },
     "_52_wk_chg": {
       "value": null,
@@ -236,13 +254,13 @@
     },
     "npm": "",
     "mtd": {
-      "value": null,
-      "direction": "="
+      "value": "11,24",
+      "direction": "-"
     },
     "ytd": {
-      "value": null,
-      "direction": "="
+      "value": "40,44",
+      "direction": "+"
     }
   },
-  "scraped_at": "2026-05-11T06:43:56.004Z"
+  "scraped_at": "2026-05-12T02:55:41.392Z"
 }

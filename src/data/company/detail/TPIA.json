@@ -200,8 +200,8 @@
     {
       "name": "Masyarakat Non Warkat",
       "type": "Masyarakat Non Warkat",
-      "shares": 12608850292,
-      "percentage": 14.59
+      "shares": 12582511592,
+      "percentage": 14.56
     },
     {
       "name": "Prajogo Pangestu",
@@ -218,13 +218,25 @@
     {
       "name": "Saham Treasury",
       "type": "Saham Treasury",
-      "shares": 19274200,
-      "percentage": 0.02
+      "shares": 45612900,
+      "percentage": 0.05
     },
     {
       "name": "Masyarakat Warkat",
       "type": "Masyarakat Warkat",
       "shares": 2010000,
+      "percentage": 0
+    },
+    {
+      "name": "Raymond",
+      "type": "Direksi",
+      "shares": 3300000,
+      "percentage": 0
+    },
+    {
+      "name": "Andre Khor Kah Hin",
+      "type": "Direksi",
+      "shares": 432000,
       "percentage": 0
     },
     {
@@ -249,18 +261,6 @@
       "name": "Edi Riva'i",
       "type": "Direksi",
       "shares": 110200,
-      "percentage": 0
-    },
-    {
-      "name": "Raymond",
-      "type": "Direksi",
-      "shares": 3300000,
-      "percentage": 0
-    },
-    {
-      "name": "Andre Khor Kah Hin",
-      "type": "Direksi",
-      "shares": 432000,
       "percentage": 0
     }
   ],
@@ -448,5 +448,5 @@
   ],
   "public_accountants": [],
   "technical": {},
-  "scraped_at": "2026-05-11T06:56:58.531Z"
+  "scraped_at": "2026-05-12T03:08:57.045Z"
 }

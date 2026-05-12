@@ -182,46 +182,106 @@ export function parseNumber(value?: string | number) {
 }
 
 export function sortManagement(data: any[]) {
+  const normalize = (value: string = "") => value.toUpperCase().trim();
+
   const TYPE_PRIORITY: Record<string, number> = {
     KOMISARIS: 1,
     DIREKSI: 2,
+    DIREKTUR: 2,
     "SEKRETARIS PERUSAHAAN": 3,
     "KOMITE AUDIT": 4,
   };
 
-  const POSITION_PRIORITY: Record<string, number> = {
-    "KOMISARIS UTAMA": 1,
-    KOMISARIS: 2,
+  const getTypePriority = (type: string) => {
+    return TYPE_PRIORITY[normalize(type)] ?? 999;
+  };
 
-    "DIREKTUR UTAMA": 1,
-    "WAKIL DIREKTUR UTAMA": 2,
-    DIREKTUR: 3,
+  const getPositionPriority = (type: string, position: string) => {
+    const normalizedType = normalize(type);
+    const normalizedPosition = normalize(position);
 
-    "SEKRETARIS PERUSAHAAN": 1,
+    // =========================
+    // KOMISARIS
+    // =========================
+    if (normalizedType === "KOMISARIS") {
+      if (
+        normalizedPosition.includes("PRESIDEN KOMISARIS") ||
+        normalizedPosition.includes("KOMISARIS UTAMA")
+      ) {
+        return 1;
+      }
 
-    KETUA: 1,
-    ANGGOTA: 2,
+      if (normalizedPosition.includes("WAKIL")) {
+        return 2;
+      }
+
+      if (normalizedPosition.includes("KOMISARIS")) {
+        return 3;
+      }
+    }
+
+    // =========================
+    // DIREKSI / DIREKTUR
+    // =========================
+    if (normalizedType === "DIREKSI" || normalizedType === "DIREKTUR") {
+      if (
+        normalizedPosition.includes("PRESIDEN DIREKTUR") ||
+        normalizedPosition.includes("DIREKTUR UTAMA")
+      ) {
+        return 1;
+      }
+
+      if (normalizedPosition.includes("WAKIL")) {
+        return 2;
+      }
+
+      if (normalizedPosition.includes("DIREKTUR")) {
+        return 3;
+      }
+    }
+
+    // =========================
+    // SEKRETARIS
+    // =========================
+    if (normalizedType === "SEKRETARIS PERUSAHAAN") {
+      return 1;
+    }
+
+    // =========================
+    // KOMITE AUDIT
+    // =========================
+    if (normalizedType === "KOMITE AUDIT") {
+      if (normalizedPosition.includes("KETUA")) {
+        return 1;
+      }
+
+      if (normalizedPosition.includes("ANGGOTA")) {
+        return 2;
+      }
+    }
+
+    return 999;
   };
 
   return [...data].sort((a, b) => {
-    // 1️⃣ sort by TYPE dulu
-    const typeA = TYPE_PRIORITY[a.type] ?? 999;
-    const typeB = TYPE_PRIORITY[b.type] ?? 999;
+    const typeA = getTypePriority(a?.type);
+    const typeB = getTypePriority(b?.type);
 
+    // 1️⃣ sort by type
     if (typeA !== typeB) {
       return typeA - typeB;
     }
 
-    // 2️⃣ baru sort by POSITION dalam type yang sama
-    const posA = POSITION_PRIORITY[a.position] ?? 999;
-    const posB = POSITION_PRIORITY[b.position] ?? 999;
+    // 2️⃣ sort by position
+    const posA = getPositionPriority(a?.type, a?.position);
+    const posB = getPositionPriority(b?.type, b?.position);
 
     if (posA !== posB) {
       return posA - posB;
     }
 
-    // 3️⃣ fallback: name
-    return a.name.localeCompare(b.name);
+    // 3️⃣ fallback by name
+    return (a?.name || "").localeCompare(b?.name || "");
   });
 }
 
@@ -271,3 +331,35 @@ export const normalizeSlug = (text: string) =>
     .trim()
     .split(" ")
     .join("-");
+
+export const removeDuplicateCompanies = (
+  data: {
+    name: string;
+    business_type: string;
+    total_assets: number;
+    ownership_percentage: number;
+  }[]
+): {
+  name: string;
+  business_type: string;
+  total_assets: number;
+  ownership_percentage: number;
+}[] => {
+  const seen = new Set<string>();
+
+  return data.filter((item) => {
+    const key = [
+      item.name.trim().toLowerCase(),
+      item.business_type.trim().toLowerCase(),
+      item.total_assets,
+      item.ownership_percentage,
+    ].join("|");
+
+    if (seen.has(key)) {
+      return false;
+    }
+
+    seen.add(key);
+    return true;
+  });
+};

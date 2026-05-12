@@ -6,12 +6,13 @@ import { useEffect } from "react";
 
 export function PostHogProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
-    posthog.init(process.env.NEXT_PUBLIC_POSTHOG_KEY!, {
-      api_host: process.env.NEXT_PUBLIC_POSTHOG_HOST,
-      ui_host: "https://eu.posthog.com",
-      capture_pageview: false,
-      capture_pageleave: true,
-    });
+    if (process.env.NODE_ENV !== "development")
+      posthog.init(process.env.NEXT_PUBLIC_POSTHOG_KEY!, {
+        api_host: process.env.NEXT_PUBLIC_POSTHOG_HOST,
+        ui_host: "https://eu.posthog.com",
+        capture_pageview: false,
+        capture_pageleave: true,
+      });
   }, []);
 
   return <PHProvider client={posthog}>{children}</PHProvider>;

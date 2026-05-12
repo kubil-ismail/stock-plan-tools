@@ -185,14 +185,8 @@
     {
       "name": "Masyarakat Non Warkat",
       "type": "Masyarakat Non Warkat",
-      "shares": 4568197427,
+      "shares": 4568197428,
       "percentage": 9.91
-    },
-    {
-      "name": "Pemerintah Negara Republik Indonesia",
-      "type": "Lebih dari 5%",
-      "shares": 1,
-      "percentage": 0
     },
     {
       "name": "Saham Treasury",
@@ -204,18 +198,6 @@
       "name": "Masyarakat Warkat",
       "type": "Masyarakat Warkat",
       "shares": 0,
-      "percentage": 0
-    },
-    {
-      "name": "Muhadjir Effendy",
-      "type": "Komisaris",
-      "shares": 0,
-      "percentage": 0
-    },
-    {
-      "name": "Meidy Ferdiansyah",
-      "type": "Komisaris",
-      "shares": 133000,
       "percentage": 0
     },
     {
@@ -313,6 +295,18 @@
       "type": "Direksi",
       "shares": 0,
       "percentage": 0
+    },
+    {
+      "name": "Muhadjir Effendy",
+      "type": "Komisaris",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Meidy Ferdiansyah",
+      "type": "Komisaris",
+      "shares": 133000,
+      "percentage": 0
     }
   ],
   "subsidiaries": [],
@@ -381,30 +375,30 @@
     "mkt_cap": "81.060.482.809.225",
     "total_rev": "",
     "_4_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "13,03",
+      "direction": "-"
     },
     "_13_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "23,86",
+      "direction": "-"
     },
     "_26_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "26,60",
+      "direction": "-"
     },
     "_52_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "33,99",
+      "direction": "-"
     },
     "npm": "",
     "mtd": {
-      "value": null,
-      "direction": "="
+      "value": "2,51",
+      "direction": "+"
     },
     "ytd": {
-      "value": null,
-      "direction": "="
+      "value": "15,05",
+      "direction": "-"
     }
   },
-  "scraped_at": "2026-05-11T06:41:08.875Z"
+  "scraped_at": "2026-05-12T02:52:49.936Z"
 }

@@ -125,12 +125,6 @@
       "percentage": 0.007
     },
     {
-      "name": "Masyarakat",
-      "type": "Lebih dari 5%",
-      "shares": 0,
-      "percentage": 0
-    },
-    {
       "name": "Saham Treasury",
       "type": "Saham Treasury",
       "shares": 0,
@@ -179,30 +173,30 @@
     "mkt_cap": "357.637.280.000",
     "total_rev": "",
     "_4_wk_chg": {
-      "value": null,
+      "value": "0,00",
       "direction": "="
     },
     "_13_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "9,55",
+      "direction": "-"
     },
     "_26_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "11,25",
+      "direction": "-"
     },
     "_52_wk_chg": {
-      "value": null,
-      "direction": "="
+      "value": "12,70",
+      "direction": "+"
     },
     "npm": "",
     "mtd": {
-      "value": null,
+      "value": "0,00",
       "direction": "="
     },
     "ytd": {
-      "value": null,
-      "direction": "="
+      "value": "16,96",
+      "direction": "-"
     }
   },
-  "scraped_at": "2026-05-11T06:45:00.829Z"
+  "scraped_at": "2026-05-12T02:56:51.791Z"
 }
