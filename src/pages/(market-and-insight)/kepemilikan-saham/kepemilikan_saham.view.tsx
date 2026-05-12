@@ -7,7 +7,7 @@ import { formatRupiah, unslugify } from "@/lib/utils";
 import posthog from "posthog-js";
 import Breadcrumbs from "@/components/breadcrumbs";
 import { JSONResponse, ShareholderResponse } from "@/types/stocks";
-import { Loader2, Search } from "lucide-react";
+import { ArrowUp, Loader2, Search } from "lucide-react";
 
 const INITIAL_LOAD = 36;
 const LOAD_MORE_STEP = 24;
@@ -23,6 +23,7 @@ function Kepemilikan_saham_view(props: Props) {
   const slug = unslugify(params?.slug ?? "");
 
   const [search, setSearch] = useState(slug);
+  const [showScrollTop, setShowScrollTop] = useState(false);
   const [visibleCount, setVisibleCount] = useState(INITIAL_LOAD);
   const [isFetching, setIsFetching] = useState(false);
 
@@ -65,11 +66,6 @@ function Kepemilikan_saham_view(props: Props) {
       .sort((a, b) => b.total_company - a.total_company);
   }, [search, _shareholder?.data]);
 
-  useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
-    setVisibleCount(INITIAL_LOAD);
-  }, [search]);
-
   const visibleData = useMemo(() => {
     return filteredData?.slice(0, visibleCount);
   }, [filteredData, visibleCount]);
@@ -95,6 +91,22 @@ function Kepemilikan_saham_view(props: Props) {
       }, 300);
     });
   }, [filteredData?.length, hasMore, isFetching, search, visibleCount]);
+
+  const handleScrollTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
+
+  const handleSearchBlur = () => {
+    if (search) {
+      posthog.capture("shareholder_searched", {
+        search_term: search,
+        result_count: filteredData?.length,
+      });
+    }
+  };
 
   useEffect(() => {
     const target = observerRef.current;
@@ -123,14 +135,25 @@ function Kepemilikan_saham_view(props: Props) {
     };
   }, [loadMore]);
 
-  const handleSearchBlur = () => {
-    if (search) {
-      posthog.capture("shareholder_searched", {
-        search_term: search,
-        result_count: filteredData?.length,
-      });
-    }
-  };
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setVisibleCount(INITIAL_LOAD);
+  }, [search]);
+
+ useEffect(() => {
+   const handleScroll = () => {
+     setShowScrollTop(window.scrollY > 300);
+   };
+
+   handleScroll();
+
+   window.addEventListener("scroll", handleScroll, { passive: true });
+
+   return () => {
+     window.removeEventListener("scroll", handleScroll);
+   };
+ }, []);
+
 
   return (
     <div className="relative min-h-screen py-6 md:py-12 px-4 overflow-hidden bg-gradient-to-br from-[#f8fafc] via-[#fff7ed] to-[#f1f5f9]">
@@ -216,6 +239,44 @@ function Kepemilikan_saham_view(props: Props) {
             )}
           </div>
         )}
+      </div>
+
+      {/* FLOATING SCROLL TO TOP */}
+      <div
+        className={`fixed bottom-5 right-5 z-50 transition-all duration-500 ease-out ${
+          showScrollTop
+            ? "opacity-100 translate-y-0 scale-100"
+            : "opacity-0 translate-y-10 scale-90 pointer-events-none"
+        }`}
+      >
+        <button
+          onClick={handleScrollTop}
+          className="
+      group relative overflow-hidden
+      flex items-center justify-center
+      w-14 h-14 rounded-full
+
+      bg-black/80
+      backdrop-blur-2xl
+
+      border border-white/10
+      shadow-[0_10px_40px_rgba(0,0,0,0.35)]
+
+      transition-all duration-300
+      hover:scale-110
+      hover:bg-black
+      active:scale-95
+    "
+        >
+          {/* ambient glow */}
+          <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+            <div className="absolute -top-10 left-0 w-full h-20 bg-orange-400/20 blur-2xl" />
+
+            <div className="absolute bottom-0 right-0 w-full h-20 bg-blue-400/20 blur-2xl" />
+          </div>
+
+          <ArrowUp className="w-5 h-5 text-white relative z-10 transition-transform duration-300 group-hover:-translate-y-0.5" />
+        </button>
       </div>
     </div>
   );
