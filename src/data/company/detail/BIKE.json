@@ -85,38 +85,44 @@
   ],
   "shareholders": [
     {
-      "name": "Andrew Mulyadi",
-      "type": "Direksi",
-      "shares": 327375000,
-      "percentage": 25.3
-    },
-    {
-      "name": "Henry Mulyadi",
-      "type": "Komisaris",
-      "shares": 327375000,
-      "percentage": 25.3
+      "name": "Penajam Makmur Jaya PT",
+      "type": "Lebih dari 5%",
+      "shares": 969174700,
+      "percentage": 74.9
     },
     {
       "name": "Masyarakat Non Warkat",
       "type": "Masyarakat Non Warkat",
-      "shares": 323916404,
-      "percentage": 25.03
+      "shares": 248779564,
+      "percentage": 19.23
     },
     {
-      "name": "Stephen Mulyadi",
+      "name": "Sendi",
       "type": "Lebih dari 5%",
-      "shares": 266750000,
-      "percentage": 20.62
-    },
-    {
-      "name": "Masyarakat Warkat",
-      "type": "Masyarakat Warkat",
-      "shares": 48500000,
-      "percentage": 3.75
+      "shares": 75962140,
+      "percentage": 5.87
     },
     {
       "name": "Saham Treasury",
       "type": "Saham Treasury",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Masyarakat Warkat",
+      "type": "Masyarakat Warkat",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Andrew Mulyadi",
+      "type": "Direksi",
+      "shares": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Henry Mulyadi",
+      "type": "Komisaris",
       "shares": 0,
       "percentage": 0
     },
@@ -194,5 +200,5 @@
       "direction": "-"
     }
   },
-  "scraped_at": "2026-05-12T02:51:55.831Z"
+  "scraped_at": "2026-05-12T17:09:08.315Z"
 }

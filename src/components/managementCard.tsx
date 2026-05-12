@@ -9,7 +9,7 @@ function formatPosition(type?: string, position?: string) {
 
   // case: Komite
   if (type === "KOMITE AUDIT") {
-    return `Komite Audit ${capitalize(position)}`;
+    return `${capitalize(position)} Komite Audit`;
   }
 
   // case: Sekretaris

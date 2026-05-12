@@ -20,6 +20,7 @@ const ROLE_LABEL: Record<string, string> = {
   SH: "Shareholder",
   DIR: "Director",
   COM: "Commissioner",
+  AUD: "Audit Committee",
 };
 
 interface Props {
@@ -44,6 +45,8 @@ export default function ShareholderGrid(props: Props) {
     return sortedCompanies.slice(0, 6);
   }, [showAllCompanies, sortedCompanies]);
 
+  console.log("displayedCompanies", displayedCompanies);
+
   return (
     <div className="w-full relative col-span-3 md:col-span-1">
       <div className="bg-white/60 border border-white/30 shadow-sm rounded-3xl p-5 md:p-8 transition">
@@ -53,17 +56,23 @@ export default function ShareholderGrid(props: Props) {
         </div>
 
         {/* SUMMARY */}
-        <div className="grid grid-cols-2 gap-3 mb-6">
-          <SummaryCard label="Total Perusahaan" value={item.total_company} />
+        <div className="mb-6 space-y-3">
+          {/* ROLES */}
+          <div className="grid grid-cols-2 gap-3">
+            <SummaryCard
+              label="Pemegang Saham"
+              value={item.summary.shareholder}
+            />
 
-          <SummaryCard
-            label="Pemegang Saham"
-            value={item.summary.shareholder}
-          />
+            <SummaryCard label="Direktur" value={item.summary.director} />
 
-          <SummaryCard label="Direktur" value={item.summary.director} />
+            <SummaryCard label="Komisaris" value={item.summary.commissioner} />
 
-          <SummaryCard label="Komisaris" value={item.summary.commissioner} />
+            <SummaryCard
+              label="Komite Audit"
+              value={item.summary.audit_committee}
+            />
+          </div>
         </div>
 
         {/* TABLE HEADER */}
@@ -88,7 +97,10 @@ export default function ShareholderGrid(props: Props) {
             {displayedCompanies.map((company, index) => {
               const detail = company.shareholder?.percentage
                 ? `${company.shareholder.percentage}%`
-                : company.director?.title || company.commissioner?.title || "-";
+                : company.director?.title ||
+                  company.commissioner?.title ||
+                  company.audit_committee?.title ||
+                  "-";
 
               return (
                 <motion.div
@@ -240,11 +252,24 @@ function DetailInfo({ detail, type }: { detail: string; type?: string }) {
 function RoleBadge({ roles }: { roles: string[] }) {
   const mappedRoles = roles.map((role) => {
     if (role === "shareholder") return "SH";
+
     if (role === "director") return "DIR";
+
     if (role === "commissioner") return "COM";
+
+    if (role === "audit_committee") return "AUD";
 
     return role.toUpperCase();
   });
+
+  const visibleRoles = mappedRoles.slice(0, 2);
+
+  const remaining = mappedRoles.length - visibleRoles.length;
+
+  const displayText =
+    remaining > 0
+      ? `${visibleRoles.join(" • ")} +${remaining}`
+      : visibleRoles.join(" • ");
 
   return (
     <>
@@ -253,7 +278,7 @@ function RoleBadge({ roles }: { roles: string[] }) {
         <Tooltip>
           <TooltipTrigger asChild>
             <span className="text-[9px] font-medium bg-gray-100 text-gray-600 border border-gray-200 px-2 py-1 rounded-full text-center whitespace-nowrap cursor-default">
-              {mappedRoles.join(" • ")}
+              {displayText}
             </span>
           </TooltipTrigger>
 
@@ -275,7 +300,7 @@ function RoleBadge({ roles }: { roles: string[] }) {
         <Popover>
           <PopoverTrigger asChild>
             <button className="text-[9px] font-medium bg-gray-100 text-gray-600 border border-gray-200 px-2 py-1 rounded-full text-center whitespace-nowrap">
-              {mappedRoles.join(" • ")}
+              {displayText}
             </button>
           </PopoverTrigger>
 

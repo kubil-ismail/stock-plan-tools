@@ -310,6 +310,7 @@ export interface ShareholderResponse {
     shareholder: number;
     director: number;
     commissioner: number;
+    audit_committee: number;
   };
   roles: string[];
   companies: {
@@ -325,6 +326,9 @@ export interface ShareholderResponse {
       title?: string;
     } | null;
     commissioner: {
+      title?: string;
+    } | null;
+    audit_committee: {
       title?: string;
     } | null;
   }[];
