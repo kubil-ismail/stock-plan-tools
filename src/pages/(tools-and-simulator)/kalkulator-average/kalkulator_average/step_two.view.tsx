@@ -22,6 +22,7 @@ function Step_two_view(props: Props) {
   const { result, handlePrevStep } = props;
 
   const isAverageDown = (result?.percentChange ?? 0) < 0;
+  const averageDiff = Math.abs((result?.oldAvg ?? 0) - (result?.newAvg ?? 0));
 
   useEffect(() => {
     window.scrollTo({
@@ -122,14 +123,20 @@ function Step_two_view(props: Props) {
 
                 <div className="flex-1">
                   <div
-                    className={`inline-flex items-center gap-2 rounded-full px-3 py-1 text-xs font-bold ${
+                    className={`inline-flex flex-wrap items-center gap-2 rounded-full px-3 py-1 text-xs font-bold ${
                       isAverageDown
                         ? "bg-green-100 text-green-700"
                         : "bg-red-100 text-red-700"
                     }`}
                   >
-                    {Math.abs(result?.percentChange || 0)}%
-                    {isAverageDown ? " lebih rendah" : " lebih tinggi"}
+                    <span>
+                      {Math.abs(result?.percentChange || 0)}%
+                      {isAverageDown ? " lebih rendah" : " lebih tinggi"}
+                    </span>
+
+                    <span className="opacity-50">•</span>
+
+                    <span>Selisih {formatRupiah(averageDiff)}</span>
                   </div>
 
                   <p className="mt-3 text-sm leading-relaxed text-neutral-600">
