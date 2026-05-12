@@ -201,7 +201,7 @@ export default function Step_one_view({
             <div className="col-span-2 md:col-span-1">
               <label className="mb-2 block uppercase text-[12px]">
                 <FieldInfo
-                  title="Harga Beli Rata-Rata"
+                  title="Harga Rata-Rata Saat Ini"
                   description="Harga rata-rata saham yang Anda miliki saat ini sebelum membeli tambahan saham."
                 />
               </label>
