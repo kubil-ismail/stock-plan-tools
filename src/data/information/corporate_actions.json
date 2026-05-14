@@ -1,40 +1,110 @@
 {
-  "total": 1811,
+  "total": 1812,
   "data": [
     {
-      "date": "12 Mei 2026",
-      "ticker": "NAIK",
-      "corporate_action_type": "Waran",
-      "action_amount": 876487,
-      "total_shares": 3329120116
-    },
-    {
-      "date": "12 Mei 2026",
-      "ticker": "ISAP",
-      "corporate_action_type": "Waran",
-      "action_amount": 210,
-      "total_shares": 4020350519
-    },
-    {
-      "date": "12 Mei 2026",
-      "ticker": "PART",
-      "corporate_action_type": "Waran",
-      "action_amount": 2184,
-      "total_shares": 2814754144
-    },
-    {
-      "date": "12 Mei 2026",
-      "ticker": "HUMI",
-      "corporate_action_type": "Waran",
-      "action_amount": 10780,
-      "total_shares": 18062651987
-    },
-    {
-      "date": "12 Mei 2026",
+      "date": "13 Mei 2026",
       "ticker": "SLIS",
       "corporate_action_type": "Waran",
-      "action_amount": 2,
-      "total_shares": 2463340682
+      "action_amount": 7,
+      "total_shares": 2463340689
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "PACK",
+      "corporate_action_type": "Obligasi Wajib Konversi",
+      "action_amount": 0,
+      "total_shares": 0
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "KOCI",
+      "corporate_action_type": "Waran",
+      "action_amount": 9800,
+      "total_shares": 4467422499
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "HUMI",
+      "corporate_action_type": "Waran",
+      "action_amount": 6561,
+      "total_shares": 18062658548
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "GRPM",
+      "corporate_action_type": "Waran",
+      "action_amount": 62050,
+      "total_shares": 1548731446
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "MANG",
+      "corporate_action_type": "Waran",
+      "action_amount": 160,
+      "total_shares": 3812601988
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "PJHB",
+      "corporate_action_type": "Waran",
+      "action_amount": 129085,
+      "total_shares": 1920134702
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "ISAP",
+      "corporate_action_type": "Waran",
+      "action_amount": 100,
+      "total_shares": 4020350619
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "CYBR",
+      "corporate_action_type": "Waran",
+      "action_amount": 2050,
+      "total_shares": 6732610448
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "CYBR",
+      "corporate_action_type": "Stock Split",
+      "action_amount": 6732610448,
+      "total_shares": 13465220896
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "PART",
+      "corporate_action_type": "Waran",
+      "action_amount": 8802,
+      "total_shares": 2814762946
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "NAIK",
+      "corporate_action_type": "Waran",
+      "action_amount": 229518,
+      "total_shares": 3329349634
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "MGNA",
+      "corporate_action_type": "Waran",
+      "action_amount": 2000,
+      "total_shares": 3411046026
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "BABY",
+      "corporate_action_type": "HMETD",
+      "action_amount": 10728861,
+      "total_shares": 2854826582
+    },
+    {
+      "date": "13 Mei 2026",
+      "ticker": "PYFA",
+      "corporate_action_type": "Waran",
+      "action_amount": 161,
+      "total_shares": 11236694994
     },
     {
       "date": "12 Mei 2026",
@@ -42,62 +112,6 @@
       "corporate_action_type": "Waran",
       "action_amount": 108678,
       "total_shares": 2550312624
-    },
-    {
-      "date": "12 Mei 2026",
-      "ticker": "KOCI",
-      "corporate_action_type": "Waran",
-      "action_amount": 75,
-      "total_shares": 4467412699
-    },
-    {
-      "date": "12 Mei 2026",
-      "ticker": "GRPM",
-      "corporate_action_type": "Waran",
-      "action_amount": 38370,
-      "total_shares": 1548669396
-    },
-    {
-      "date": "11 Mei 2026",
-      "ticker": "MANG",
-      "corporate_action_type": "Waran",
-      "action_amount": 28,
-      "total_shares": 3812601828
-    },
-    {
-      "date": "11 Mei 2026",
-      "ticker": "PACK",
-      "corporate_action_type": "Obligasi Wajib Konversi",
-      "action_amount": 0,
-      "total_shares": 0
-    },
-    {
-      "date": "11 Mei 2026",
-      "ticker": "CYBR",
-      "corporate_action_type": "Waran",
-      "action_amount": 400200,
-      "total_shares": 6732608398
-    },
-    {
-      "date": "11 Mei 2026",
-      "ticker": "MGNA",
-      "corporate_action_type": "Waran",
-      "action_amount": 600,
-      "total_shares": 3411044026
-    },
-    {
-      "date": "11 Mei 2026",
-      "ticker": "BABY",
-      "corporate_action_type": "HMETD",
-      "action_amount": 10039,
-      "total_shares": 2844097721
-    },
-    {
-      "date": "11 Mei 2026",
-      "ticker": "PYFA",
-      "corporate_action_type": "Waran",
-      "action_amount": 10,
-      "total_shares": 11236694833
     },
     {
       "date": "11 Mei 2026",
@@ -112,13 +126,6 @@
       "corporate_action_type": "Tanpa HMETD",
       "action_amount": 29651500,
       "total_shares": 1279651500
-    },
-    {
-      "date": "07 Mei 2026",
-      "ticker": "PJHB",
-      "corporate_action_type": "Waran",
-      "action_amount": 5617,
-      "total_shares": 1920005617
     },
     {
       "date": "04 Mei 2026",

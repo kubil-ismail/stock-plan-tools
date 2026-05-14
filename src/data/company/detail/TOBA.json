@@ -11,13 +11,14 @@
   "listing_board": "Utama",
   "business_field": {
     "raw_business": "pertambangan batubara melalui entitas anak",
-    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Batubara, Properti, Energi, Manufaktur, Otomotif.",
+    "business_summary": "Perusahaan bergerak di bidang Kelapa Sawit, Agribisnis, Batubara, Properti, Energi, Konstruksi, Manufaktur, Otomotif.",
     "business_tags": [
       "Kelapa Sawit",
       "Agribisnis",
       "Batubara",
       "Properti",
       "Energi",
+      "Konstruksi",
       "Manufaktur",
       "Otomotif"
     ],
@@ -39,6 +40,9 @@
       "energy",
       "oil",
       "gas",
+      "construction",
+      "konstruksi",
+      "infrastruktur",
       "manufacturing",
       "manufaktur",
       "factory",
@@ -224,236 +228,254 @@
     {
       "name": "Cora Environment Group Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Penanganan dan Pembuangan Limbah",
-      "total_assets": 527765752,
+      "total_assets": 531009723,
       "ownership_percentage": 100
     },
     {
       "name": "PT Solusi Bersih Tbs",
       "business_type": "Aktivitas Perusahaan Holding",
-      "total_assets": 493553409,
+      "total_assets": 502192290,
       "ownership_percentage": 100
     },
     {
       "name": "Sbt Invest Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Perusahaan Holding",
-      "total_assets": 488083880,
+      "total_assets": 495808048,
       "ownership_percentage": 100
     },
     {
       "name": "Sbt Investment 2 Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Perusahaan Holding",
-      "total_assets": 421836955,
+      "total_assets": 429544778,
       "ownership_percentage": 100
     },
     {
       "name": "PT Toba Bara Energi",
       "business_type": "Aktivitas Perusahaan Holding",
-      "total_assets": 142704987,
+      "total_assets": 140904416,
       "ownership_percentage": 100
     },
     {
       "name": "Cora Environment Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Pengumpulan Limbah",
-      "total_assets": 119855741,
+      "total_assets": 120417540,
       "ownership_percentage": 100
     },
     {
       "name": "PT Adimitra Baratama Nusantara",
       "business_type": "Pertambangan Batubara",
-      "total_assets": 91138023,
+      "total_assets": 85248959,
       "ownership_percentage": 51
+    },
+    {
+      "name": "PT Karya Baru Tbs (kepemilikan Tidak Langsung)",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 58247867,
+      "ownership_percentage": 100
     },
     {
       "name": "Sbt Investment 1 Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Perusahaan Holding",
-      "total_assets": 55267299,
+      "total_assets": 56850978,
       "ownership_percentage": 100
     },
     {
       "name": "Taonga Holdings Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Perusahaan Holding",
-      "total_assets": 55180874,
-      "ownership_percentage": 100
-    },
-    {
-      "name": "PT Karya Baru Tbs (kepemilikan Tidak Langsung)",
-      "business_type": "Aktivitas Perusahaan Holding",
-      "total_assets": 47999029,
+      "total_assets": 56765349,
       "ownership_percentage": 100
     },
     {
       "name": "PT Toba Bumi Energi",
       "business_type": "Aktivitas Perusahaan Holding",
-      "total_assets": 44444647,
-      "ownership_percentage": 100
-    },
-    {
-      "name": "PT Indomining (kepemilikan Tidak Langsung)",
-      "business_type": "Pertambangan Batubara",
-      "total_assets": 39672508,
-      "ownership_percentage": 100
-    },
-    {
-      "name": "PT Trisensa Mineral Utama",
-      "business_type": "Pertambangan Batubara",
-      "total_assets": 32381564,
-      "ownership_percentage": 100
-    },
-    {
-      "name": "PT Energi Baru Tbs",
-      "business_type": "Aktivitas Perusahaan Holding",
-      "total_assets": 27365921,
-      "ownership_percentage": 100
-    },
-    {
-      "name": "Asia Medical Enviro Services Pte. Ltd. (kepemilikan Tidak Langsung)",
-      "business_type": "Penanganan dan Pembuangan Limbah",
-      "total_assets": 22460011,
+      "total_assets": 33096548,
       "ownership_percentage": 100
     },
     {
       "name": "PT Energi Kreasi Bersama (kepemilikan Tidak Langsung)",
       "business_type": "Perdagangan Besar dan Eceran Kendaraan",
-      "total_assets": 19358496,
+      "total_assets": 28364063,
       "ownership_percentage": 50
+    },
+    {
+      "name": "PT Trisensa Mineral Utama",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 28347910,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Indomining (kepemilikan Tidak Langsung)",
+      "business_type": "Pertambangan Batubara",
+      "total_assets": 27941499,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Energi Baru Tbs",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 26168490,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "Asia Medical Enviro Services Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "business_type": "Penanganan dan Pembuangan Limbah",
+      "total_assets": 25658374,
+      "ownership_percentage": 100
     },
     {
       "name": "PT Adimitra Baratama Niaga (kepemilikan Tidak Langsung)",
       "business_type": "Perdagangan Batubara",
-      "total_assets": 16854299,
-      "ownership_percentage": 51
-    },
-    {
-      "name": "Adimitra Resources Pte. Ltd (kepemilikan Tidak Langsung)",
-      "business_type": "Perdagangan Batubara",
-      "total_assets": 12460314,
+      "total_assets": 13282601,
       "ownership_percentage": 51
     },
     {
       "name": "Cora Environment Services Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Pengumpulan Limbah",
-      "total_assets": 9565164,
+      "total_assets": 10978668,
       "ownership_percentage": 100
+    },
+    {
+      "name": "Adimitra Resources Pte. Ltd (kepemilikan Tidak Langsung)",
+      "business_type": "Perdagangan Batubara",
+      "total_assets": 10710213,
+      "ownership_percentage": 51
     },
     {
       "name": "PT Perkebunan Kaltim Utama I",
       "business_type": "Perkebunan dan Pengolahan Kelapa Sawit",
-      "total_assets": 9120760,
+      "total_assets": 9226234,
       "ownership_percentage": 99.54
     },
     {
-      "name": "Sembcorp Enviro Facility Pte. Ltd. (kepemilikan Tidak Langsung)",
+      "name": "Sbt Enviro Facility Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Pengembang Real Estate",
-      "total_assets": 8852133,
+      "total_assets": 8758901,
       "ownership_percentage": 100
     },
     {
       "name": "PT Arah Environmental Indonesia (kepemilikan Tidak Langsung)",
       "business_type": "Jasa Pengelolaan Limbah Bahan Berbahaya dan Beracun dan Sampah Lainnya",
-      "total_assets": 5273127,
+      "total_assets": 5026127,
       "ownership_percentage": 99.99
     },
     {
       "name": "PT Kreasi Terbarukan Tbs (kepemilikan Tidak Langsung)",
       "business_type": "Aktivitas Perusahaan Holding",
-      "total_assets": 4109229,
+      "total_assets": 4806320,
       "ownership_percentage": 100
+    },
+    {
+      "name": "PT Infrastruktur Kreasi Bersama",
+      "business_type": "Perdagangan Besar dan Eceran",
+      "total_assets": 3830943,
+      "ownership_percentage": 99.99
+    },
+    {
+      "name": "PT Rental Kreasi Bersama",
+      "business_type": "Perdagangan Besar dan Eceran",
+      "total_assets": 3143421,
+      "ownership_percentage": 99.99
     },
     {
       "name": "PT Graha Alam Lestari (kepemilikan Tidak Langsung)",
       "business_type": "Jasa Pengelolaan Limbah Bahan Berbahaya dan Beracun dan Sampah Lainnya",
-      "total_assets": 2820538,
+      "total_assets": 2864117,
       "ownership_percentage": 99.99
     },
     {
       "name": "PT Batam Tirta Surya (kepemilikan Tidak Langsung)",
       "business_type": "Aktivitas Konsultasi Manajemen Lainnya",
-      "total_assets": 2547717,
+      "total_assets": 2503621,
       "ownership_percentage": 100
     },
     {
       "name": "PT Manufaktur Kreasi Bangsa (kepemilikan Tidak Langsung)",
       "business_type": "Industri Pengolahan",
-      "total_assets": 253148,
+      "total_assets": 250197,
       "ownership_percentage": 50
     },
     {
       "name": "PT Solusi Asri Lestari (kepemilikan Tidak Langsung)",
       "business_type": "Jasa Pengelolaan Limbah Bahan Berbahaya dan Beracun dan Sampah Lainnya",
-      "total_assets": 159223,
+      "total_assets": 36634,
       "ownership_percentage": 99.99
     },
     {
       "name": "PT Batam Energi Surya Sentosa (kepemilikan Tidak Langsung)",
       "business_type": "Jasa Pembangkit Transmisi Distribusi dan Penjualan Tenaga Listrik",
-      "total_assets": 7532,
-      "ownership_percentage": 100
-    },
-    {
-      "name": "PT Bayu Alam Sejahtera (kepemilikan Tidak Langsung)",
-      "business_type": "Pembangkitan Listrik Mandiri",
-      "total_assets": 6938,
+      "total_assets": 7099,
       "ownership_percentage": 100
     },
     {
       "name": "Azzurro Holdings Pte. Ltd. (kepemilikan Tidak Langsung)",
       "business_type": "Perusahaan Holding",
-      "total_assets": 6684,
+      "total_assets": 6585,
       "ownership_percentage": 100
     },
     {
       "name": "PT Nusa Tirta Energi (kepemilikan Tidak Langsung)",
       "business_type": "Aktivitas Konsultasi Manajemen Lainnya",
-      "total_assets": 5867,
+      "total_assets": 5431,
+      "ownership_percentage": 100
+    },
+    {
+      "name": "PT Bayu Alam Sejahtera (kepemilikan Tidak Langsung)",
+      "business_type": "Pembangkitan Listrik Mandiri",
+      "total_assets": 4277,
       "ownership_percentage": 100
     },
     {
       "name": "PT Solusi Niaga Ekosistem (kepemilikan Tidak Langsung)",
       "business_type": "Jasa Pengelolaan Limbah Elektronik Lainnya",
-      "total_assets": 5420,
+      "total_assets": 2649,
       "ownership_percentage": 99.99
     },
     {
       "name": "PT Biomassa Alam Energi (kepemilikan Tidak Langsung)",
       "business_type": "Produsen Pembangkit Listrik Mandiri",
-      "total_assets": 1681,
+      "total_assets": 1227,
       "ownership_percentage": 85
+    },
+    {
+      "name": "PT Ebt Daya Tirta (kepemilikan Tidak Langsung)",
+      "business_type": "Aktivitas Perusahaan Holding",
+      "total_assets": 0,
+      "ownership_percentage": 90
     }
   ],
   "public_accountants": [],
   "technical": {
-    "per": "",
-    "pbv": "",
-    "roe": "",
-    "roa": "",
-    "der": "",
+    "per": "-1,74",
+    "pbv": "1,3",
+    "roe": "-74,89",
+    "roa": "-20,33",
+    "der": "2,68",
     "mkt_cap": "4.706.719.670.670",
-    "total_rev": "",
+    "total_rev": "6.139.870.105.464",
     "_4_wk_chg": {
-      "value": "9,52",
+      "value": "18,38",
       "direction": "-"
     },
     "_13_wk_chg": {
-      "value": "13,64",
+      "value": "22,92",
       "direction": "-"
     },
     "_26_wk_chg": {
-      "value": "32,14",
+      "value": "36,93",
       "direction": "-"
     },
     "_52_wk_chg": {
-      "value": "43,94",
+      "value": "37,38",
       "direction": "+"
     },
-    "npm": "",
+    "npm": "-44,07",
     "mtd": {
-      "value": "0,88",
-      "direction": "+"
+      "value": "1,77",
+      "direction": "-"
     },
     "ytd": {
-      "value": "25,00",
+      "value": "26,97",
       "direction": "-"
     }
   },
-  "scraped_at": "2026-05-12T17:22:17.577Z"
+  "scraped_at": "2026-05-14T08:55:12.276Z"
 }

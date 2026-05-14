@@ -14,6 +14,7 @@ import {
 } from "@/lib/utils";
 import { format } from "date-fns";
 import { ExternalLink } from "lucide-react";
+import { useMemo, useState } from "react";
 
 interface Props {
   selectedCompany: StockDetailResponse;
@@ -22,43 +23,77 @@ interface Props {
 function Profil_perusahaan_view(props: Props) {
   const { selectedCompany } = props;
 
+  const [showAllManagements, setShowAllManagements] = useState(false);
+  const [showAllShareholders, setShowAllShareholders] = useState(false);
+  const [showAllSubsidiaries, setShowAllSubsidiaries] = useState(false);
+
   const ceo = selectedCompany?.directors.find(
     (item: StockDirectors) =>
       item.position.toUpperCase() === "PRESIDEN DIREKTUR" ||
-      item.position.toUpperCase() === "DIREKTUR UTAMA"
+      item.position.toUpperCase() === "DIREKTUR UTAMA",
   );
 
   const secretary = selectedCompany?.corporate_secretary;
 
-  const managements = sortManagement([
-    ...(selectedCompany?.directors?.map((item) => ({
-      ...item,
-      type: "DIREKTUR",
-    })) ?? []),
+  const managements = useMemo(
+    () =>
+      sortManagement([
+        ...(selectedCompany?.directors?.map((item) => ({
+          ...item,
+          type: "DIREKTUR",
+        })) ?? []),
 
-    ...(selectedCompany?.commissioners?.map((item) => ({
-      ...item,
-      type: "KOMISARIS",
-    })) ?? []),
+        ...(selectedCompany?.commissioners?.map((item) => ({
+          ...item,
+          type: "KOMISARIS",
+        })) ?? []),
 
-    ...(selectedCompany?.audit_committee?.map((item) => ({
-      ...item,
-      type: "KOMITE AUDIT",
-    })) ?? []),
-  ]);
-
-  const shareholders =
-    selectedCompany?.shareholders
-      ?.slice()
-      ?.sort((a, b) => parseNumber(b.shares) - parseNumber(a.shares)) ?? [];
-
-  const subsidiaries = removeDuplicateCompanies(
-    selectedCompany?.subsidiaries
-      ?.slice()
-      ?.sort(
-        (a, b) => parseNumber(b.total_assets) - parseNumber(a.total_assets)
-      ) ?? []
+        ...(selectedCompany?.audit_committee?.map((item) => ({
+          ...item,
+          type: "KOMITE AUDIT",
+        })) ?? []),
+      ]),
+    [
+      selectedCompany?.directors,
+      selectedCompany?.commissioners,
+      selectedCompany?.audit_committee,
+    ],
   );
+
+  const shareholders = useMemo(
+    () =>
+      selectedCompany?.shareholders
+        ?.slice()
+        ?.sort((a, b) => parseNumber(b.shares) - parseNumber(a.shares)) ?? [],
+    [selectedCompany?.shareholders],
+  );
+
+  const subsidiaries = useMemo(
+    () =>
+      removeDuplicateCompanies(
+        selectedCompany?.subsidiaries
+          ?.slice()
+          ?.sort(
+            (a, b) => parseNumber(b.total_assets) - parseNumber(a.total_assets),
+          ) ?? [],
+      ),
+    [selectedCompany?.subsidiaries],
+  );
+
+  const displayedManagements = useMemo(() => {
+    if (showAllManagements) return managements;
+    return managements.slice(0, 10);
+  }, [managements, showAllManagements]);
+
+  const displayedShareholders = useMemo(() => {
+    if (showAllShareholders) return shareholders;
+    return shareholders.slice(0, 10);
+  }, [shareholders, showAllShareholders]);
+
+  const displayedSubsidiaries = useMemo(() => {
+    if (showAllSubsidiaries) return subsidiaries;
+    return subsidiaries.slice(0, 10);
+  }, [subsidiaries, showAllSubsidiaries]);
 
   return (
     <GlassCard>
@@ -97,7 +132,9 @@ function Profil_perusahaan_view(props: Props) {
               </a>
 
               <ExternalLink
-                onClick={() => window.open(formatUrl(selectedCompany?.website), "_blank")}
+                onClick={() =>
+                  window.open(formatUrl(selectedCompany?.website), "_blank")
+                }
                 className="cursor-pointer block w-[14px] h-[14px] text-muted-foreground"
               />
             </div>
@@ -184,7 +221,7 @@ function Profil_perusahaan_view(props: Props) {
         </h4>
 
         <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
-          {managements?.map((item, key) => (
+          {displayedManagements?.map((item, key) => (
             <Link
               href={`/kepemilikan-saham/${normalizeSlug(item.name)}`}
               key={key}
@@ -193,6 +230,17 @@ function Profil_perusahaan_view(props: Props) {
             </Link>
           ))}
         </div>
+
+        {managements.length > 10 && (
+          <button
+            onClick={() => setShowAllManagements((prev) => !prev)}
+            className="mt-4 w-full rounded-xl border border-border/60 bg-background/70 hover:bg-muted/40 transition-all duration-300 px-4 py-2.5 text-[13px] font-medium text-muted-foreground hover:text-foreground"
+          >
+            {showAllManagements
+              ? "Tampilkan Lebih Sedikit"
+              : `Tampilkan Semua (${managements.length - 10})`}
+          </button>
+        )}
       </section>
 
       <section className="my-10">
@@ -201,7 +249,7 @@ function Profil_perusahaan_view(props: Props) {
         </h4>
 
         <div className="grid grid-cols-1 md:grid-cols-2  gap-4 mb-6">
-          {shareholders?.map((item, key) => (
+          {displayedShareholders?.map((item, key) => (
             <Link
               href={`/kepemilikan-saham/${normalizeSlug(item.name)}`}
               key={key}
@@ -210,6 +258,17 @@ function Profil_perusahaan_view(props: Props) {
             </Link>
           ))}
         </div>
+
+        {shareholders.length > 10 && (
+          <button
+            onClick={() => setShowAllShareholders((prev) => !prev)}
+            className="mt-4 w-full rounded-xl border border-border/60 bg-background/70 hover:bg-muted/40 transition-all duration-300 px-4 py-2.5 text-[13px] font-medium text-muted-foreground hover:text-foreground"
+          >
+            {showAllShareholders
+              ? "Tampilkan Lebih Sedikit"
+              : `Tampilkan Semua (${shareholders.length - 10})`}
+          </button>
+        )}
       </section>
 
       <section className="my-10">
@@ -226,10 +285,21 @@ function Profil_perusahaan_view(props: Props) {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-            {subsidiaries.map((item, key) => (
+            {displayedSubsidiaries.map((item, key) => (
               <SubsidiarieCard item={item} key={key} />
             ))}
           </div>
+        )}
+
+        {subsidiaries.length > 10 && (
+          <button
+            onClick={() => setShowAllSubsidiaries((prev) => !prev)}
+            className="mt-4 w-full rounded-xl border border-border/60 bg-background/70 hover:bg-muted/40 transition-all duration-300 px-4 py-2.5 text-[13px] font-medium text-muted-foreground hover:text-foreground"
+          >
+            {showAllSubsidiaries
+              ? "Tampilkan Lebih Sedikit"
+              : `Tampilkan Semua (${subsidiaries.length - 10})`}
+          </button>
         )}
       </section>
     </GlassCard>

@@ -144,13 +144,13 @@
   ],
   "public_accountants": [],
   "technical": {
-    "per": "",
-    "pbv": "",
-    "roe": "",
-    "roa": "",
-    "der": "",
+    "per": "0",
+    "pbv": "0,1",
+    "roe": "0,14",
+    "roa": "0,09",
+    "der": "0,47",
     "mkt_cap": "23.833.415.200",
-    "total_rev": "",
+    "total_rev": "52.799.921.556",
     "_4_wk_chg": {
       "value": "0,00",
       "direction": "="
@@ -167,7 +167,7 @@
       "value": "0,00",
       "direction": "="
     },
-    "npm": "",
+    "npm": "0,65",
     "mtd": {
       "value": "0,00",
       "direction": "="
@@ -177,5 +177,5 @@
       "direction": "="
     }
   },
-  "scraped_at": "2026-05-12T17:22:50.914Z"
+  "scraped_at": "2026-05-14T08:55:44.803Z"
 }

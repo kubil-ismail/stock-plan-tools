@@ -1,5 +1,5 @@
 {
-  "total": 162,
+  "total": 161,
   "data": [
     {
       "ticker": "OCAP",
@@ -466,8 +466,8 @@
       ]
     },
     {
-      "ticker": "PBRX",
-      "company_name": "Pan Brothers Tbk",
+      "ticker": "KIAS",
+      "company_name": "Keramika Indonesia Assosiasi Tbk",
       "entry_date": "30 Nov 2023",
       "criteria_details": [
         {
@@ -500,8 +500,8 @@
       ]
     },
     {
-      "ticker": "KIAS",
-      "company_name": "Keramika Indonesia Assosiasi Tbk",
+      "ticker": "PBRX",
+      "company_name": "Pan Brothers Tbk",
       "entry_date": "30 Nov 2023",
       "criteria_details": [
         {
@@ -672,6 +672,27 @@
       ]
     },
     {
+      "ticker": "LMSH",
+      "company_name": "Lionmesh Prima Tbk",
+      "entry_date": "31 Jan 2024",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        },
+        {
+          "code": 7,
+          "description": "Likuiditas saham rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
       "ticker": "LCGP",
       "company_name": "PT Eureka Prima Jakarta Tbk.",
       "entry_date": "31 Jan 2024",
@@ -694,27 +715,6 @@
           "code": "Y",
           "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
         },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "LMSH",
-      "company_name": "Lionmesh Prima Tbk",
-      "entry_date": "31 Jan 2024",
-      "criteria_details": [
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        },
-        {
-          "code": 7,
-          "description": "Likuiditas saham rendah"
-        }
-      ],
-      "notation": [
         {
           "code": "X",
           "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
@@ -1194,35 +1194,6 @@
       ]
     },
     {
-      "ticker": "NUSA",
-      "company_name": "PT Sinergi Megah Internusa Tbk",
-      "entry_date": "21 Jun 2024",
-      "criteria_details": [
-        {
-          "code": 1,
-          "description": "Harga saham rendah dan likuiditas rendah"
-        },
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "L",
-          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
-        },
-        {
-          "code": "Y",
-          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
-        },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
       "ticker": "PLAS",
       "company_name": "Polaris Investama Tbk",
       "entry_date": "21 Jun 2024",
@@ -1252,16 +1223,28 @@
       ]
     },
     {
-      "ticker": "MFMI",
-      "company_name": "Multifiling Mitra Indonesia Tbk",
+      "ticker": "NUSA",
+      "company_name": "PT Sinergi Megah Internusa Tbk",
       "entry_date": "21 Jun 2024",
       "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
         {
           "code": 6,
           "description": "Tidak memenuhi ketentuan free float"
         }
       ],
       "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
         {
           "code": "X",
           "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
@@ -1290,6 +1273,47 @@
         {
           "code": "L",
           "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "LMAS",
+      "company_name": "Limas Indonesia Makmur Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 2,
+          "description": "Opini disclaimer pada laporan keuangan"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2021 Kuartal III"
+        },
+        {
+          "code": "D",
+          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2021 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
         },
         {
           "code": "X",
@@ -1372,77 +1396,16 @@
       ]
     },
     {
-      "ticker": "LMAS",
-      "company_name": "Limas Indonesia Makmur Tbk",
+      "ticker": "MFMI",
+      "company_name": "Multifiling Mitra Indonesia Tbk",
       "entry_date": "21 Jun 2024",
       "criteria_details": [
-        {
-          "code": 1,
-          "description": "Harga saham rendah dan likuiditas rendah"
-        },
-        {
-          "code": 2,
-          "description": "Opini disclaimer pada laporan keuangan"
-        },
-        {
-          "code": 5,
-          "description": "Ekuitas negatif"
-        }
-      ],
-      "notation": [
-        {
-          "code": "E",
-          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2021 Kuartal III"
-        },
-        {
-          "code": "D",
-          "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
-        },
-        {
-          "code": "L",
-          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2021 Kuartal III"
-        },
-        {
-          "code": "Y",
-          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
-        },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "SIMA",
-      "company_name": "Siwani Makmur Tbk",
-      "entry_date": "21 Jun 2024",
-      "criteria_details": [
-        {
-          "code": 1,
-          "description": "Harga saham rendah dan likuiditas rendah"
-        },
-        {
-          "code": 5,
-          "description": "Ekuitas negatif"
-        },
         {
           "code": 6,
           "description": "Tidak memenuhi ketentuan free float"
         }
       ],
       "notation": [
-        {
-          "code": "E",
-          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2019 Kuartal III"
-        },
-        {
-          "code": "L",
-          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
-        },
-        {
-          "code": "Y",
-          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
-        },
         {
           "code": "X",
           "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
@@ -1521,6 +1484,43 @@
         {
           "code": "E",
           "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SIMA",
+      "company_name": "Siwani Makmur Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
         },
         {
           "code": "X",
@@ -2249,23 +2249,6 @@
       ]
     },
     {
-      "ticker": "PCAR",
-      "company_name": "PT Prima Cakrawala Abadi Tbk",
-      "entry_date": "28 Mei 2025",
-      "criteria_details": [
-        {
-          "code": 1,
-          "description": "Harga saham rendah dan likuiditas rendah"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
       "ticker": "MTSM",
       "company_name": "Metro Realty Tbk",
       "entry_date": "28 Mei 2025",
@@ -2284,6 +2267,23 @@
           "code": "L",
           "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
         },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "PCAR",
+      "company_name": "PT Prima Cakrawala Abadi Tbk",
+      "entry_date": "28 Mei 2025",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
         {
           "code": "X",
           "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
@@ -3061,47 +3061,6 @@
       ]
     },
     {
-      "ticker": "TOPS",
-      "company_name": "PT Totalindo Eka Persada Tbk.",
-      "entry_date": "30 Jan 2026",
-      "criteria_details": [
-        {
-          "code": 1,
-          "description": "Harga saham rendah dan likuiditas rendah"
-        },
-        {
-          "code": 3,
-          "description": "Tidak ada atau tidak berubahnya pendapatan"
-        },
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "L",
-          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
-        },
-        {
-          "code": "S",
-          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2024 Kuartal III"
-        },
-        {
-          "code": "C",
-          "description": "Kejadian perkara hukum terhadap Perusahaan Tercatat, Anak Perusahaan Tercatat dan/atau anggota Direksi dan anggota Dewan Komisaris Perusahaan Tercatat yang berdampak Material"
-        },
-        {
-          "code": "Y",
-          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
-        },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
       "ticker": "TRAM",
       "company_name": "Trada Alam Minera Tbk.",
       "entry_date": "30 Jan 2026",
@@ -3172,6 +3131,47 @@
       ]
     },
     {
+      "ticker": "TOPS",
+      "company_name": "PT Totalindo Eka Persada Tbk.",
+      "entry_date": "30 Jan 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 3,
+          "description": "Tidak ada atau tidak berubahnya pendapatan"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "S",
+          "description": "Laporan keuangan terakhir menunjukkan tidak ada pendapatan usaha berdasarkan laporan keuangan 2024 Kuartal III"
+        },
+        {
+          "code": "C",
+          "description": "Kejadian perkara hukum terhadap Perusahaan Tercatat, Anak Perusahaan Tercatat dan/atau anggota Direksi dan anggota Dewan Komisaris Perusahaan Tercatat yang berdampak Material"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
       "ticker": "PMMP",
       "company_name": "PT Panca Mitra Multiperdana Tbk.",
       "entry_date": "11 Feb 2026",
@@ -3197,10 +3197,6 @@
         {
           "code": "L",
           "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
-        },
-        {
-          "code": "Y",
-          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
         },
         {
           "code": "X",
@@ -3610,35 +3606,6 @@
       ]
     },
     {
-      "ticker": "PTDU",
-      "company_name": "PT Djasa Ubersakti Tbk",
-      "entry_date": "30 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 5,
-          "description": "Ekuitas negatif"
-        },
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "E",
-          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
-        },
-        {
-          "code": "L",
-          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
-        },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
       "ticker": "PURE",
       "company_name": "PT Trinitan Metals And Minerals Tbk",
       "entry_date": "30 Apr 2026",
@@ -3680,6 +3647,35 @@
       ]
     },
     {
+      "ticker": "PTDU",
+      "company_name": "PT Djasa Ubersakti Tbk",
+      "entry_date": "30 Apr 2026",
+      "criteria_details": [
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
       "ticker": "MENN",
       "company_name": "PT Menn Teknologi Indonesia Tbk.",
       "entry_date": "30 Apr 2026",
@@ -3698,23 +3694,6 @@
           "code": "L",
           "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal II"
         },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "KOPI",
-      "company_name": "PT Mitra Energi Persada Tbk",
-      "entry_date": "30 Apr 2026",
-      "criteria_details": [
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
         {
           "code": "X",
           "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
@@ -3943,12 +3922,6 @@
         {
           "code": 10,
           "description": "Suspensi perdagangan lebih dari 1 hari bursa"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
         }
       ]
     },

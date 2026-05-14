@@ -50,13 +50,8 @@
   },
   "directors": [
     {
-      "name": "Hadian Pramudita",
+      "name": "Mahendra Vijaya",
       "position": "Direktur Utama",
-      "affiliated": true
-    },
-    {
-      "name": "Bagus Tri Setyana",
-      "position": "Direktur",
       "affiliated": true
     },
     {
@@ -65,21 +60,26 @@
       "affiliated": true
     },
     {
-      "name": "Dwi Purnomo",
+      "name": "Rohandi",
       "position": "Direktur",
       "affiliated": true
     },
     {
-      "name": "Hartanto Kartiraharjo",
+      "name": "Wahyu Hadi Prasetyo",
       "position": "Direktur",
       "affiliated": true
     }
   ],
   "commissioners": [
     {
-      "name": "Joseph Prajogo",
+      "name": "Bambang Riswanda",
+      "position": "Komisaris Utama",
+      "affiliated": false
+    },
+    {
+      "name": "Alwandi Syam",
       "position": "Komisaris",
-      "affiliated": true
+      "affiliated": false
     },
     {
       "name": "Danis Hidayat Sumadilaga",
@@ -87,9 +87,9 @@
       "affiliated": false
     },
     {
-      "name": "Suli Fatimah",
+      "name": "Joseph Prajogo",
       "position": "Komisaris",
-      "affiliated": false
+      "affiliated": true
     },
     {
       "name": "Taufan Gestoro",
@@ -226,38 +226,38 @@
     }
   ],
   "technical": {
-    "per": "",
-    "pbv": "",
-    "roe": "",
-    "roa": "",
-    "der": "",
+    "per": "-0,9",
+    "pbv": "0,29",
+    "roe": "-31,98",
+    "roa": "-15,59",
+    "der": "1,05",
     "mkt_cap": "564.748.000.000",
-    "total_rev": "",
+    "total_rev": "1.623.555.133.947",
     "_4_wk_chg": {
-      "value": "8,77",
+      "value": "6,90",
       "direction": "-"
     },
     "_13_wk_chg": {
-      "value": "17,46",
+      "value": "15,63",
       "direction": "-"
     },
     "_26_wk_chg": {
-      "value": "20,00",
+      "value": "16,92",
       "direction": "-"
     },
     "_52_wk_chg": {
-      "value": "18,75",
+      "value": "16,92",
       "direction": "-"
     },
-    "npm": "",
+    "npm": "-38,83",
     "mtd": {
-      "value": "10,34",
+      "value": "6,90",
       "direction": "-"
     },
     "ytd": {
-      "value": "25,71",
+      "value": "22,86",
       "direction": "-"
     }
   },
-  "scraped_at": "2026-05-12T17:23:11.266Z"
+  "scraped_at": "2026-05-14T08:56:04.369Z"
 }

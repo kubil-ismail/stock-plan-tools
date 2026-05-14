@@ -46,7 +46,7 @@
   },
   "directors": [
     {
-      "name": "Marlo Budiman",
+      "name": "Indra Yuwana",
       "position": "Presiden Direktur",
       "affiliated": true
     },
@@ -74,6 +74,11 @@
       "name": "Fendi Santoso",
       "position": "Direktur",
       "affiliated": true
+    },
+    {
+      "name": "Agus Arismunandar",
+      "position": "Wakil Presiden Direktur",
+      "affiliated": true
     }
   ],
   "commissioners": [
@@ -83,7 +88,7 @@
       "affiliated": true
     },
     {
-      "name": "Anangga W. Roosdiono",
+      "name": "Drs Bambang Soesatyo",
       "position": "Komisaris",
       "affiliated": true
     },
@@ -103,7 +108,7 @@
       "affiliated": false
     },
     {
-      "name": "Dr. Kartini Sjahrir",
+      "name": "Theo L Sambuaga",
       "position": "Komisaris",
       "affiliated": true
     },
@@ -234,38 +239,38 @@
   "subsidiaries": [],
   "public_accountants": [],
   "technical": {
-    "per": "",
-    "pbv": "",
-    "roe": "",
-    "roa": "",
-    "der": "",
+    "per": "12,38",
+    "pbv": "0,19",
+    "roe": "1,51",
+    "roa": "0,95",
+    "der": "0,59",
     "mkt_cap": "5.813.637.506.258",
-    "total_rev": "",
+    "total_rev": "9.033.322.000.000",
     "_4_wk_chg": {
-      "value": "6,90",
+      "value": "13,98",
       "direction": "-"
     },
     "_13_wk_chg": {
-      "value": "10,00",
+      "value": "14,89",
       "direction": "-"
     },
     "_26_wk_chg": {
-      "value": "7,95",
+      "value": "11,11",
       "direction": "-"
     },
     "_52_wk_chg": {
-      "value": "6,90",
+      "value": "9,09",
       "direction": "-"
     },
-    "npm": "",
+    "npm": "5,2",
     "mtd": {
-      "value": "0,00",
-      "direction": "="
+      "value": "1,23",
+      "direction": "-"
     },
     "ytd": {
-      "value": "4,71",
+      "value": "5,88",
       "direction": "-"
     }
   },
-  "scraped_at": "2026-05-12T17:16:02.947Z"
+  "scraped_at": "2026-05-14T08:48:50.871Z"
 }
