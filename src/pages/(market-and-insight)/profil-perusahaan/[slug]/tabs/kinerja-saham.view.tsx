@@ -123,7 +123,7 @@ export default function Kinerja_saham_view(props: Props) {
             featured
             label="Market Cap"
             value={formatBigNumber(
-              formatDecimal(selectedCompany.technical.mkt_cap),
+              formatDecimal(selectedCompany?.technical.mkt_cap),
             )}
             disableArrow
             sector={selectedCompany?.sector.name}
@@ -134,7 +134,7 @@ export default function Kinerja_saham_view(props: Props) {
             featured
             label="Total Revenue"
             value={formatBigNumber(
-              formatDecimal(selectedCompany.technical.total_rev),
+              formatDecimal(selectedCompany?.technical.total_rev),
             )}
             disableArrow
             sector={selectedCompany?.sector.name}
@@ -144,7 +144,7 @@ export default function Kinerja_saham_view(props: Props) {
         <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
           <MetricCard
             label="PER"
-            value={formatDecimal(selectedCompany.technical.per)}
+            value={formatDecimal(selectedCompany?.technical.per)}
             disableArrow
             sector={selectedCompany?.sector.name}
             industry={selectedCompany?.industry.name}
@@ -152,7 +152,7 @@ export default function Kinerja_saham_view(props: Props) {
 
           <MetricCard
             label="PBV"
-            value={formatDecimal(selectedCompany.technical.pbv)}
+            value={formatDecimal(selectedCompany?.technical.pbv)}
             disableArrow
             sector={selectedCompany?.sector.name}
             industry={selectedCompany?.industry.name}
@@ -160,7 +160,7 @@ export default function Kinerja_saham_view(props: Props) {
 
           <MetricCard
             label="ROE %"
-            value={formatDecimal(selectedCompany.technical.roe)}
+            value={formatDecimal(selectedCompany?.technical.roe)}
             disableArrow
             sector={selectedCompany?.sector.name}
             industry={selectedCompany?.industry.name}
@@ -168,7 +168,7 @@ export default function Kinerja_saham_view(props: Props) {
 
           <MetricCard
             label="ROA %"
-            value={formatDecimal(selectedCompany.technical.roa)}
+            value={formatDecimal(selectedCompany?.technical.roa)}
             disableArrow
             sector={selectedCompany?.sector.name}
             industry={selectedCompany?.industry.name}
@@ -176,7 +176,7 @@ export default function Kinerja_saham_view(props: Props) {
 
           <MetricCard
             label="DER"
-            value={formatDecimal(selectedCompany.technical.der)}
+            value={formatDecimal(selectedCompany?.technical.der)}
             disableArrow
             sector={selectedCompany?.sector.name}
             industry={selectedCompany?.industry.name}

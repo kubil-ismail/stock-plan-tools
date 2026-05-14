@@ -13,11 +13,21 @@ interface Props {
   slug: string;
 }
 
+
+interface CalendarResponse {
+  tanggal: string;
+  ticker: string;
+  perihal: string;
+  lokasi: string;
+}
+
 function Aksi_korporasi_view(props: Props) {
   const { slug } = props;
 
   const filter_calendar = useMemo(() => {
-    return calendar.data.filter((item) => item.ticker === slug);
+    return calendar.data.filter(
+      (item: CalendarResponse) => item.ticker === slug,
+    );
   }, [slug, calendar.data]);
 
   const filter_pemantauan_khusus = useMemo(() => {
@@ -47,19 +57,19 @@ function Aksi_korporasi_view(props: Props) {
                 item.notation
                   ?.slice()
                   ?.map((item) => item.code)
-                  .join(",")
+                  .join(","),
               )}
               desc={String(
                 item.notation
                   ?.map((item) => `${item.code} : ${item.description}\n`)
-                  .join("")
+                  .join(""),
               )}
               simplify
               date={item?.entry_date}
             />
           ))}
 
-          {filter_calendar?.map((item, key) => (
+          {filter_calendar?.map((item: CalendarResponse, key) => (
             <Calendar_card
               key={key}
               ticker={item.ticker}

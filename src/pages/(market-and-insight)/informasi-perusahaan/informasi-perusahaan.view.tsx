@@ -19,20 +19,29 @@ import company from "@/data/company/company.json";
 import pemantauan_khusus from "@/data/information/special_board.json";
 import calendar from "@/data/information/calendar.json";
 
+interface CalendarResponse {
+  tanggal: string;
+  ticker: string;
+  perihal: string;
+  lokasi: string;
+}
+
 function Informasi_perusahaan_view() {
   const inputRef = useRef<HTMLInputElement | null>(null);
 
   const [date, setDate] = useState(new Date());
 
   const filter_calendar = useMemo(() => {
-    return calendar.data.filter(
-      (item) =>
-        item.tanggal ===
-        format(date, "dd MMM yyyy", {
-          locale: id,
-        }),
-    );
-  }, [date, calendar.data]);
+    return calendar?.data?.length
+      ? calendar.data.filter(
+          (item: CalendarResponse) =>
+            item?.tanggal ===
+            format(date, "dd MMM yyyy", {
+              locale: id,
+            }),
+        )
+      : [];
+  }, [date, calendar?.data]);
 
   const filter_pemantauan_khusus = useMemo(() => {
     return pemantauan_khusus.data.filter(
@@ -204,7 +213,7 @@ function Informasi_perusahaan_view() {
                   />
                 ))}
 
-                {filter_calendar?.map((item, key) => (
+                {filter_calendar?.map((item: CalendarResponse, key) => (
                   <Calendar_card
                     key={key}
                     ticker={item.ticker}
@@ -225,7 +234,7 @@ function Informasi_perusahaan_view() {
                 Tidak ada data aksi korporasi
               </div>
             ) : (
-              filter_calendar?.map((item, key) => (
+              filter_calendar?.map((item: CalendarResponse, key) => (
                 <Calendar_card
                   key={key}
                   ticker={item.ticker}
@@ -416,10 +425,7 @@ export function Notation_card(props: {
   return (
     <Card>
       <CardContent className="text-sm flex gap-3">
-        <Link
-          href={`/profil-perusahaan/${ticker}`}
-          className="hidden md:block"
-        >
+        <Link href={`/profil-perusahaan/${ticker}`} className="hidden md:block">
           <CompanyLogo
             company={{
               ticker: ticker ?? "",
