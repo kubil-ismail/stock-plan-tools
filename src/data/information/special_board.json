@@ -1,5 +1,5 @@
 {
-  "total": 161,
+  "total": 159,
   "data": [
     {
       "ticker": "OCAP",
@@ -1442,6 +1442,43 @@
       ]
     },
     {
+      "ticker": "SIMA",
+      "company_name": "Siwani Makmur Tbk",
+      "entry_date": "21 Jun 2024",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        },
+        {
+          "code": 5,
+          "description": "Ekuitas negatif"
+        },
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
+        {
+          "code": "E",
+          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
+        },
+        {
+          "code": "Y",
+          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
       "ticker": "POOL",
       "company_name": "Pool Advista Indonesia Tbk",
       "entry_date": "21 Jun 2024",
@@ -1484,43 +1521,6 @@
         {
           "code": "E",
           "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Tahunan"
-        },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
-      "ticker": "SIMA",
-      "company_name": "Siwani Makmur Tbk",
-      "entry_date": "21 Jun 2024",
-      "criteria_details": [
-        {
-          "code": 1,
-          "description": "Harga saham rendah dan likuiditas rendah"
-        },
-        {
-          "code": 5,
-          "description": "Ekuitas negatif"
-        },
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "E",
-          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2019 Kuartal III"
-        },
-        {
-          "code": "L",
-          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2019 Kuartal III"
-        },
-        {
-          "code": "Y",
-          "description": "Perusahaan Tercatat yang belum menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) sampai dengan 6 (enam) bulan setelah tahun buku berakhir"
         },
         {
           "code": "X",
@@ -2470,35 +2470,6 @@
       ]
     },
     {
-      "ticker": "SMRU",
-      "company_name": "Smr Utama Tbk",
-      "entry_date": "04 Agt 2025",
-      "criteria_details": [
-        {
-          "code": 1,
-          "description": "Harga saham rendah dan likuiditas rendah"
-        },
-        {
-          "code": 5,
-          "description": "Ekuitas negatif"
-        }
-      ],
-      "notation": [
-        {
-          "code": "E",
-          "description": "Laporan keuangan terakhir menunjukkan ekuitas negatif berdasarkan laporan keuangan 2025 Kuartal III"
-        },
-        {
-          "code": "L",
-          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal III"
-        },
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
       "ticker": "VIVA",
       "company_name": "PT Visi Media Asia Tbk",
       "entry_date": "13 Agt 2025",
@@ -2616,23 +2587,6 @@
       ]
     },
     {
-      "ticker": "SOSS",
-      "company_name": "PT Shield On Service Tbk.",
-      "entry_date": "31 Okt 2025",
-      "criteria_details": [
-        {
-          "code": 6,
-          "description": "Tidak memenuhi ketentuan free float"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
       "ticker": "TELE",
       "company_name": "PT Omni Inovasi Indonesia Tbk",
       "entry_date": "31 Okt 2025",
@@ -2675,6 +2629,23 @@
           "code": "L",
           "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Kuartal II"
         },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SOSS",
+      "company_name": "PT Shield On Service Tbk.",
+      "entry_date": "31 Okt 2025",
+      "criteria_details": [
+        {
+          "code": 6,
+          "description": "Tidak memenuhi ketentuan free float"
+        }
+      ],
+      "notation": [
         {
           "code": "X",
           "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
@@ -3915,17 +3886,6 @@
       ]
     },
     {
-      "ticker": "WBSA",
-      "company_name": "PT Bsa Logistics Indonesia Tbk",
-      "entry_date": "05 Mei 2026",
-      "criteria_details": [
-        {
-          "code": 10,
-          "description": "Suspensi perdagangan lebih dari 1 hari bursa"
-        }
-      ]
-    },
-    {
       "ticker": "MKNT",
       "company_name": "PT Mitra Komunikasi Nusantara Tbk.",
       "entry_date": "06 Mei 2026",
@@ -3963,23 +3923,6 @@
       ]
     },
     {
-      "ticker": "BAIK",
-      "company_name": "PT Bersama Mencapai Puncak Tbk.",
-      "entry_date": "06 Mei 2026",
-      "criteria_details": [
-        {
-          "code": 10,
-          "description": "Suspensi perdagangan lebih dari 1 hari bursa"
-        }
-      ],
-      "notation": [
-        {
-          "code": "X",
-          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
-        }
-      ]
-    },
-    {
       "ticker": "ZINC",
       "company_name": "PT Kapuas Prima Coal Tbk",
       "entry_date": "08 Mei 2026",
@@ -3997,6 +3940,27 @@
         {
           "code": "D",
           "description": "Adanya Opini \"Tidak Menyatakan Pendapat (Disclaimer)\" dari Akuntan Publik"
+        },
+        {
+          "code": "X",
+          "description": "Perusahaan Tercatat dicatatkan di Papan Pemantauan Khusus"
+        }
+      ]
+    },
+    {
+      "ticker": "SMRU",
+      "company_name": "Smr Utama Tbk",
+      "entry_date": "19 Mei 2026",
+      "criteria_details": [
+        {
+          "code": 1,
+          "description": "Harga saham rendah dan likuiditas rendah"
+        }
+      ],
+      "notation": [
+        {
+          "code": "L",
+          "description": "Perusahaan Tercatat terakhir menyampaikan laporan keuangan 2025 Tahunan"
         },
         {
           "code": "X",

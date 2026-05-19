@@ -49,12 +49,12 @@
     {
       "name": "Kurnyatjan Sakti Efendie",
       "position": "Direktur Utama",
-      "affiliated": false
+      "affiliated": true
     },
     {
       "name": "Novi Susanti",
       "position": "Direktur",
-      "affiliated": false
+      "affiliated": true
     }
   ],
   "commissioners": [
@@ -66,6 +66,11 @@
     {
       "name": "Nickolas Tjan Sakti Efendie",
       "position": "Komisaris",
+      "affiliated": false
+    },
+    {
+      "name": "Sakkan Tampubolon",
+      "position": "Komisaris Utama",
       "affiliated": false
     }
   ],
@@ -151,30 +156,30 @@
     "mkt_cap": "306.130.941.900",
     "total_rev": "231.159.579.207",
     "_4_wk_chg": {
-      "value": "4,71",
+      "value": "9,09",
       "direction": "-"
     },
     "_13_wk_chg": {
-      "value": "12,90",
+      "value": "11,11",
       "direction": "-"
     },
     "_26_wk_chg": {
-      "value": "37,69",
+      "value": "38,46",
       "direction": "-"
     },
     "_52_wk_chg": {
-      "value": "39,55",
+      "value": "42,45",
       "direction": "-"
     },
     "npm": "15,02",
     "mtd": {
-      "value": "0,00",
-      "direction": "="
+      "value": "1,23",
+      "direction": "-"
     },
     "ytd": {
-      "value": "42,14",
+      "value": "42,86",
       "direction": "-"
     }
   },
-  "scraped_at": "2026-05-14T08:48:10.847Z"
+  "scraped_at": "2026-05-19T04:16:00.220Z"
 }

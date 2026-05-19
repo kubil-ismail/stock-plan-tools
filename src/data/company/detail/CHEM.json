@@ -49,12 +49,17 @@
     {
       "name": "Tony Widjaja",
       "position": "Direktur",
-      "affiliated": false
+      "affiliated": true
     },
     {
       "name": "Lusi",
       "position": "Direktur",
-      "affiliated": false
+      "affiliated": true
+    },
+    {
+      "name": "Wenty Akbar Rasjid",
+      "position": "Direktur",
+      "affiliated": true
     }
   ],
   "commissioners": [
@@ -69,7 +74,7 @@
       "affiliated": false
     },
     {
-      "name": "Eko Pratikto",
+      "name": "Iwan Setiawan Chandra",
       "position": "Komisaris",
       "affiliated": true
     }
@@ -174,30 +179,30 @@
     "mkt_cap": "154.701.328.054",
     "total_rev": "218.773.743.069",
     "_4_wk_chg": {
-      "value": "18,45",
+      "value": "18,37",
       "direction": "-"
     },
     "_13_wk_chg": {
-      "value": "20,00",
+      "value": "27,27",
       "direction": "-"
     },
     "_26_wk_chg": {
-      "value": "25,00",
+      "value": "28,57",
       "direction": "-"
     },
     "_52_wk_chg": {
-      "value": "55,56",
+      "value": "40,35",
       "direction": "+"
     },
     "npm": "0,85",
     "mtd": {
-      "value": "6,67",
+      "value": "11,11",
       "direction": "-"
     },
     "ytd": {
-      "value": "16,83",
+      "value": "20,79",
       "direction": "-"
     }
   },
-  "scraped_at": "2026-05-14T08:43:45.125Z"
+  "scraped_at": "2026-05-19T04:11:49.069Z"
 }
